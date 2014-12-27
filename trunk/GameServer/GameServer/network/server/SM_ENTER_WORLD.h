@@ -1,0 +1,112 @@
+////////////////////////////////////////////////
+// Authors: Tahoma
+////////////////////////////////////////////////
+#ifndef _SM_ENTER_WORLD_H_
+#define _SM_ENTER_WORLD_H_
+
+void SM_ENTER_WORLD(PACKET* pck)
+{
+	pck->CreateBufForSend();
+	pck->writeW(0);
+	pck->writeD(0x80089c21);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x42893333);
+	pck->writeD(0x42426666);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x50e00000);
+	pck->writeD(0x40e00000);
+	pck->writeD(0x42ce0a3d);
+	pck->writeD(0x42a40a3d);
+	pck->writeD(0x3f77357e);
+	pck->writeD(0x3f79003f);
+	pck->writeD(0x3da5e355);
+	pck->writeD(0x3d1374bd);
+	pck->writeD(0x42c63d71);
+	pck->writeD(0);
+	pck->writeD(0x42c64c71);
+	pck->writeD(0);
+	pck->writeD(0x3fa28f5c);
+	pck->writeD(0);
+	pck->writeD(0x3eb851ec);
+	pck->writeD(0x41000000);
+	pck->writeD(0x40c00000);
+	pck->writeD(0x40e00000);
+	pck->writeD(0x41000000);
+	pck->writeD(0x41000000);
+	pck->writeD(0x40000000);
+	pck->writeD(0x40000000);
+	pck->writeD(0x43940000);
+	pck->writeD(0x43480000);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x42c80000);
+	pck->writeD(0x447a0000);
+	pck->writeD(0x447a0000);
+	pck->writeD(0x447a0000);
+	pck->writeD(0x447a0000);
+	pck->writeD(0x40a00000);
+	pck->writeD(0x40000000);
+	pck->writeD(0x3f800000);
+	pck->writeD(0x3f800000);
+	pck->writeD(0);
+	pck->writeD(0x447a0000);
+	pck->writeD(0x41700000);
+	pck->writeD(0x41200000);
+	pck->writeD(0x3da0a0a1);
+	pck->writeD(0x3da0a0a1);
+	pck->writeD(0x3f8dd2f2);
+	pck->writeD(0x3e1374bc);
+	pck->writeD(0x40c00000);
+	pck->writeD(0x41000000);
+	pck->writeD(0x42000000);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x43940000);
+	pck->writeD(0x43480000);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x447a0000);
+	pck->writeD(0);
+	pck->writeD(0x42c80000);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(1);
+	pck->writeD(1);
+	pck->writeD(0);
+	pck->writeD(0xb);
+	pck->writeD(0xffffffff);
+	pck->writeD(1);
+	pck->writeD(0);
+	pck->PackSend(OPCODE_SM_ENTER_WORLD);
+}
+
+#endif
+
+
