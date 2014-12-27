@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol checksumSize="0" crypt="AionGame" name="iemu_game" packetbuffer="DefaultPacketBuffer" port="6001" sizebytes="2" strictlength="true">
+	<packetfamilly switchtype="h" way="ServerPackets">
+		<packet id="0x0165" name="SM_PONG">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x0710" name="SM_MOVE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0210" name="SM_MOUSEMOVE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x440e" name="SM_UNK1">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x020e" name="SM_UNK2">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+		</packet>
+		<packet id="0x8c0f" name="SM_UNK3">
+			<part name="cryptflag" type="h"/>
+			<part name="unk_param" type="c"/>
+			<part name="0x01" type="c"/>
+		</packet>
+		<packet id="0xfe0e" name="SM_UNK4">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+			<part name="unk5" type="d"/>
+			<part name="unk6" type="d"/>
+			<part name="unk7" type="d"/>
+		</packet>
+		<packet id="0xfb0e" name="SM_DISCONNECT">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+		</packet>
+		<packet id="0x330e" name="SM_SETAREA">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="char_id" type="d"/>
+			<part name="charname" type="b" size="20"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+			<part name="unk5" type="d"/>
+			<part name="unk6" type="c"/>
+			<part name="unk7" type="c"/>
+			<part name="cls" type="c"/>
+			<part name="sex" type="c"/>
+			<part name="unk8" type="d"/>
+			<part name="unk9" type="d"/>
+			<part name="unk10" type="d"/>
+			<part name="lvl" type="h"/>
+			<part name="unk11" type="h"/>
+			<part name="unk12" type="d"/>
+			<part name="unk13" type="h"/>
+			<part name="unk14" type="c"/>
+			<part name="unk15" type="c"/>
+			<part name="unk16" type="c"/>
+			<part name="unk17" type="c"/>
+			<part name="unk18" type="h"/>
+			<part name="unk19 == 0" type="d"/>
+			<part name="pos_x" type="f"/>
+			<part name="pos_y" type="f"/>
+			<part name="pos_z" type="f"/>
+			<part name="rotate" type="f"/>
+			<part name="unk24" type="d"/>
+			<part name="unk25" type="d"/>
+			<part name="unk26" type="d"/>
+			<part name="unk27" type="d"/>
+			<part name="unk28" type="d"/>
+			<part name="unk29" type="d"/>
+			<part name="unk30" type="d"/>
+			<part name="unk31" type="d"/>
+			<part name="unk32" type="d"/>
+			<part name="unk33" type="d"/>
+			<part name="unk34" type="d"/>
+			<part name="unk35" type="d"/>
+			<part name="unk36" type="d"/>
+			<part name="unk37" type="d"/>
+			<part name="unk38" type="d"/>
+			<part name="unk39" type="d"/>
+			<part name="unk40" type="d"/>
+			<part name="unk41" type="d"/>
+			<part name="unk42" type="d"/>
+			<part name="unk43" type="d"/>
+			<part name="unk44" type="d"/>
+			<part name="unk45" type="d"/>
+			<part name="unk46" type="d"/>
+			<part name="unk47" type="d"/>
+			<part name="area" type="b" size="24"/>
+			<part name="unk48" type="d"/>
+			<part name="unk49" type="d"/>
+		</packet>
+		<packet id="0x3a0e" name="SM_QUESTLIST">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+			<part name="unk5" type="d"/>
+			<part name="unk6" type="d"/>
+			<part name="unk7" type="d"/>
+		</packet>
+		<packet id="0x230f" name="SM_UNK5">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x3d0e" name="SM_UNK7">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x470e" name="SM_UNK8">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x8e0e" name="SM_UNK9">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x910e" name="SM_UNK10">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0xd30e" name="SM_UNK11">
+			<part name="cryptflag" type="h"/>
+			<part name="0x00" type="d"/>
+		</packet>
+		<packet id="0x350e" name="SM_UNK12">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="c"/>
+			<part name="for" type="h" id="0"/>
+			<part name="unk3" type="c"/>
+				<for id="0">
+					<part name="id_char" type="d"/>
+					<part name="num" type="d"/>
+					<part name="unk1" type="h"/>
+					<part name="unk2" type="h"/>
+					<part name="unk3" type="d"/>
+					<part name="unk4" type="d"/>
+					<part name="unk5" type="h"/>
+					<part name="unk6" type="h"/>
+				</for>
+		</packet>
+		<packet id="0x053d" name="SM_UNK13">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+		</packet>
+		<packet id="0xcc0e" name="SM_UNK14">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0xcd0e" name="SM_UNK15">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0x980e" name="SM_UNK16">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+		</packet>
+		<packet id="0xa10e" name="SM_UNK17">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+		</packet>
+		<packet id="0x650e" name="SM_UNK18">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+		</packet>
+		<packet id="0x010f" name="SM_ENTER_WORLD">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x020f" name="SM_UNK20">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0x030f" name="SM_UNK21">
+			<part name="cryptflag" type="h"/>
+			<part name="for" type="c" id="0"/>
+				<for id="0">
+					<part name="unk" type="h"/>
+				</for>
+		</packet>
+		<packet id="0x1b10" name="SM_GAMEOBJECT_SPAWN">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="spawn_id" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="pos_x" type="f"/>
+			<part name="pos_y" type="f"/>
+			<part name="pos_z" type="f"/>
+			<part name="rotate" type="f"/>
+			<part name="animation?" type="d"/>
+			<part name="unk9" type="d"/>
+			<part name="type" type="d"/>
+			<part name="unk11" type="d"/>
+			<part name="level" type="d"/>
+			<part name="unk13" type="d"/>
+			<part name="unk14" type="d"/>
+			<part name="unk15" type="d"/>
+			<part name="unk16" type="d"/>
+			<part name="unk17" type="d"/>
+			<part name="unk18" type="d"/>
+			<part name="unk19" type="d"/>
+			<part name="unk20" type="d"/>
+			<part name="unk21" type="d"/>
+			<part name="unk22" type="d"/>
+			<part name="unk23" type="d"/>
+			<part name="unk24" type="d"/>
+			<part name="unk25" type="d"/>
+			<part name="unk26" type="d"/>
+			<part name="unk27" type="d"/>
+			<part name="unk28" type="d"/>
+			<part name="unk29" type="d"/>
+			<part name="unk30" type="d"/>
+			<part name="unk31" type="d"/>
+			<part name="unk32" type="d"/>
+			<part name="unk33" type="d"/>
+			<part name="unk34" type="d"/>
+			<part name="unk35" type="d"/>
+			<part name="unk36" type="d"/>
+			<part name="unk37" type="d"/>
+			<part name="unk38" type="d"/>
+			<part name="unk39" type="d"/>
+			<part name="unk40" type="d"/>
+			<part name="unk41" type="d"/>
+			<part name="unk42" type="d"/>
+			<part name="unk43" type="d"/>
+			<part name="unk44" type="d"/>
+			<part name="unk45" type="d"/>
+			<part name="unk46" type="d"/>
+			<part name="unk47" type="d"/>
+			<part name="unk48" type="d"/>
+			<part name="unk49" type="d"/>
+			<part name="unk50" type="d"/>
+			<part name="unk51" type="d"/>
+			<part name="unk52" type="d"/>
+			<part name="unk53" type="d"/>
+			<part name="unk54" type="d"/>
+			<part name="unk55" type="d"/>
+			<part name="unk56" type="d"/>
+			<part name="unk57" type="d"/>
+			<part name="unk58" type="d"/>
+			<part name="unk59" type="d"/>
+			<part name="unk60" type="d"/>
+			<part name="unk61" type="d"/>
+			<part name="unk62" type="d"/>
+			<part name="unk63" type="d"/>
+			<part name="unk64" type="d"/>
+			<part name="unk65" type="d"/>
+			<part name="unk66" type="d"/>
+			<part name="unk67" type="d"/>
+			<part name="unk68" type="d"/>
+			<part name="unk69" type="d"/>
+			<part name="unk70" type="d"/>
+			<part name="unk71" type="d"/>
+			<part name="unk72" type="d"/>
+			<part name="unk73" type="d"/>
+			<part name="unk74" type="d"/>
+			<part name="unk75" type="d"/>
+			<part name="unk76" type="d"/>
+			<part name="unk77" type="d"/>
+			<part name="unk78" type="d"/>
+			<part name="unk79" type="d"/>
+			<part name="unk80" type="d"/>
+			<part name="unk81" type="d"/>
+			<part name="unk82" type="d"/>
+			<part name="unk83" type="d"/>
+			<part name="unk84" type="d"/>
+			<part name="unk85" type="d"/>
+			<part name="unk86" type="d"/>
+			<part name="unk87" type="d"/>
+			<part name="unk88" type="d"/>
+			<part name="unk89" type="d"/>
+			<part name="unk90" type="d"/>
+			<part name="unk91" type="d"/>
+			<part name="unk92" type="d"/>
+			<part name="unk93" type="d"/>
+			<part name="unk94" type="d"/>
+			<part name="unk95" type="d"/>
+			<part name="unk96" type="d"/>
+			<part name="unk97" type="d"/>
+			<part name="unk98" type="d"/>
+			<part name="unk99" type="d"/>
+			<part name="unk100" type="d"/>
+			<part name="unk101" type="d"/>
+			<part name="unk102" type="d"/>
+			<part name="unk103" type="d"/>
+			<part name="unk104" type="d"/>
+			<part name="unk105" type="d"/>
+
+		</packet>
+		<packet id="0x013f" name="SM_UNK23">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+			<part name="unk5" type="d"/>
+			<part name="unk6" type="d"/>
+		</packet>
+		<packet id="0xd50e" name="SM_UNK24">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0x2018" name="SM_UNK25">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x2318" name="SM_UNK26">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x3218" name="SM_UNK27">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x210f" name="SM_UNK28">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x033f" name="SM_UNK29">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+		</packet>
+		<packet id="0x2a1d" name="SM_UNK30">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0x2b1d" name="SM_UNK31">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0x033d" name="SM_UNK32">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0xa113" name="SM_UNK33">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x043d" name="SM_UNK34">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x9b13" name="SM_UNK35">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x023d" name="SM_UNK36">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0310" name="SM_UNK_0310">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="for" type="d" id="0"/>
+				<for id="0">
+					<part name="unk1" type="d"/>
+					<part name="unk2" type="d"/>
+					<part name="unk3" type="d"/>
+				</for>
+		</packet>
+		<packet id="0xf30e" name="SM_UNK38">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x4c0e" name="SM_UNK39">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x9913" name="SM_UNK40">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0227" name="SM_UNK_0227">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x610e" name="SM_UNK_610e">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="for" type="h" id="0"/>
+				<for id="0">
+					<part name="unk" type="d"/>
+				</for>
+			<part name="unk2" type="h"/>
+		</packet>
+		<packet id="0x380e" name="SM_UNK_380e">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x6e0e" name="SM_UNK_6e0e">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>				
+		</packet>
+	</packetfamilly>
+
+
+
+
+
+	<packetfamilly switchtype="h" way="ClientPackets">
+		<packet id="0x0165" name="CM_PING">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x0810" name="CM_JUMP">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0610" name="CM_MOVE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0310" name="CM_INVENTAR">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0118" name="CM_EMOTION">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x640f" name="CM_TARGET">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0410" name="CM_MOUSEMOVE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0110" name="CM_MOUSEMOVESTOP">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0b18" name="CM_USESKILL1">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0312" name="CM_USE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x021b" name="CM_ENDMOVIE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0c10" name="CM_FLY">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0111" name="CM_CHAT">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x920e" name="CM_EXIT">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0xf20e" name="CM_EXIT">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x2618" name="CM_UNK1">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0512" name="CM_USE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0412" name="CM_USE1">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x2218" name="CM_NPCATTACK">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x011d" name="CM_FRIENDSLIST">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0xfa0e" name="CM_DISCONNECT">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x0406" name="CM_SHOP">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0a06" name="CM_SHOPSETGROUP">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x8f0e" name="CM_HELP">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x3c15" name="CM_PARTYBOARD">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x010e" name="CM_CONNECT">
+			<part name="cryptflag" type="h"/>
+			<part name="char_id" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="0x3000" type="h"/>
+			<part name="0xb2b4" type="h"/>
+		</packet>
+		<packet id="0xfd0e" name="CM_UNK2">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x320e" name="CM_GETAREA">
+			<part name="cryptflag" type="h"/>
+			<part name="0xB2" type="c"/>
+		</packet>
+		<packet id="0x390e" name="CM_QUESTLIST">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x3c0e" name="CM_UNK4">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x460e" name="CM_UNK5">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x8d0e" name="CM_UNK6">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x900e" name="CM_UNK7">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0xd20e" name="CM_UNK8">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0xcb0e" name="CM_UNK9">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x970e" name="CM_UNK10">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0xa00e" name="CM_UNK11">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x640e" name="CM_UNK12">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x291d" name="CM_UNK13">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x013d" name="CM_UNK14">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x4e0e" name="CM_UNK15">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x340e" name="CM_UNK16">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x0a2b" name="CM_UNK17">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x360e" name="CM_UNK18">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x410e" name="CM_UNK19">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x3f0e" name="CM_UNK20">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x4a0e" name="CM_UNK21">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x0127" name="CM_UNK22">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0x600e" name="CM_UNK23">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x620e" name="CM_UNK24">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x1406" name="CM_UNK25">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x2013" name="CM_UNK26">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x013c" name="CM_UNK27">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x013e" name="CM_UNK28">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x1f10" name="CM_UNK29">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+		</packet>
+		<packet id="0x6e0e" name="CM_UNK_6e0e">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x5120" name="CM_UNK_5120">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+	</packetfamilly>
+</protocol>
