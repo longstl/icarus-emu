@@ -69,9 +69,6 @@
     <ClInclude Include="network\server\SM_LOBBYUSERMSG.h">
       <Filter>CS\network\server</Filter>
     </ClInclude>
-    <ClInclude Include="network\server\SM_PIN.h">
-      <Filter>CS\network\server</Filter>
-    </ClInclude>
     <ClInclude Include="network\server\SM_PONG.h">
       <Filter>CS\network\server</Filter>
     </ClInclude>
@@ -97,6 +94,18 @@
       <Filter>CS\network</Filter>
     </ClInclude>
     <ClInclude Include="resource.h" />
+    <ClInclude Include="network\server\SM_DISCONNECT.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_PIN.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_RESTORE_CONNECTION.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_RESTORE_CONNECTION.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CS">

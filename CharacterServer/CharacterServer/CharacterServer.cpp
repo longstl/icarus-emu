@@ -19,7 +19,6 @@
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
 	EnterCriticalSection(&gCS);
-	CHARACTER* tmp_char;
 	THREAD_STRUCT* th_struct = (THREAD_STRUCT*)Param;
 	PACKET* pck = new PACKET(th_struct);
 	th_struct->character = new CHARACTER[max_characters+1];
@@ -54,18 +53,109 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 }
 
 
+DWORD WINAPI InnerThread(LPVOID Param)
+{
+	int tmp = 0;
+	int retVal = 0;
+	char packet[256];
+	LPHOSTENT hostEnt;
+	CHARACTERSERVER_INFO c_info;
+
+	c_info.id = gameserver_id;
+	c_info.ip = inet_addr(accountserver_ip);
+	c_info.port = accountserver_port;
+
+	hostEnt = gethostbyname(inner_ip);
+	SOCKET lsSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
+	if (lsSock == SOCKET_ERROR)
+	{
+		log::Error(fg, "InnerThread: Unable to create socket.\n");
+		return false;
+	}
+
+	SOCKADDR_IN serverInfo;
+	serverInfo.sin_family = PF_INET;
+	serverInfo.sin_addr = *((LPIN_ADDR)*hostEnt->h_addr_list);
+	serverInfo.sin_port = htons(inner_port);
+	retVal = connect(lsSock, (LPSOCKADDR)&serverInfo, sizeof(serverInfo));
+	if (retVal == SOCKET_ERROR)
+	{
+		log::Error(fg, "InnerThread: Unable to connect\n");
+		closesocket(lsSock);
+		Sleep(5000);
+		InnerThread(NULL);
+		return false;
+	}
+
+	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	log::Info(fg, "InnerThread: Connected succesful.\n");
+
+	uint16 opcode = 1;
+
+	int status = 0;
+
+	while (true)
+	{
+		switch (status)
+		{
+		case 0:
+			packet[0] = 2;
+			packet[1] = 0x11;
+			packet[2] = c_info.id;
+			retVal = send(lsSock, packet, 3, 0);
+			if (retVal == SOCKET_ERROR) {
+				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+				closesocket(lsSock);
+				Sleep(5000);
+				InnerThread(NULL);
+				return 0;
+			}
+			else
+			{
+				log::Info(fg, "InnerThread: Connected.\n");
+			}
+			status = 1;
+			break;
+
+		case 1:
+			packet[0] = 2;
+			packet[1] = 0x13;
+			//			memcpy(&packet[0], reinterpret_cast<uint8*>(&opcode), sizeof(opcode));
+			memcpy(&packet[2], &c_info, sizeof(CHARACTERSERVER_INFO));
+
+			retVal = send(lsSock, packet, sizeof(CHARACTERSERVER_INFO) + 2, 0);
+			if (retVal == SOCKET_ERROR) {
+				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+				closesocket(lsSock);
+				Sleep(5000);
+				InnerThread(NULL);
+				return 0;
+			}
+			Sleep(2000 * 60);
+			break;
+		}
+		Sleep(1000);
+	}
+	return 0;
+}
 
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+	int err;
+	u_long iMode = 1;
+	const char on = 1;
+	wVersionRequested = MAKEWORD(2, 2);
+	WSAStartup(wVersionRequested, &wsaData);
+
+	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	fg = log::Init();
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
 	log::Notify(fg, "# Character Server v0.30        #\n");
 	log::Notify(fg, "# Client version: 1.5.48        #\n");
-	log::Notify(fg, "# Client time: 09:59 16.12.2014 #\n");
+	log::Notify(fg, "# Client time: 23:15 22.12.2014 #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////
@@ -83,6 +173,7 @@ int _tmain(int argc, _TCHAR* argv[])
 		return -1;
 	}
 
+	gameserver_id = cfg->lookupInt("", "gameserver_id", 0);
 	db_host = cfg->lookupString("", "db_host", "127.0.0.1");
 	db_user = cfg->lookupString("", "db_user", "root");
 	db_pass = cfg->lookupString("", "db_pass", "password");
@@ -98,10 +189,17 @@ int _tmain(int argc, _TCHAR* argv[])
 	else
 		use_pin_code = false;
 
+	inner_ip = cfg->lookupString("", "inner_ip", "127.0.0.1");		// ip address inner
+	inner_port = cfg->lookupInt("", "inner_port", 5600);			// inner port
+
 	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	log::Notify(fg, "Succesful\n");
 	//-------------------------------------------------------------
 
+	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	log::Notify(fg, "GameServer ID \t\t\t");
+	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	log::Notify(fg, "%d\n", gameserver_id);
 
 	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
 	log::Notify(fg, "Connect to Mysql... \t\t");
@@ -122,12 +220,6 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	InitializeCriticalSection(&gCS);
 
-	int err;
-	u_long iMode = 1;
-	const char on = 1;
-	wVersionRequested = MAKEWORD(2, 2);
-	WSAStartup(wVersionRequested, &wsaData);
-
 	s = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
 	setsockopt(s, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(on));
 	err = ioctlsocket(s, FIONBIO, &iMode);
@@ -140,6 +232,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	err = listen(s, SOMAXCONN);
 
 	int fromlen;
+
+	// Запуск внутреннего обмена
+	CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)InnerThread, NULL, NULL, NULL);
 
 	while (true)
 	{			

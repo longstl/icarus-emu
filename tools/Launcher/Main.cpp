@@ -131,7 +131,7 @@ bool StartGame()
 
 	if (strlen(szResponse+4) > 30)
 	{
-		sprintf(startparam, "/i:%s /r:1098935 /O /u:0000002 /m:P", szResponse + 4);
+		sprintf(startparam, "/i:%s /r:1158563 /O /u:5223139 /m:P", szResponse + 4);
 		return true;
 	}
 	else

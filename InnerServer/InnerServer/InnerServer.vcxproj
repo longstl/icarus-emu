@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D9E26DD0-FFAF-4755-8AC6-886559763263}</ProjectGuid>
+    <ProjectGuid>{D9E26DD0-FFAF-4755-8AC6-886559763264}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>LoginServer</RootNamespace>
-    <ProjectName>CharacterServer</ProjectName>
+    <RootNamespace>GameServer</RootNamespace>
+    <ProjectName>InnerServer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -81,48 +81,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="common\database.h" />
     <ClInclude Include="common\logger.h" />
     <ClInclude Include="defines.h" />
-    <ClInclude Include="CharacterServer.h" />
-    <ClInclude Include="game_structs.h" />
-    <ClInclude Include="network\client\CM_CHECKCHARACTERNAME.h" />
-    <ClInclude Include="network\client\CM_CONNECT.h" />
-    <ClInclude Include="network\client\CM_CREATECHARACTER.h" />
-    <ClInclude Include="network\client\CM_DELETECHARACTER.h" />
-    <ClInclude Include="network\client\CM_DISCONNECT.h" />
-    <ClInclude Include="network\client\CM_CHARACTERLIST.h" />
-    <ClInclude Include="network\client\CM_PING.h" />
-    <ClInclude Include="network\client\CM_PIN.h" />
-    <ClInclude Include="network\client\CM_RESTORE_CONNECTION.h" />
-    <ClInclude Include="network\client\CM_STARTGAME.h" />
-    <ClInclude Include="network\client\CM_UNK1.h" />
-    <ClInclude Include="network\client\CM_UNK2.h" />
-    <ClInclude Include="network\inc_opcodes.h" />
-    <ClInclude Include="network\opcodes.h" />
-    <ClInclude Include="network\packet.h" />
-    <ClInclude Include="network\server\SM_CREATECHARACTER.h" />
-    <ClInclude Include="network\server\SM_DELETECHARACTER.h" />
-    <ClInclude Include="network\server\SM_DISCONNECT.h" />
-    <ClInclude Include="network\server\SM_GETPIN.h" />
-    <ClInclude Include="network\server\SM_LOBBYUSERMSG.h" />
-    <ClInclude Include="network\server\SM_CONNECT.h" />
-    <ClInclude Include="network\server\SM_CHARACTERLIST_RESPONSE.h" />
-    <ClInclude Include="network\server\SM_PIN.h" />
-    <ClInclude Include="network\server\SM_PONG.h" />
-    <ClInclude Include="network\server\SM_RESTORE_CONNECTION.h" />
-    <ClInclude Include="network\server\SM_STARTGAME.h" />
-    <ClInclude Include="network\server\SM_UNK1.h" />
+    <ClInclude Include="InnerServer.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="resource1.h" />
     <ClInclude Include="Settings.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="structs.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="common\database.cpp" />
-    <ClCompile Include="CharacterServer.cpp" />
-    <ClCompile Include="network\packet.cpp" />
+    <ClCompile Include="InnerServer.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
@@ -132,7 +102,7 @@
     <ResourceCompile Include="Resource.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="CS.ico" />
+    <Image Include="inner.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

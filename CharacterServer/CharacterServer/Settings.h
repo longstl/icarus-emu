@@ -7,6 +7,7 @@
 #include <config4cpp\Configuration.h>
 using namespace config4cpp;
 
+int					gameserver_id;
 const char*			accountserver_ip;// [] = "127.000.000.001";
 int					accountserver_port = 5695;
 const char*			gameserver_ip;
@@ -20,6 +21,9 @@ const char*			db_user;
 const char*			db_pass;
 const char*			db_name;
 
+// Inner
+const char*			inner_ip;
+int					inner_port;
 
 
 ///////////////////////////////////////////////////////////////////////////////

@@ -5,12 +5,6 @@
 #define _LAUNCHER_SERVER_H_
 
 #include <config4cpp\Configuration.h>
-#include "network/packet.h"
-#include "network/opcodes.h"
-
-using namespace OPCODES;
-
-#include "AI\ai.h"
 
 using namespace config4cpp;
 
@@ -28,8 +22,8 @@ HANDLE				hConsole;
 
 FILE*				fg;				// Хэндл файла для логера
 
-DATABASE*			mysql;
-ALL_PLAYERS*		allplayers;
-AI*					server;
+GAMESERVER_INFO		gs_info[32];
+CHARACTERSERVER_INFO cs_info[32];
+
 
 #endif _LAUNCHER_SERVER_H_
