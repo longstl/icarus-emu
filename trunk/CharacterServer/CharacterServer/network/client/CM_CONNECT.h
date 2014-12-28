@@ -9,8 +9,8 @@ void CM_CONNECT(PACKET* pck)
 {
 	uint16 unk1 = pck->readUW();
 	uint32 unk2 = pck->readUD();
-	uint16 unk3 = pck->readUW();
-	account->account_id = pck->readUW();
+//	uint16 unk3 = pck->readUW();
+	account->account_id = pck->readUD();
 	uint32 unk4 = pck->readUD();
 	uint32 unk5 = pck->readUD();
 	log::Info(fg, "CSNetwork [%s]: user connect (account id: %d)\n", inet_ntoa(account->from), account->account_id);

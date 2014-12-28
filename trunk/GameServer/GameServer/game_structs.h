@@ -62,6 +62,14 @@ enum ACCESS_CHARACTER {
 	ACCESS_CHARACTER_ADMINISTRATOR = 2
 };
 
+enum CHARACTER_STATUS {
+	STATUS_NONE,
+	STATUS_CONNECT,
+	STATUS_SM_UNK3,
+	STATUS_GETAREA,
+	STATUS_GETINFO
+};
+
 typedef struct CHARACTER
 {
 	uint32			id;
@@ -75,6 +83,7 @@ typedef struct CHARACTER
 	float			pos_z;
 	float			rotate;
 	ACCESS_CHARACTER access;
+	int				status;
 
 } CHARACTER;
 

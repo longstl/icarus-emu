@@ -16,9 +16,6 @@ int					gameserver_port = 6001;
 const char*			inner_ls_ip;
 int					inner_ls_port = 5600;
 int					refresh_server_info;
-const char*			cs_ip;
-int					cs_port = 5695;
-
 
 // MySQL connect
 const char*			db_host;
@@ -82,9 +79,6 @@ bool LoadSettings(SETTINGS* settings)
 	inner_ls_port = cfg->lookupInt("", "inner_ls_port", 5600);
 	refresh_server_info = cfg->lookupInt("", "refresh_server_info", 5) * 1000;	// в секундах
 	
-	cs_ip = cfg->lookupString("", "cs_ip", "127.0.0.1");
-	cs_port = cfg->lookupInt("", "cs_port", 5695);
-
 	max_players = cfg->lookupInt("", "max_players", 1000);			// max players
 	max_time_for_disconnect = cfg->lookupInt("", "max_time_for_disconnect", 5) * 1000 * 60;			// max_time_for_disconnect
 

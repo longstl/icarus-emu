@@ -6,26 +6,27 @@
 #include "stdafx.h"
 #include "defines.h"
 #include "game_structs.h"
-#include "common\database.h"
+#include "common/database.h"
 #include "structs.h"
-#include "common\logger.h"
+#include "common/logger.h"
 #include "Settings.h"
 #include "GameServer.h"
 
-#include "network\packet.h"
-#include "network\opcodes.h"
-
-#include "AI\ai.h"
 
 
+
+//================================================================================
+// Нить обрабтки пакетов принятых от клиента
+//
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
-	
 	THREAD_SEND* send = (THREAD_SEND*)Param;
 	send->player->pck = new PACKET(send->player->socket, &send->player->character, (DATABASE*)send->sys.mysql, send->sys.fg, &send->player->ping_time);
 	PACKET* pck = (PACKET*)send->player->pck;
 	log::Info(fg, "Connect: %s\n", inet_ntoa(send->player->from));
 	pck->me->id = 0;
+	pck->me->status = STATUS_NONE;
+
 	InitializeCriticalSection(&send->player->gCSp);
 
 	while (pck->isconndected)
@@ -68,7 +69,7 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 				log::Notify(fg, "\n");
 				// --DEBUG
 				*/
-				opcodes(pck);
+				OPCODES::opcodes(pck);
 			} while (pck->NextPacket());
 		}		
 		LeaveCriticalSection(&send->player->gCSp);
@@ -85,7 +86,9 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	
 }
 
-
+//================================================================================
+// Нить посылающая пинги до клиента. Если молчит, разрываем соединение
+//
 DWORD WINAPI WinSockPing(LPVOID Param)
 {
 	ALL_PLAYERS* players = (ALL_PLAYERS*)Param;
@@ -98,7 +101,7 @@ DWORD WINAPI WinSockPing(LPVOID Param)
 				EnterCriticalSection(&players[i].gCSp);
 
 				PACKET* pck = (PACKET*)players[i].pck;
-				SM_PONG(pck);
+				OPCODES::SM_PONG(pck);
 				time_t rawTime;
 				time(&rawTime);
 				int time = rawTime - players[i].ping_time;
@@ -111,15 +114,33 @@ DWORD WINAPI WinSockPing(LPVOID Param)
 				LeaveCriticalSection(&players[i].gCSp);
 			}
 		}
-		Sleep(2500);
+		Sleep(5000);
 	}
 }
 
-DWORD WINAPI InnerLS(LPVOID Param)
+//================================================================================
+// Основная нить сервера
+//
+DWORD WINAPI AIMainThread(LPVOID Param)
+{
+	AI* ai = (AI*)Param;
+
+	while (true)
+	{
+		ai->Frame();
+		Sleep(100);
+	}
+	
+	return 0;
+
+}
+
+DWORD WINAPI InnerThread(LPVOID Param)
 {
 	int tmp = 0;
 	int retVal = 0;
 	char packet[256];
+	time_t rawTime;
 	LPHOSTENT hostEnt;
 	GAMESERVER_INFO	g_info;
 
@@ -130,7 +151,7 @@ DWORD WINAPI InnerLS(LPVOID Param)
 	SOCKET lsSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
 	if (lsSock == SOCKET_ERROR)
 	{
-		log::Error(fg, "InnerLS: Unable to create socket.\n");
+		log::Error(fg, "InnerThread: Unable to create socket.\n");
 		return false;
 	}
 
@@ -141,57 +162,90 @@ DWORD WINAPI InnerLS(LPVOID Param)
 	retVal = connect(lsSock, (LPSOCKADDR)&serverInfo, sizeof(serverInfo));
 	if (retVal == SOCKET_ERROR)
 	{
-		log::Error(fg, "InnerLS: Unable to connect\n");
+		log::Error(fg, "InnerThread: Unable to connect\n");
 		closesocket(lsSock);
 		Sleep(5000);
-		InnerLS(NULL);
+		InnerThread(NULL);
 		return false;
 	}
 
 	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	log::Info(fg, "InnerLS: Connected succesful.\n");
+	log::Info(fg, "InnerThread: Connected succesful.\n");
 
 	uint16 opcode = 1;
 
+	int status = 0;
+
 	while (true)
 	{
-		time_t rawTime;
-		time(&rawTime);
-
-		tmp = 0;
-		g_info.id = (uint8)id_server;
-
-		for (int i = 0; i < max_players; i++)
+		switch (status)
 		{
-			if (allplayers[i].status)
-				++tmp;
+		case 0:
+			packet[0] = 3;
+			packet[1] = 0x11;
+			packet[2] = id_server;
+			retVal = send(lsSock, packet, 3, 0);
+			if (retVal == SOCKET_ERROR) {
+				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+				closesocket(lsSock);
+				Sleep(5000);
+				InnerThread(NULL);
+				return 0;
+			}
+			else
+			{
+				log::Info(fg, "InnerThread: Connected.\n");
+			}
+			status = 1;
+			break;
+
+		case 1:
+			time(&rawTime);
+			tmp = 0;
+			g_info.id = (uint8)id_server;
+			for (int i = 0; i < max_players; i++)
+			{
+				if (allplayers[i].status)
+					++tmp;
+			}
+			g_info.players_connected = tmp;
+			g_info.players_max = max_players;
+			g_info.status = technical_works;
+			g_info.timeupdate = rawTime;
+
+			packet[0] = 3;
+			packet[1] = 0x13;
+			memcpy(&packet[3], &g_info, sizeof(GAMESERVER_INFO));
+
+			retVal = send(lsSock, packet, sizeof(GAMESERVER_INFO) + 3, 0);
+			if (retVal == SOCKET_ERROR) {
+				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+				closesocket(lsSock);
+				Sleep(5000);
+				InnerThread(NULL);
+				return 0;
+			}
+			Sleep(refresh_server_info);
+			break;
 		}
-
-		g_info.players_connected = tmp;
-		g_info.players_max = max_players;
-		g_info.status = technical_works;
-		g_info.timeupdate = rawTime;
-		g_info.cs_ip = inet_addr(cs_ip);
-		g_info.cs_port = cs_port;
-
-		memcpy(&packet[0], reinterpret_cast<uint8*>(&opcode), sizeof(opcode));
-		memcpy(&packet[2], &g_info, sizeof(GAMESERVER_INFO));
-
-		retVal = send(lsSock, packet, sizeof(GAMESERVER_INFO)+2, 0);
-		if (retVal == SOCKET_ERROR) {
-			log::Error(fg, "InnerLS: Disconnect.\n", WSAGetLastError());
-			closesocket(lsSock);
-			Sleep(5000);
-			InnerLS(NULL);
-			return 0;
-		}
-		Sleep(refresh_server_info);
+		Sleep(1000);
 	}
 	return 0;
 }
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	char aaa[] = { 0x90, 0xE2, 0x56, 0x13, 0x00, 0x6E, 0x4D, 0xB1, 0xCB, 0x30, 0x00, 0x00, 0x00 };
+	int step_xor_key = 0;
+	char xor_key[] = { 0xb1, 0xe1, 0xd2, 0xc4, 0x4a, 0x2f, 0x6b, 0x22 };
+	for (int i = 0; i < sizeof(aaa); i++)
+	{
+		aaa[i ] ^= xor_key[step_xor_key];
+		++step_xor_key;
+		if (step_xor_key == sizeof(xor_key))
+			step_xor_key = 0;
+	}
+
 	int err;
 	u_long iMode = 1;
 	const char on = 1;
@@ -202,55 +256,55 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 	fg = log::Init();
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
 	log::Notify(fg, "# Game Server v0.01             #\n");
 	log::Notify(fg, "# Client version: 1.5.48        #\n");
-	log::Notify(fg, "# Client time: 09:59 16.12.2014 #\n");
+	log::Notify(fg, "# Client time: 23:15 22.12.2014 #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////
 	// Загрузка конфигурации
 	///////////////////////////////////////////////////////////////
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Load Settings... \t\t");
 
 	if (!LoadSettings(&settings))
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+		COLOR_RL
 		log::Notify(fg, "Fail\n");
 		return -1;
 	}
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "Succesful\n");
 //--------------------------------------------------------------------------------------------------------------------------
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Connect to Mysql... \t\t");
 	mysql = new DATABASE(fg, (char*)db_host, (char*)db_user, (char*)db_pass, (char*)db_name);
 	if (mysql->IsError())
 		return -1;
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "Succesful\n");
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Max players... \t\t\t");
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "%d\n", max_players);
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "ID server... \t\t\t");
 	if (id_server > 12)
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+		COLOR_RL
 		log::Notify(fg, "Fail\n");
 		return -1;
 	}
 	else
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+		COLOR_GL
 		log::Notify(fg, "%d\n", id_server);
 	}
 
@@ -266,15 +320,17 @@ int _tmain(int argc, _TCHAR* argv[])
 	///////////////////////////////////////////////////////////////
 
 
-	server = new AI();
+	// Запуск основной нити сервера
+	server = new AI(fg, mysql, allplayers, max_players);
+	CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)AIMainThread, server, NULL, NULL);
 
 	// Запуск слежения за состояниями соединений игроков
 	CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)WinSockPing, allplayers, NULL, NULL);
 //--------------------------------------------------------------------------------------------------------------------------
-
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "\nServer is running. (%s:%d)\n", gameserver_ip, gameserver_port);
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
+//--------------------------------------------------------------------------------------------------------------------------
 
 	s = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
 	setsockopt(s, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(on));
@@ -287,8 +343,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	err = bind(s, (LPSOCKADDR)&sin, sizeof(sin));
 	err = listen(s, SOMAXCONN);
 	
-	// Запуск внутреннего обмена с LS
-	CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)InnerLS, NULL, NULL, NULL);
+	// Запуск внутреннего обмена
+	CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)InnerThread, NULL, NULL, NULL);
 
 	int fromlen;
 	while (true)
@@ -302,7 +358,6 @@ int _tmain(int argc, _TCHAR* argv[])
 					THREAD_SEND* send = new THREAD_SEND;
 					send->sys.fg = fg;
 					send->sys.mysql = mysql;
-
 					send->player = &allplayers[i];
 					send->player->status = true;
 					send->player->from = from.sin_addr;

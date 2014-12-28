@@ -12,6 +12,15 @@ enum {
 	STATUS_DELETE_CHARACTER
 };
 
+#pragma pack(1)
+struct CHARACTERSERVER_INFO
+{
+	uint8	id;
+	int		ip;
+	int		port;
+};
+#pragma pack()
+
 typedef struct THREAD_STRUCT
 {
 	HANDLE			hpthr;			/* Thread handle */

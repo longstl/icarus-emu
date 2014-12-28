@@ -15,7 +15,7 @@
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
-		<packet id="0x020e" name="SM_UNK2">
+		<packet id="0x020e" name="SM_CONNECT">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="d"/>
 			<part name="unk2" type="d"/>
@@ -343,13 +343,13 @@
 		<packet id="0xa113" name="SM_UNK33">
 			<part name="cryptflag" type="h"/>
 		</packet>
-		<packet id="0x043d" name="SM_UNK34">
+		<packet id="0x043d" name="SM_SHIPS">
 			<part name="cryptflag" type="h"/>
 		</packet>
 		<packet id="0x9b13" name="SM_UNK35">
 			<part name="cryptflag" type="h"/>
 		</packet>
-		<packet id="0x023d" name="SM_UNK36">
+		<packet id="0x023d" name="OPCODE_SM_ACHIEVEMENTS">
 			<part name="cryptflag" type="h"/>
 		</packet>
 		<packet id="0x0310" name="SM_UNK_0310">
@@ -366,7 +366,7 @@
 		<packet id="0xf30e" name="SM_UNK38">
 			<part name="cryptflag" type="h"/>
 		</packet>
-		<packet id="0x4c0e" name="SM_UNK39">
+		<packet id="0x4c0e" name="SM_SKILLS_PANEL">
 			<part name="cryptflag" type="h"/>
 		</packet>
 		<packet id="0x9913" name="SM_UNK40">
@@ -384,12 +384,61 @@
 				</for>
 			<part name="unk2" type="h"/>
 		</packet>
-		<packet id="0x380e" name="SM_UNK_380e">
+		<packet id="0x380e" name="SM_SKILL_LIST">
 			<part name="cryptflag" type="h"/>
 		</packet>
 		<packet id="0x6e0e" name="SM_UNK_6e0e">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="d"/>				
+		</packet>
+		<packet id="0x1710" name="SM_UNK_1710">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x5220" name="SM_UNK_5220">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>				
+		</packet>
+		<packet id="0x1f18" name="SM_UNK_1f18">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x2a0f" name="SM_UNK_2a0f">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x6f0e" name="SM_UNK_6f0e">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x630e" name="SM_UNK_630e">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x3311" name="SM_QUEST_MESSAGE">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x700e" name="SM_UNK_700e">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x3318" name="SM_UNK_3318">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x9713" name="SM_UNK_9713">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x2118" name="SM_UNK_2118">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x3418" name="SM_SKILL_BUF">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x4f0e" name="SM_UNK_4f0e">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0335" name="SM_UNK_0335">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x9813" name="SM_UNK_9813">
+			<part name="cryptflag" type="h"/>
+		</packet>
+		<packet id="0x0311" name="SM_CHAT">
+			<part name="cryptflag" type="h"/>
 		</packet>
 	</packetfamilly>
 
@@ -596,7 +645,7 @@
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
-		<packet id="0x1f10" name="CM_UNK29">
+		<packet id="0x1f10" name="CM_GAMEOBJECT_INFO">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="d"/>
 		</packet>

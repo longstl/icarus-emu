@@ -17,6 +17,7 @@ struct				sockaddr_in sin;
 HANDLE				hpthr;
 SETTINGS			settings;
 CRITICAL_SECTION	gCS;
+HANDLE				hConsole;
 
 FILE*				fg;				// ¬ç¬ï¬ß¬Õ¬Ý ¬Õ¬Ý¬ñ ¬Ý¬à¬Ô¬Ö¬â¬Ñ
 
