@@ -9,18 +9,24 @@
 void CM_MY_LAUNCHER_LOGIN(PACKET* pck)
 {
 	int rnd;
+	uint8 oric;
+	time_t tms;
+	int n = 0;
 	char recv[256];
 	char hash[256];
+	char times[16];
 
-	memset(hash, 0, sizeof(recv));
-	pck->readTstr(recv);
+	struct sockaddr_in from;
+	int len = sizeof(from);
+	getpeername(pck->sockstruct->socket, (struct sockaddr *)&from, &len);
 
-	// ¬æ¬à¬â¬Þ¬Ú¬â¬à¬Ó¬Ñ¬ß¬Ú¬Ö ¬ç¬ï¬ê¬Ñ (32 ¬Ò¬Ñ¬Û¬ä¬Ñ)
+	memset(recv, 0, sizeof(recv));
 	memset(hash, 0, sizeof(hash));
 	srand(GetTickCount());
 
-	uint8 oric;
-	int n = 0;
+//	pck->readW();
+	pck->readTstr(recv);
+
 	for (int i = 0; i < 32; i++)
 	{
 		oric = 0x41;
@@ -34,8 +40,6 @@ void CM_MY_LAUNCHER_LOGIN(PACKET* pck)
 		++n;
 	}
 
-	char times[16];
-	time_t tms;
 	time(&tms);
 	tm* timeinfo = localtime(&tms);
 	sprintf(times, "%d%02i%02i%02i%02i%02i", timeinfo->tm_year + 1900,
@@ -50,7 +54,11 @@ void CM_MY_LAUNCHER_LOGIN(PACKET* pck)
 	if (!(pck->sockstruct->mysql->CheckAccountName(recv, hash)))
 	{
 		memset(hash, 0, sizeof(hash));
+		log::Error(fg, "LSNetwork [%s]: Hash fail: %s\n", inet_ntoa(from.sin_addr), hash);
+		return;
 	}
+
+	log::Info(fg, "LSNetwork [%s]: Hash send: %s\n", inet_ntoa(from.sin_addr), hash);
 
 	SM_MY_LAUNCHER_LOGIN(pck, hash);
 }

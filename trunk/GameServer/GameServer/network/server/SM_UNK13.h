@@ -5,12 +5,12 @@
 #ifndef _SM_UNK13_H_
 #define _SM_UNK13_H_
 
-void SM_UNK13(PACKET* pck)
+inline void SM_UNK13(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
 	pck->writeD(0x1d);
-	pck->writeD(1);
+	pck->writeD(5);
 	pck->PackSend(OPCODE_SM_UNK13);
 }
 

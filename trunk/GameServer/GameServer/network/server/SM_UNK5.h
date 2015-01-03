@@ -6,7 +6,7 @@
 #define _SM_UNK5_H_
 
 // ¬Þ¬ã¬ñ¬Ô¬Ñ ¬á¬â¬Ú ¬Ó¬ç¬à¬Õ¬Ö ¬Ó ¬Ú¬Ô¬â¬å
-void SM_UNK5(PACKET* pck)
+inline void SM_UNK5(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);

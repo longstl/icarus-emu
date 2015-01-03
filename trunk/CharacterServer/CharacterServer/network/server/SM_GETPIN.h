@@ -18,8 +18,8 @@ void SM_GETPIN(PACKET* pck, int character_id)
 
 	pck->writeB(account->pin_erros); // time wrong
 	pck->writeB(0);
-	pck->writeD(character_id);		// character id
-
+	pck->writeD(0x002772c7);		// account id
+	
 	pck->PackSend(OPCODE_SM_GETPIN);
 }
 

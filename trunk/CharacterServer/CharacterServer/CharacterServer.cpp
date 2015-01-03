@@ -16,6 +16,9 @@
 #include "network\opcodes.h"
 
 
+//====================================================================================
+// Нить обрабатывающая пакеты от клиентов
+//
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
 	EnterCriticalSection(&gCS);
@@ -40,6 +43,8 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 		LeaveCriticalSection(&gCS);
 		Sleep(100);
 	}
+
+	log::Info(fg, "CSNetwork [%s]: Disconnect (account id: %d)\n", inet_ntoa(account->from), account->account_id);
 	
 	EnterCriticalSection(&gCS);
 	delete(th_struct->character);
@@ -52,7 +57,9 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	return 0;
 }
 
-
+//====================================================================================
+// Нить обрабатывающая пакеты от внутрисерверного обмена
+//
 DWORD WINAPI InnerThread(LPVOID Param)
 {
 	int tmp = 0;
@@ -139,7 +146,9 @@ DWORD WINAPI InnerThread(LPVOID Param)
 	return 0;
 }
 
-
+//====================================================================================
+// Main function
+//
 int _tmain(int argc, _TCHAR* argv[])
 {
 	int err;
@@ -149,26 +158,26 @@ int _tmain(int argc, _TCHAR* argv[])
 	WSAStartup(wVersionRequested, &wsaData);
 
 	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	fg = log::Init();
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
 	log::Notify(fg, "# Character Server v0.30        #\n");
-	log::Notify(fg, "# Client version: 1.5.48        #\n");
-	log::Notify(fg, "# Client time: 23:15 22.12.2014 #\n");
+	log::Notify(fg, "# Client version: 1.5.49        #\n");
+	log::Notify(fg, "# Client time: 12:00 31.12.2014 #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////
-	// zagruzka configuracii
+	// Загрузка кофига
 	///////////////////////////////////////////////////////////////
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Load Settings... \t\t");
 
 	setlocale(LC_ALL, "");
 	Configuration* cfg = settings.Init();
 	if (cfg == NULL)
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+		COLOR_RL
 		log::Notify(fg, "Fail\n");
 		return -1;
 	}
@@ -192,31 +201,33 @@ int _tmain(int argc, _TCHAR* argv[])
 	inner_ip = cfg->lookupString("", "inner_ip", "127.0.0.1");		// ip address inner
 	inner_port = cfg->lookupInt("", "inner_port", 5600);			// inner port
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "Succesful\n");
 	//-------------------------------------------------------------
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
-	log::Notify(fg, "GameServer ID \t\t\t");
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	log::Notify(fg, "%d\n", gameserver_id);
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Connect to Mysql... \t\t");
 	mysql = new DATABASE(fg, (char*)db_host, (char*)db_user, (char*)db_pass, (char*)db_name);
 	if (mysql->IsError())
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+		COLOR_RL
 		log::Notify(fg, "Fail\n");
 		return -1;
 	}
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "Succesful\n");
 
-	SetConsoleTextAttribute(hConsole, (WORD) FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	log::Notify(fg, "\nServer is running. (%s:%d)\n\n\n", accountserver_ip, accountserver_port);
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
+	log::Notify(fg, "GameServer ID \t\t\t");
+	COLOR_GL
+	log::Notify(fg, "%d\n", gameserver_id);
+
+	COLOR_GL
+	log::Notify(fg, "\nServer is running. (%s:%d)\n", accountserver_ip, accountserver_port);
+	COLOR_RGBL
+	Sleep(500);
 
 	InitializeCriticalSection(&gCS);
 

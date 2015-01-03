@@ -5,20 +5,10 @@
 #ifndef _SM_UNK32_H_
 #define _SM_UNK32_H_
 
-void SM_UNK32(PACKET* pck)
+inline void SM_UNK32(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
-	pck->writeD(0x5cc40001);
-	pck->writeD(2);
-	pck->writeD(0x0110);
-	pck->writeD(1);
-	pck->writeD(0x0c02022c);
-	pck->writeD(0x0e0c);
-	pck->writeD(0x010e);
-	pck->writeD(1);
-	pck->writeD(0x0c013538);
-	pck->writeD(0x7f000e0c);
+	pck->writeA("0000010000000500000010010000010000002C02020C0C0E000005010000010000000F2617110C0E000012010000010000001D20031A0C0E000041010000010000002C2817110C0E00000E010000010000003835010C0C0E0000");
 	pck->PackSend(OPCODE_SM_UNK32);
 }
 

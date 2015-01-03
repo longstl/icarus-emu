@@ -279,9 +279,6 @@
     <ClInclude Include="network\server\SM_UNK35.h">
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
-    <ClInclude Include="network\server\SM_UNK_0227.h">
-      <Filter>GAMESERVER\network\Server</Filter>
-    </ClInclude>
     <ClInclude Include="network\server\SM_UNK38.h">
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
@@ -305,9 +302,6 @@
     </ClInclude>
     <ClInclude Include="AI\ai.h">
       <Filter>GAMESERVER\AI</Filter>
-    </ClInclude>
-    <ClInclude Include="network\server\SM_UNK_1710.h">
-      <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
     <ClInclude Include="network\server\SM_UNK_5220.h">
       <Filter>GAMESERVER\network\Server</Filter>
@@ -370,6 +364,72 @@
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
     <ClInclude Include="network\server\SM_SKILL_BUF.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_PLAYER_INFO.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_1606.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_2418.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_UNK_1833.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_1933.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_4b0e.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_400e.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_420e.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_9c13.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_0b2b.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_0c2b.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_023c.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_033c.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_033e.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_023e.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_1506.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_2113.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_2213.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_1a33.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_9d13.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_9e13.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_CHARACTER_STYLE.h">
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
   </ItemGroup>

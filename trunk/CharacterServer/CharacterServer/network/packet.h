@@ -169,6 +169,21 @@ public:
 		offset_snd += len;
 		return len;
 	}
+
+	void writeA(char* in)
+	{
+		uint8 res;
+		char tmp[3];
+		memset(tmp, 0, 3);
+
+		for (int i = 0; i < (int)strlen(in); i += 2)
+		{
+			strncpy(tmp, in + i, 2);
+			res = (uint8)strtol(tmp, NULL, 16);
+			memcpy(&packet_snd[offset_snd], reinterpret_cast<uint8*>(&res), sizeof(res));
+			++offset_snd;
+		}
+	}
 };
 
 #endif _PACKET_H_

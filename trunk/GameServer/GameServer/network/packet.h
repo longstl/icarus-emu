@@ -28,6 +28,7 @@ public:
 	void CreateBufForSend();						/* Создае?буфе?для отправ?емог?пакета */
 	void drop();									/* Удаляет информацию ?пакете */
 	void Disconnect();								/* ¬І¬С¬Щ¬в¬н¬У¬С¬Ц¬д ¬б¬а¬Х¬Ь¬Э¬р¬й¬Ц¬Я¬Ъ¬Ц*/
+	void IsOnePacket(bool set);						// 
 
 	int*				pingtime;
 	uint16				packet_len;					/* Размер пакета ?данным?*/
@@ -51,6 +52,9 @@ private:
 	FILE*				fg;
 	uint16				old_packet_len;
 	uint16				old_offset;
+	bool				onepacketsend;
+	char				onepacket[PACKET_LEN];
+	int					onepacket_step;
 	
 public:
 
@@ -114,6 +118,19 @@ public:
 		memcpy(buf, buf_use_packed + offset, len);
 		offset += len;
 		return len;
+	}
+
+	//====================================================================================
+	// Читает в буфер количество байт определенных в первых 2х байтах
+	//
+	int read2Str(char* buf)
+	{
+		uint16 size = *(reinterpret_cast<uint16*>(&buf_use_packed[offset]));
+		offset += 2;
+		memset(buf, 0, size+1);
+		memcpy(buf, &buf_use_packed[offset], size);
+		offset += size;
+		return size;
 	}
 
 	//====================================================================================

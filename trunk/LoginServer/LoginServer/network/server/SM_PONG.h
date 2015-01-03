@@ -9,8 +9,10 @@ void SM_PONG(PACKET* pck, bool request = false)
 	if (request)
 	{
 		pck->CreateBufForSend();
+//		pck->writeB(0);
+//		pck->writeW(0xfe);
+		pck->writeW(0);
 		pck->writeB(0);
-		pck->writeW(0xfe);
 		pck->PackSend(OPCODE_SM_PONG);
 		SM_UPDATESERVERINFO(pck);
 	}

@@ -1,2 +1,2 @@
-Client version: 1.5.48
-Client time: 09:59 16.12.2014
+Client version: 1.5.49
+Client time: 12:00 31.12.2014

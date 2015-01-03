@@ -15,11 +15,16 @@ void CM_AUTH(PACKET* pck)
 	if ((pck->sockstruct->mysql->GetAccountName(hash, login, &pck->sockstruct->account_id)))
 	{
 		strcpy(pck->sockstruct->account_name, login);
-		SM_AUTH(pck, login, true);
+		SM_AUTH(pck, true);
 	}
 	else
 	{
-		SM_AUTH(pck, hash, false);
+		struct sockaddr_in from;
+		int len = sizeof(from);
+		getpeername(pck->sockstruct->socket, (struct sockaddr *)&from, &len);
+		log::Info(fg, "LSNetwork: [%s]: Account not found: %s\n", inet_ntoa(from.sin_addr), hash);
+
+		SM_AUTH(pck, false);
 	}
 }
 

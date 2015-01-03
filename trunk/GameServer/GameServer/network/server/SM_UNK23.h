@@ -5,13 +5,13 @@
 #ifndef _SM_UNK23_H_
 #define _SM_UNK23_H_
 
-void SM_UNK23(PACKET* pck)
+inline void SM_UNK23(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
-	pck->writeD(0x4b);
+	pck->writeD(0);
 	pck->writeD(0xa8c0);
-	pck->writeD(0x4b);
+	pck->writeD(0x010d);
 	pck->writeD(0x01ec30);
 	pck->writeD(0);
 	pck->writeD(0xd2f0);

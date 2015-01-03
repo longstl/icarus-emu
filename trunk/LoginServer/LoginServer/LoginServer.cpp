@@ -27,7 +27,34 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	{
 		EnterCriticalSection(&gCS);
 		if (pck->PackRecv())
-			opcodes(pck);		
+		{
+/*			// DEBUG
+			char bindbg[2];
+			memset(bindbg, 0, 2);
+
+			char* fordebug = pck->GetPacketPointer();
+			log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
+			for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
+			{
+				if ((uint8)fordebug[i] > 0x20 && (uint8)fordebug[i] <= 'z')
+				{
+					bindbg[0] = (uint8)fordebug[i];
+					log::Notify(fg, bindbg);
+				}
+				else
+					log::Notify(fg, ".");
+			}
+			log::Notify(fg, "\n");
+
+			log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
+			for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
+				log::Notify(fg, "%02x", (uint8)fordebug[i]);
+
+			log::Notify(fg, "\n");
+			// --DEBUG*/
+
+			opcodes(pck);
+		}
 		LeaveCriticalSection(&gCS);
 		Sleep(100);
 	}
@@ -194,26 +221,26 @@ int _tmain(int argc, _TCHAR* argv[])
 	WSAStartup(wVersionRequested, &wsaData);
 
 	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	fg = log::Init();
 
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
 	log::Notify(fg, "# Login Server v0.80            #\n");
-	log::Notify(fg, "# Client version: 1.5.48        #\n");
-	log::Notify(fg, "# Client time: 23:15 22.12.2014 #\n");
+	log::Notify(fg, "# Client version: 1.5.49        #\n");
+	log::Notify(fg, "# Client time: 12:00 31.12.2014 #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////
 	// Load Settings
 	///////////////////////////////////////////////////////////////
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Load Settings... \t\t");
 	setlocale(LC_ALL, "");
 	Configuration* cfg = settings.Init();
 	if (cfg == NULL)
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+		COLOR_RL
 		log::Notify(fg, "Fail\n");
 		return -1;
 	}
@@ -227,22 +254,22 @@ int _tmain(int argc, _TCHAR* argv[])
 	inner_ip = cfg->lookupString("", "inner_ip", "127.0.0.1");		// ip address inner
 	inner_port = cfg->lookupInt("", "inner_port", 5600);			// inner port
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "Succesful\n");
 	//-------------------------------------------------------------
 
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Connect to Mysql... \t\t");
 	mysql = new DATABASE(fg, (char*)db_host, (char*)db_user, (char*)db_pass, (char*)db_name);
 	if (mysql->IsError())
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+		COLOR_RL
 		log::Notify(fg, "Fail\n");
 		return -1;
 	}
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "Succesful\n");
 
 	Sleep(100);
@@ -250,9 +277,10 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	HANDLE hthInner = CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)InnerThread, NULL, NULL, NULL);
 
-	SetConsoleTextAttribute(hConsole, (WORD) FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "\nServer is running. (%s:%d)\n", launcher_ip, launcher_port);
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
+	Sleep(500);
 
 	InitializeCriticalSection(&gCS);
 

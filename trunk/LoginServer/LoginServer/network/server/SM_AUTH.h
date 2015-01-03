@@ -4,7 +4,7 @@
 #ifndef _SM_AUTH_H_
 #define _SM_AUTH_H_
 
-void SM_AUTH(PACKET* pck, char* login, bool succesful)
+void SM_AUTH(PACKET* pck, bool succesful)
 {
 	if (!succesful)
 		closesocket(pck->sockstruct->socket);
@@ -12,7 +12,7 @@ void SM_AUTH(PACKET* pck, char* login, bool succesful)
 	struct sockaddr_in from;
 	int len = sizeof(from);
 	getpeername(pck->sockstruct->socket, (struct sockaddr *)&from, &len);
-	log::Info(fg, "Connected account: [%s] %s\n", inet_ntoa(from.sin_addr), pck->sockstruct->account_name);
+	log::Info(fg, "LSNetwork [%s]: Connected account: %s\n", inet_ntoa(from.sin_addr), pck->sockstruct->account_name);
 
 	char pack[101];
 	memset(pack, 0, 100);
@@ -23,9 +23,9 @@ void SM_AUTH(PACKET* pck, char* login, bool succesful)
 	pck->writeW(0);
 	pck->writeW(0);
 	pck->writeBuf(pack, 100);
-	pck->writeD(0xa3ad1100);
 	pck->writeD(0);
-	pck->writeD(0x05a0eb00);
+	pck->writeD(0);
+	pck->writeD(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->writeD(0);

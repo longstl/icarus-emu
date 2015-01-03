@@ -5,7 +5,7 @@
 #ifndef _SM_UNK24_H_
 #define _SM_UNK24_H_
 
-void SM_UNK24(PACKET* pck)
+inline void SM_UNK24(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
