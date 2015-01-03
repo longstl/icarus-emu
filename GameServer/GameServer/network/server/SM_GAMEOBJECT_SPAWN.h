@@ -5,7 +5,7 @@
 #ifndef _SM_GAMEOBJECT_SPAWN_H_
 #define _SM_GAMEOBJECT_SPAWN_H_
 
-void SM_GAMEOBJECT_SPAWN(PACKET* pck)
+inline void SM_GAMEOBJECT_SPAWN(PACKET* pck)
 {
 	/*
 	pck->CreateBufForSend();

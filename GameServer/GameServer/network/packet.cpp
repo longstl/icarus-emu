@@ -15,11 +15,60 @@ PACKET::PACKET(SOCKET sock, CHARACTER* me, DATABASE* mysql, FILE* fg, int* pingt
 	buf_use_packed = 0;
 	size_new_packet = 0;
 	offset = 0;
+	onepacketsend = false;
 }
 
 PACKET::~PACKET()
 {
 
+}
+
+void PACKET::IsOnePacket(bool set)
+{
+	if (set)
+	{
+		onepacketsend = true;
+		onepacket_step = 0;
+		memset(onepacket, 0, PACKET_LEN);
+	}
+	else
+	{
+		onepacketsend = false;
+
+		/*/// DEBUG
+		char tmp[2];
+		tmp[1] = 0;
+		log::Debug(fg, "S->C: ");
+		for (int i = 4; i < onepacket_step; i++)
+		{
+			if ((uint8)onepacket[i] > 0x20 && (uint8)onepacket[i] <= 'z')
+			{
+				tmp[0] = (uint8)onepacket[i];
+				log::Notify(fg, tmp);
+			}
+			else
+			{
+				log::Notify(fg, ".");
+			}
+		}
+		log::Notify(fg, "\n");
+		log::Debug(fg, "S->C: ");
+		for (int i = 4; i < onepacket_step; i++)
+		{
+			log::Notify(fg, "%02x", (uint8)onepacket[i]);
+		}
+		log::Notify(fg, "\n");
+		/// !DEBUG*/
+
+
+		int s = send(socket, onepacket, onepacket_step, NULL);
+		int nError = WSAGetLastError();
+		if (nError != WSAEWOULDBLOCK && nError != 0)
+		{
+			Disconnect();
+			return;
+		}
+	}
 }
 
 void PACKET::Disconnect()
@@ -165,38 +214,46 @@ bool PACKET::PackSend(uint16 op)
 	uint16 pack_len = offset_snd + 4;
 	memcpy(pack, &pack_len, 2);
 	memcpy(pack + 2, &op, 2);
-
-	/// DEBUG
-	char tmp[2];
-	tmp[1] = 0;
-	log::Debug(fg, "S->C: op[%04x] ", op);
-	for (int i = 4; i < pack_len; i++)
+	
+	if (onepacketsend)
 	{
-		if ((uint8)pack[i] > 0x20 && (uint8)pack[i] <= 'z')
-		{
-			tmp[0] = (uint8)pack[i];
-			log::Notify(fg, tmp);
-		}
-		else
-		{
-			log::Notify(fg, ".");
-		}
+		memcpy(onepacket + onepacket_step, pack, pack_len);
+		onepacket_step += pack_len;
 	}
-	log::Notify(fg, "\n");
-	log::Debug(fg, "S->C: op[%04x] ", op);
-	for (int i = 4; i < pack_len; i++)
+	else
 	{
-		log::Notify(fg, "%02x", (uint8)pack[i]);
-	}
-	log::Notify(fg, "\n");
-	/// !DEBUG
+		/*/// DEBUG
+		char tmp[2];
+		tmp[1] = 0;
+		log::Debug(fg, "S->C: ");
+		for (int i = 4; i < pack_len; i++)
+		{
+			if ((uint8)pack[i] > 0x20 && (uint8)pack[i] <= 'z')
+			{
+				tmp[0] = (uint8)pack[i];
+				log::Notify(fg, tmp);
+			}
+			else
+			{
+				log::Notify(fg, ".");
+			}
+		}
+		log::Notify(fg, "\n");
+		log::Debug(fg, "S->C: ");
+		for (int i = 4; i < pack_len; i++)
+		{
+			log::Notify(fg, "%02x", (uint8)pack[i]);
+		}
+		log::Notify(fg, "\n");
+		/// !DEBUG*/
 
-	int s = send(socket, pack, pack_len, NULL);
-	int nError = WSAGetLastError();
-	if (nError != WSAEWOULDBLOCK && nError != 0)
-	{
-		Disconnect();
-		return false;
+		int s = send(socket, pack, pack_len, NULL);
+		int nError = WSAGetLastError();
+		if (nError != WSAEWOULDBLOCK && nError != 0)
+		{
+			Disconnect();
+			return false;
+		}
 	}
 	return true;
 }

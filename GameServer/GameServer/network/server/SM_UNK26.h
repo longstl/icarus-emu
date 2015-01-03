@@ -5,29 +5,19 @@
 #ifndef _SM_UNK26_H_
 #define _SM_UNK26_H_
 
-void SM_UNK26(PACKET* pck)
+inline void SM_UNK26(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
-	pck->writeD(0x8004be84);
-	pck->writeD(0x9e73);
-	pck->writeD(1);
-	pck->writeD(1);
-	pck->writeD(0x8004be84);
-	pck->writeD(0x000701ff);
-	pck->writeD(0);
+	pck->writeA("0000643D09800EBB00000100000001000000643D0980FF01070000000000");
+	pck->PackSend(OPCODE_SM_UNK26);
+
+	pck->CreateBufForSend();
+	pck->writeA("0000643D09800FBB05000100000001000000643D0980FF01070000000000");
 	pck->PackSend(OPCODE_SM_UNK26);
 }
 
 /*
-1823 0000
-84BE0480
-739E0000
-01000000
-01000000
-84BE0480
-FF010700
-00000000
+0000063302800AEE00000100EE0D0100000006330280FF01070000000000
 */
 
 #endif

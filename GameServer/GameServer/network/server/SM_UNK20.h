@@ -5,11 +5,11 @@
 #ifndef _SM_UNK20_H_
 #define _SM_UNK20_H_
 
-void SM_UNK20(PACKET* pck)
+inline void SM_UNK20(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
-	pck->writeD(0x403b2b00);
+	pck->writeD(0x3fa46d00);
 	pck->PackSend(OPCODE_SM_UNK20);
 }
 

@@ -5,7 +5,7 @@
 #ifndef _SM_DISCONNECT_H_
 #define _SM_DISCONNECT_H_
 
-void SM_DISCONNECT(PACKET* pck)
+inline void SM_DISCONNECT(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);

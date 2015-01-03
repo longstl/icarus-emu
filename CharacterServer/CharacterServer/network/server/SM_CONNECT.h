@@ -10,11 +10,11 @@ void SM_CONNECT(PACKET* pck)
 	pck->CreateBufForSend();
 	pck->writeW(0);
 	pck->writeD(0);
-	pck->writeD(1);				// server id
+	pck->writeD(5);				// server id
 	pck->writeD(0x30303101);
 	pck->writeD(0x00313031);
 	pck->writeD(0);
-	pck->writeD(0);
+	pck->writeD(0x200);
 	pck->PackSend(OPCODE_SM_CONNECT);
 }
 

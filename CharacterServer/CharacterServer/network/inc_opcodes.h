@@ -16,9 +16,9 @@
 #include "./server/SM_LOBBYUSERMSG.h"
 #include "./server/SM_CREATECHARACTER.h"
 #include "./server/SM_DELETECHARACTER.h"
+#include "./server/SM_STARTGAME.h"
 #include "./server/SM_GETPIN.h"
 #include "./server/SM_PIN.h"
-#include "./server/SM_STARTGAME.h"
 #include "./server/SM_UNK1.h"
 
 // Client to server

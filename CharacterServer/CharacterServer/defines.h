@@ -30,4 +30,16 @@
 #define writeW		write<int16>
 #define writeD		write<int32>
 
+
+#define ENABLE_CONSOLE_COLOR
+
+#ifdef ENABLE_CONSOLE_COLOR
+#define COLOR_BL	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+#define COLOR_RL	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+#define COLOR_RGL	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+#define COLOR_GL	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+#define COLOR_RGBL	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+#else
+#endif
+
 #endif _DEFINES_H_

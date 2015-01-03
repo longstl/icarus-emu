@@ -5,7 +5,7 @@
 #ifndef _CM_PING_H_
 #define _CM_PING_H_
 
-void CM_PING(PACKET* pck)
+inline void CM_PING(PACKET* pck)
 {
 	time_t rawTime;
 	time(&rawTime);

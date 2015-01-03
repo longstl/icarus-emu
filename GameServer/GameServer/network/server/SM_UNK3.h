@@ -5,7 +5,7 @@
 #ifndef _SM_UNK3_H_
 #define _SM_UNK3_H_
 
-void SM_UNK3(PACKET* pck, int8 unk)
+inline void SM_UNK3(PACKET* pck, int8 unk)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);

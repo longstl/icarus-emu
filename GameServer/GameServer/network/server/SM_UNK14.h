@@ -5,7 +5,7 @@
 #ifndef _SM_UNK14_H_
 #define _SM_UNK14_H_
 
-void SM_UNK14(PACKET* pck)
+inline void SM_UNK14(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);

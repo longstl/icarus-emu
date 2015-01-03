@@ -5,7 +5,7 @@
 #ifndef _CM_UNK5_H_
 #define _CM_UNK5_H_
 
-void CM_UNK5(PACKET* pck)
+inline void CM_UNK5(PACKET* pck)
 {
 	int16 unk1 = pck->readW();
 	int8 unk2 = pck->readB();

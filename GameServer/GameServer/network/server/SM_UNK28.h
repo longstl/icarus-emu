@@ -5,14 +5,31 @@
 #ifndef _SM_UNK28_H_
 #define _SM_UNK28_H_
 
-void SM_UNK28(PACKET* pck)
+inline void SM_UNK28(PACKET* pck)
 {
 	pck->CreateBufForSend();
+	pck->writeA("0000B60000000000803F01A24835");
+	pck->PackSend(OPCODE_SM_UNK28);
+	pck->CreateBufForSend();
+	pck->writeA("0000630000000000A04101A24835");
+	pck->PackSend(OPCODE_SM_UNK28);
+	pck->CreateBufForSend();
+	pck->writeA("0000770000000000484201A24835");
+	pck->PackSend(OPCODE_SM_UNK28);
+	pck->CreateBufForSend();
+	pck->writeA("0000B6000000000000000100C701");
+	pck->PackSend(OPCODE_SM_UNK28);
+	pck->CreateBufForSend();
+	pck->writeA("0000750000000000A04101A24835");
+	pck->PackSend(OPCODE_SM_UNK28);
+	return;
+	
 	pck->writeW(0);
 	pck->writeD(0xb6);
 	pck->writeD(0x3f800000);
-	pck->writeD(0x3484e501);
+	pck->writeD(0x35e0d801);
 	pck->PackSend(OPCODE_SM_UNK28);
+
 }
 
 /*

@@ -5,7 +5,7 @@
 #ifndef _SM_UNK_610e_H_
 #define _SM_UNK_610e_H_
 
-void SM_UNK_610e(PACKET* pck)
+inline void SM_UNK_610e(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);

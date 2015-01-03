@@ -5,16 +5,15 @@
 #ifndef _SM_CONNECT_H_
 #define _SM_CONNECT_H_
 
-void SM_CONNECT(PACKET* pck)
+inline void SM_CONNECT(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->writeD(0x32);
-	pck->writeD(1);
-	pck->PackSend(OPCODE_SM_CONNECT);
-	
+	pck->writeD(4);
+	pck->PackSend(OPCODE_SM_CONNECT);	
 }
 
 /*

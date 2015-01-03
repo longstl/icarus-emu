@@ -8,13 +8,14 @@
 void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 {
 	pck->CreateBufForSend();
+	pck->writeW(0);
+	pck->writeD(0); // unk
+	pck->writeB(1); // unk
 
 	int num_characters = pck->sql->GetCharactersInfo(pck->sockstruct->account_id, pck->sockstruct->character, max_characters);
-	if (num_characters == 0)
+	if (num_characters == 20)
 	{
-		pck->writeW(0);
-		pck->writeD(0);
-		pck->writeW(1);
+		pck->writeB(1);
 		pck->writeW(0);
 		pck->writeD(0);
 		pck->writeD(0);
@@ -22,13 +23,10 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		return;
 	}
 
-	pck->writeW(0);
-	pck->writeD(0);
-	pck->writeB(1);
 	if (num_characters >= max_characters)
-		pck->writeB(0);											// deny create character
+		pck->writeB(DENY_CREATE_CHARACTER);						// deny create character
 	else
-		pck->writeB(1);											// access create character
+		pck->writeB(ALLOW_CREATE_CHARACTER);					// access create character
 
 	pck->writeW(num_characters);								// max characters in server
 	pck->writeD(pck->sockstruct->character[0].id);

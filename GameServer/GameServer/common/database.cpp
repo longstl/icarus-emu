@@ -69,7 +69,7 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 	MYSQL_ROW row;
 	char query[256];
 
-	sprintf(query, "SELECT charname, class, level, sex, access FROM characters WHERE id='%d';", character_id);
+	sprintf(query, "SELECT charname, class, level, sex, pos_x, pos_y, pos_z, rotate, access FROM characters WHERE id='%d';", character_id);
 
 	if (mysql_query(db, query))
 	{
@@ -97,23 +97,21 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 		character->cls = atoi(row[1]);
 		character->lvl = atoi(row[2]);
 		character->sex = atoi(row[3]);
-//		if (row[4] == NULL)
-	//		memset(character->pin_code, 0, 5);
-//		else
-	//		strcpy(character->pin_code, row[5]);
+		if (row[4] != NULL)
+			character->pos_x = atof(row[4]);
+		if (row[5] != NULL)
+			character->pos_y = atof(row[5]);
+		if (row[6] != NULL)
+			character->pos_z = atof(row[6]);
+		if (row[7] != NULL)
+			character->rotate = atof(row[7]);
 
-		if (strstr(row[4], "ADMINISTRATOR"))
-		{
+		if (strstr(row[8], "ADMINISTRATOR"))
 			character->access = ACCESS_CHARACTER_ADMINISTRATOR;
-		}
-		else if (strstr(row[4], "GAMEMASTER"))
-		{
+		else if (strstr(row[8], "GAMEMASTER"))
 			character->access = ACCESS_CHARACTER_GAMEMASTER;
-		}
 		else
-		{
 			character->access = ACCESS_CHARACTER_PLAYER;
-		}
 	}
 	else
 	{

@@ -12,6 +12,10 @@ enum PIN_CODE {
 	ENTER_PIN_CODE = 2
 };
 
+enum CREATE_CHARACTER {
+	DENY_CREATE_CHARACTER = 0,
+	ALLOW_CREATE_CHARACTER = 1
+};
 
 #pragma pack(1)
 typedef struct CHAR_STYLE

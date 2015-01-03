@@ -35,6 +35,8 @@ namespace log
    
    inline void Info(FILE* fg, const int8* format, ...)
    {
+	   HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
+	   SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
       va_list ap;
       va_start(ap, format);
       

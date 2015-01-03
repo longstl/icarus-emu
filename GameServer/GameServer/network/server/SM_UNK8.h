@@ -5,11 +5,12 @@
 #ifndef _SM_UNK8_H_
 #define _SM_UNK8_H_
 
-void SM_UNK8(PACKET* pck)
+inline void SM_UNK8(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
 	pck->writeD(0);
+	pck->writeD(7);
 	pck->writeD(7);
 	pck->writeD(0);
 	pck->writeD(1);
@@ -17,8 +18,6 @@ void SM_UNK8(PACKET* pck)
 	pck->writeD(3);
 	pck->writeD(4);
 	pck->writeD(5);
-	pck->writeD(7);
-
 	pck->PackSend(OPCODE_SM_UNK8);
 
 

@@ -5,7 +5,7 @@
 #ifndef _SM_UNK4_H_
 #define _SM_UNK4_H_
 
-void SM_UNK4(PACKET* pck)
+inline void SM_UNK4(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
@@ -15,8 +15,7 @@ void SM_UNK4(PACKET* pck)
 	pck->writeD(0x01010101);
 	pck->writeD(0x01000001);
 	pck->writeD(0x00000101);
-	pck->writeD(0x01000100);
-
+	pck->writeD(0x01000101);
 	pck->PackSend(OPCODE_SM_UNK4);
 
 

@@ -33,45 +33,47 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	{
 		EnterCriticalSection(&send->player->gCSp);
 		
-		if (pck->PackRecv())
+		if (pck->me->status == STATUS_NONE)
 		{
-			do
+			if (pck->PackRecv())
 			{
-				if ((uint16)pck->packet_len == 0)
+				do
 				{
-					pck->isconndected = false;
-					break;
-				}				
-
-				/*
-				// DEBUG
-				char bindbg[2];
-				memset(bindbg, 0, 2);
-
-				char* fordebug = pck->GetPacketPointer();
-				log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
-				for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
-				{
-					if ((uint8)fordebug[i] > 0x20 && (uint8)fordebug[i] <= 'z')
+					if ((uint16)pck->packet_len == 0)
 					{
-						bindbg[0] = (uint8)fordebug[i]; 
-						log::Notify(fg, bindbg);
+						pck->isconndected = false;
+						break;
 					}
-					else
-						log::Notify(fg, ".");
-				}
-				log::Notify(fg, "\n");
 
-				log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
-				for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
-					log::Notify(fg, "%02x", (uint8)fordebug[i]);
+					/*// DEBUG
+					char bindbg[2];
+					memset(bindbg, 0, 2);
 
-				log::Notify(fg, "\n");
-				// --DEBUG
-				*/
-				OPCODES::opcodes(pck);
-			} while (pck->NextPacket());
-		}		
+					char* fordebug = pck->GetPacketPointer();
+					log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
+					for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
+					{
+						if ((uint8)fordebug[i] > 0x20 && (uint8)fordebug[i] <= 'z')
+						{
+							bindbg[0] = (uint8)fordebug[i];
+							log::Notify(fg, bindbg);
+						}
+						else
+							log::Notify(fg, ".");
+					}
+					log::Notify(fg, "\n");
+
+					log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
+					for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
+						log::Notify(fg, "%02x", (uint8)fordebug[i]);
+
+					log::Notify(fg, "\n");
+					// --DEBUG*/
+
+					OPCODES::opcodes(pck, fg);
+				} while (pck->NextPacket());
+			}
+		}
 		LeaveCriticalSection(&send->player->gCSp);
 		Sleep(100);
 	}
@@ -259,11 +261,11 @@ int _tmain(int argc, _TCHAR* argv[])
 	COLOR_GL
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
-	log::Notify(fg, "# Game Server v0.01             #\n");
-	log::Notify(fg, "# Client version: 1.5.48        #\n");
-	log::Notify(fg, "# Client time: 23:15 22.12.2014 #\n");
+	log::Notify(fg, "# Game Server v0.02             #\n");
+	log::Notify(fg, "# Client version: 1.5.49        #\n");
+	log::Notify(fg, "# Client time: 12:00 31.12.2014 #\n");
 	log::Notify(fg, "#################################\n\n");
-
+	
 	///////////////////////////////////////////////////////////////
 	// Загрузка конфигурации
 	///////////////////////////////////////////////////////////////
