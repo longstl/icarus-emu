@@ -36,7 +36,7 @@ namespace log
    inline void Info(FILE* fg, const int8* format, ...)
    {
 	   HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-	   SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	   COLOR_RGBL
       va_list ap;
       va_start(ap, format);
       
@@ -55,7 +55,7 @@ namespace log
    inline void Warn(FILE* fg, const int8* format, ...)
    {
 	  HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-	  SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	  COLOR_BL
       va_list ap;
       va_start(ap, format);
       
@@ -74,7 +74,7 @@ namespace log
    inline void Error(FILE* fg, const int8* format, ...)
    {
 	  HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-	  SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+	  COLOR_RL
       va_list ap;
       va_start(ap, format);
       
@@ -93,7 +93,7 @@ namespace log
    inline void Debug(FILE* fg, const int8* format, ...)
    {
 	   HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-	   SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_BLUE | FOREGROUND_RED);
+	   COLOR_RB
 	   va_list ap;
 	   va_start(ap, format);
 

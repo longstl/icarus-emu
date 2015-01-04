@@ -251,6 +251,7 @@ bool PACKET::PackSend(uint16 op)
 		int nError = WSAGetLastError();
 		if (nError != WSAEWOULDBLOCK && nError != 0)
 		{
+			log::Error(fg, "GSNetwork: WSAError\n");
 			Disconnect();
 			return false;
 		}

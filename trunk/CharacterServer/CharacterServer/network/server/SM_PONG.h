@@ -10,7 +10,6 @@ void SM_PONG(PACKET* pck, bool request = false)
 	if (request)
 	{
 		pck->CreateBufForSend();
-		pck->writeW(0);
 		pck->writeB(0);
 		pck->PackSend(OPCODE_SM_PONG);
 	}

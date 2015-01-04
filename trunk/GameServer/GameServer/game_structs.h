@@ -72,6 +72,7 @@ enum CHARACTER_STATUS {
 
 typedef struct CHARACTER
 {
+	uint32			account_id;
 	uint32			id;
 	WCHAR			charname[10];
 	int8			cls;

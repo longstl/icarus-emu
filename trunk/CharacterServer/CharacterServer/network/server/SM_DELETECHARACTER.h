@@ -16,7 +16,6 @@ void SM_DELETECHARACTER(PACKET* pck, int character_id)
 	log::Info(fg, "CSNetwork [%s]: user delete character: %s (account id: %d)\n", inet_ntoa(account->from), charname, account->account_id);
 
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(character_id);
 	pck->writeD(10);

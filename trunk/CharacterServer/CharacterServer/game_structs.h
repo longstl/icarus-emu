@@ -65,10 +65,12 @@ typedef struct CHAR_STYLE
 	uint32			unk31;
 	uint32			unk32;
 	uint32			unk33;
-	uint32			unk34;
-	uint32			unk35;
-	uint32			unk36;
-	uint32			unk37;
+	uint8			unk34;
+	uint8			unk35;
+	uint8			unk36;
+//	uint32			unk35;
+//	uint32			unk36;
+//	uint32			unk37;
 } CHAR_STYLE;
 
 typedef struct CHARACTER

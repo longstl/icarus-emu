@@ -65,6 +65,7 @@ void DATABASE::AtoH(char* in, char* out)
 //
 bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 {
+	character_id &= 0xFFFFFFF;
 	MYSQL_RES* result;
 	MYSQL_ROW row;
 	char query[256];
@@ -88,7 +89,7 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 
 	if ((row = mysql_fetch_row(result)))
 	{
-		character->id = character_id;
+		character->id = character_id | 0x80000000;
 
 		convertedChars = 0;
 		memset(character->charname, 0, 20);

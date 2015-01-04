@@ -2,21 +2,21 @@
 // Authors: Tahoma
 ////////////////////////////////////////////////
 
-#ifndef _CM_DISCONNECT_H_
-#define _CM_DISCONNECT_H_
+#ifndef _CM_SKILL_PANEL_H_
+#define _CM_SKILL_PANEL_H_
 
-inline void CM_DISCONNECT(PACKET* pck)
+inline void CM_SKILL_PANEL(PACKET* pck)
 {
 	int16 unk1 = pck->readW();
 	int8 unk2 = pck->readB();
-	SM_DISCONNECT(pck);
-	SM_CHANGE_CHARACTER(pck);
+//	SM_UNK_4b0e(pck);
+	SM_SKILLS_PANEL(pck);
 }
 
 /*
-0EFA
-0125
-B0
+
+
+
 */
 
 #endif

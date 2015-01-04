@@ -8,7 +8,6 @@
 void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0); // unk
 	pck->writeB(1); // unk
 
@@ -144,7 +143,11 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeBuf((void*)&pck->sockstruct->character[i].style, sizeof(CHAR_STYLE));
+		pck->writeB(0);
 		pck->writeW(0);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);

@@ -9,7 +9,6 @@ void CM_CREATECHARACTER(PACKET* pck)
 {
 	CHAR_STYLE st;
 	WCHAR w_charname[10];
-	int16 unk1 = pck->readW();
 	int len_character_name = pck->readBuf((char*)w_charname, 20);
 	uint32 unk2 = pck->readUD();
 	uint32 unk3 = pck->readUD();
@@ -64,10 +63,12 @@ void CM_CREATECHARACTER(PACKET* pck)
 	st.unk31 = pck->readUD();
 	st.unk32 = pck->readUD();
 	st.unk33 = pck->readUD();
-	st.unk34 = pck->readUD();
-	st.unk35 = pck->readUD();
-	st.unk36 = pck->readUD();
-	st.unk37 = pck->readUD();
+	st.unk34 = pck->readUB();
+	st.unk35 = pck->readUB();
+	st.unk36 = pck->readUB();
+//	st.unk35 = pck->readUD();
+//	st.unk36 = pck->readUD();
+//	st.unk37 = pck->readUD();
 
 	char charname[18];
 	int len_charname = wcstombs(charname, w_charname, 18);

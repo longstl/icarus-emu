@@ -21,6 +21,7 @@ void SendOK(uint8 id, SOCKET s)
 	send(s, packet_buf, 2, NULL);
 }
 
+
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
 	bool connected = true;
@@ -175,7 +176,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
 	fg = log::Init();
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
 	log::Notify(fg, "# Inner Server v1.00            #\n");
@@ -185,23 +186,24 @@ int _tmain(int argc, _TCHAR* argv[])
 	///////////////////////////////////////////////////////////////
 	// Загрузка конфигурации
 	///////////////////////////////////////////////////////////////
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
 	log::Notify(fg, "Load Settings... \t");
 
 	if (!LoadSettings(&settings))
 	{
-		SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_INTENSITY);
+		COLOR_RL
 		log::Notify(fg, "Fail\n");
 		return -1;
 	}
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
+	COLOR_GL
 	log::Notify(fg, "Succesful\n");
 //--------------------------------------------------------------------------------------------------------------------------
 
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
 	log::Notify(fg, "\nServer is running. (%s:%d)\n", ip, port);
-	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_RED | FOREGROUND_GREEN | FOREGROUND_BLUE | FOREGROUND_INTENSITY);
+	COLOR_RGBL
+	//--------------------------------------------------------------------------------------------------------------------------
+	Sleep(500);
 
 	s = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
 	setsockopt(s, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(on));

@@ -52,13 +52,12 @@ void CM_MY_LAUNCHER_LOGIN(PACKET* pck)
 
 
 	if (!(pck->sockstruct->mysql->CheckAccountName(recv, hash)))
-	{
-		memset(hash, 0, sizeof(hash));
+	{	
 		log::Error(fg, "LSNetwork [%s]: Hash fail: %s\n", inet_ntoa(from.sin_addr), hash);
-		return;
+		memset(hash, 0, sizeof(hash));
 	}
-
-	log::Info(fg, "LSNetwork [%s]: Hash send: %s\n", inet_ntoa(from.sin_addr), hash);
+	else
+		log::Info(fg, "LSNetwork [%s]: Hash send: %s\n", inet_ntoa(from.sin_addr), hash);
 
 	SM_MY_LAUNCHER_LOGIN(pck, hash);
 }

@@ -8,7 +8,6 @@
 void SM_GETPIN(PACKET* pck, int character_id)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeB(0);
 
 	if (strlen(pck->sockstruct->pin_code) == 4)

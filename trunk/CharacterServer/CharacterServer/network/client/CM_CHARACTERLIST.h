@@ -7,7 +7,6 @@
 
 void CM_CHARACTERLIST(PACKET* pck)
 {
-	uint16 unk1 = pck->readW();
 	uint32 unk2 = pck->readD();
 	uint32 unk3 = pck->readD();
 	uint32 unk4 = pck->readD();

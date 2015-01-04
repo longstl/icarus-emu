@@ -129,7 +129,7 @@
 			<part name="cryptflag" type="h"/>
 			<part name="0x00" type="d"/>
 		</packet>
-		<packet id="0x350e" name="SM_UNK12">
+		<packet id="0x350e" name="SM_INVENTORY_RESPONSE">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="d"/>
 			<part name="unk2" type="c"/>
@@ -352,7 +352,7 @@
 		<packet id="0x9b13" name="SM_UNK35">
 			<part name="cryptflag" type="h"/>
 		</packet>
-		<packet id="0x023d" name="OPCODE_SM_ACHIEVEMENTS">
+		<packet id="0x023d" name="SM_ACHIEVEMENTS">
 			<part name="cryptflag" type="h"/>
 		</packet>
 		<packet id="0x0310" name="SM_UNK_0310">
@@ -658,7 +658,7 @@
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
-		<packet id="0x340e" name="CM_UNK16">
+		<packet id="0x340e" name="CM_INVENTORY">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
@@ -666,7 +666,7 @@
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
-		<packet id="0x360e" name="CM_UNK18">
+		<packet id="0x360e" name="CM_SKILL_LIST">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
@@ -678,11 +678,11 @@
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
-		<packet id="0x4a0e" name="CM_UNK21">
+		<packet id="0x4a0e" name="CM_SKILL_PANEL">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
-		<packet id="0x0127" name="CM_UNK22">
+		<packet id="0x0127" name="CM_CHARACTER_STYLE">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="d"/>
 		</packet>

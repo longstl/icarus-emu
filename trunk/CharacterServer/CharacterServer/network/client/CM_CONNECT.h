@@ -7,7 +7,6 @@
 
 void CM_CONNECT(PACKET* pck)
 {
-	uint16 unk1 = pck->readUW();
 	account->account_id = pck->readUD();
 	uint32 unk2 = pck->readUD();
 	uint32 unk4 = pck->readUD();

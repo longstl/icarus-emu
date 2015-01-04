@@ -42,6 +42,9 @@ void PACKET::drop()
 	packet_len = NULL;
 }
 
+//====================================================================================
+// Получаем пакет от клиента
+//
 bool PACKET::PackRecv() 
 {
 	if ((packet_len = recv(sockstruct->socket, packet_buf, PACKET_LEN, 0)) == SOCKET_ERROR)
@@ -64,6 +67,7 @@ bool PACKET::PackRecv()
 	buf_use_packed = packet_buf;
 	real_packet_size = readUW();
 	opcode = readUW();
+	cryptflag = readUW();
 	packet_len = real_packet_size - offset;
 	return true;
 
@@ -71,21 +75,27 @@ bool PACKET::PackRecv()
 //	return false;
 }
 
+//====================================================================================
+// Отвечает за отправление пакета клиенту
+//
 bool PACKET::PackSend(uint16 op)
 {
-	char pack[PACKET_LEN + 4];
-	memcpy(pack + 4, packet_snd, offset_snd);
+	int16 cryptflag = 0;
+	char pack[PACKET_LEN + 6];
+	memcpy(pack + 6, packet_snd, offset_snd);
 
-	uint16 pack_len = offset_snd + 4;
+	uint16 pack_len = offset_snd + 6;
 	memcpy(pack, &pack_len, 2);
 	memcpy(pack + 2, &op, 2);
+	memcpy(pack + 4, &cryptflag, 2);
 	send(sockstruct->socket, pack, pack_len, NULL);
 
 	return true;
 }
-//////////////////////////////////////////////////////////////////////////
-// Возвращает указател?на буфе?пакета учитыв? смещение
-//////////////////////////////////////////////////////////////////////////
+
+//====================================================================================
+// Возвращает указатель на буфер учитывая смещение по нему
+//
 char* PACKET::GetPacketPointer()
 {
 	return buf_use_packed + offset;
