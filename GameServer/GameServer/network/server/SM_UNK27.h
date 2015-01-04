@@ -7,23 +7,31 @@
 
 inline void SM_UNK27(PACKET* pck)
 {
+	// באפû
 	pck->CreateBufForSend();
-	pck->writeA("000000000000643D0980643D09800EBB000000000000FBFF0900010000000000803F0000803F0100000030750000");
-	pck->PackSend(OPCODE_SM_UNK27);
-
-	pck->CreateBufForSend();
-	pck->writeA("000000000000643D0980643D09800FBB0000010000003C000A00010000000000803F0000803F0100000000000000");
+	pck->writeW(0);
+	pck->writeD(0);
+	pck->writeD(pck->me->id);
+	pck->writeD(pck->me->id);
+	pck->writeD(0xbb0e);
+	pck->writeD(0);
+	pck->writeD(0x0009fffb);
+	pck->writeD(1);
+	pck->writeD(0x3f800000);
+	pck->writeD(0x3f800000);
+	pck->writeD(1);
+	pck->writeD(0x7530);
 	pck->PackSend(OPCODE_SM_UNK27);
 
 }
 
 /*
-1832 0000
+0000
 00000000
-84BE0480
-84BE0480
-739E0000
-0001636E
+643D0980 - char id
+643D0980 - char id
+0EBB0000
+00000000
 FBFF0900
 01000000
 0000803F

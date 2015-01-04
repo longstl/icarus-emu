@@ -10,7 +10,6 @@ void SM_CREATECHARACTER(PACKET* pck, int character_id, char* strCharName, WCHAR*
 	log::Info(fg, "CSNetwork [%s]: Create character - %s (account id: %d)\n", inet_ntoa(pck->sockstruct->from), strCharName, pck->sockstruct->account_id);
 	int num_characters = pck->sql->GetNumCharacters(pck->sockstruct->account_id);
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->writeD(character_id);

@@ -7,8 +7,7 @@
 
 void CM_PING(PACKET* pck)
 {
-	uint8 unk1 = pck->readB();
-	uint16 unk2 = pck->readW();
+	uint8 unk2 = pck->readB();
 	SM_PONG(pck, true);
 }
 

@@ -144,9 +144,6 @@
     <ClInclude Include="network\server\SM_CONNECT.h">
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
-    <ClInclude Include="network\server\SM_UNK12.h">
-      <Filter>GAMESERVER\network\Server</Filter>
-    </ClInclude>
     <ClInclude Include="network\client\CM_UNK9.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
@@ -195,25 +192,13 @@
     <ClInclude Include="network\client\CM_UNK15.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
-    <ClInclude Include="network\client\CM_UNK16.h">
-      <Filter>GAMESERVER\network\Client</Filter>
-    </ClInclude>
     <ClInclude Include="network\client\CM_UNK17.h">
-      <Filter>GAMESERVER\network\Client</Filter>
-    </ClInclude>
-    <ClInclude Include="network\client\CM_UNK18.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
     <ClInclude Include="network\client\CM_UNK19.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
     <ClInclude Include="network\client\CM_UNK20.h">
-      <Filter>GAMESERVER\network\Client</Filter>
-    </ClInclude>
-    <ClInclude Include="network\client\CM_UNK21.h">
-      <Filter>GAMESERVER\network\Client</Filter>
-    </ClInclude>
-    <ClInclude Include="network\client\CM_UNK22.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
     <ClInclude Include="network\client\CM_UNK23.h">
@@ -330,9 +315,6 @@
     <ClInclude Include="network\server\SM_UNK_630e.h">
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
-    <ClInclude Include="network\server\SM_UNK_700e.h">
-      <Filter>GAMESERVER\network\Server</Filter>
-    </ClInclude>
     <ClInclude Include="network\server\SM_UNK_3318.h">
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
@@ -431,6 +413,24 @@
     </ClInclude>
     <ClInclude Include="network\server\SM_CHARACTER_STYLE.h">
       <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_CHANGE_CHARACTER.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_INVENTORY_RESPONSE.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_INVENTORY.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_SKILL_LIST.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_SKILL_PANEL.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_CHARACTER_STYLE.h">
+      <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

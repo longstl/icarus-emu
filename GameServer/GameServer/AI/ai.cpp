@@ -45,7 +45,7 @@ void AI::StatusHandler(int num_player)
 		break;
 
 	case STATUS_CONNECT:
-		SM_UNK13(pck);
+//		SM_UNK13(pck);
 		SM_UNK1(pck);
 		SM_CONNECT(pck);
 		break;
@@ -61,7 +61,7 @@ void AI::StatusHandler(int num_player)
 		break;
 
 	case STATUS_GETINFO:
-		pck->IsOnePacket(true);
+//		pck->IsOnePacket(true);
 		SM_ENTER_WORLD(pck);
 		SM_UNK20(pck);
 		SM_UNK21(pck);
@@ -73,7 +73,7 @@ void AI::StatusHandler(int num_player)
 //		SM_UNK_1710(pck);
 //		SM_SKILL_LIST(pck);
 //		SM_SKILL_BUF(pck);
-		pck->IsOnePacket(false);
+//		pck->IsOnePacket(false);
 		break;
 	}
 	players[num_player].character.status = STATUS_NONE;

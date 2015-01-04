@@ -27,39 +27,48 @@ inline void CM_CHAT(PACKET* pck)
 	switch (byte)
 	{
 	case '1':
-		SM_UNK_0b2b(pck);
-		SM_UNK_0c2b(pck);
+		SM_UNK27(pck);
 		break;
 	case '2':
-		SM_UNK_400e(pck);
 		break;
 	case '3':
-		SM_UNK_4b0e(pck);
+		SM_UNK_400e(pck);
 		break;
 	case '4':
-		SM_UNK35(pck);
+		SM_UNK_2a0f(pck);
 		break;
 	case '5':
+		SM_UNK_4b0e(pck);
 		break;
 	case '6':
+		SM_UNK_4f0e(pck);
 		break;
 	case '7':
+		SM_UNK_6f0e(pck);
 		break;
 	case '8':
+		SM_UNK_9c13(pck);
 		break;
 	case '9':
+		SM_UNK_9e13(pck);
 		break;
 	case 'a':
+		SM_UNK_023c(pck);
 		break;
 	case 'b':		
+		SM_UNK_023e(pck);
 		break;
 	case 'c':
+		SM_UNK_033c(pck);
 		break;
 	case 'd':
+		SM_UNK_033e(pck);
 		break;
 	case 'e':
+		SM_UNK_0310(pck);
 		break;
 	case 'f':
+		SM_UNK_0335(pck);
 		break;
 
 	}

@@ -46,6 +46,7 @@ private:
 	uint32				offset_snd;
 	char				packet_snd[PACKET_LEN];
 	FILE*				fg;
+	int					cryptflag;
 	
 public:
 	template <typename T> T read()

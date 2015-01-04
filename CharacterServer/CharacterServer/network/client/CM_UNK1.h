@@ -7,7 +7,7 @@
 
 void CM_UNK1(PACKET* pck)
 {
-	uint32 unk1 = pck->readD();
+	uint16 unk1 = pck->readW();
 	uint32 unk2 = pck->readD();
 	SM_UNK1(pck);
 }

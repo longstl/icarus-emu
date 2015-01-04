@@ -10,7 +10,6 @@ void SM_PIN(PACKET* pck, int character_id, bool succesful)
 	++account->pin_erros;
 	pck->sql->UpdatePinCode(account->account_id, account->pin_erros);
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0x52);
 	pck->writeB(1);
 	pck->writeB(2);

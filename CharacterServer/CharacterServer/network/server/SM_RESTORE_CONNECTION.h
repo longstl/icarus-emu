@@ -8,7 +8,6 @@
 void SM_RESTORE_CONNECTION(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(5);
 	pck->writeD(0x3fb60000);

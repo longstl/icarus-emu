@@ -9,7 +9,6 @@ void CM_CHECKCHARACTERNAME(PACKET* pck)
 {
 	char charname[18];
 	WCHAR w_charname[18];
-	int16 unk1 = pck->readW();
 	int len_w_charname = pck->readWstr(w_charname);
 	int len_charname = wcstombs(charname, w_charname, 18);
 

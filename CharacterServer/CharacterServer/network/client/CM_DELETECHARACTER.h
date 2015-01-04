@@ -8,7 +8,6 @@
 void CM_DELETECHARACTER(PACKET* pck)
 {
 	Sleep(1500);
-	int16 unk1 = pck->readW();	// 0x0b02
 	int32 character_id = pck->readD();
 	int32 unk2 = pck->readD();	// 0x40d36979
 	int32 unk3 = pck->readD();	// 0x3dc88415

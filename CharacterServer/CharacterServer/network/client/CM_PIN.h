@@ -9,7 +9,6 @@ void CM_PIN(PACKET* pck)
 {
 	char pin[5];
 	memset(pin, 0, 5);
-	int16 unk1 = pck->readW();	// 0x7a02
 	int8 unk2 = pck->readB();	// 0
 	int8 action = pck->readB();
 	int16 unk3 = pck->readW();	

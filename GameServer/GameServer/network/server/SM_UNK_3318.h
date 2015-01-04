@@ -9,8 +9,8 @@ inline void SM_UNK_3318(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeW(0);
-	pck->writeD(0x80023306);
-	pck->writeD(0x0000ee0a);
+	pck->writeD(pck->me->id);
+	pck->writeD(0x0000bb0e);
 	pck->PackSend(OPCODE_SM_UNK_3318);
 }
 

@@ -8,7 +8,6 @@
 void SM_LOBBYUSERMSG(PACKET* pck, int message)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(message);
 	pck->PackSend(OPCODE_SM_LOBBYUSERMSG);
 }
