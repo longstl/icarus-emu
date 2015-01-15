@@ -1,0 +1,740 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="prudence_Name" korean="[" />
+	<block key="prudence_description_1" korean="íÓÔXÇ " />
+	<block key="prudence_description_2" korean="íÓÔXÇ " />
+	<block key="prudence_description_3" korean="íÓÔXÇ " />
+	<block key="prudence_description_4" korean="íÓÔXÇ " />
+	<block key="prudence_description_5" korean="íÓÔXÇ " />
+	<block key="prudence_description_6" korean="íÓÔXÇ " />
+	<block key="prudence_description_7" korean="íÓÔXÇ " />
+	<block key="prudence_description_8" korean="íÓÔXÇ " />
+	<block key="prudence_description_9" korean="íÓÔXÇ " />
+	<block key="prudence_description_10" korean="íÓÔXÇ " />
+	<block key="prudence_description_11" korean="íÓÔXÇ " />
+	<block key="prudence_description_12" korean="íÓÔXÇ " />
+	<block key="prudence_description_13" korean="íÓÔXÇ " />
+	<block key="prudence_description_14" korean="íÓÔXÇ " />
+	<block key="prudence_description_15" korean="íÓÔXÇ " />
+	<block key="prudence_description_16" korean="íÓÔXÇ " />
+	<block key="prudence_description_17" korean="íÓÔXÇ " />
+	<block key="prudence_description_18" korean="íÓÔXÇ " />
+	<block key="prudence_description_19" korean="íÓÔXÇ " />
+	<block key="prudence_description_20" korean="íÓÔXÇ " />
+	<block key="prudencelink_name" korean="[" />
+	<block key="prudencelink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="prudenceob_name" korean="[" />
+	<block key="prudenceob_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="repeatingshoot_Name" korean="[" />
+	<block key="repeatingshoot_description_1" korean="8Á " />
+	<block key="repeatingshoot_description_2" korean="8Á " />
+	<block key="repeatingshoot_description_3" korean="8Á " />
+	<block key="repeatingshoot_description_4" korean="8Á " />
+	<block key="repeatingshoot_description_5" korean="8Á " />
+	<block key="repeatingshoot_description_6" korean="8Á " />
+	<block key="repeatingshoot_description_7" korean="8Á " />
+	<block key="repeatingshoot_description_8" korean="8Á " />
+	<block key="repeatingshoot_description_9" korean="8Á " />
+	<block key="repeatingshoot_description_10" korean="8Á " />
+	<block key="repeatingshoot2_Name" korean="[" />
+	<block key="repeatingshoot2_description_1" korean="8Á " />
+	<block key="repeatingshoot2_description_2" korean="8Á " />
+	<block key="repeatingshoot2_description_3" korean="8Á " />
+	<block key="repeatingshoot2_description_4" korean="8Á " />
+	<block key="repeatingshoot2_description_5" korean="8Á " />
+	<block key="repeatingshoot2_description_6" korean="8Á " />
+	<block key="repeatingshoot2_description_7" korean="8Á " />
+	<block key="repeatingshoot2_description_8" korean="8Á " />
+	<block key="repeatingshoot2_description_9" korean="8Á " />
+	<block key="repeatingshoot2_description_10" korean="8Á " />
+	<block key="aimedshot_Name" korean="[" />
+	<block key="aimedshot_description_1" korean="" />
+	<block key="aimedshot_description_2" korean="" />
+	<block key="aimedshot_description_3" korean="" />
+	<block key="aimedshot_description_4" korean="" />
+	<block key="aimedshot_description_5" korean="" />
+	<block key="aimedshot_description_6" korean="" />
+	<block key="aimedshot_description_7" korean="" />
+	<block key="aimedshot_description_8" korean="" />
+	<block key="aimedshot_description_9" korean="" />
+	<block key="aimedshot_description_10" korean="" />
+	<block key="aimedshot_description_11" korean="" />
+	<block key="aimedshot_description_12" korean="" />
+	<block key="aimedshot_description_13" korean="" />
+	<block key="aimedshot_description_14" korean="" />
+	<block key="aimedshot_description_15" korean="" />
+	<block key="aimedshot_description_16" korean="" />
+	<block key="aimedshot_description_17" korean="" />
+	<block key="aimedshot_description_18" korean="" />
+	<block key="aimedshot_description_19" korean="" />
+	<block key="aimedshot_description_20" korean="" />
+	<block key="arrowrain_Name" korean="[" />
+	<block key="arrowrain_description_1" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_2" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_3" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_4" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_5" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_6" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_7" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_8" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_9" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_10" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_11" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_12" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_13" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_14" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_15" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_16" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_17" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_18" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_19" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_20" korean=" ÁÝÐ\Õ " />
+	<block key="arrowrain_description_21" korean=" ÁÝÐ\Õ " />
+	<block key="concentration_Name" korean="[" />
+	<block key="concentration_description_1" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_2" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_3" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_4" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_5" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_6" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_7" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_8" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_9" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_10" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_11" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_12" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_13" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_14" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_15" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_16" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_17" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_18" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_19" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_20" korean="ÑÉÉXÕìÅ " />
+	<block key="concentration_description_21" korean="ÑÉÉXÕìÅ " />
+	<block key="slowshoot_Name" korean="[" />
+	<block key="slowshoot_description_1" korean="ðÅ¬À " />
+	<block key="slowshoot_description_2" korean="ðÅ¬À " />
+	<block key="slowshoot_description_3" korean="ðÅ¬À " />
+	<block key="slowshoot_description_4" korean="ðÅ¬À " />
+	<block key="slowshoot_description_5" korean="ðÅ¬À " />
+	<block key="slowshoot_description_6" korean="ðÅ¬À " />
+	<block key="slowshoot_description_7" korean="ðÅ¬À " />
+	<block key="slowshoot_description_8" korean="ðÅ¬À " />
+	<block key="slowshoot_description_9" korean="ðÅ¬À " />
+	<block key="slowshoot_description_10" korean="ðÅ¬À " />
+	<block key="slowshoot_description_11" korean="ðÅ¬À " />
+	<block key="slowshoot_description_12" korean="ðÅ¬À " />
+	<block key="slowshoot_description_13" korean="ðÅ¬À " />
+	<block key="slowshoot_description_14" korean="ðÅ¬À " />
+	<block key="slowshoot_description_15" korean="ðÅ¬À " />
+	<block key="slowshoot_description_16" korean="ðÅ¬À " />
+	<block key="slowshoot_description_17" korean="ðÅ¬À " />
+	<block key="slowshoot_description_18" korean="ðÅ¬À " />
+	<block key="slowshoot_description_19" korean="ðÅ¬À " />
+	<block key="slowshoot_description_20" korean="ðÅ¬À " />
+	<block key="slowshootlink_name" korean="[" />
+	<block key="slowshootlink_description_1" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_2" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_3" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_4" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_5" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_6" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_7" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_8" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_9" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_10" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_11" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_12" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_13" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_14" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_15" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_16" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_17" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_18" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_19" korean="ðÅ¬À " />
+	<block key="slowshootlink_description_20" korean="ðÅ¬À " />
+	<block key="slowshootlink2_name" korean="[" />
+	<block key="slowshootlink2_description_1" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_2" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_3" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_4" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_5" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_6" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_7" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_8" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_9" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_10" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_11" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_12" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_13" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_14" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_15" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_16" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_17" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_18" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_19" korean="ðÅ¬À " />
+	<block key="slowshootlink2_description_20" korean="ðÅ¬À " />
+	<block key="speedup_Name" korean="[" />
+	<block key="speedup_description_1" korean="2" />
+	<block key="speedup_description_2" korean="2" />
+	<block key="speedup_description_3" korean="2" />
+	<block key="speedupcrilink_name" korean="[" />
+	<block key="speedupcrilink_description_1" korean="2" />
+	<block key="speedupcrilink_description_2" korean="2" />
+	<block key="speedupcrilink_description_3" korean="2" />
+	<block key="speedupcrilink_description_4" korean="2" />
+	<block key="speeduplink_name" korean="[" />
+	<block key="speeduplink_description_1" korean="2" />
+	<block key="speeduplink_description_2" korean="2" />
+	<block key="speeduplink_description_3" korean="2" />
+	<block key="speeduplink_description_4" korean="2" />
+	<block key="stormshot_name" korean="íÓÔ¬À©¬" />
+	<block key="stormshot_description_1" korean="9" />
+	<block key="stormshot2_name" korean="íÓÔ¬À©¬" />
+	<block key="stormshot2_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="balance_Name" korean="à­Ö¬" />
+	<block key="balance_description_1" korean="à­Ö¬tÇ " />
+	<block key="balance_description_2" korean="à­Ö¬tÇ " />
+	<block key="balance_description_3" korean="à­Ö¬tÇ " />
+	<block key="balance_description_4" korean="à­Ö¬tÇ " />
+	<block key="balance_description_5" korean="à­Ö¬tÇ " />
+	<block key="balance_description_6" korean="à­Ö¬tÇ " />
+	<block key="balance_description_7" korean="à­Ö¬tÇ " />
+	<block key="balance_description_8" korean="à­Ö¬tÇ " />
+	<block key="balance_description_9" korean="à­Ö¬tÇ " />
+	<block key="balance_description_10" korean="à­Ö¬tÇ " />
+	<block key="concentrationup_Name" korean="ÑÉÉ%¸ " />
+	<block key="concentrationup_description_1" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_2" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_3" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_4" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_5" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_6" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_7" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_8" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_9" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="concentrationup_description_10" korean="ÑÐ¹Â<Ç\¸ " />
+	<block key="whipping_Name" korean="DÌÌÈÉ" />
+	<block key="whipping_description_1" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_2" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_3" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_4" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_5" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_6" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_7" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_8" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_9" korean=" Ó\¸°Æ|¹ " />
+	<block key="whipping_description_10" korean=" Ó\¸°Æ|¹ " />
+	<block key="confident_Name" korean="ù²ù²hÕ" />
+	<block key="confident_description_1" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_2" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_3" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_4" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_5" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_6" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_7" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_8" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_9" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="confident_description_10" korean="ÑÐ¹ÂÄ³ÉÐÅ " />
+	<block key="lancemastery_Name" korean="=Ì " />
+	<block key="lancemastery_description_1" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_2" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_3" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_4" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_5" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_6" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_7" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_8" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_9" korean=" Ó\¸°Æ " />
+	<block key="lancemastery_description_10" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_Name" korean="Á­ " />
+	<block key="crossbowmastery_description_1" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_2" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_3" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_4" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_5" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_6" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_7" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_8" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_9" korean=" Ó\¸°Æ " />
+	<block key="crossbowmastery_description_10" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_Name" korean="C®¼ " />
+	<block key="flagmastery_description_1" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_2" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_3" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_4" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_5" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_6" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_7" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_8" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_9" korean=" Ó\¸°Æ " />
+	<block key="flagmastery_description_10" korean=" Ó\¸°Æ " />
+	<block key="dash_Name" korean="ÈÉüÈ" />
+	<block key="dash_description_1" korean="=ÌDÇ " />
+	<block key="dash_description_2" korean="=ÌDÇ " />
+	<block key="dash_description_3" korean="=ÌDÇ " />
+	<block key="dash_description_4" korean="=ÌDÇ " />
+	<block key="dash_description_5" korean="=ÌDÇ " />
+	<block key="dash_description_6" korean="=ÌDÇ " />
+	<block key="dash_description_7" korean="=ÌDÇ " />
+	<block key="dash_description_8" korean="=ÌDÇ " />
+	<block key="dash_description_9" korean="=ÌDÇ " />
+	<block key="dash_description_10" korean="=ÌDÇ " />
+	<block key="target_Name" korean="ÀÐŸ¬ " />
+	<block key="target_description_1" korean="" />
+	<block key="target_description_2" korean="" />
+	<block key="target_description_3" korean="" />
+	<block key="target_description_4" korean="" />
+	<block key="target_description_5" korean="" />
+	<block key="target_description_6" korean="" />
+	<block key="target_description_7" korean="" />
+	<block key="target_description_8" korean="" />
+	<block key="target_description_9" korean="" />
+	<block key="target_description_10" korean="" />
+	<block key="position_Name" korean="ÄÉÀÉ " />
+	<block key="position_description_1" korean="¹ÒÈ " />
+	<block key="position_description_2" korean="¹ÒÈ " />
+	<block key="position_description_3" korean="¹ÒÈ " />
+	<block key="position_description_4" korean="¹ÒÈ " />
+	<block key="position_description_5" korean="¹ÒÈ " />
+	<block key="position_description_6" korean="¹ÒÈ " />
+	<block key="position_description_7" korean="¹ÒÈ " />
+	<block key="position_description_8" korean="¹ÒÈ " />
+	<block key="position_description_9" korean="¹ÒÈ " />
+	<block key="position_description_10" korean="¹ÒÈ " />
+	<block key="ridingcbow_Name" korean="Á­ " />
+	<block key="ridingcbow_description_1" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_2" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_3" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_4" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_5" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_6" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_7" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_8" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_9" korean="ÑÐ¹Â " />
+	<block key="ridingcbow_description_10" korean="ÑÐ¹Â " />
+	<block key="ridingflag_Name" korean="C®¼ " />
+	<block key="ridingflag_description_1" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_1" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_2" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_3" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_4" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_5" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_6" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_7" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_8" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_9" korean="ÑÐ¹Â " />
+	<block key="ridingflagspeedup_description_10" korean="ÑÐ¹Â " />
+	<block key="ridingspear_Name" korean="‘ÅÁ=Ì " />
+	<block key="ridingspear_description_1" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_2" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_3" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_4" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_5" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_6" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_7" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_8" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_9" korean="ÑÐ¹Â " />
+	<block key="ridingspear_description_10" korean="ÑÐ¹Â " />
+	<block key="cruel_Name" korean="4»ÇD¾\Õ " />
+	<block key="cruel_description_1" korean="p¬\Î " />
+	<block key="cruel_description_2" korean="p¬\Î " />
+	<block key="cruel_description_3" korean="p¬\Î " />
+	<block key="cruel_description_4" korean="p¬\Î " />
+	<block key="cruel_description_5" korean="p¬\Î " />
+	<block key="cruel_description_6" korean="p¬\Î " />
+	<block key="cruel_description_7" korean="p¬\Î " />
+	<block key="cruel_description_8" korean="p¬\Î " />
+	<block key="cruel_description_9" korean="p¬\Î " />
+	<block key="cruel_description_10" korean="p¬\Î " />
+	<block key="care_Name" korean="Â8ÖXÇ " />
+	<block key="care_description_1" korean="Â8ÖÇXÇ " />
+	<block key="care_description_2" korean="Â8ÖÇXÇ " />
+	<block key="care_description_3" korean="Â8ÖÇXÇ " />
+	<block key="care_description_4" korean="Â8ÖÇXÇ " />
+	<block key="care_description_5" korean="Â8ÖÇXÇ " />
+	<block key="care_description_6" korean="Â8ÖÇXÇ " />
+	<block key="care_description_7" korean="Â8ÖÇXÇ " />
+	<block key="care_description_8" korean="Â8ÖÇXÇ " />
+	<block key="care_description_9" korean="Â8ÖÇXÇ " />
+	<block key="care_description_10" korean="Â8ÖÇXÇ " />
+	<block key="pursuer_Name" korean="”ÍÈÇXÇ " />
+	<block key="pursuer_description_1" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_2" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_3" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_4" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_5" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_6" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_7" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_8" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_9" korean=" Ó\¸°Æ@Æ " />
+	<block key="pursuer_description_10" korean=" Ó\¸°Æ@Æ " />
+	<block key="powerarkcs_Name" korean="[" />
+	<block key="powerarkcs_description_1" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_2" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_3" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_4" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_5" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_6" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_7" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_8" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_9" korean="=ÌÐÅ " />
+	<block key="powerarkcs_description_10" korean="=ÌÐÅ " />
+	<block key="gustofwind_Name" korean="Ì³Ô" />
+	<block key="gustofwind_description_1" korean="È)¼DÇ " />
+	<block key="gustofwind_description_2" korean="È)¼DÇ " />
+	<block key="gustofwind_description_3" korean="È)¼DÇ " />
+	<block key="gustofwind_description_4" korean="È)¼DÇ " />
+	<block key="gustofwind_description_5" korean="È)¼DÇ " />
+	<block key="gustofwind_description_6" korean="È)¼DÇ " />
+	<block key="gustofwind_description_7" korean="È)¼DÇ " />
+	<block key="gustofwind_description_8" korean="È)¼DÇ " />
+	<block key="gustofwind_description_9" korean="È)¼DÇ " />
+	<block key="gustofwind_description_10" korean="È)¼DÇ " />
+	<block key="gustofwind2_Name" korean="[" />
+	<block key="gustofwind2_description_1" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_2" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_3" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_4" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_5" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_6" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_7" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_8" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_9" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_10" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_11" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_12" korean="=ÌDÇ " />
+	<block key="gustofwind2_description_13" korean="=ÌDÇ " />
+	<block key="gustofwind3_Name" korean="Ì³Ô" />
+	<block key="gustofwind3_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="gustofwinda_name" korean="Ì³Ô" />
+	<block key="gustofwinda_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="gustofwindb_name" korean="Ì³Ô" />
+	<block key="gustofwindb_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="lanceatk_Name" korean="[" />
+	<block key="lanceatk_description_1" korean="3" />
+	<block key="lanceatk_description_2" korean="3" />
+	<block key="lanceatk_description_3" korean="3" />
+	<block key="lanceatk_description_4" korean="3" />
+	<block key="lanceatk_description_5" korean="3" />
+	<block key="lanceatk_description_6" korean="3" />
+	<block key="lanceatk_description_7" korean="3" />
+	<block key="lanceatk_description_8" korean="3" />
+	<block key="lanceatk_description_9" korean="3" />
+	<block key="lanceatk_description_10" korean="3" />
+	<block key="lanceatk_description_11" korean="3" />
+	<block key="lanceatk_description_12" korean="3" />
+	<block key="lanceatk_description_13" korean="3" />
+	<block key="lanceatk_description_14" korean="3" />
+	<block key="lanceatk_description_15" korean="3" />
+	<block key="lanceatk_description_16" korean="3" />
+	<block key="lanceatk_description_17" korean="3" />
+	<block key="lanceatk_description_18" korean="3" />
+	<block key="lanceatk_description_19" korean="3" />
+	<block key="lanceatk_description_20" korean="3" />
+	<block key="lanceatk2_Name" korean="[" />
+	<block key="lanceatk2_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="lanceatk3_Name" korean="[" />
+	<block key="lanceatk3_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="normalattack_name" korean="ÇÙ³ " />
+	<block key="normalattack_description_1" korean="" />
+	<block key="comboatk_Name" korean="[" />
+	<block key="comboatk_description_1" korean="1" />
+	<block key="comboatk_description_2" korean="1" />
+	<block key="comboatk_description_3" korean="1" />
+	<block key="comboatk_description_4" korean="1" />
+	<block key="comboatk_description_5" korean="1" />
+	<block key="comboatk_description_6" korean="1" />
+	<block key="comboatk_description_7" korean="1" />
+	<block key="comboatk_description_8" korean="1" />
+	<block key="comboatk_description_9" korean="1" />
+	<block key="comboatk_description_10" korean="1" />
+	<block key="comboatk_description_11" korean="1" />
+	<block key="comboatk_description_12" korean="1" />
+	<block key="comboatk_description_13" korean="1" />
+	<block key="comboatk_description_14" korean="1" />
+	<block key="comboatk_description_15" korean="1" />
+	<block key="comboatk_description_16" korean="1" />
+	<block key="comboatk_description_17" korean="1" />
+	<block key="comboatk_description_18" korean="1" />
+	<block key="comboatk_description_19" korean="1" />
+	<block key="comboatk_description_20" korean="1" />
+	<block key="comboatk2_Name" korean="[" />
+	<block key="comboatk2_description_1" korean="1" />
+	<block key="poweratkcs_Name" korean="[" />
+	<block key="poweratkcs_description_1" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_2" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_3" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_4" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_5" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_6" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_7" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_8" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_9" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_10" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_11" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_12" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_13" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_14" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_15" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_16" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_17" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_18" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_19" korean="0®´ÆDÇ " />
+	<block key="poweratkcs_description_20" korean="0®´ÆDÇ " />
+	<block key="heartatk_Name" korean="[" />
+	<block key="heartatk_description_1" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_2" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_3" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_4" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_5" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_6" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_7" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_8" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_9" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_10" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_11" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_12" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_13" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_14" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_15" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_16" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_17" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_18" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_19" korean="0®´ÆDÇ " />
+	<block key="heartatk_description_20" korean="0®´ÆDÇ " />
+	<block key="mocarashafire01_Name" korean="ˆ½C¯I¼0®" />
+	<block key="mocarashafire01_description_1" korean="ÈDÇ¥ÕtÕ " />
+	<block key="moasterasfire01_Name" korean="€¬@Çˆ¼¬" />
+	<block key="weakness_Name" korean="}ÅÈ " />
+	<block key="weakness_description_1" korean="}ÅÈtÇ " />
+	<block key="poisonshot_Name" korean="[" />
+	<block key="poisonshot_description_1" korean="" />
+	<block key="poisonshot_description_2" korean="" />
+	<block key="poisonshot_description_3" korean="" />
+	<block key="poisonshot_description_4" korean="" />
+	<block key="poisonshot_description_5" korean="" />
+	<block key="poisonshot_description_6" korean="" />
+	<block key="poisonshot_description_7" korean="" />
+	<block key="poisonshot_description_8" korean="" />
+	<block key="poisonshot_description_9" korean="" />
+	<block key="poisonshot_description_10" korean="" />
+	<block key="poisonshot_description_11" korean="" />
+	<block key="poisonshot_description_12" korean="" />
+	<block key="poisonshot_description_13" korean="" />
+	<block key="poisonshot_description_14" korean="" />
+	<block key="poisonshot_description_15" korean="" />
+	<block key="poisonshot_description_16" korean="" />
+	<block key="poisonshot_description_17" korean="" />
+	<block key="poisonshot_description_18" korean="" />
+	<block key="poisonshot_description_19" korean="" />
+	<block key="poisonshot_description_20" korean="" />
+	<block key="poisonshotlink_name" korean="[" />
+	<block key="poisonshotlink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="poisonshotlink2_name" korean="[" />
+	<block key="poisonshotlink2_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="godhands_Name" korean="[" />
+	<block key="godhands_description_1" korean="Á¬À " />
+	<block key="arrowrainlink_name" korean="TÖ´ÀD¾" />
+	<block key="wildshot_Name" korean="[" />
+	<block key="wildshot_description_1" korean="" />
+	<block key="wildshot_description_2" korean="" />
+	<block key="wildshot_description_3" korean="" />
+	<block key="wildshot_description_4" korean="" />
+	<block key="wildshot_description_5" korean="" />
+	<block key="wildshot_description_6" korean="" />
+	<block key="wildshot_description_7" korean="" />
+	<block key="wildshot_description_8" korean="" />
+	<block key="wildshot_description_9" korean="" />
+	<block key="wildshot_description_10" korean="" />
+	<block key="lightningshot_Name" korean="[" />
+	<block key="lightningshot_description_1" korean="ðÅ¬À " />
+	<block key="lightningshot_description_2" korean="ðÅ¬À " />
+	<block key="lightningshot_description_3" korean="ðÅ¬À " />
+	<block key="lightningshot_description_4" korean="ðÅ¬À " />
+	<block key="lightningshot_description_5" korean="ðÅ¬À " />
+	<block key="lightningshot_description_6" korean="ðÅ¬À " />
+	<block key="lightningshot_description_7" korean="ðÅ¬À " />
+	<block key="lightningshot_description_8" korean="ðÅ¬À " />
+	<block key="lightningshot_description_9" korean="ðÅ¬À " />
+	<block key="lightningshot_description_10" korean="ðÅ¬À " />
+	<block key="lightningshot_description_11" korean="ðÅ¬À " />
+	<block key="lightningshot_description_12" korean="ðÅ¬À " />
+	<block key="lightningshot_description_13" korean="ðÅ¬À " />
+	<block key="lightningshot_description_14" korean="ðÅ¬À " />
+	<block key="lightningshot_description_15" korean="ðÅ¬À " />
+	<block key="lightningshot_description_16" korean="ðÅ¬À " />
+	<block key="lightningshot_description_17" korean="ðÅ¬À " />
+	<block key="lightningshot_description_18" korean="ðÅ¬À " />
+	<block key="lightningshot_description_19" korean="ðÅ¬À " />
+	<block key="lightningshot_description_20" korean="ðÅ¬À " />
+	<block key="lightningshot2_Name" korean="[" />
+	<block key="lightningshot2_description_1" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_2" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_3" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_4" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_5" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_6" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_7" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_8" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_9" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_10" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_11" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_12" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_13" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_14" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_15" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_16" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_17" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_18" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_19" korean="ðÅ¬À " />
+	<block key="lightningshot2_description_20" korean="ðÅ¬À " />
+	<block key="hack_name" korean="[" />
+	<block key="hack_Description_1" korean="ðÅÁ " />
+	<block key="hack_Description_2" korean="ðÅÁ " />
+	<block key="hack_Description_3" korean="ðÅÁ " />
+	<block key="hack_Description_4" korean="ðÅÁ " />
+	<block key="hack_Description_5" korean="ðÅÁ " />
+	<block key="hack_Description_6" korean="ðÅÁ " />
+	<block key="hack_Description_7" korean="ðÅÁ " />
+	<block key="hack_Description_8" korean="ðÅÁ " />
+	<block key="hack_Description_9" korean="ðÅÁ " />
+	<block key="hack_Description_10" korean="ðÅÁ " />
+	<block key="hack_Description_11" korean="ðÅÁ " />
+	<block key="hack_Description_12" korean="ðÅÁ " />
+	<block key="hack_Description_13" korean="ðÅÁ " />
+	<block key="hack_Description_14" korean="ðÅÁ " />
+	<block key="hack_Description_15" korean="ðÅÁ " />
+	<block key="hack2_Name" korean="[" />
+	<block key="hack3_Name" korean="[" />
+	<block key="hack4_Name" korean="[" />
+	<block key="hack5_Name" korean="[" />
+	<block key="pointattack_name" korean="[" />
+	<block key="pointattack_Description_1" korean="œ°©¬ " />
+	<block key="pointattack_Description_2" korean="œ°©¬ " />
+	<block key="pointattack_Description_3" korean="œ°©¬ " />
+	<block key="pointattack_Description_4" korean="œ°©¬ " />
+	<block key="pointattack_Description_5" korean="œ°©¬ " />
+	<block key="pointattack_Description_6" korean="œ°©¬ " />
+	<block key="pointattack_Description_7" korean="œ°©¬ " />
+	<block key="pointattack_Description_8" korean="œ°©¬ " />
+	<block key="pointattack_Description_9" korean="œ°©¬ " />
+	<block key="pointattack_Description_10" korean="œ°©¬ " />
+	<block key="pointattack_Description_11" korean="œ°©¬ " />
+	<block key="pointattack_Description_12" korean="œ°©¬ " />
+	<block key="pointattack_Description_13" korean="œ°©¬ " />
+	<block key="pointattack_Description_14" korean="œ°©¬ " />
+	<block key="heartcrash_name" korean="[" />
+	<block key="heartcrash_Description_1" korean="œ°©¬ " />
+	<block key="heartcrash_Description_2" korean="œ°©¬ " />
+	<block key="heartcrash_Description_3" korean="œ°©¬ " />
+	<block key="heartcrash_Description_4" korean="œ°©¬ " />
+	<block key="heartcrash_Description_5" korean="œ°©¬ " />
+	<block key="heartcrash_Description_6" korean="œ°©¬ " />
+	<block key="heartcrash_Description_7" korean="œ°©¬ " />
+	<block key="heartcrash_Description_8" korean="œ°©¬ " />
+	<block key="heartcrash_Description_9" korean="œ°©¬ " />
+	<block key="heartcrash_Description_10" korean="œ°©¬ " />
+	<block key="heartcrash_Description_11" korean="œ°©¬ " />
+	<block key="heartcrash_Description_12" korean="œ°©¬ " />
+	<block key="heartcrash_Description_13" korean="œ°©¬ " />
+	<block key="soulcrash_name" korean="[" />
+	<block key="soulcrash_Description_1" korean="œ°©¬ " />
+	<block key="soulcrash_Description_2" korean="œ°©¬ " />
+	<block key="soulcrash_Description_3" korean="œ°©¬ " />
+	<block key="soulcrash_Description_4" korean="œ°©¬ " />
+	<block key="soulcrash_Description_5" korean="œ°©¬ " />
+	<block key="soulcrash_Description_6" korean="œ°©¬ " />
+	<block key="soulcrash_Description_7" korean="œ°©¬ " />
+	<block key="soulcrash_Description_8" korean="œ°©¬ " />
+	<block key="soulcrash_Description_9" korean="œ°©¬ " />
+	<block key="soulcrash_Description_10" korean="œ°©¬ " />
+	<block key="soulcrash_Description_11" korean="œ°©¬ " />
+	<block key="soulcrash_Description_12" korean="œ°©¬ " />
+	<block key="continuousshot_Name" korean="[" />
+	<block key="continuousshot_description_1" korean="ðÅÁ " />
+	<block key="continuousshot_description_2" korean="ðÅÁ " />
+	<block key="continuousshot_description_3" korean="ðÅÁ " />
+	<block key="continuousshot_description_4" korean="ðÅÁ " />
+	<block key="continuousshot_description_5" korean="ðÅÁ " />
+	<block key="continuousshot_description_6" korean="ðÅÁ " />
+	<block key="continuousshot_description_7" korean="ðÅÁ " />
+	<block key="continuousshot_description_8" korean="ðÅÁ " />
+	<block key="continuousshot_description_9" korean="ðÅÁ " />
+	<block key="continuousshot_description_10" korean="ðÅÁ " />
+	<block key="continuousshot_description_11" korean="ðÅÁ " />
+	<block key="continuousshot_description_12" korean="ðÅÁ " />
+	<block key="continuousshot_description_13" korean="ðÅÁ " />
+	<block key="continuousshot_description_14" korean="ðÅÁ " />
+	<block key="continuousshot_description_15" korean="ðÅÁ " />
+	<block key="continuousshot_description_16" korean="ðÅÁ " />
+	<block key="continuousshot2_Name" korean="[" />
+	<block key="continuousshot3_Name" korean="[" />
+	<block key="continuousshot4_Name" korean="[" />
+	<block key="continuousshot5_Name" korean="[" />
+	<block key="stromshot_Name" korean="[" />
+	<block key="wildshotcl_Name" korean="[" />
+	<block key="wildshotcl_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wildshotcm_Name" korean="[" />
+	<block key="wildshotcm_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="bombshot_name" korean="[" />
+	<block key="bombshot_Description_1" korean="ðÅ¬À " />
+	<block key="bombshot_Description_2" korean="ðÅ¬À " />
+	<block key="bombshot_Description_3" korean="ðÅ¬À " />
+	<block key="bombshot_Description_4" korean="ðÅ¬À " />
+	<block key="bombshot_Description_5" korean="ðÅ¬À " />
+	<block key="bombshot_Description_6" korean="ðÅ¬À " />
+	<block key="bombshot_Description_7" korean="ðÅ¬À " />
+	<block key="bombshot_Description_8" korean="ðÅ¬À " />
+	<block key="bombshot_Description_9" korean="ðÅ¬À " />
+	<block key="bombshot_Description_10" korean="ðÅ¬À " />
+	<block key="bombshot_Description_11" korean="ðÅ¬À " />
+	<block key="bombshot_Description_12" korean="ðÅ¬À " />
+	<block key="bombshot_Description_13" korean="ðÅ¬À " />
+	<block key="bombshot_Description_14" korean="ðÅ¬À " />
+	<block key="hitstrike_name" korean="[" />
+	<block key="hitstrike_description_1" korean="" />
+	<block key="hitstrike_description_2" korean="" />
+	<block key="hitstrike_description_3" korean="" />
+	<block key="hitstrike_description_4" korean="" />
+	<block key="hitstrike_description_5" korean="" />
+	<block key="hitstrike_description_6" korean="" />
+	<block key="hitstrike_description_7" korean="" />
+	<block key="hitstrike_description_8" korean="" />
+	<block key="hitstrike_description_9" korean="" />
+	<block key="hitstrike_description_10" korean="" />
+	<block key="hitstrike_description_11" korean="" />
+	<block key="hitstrike_description_12" korean="" />
+	<block key="hitstrike_description_13" korean="" />
+	<block key="hitstrike_description_14" korean="" />
+	<block key="hitstrike_description_15" korean="" />
+	<block key="hitstrike2_name" korean="[" />
+	<block key="wildshotcs_Name" korean="[" />
+	<block key="wildshotcs_description_1" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_2" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_3" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_4" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_5" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_6" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_7" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_8" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_9" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_10" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_11" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_12" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_13" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_14" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_15" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_16" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_17" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_18" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_19" korean="0®´ÆDÇ " />
+	<block key="wildshotcs_description_20" korean="0®´ÆDÇ " />
+</blocks>

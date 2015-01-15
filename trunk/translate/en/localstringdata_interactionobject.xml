@@ -1,0 +1,1005 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="IN_CM_0_0001_Name" korean="Gwihwanseok" />
+	<block key="IN_CM_0_0002_Name" korean="Resurrection point" />
+	<block key="IN_CM_0_0003_Name" korean="Mobile Portal" />
+	<block key="IN_CM_0_0004_Name" korean="Dungeon Treasure Chest" />
+	<block key="IN_CM_0_0005_Name" korean="Tent of the soul" />
+	<block key="IN_CM_0_0006_Name" korean="Determination of the soul" />
+	<block key="IN_CM_0_0007_Name" korean="Determination of the soul" />
+	<block key="IN_CM_0_0008_Name" korean="Crystals of ice Soul" />
+	<block key="IN_CM_0_0009_Name" korean="Mailbox" />
+	<block key="IN_CM_0_0010_Name" korean="Cane know traders" />
+	<block key="IN_FR_0_0001_Name" korean="Accra divine hammer" />
+	<block key="IN_FR_1_0002_Name" korean="The key box" />
+	<block key="IN_SF_1_0001_Name" korean="Broken box" />
+	<block key="IN_SF_1_0002_Name" korean="Brage crossbow" />
+	<block key="IN_SF_1_0003_Name" korean="Explosives box" />
+	<block key="IN_SF_1_0004_Name" korean="Treasure Chest of Commissioners" />
+	<block key="IN_SF_1_0005_Name" korean="Shiny stone" />
+	<block key="IN_SF_1_0006_Name" korean="Ruby studded stone statue" />
+	<block key="IN_SF_1_0007_Name" korean="Crystal Frost" />
+	<block key="IN_SF_1_0008_Name" korean="Altar of origin" />
+	<block key="IN_SF_1_0009_Name" korean="Pet summoning area" />
+	<block key="IN_SP_1_0001_Name" korean="Iron window" />
+	<block key="IN_SP_1_0002_Name" korean="Guards weapon box" />
+	<block key="IN_SP_1_0003_Name" korean="Thick steel doors" />
+	<block key="IN_SP_1_0004_Name" korean="Iron window" />
+	<block key="IN_SP_1_0005_Name" korean="Lock" />
+	<block key="IN_SP_1_0006_Name" korean="Thick steel doors" />
+	<block key="IN_SP_1_0007_Name" korean="Thick steel doors" />
+	<block key="IN_SP_1_0008_Name" korean="Airship" />
+	<block key="IN_SP_1_0009_Name" korean="Guards weapon box" />
+	<block key="IN_SP_1_0010_Name" korean="Guards weapon box" />
+	<block key="IN_SP_1_0011_Name" korean="Guards weapon box" />
+	<block key="IN_SP_1_0012_Name" korean="Guards weapon box" />
+	<block key="IN_TEST_1_0001_Name" korean="For testing" />
+	<block key="IN_SP_1_0013_Name" korean="Brage treasure chest" />
+	<block key="IN_SP_1_0014_Name" korean="Weapon Mounts" />
+	<block key="IN_SP_1_0015_Name" korean="Massive iron gates" />
+	<block key="IN_SP_1_0016_Name" korean="Steel door controls" />
+	<block key="IN_SP_1_0017_Name" korean="Steel door controls" />
+	<block key="IN_SP_1_0018_Name" korean="Head-to Upgrade Stone" />
+	<block key="IN_SF_1_0010_Name" korean="Old box" />
+	<block key="IN_SF_1_0011_Name" korean="Brage wooden prison door" />
+	<block key="IN_SP_1_0019_Name" korean="Weapon Mounts" />
+	<block key="IN_SP_1_0020_Name" korean="Weapon Mounts" />
+	<block key="IN_HK_0_0001_Name" korean="Black flesh lump" />
+	<block key="IN_HK_0_0002_Name" korean="Standing in the darkness" />
+	<block key="IN_HK_0_0003_Name" korean="Dim streetlights" />
+	<block key="IN_HK_0_0004_Name" korean="Saplings cursed" />
+	<block key="IN_HK_0_0005_Name" korean="Jerky" />
+	<block key="IN_HK_0_0006_Name" korean="A stone statue holding a lamp" />
+	<block key="IN_HK_0_0007_Name" korean="Street Lights" />
+	<block key="IN_HK_0_0008_Name" korean="Wooden wagon" />
+	<block key="IN_CM_0_0011_Name" korean="Book" />
+	<block key="IN_CM_0_0012_Name" korean="Carrots" />
+	<block key="IN_CM_0_0013_Name" korean="Bags bags" />
+	<block key="IN_CM_0_0014_Name" korean="Powder flask" />
+	<block key="IN_CM_0_0015_Name" korean="Metal box" />
+	<block key="IN_CM_0_0016_Name" korean="First Aid Kit" />
+	<block key="IN_CM_0_0017_Name" korean="Milestones" />
+	<block key="IN_CM_0_0018_Name" korean="A small bag" />
+	<block key="IN_CM_0_0019_Name" korean="Solid wood box" />
+	<block key="IN_FR_0_0003_Name" korean="Santin is cracking walls" />
+	<block key="IN_FR_0_0004_Name" korean="Frozen box" />
+	<block key="IN_FR_0_0005_Name" korean="Landslide doldeongeori" />
+	<block key="IN_HK_0_0009_Name" korean="Great food bag" />
+	<block key="IN_HK_0_0010_Name" korean="Big bag" />
+	<block key="IN_HK_0_0011_Name" korean="Old wooden box" />
+	<block key="IN_HK_0_0012_Name" korean="Old wooden box" />
+	<block key="IN_HK_0_0013_Name" korean="Old wooden box" />
+	<block key="IN_HK_0_0014_Name" korean="Shabby box" />
+	<block key="IN_HK_0_0015_Name" korean="Shining Tree" />
+	<block key="IN_HK_0_0016_Name" korean="While communication" />
+	<block key="IN_HK_0_0017_Name" korean="Food bag" />
+	<block key="IN_HK_0_0018_Name" korean="Seed sacks" />
+	<block key="IN_HK_0_0019_Name" korean="While communication" />
+	<block key="IN_HK_0_0020_Name" korean="Diary of Jack" />
+	<block key="IN_HK_0_0021_Name" korean="Great food bag" />
+	<block key="IN_SP_1_0021_Name" korean="We beast iron window" />
+	<block key="IN_SP_1_0022_Name" korean="We beast iron window" />
+	<block key="IN_SP_1_0023_Name" korean="Thick steel doors" />
+	<block key="IN_HK_0_0022_Name" korean="Shining Tree decisions" />
+	<block key="IN_FR_0_0006_Name" korean="San tinjip roof" />
+	<block key="IN_CM_0_0020_Name" korean="Sign pillars" />
+	<block key="IN_SP_1_0024_Name" korean="Thick steel doors" />
+	<block key="IN_MA_02_0007_0000_Name" korean="Gray Wolf younghonseok" />
+	<block key="IN_MA_02_0007_5000_Name" korean="Fulness of the gray wolf younghonseok" />
+	<block key="IN_MA_02_0007_0002_Name" korean="Wild Wolf younghonseok" />
+	<block key="IN_MA_02_0007_5002_Name" korean="Fulness of ferocious wolves younghonseok" />
+	<block key="IN_MA_02_0007_0003_Name" korean="Wolves sites younghonseok" />
+	<block key="IN_MA_02_0007_5003_Name" korean="Wolf-filled sites younghonseok" />
+	<block key="IN_MA_02_0309_0000_Name" korean="Male frit Shah younghonseok" />
+	<block key="IN_MA_02_0309_5000_Name" korean="Male Shar-filled frit younghonseok" />
+	<block key="IN_MA_03_0309_0000_Name" korean="Wounded wolf (14 levels) younghonseok" />
+	<block key="IN_MA_03_0309_5000_Name" korean="Fulness of the wounded wolf (14 levels) younghonseok" />
+	<block key="IN_MA_03_0309_0001_Name" korean="Shadows of Darkness Wolf (16 levels) younghonseok" />
+	<block key="IN_MA_03_0309_5001_Name" korean="Fulness of the dark shadow of the wolf (16 levels) younghonseok" />
+	<block key="IN_MA_03_0309_0004_Name" korean="A Reflection of Fear wolf younghonseok" />
+	<block key="IN_MA_03_0309_5004_Name" korean="Shadow of the Wolf-filled horror younghonseok" />
+	<block key="IN_MA_03_0309_0005_Name" korean="Shadow Wolf Biting younghonseok" />
+	<block key="IN_MA_03_0309_5005_Name" korean="Fulness of harsh shadow wolf younghonseok" />
+	<block key="IN_MA_03_0245_0000_Name" korean="Black Panther younghonseok" />
+	<block key="IN_MA_03_0245_5000_Name" korean="Fulness of the Black Panther younghonseok" />
+	<block key="IN_MA_03_0245_0001_Name" korean="Great Panther cha chi-eyed younghonseok" />
+	<block key="IN_MA_03_0245_5001_Name" korean="Great fullness eyed leopard chi cha younghonseok" />
+	<block key="IN_MA_03_0309_0007_Name" korean="Mountain Surf's wild wolf younghonseok" />
+	<block key="IN_MA_03_0309_5007_Name" korean="Surf-filled mountain's wild wolf younghonseok" />
+	<block key="IN_MA_03_0245_0002_Name" korean="Shag leopard younghonseok" />
+	<block key="IN_MA_03_0245_5002_Name" korean="Leopard-filled shag younghonseok" />
+	<block key="IN_MA_03_0309_0008_Name" korean="Wounded wolf (17 levels) younghonseok" />
+	<block key="IN_MA_03_0309_5008_Name" korean="Fulness of the wounded wolf (17 levels) younghonseok" />
+	<block key="IN_MA_03_0309_0009_Name" korean="Shadows of Darkness Wolf (17 levels) younghonseok" />
+	<block key="IN_MA_03_0309_5009_Name" korean="Fulness of the dark shadow of the wolf (17 levels) younghonseok" />
+	<block key="IN_MA_03_0309_0010_Name" korean="Domesticated wolf (16 levels) _ slave younghonseok" />
+	<block key="IN_MA_03_0309_5010_Name" korean="Fulness of domesticated wolf (16 levels) _ slave younghonseok" />
+	<block key="IN_MA_03_0309_0011_Name" korean="Shadows of Darkness Wolf (17 levels) _ slave younghonseok" />
+	<block key="IN_MA_03_0309_5011_Name" korean="Fulness of the dark shadow of the wolf (17 levels) _ slave younghonseok" />
+	<block key="IN_MA_03_0245_0003_Name" korean="A ferocious Black Panther (25 levels) younghonseok" />
+	<block key="IN_MA_03_0245_5003_Name" korean="Fulness of a ferocious Black Panther (25 levels) younghonseok" />
+	<block key="IN_MA_03_0245_0004_Name" korean="A ferocious Black Panther (26 levels) younghonseok" />
+	<block key="IN_MA_03_0245_5004_Name" korean="Fulness of a ferocious Black Panther (26 levels) younghonseok" />
+	<block key="IN_MA_03_0083_0000_Name" korean="Hungry bear (15 levels) younghonseok" />
+	<block key="IN_MA_03_0083_5000_Name" korean="Fulness of the hungry bear (15 levels) younghonseok" />
+	<block key="IN_MA_03_0083_0001_Name" korean="True chief Tan younghonseok" />
+	<block key="IN_MA_03_0083_5001_Name" korean="True fullness of head shots younghonseok" />
+	<block key="IN_MA_03_0083_0002_Name" korean="Wild bear younghonseok" />
+	<block key="IN_MA_03_0083_5002_Name" korean="Fulness of wild brown bear younghonseok" />
+	<block key="IN_MA_03_0083_0003_Name" korean="Brown Bear (14 levels) younghonseok" />
+	<block key="IN_MA_03_0083_5003_Name" korean="Fulness of the brown bear (14 levels) younghonseok" />
+	<block key="IN_MA_03_0083_0004_Name" korean="Hungry bear (16 levels) younghonseok" />
+	<block key="IN_MA_03_0083_5004_Name" korean="Fulness of the hungry bear (16 levels) younghonseok" />
+	<block key="IN_MA_03_0083_0005_Name" korean="Brown Bear (15 levels) younghonseok" />
+	<block key="IN_MA_03_0083_5005_Name" korean="Fulness of the brown bear (15 levels) younghonseok" />
+	<block key="IN_MA_03_0083_0006_Name" korean="Wild Brown Bear (Level 26) younghonseok" />
+	<block key="IN_MA_03_0083_5006_Name" korean="Fulness of wild brown bear (26 levels) younghonseok" />
+	<block key="IN_MA_03_0083_0007_Name" korean="Wild Brown Bear (27 levels) younghonseok" />
+	<block key="IN_MA_03_0083_5007_Name" korean="Fulness of wild brown bear (27 levels) younghonseok" />
+	<block key="IN_SF_1_0012_Name" korean="Boxes for Quest" />
+	<block key="IN_ACB_0_0000_Name" korean="Altar of the seal" />
+	<block key="IN_FR_0_0007_Name" korean="Red spells seats" />
+	<block key="IN_FR_0_0008_Name" korean="Blue spells seats" />
+	<block key="IN_FR_0_0009_Name" korean="Yellow spell seats" />
+	<block key="IN_FR_0_0010_Name" korean="Green spell seats" />
+	<block key="IN_ACB_0_0001_Name" korean="Black tubes" />
+	<block key="IN_ACB_0_0002_Name" korean="Underground labyrinth _ iron gates" />
+	<block key="IN_ACB_0_0003_Name" korean="Seal the jar" />
+	<block key="IN_ACB_0_0004_Name" korean="Seal the jar" />
+	<block key="IN_ACB_0_0005_Name" korean="A necromancy circle" />
+	<block key="IN_ACB_0_0006_Name" korean="Necromancy Circle B" />
+	<block key="IN_HK_0_0023_Name" korean="Honeycomb" />
+	<block key="IN_HK_0_0024_Name" korean="Tombstone" />
+	<block key="CO_MI_0000_Name" korean="Copper lode" />
+	<block key="CO_MI_0001_Name" korean="Tin Lode" />
+	<block key="CO_MI_0002_Name" korean="Iron Vein" />
+	<block key="CO_MI_0003_Name" korean="The veins" />
+	<block key="CO_MI_0004_Name" korean="Titanium Veins" />
+	<block key="CO_MI_0005_Name" korean="Platinum lode" />
+	<block key="CO_MI_0006_Name" korean="Mithril Veins" />
+	<block key="CO_MI_0007_Name" korean="Adamantium Lode" />
+	<block key="CO_HE_0000_Name" korean="Wormwood" />
+	<block key="CO_HE_0001_Name" korean="Children three hundred seconds" />
+	<block key="CO_HE_0002_Name" korean="Three hundred seconds" />
+	<block key="CO_HE_0003_Name" korean="Cornus" />
+	<block key="CO_HE_0004_Name" korean="Defy guyeopcho" />
+	<block key="CO_HE_0005_Name" korean="Baekchul" />
+	<block key="CO_HE_0006_Name" korean="Cheonmundong" />
+	<block key="CO_HE_0007_Name" korean="Rhododendrons" />
+	<block key="IN_MA_02_0309_0002_Name" korean="Gray wolf head younghonseok" />
+	<block key="IN_MA_02_0309_5002_Name" korean="Fulness of the gray wolf head younghonseok" />
+	<block key="IN_MA_02_0010_0000_Name" korean="Mane Boar younghonseok" />
+	<block key="IN_MA_02_0010_5000_Name" korean="Fulness mane boar younghonseok" />
+	<block key="IN_MA_02_0010_0001_Name" korean="Mane Boar (Small ssayijeu) younghonseok" />
+	<block key="IN_MA_02_0010_5001_Name" korean="Fulness mane Boar (Small ssayijeu) younghonseok" />
+	<block key="IN_MA_02_0011_0000_Name" korean="Coarse grind wild boar (+ mane boar) younghonseok" />
+	<block key="IN_MA_02_0011_5000_Name" korean="Fulness of the rough mane Boar (+ mane boar) younghonseok" />
+	<block key="IN_MA_02_0011_0001_Name" korean="Wild boar grind younghonseok" />
+	<block key="IN_MA_02_0011_5001_Name" korean="Fulness of the rough mane boar younghonseok" />
+	<block key="IN_MA_02_0011_0002_Name" korean="Molar boar (slave) younghonseok" />
+	<block key="IN_MA_02_0011_5002_Name" korean="Fulness of molar boar (slave) younghonseok" />
+	<block key="IN_MA_02_0030_0000_Name" korean="Boar younghonseok" />
+	<block key="IN_MA_02_0030_5000_Name" korean="Fulness of the wild boar younghonseok" />
+	<block key="IN_MA_03_0606_0000_Name" korean="Large hoofed wild boar younghonseok" />
+	<block key="IN_MA_03_0606_5000_Name" korean="Fulness of large hoofed wild boar younghonseok" />
+	<block key="IN_MA_03_0672_0000_Name" korean="Black cow younghonseok" />
+	<block key="IN_MA_03_0672_5000_Name" korean="Fulness of black cows younghonseok" />
+	<block key="IN_MA_03_0606_0001_Name" korean="Big boar younghonseok" />
+	<block key="IN_MA_03_0606_5001_Name" korean="Fulness of large wild boar younghonseok" />
+	<block key="IN_MA_03_0672_0001_Name" korean="Raging Buffalo younghonseok" />
+	<block key="IN_MA_03_0672_5001_Name" korean="Fulness of angry buffalo younghonseok" />
+	<block key="IN_MA_03_0309_0006_Name" korean="Domesticated wolf younghonseok" />
+	<block key="IN_MA_03_0309_5006_Name" korean="Fulness of domesticated wolf younghonseok" />
+	<block key="IN_MA_03_0672_0002_Name" korean="Black cow horns pointed younghonseok" />
+	<block key="IN_MA_03_0672_5002_Name" korean="Fulness of black cows with horns pointed younghonseok" />
+	<block key="IN_MA_03_0672_0003_Name" korean="Wide made cow younghonseok" />
+	<block key="IN_MA_03_0672_5003_Name" korean="Wide-filled cow became younghonseok" />
+	<block key="IN_MA_03_0672_0004_Name" korean="Wild black cow (24 levels) younghonseok" />
+	<block key="IN_MA_03_0672_5004_Name" korean="Fulness of wild black cow (24 levels) younghonseok" />
+	<block key="IN_MA_03_0672_0005_Name" korean="Wild black cow (25 levels) younghonseok" />
+	<block key="IN_MA_03_0672_5005_Name" korean="Wild black cow (25 levels) younghonseok" />
+	<block key="IN_MA_03_0309_0002_Name" korean="Harsh shadows Penrith" />
+	<block key="IN_MA_03_0309_5002_Name" korean="Harsh shadows Penrith" />
+	<block key="IN_MA_04_0309_0000_Name" korean="Quick-witted blue wolf younghonseok" />
+	<block key="IN_MA_04_0309_5000_Name" korean="Fulness of the quick-witted blue wolf younghonseok" />
+	<block key="IN_MA_04_0309_0001_Name" korean="Wild Blue Wolf younghonseok" />
+	<block key="IN_MA_04_0309_5001_Name" korean="Wild Blue Wolf fullness younghonseok" />
+	<block key="IN_MA_04_0309_0002_Name" korean="Wolf King Shaka la younghonseok" />
+	<block key="IN_MA_04_0309_5002_Name" korean="Fulness of the Wolf King Shaka la younghonseok" />
+	<block key="IN_MA_51_0083_0000_Name" korean="Wild polar bear younghonseok" />
+	<block key="IN_MA_51_0083_5000_Name" korean="Fulness of wild polar bear younghonseok" />
+	<block key="IN_MA_02_0676_0000_Name" korean="Ghost spider younghonseok" />
+	<block key="IN_MA_02_0676_5000_Name" korean="Spider-filled ghost younghonseok" />
+	<block key="IN_MA_02_0676_0001_Name" korean="Giant Spider taseulran younghonseok" />
+	<block key="IN_MA_02_0676_5001_Name" korean="Fulness of a giant spider taseulran younghonseok" />
+	<block key="IN_MA_03_0676_0000_Name" korean="Gray spider younghonseok" />
+	<block key="IN_MA_03_0676_5000_Name" korean="Fulness of gray spider younghonseok" />
+	<block key="IN_MA_03_0611_0000_Name" korean="Frost spider younghonseok" />
+	<block key="IN_MA_03_0611_5000_Name" korean="Fulness of frost spider younghonseok" />
+	<block key="IN_MA_03_0676_0001_Name" korean="Spider body younghonseok" />
+	<block key="IN_MA_03_0676_5001_Name" korean="Spider-filled body younghonseok" />
+	<block key="IN_MA_03_0676_0002_Name" korean="Wild hairy spider younghonseok" />
+	<block key="IN_MA_03_0676_5002_Name" korean="Wild hairy spider-filled younghonseok" />
+	<block key="IN_MA_51_0611_0000_Name" korean="Frost spider younghonseok" />
+	<block key="IN_MA_51_0611_5000_Name" korean="Fulness of frost spider younghonseok" />
+	<block key="IN_MA_03_0611_0001_Name" korean="Frost spider (27 levels) younghonseok" />
+	<block key="IN_MA_03_0611_5001_Name" korean="Fulness of frost spider (27 levels) younghonseok" />
+	<block key="IN_MA_02_0606_0001_Name" korean="Brage's supervisor boar (slave) younghonseok" />
+	<block key="IN_MA_02_0606_5001_Name" korean="Brage Commissioner of the fulness of wild boar (slave) younghonseok" />
+	<block key="IN_MA_02_0606_0002_Name" korean="Porch - Brage chiefs of wild boar (slave) younghonseok" />
+	<block key="IN_MA_02_0606_5002_Name" korean="Fulness Porch - Brage chiefs of wild boar (slave) younghonseok" />
+	<block key="IN_MA_03_0672_0006_Name" korean="Domesticated bison younghonseok" />
+	<block key="IN_MA_03_0672_5006_Name" korean="Fulness of domesticated bison younghonseok" />
+	<block key="IN_MA_03_0671_0000_Name" korean="Caribou (13 levels) younghonseok" />
+	<block key="IN_MA_03_0671_5000_Name" korean="Fulness of reindeer (13 levels) younghonseok" />
+	<block key="IN_MA_03_0671_0001_Name" korean="Modify reindeer antlers younghonseok" />
+	<block key="IN_MA_03_0671_5001_Name" korean="Fulness modify reindeer antlers younghonseok" />
+	<block key="IN_MA_03_0671_0002_Name" korean="White mane reindeer younghonseok" />
+	<block key="IN_MA_03_0671_5002_Name" korean="Fulness white mane reindeer younghonseok" />
+	<block key="IN_MA_03_0671_0003_Name" korean="Modify reindeer antlers (horns towering over) younghonseok" />
+	<block key="IN_MA_03_0671_5003_Name" korean="Fulness modify reindeer antlers (horns towering over) younghonseok" />
+	<block key="IN_MA_03_0671_0004_Name" korean="Reindeer (15 levels) younghonseok" />
+	<block key="IN_MA_03_0671_5004_Name" korean="Fulness of reindeer (15 levels) younghonseok" />
+	<block key="IN_MA_03_0671_0005_Name" korean="White mane reindeer _ Master younghonseok" />
+	<block key="IN_MA_03_0671_5005_Name" korean="Fulness white mane reindeer _ Master younghonseok" />
+	<block key="IN_MA_03_0671_0006_Name" korean="Reindeer (13 levels) _ slave younghonseok" />
+	<block key="IN_MA_03_0671_5006_Name" korean="Fulness of reindeer (13 levels) _ slave younghonseok" />
+	<block key="IN_MA_03_0671_0007_Name" korean="Modify reindeer antlers (18th level) younghonseok" />
+	<block key="IN_MA_03_0671_5007_Name" korean="Fulness modify reindeer antlers (18th level) younghonseok" />
+	<block key="IN_MA_03_0671_0008_Name" korean="Modify reindeer antlers (19th level) younghonseok" />
+	<block key="IN_MA_03_0671_5008_Name" korean="Fulness modify reindeer antlers (19th level) younghonseok" />
+	<block key="IN_MA_03_0671_0009_Name" korean="Modify reindeer antlers big younghonseok" />
+	<block key="IN_MA_03_0671_5009_Name" korean="Fulness of the major modifications reindeer antlers younghonseok" />
+	<block key="IN_MA_03_0692_0000_Name" korean="Mori four lake Turtles younghonseok" />
+	<block key="IN_MA_03_0692_5000_Name" korean="Mori-filled lake turtle four younghonseok" />
+	<block key="IN_MA_03_0769_0000_Name" korean="Black Wind (end of ahsyuram) younghonseok" />
+	<block key="IN_MA_03_0769_5000_Name" korean="Fulness of the Black Wind (end of ahsyuram) younghonseok" />
+	<block key="IN_MA_03_0769_0001_Name" korean="Pony (horse riders) younghonseok" />
+	<block key="IN_MA_03_0769_5001_Name" korean="Fulness pony (horse riders) younghonseok" />
+	<block key="IN_MA_02_0606_0103_Name" korean="The breeding boar younghonseok" />
+	<block key="IN_MA_02_0606_5103_Name" korean="Fulness of the breeding boar younghonseok" />
+	<block key="IN_MA_02_0309_0100_Name" korean="Black Wolf younghonseok" />
+	<block key="IN_MA_02_0309_5100_Name" korean="Fulness of the Black Wolf younghonseok" />
+	<block key="IN_MA_02_0676_0002_Name" korean="Tarantula sites younghonseok" />
+	<block key="IN_MA_02_0676_5002_Name" korean="Tarantula-filled sites younghonseok" />
+	<block key="IN_MA_50_0245_0000_Name" korean="Hellhound younghonseok" />
+	<block key="IN_MA_50_0245_5000_Name" korean="Hellhound fullness younghonseok" />
+	<block key="IN_MA_03_0692_0002_Name" korean="Lava turtle younghonseok" />
+	<block key="IN_MA_03_0692_5002_Name" korean="Turtle-filled lava younghonseok" />
+	<block key="IN_FR_0_0011_Name" korean="Of the cold" />
+	<block key="IN_FR_0_0012_Name" korean="Ice wall" />
+	<block key="IN_HK_0_0025_Name" korean="Pumpkin zipping wasps" />
+	<block key="IN_HK_0_0026_Name" korean="The body of a bear hunter Gunther" />
+	<block key="IN_HK_0_0027_Name" korean="Bars" />
+	<block key="IN_HK_0_0028_Name" korean="Casket" />
+	<block key="IN_KLM_0_0001_Name" korean="Mansion porch" />
+	<block key="IN_CR_90_0000_Name" korean="Crops for testing" />
+	<block key="IN_CR_90_0001_Name" korean="Trees for testing" />
+	<block key="IN_ST_0_0001_Name" korean="Lake District alert" />
+	<block key="IN_ST_0_0002_Name" korean="Parque my notice" />
+	<block key="IN_ST_0_0003_Name" korean="Croix Kuhn cranes" />
+	<block key="IN_ST_0_0004_Name" korean="3 barrage crossbow" />
+	<block key="IN_ST_0_0005_Name" korean="Arrow window" />
+	<block key="IN_ST_0_0006_Name" korean="The captives free rummy" />
+	<block key="IN_ST_0_0007_Name" korean="Kuhn Croix frostbite" />
+	<block key="IN_ST_0_0008_Name" korean="The scores for the Mermaid \u003cimage\u003e" />
+	<block key="IN_ST_0_0009_Name" korean="The scores for the Mermaid \u003cin\u003e" />
+	<block key="IN_ST_0_0010_Name" korean="The scores for the Mermaid \u003cand\u003e" />
+	<block key="IN_ST_0_0011_Name" korean="Ice nest" />
+	<block key="IN_ST_0_0012_Name" korean="Ice Tree" />
+	<block key="IN_ST_0_0013_Name" korean="Disguised bomb box" />
+	<block key="IN_ST_0_0014_Name" korean="Treasure chest of pirate boss" />
+	<block key="IN_ST_0_0015_Name" korean="Bomb Package" />
+	<block key="IN_RDC_0_0001_Name" korean="Magic Seats of Power" />
+	<block key="IN_RDC_0_0002_Name" korean="Magic Stone of attack" />
+	<block key="IN_RDC_0_0003_Name" korean="Life's Magic Seats" />
+	<block key="IN_RDC_0_0004_Name" korean="Magic defense seats" />
+	<block key="IN_RDC_0_0005_Name" korean="Berserker summon device" />
+	<block key="IN_RDC_0_0006_Name" korean="Sokseongseok attack" />
+	<block key="IN_RDC_0_0007_Name" korean="Sokseongseok defense" />
+	<block key="IN_RDC_0_0008_Name" korean="Sokseongseok horsepower" />
+	<block key="IN_RDC_0_0009_Name" korean="Sokseongseok life" />
+	<block key="IN_RDC_0_0010_Name" korean="Living Moon" />
+	<block key="IN_RDC_0_0011_Name" korean="The throne room door" />
+	<block key="IN_RDC_0_0012_Name" korean="Frozen door bars" />
+	<block key="IN_RDC_0_0013_Name" korean="Wall switch" />
+	<block key="IN_FR_0_0013_Name" korean="Stomach rock" />
+	<block key="IN_VLC_0_0001_Name" korean="Water shut-off door" />
+	<block key="IN_SF_1_0013_Name" korean="On fire wood pile" />
+	<block key="IN_SF_1_0014_Name" korean="On fire wood pile" />
+	<block key="IN_SF_1_0015_Name" korean="Jim got a pile of fire" />
+	<block key="IN_ST_0_0016_Name" korean="Firmly locked box" />
+	<block key="IN_ST_0_0017_Name" korean="Suspicious box" />
+	<block key="IN_ST_0_0018_Name" korean="Treasure Chest" />
+	<block key="IN_ST_0_0019_Name" korean="Toolbox" />
+	<block key="IN_ST_0_0020_Name" korean="Pore ​​Toolbox" />
+	<block key="IN_ST_0_0021_Name" korean="Rusty cage" />
+	<block key="IN_ST_0_0022_Name" korean="Box of Rondo" />
+	<block key="IN_ST_0_0023_Name" korean="Accompanied filled with relics" />
+	<block key="IN_ST_0_0024_Name" korean="Herbs" />
+	<block key="IN_ST_0_0025_Name" korean="Bear Jean Wood" />
+	<block key="IN_ST_0_0026_Name" korean="Bars of vigilante" />
+	<block key="IN_ST_0_0027_Name" korean="Water plant" />
+	<block key="IN_ST_0_0028_Name" korean="Jim package" />
+	<block key="IN_ST_0_0029_Name" korean="Ore Wagon" />
+	<block key="IN_SF_1_0016_Name" korean="Felling injured workers" />
+	<block key="IN_SF_1_0017_Name" korean="Felling injured workers" />
+	<block key="IN_ST_0_0030_Name" korean="Necromancy Circle" />
+	<block key="IN_ST_0_0031_Name" korean="Ice Castle main entrance of the Rondo" />
+	<block key="IN_ST_0_0032_Name" korean="The door of the free rummy Shaman" />
+	<block key="IN_ST_0_0033_Name" korean="Food storage package bomb" />
+	<block key="IN_ST_0_0034_Name" korean="Arsenal bomb package" />
+	<block key="IN_ST_0_0035_Name" korean="Pirate Ship Explosion" />
+	<block key="IN_ST_0_0036_Name" korean="Food warehouse explosion" />
+	<block key="IN_ST_0_0037_Name" korean="Arsenal explosion" />
+	<block key="IN_ST_0_0038_Name" korean="Notice board" />
+	<block key="IN_ST_0_0039_Name" korean="Broken crane" />
+	<block key="IN_SF_1_5000_Name" korean="Goods labeled with fire" />
+	<block key="IN_HK_0_0029_Name" korean="Al Phoenix" />
+	<block key="IN_HK_0_0030_Name" korean="Al Balaur storm" />
+	<block key="IN_CM_2_0001_Name" korean="Forest mushrooms on" />
+	<block key="IN_CM_2_0002_Name" korean="Sage pool" />
+	<block key="IN_CM_2_0003_Name" korean="Snow bodies fail-fast:" />
+	<block key="IN_CM_2_0004_Name" korean="Mercure roots" />
+	<block key="IN_CM_2_0005_Name" korean="Terry Moon Magic seconds" />
+	<block key="IN_CM_2_0006_Name" korean="Ruscha flower" />
+	<block key="IN_CM_2_0011_Name" korean="Herbal Apprenticeship for testing" />
+	<block key="IN_CM_2_0012_Name" korean="Herbs for Beginners Test" />
+	<block key="IN_CM_2_0013_Name" korean="Intermediate herbs for testing" />
+	<block key="IN_CM_2_0014_Name" korean="Advanced herbs for testing" />
+	<block key="IN_CM_2_0015_Name" korean="Herbs for specialized testing" />
+	<block key="IN_CM_2_0016_Name" korean="Herbs for masters test" />
+	<block key="IN_SF_0_0018_Name" korean="Black flesh lump" />
+	<block key="IN_CM_0_0021_Name" korean="Meat infused the spirit of the fairy" />
+	<block key="IN_CM_0_0022_Name" korean="1 star Royal Jelly" />
+	<block key="IN_CM_0_0023_Name" korean="Reindeer meat chewy" />
+	<block key="IN_CM_0_0024_Name" korean="Modify seconds" />
+	<block key="IN_CM_0_0025_Name" korean="Shiny Crystal seconds" />
+	<block key="IN_CM_0_0026_Name" korean="I modified second brilliance" />
+	<block key="IN_CM_0_0027_Name" korean="Dew seconds" />
+	<block key="IN_CM_0_0028_Name" korean="Clear dew early" />
+	<block key="IN_CM_0_0029_Name" korean="Pure dew seconds" />
+	<block key="IN_SF_1_0019_Name" korean="Blazing fire" />
+	<block key="IN_SF_1_0020_Name" korean="Blazing fire" />
+	<block key="IN_MA_03_1720_0000_Name" korean="Laboratory Unicorn younghonseok" />
+	<block key="IN_MA_03_1720_5000_Name" korean="Fulness of the experimental Unicorn younghonseok" />
+	<block key="IN_MA_03_0704_0000_Name" korean="Blackwing younghonseok" />
+	<block key="IN_MA_03_0704_5000_Name" korean="Replete with black wings younghonseok" />
+	<block key="IN_MA_03_0704_0001_Name" korean="Flame Breath younghonseok" />
+	<block key="IN_MA_03_0704_5001_Name" korean="Flame-filled breath younghonseok" />
+	<block key="IN_MA_03_1715_0000_Name" korean="Asteras class Heilongjiang Onslaught younghonseok" />
+	<block key="IN_MA_03_1715_5000_Name" korean="Asteras troop-filled class Heilongjiang younghonseok" />
+	<block key="IN_MA_02_0606_0000_Name" korean="Angry Boar molar younghonseok" />
+	<block key="IN_MA_02_0606_5000_Name" korean="Fulness of angry boar molar younghonseok" />
+	<block key="IN_MA_03_0704_0002_Name" korean="Green Impact younghonseok" />
+	<block key="IN_MA_03_0704_5002_Name" korean="Fulness of the green shock younghonseok" />
+	<block key="IN_MA_03_0704_0003_Name" korean="Blue shadows younghonseok" />
+	<block key="IN_MA_03_0704_5003_Name" korean="Fulness of the blue shadows younghonseok" />
+	<block key="IN_MA_04_0245_0000_Name" korean="Snow Tiger younghonseok" />
+	<block key="IN_MA_04_0245_5000_Name" korean="Snow-filled tiger younghonseok" />
+	<block key="IN_MA_04_0245_0001_Name" korean="Ice Fang Kruger younghonseok" />
+	<block key="IN_MA_04_0245_5001_Name" korean="Fang-filled ice Kruger younghonseok" />
+	<block key="IN_MA_04_0245_0002_Name" korean="Domesticated tiger snow younghonseok" />
+	<block key="IN_MA_04_0245_5002_Name" korean="Snow-filled domesticated tiger younghonseok" />
+	<block key="IN_MA_04_0083_0000_Name" korean="Ferocious grizzly younghonseok" />
+	<block key="IN_MA_04_0083_5000_Name" korean="Fulness of the ferocious grizzly younghonseok" />
+	<block key="IN_MA_04_0083_0001_Name" korean="A house worth Uru younghonseok" />
+	<block key="IN_MA_04_0083_5001_Name" korean="Fulness of a house worth Uru younghonseok" />
+	<block key="IN_MA_03_0676_0005_Name" korean="Tarantula younghonseok" />
+	<block key="IN_MA_03_0676_5005_Name" korean="Fulness of tarantulas younghonseok" />
+	<block key="IN_MA_02_0245_0000_Name" korean="Black Panther in the dark younghonseok" />
+	<block key="IN_MA_02_0245_5000_Name" korean="Black Panther younghonseok of the fulness of darkness" />
+	<block key="IN_MA_03_0671_0010_Name" korean="Angled reindeer antlers younghonseok" />
+	<block key="IN_MA_03_0671_5010_Name" korean="Fulness of reindeer horns angled younghonseok" />
+	<block key="IN_MA_03_0672_0007_Name" korean="Bison younghonseok" />
+	<block key="IN_MA_03_0672_5007_Name" korean="Fulness of bison younghonseok" />
+	<block key="IN_MA_03_0704_0006_Name" korean="Blackwing younghonseok" />
+	<block key="IN_MA_03_0704_5006_Name" korean="Replete with black wings younghonseok" />
+	<block key="IN_MA_03_0704_0007_Name" korean="Green Impact younghonseok" />
+	<block key="IN_MA_03_0704_5007_Name" korean="Fulness of the green shock younghonseok" />
+	<block key="IN_MA_03_0704_0008_Name" korean="Green Impact younghonseok" />
+	<block key="IN_MA_03_0704_5008_Name" korean="Fulness of the green shock younghonseok" />
+	<block key="IN_MA_03_0245_0005_Name" korean="Igniz Hound younghonseok" />
+	<block key="IN_MA_03_0245_5005_Name" korean="Fulness Igniz Hound younghonseok" />
+	<block key="IN_MA_03_1715_0001_Name" korean="Dark Fantasy maryong greater ryuel younghonseok" />
+	<block key="IN_MA_03_1715_5001_Name" korean="Dark Fantasy greater fullness maryong ryuel younghonseok" />
+	<block key="IN_CM_0_0030_Name" korean="Properties magic seats: Fire I" />
+	<block key="IN_CM_0_0031_Name" korean="Properties magic stone: Frost I" />
+	<block key="IN_CM_0_0032_Name" korean="Properties magic stones: Light I" />
+	<block key="IN_CM_0_0033_Name" korean="Properties magic stones: dark I" />
+	<block key="IN_VLC_0_0002_Name" korean="Treasure Chest" />
+	<block key="IN_HK_0_0031_Name" korean="Solar storms for the three" />
+	<block key="IN_HK_0_0032_Name" korean="Fire sokseongseok" />
+	<block key="IN_VLC_0_0003_Name" korean="Steel rod of iron" />
+	<block key="IN_VLC_0_0004_Name" korean="Wood prison" />
+	<block key="in_f01_1_0021_Name" korean="Old weapon box" />
+	<block key="IN_HK_0_0033_Name" korean="Constant protection" />
+	<block key="IN_FR_0_0014_Name" korean="Spell seats" />
+	<block key="IN_CM_0_0034_Name" korean="Properties magic seats: Fire II" />
+	<block key="IN_CM_0_0035_Name" korean="Properties magic stone: Frost II" />
+	<block key="IN_CM_0_0036_Name" korean="Properties magic stones: Light II" />
+	<block key="IN_CM_0_0037_Name" korean="Properties magic stones: Dark II" />
+	<block key="IN_CM_0_0038_Name" korean="Properties magic seats: Fire III" />
+	<block key="IN_CM_0_0039_Name" korean="Properties magic stone: Frost III" />
+	<block key="IN_CM_0_0040_Name" korean="Properties magic stones: Light III" />
+	<block key="IN_CM_0_0041_Name" korean="Properties magic stones: Dark III" />
+	<block key="IN_CM_0_0042_Name" korean="Properties magic seats: Fire IV" />
+	<block key="IN_CM_0_0043_Name" korean="Properties magic stone: Frost IV" />
+	<block key="IN_CM_0_0044_Name" korean="Properties magic stones: Light IV" />
+	<block key="IN_CM_0_0045_Name" korean="Properties magic stones: Dark IV" />
+	<block key="IN_CM_0_0046_Name" korean="Properties magic seats: Fire V" />
+	<block key="IN_CM_0_0047_Name" korean="Properties magic stone: Frost V" />
+	<block key="IN_CM_0_0048_Name" korean="Properties magic stones: Light V" />
+	<block key="IN_CM_0_0049_Name" korean="Properties magic stones: Dark V" />
+	<block key="IN_CM_0_0050_Name" korean="Advanced Properties magic seats: Fire I" />
+	<block key="IN_CM_0_0051_Name" korean="Advanced Properties magic stone: Frost I" />
+	<block key="IN_CM_0_0052_Name" korean="Advanced Properties magic stones: Light I" />
+	<block key="IN_CM_0_0053_Name" korean="Advanced Properties magic stones: dark I" />
+	<block key="IN_CM_0_0054_Name" korean="Advanced Properties magic seats: Fire II" />
+	<block key="IN_CM_0_0055_Name" korean="Advanced Properties magic stone: Frost II" />
+	<block key="IN_CM_0_0056_Name" korean="Advanced Properties magic stones: Light II" />
+	<block key="IN_CM_0_0057_Name" korean="Advanced Properties magic stones: Dark II" />
+	<block key="IN_CM_0_0058_Name" korean="Advanced Properties magic seats: Fire III" />
+	<block key="IN_CM_0_0059_Name" korean="Advanced Properties magic stone: Frost III" />
+	<block key="IN_CM_0_0060_Name" korean="Advanced Properties magic stones: Light III" />
+	<block key="IN_CM_0_0061_Name" korean="Advanced Properties magic stones: Dark III" />
+	<block key="IN_CM_0_0062_Name" korean="Advanced Properties magic seats: Fire IV" />
+	<block key="IN_CM_0_0063_Name" korean="Advanced Properties magic stone: Frost IV" />
+	<block key="IN_CM_0_0064_Name" korean="Advanced Properties magic stones: Light IV" />
+	<block key="IN_CM_0_0065_Name" korean="Advanced Properties magic stones: Dark IV" />
+	<block key="IN_CM_0_0066_Name" korean="Advanced Properties magic seats: Fire V" />
+	<block key="IN_CM_0_0067_Name" korean="Advanced Properties magic stone: Frost V" />
+	<block key="IN_CM_0_0068_Name" korean="Advanced Properties magic stones: Light V" />
+	<block key="IN_CM_0_0069_Name" korean="Advanced Properties magic stones: Dark V" />
+	<block key="IN_RDC_0_0014_Name" korean="Horsepower supply" />
+	<block key="IN_KLM_0_0002_Name" korean="Chateau Banquet Hall" />
+	<block key="IN_VLC_0_0005_Name" korean="Hydrological switch" />
+	<block key="IN_FR_0_0015_Name" korean="Brazier" />
+	<block key="IN_HK_0_0034_Name" korean="Jerky" />
+	<block key="IN_VLC_0_0006_Name" korean="Steel rod of iron" />
+	<block key="IN_VLC_0_0007_Name" korean="Steel rod of iron" />
+	<block key="IN_VLC_0_0008_Name" korean="Water shut-off door" />
+	<block key="IN_VLC_0_0009_Name" korean="Water shut-off door" />
+	<block key="IN_RDC_0_0015_Name" korean="Princess's belongings box" />
+	<block key="IN_ST_0_0040_Name" korean="The wounded mercenary" />
+	<block key="IN_VLC_0_0010_Name" korean="Wood prison" />
+	<block key="IN_ST_0_0041_Name" korean="Have exhausted" />
+	<block key="IN_VLC_0_0011_Name" korean="Weapon Mounts" />
+	<block key="IN_KLM_0_0003_Name" korean="Chateau Library" />
+	<block key="in_cm_5_0001_Name" korean="Seongseok of light" />
+	<block key="IN_F02_5_0001_Name" korean="Treasure Chest" />
+	<block key="IN_F02_5_0002_Name" korean="Magic sphere of consciousness" />
+	<block key="IN_F02_5_0003_Name" korean="Death Magic Stone" />
+	<block key="IN_F02_5_0004_Name" korean="Flat stone" />
+	<block key="IN_d02_0_0016_Name" korean="Visible ice wall" />
+	<block key="IN_HK_0_0035_Name" korean="Mabang book" />
+	<block key="IN_HK_0_0036_Name" korean="Watchtowers" />
+	<block key="IN_HK_0_0037_Name" korean="Contamination of the magic stone" />
+	<block key="IN_HK_0_0038_Name" korean="Stained with the power of the dark meat" />
+	<block key="IN_HK_0_0039_Name" korean="Dray wagon" />
+	<block key="IN_SP_1_0025_Name" korean="Massive iron gates" />
+	<block key="IN_SP_1_0026_Name" korean="Massive iron gates" />
+	<block key="IN_F02_G_0_0001_Name" korean="Wood prison" />
+	<block key="IN_F02_G_0_0002_Name" korean="Wood prison" />
+	<block key="IN_F02_G_0_0003_Name" korean="Lion door of the cold" />
+	<block key="IN_F02_G_0_0004_Name" korean="Bi-keg" />
+	<block key="IN_SP_1_0027_Name" korean="Thick steel doors (Fellow rooms)" />
+	<block key="IN_F02_G_0_0005_Name" korean="Dummy arrow" />
+	<block key="IN_F02_G_0_0006_Name" korean="Dummy arrow" />
+	<block key="IN_SF_1_0099_Name" korean="Testing routing box" />
+	<block key="IN_SF_0_0001_Name" korean="Cobb being Chains" />
+	<block key="IN_SF_0_0002_Name" korean="Ancient gateway" />
+	<block key="IN_cm_Prin_000_Name" korean="0 shares wagons" />
+	<block key="IN_F04_0_0001_Name" korean="Torch of destruction" />
+	<block key="IN_F04_0_0002_Name" korean="Sam's destruction of light" />
+	<block key="IN_F04_0_0003_Name" korean="Naris gel amplifier" />
+	<block key="IN_F04_0_0004_Name" korean="Wu know jeume" />
+	<block key="IN_F04_0_0005_Name" korean="Sword of nowhere" />
+	<block key="IN_SF_0_0004_Name" korean="Wrought boar" />
+	<block key="IN_F04_0_0006_Name" korean="Spirit of Ellora" />
+	<block key="IN_F04_0_0007_Name" korean="Spirit of Ellora" />
+	<block key="IN_F04_0_0008_Name" korean="Al-tier workflow" />
+	<block key="IN_F04_0_0009_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0010_Name" korean="Stone statue of a fallen angel" />
+	<block key="IN_F04_0_0011_Name" korean="Box of ewoo Witz" />
+	<block key="IN_F04_0_0012_Name" korean="Al-tier workflow" />
+	<block key="IN_F04_0_0013_Name" korean="Al-tier workflow" />
+	<block key="IN_F04_0_0014_Name" korean="Al-tier workflow" />
+	<block key="IN_F04_0_0015_Name" korean="Al-tier workflow" />
+	<block key="IN_F04_0_0016_Name" korean="Al-tier workflow" />
+	<block key="IN_F04_0_0017_Name" korean="Al-tier workflow" />
+	<block key="IN_F04_0_0018_Name" korean="Al-tier workflow" />
+	<block key="in_cm_0_0070_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0071_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0072_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0073_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0074_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0075_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0076_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0077_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0078_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0079_Name" korean="Natural seconds" />
+	<block key="in_cm_0_0080_Name" korean="Natural seconds" />
+	<block key="IN_F04_0_0019_Name" korean="Shining rich ore" />
+	<block key="IN_F04_0_0020_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0021_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0022_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0023_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0024_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0025_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0026_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0027_Name" korean="Exergy grown relics" />
+	<block key="IN_SF_0_0007_Name" korean="The ancient ruin" />
+	<block key="IN_F04_0_0028_Name" korean="The altar of the goddess" />
+	<block key="IN_F03_0_0001_Name" korean="Net (Pots)" />
+	<block key="IN_F03_0_0002_Name" korean="Shiny water mirror pieces" />
+	<block key="IN_F03_0_0003_Name" korean="Water surfaced mirror pieces" />
+	<block key="IN_F03_0_0004_Name" korean="Singing water mirror pieces" />
+	<block key="IN_F03_0_0005_Name" korean="Water mirror pieces resuscitation" />
+	<block key="IN_F03_0_0006_Name" korean="Water mirror pieces asleep" />
+	<block key="IN_F03_0_0007_Name" korean="Silvery accompanied" />
+	<block key="IN_F03_0_0008_Name" korean="Crane" />
+	<block key="IN_F03_0_0009_Name" korean="In production times" />
+	<block key="IN_F03_0_0010_Name" korean="The finished boat" />
+	<block key="IN_F03_0_0011_Name" korean="3 barrage crossbow" />
+	<block key="IN_F03_0_0012_Name" korean="Wheeler" />
+	<block key="IN_F03_0_0013_Name" korean="Windmills" />
+	<block key="IN_F03_0_0014_Name" korean="Giant conch" />
+	<block key="IN_F03_0_0015_Name" korean="Marlins" />
+	<block key="IN_F03_0_0016_Name" korean="Watchtower" />
+	<block key="IN_F03_0_0017_Name" korean="Pyre" />
+	<block key="IN_F03_0_0018_Name" korean="Cannon" />
+	<block key="IN_F03_0_0019_Name" korean="Shell" />
+	<block key="IN_F03_0_0020_Name" korean="The face of the goddess" />
+	<block key="IN_F03_0_0021_Name" korean="The face of the goddess" />
+	<block key="IN_F03_0_0022_Name" korean="Gargoyle face" />
+	<block key="IN_F03_0_0023_Name" korean="Contaminated dokcho" />
+	<block key="IN_F03_0_0024_Name" korean="Southern Sun Watchtower (sign of the sun)" />
+	<block key="IN_F03_0_0025_Name" korean="Stone laden water rise" />
+	<block key="IN_F03_0_0026_Name" korean="Snow toolholder" />
+	<block key="IN_F03_0_0027_Name" korean="Kuhn Croix furnace" />
+	<block key="IN_F03_0_0028_Name" korean="Snow Tree" />
+	<block key="IN_F03_0_0029_Name" korean="Shining Tree" />
+	<block key="IN_F03_0_0030_Name" korean="Frozen Sentinel" />
+	<block key="IN_F03_0_0031_Name" korean="Frozen Archer" />
+	<block key="IN_F03_0_0032_Name" korean="Water shut-off door" />
+	<block key="IN_HK_0_0040_Name" korean="Surin wanted Tombstone" />
+	<block key="IN_F03_0_0033_Name" korean="Hungry fighters" />
+	<block key="IN_F03_0_0034_Name" korean="Broken railings" />
+	<block key="IN_C01_0_0001_Name" korean="Lost Report" />
+	<block key="IN_C01_0_0002_Name" korean="Report missing" />
+	<block key="IN_C01_0_0003_Name" korean="Hidden Reports" />
+	<block key="IN_C01_0_0004_Name" korean="Dangerous reports" />
+	<block key="IN_C01_0_0005_Name" korean="Defend the magic phrase" />
+	<block key="IN_C01_0_0006_Name" korean="Cobb Im altar" />
+	<block key="IN_C01_0_0007_Name" korean="District summon dragon guardian angel" />
+	<block key="IN_C01_0_0008_Name" korean="Magic sphere of consciousness" />
+	<block key="IN_C01_0_0009_Name" korean="Red can Hojin" />
+	<block key="IN_C01_0_0010_Name" korean="Blue can Hojin" />
+	<block key="IN_C01_0_0011_Name" korean="Yellow Hojin" />
+	<block key="IN_C01_0_0012_Name" korean="Green can Hojin" />
+	<block key="IN_C01_0_0013_Name" korean="Earl document tree lights" />
+	<block key="IN_RDC_0_0016_Name" korean="Berserker summon device" />
+	<block key="IN_RDC_0_0017_Name" korean="Berserker summon device" />
+	<block key="IN_HK_0_0041_Name" korean="Moss brilliance" />
+	<block key="IN_HK_0_0042_Name" korean="Circle of Blood" />
+	<block key="IN_HK_0_0043_Name" korean="Tanning tools" />
+	<block key="IN_HK_0_0044_Name" korean="Eucalyptus leaves" />
+	<block key="IN_F03_0_0035_Name" korean="Lake District alert" />
+	<block key="IN_F03_0_0036_Name" korean="Bag" />
+	<block key="IN_F03_0_0037_Name" korean="Croix Kuhn cranes" />
+	<block key="IN_F03_0_0038_Name" korean="3 barrage crossbow" />
+	<block key="IN_F03_0_0039_Name" korean="Arrow window" />
+	<block key="IN_F03_0_0040_Name" korean="The captives free rummy" />
+	<block key="IN_F03_0_0041_Name" korean="Kuhn Croix frostbite" />
+	<block key="IN_F03_0_0042_Name" korean="The scores for the Mermaid \u003cimage\u003e" />
+	<block key="IN_F03_0_0043_Name" korean="The scores for the Mermaid \u003cin\u003e" />
+	<block key="IN_F03_0_0044_Name" korean="The scores for the Mermaid \u003cand\u003e" />
+	<block key="IN_F03_0_0045_Name" korean="Ice nest" />
+	<block key="IN_F03_0_0046_Name" korean="Ice Tree" />
+	<block key="IN_F03_0_0047_Name" korean="Disguised bomb box" />
+	<block key="IN_F03_0_0048_Name" korean="Treasure chest of pirate boss" />
+	<block key="IN_F03_0_0049_Name" korean="Bomb Package" />
+	<block key="IN_F03_0_0050_Name" korean="East of the sun Watchtower (sign of the sun)" />
+	<block key="IN_F03_0_0051_Name" korean="West Sun Watchtower (sign of the sun)" />
+	<block key="IN_F03_0_0052_Name" korean="Wood prison" />
+	<block key="IN_F03_0_0053_Name" korean="Circlet secret box" />
+	<block key="IN_F03_0_0054_Name" korean="Secret wand box" />
+	<block key="IN_F03_0_0055_Name" korean="Secret Robe box" />
+	<block key="IN_F03_0_0056_name" korean="The lack of artillery shells" />
+	<block key="IN_D11_0_0001_name" korean="Drawbridge" />
+	<block key="IN_D11_0_0002_name" korean="Drawbridge" />
+	<block key="IN_D11_0_0003_name" korean="Drawbridge" />
+	<block key="IN_D11_0_0004_name" korean="Drawbridge Switchgear" />
+	<block key="IN_D11_0_0005_name" korean="Drawbridge Switchgear" />
+	<block key="IN_D11_0_0006_name" korean="Drawbridge Switchgear" />
+	<block key="IN_D11_0_0007_name" korean="Mac Thai distant furnaces" />
+	<block key="IN_D11_0_0008_name" korean="Furnace Lever" />
+	<block key="IN_D11_0_0009_name" korean="Been sealed door" />
+	<block key="IN_D11_0_0010_name" korean="Been sealed door" />
+	<block key="IN_D11_0_0011_name" korean="Door" />
+	<block key="IN_D11_0_0012_name" korean="Namumok book" />
+	<block key="IN_D11_0_0013_name" korean="Emergency bell" />
+	<block key="IN_D11_0_0014_name" korean="Loaded Cannon" />
+	<block key="IN_D03_0_0001_name" korean="Number of doors" />
+	<block key="IN_D03_0_0002_name" korean="Number of switchgear" />
+	<block key="IN_D03_0_0003_name" korean="Number of switchgear" />
+	<block key="IN_D03_0_0004_name" korean="Moon Lake" />
+	<block key="IN_D03_0_0005_name" korean="Myureom small flower" />
+	<block key="IN_D03_0_0006_name" korean="Red leaf spores tree" />
+	<block key="IN_D03_0_0007_name" korean="Namo sodium fossil" />
+	<block key="IN_D03_0_0008_name" korean="Debt shellfish mushrooms" />
+	<block key="IN_d02_roof_001_name" korean="Santin ceiling is cracking" />
+	<block key="IN_D03_0_0009_name" korean="Offerings for" />
+	<block key="IN_D03_0_0010_name" korean="Number of switchgear" />
+	<block key="IN_D03_0_0011_name" korean="Number of switchgear" />
+	<block key="IN_f01_CM_mound_001_name" korean="Mudslide" />
+	<block key="IN_f01_web_001_name" korean="Cobweb" />
+	<block key="IN_f01_CM_mound_002_name" korean="Mudslide" />
+	<block key="IN_RDC_0_0020_name" korean="Wall switch" />
+	<block key="IN_RDC_0_0021_name" korean="Berserker summon device" />
+	<block key="IN_F03_0_0057_name" korean="Water mirror" />
+	<block key="IN_D03_0_0012_name" korean="The number of statements in the source" />
+	<block key="IN_D03_0_0013_name" korean="The number of statements in the diamond" />
+	<block key="IN_D03_0_0014_name" korean="Number of doors the Stars" />
+	<block key="IN_D03_0_0015_name" korean="The number of statements in the square" />
+	<block key="IN_D03_0_0016_name" korean="The number of month statement" />
+	<block key="IN_D03_0_0017_name" korean="The number of triangular door" />
+	<block key="IN_D03_0_0018_name" korean="Portal" />
+	<block key="IN_F03_0_0058_name" korean="Water mirror stool" />
+	<block key="IN_RDC_0_0022_name" korean="Ice yeoinsang" />
+	<block key="IN_d02_0_0017_name" korean="Visible ice wall" />
+	<block key="IN_CM_1_0001_name" korean="Copper" />
+	<block key="IN_CM_1_0002_name" korean="Iron" />
+	<block key="IN_CM_1_0003_name" korean="Mithril" />
+	<block key="IN_CM_1_0004_name" korean="Tural Solarium" />
+	<block key="IN_CM_1_0005_name" korean="Adamantium" />
+	<block key="IN_CM_1_0006_name" korean="Dragoni Help" />
+	<block key="IN_CM_1_1001_name" korean="The" />
+	<block key="IN_CM_1_1002_name" korean="Gold" />
+	<block key="IN_CM_1_1003_name" korean="Amethyst" />
+	<block key="IN_CM_1_1004_name" korean="Sapphire" />
+	<block key="IN_CM_1_1005_name" korean="Emerald" />
+	<block key="IN_CM_1_1006_name" korean="Diamond" />
+	<block key="IN_CM_2_0001_name" korean="Forest mushrooms on" />
+	<block key="IN_CM_2_0002_name" korean="Sage pool" />
+	<block key="IN_CM_2_0003_name" korean="Snow bodies fail-fast:" />
+	<block key="IN_CM_2_0004_name" korean="Mercure roots" />
+	<block key="IN_CM_2_0005_name" korean="Terry Moon Magic seconds" />
+	<block key="IN_CM_2_0006_name" korean="Ruscha flower" />
+	<block key="IN_D02_Uru_0001_name" korean="Uru statue" />
+	<block key="IN_F03_0_0059_name" korean="Mabang book" />
+	<block key="IN_cm_0_0100_name" korean="Gachya box" />
+	<block key="IN_F03_0_0060_name" korean="Water mirror stool" />
+	<block key="IN_F03_0_0061_name" korean="Water mirror stool" />
+	<block key="IN_F03_0_0062_name" korean="Water mirror stool" />
+	<block key="IN_f04_Seal_Jar_001_name" korean="Ancient jar bred exciter" />
+	<block key="IN_f05_0_0001_name" korean="Bald eagle eggs" />
+	<block key="IN_f05_0_0002_name" korean="Well" />
+	<block key="IN_f05_0_0003_name" korean="Who was robbed of wheat bags" />
+	<block key="IN_f05_0_0004_name" korean="Building Materials" />
+	<block key="IN_f05_0_0005_name" korean="Yongbyeongdan camp" />
+	<block key="IN_f05_0_0006_name" korean="Dead guards" />
+	<block key="IN_f05_0_0007_name" korean="Waggon" />
+	<block key="IN_f05_0_0008_name" korean="Crane's yongbyeongdan" />
+	<block key="IN_f05_0_0009_name" korean="Waggon of yongbyeongdan" />
+	<block key="IN_f05_0_0010_name" korean="Rail" />
+	<block key="IN_f05_0_0011_name" korean="Birds of Prey us" />
+	<block key="IN_f05_0_0012_name" korean="Challenger bihaengseok" />
+	<block key="IN_f05_0_0013_name" korean="Climb ore" />
+	<block key="IN_f05_0_0014_name" korean="Climb ore piles" />
+	<block key="IN_f05_0_0015_name" korean="The leak rod of iron" />
+	<block key="IN_f05_0_0016_name" korean="Bats nest" />
+	<block key="IN_f05_0_0017_name" korean="Damaged carcasses" />
+	<block key="IN_f05_0_0018_name" korean="The wind blew the sand on Treasure" />
+	<block key="IN_f05_0_0019_name" korean="Sharkey droppings Bar" />
+	<block key="IN_f05_0_0020_name" korean="Cookware of Niagara" />
+	<block key="IN_f05_0_0021_name" korean="Gryphon food" />
+	<block key="IN_SF_1_0018_name" korean="Blood flower" />
+	<block key="IN_F03_0_0063_name" korean="Pirates Lighthouse" />
+	<block key="IN_F03_0_0064_name" korean="Pirates Lighthouse" />
+	<block key="IN_f02_human_arm_01_name" korean="Human arm" />
+	<block key="IN_HK_0_0045_Name" korean="Abandoned slate" />
+	<block key="IN_HK_0_0046_Name" korean="Cobb being enhanced device" />
+	<block key="IN_HK_0_0047_Name" korean="Body of Grass" />
+	<block key="IN_HK_0_0048_Name" korean="Hidden box" />
+	<block key="IN_HK_0_0049_Name" korean="Im Cobb Circle" />
+	<block key="IN_HK_0_0050_Name" korean="Paper box" />
+	<block key="IN_HK_0_0051_Name" korean="Fish trap" />
+	<block key="IN_HK_0_0052_Name" korean="Squash" />
+	<block key="IN_HK_0_0053_Name" korean="Curious monument" />
+	<block key="IN_HK_0_0054_Name" korean="Circle of Blood" />
+	<block key="IN_HK_0_0055_Name" korean="Broken light" />
+	<block key="IN_HK_0_0056_Name" korean="Tanning tools" />
+	<block key="IN_HK_0_0057_Name" korean="Thievery" />
+	<block key="IN_HK_0_0058_Name" korean="Destruction Circle" />
+	<block key="IN_HK_0_0059_Name" korean="Sealed for Jean" />
+	<block key="IN_HK_0_0060_Name" korean="Debris can Hojin" />
+	<block key="IN_HK_0_0065_Name" korean="The body in question" />
+	<block key="IN_f02_magic_orb_01_Name" korean="Magic sphere of consciousness" />
+	<block key="IN_d04_0_0021_name" korean="Treasure chest of frost Brigade General" />
+	<block key="IN_CM_0_0200_Name" korean="Exo-digit helpful" />
+	<block key="IN_KLM_0_0004_Name" korean="Mansion inside jwamun" />
+	<block key="IN_KLM_0_0005_Name" korean="Yu - wen inside mansion" />
+	<block key="IN_HK_0_0061_Name" korean="Kell Woods herbs" />
+	<block key="IN_D00_0_0001_Name" korean="Fireworks" />
+	<block key="IN_HK_0_0062_Name" korean="Garlic" />
+	<block key="IN_HK_0_0063_Name" korean="Jaedeo Lee's treasure" />
+	<block key="IN_KLM_0_0006_Name" korean="Mansion porch" />
+	<block key="IN_F02_0_0052_Name" korean="Wood prison" />
+	<block key="IN_F03_0_0065_Name" korean="Wood" />
+	<block key="IN_C01_1_0001_Name" korean="Rod of iron" />
+	<block key="IN_C01_1_0002_Name" korean="Iron gates" />
+	<block key="IN_P01_0_0001_Name" korean="Wood prison" />
+	<block key="IN_P01_0_0002_Name" korean="Baekgol is dead" />
+	<block key="IN_P01_0_0003_Name" korean="Can hoseok" />
+	<block key="IN_P01_0_0004_Name" korean="Contaminated exo-digit helpful" />
+	<block key="IN_F09_0_0001_Name" korean="Seukan public stage bomb" />
+	<block key="IN_F09_0_0002_Name" korean="Seukan public stage cannon" />
+	<block key="IN_F09_0_0003_Name" korean="Oh Moth Fly" />
+	<block key="IN_F09_0_0004_Name" korean="Luxury box of a town julran" />
+	<block key="IN_F09_0_0005_Name" korean="Luggage box for Do julran" />
+	<block key="IN_F09_0_0006_Name" korean="Do julran stuff sack" />
+	<block key="IN_F09_0_0007_Name" korean="The slow growth of carrot" />
+	<block key="IN_F09_0_0008_Name" korean="The slow growth of watermelon" />
+	<block key="IN_F09_0_0009_Name" korean="Contaminated vegetables" />
+	<block key="IN_F09_0_0010_Name" korean="Seukan public stage Bandit shells" />
+	<block key="IN_F09_0_0011_Name" korean="Crystal Ball of Pomerania 0 shares" />
+	<block key="IN_F09_0_0012_Name" korean="Giant crossbow" />
+	<block key="IN_F09_0_0013_Name" korean="Ellora aura of the goddess" />
+	<block key="IN_P01_0_0005_Name" korean="Relic box" />
+	<block key="IN_D3_0_0027_Name" korean="Frost pool" />
+	<block key="IN_F03_0_0066_Name" korean="Snowy wood box" />
+	<block key="IN_F03_0_0067_Name" korean="Through snowy" />
+	<block key="IN_F03_0_0068_Name" korean="Frozen door bars" />
+	<block key="IN_F09_0_0014_Name" korean="They picked up residents" />
+	<block key="IN_F09_0_0015_Name" korean="Residents in Crisis" />
+	<block key="IN_F09_0_0016_Name" korean="Jennifer's work box" />
+	<block key="IN_f03_Funit_001_Name" korean="Frost Control Unit" />
+	<block key="IN_f03_IceObject_001_Name" korean="Totem ice core" />
+	<block key="IN_f03_Malachite_001_Name" korean="Croix Kuhn cranes" />
+	<block key="IN_P01_0_0006_Name" korean="Weary mercenary" />
+	<block key="IN_F03_0_0069_Name" korean="Frozen door bars" />
+	<block key="IN_P01_0_0007_Name" korean="Mudslide" />
+	<block key="IN_P01_0_0008_Name" korean="Cobweb" />
+	<block key="IN_P01_0_0009_Name" korean="Strange smells box" />
+	<block key="IN_P01_0_0010_Name" korean="Alcohol odor box" />
+	<block key="IN_P01_0_0011_Name" korean="Tombstone" />
+	<block key="IN_P01_0_0012_Name" korean="Bloody reading desk" />
+	<block key="IN_P01_0_0013_Name" korean="Old book" />
+	<block key="IN_P01_0_0014_Name" korean="Smelly book" />
+	<block key="IN_P01_0_0015_Name" korean="Is drawn book" />
+	<block key="IN_P01_0_0016_Name" korean="Full body" />
+	<block key="IN_P01_0_0017_Name" korean="Suspicious grain sacks" />
+	<block key="IN_P01_0_0018_Name" korean="Al unknown" />
+	<block key="IN_P01_0_0019_Name" korean="Leftover meat" />
+	<block key="IN_F09_0_0019_Name" korean="Top of Ellora credit" />
+	<block key="IN_F02_0_0034_Name" korean="Al's multi-Calais" />
+	<block key="IN_PK_02_silver_001_Name" korean="Bag ore" />
+	<block key="IN_PK_02_silver_002_Name" korean="Ore giant bag" />
+	<block key="IN_PK_02_dish_001_Name" korean="Eye plate" />
+	<block key="IN_PK_02_pot_001_Name" korean="Pot" />
+	<block key="IN_PK_02_Box_001_Name" korean="Control Unit Parts Bin" />
+	<block key="IN_f01_0_0054_Name" korean="Jean strengthen ruins" />
+	<block key="IN_f01_Skull_001_Name" korean="Damaged body" />
+	<block key="IN_f01_Barrel_001_Name" korean="Brage MRes" />
+	<block key="IN_f01_BraGlass_01_Name" korean="Browse carboxylic herbs" />
+	<block key="IN_f03_Grain_001_name" korean="Grain sacks" />
+	<block key="IN_f09_FireObject_01_name" korean="Broken Supplies" />
+	<block key="IN_F03_barrel_001_Name" korean="Pirate Keg" />
+	<block key="IN_F03_Grain_002_Name" korean="Lost luggage" />
+	<block key="IN_F03_magic_001_Name" korean="Curse Tools" />
+	<block key="IN_F03_Grass_002_Name" korean="Angaecho" />
+	<block key="IN_F02_Magic_001_Name" korean="Green Magic Stone" />
+	<block key="IN_F02_Grass_001_Name" korean="Flame seconds" />
+	<block key="IN_F02_Burn_001_Name" korean="Burned the bones of lost soldiers" />
+	<block key="IN_F02_tomb_001_Name" korean="Cemetery" />
+	<block key="IN_F02_poo_001_Name" korean="Lots dung ah" />
+	<block key="IN_C01_nest_001_Name" korean="Red Dragon Nest" />
+	<block key="IN_C01_box_001_Name" korean="Box of the lighthouse keeper" />
+	<block key="IN_F04_0_0029_Name" korean="Away parts" />
+	<block key="IN_F04_0_0030_Name" korean="Torch of justice" />
+	<block key="IN_F04_0_0031_Name" korean="Torch of Truth" />
+	<block key="IN_F04_0_0032_Name" korean="Torch of destruction" />
+	<block key="IN_F04_0_0033_Name" korean="Hidden Treasure" />
+	<block key="IN_F04_0_0034_Name" korean="Pegasus report" />
+	<block key="IN_F04_0_0035_Name" korean="Dead Pegasus Knights" />
+	<block key="IN_F04_0_0036_Name" korean="Frozen Archer" />
+	<block key="IN_F04_0_0037_Name" korean="Isolated supply crew" />
+	<block key="IN_F04_0_0038_Name" korean="Shield damaged equipment" />
+	<block key="IN_F04_0_0039_Name" korean="Angel statue of Truth" />
+	<block key="IN_F04_0_0040_Name" korean="Angel statue of justice" />
+	<block key="IN_F04_0_0041_Name" korean="Angel statue of container" />
+	<block key="IN_F04_0_0042_Name" korean="The ancient coffin" />
+	<block key="IN_F04_0_0043_Name" korean="The scores for the tree lights Earl" />
+	<block key="IN_F04_0_0044_Name" korean="Old Documents" />
+	<block key="IN_f04_lever_001_Name" korean="Tea Original equipment" />
+	<block key="IN_F04_Oflyium_001_Name" korean="Tri Moth" />
+	<block key="IN_f04_at_Stone_001_Name" korean="Terry O aggregation devices" />
+	<block key="IN_f04_mt_Stone_001_Name" korean="Pardo and cohesive devices" />
+	<block key="IN_f04_Dt_Stone_001_Name" korean="Hess tunnel aggregation device" />
+	<block key="IN_P01_wagon_001_Name" korean="Supply Wagon" />
+	<block key="IN_P01_meal_001_Name" korean="Distribution of food bags" />
+	<block key="IN_P01_body_001_Name" korean="Ferrell's body" />
+	<block key="IN_P01_body_002_Name" korean="The body of Spry" />
+	<block key="IN_P01_tree_001_Name" korean="Shining namumo" />
+	<block key="IN_KLM_0_0007_Name" korean="Mansion porch" />
+	<block key="IN_KLM_0_0008_Name" korean="Chateau Banquet Hall" />
+	<block key="IN_KLM_0_0009_Name" korean="Chateau Library" />
+	<block key="IN_F99_JailControl_Name" korean="Visit sense device" />
+	<block key="IN_d04_0_0022_name" korean="Box of Aisha" />
+	<block key="IN_F15_Switch_01_Name" korean="Torch of the Underworld" />
+	<block key="IN_C01_magic_1_Name" korean="Space-time distortion device" />
+	<block key="IN_f04_CM_001_Name" korean="Tural Solarium" />
+	<block key="IN_f04_CM_002_Name" korean="Tural Solarium" />
+	<block key="IN_f04_CM_003_Name" korean="Sapphire" />
+	<block key="IN_f04_CM_004_Name" korean="Sapphire" />
+	<block key="IN_f04_CM_005_Name" korean="Mercure roots" />
+	<block key="IN_f01_magic_orb_001_Name" korean="Create chaos horsepower body" />
+	<block key="IN_F02_Holy_Egg_002_Name" korean="Magic sphere of consciousness" />
+	<block key="IN_d22_Magnetic_01_Name" korean="The magnetic field of the gap" />
+	<block key="IN_d22_StoneWall_01_Name" korean="Cordierite solid barrier" />
+	<block key="IN_d22_StoneBott_01_Name" korean="Cordierite solid foothold" />
+	<block key="IN_d22_WarpPortal_01_Name" korean="Teleportation Portal" />
+	<block key="IN_d22_StoneBott_02_Name" korean="Large cordierite solid foothold" />
+	<block key="IN_d22_GoldBox_01_Name" korean="Treasure Chest of Izu Hora" />
+	<block key="IN_F04_SoulPlants_Name" korean="Soul seconds" />
+	<block key="IN_F04_Cursedstone_Name" korean="The energy of the stone curse Surin" />
+	<block key="in_klm_0_0010_Name" korean="Gust laboratory dish" />
+	<block key="in_klm_0_0012_Name" korean="What discussions main entrance" />
+	<block key="in_klm_0_0011_Name" korean="Library of RAM beurandeu" />
+	<block key="in_klm_0_0013_Name" korean="Office of Karl reang" />
+	<block key="IN_p01_darkore_Name" korean="Large exo-digit helpful" />
+	<block key="IN_f05_1_0001_Name" korean="Fire altar" />
+	<block key="IN_f05_1_0002_Name" korean="Footprints in question" />
+	<block key="IN_f05_1_0003_Name" korean="Gargoyle on the flight of the Challenger" />
+	<block key="IN_f05_1_0004_Name" korean="A stone statue of a flying head" />
+	<block key="IN_f05_1_0005_Name" korean="Broken trap" />
+	<block key="IN_f05_1_0006_Name" korean="Ore wagon" />
+	<block key="IN_f05_1_0007_Name" korean="Yongbyeongdan tent" />
+	<block key="IN_f05_1_0008_Name" korean="Climb ore" />
+	<block key="IN_f05_1_0009_Name" korean="Communication horn" />
+	<block key="IN_f05_1_0010_Name" korean="Immortal Legion Circle" />
+	<block key="IN_f05_1_0011_Name" korean="Only a small pot" />
+	<block key="IN_f05_1_0012_Name" korean="Cookware of Niagara" />
+	<block key="IN_f05_1_0013_Name" korean="Treasure chest buried in the sand" />
+	<block key="IN_f05_1_0014_Name" korean="Venom jar" />
+	<block key="IN_f05_1_0015_Name" korean="Soul Embers" />
+	<block key="IN_f05_1_0016_Name" korean="Old flame bowl" />
+	<block key="IN_f05_1_0017_Name" korean="Posthumous work of Claudel" />
+	<block key="IN_f05_1_0018_Name" korean="Stone carving necessary to" />
+	<block key="IN_f05_1_0019_Name" korean="The first treasure lost" />
+	<block key="IN_f05_1_0020_Name" korean="Second Lost Treasure" />
+	<block key="IN_f05_1_0021_Name" korean="Lost the third treasure" />
+	<block key="IN_f05_1_0022_Name" korean="Bones of ancient Fellow" />
+	<block key="IN_f05_1_0023_Name" korean="The remains of Yusei" />
+	<block key="IN_f05_1_0024_Name" korean="The body of a sheep" />
+	<block key="IN_f05_1_0025_Name" korean="The body of a deer" />
+	<block key="IN_f05_1_0026_Name" korean="Pyre" />
+	<block key="IN_f05_1_0027_Name" korean="Pillar of Fire" />
+	<block key="IN_f05_1_0028_Name" korean="Water Column" />
+	<block key="IN_f05_1_0029_Name" korean="Pillars of the wind" />
+	<block key="IN_f05_1_0030_Name" korean="The Pillars of the Earth" />
+	<block key="IN_f05_1_0031_Name" korean="Modification of Pomerania 0 shares beads" />
+	<block key="IN_f05_1_0032_Name" korean="MER value of the cane" />
+	<block key="IN_f05_1_0033_Name" korean="Immortal Legion Chains" />
+	<block key="IN_f05_1_0034_Name" korean="Trap" />
+	<block key="IN_f05_1_0035_Name" korean="Exterior looks heosulhae" />
+	<block key="IN_f05_1_0036_Name" korean="Wagons for construction" />
+	<block key="IN_f05_1_0037_Name" korean="Yongbyeongdan tent" />
+	<block key="IN_f05_1_0038_Name" korean="Mining Equipment" />
+	<block key="IN_f05_1_0039_Name" korean="Birds of Prey us" />
+	<block key="IN_f05_1_0040_Name" korean="Natural destroyed equipment" />
+	<block key="IN_f05_1_0041_Name" korean="Climb ore wagon" />
+	<block key="IN_f05_1_0042_Name" korean="Al Griffon" />
+	<block key="IN_f05_1_0043_Name" korean="Guard Tower" />
+	<block key="IN_f05_1_0044_Name" korean="Mechanical Facilities" />
+	<block key="IN_f05_1_0045_Name" korean="Anti-aircraft equipment" />
+	<block key="IN_f05_1_0046_Name" korean="Bluff" />
+	<block key="IN_f05_1_0047_Name" korean="Bald Eagle Nest" />
+	<block key="IN_f05_1_0048_Name" korean="Flour pile" />
+	<block key="IN_f05_1_0049_Name" korean="Bats nest" />
+	<block key="IN_f05_1_0050_Name" korean="Well" />
+	<block key="IN_f05_1_0051_Name" korean="Rail" />
+	<block key="IN_f05_1_0052_Name" korean="Kuhn Croix Food" />
+	<block key="IN_f05_1_0053_Name" korean="Gargoyle nest" />
+	<block key="IN_D03_Door_L_Name" korean="Huge Seongmun" />
+	<block key="IN_D13_Door_S_Name" korean="Seongmun" />
+	<block key="IN_D13_Open_Name" korean="Seongmun Switchgear" />
+	<block key="IN_D13_Treasure_Name" korean="Fly boxes" />
+	<block key="IN_D13_Fence_Name" korean="Pence" />
+	<block key="IN_D13_Tower_Name" korean="Boundary stone" />
+	<block key="IN_D13_Tablet_Name" korean="Scott rasya slabs" />
+	<block key="IN_f05_1_0054_Name" korean="Shadow Raven Clan communication" />
+	<block key="IN_f05_1_0055_Name" korean="Box of moire Mahal" />
+	<block key="IN_f05_sickman_1_Name" korean="Residents of dehydration" />
+	<block key="IN_f05_sickman_2_Name" korean="Residents of dehydration" />
+	<block key="IN_f05_oresky_Name" korean="Climb the rubble ore" />
+	<block key="IN_f05_mabox_Name" korean="Material box" />
+	<block key="IN_f05_worker_Name" korean="Relaxing under construction workers" />
+	<block key="IN_f05_weapon_Name" korean="Yongbyeongdan of weapons Archive" />
+	<block key="IN_f05_tool_Name" korean="Equipment cradle of yongbyeongdan" />
+	<block key="IN_f05_deadbody_Name" korean="Rotten corpse of the research section" />
+	<block key="IN_f05_crane_1_Name" korean="Small cranes to transport" />
+	<block key="IN_f05_wagon_1_Name" korean="Luggage pile" />
+	<block key="IN_f05_dressbox_Name" korean="Abandoned clothes box" />
+	<block key="IN_f05_toybox_Name" korean="Abandoned Toy Box" />
+	<block key="IN_f05_exbox_Name" korean="Abandoned goods box" />
+	<block key="IN_f05_elemental_Name" korean="Summon Elemental analysis" />
+	<block key="IN_D13_Door_A_Name" korean="Pilgrim's Way" />
+	<block key="IN_D13_Door_B_Name" korean="Way of performers" />
+	<block key="IN_f05_diary_Name" korean="Abandoned City" />
+	<block key="IN_f05_WoodCart_1" korean="Binsure" />
+	<block key="IN_p01_ExariumBox_Name" korean="Exergy grown treasure chest" />
+	<block key="IN_D13_Tablet_1_Name" korean="Scott rasya slabs" />
+	<block key="IN_D13_Tablet_1_NameDetail" korean="Wide" />
+	<block key="IN_D13_Tablet_2_Name" korean="Scott rasya slabs" />
+	<block key="IN_D13_Tablet_2_NameDetail" korean="Guardian" />
+	<block key="IN_D13_Tablet_3_Name" korean="Scott rasya slabs" />
+	<block key="IN_D13_Tablet_3_NameDetail" korean="Shadow" />
+	<block key="IN_D13_Tablet_4_Name" korean="Scott rasya slabs" />
+	<block key="IN_D13_Tablet_4_NameDetail" korean="Conviction" />
+	<block key="IN_F05_namelessPlant_Name" korean="Nameless Grass" />
+	<block key="IN_D06_DoorCon_1_Name" korean="Unknown lever" />
+	<block key="IN_D06_DoorCon_2_Name" korean="Unknown lever" />
+	<block key="IN_D06_UpperDoor_1_Name" korean="Iron gates" />
+	<block key="IN_D06_UnderLever_1_Name" korean="Engine compartment opening device" />
+	<block key="IN_D06_UnderLever_2_Name" korean="Open the control room equipment" />
+	<block key="IN_D06_UnderLever_3_Name" korean="Summon real open device" />
+	<block key="IN_D06_Underdoor_1_Name" korean="Iron gates" />
+	<block key="IN_D06_Underdoor_2_Name" korean="Iron gates" />
+	<block key="IN_D06_Underdoor_3_Name" korean="Iron gates" />
+	<block key="IN_D06_EvilForce_1_Name" korean="Evil Wall" />
+	<block key="IN_D06_EvilForce_2_Name" korean="Evil Wall" />
+	<block key="IN_D06_Recharger_1_Name" korean="Horsepower converter" />
+	<block key="IN_f05_1_0056_Name" korean="Honeycomb desert" />
+	<block key="IN_f05_1_0057_Name" korean="Brage body" />
+	<block key="IN_f05_1_0058_Name" korean="Plague spell controls" />
+	<block key="IN_f05_1_0059_Name" korean="Plague spell created body" />
+	<block key="IN_f05_1_0060_Name" korean="Cut the arms of a man" />
+	<block key="IN_f05_1_0061_Name" korean="Kuhn's body Croix" />
+	<block key="IN_f05_1_0062_Name" korean="Kuhn beacon Croix" />
+	<block key="IN_f05_1_0063_Name" korean="Prisoners DETENTION" />
+	<block key="IN_f05_1_0064_Name" korean="Cobweb" />
+	<block key="IN_f05_1_0065_Name" korean="Emerged treasure chest" />
+	<block key="IN_f05_1_0066_Name" korean="Abandoned graves" />
+	<block key="IN_f05_1_0067_Name" korean="Transcript of the shoe Fern" />
+	<block key="IN_f05_1_0068_Name" korean="Bodies of Gryphon" />
+	<block key="IN_f05_hermit_a_Name" korean="Hermits of the villagers" />
+	<block key="IN_f05_hermit_b_Name" korean="Hermits of the villagers" />
+	<block key="IN_f05_croweapon_Name" korean="Croix Kuhn Equipment Archive" />
+	<block key="IN_f05_1_0069_Name" korean="Putrid corpse" />
+	<block key="IN_f05_1_0069_NameDetail" korean="Victims of man-eating spider" />
+	<block key="IN_f05_closedkey_001_Name" korean="Key Chains release" />
+	<block key="IN_f05_bomb_001_Name" korean="Bomb" />
+	<block key="IN_F06_Alcohol_01_Name" korean="Cask of Schumacher" />
+	<block key="IN_F06_Alcohol_01_NameDetail" korean="" />
+	<block key="IN_F06_Alcohol_02_Name" korean="Cask of Schumacher" />
+	<block key="IN_F06_Alcohol_02_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Yellow_01_Name" korean="Yellow gem" />
+	<block key="IN_f06_CryS_Yellow_01_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Blue_01_Name" korean="Blue gem" />
+	<block key="IN_f06_CryS_Blue_01_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Green_01_Name" korean="Green Gem" />
+	<block key="IN_f06_CryS_Green_01_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Red_01_Name" korean="Red Gem" />
+	<block key="IN_f06_CryS_Red_01_NameDetail" korean="" />
+	<block key="IN_D06_Reactor_1_Name" korean="With power" />
+	<block key="IN_D06_Reactor_1_NameDetail" korean="" />
+	<block key="IN_f05_equip_001_Name" korean="Chains control device" />
+	<block key="IN_f05_equip_001_NameDetail" korean="" />
+	<block key="IN_f05_cutequip_01_Name" korean="Chains control device" />
+	<block key="IN_f05_cutequip_01_NameDetail" korean="" />
+	<block key="IN_D13_Treasure_H_Name" korean="Fly boxes" />
+	<block key="IN_f05_bombbox_Name" korean="Desert Brage explosive box" />
+	<block key="IN_f05_grass_01_Name" korean="Fog pool" />
+	<block key="IN_f05_fire_01_Name" korean="Bonfire" />
+	<block key="IN_f05_2_0040_Name" korean="Birds of Prey us" />
+	<block key="IN_f05_2_0040_NameDetail" korean="" />
+</blocks>

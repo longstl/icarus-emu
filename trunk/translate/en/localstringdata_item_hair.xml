@@ -1,0 +1,48 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="HM_Hair_000_Name" korean="Human Male Head 1" />
+	<block key="HM_Hair_001_Name" korean="Human Male Hair 2" />
+	<block key="HM_Hair_002_Name" korean="Human Male Head 3" />
+	<block key="HM_Hair_003_Name" korean="Human Male Head 4" />
+	<block key="HM_Hair_004_Name" korean="Human Male Hair 5" />
+	<block key="HM_Hair_005_Name" korean="Human Male Head 6" />
+	<block key="HM_Hair_006_Name" korean="Human Male Head 7" />
+	<block key="HM_Hair_007_Name" korean="Human Male Hair 8" />
+	<block key="HM_Hair_008_Name" korean="Human head man 9" />
+	<block key="HM_Hair_009_Name" korean="Human Male Head 10" />
+	<block key="HM_Hair_010_Name" korean="Human Male Head 11" />
+	<block key="HM_Hair_011_Name" korean="Human Male Head 12" />
+	<block key="HM_Hair_012_Name" korean="Human Male Head 13" />
+	<block key="HM_Hair_013_Name" korean="Human Male Head 14" />
+	<block key="HM_Hair_014_Name" korean="Human Male Head 15" />
+	<block key="HW_Hair_000_Name" korean="Human hair girl 1" />
+	<block key="HW_Hair_001_Name" korean="Human woman head 2" />
+	<block key="HW_Hair_002_Name" korean="Three women human hair" />
+	<block key="HW_Hair_003_Name" korean="Four women human hair" />
+	<block key="HW_Hair_004_Name" korean="Human hair girl 5" />
+	<block key="HW_Hair_005_Name" korean="Six women human hair" />
+	<block key="HW_Hair_006_Name" korean="Woman human hair 7" />
+	<block key="HW_Hair_007_Name" korean="Human hair girl 8" />
+	<block key="HW_Hair_008_Name" korean="Nine women human hair" />
+	<block key="HW_Hair_009_Name" korean="Woman human hair 10" />
+	<block key="HW_Hair_010_Name" korean="11 women human hair" />
+	<block key="HW_Hair_011_Name" korean="12 women human hair" />
+	<block key="HW_Hair_012_Name" korean="13 women human hair" />
+	<block key="HW_Hair_013_Name" korean="14 women human hair" />
+	<block key="HW_Hair_014_Name" korean="Woman human hair 15" />
+	<block key="CM_Hair_000_Name" korean="Croix Kuhn man head first" />
+	<block key="CM_Hair_001_Name" korean="Croix Kuhn man head 2" />
+	<block key="CM_Hair_002_Name" korean="Croix Kuhn man head 3" />
+	<block key="CW_Hair_000_Name" korean="Croix Kuhn woman head 1" />
+	<block key="CW_Hair_001_Name" korean="Croix Kuhn woman head 2" />
+	<block key="CW_Hair_002_Name" korean="Croix Kuhn woman head 3" />
+	<block key="SW_Hair_000_Name" korean="Shearing woman with head 1" />
+	<block key="SW_Hair_001_Name" korean="Shearing woman head 2" />
+	<block key="SW_Hair_002_Name" korean="Shearing woman head 3" />
+</blocks>

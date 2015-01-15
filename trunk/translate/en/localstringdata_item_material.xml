@@ -1,0 +1,613 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="MA_1_0001_Name" korean="Copper ore" />
+	<block key="MA_1_1001_Name" korean="Copper Ingots" />
+	<block key="MA_1_1002_Name" korean="Copper alloys" />
+	<block key="MA_1_0002_Name" korean="Iron ore" />
+	<block key="MA_1_2001_Name" korean="Iron Bars" />
+	<block key="MA_1_2002_Name" korean="Iron alloy" />
+	<block key="MA_1_0003_Name" korean="Mithril Ore" />
+	<block key="MA_1_3001_Name" korean="Mithril Bars" />
+	<block key="MA_1_3002_Name" korean="Mithril Alloy" />
+	<block key="MA_1_0004_Name" korean="Tural gallium ore" />
+	<block key="MA_1_0005_Name" korean="Adamantium Ore" />
+	<block key="MA_1_0006_Name" korean="Dragoni Help ore" />
+	<block key="MA_2_0001_Name" korean="The ore" />
+	<block key="MA_2_1001_Name" korean="Silver powder" />
+	<block key="MA_2_0002_Name" korean="Gold Ore" />
+	<block key="MA_2_2001_Name" korean="Gold dust" />
+	<block key="MA_2_0003_Name" korean="Amethyst Gemstone" />
+	<block key="MA_2_3001_Name" korean="Crafted Amethyst" />
+	<block key="MA_2_0004_Name" korean="Sapphire Gemstone" />
+	<block key="MA_2_0005_Name" korean="Emerald Gemstone" />
+	<block key="MA_2_0006_Name" korean="Rough diamond" />
+	<block key="MA_3_0001_Name" korean="Forest mushrooms on" />
+	<block key="MA_3_0002_Name" korean="Sage pool" />
+	<block key="MA_3_0003_Name" korean="Snow bodies fail-fast:" />
+	<block key="MA_3_0004_Name" korean="Mercure roots" />
+	<block key="MA_3_0005_Name" korean="Terry Moon Magic seconds" />
+	<block key="MA_3_0006_Name" korean="Ruscha flower" />
+	<block key="MA_4_0001_Name" korean="Rough cloth" />
+	<block key="MA_4_1001_Name" korean="Coarse cloth" />
+	<block key="MA_4_0002_Name" korean="Sheer" />
+	<block key="MA_4_2001_Name" korean="Thin cloth" />
+	<block key="MA_4_0003_Name" korean="Thick cloth" />
+	<block key="MA_4_3001_Name" korean="Thick cloth" />
+	<block key="MA_4_0004_Name" korean="Soft cloth" />
+	<block key="MA_4_0005_Name" korean="Polished cloth" />
+	<block key="MA_4_0006_Name" korean="Shiny fabric" />
+	<block key="MA_5_0001_Name" korean="Tough meat" />
+	<block key="MA_5_0002_Name" korean="Ordinary meat" />
+	<block key="MA_5_0003_Name" korean="Chewy meat" />
+	<block key="MA_5_0004_Name" korean="Plain meat" />
+	<block key="MA_5_0005_Name" korean="Tender meat" />
+	<block key="MA_5_0006_Name" korean="Tender meat" />
+	<block key="MA_6_0001_Name" korean="Cheer feeble spirits" />
+	<block key="MA_6_1001_Name" korean="Be weak spirits" />
+	<block key="MA_6_0002_Name" korean="Strength of weak spirits" />
+	<block key="MA_6_2001_Name" korean="Be weak spirits" />
+	<block key="MA_6_0003_Name" korean="Aura of ordinary spirits" />
+	<block key="MA_6_3001_Name" korean="Ordinary number spirits" />
+	<block key="MA_6_0004_Name" korean="Aura of strong spirits" />
+	<block key="MA_6_0005_Name" korean="Shining aura of spirits" />
+	<block key="MA_6_0006_Name" korean="Aura of brilliant spirits" />
+	<block key="MA_7_1101_Name" korean="Step 1 Hilt" />
+	<block key="MA_7_1102_Name" korean="Step 2 Hilt" />
+	<block key="MA_7_1103_Name" korean="Step 3 Hilt" />
+	<block key="MA_7_1104_Name" korean="Step 4 Hilt" />
+	<block key="MA_7_1105_Name" korean="Step 5 hilt" />
+	<block key="MA_7_1106_Name" korean="Step 6 hilt" />
+	<block key="MA_7_1201_Name" korean="Lesser Whetstone" />
+	<block key="MA_7_1202_Name" korean="Intermediate grinding wheel" />
+	<block key="MA_7_1203_Name" korean="Greater Whetstone" />
+	<block key="MA_7_2101_Name" korean="Step 1 timber" />
+	<block key="MA_7_2102_Name" korean="Step 2 Wood" />
+	<block key="MA_7_2103_Name" korean="Step 3 Wood" />
+	<block key="MA_7_2104_Name" korean="Step 4 wood" />
+	<block key="MA_7_2105_Name" korean="Step 5 Wood" />
+	<block key="MA_7_2106_Name" korean="Step 6 Wood" />
+	<block key="MA_7_2201_Name" korean="Lower weight" />
+	<block key="MA_7_2202_Name" korean="Intermediate weight" />
+	<block key="MA_7_2203_Name" korean="Greater weight" />
+	<block key="MA_7_3101_Name" korean="Step 1 dies" />
+	<block key="MA_7_3102_Name" korean="Step 2 Die" />
+	<block key="MA_7_3103_Name" korean="Step 3 Die" />
+	<block key="MA_7_3104_Name" korean="Step 4 Die" />
+	<block key="MA_7_3105_Name" korean="Step 5 Die" />
+	<block key="MA_7_3106_Name" korean="Step 6 dice" />
+	<block key="MA_7_3201_Name" korean="Minor welding" />
+	<block key="MA_7_3202_Name" korean="Intermediate Welding" />
+	<block key="MA_7_3203_Name" korean="Advanced Welding" />
+	<block key="MA_7_4101_Name" korean="Step 1 sewing kit" />
+	<block key="MA_7_4102_Name" korean="Step 2 Sewing Kit" />
+	<block key="MA_7_4103_Name" korean="Step 3 sewing kit" />
+	<block key="MA_7_4104_Name" korean="Step 4 sewing kit" />
+	<block key="MA_7_4105_Name" korean="Step 5 sewing kit" />
+	<block key="MA_7_4106_Name" korean="Step 6 sewing kit" />
+	<block key="MA_7_4201_Name" korean="Low-grade dyes" />
+	<block key="MA_7_4202_Name" korean="Intermediate dye" />
+	<block key="MA_7_4203_Name" korean="Greater Dye" />
+	<block key="MA_7_5101_Name" korean="Constant Step 1 horsepower" />
+	<block key="MA_7_5102_Name" korean="Constant Step 2 horsepower" />
+	<block key="MA_7_5103_Name" korean="Step 3 integer horsepower" />
+	<block key="MA_7_5104_Name" korean="Constant Step 4 horsepower" />
+	<block key="MA_7_5105_Name" korean="Step 5 horsepower integer" />
+	<block key="MA_7_5106_Name" korean="Constant Step 6 horsepower" />
+	<block key="MA_7_5201_Name" korean="Low-grade glass bottles" />
+	<block key="MA_7_5202_Name" korean="Intermediate glass bottle" />
+	<block key="MA_7_5203_Name" korean="Advanced vial" />
+	<block key="MA_7_6111_Name" korean="Step 1 spicy sauce" />
+	<block key="MA_7_6112_Name" korean="Step 2 hot sauce" />
+	<block key="MA_7_6113_Name" korean="Step 3 Hot Sauce" />
+	<block key="MA_7_6114_Name" korean="Step 4 hot sauce" />
+	<block key="MA_7_6115_Name" korean="Step 5 Hot Sauce" />
+	<block key="MA_7_6116_Name" korean="Step 6 Hot Sauce" />
+	<block key="MA_7_6121_Name" korean="Step 1 sweet sauce" />
+	<block key="MA_7_6122_Name" korean="Step 2 sweet sauce" />
+	<block key="MA_7_6123_Name" korean="Step 3 sweet sauce" />
+	<block key="MA_7_6124_Name" korean="Step 4 sweet sauce" />
+	<block key="MA_7_6125_Name" korean="Step 5 sweet sauce" />
+	<block key="MA_7_6126_Name" korean="Step 6 sweet sauce" />
+	<block key="MA_7_6131_Name" korean="Step 1 plain sauce" />
+	<block key="MA_7_6132_Name" korean="Step 2 plain sauce" />
+	<block key="MA_7_6133_Name" korean="Step 3 plain sauce" />
+	<block key="MA_7_6134_Name" korean="Step 4 plain sauce" />
+	<block key="MA_7_6135_Name" korean="Step 5 plain sauce" />
+	<block key="MA_7_6136_Name" korean="Step 6 plain sauce" />
+	<block key="MA_7_6201_Name" korean="Low-grade containers" />
+	<block key="MA_7_6202_Name" korean="Intermediate storage containers" />
+	<block key="MA_7_6203_Name" korean="Advanced containers" />
+	<block key="MA_7_7101_Name" korean="Step 1 pore box" />
+	<block key="MA_7_7102_Name" korean="Step 2 pore box" />
+	<block key="MA_7_7103_Name" korean="Step 3 pore box" />
+	<block key="MA_7_7104_Name" korean="Step 4 pore box" />
+	<block key="MA_7_7105_Name" korean="Step 5 pore box" />
+	<block key="MA_7_7106_Name" korean="Step 6 pore box" />
+	<block key="MA_7_7201_Name" korean="Lesser carving knife" />
+	<block key="MA_7_7202_Name" korean="Intermediate carving knife" />
+	<block key="MA_7_7203_Name" korean="Senior carving knife" />
+	<block key="MA_7_8101_Name" korean="Step 1 catalyst" />
+	<block key="MA_7_8102_Name" korean="Step 2 catalyst" />
+	<block key="MA_7_8103_Name" korean="Step 3 Catalysts" />
+	<block key="MA_7_8104_Name" korean="Step 4 catalyst" />
+	<block key="MA_7_8105_Name" korean="Step 5 Catalyst" />
+	<block key="MA_7_8106_Name" korean="Step 6 catalyst" />
+	<block key="MA_7_8201_Name" korean="Lesser Arcane Powder" />
+	<block key="MA_7_8202_Name" korean="Intermediate mysterious powder" />
+	<block key="MA_7_8203_Name" korean="Greater Mystic Powder" />
+	<block key="MA_8_0001_Name" korean="Minor reducing agent" />
+	<block key="MA_8_0002_Name" korean="Lesser reducing agent" />
+	<block key="MA_8_0003_Name" korean="Intermediate reducing agent" />
+	<block key="MA_8_0004_Name" korean="Advanced reducing agent" />
+	<block key="MA_8_0005_Name" korean="Reducing premium" />
+	<block key="MA_8_0006_Name" korean="Advanced reducing agent" />
+	<block key="MA_8_1001_Name" korean="Minor neutralizer" />
+	<block key="MA_8_1002_Name" korean="Lesser neutralizer" />
+	<block key="MA_8_1003_Name" korean="Intermediate neutralizer" />
+	<block key="MA_8_1004_Name" korean="Advanced neutralizer" />
+	<block key="MA_8_1005_Name" korean="Highest neutralizing agent" />
+	<block key="MA_8_1006_Name" korean="Advanced neutralizer" />
+	<block key="MA_8_2001_Name" korean="Minor solvents" />
+	<block key="MA_8_2002_Name" korean="Low-grade solvents" />
+	<block key="MA_8_2003_Name" korean="Intermediate Solvent" />
+	<block key="MA_8_2004_Name" korean="Senior solvents" />
+	<block key="MA_8_2005_Name" korean="Solvent-class" />
+	<block key="MA_8_2006_Name" korean="Advanced Solvent" />
+	<block key="MA_8_3001_Name" korean="Minor concentrates" />
+	<block key="MA_8_3002_Name" korean="Low-grade concentrates" />
+	<block key="MA_8_3003_Name" korean="Intermediate concentrates" />
+	<block key="MA_8_3004_Name" korean="Advanced concentrates" />
+	<block key="MA_8_3005_Name" korean="Top Rated concentrates" />
+	<block key="MA_8_3006_Name" korean="Advanced thickening agent" />
+	<block key="MA_1_0001_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Bridal carboxylic forest\n  Canas and also sex \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e material used in weapons / armor produced \u003c/ UI_Y\u003e" />
+	<block key="MA_1_1001_Description" korean="\u003cUI_Y\u003e material used in weapons production \u003c/ UI_Y\u003e" />
+	<block key="MA_1_1002_Description" korean="\u003cUI_Y\u003e materials used in making metal armor \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0002_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e material used in weapons / armor produced \u003c/ UI_Y\u003e" />
+	<block key="MA_1_2001_Description" korean="\u003cUI_Y\u003e material used in weapons production \u003c/ UI_Y\u003e" />
+	<block key="MA_1_2002_Description" korean="\u003cUI_Y\u003e materials used in making metal armor \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0003_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e material used in weapons / armor produced \u003c/ UI_Y\u003e" />
+	<block key="MA_1_3001_Description" korean="\u003cUI_Y\u003e material used in weapons production \u003c/ UI_Y\u003e" />
+	<block key="MA_1_3002_Description" korean="\u003cUI_Y\u003e materials used in making metal armor \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0004_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\n\n\u003cUI_Y\u003e material used in weapons / armor produced \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0005_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e material used in weapons / armor produced \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0006_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\n\u003cUI_Y\u003e material used in weapons / armor produced \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0001_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Bridal carboxylic forest\n  Canas and also sex \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_1001_Description" korean="\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0002_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_2001_Description" korean="\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0003_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_3001_Description" korean="\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0004_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0005_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0006_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0001_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Bridal carboxylic forest\n  Canas and also sex \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in alchemy \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0002_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in alchemy \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0003_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in alchemy \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0004_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in alchemy \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0005_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in alchemy \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0006_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in alchemy \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e humanoid monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_1001_Description" korean="\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e humanoid monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_2001_Description" korean="\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e humanoid monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_3001_Description" korean="\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e humanoid monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0005_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e humanoid monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0006_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e humanoid monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in making armor \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Animal type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e ingredients used in cooking \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Animal type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e ingredients used in cooking \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Animal type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e ingredients used in cooking \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Animal type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e ingredients used in cooking \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0005_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Animal type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e ingredients used in cooking \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0006_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Animal type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e ingredients used in cooking \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Spirits / Fairy-type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_1001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Research Fellow production \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Spirits / Fairy-type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_2001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Research Fellow production \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Spirits / Fairy-type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_3001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Research Fellow production \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Spirits / Fairy-type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0005_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Spirits / Fairy-type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0006_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Spirits / Fairy-type monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_7_1101_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1102_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1103_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1104_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1105_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1106_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed stick \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed stick \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_1203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed stick \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2101_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2102_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2103_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2104_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2105_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2106_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed sword \u003cUI_G\u003e materials needed for production" />
+	<block key="MA_7_2202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed sword \u003cUI_G\u003e materials needed for production" />
+	<block key="MA_7_2203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed sword \u003cUI_G\u003e materials needed for production" />
+	<block key="MA_7_3101_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3102_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3103_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3104_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3105_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3106_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4101_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4102_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4103_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4104_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4105_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4106_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5101_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Enhanced Potion \u003c/ UI_G\u003e and \u003cUI_G\u003e bandage \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5102_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Enhanced Potion \u003c/ UI_G\u003e and \u003cUI_G\u003e bandage \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5103_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Enhanced Potion \u003c/ UI_G\u003e and \u003cUI_G\u003e bandage \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5104_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Enhanced Potion \u003c/ UI_G\u003e and \u003cUI_G\u003e bandage \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5105_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Enhanced Potion \u003c/ UI_G\u003e and \u003cUI_G\u003e bandage \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5106_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Enhanced Potion \u003c/ UI_G\u003e and \u003cUI_G\u003e bandage \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Recovery Potion \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Recovery Potion \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Recovery Potion \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6111_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6112_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6113_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6114_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6115_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6116_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6121_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6122_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6123_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6124_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6125_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6126_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6131_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6132_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6133_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6134_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6135_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6136_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7101_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7102_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7103_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7104_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7105_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7106_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8101_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8102_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8103_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8104_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8105_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8106_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8201_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8202_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_8203_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_0001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Bar \u003c/ UI_G\u003e and \u003cUI_G\u003e Alloy \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_0002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Bar \u003c/ UI_G\u003e and \u003cUI_G\u003e Alloy \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_0003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Bar \u003c/ UI_G\u003e and \u003cUI_G\u003e Alloy \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_0004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Bar \u003c/ UI_G\u003e and \u003cUI_G\u003e Alloy \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_0005_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Bar \u003c/ UI_G\u003e and \u003cUI_G\u003e Alloy \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_0006_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Bar \u003c/ UI_G\u003e and \u003cUI_G\u003e Alloy \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_1001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e thousand \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_1002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e thousand \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_1003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e thousand \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_1004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e thousand \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_1005_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e thousand \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_1006_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e thousand \u003c/ UI_G\u003e materials used in production" />
+	<block key="MA_8_2001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Crafted Materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_2002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Crafted Materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_2003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Crafted Materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_2004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Crafted Materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_2005_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Crafted Materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_2006_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Crafted Materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_3001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows study materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_3002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows study materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_3003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows study materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_3004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows study materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_3005_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows study materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_8_3006_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows study materials \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_9_0001_Name" korean="Giant Nettle" />
+	<block key="MA_9_0002_Name" korean="Fireworks piece" />
+	<block key="MA_9_0003_Name" korean="Fire Stone" />
+	<block key="MA_9_0004_Name" korean="Blood Cursed" />
+	<block key="MA_9_0005_Name" korean="Determination of snow" />
+	<block key="MA_9_0006_Name" korean="Hyeoltongseo piece of (top)" />
+	<block key="MA_9_0007_Name" korean="Hyeoltongseo piece of (one of)" />
+	<block key="MA_9_0008_Name" korean="Hyeoltongseo piece of (ha)" />
+	<block key="MA_9_0009_Name" korean="Essence of darkness" />
+	<block key="MA_9_0010_Name" korean="Garlic" />
+	<block key="MA_9_0011_Name" korean="Spa" />
+	<block key="MA_9_0012_Name" korean="Dragon Heart" />
+	<block key="MA_9_0013_Name" korean="Dragon scales" />
+	<block key="MA_10_0001_Name" korean="Help ore spot exciter" />
+	<block key="MA_10_0001_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e" />
+	<block key="MA_10_1001_Name" korean="Exo-digit helpful flour" />
+	<block key="MA_10_1002_Name" korean="Exo-digit helpful ingot" />
+	<block key="MA_10_1003_Name" korean="Exo-digit helpful alloy" />
+	<block key="MA_10_1004_Name" korean="Exo-digit Umm fiber" />
+	<block key="MA_10_2001_Name" korean="Fragments of Chaos" />
+	<block key="MA_10_2002_Name" korean="Essence of chaos" />
+	<block key="MA_9_0014_Name" korean="Dust of about" />
+	<block key="MA_9_0015_Name" korean="For a piece of the soul" />
+	<block key="MA_9_0016_Name" korean="Tears of Ladan" />
+	<block key="MA_9_0017_Name" korean="The spirit of free Rummy" />
+	<block key="MA_9_0018_Name" korean="Scales of Zen Kit" />
+	<block key="MA_9_0018_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nScales of Wangnunyi Zen kit that live in caves shrouded in a veil. \u003cUI_G\u003e bubble scales \u003c/ UI_G\u003e is known as a material." />
+	<block key="MA_9_0019_Name" korean="Bubble pockets of GMS" />
+	<block key="MA_9_0019_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nBubble pockets of habitat that GMS in caves shrouded in a veil. \u003cUI_G\u003e bubble scales \u003c/ UI_G\u003e is known as a material." />
+	<block key="MA_9_0020_Name" korean="Frost pool" />
+	<block key="MA_9_0021_Name" korean="Fallen integer" />
+	<block key="MA_9_0022_Name" korean="A bingseok" />
+	<block key="MA_9_0023_Name" korean="Greater flame" />
+	<block key="MA_9_0023_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e that's Calais is tame a \u003c/ UI_G\u003e \u003cUI_G\u003e flame wind leap \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0024_Name" korean="Burning Heart of Golem" />
+	<block key="MA_9_0024_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e that can tame a lot ah \u003c/ UI_G\u003e \u003cUI_G\u003e Phoenix is ​​known aura \u003c/ UI_G\u003e to a material that can be produced." />
+	<block key="MA_9_0025_Name" korean="Glowing aura" />
+	<block key="MA_9_0025_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e that can tame a lot ah \u003c/ UI_G\u003e \u003cUI_G\u003e Phoenix is ​​known aura \u003c/ UI_G\u003e to a material that can be produced." />
+	<block key="MA_9_0026_Name" korean="The vampire's wings" />
+	<block key="MA_9_0026_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e La Hynix \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e Silence Tome \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0027_Name" korean="Feathers of justice" />
+	<block key="MA_9_0027_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas for \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e La Hynix \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e Silence Tome \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0001_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nA large nettle, \u003cUI_G\u003e eyed Hun Baba \u003c/ UI_G\u003e is the favorite pool. \u003cUI_G\u003e Cyclops that can tame the Hun Baba \u003c/ UI_G\u003e \u003cUI_G\u003e dark energy suppression order is \u003c/ UI_G\u003e known as a material for creating." />
+	<block key="MA_9_0002_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nA small flame, which is available at the home of the magma hound. \u003cUI_G\u003e that can tame the magma Hound \u003c/ UI_G\u003e \u003cUI_G\u003e heart \u003c/ UI_G\u003e Flame is known as a material that can be produced." />
+	<block key="MA_9_0003_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nBurning ruins of equipment and materials needed for production." />
+	<block key="MA_9_0004_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nEquipment and materials required for making a cursed family." />
+	<block key="MA_9_0005_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nFrozen Mart Len equipment and materials needed for production." />
+	<block key="MA_9_0006_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nPieces of car reang hyeoltongseo raised in the family of the Earl of stallions. \u003cUI_G\u003e black that can tame the Wind \u003c/ UI_G\u003e \u003cUI_G\u003e the car reang stallion hyeoltongseo \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0007_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nPieces of car reang hyeoltongseo raised in the family of the Earl of stallions. \u003cUI_G\u003e black that can tame the Wind \u003c/ UI_G\u003e \u003cUI_G\u003e the car reang stallion hyeoltongseo \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0008_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nPieces of car reang hyeoltongseo raised in the family of the Earl of stallions. \u003cUI_G\u003e black that can tame the Wind \u003c/ UI_G\u003e \u003cUI_G\u003e the car reang stallion hyeoltongseo \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0009_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nContained the essence of the dark energy. \u003cUI_G\u003e Cyclops that can tame the Hun Baba \u003c/ UI_G\u003e \u003cUI_G\u003e dark energy suppression order is \u003c/ UI_G\u003e known as a material for creating." />
+	<block key="MA_9_0010_Description" korean="Items ingredients needed for production." />
+	<block key="MA_9_0011_Description" korean="Items ingredients needed for production." />
+	<block key="MA_9_0012_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nThe vitality of the dragon filled heart. \u003cUI_G\u003e in red maryong Agde Nath \u003c/ UI_G\u003e to tame \u003cUI_G\u003e Dragon's tensile \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0013_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nJudeon protect the dragon scales. \u003cUI_G\u003e in red maryong Agde Nath \u003c/ UI_G\u003e to tame \u003cUI_G\u003e Dragon's tensile \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_10_1001_Description" korean="\u003cUI_G\u003e PvP trinkets item \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_10_1002_Description" korean="\u003cUI_G\u003e PvP weapon item \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_10_1003_Description" korean="\u003cUI_G\u003e PvP armor items \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_10_1004_Description" korean="\u003cUI_G\u003e PvP armor items \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_10_2001_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\nMaterials needed for making PvP items." />
+	<block key="MA_10_2002_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\nMaterials needed for making PvP items." />
+	<block key="MA_9_0014_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas for \u003c/ UI_G\u003e\n\nCanas pieces and filled with the spirit of respect. \u003cUI_G\u003e Floating hippocampus \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e divine order of about \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0015_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas for \u003c/ UI_G\u003e\n\nCanas pieces and filled with the spirit of the living creature in his way about. \u003cUI_G\u003e Floating hippocampus \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e divine order of about \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0016_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nLadan very precious material into tears shed. \u003cUI_G\u003e Casper can tame the poison tree \u003c/ UI_G\u003e \u003cUI_G\u003e integer \u003c/ UI_G\u003e of Ladan is known as a material that can be produced." />
+	<block key="MA_9_0017_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nMureo tribe, a collection of two kinds of beads in the middle atmosphere. \u003cUI_G\u003e Casper can tame the poison tree \u003c/ UI_G\u003e \u003cUI_G\u003e integer \u003c/ UI_G\u003e of Ladan is known as a material that can be produced." />
+	<block key="MA_9_0020_Description" korean="Materials needed to tame the fellow." />
+	<block key="MA_9_0021_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\nEquipment and materials required for making corrupt followers." />
+	<block key="MA_9_0022_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nIce Brigade General equipment and materials required for production" />
+	<block key="MA_9_0028_Name" korean="A piece of cold" />
+	<block key="MA_9_0029_Name" korean="Sanjay tears" />
+	<block key="MA_9_0028_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nGenerated in turn places a strong cold piece. \u003cUI_G\u003e Fear of cake that you can tame the Rab \u003c/ UI_G\u003e \u003cUI_G\u003e Frost Rune blockade \u003c/ UI_G\u003e is known as a material for creating." />
+	<block key="MA_9_0029_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nTears got to give the operator the fear. \u003cUI_G\u003e Fear of cake that you can tame the Rab \u003c/ UI_G\u003e \u003cUI_G\u003e Frost Rune blockade \u003c/ UI_G\u003e is known as a material for creating." />
+	<block key="ma_11_0001_Name" korean="Fellow sympathetic inducer" />
+	<block key="ma_11_0001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e monsters \u003c/ UI_G\u003e\n\nFellow Taming Item materials used by the public during production." />
+	<block key="ma_10_3001_Name" korean="Cursed younghonseok" />
+	<block key="ma_10_3001_Description" korean="Materials needed for making PvP items." />
+	<block key="ma_10_3002_Name" korean="Frozen younghonseok" />
+	<block key="ma_10_3002_Description" korean="Materials needed for making PvP items." />
+	<block key="MA_11_0002_Name" korean="Overgrown trail exciter" />
+	<block key="MA_11_0002_Description" korean="The material predates the exciter overgrown trail." />
+	<block key="MA_9_0030_Name" korean="Debbie scent of" />
+	<block key="MA_9_0031_Name" korean="Cobb any energy" />
+	<block key="MA_9_0032_Name" korean="Parque my aura" />
+	<block key="MA_9_0033_Name" korean="Aura of Darkness" />
+	<block key="MA_9_0034_Name" korean="Mark of the Immortal Legion" />
+	<block key="MA_9_0030_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nThe remaining items Debbie's fragrance. \u003cUI_G\u003e teaches that you can tame the moire \u003c/ UI_G\u003e \u003cUI_G\u003e Debbie's perfume \u003c/ UI_G\u003e is known as a material for creating." />
+	<block key="MA_9_0031_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nCobb is any substance that aura seoryeo. \u003cUI_G\u003e teaches that you can tame the moire \u003c/ UI_G\u003e \u003cUI_G\u003e Debbie's perfume \u003c/ UI_G\u003e is known as a material for creating." />
+	<block key="MA_9_0032_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nParque material that my spirit is seoryeo. \u003cUI_G\u003e that can tame this slope \u003c/ UI_G\u003e \u003cUI_G\u003e Chilled beads are \u003c/ UI_G\u003e known as a material for creating." />
+	<block key="MA_9_0033_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nThe aura of dark matter in seoryeo. \u003cUI_G\u003e that can tame the Apocalypse \u003c/ UI_G\u003e \u003cUI_G\u003e tension \u003c/ UI_G\u003e of ahsyuram known as materials that can be manufactured." />
+	<block key="MA_9_0034_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\nThings that are a sign of undying legion. \u003cUI_G\u003e Kishar \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e is known to burn the tents \u003c/ UI_G\u003e a material that can be produced." />
+	<block key="MA_9_0035_Name" korean="Reindeer meat" />
+	<block key="MA_9_0035_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Wolf King Shaka d \u003c/ UI_G\u003e is your favorite reindeer meat. \u003cUI_G\u003e wolf is known as a material capable of producing the signs \u003c/ UI_G\u003e a la king Shaka." />
+	<block key="MA_9_0036_Name" korean="Seal of the Dark" />
+	<block key="MA_9_0036_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\nThe tensile strength in the darkness of the seoryeo. \u003cUI_G\u003e the signs \u003c/ UI_G\u003e Shadow maryong Kara Shah is known as a material that can be produced." />
+	<block key="MA_11_0003_name" korean="Elite Taming Elixir" />
+	<block key="MA_11_0004_name" korean="Snow shining bodies fail-fast" />
+	<block key="MA_11_0005_name" korean="Glowing Amethyst" />
+	<block key="MA_11_0006_name" korean="Noble Mithril" />
+	<block key="MA_11_0003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\nThe material used to create the sign of a certain degree or more Fellows" />
+	<block key="MA_11_0004_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\u003cUI_Y\u003e materials needed to produce a special taming item with Snow shining bodies fail-fast \u003c/ UI_Y\u003e" />
+	<block key="MA_11_0005_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\u003cUI_Y\u003e materials needed to produce a tame items such as turtles with blue glowing amethyst \u003c/ UI_Y\u003e" />
+	<block key="MA_11_0006_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials needed to produce a special taming item with Noble Mithril \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0037_name" korean="Mysterious debris" />
+	<block key="MA_9_0038_name" korean="Noble aura" />
+	<block key="MA_9_0037_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e All monsters drop \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Elite Class Item materials used in production \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0038_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Snow collected in the body fail-fast\n  Sukkur gathering roots\n  Terry door collecting magic seconds\n  Mithril collected\n  Tural gallium ore collected\n  Adamantium Ore collected\n  Amethyst collected\n  Sapphire collected\n  Emerald collected\n  Exergy gathering spot help\n\u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Heroes grade materials used in making items \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0039_name" korean="Change the options for volume, in blue tone" />
+	<block key="MA_9_0039_Description" korean="Materials required for the item to change options." />
+	<block key="MA_9_0040_name" korean="Bound blood" />
+	<block key="MA_9_0040_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nFrost with this, Drake and purification of blood to get rid of impurities mixed with the blood of beasts. \u003cUI_G\u003e the signs \u003c/ UI_G\u003e Karas tyrants known as materials that can be manufactured." />
+	<block key="MA_9_0041_name" korean="Tears decision of Aisha" />
+	<block key="MA_9_0041_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Parque my land \u003c/ UI_G\u003e\n\nAisha is a freezing spell with tears decision making and Rondo took around an item when stuck in Saran bit \u003cUI_G\u003e Mist \u003c/ UI_G\u003e and \u003cUI_G\u003e is known to tame the Frost \u003c/ UI_G\u003e." />
+	<block key="MA_1_3003_name" korean="Reinforced Mithril Bars" />
+	<block key="MA_1_4001_name" korean="Tural Solarium Bar" />
+	<block key="MA_1_3004_name" korean="Reinforced Mithril Alloy" />
+	<block key="MA_4_3002_name" korean="Enhanced thick cloth" />
+	<block key="MA_1_4002_name" korean="Tural gallium alloy" />
+	<block key="MA_4_4001_name" korean="Soft cloth" />
+	<block key="MA_2_3002_name" korean="Exquisite amethyst" />
+	<block key="MA_2_4001_name" korean="Crafted Sapphire" />
+	<block key="MA_6_3002_name" korean="Be concentrated ordinary spirits" />
+	<block key="MA_6_4001_name" korean="Be strong spirits" />
+	<block key="MA_7_1204_name" korean="Intermediate shining grindstone" />
+	<block key="MA_7_2204_name" korean="Shining intermediate weight" />
+	<block key="MA_7_3204_name" korean="Shining intermediate electrodes" />
+	<block key="MA_7_4204_name" korean="Glowing dye intermediate" />
+	<block key="MA_7_5204_name" korean="Intermediate shiny glass bottle" />
+	<block key="MA_7_6204_name" korean="Shining intermediate storage containers" />
+	<block key="MA_7_7204_name" korean="Intermediate brilliant carving knife" />
+	<block key="MA_7_8204_name" korean="Intermediate mysterious glowing powder" />
+	<block key="MA_1_3003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e material used in weapons production \u003c/ UI_Y\u003e" />
+	<block key="MA_1_4001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e material used in weapons production \u003c/ UI_Y\u003e" />
+	<block key="MA_1_3004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in making metal armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_3002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Robe armor materials used in production \u003c/ UI_Y\u003e" />
+	<block key="MA_1_4002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in making metal armor \u003c/ UI_Y\u003e" />
+	<block key="MA_4_4001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Robe armor materials used in production \u003c/ UI_Y\u003e" />
+	<block key="MA_2_3002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e jewelery making \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_2_4001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e jewelery making \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e materials used in jewelry making \u003c/ UI_Y\u003e" />
+	<block key="MA_6_3002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Research Fellow production \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_6_4001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Research Fellow production \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Materials used in the research fellows \u003c/ UI_Y\u003e" />
+	<block key="MA_7_1204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Melee \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed stick \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_2204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e and \u003cUI_G\u003e two-handed sword \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_3204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, auxiliary equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_4204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Rob \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_5204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Recovery Potion \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_6204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e cooking ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Cooking \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_7_7204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e jewelery making materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Necklaces \u003c/ UI_G\u003e and \u003cUI_G\u003e Ring \u003c/ UI_G\u003e ingredients needed for making #" />
+	<block key="MA_7_8204_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e materials needed for production" />
+	<block key="MA_9_0042_name" korean="Sacred piece of airspace" />
+	<block key="MA_9_0042_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\nA conjugate of the sacred aura of \u003cUI_G\u003e Vacant other Asian Leto \u003c/ UI_G\u003e for the stuff you need when you tame" />
+	<block key="MA_9_0043_name" korean="Fellow strengthen inducer" />
+	<block key="MA_9_0043_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows study materials trader \u003c/ UI_G\u003e\n\nFellow Fellow different needs, depending on the number of ratings to strengthen the necessary materials." />
+	<block key="MA_9_0044_name" korean="The purified bone integer" />
+	<block key="MA_9_0044_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\nBone dragon bones to dissolve tablets obtained by a \u003cUI_G\u003e sign of Cargo days \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_9_0045_name" korean="Constant sealed Immortal" />
+	<block key="MA_9_0045_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\nImmortal Immortal Legion soldiers who have higher integer, \u003cUI_G\u003e sign of beldeon \u003c/ UI_G\u003e known as capable of producing the material." />
+	<block key="MA_9_0046_name" korean="Pieces of the Void" />
+	<block key="MA_9_0046_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\nCommander equipment and materials needed for production." />
+	<block key="MA_9_0047_Name" korean="Abercrombie \u0026 Fitch Renee webs" />
+	<block key="MA_9_0047_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Airspace of destruction \u003c/ UI_G\u003e\n\nTaken from the tribe of ABBA Rene cobwebs, \u003cUI_G\u003e sign of Abercrombie \u0026 Fitch Renee \u003c/ UI_G\u003e known as capable of producing the material." />
+	<block key="MA_9_0048_name" korean="Ignore the legendary Colossus" />
+	<block key="MA_9_0048_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas for \u003c/ UI_G\u003e\n\nSoaked to ignore the Colossus jewelry, \u003cUI_G\u003e is known Hami on \u003c/ UI_G\u003e The Taming of Aisha as a sign of ingredients for." />
+	<block key="MA_9_0049_name" korean="Wrath of the legendary Colossus" />
+	<block key="MA_9_0049_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas for \u003c/ UI_G\u003e\n\nSoaked the wrath of the Colossus jewelry, \u003cUI_G\u003e Sword of geukyeom ripto \u003c/ UI_G\u003e is known as an ingredient in a sign for The Taming of." />
+	<block key="MA_9_0050_name" korean="Abyss legendary Colossus" />
+	<block key="MA_9_0050_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas for \u003c/ UI_G\u003e\n\nSoaked the abyss of the Colossus jewelry, \u003cUI_G\u003e Darkness demo bonus \u003c/ UI_G\u003e is known as an ingredient in a sign for The Taming of." />
+	<block key="MA_9_0051_name" korean="Nucleus of the flame" />
+	<block key="MA_9_0051_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nCrescent top of the ball of flame created by the way the vision, \u003cUI_G\u003e Sword of geukyeom ripto \u003c/ UI_G\u003e is called the material of the signs that can tame." />
+	<block key="MA_9_0052_name" korean="Traces of cars reang" />
+	<block key="MA_9_0052_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nCrystal reang car created by way of non-crescent top, \u003cUI_G\u003e Demo bonus \u003c/ UI_G\u003e Shadow referred to the material of the signs that can tame." />
+	<block key="MA_9_0053_name" korean="Heart of astaxanthin" />
+	<block key="MA_9_0053_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e and Canas jikhal command \u003c/ UI_G\u003e\n\nThe hardened heart Gin Rummy free astaxanthin in horsepower, \u003cUI_G\u003e Hami called on \u003c/ UI_G\u003e of signs that can tame the material of Aisha." />
+	<block key="MA_9_0054_name" korean="Advanced Taming Elixir" />
+	<block key="MA_9_0054_Description" korean="Materials needed to make a sign for more than a hero to tame a Fellow grade." />
+	<block key="MA_9_0055_name" korean="Fellow senior vice Article" />
+	<block key="MA_9_0055_Description" korean="Advanced materials needed to make a sign for more than a hero to tame a Fellow grade." />
+	<block key="MA_9_0056_name" korean="Crystal tension" />
+	<block key="MA_9_0056_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Legendary Difficulty dungeon \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Seal of the legend of the Blessed \u003c/ UI_G\u003e materials required for production" />
+	<block key="MA_9_0057_name" korean="The aura of a leader" />
+	<block key="MA_9_0057_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Legendary Difficulty dungeon \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e brilliant mentor equipment needed for production materials \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0058_name" korean="Coagulant" />
+	<block key="MA_9_0058_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e alchemy ingredients trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Seal of the legend of the Blessed \u003c/ UI_G\u003e \u003cUI_Y\u003e needed for production materials \u003c/ UI_Y\u003e" />
+	<block key="MA_10_3003_name" korean="Megan peel test" />
+	<block key="MA_10_3003_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Megan nightmare Test \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e Accessories \u003c/ UI_G\u003e materials required for production" />
+	<block key="MA_10_3004_name" korean="Megan Tess horn" />
+	<block key="MA_10_3004_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Megan nightmare Test \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e Accessories \u003c/ UI_G\u003e materials required for production" />
+	<block key="MA_10_3005_name" korean="By scarlet claws" />
+	<block key="MA_10_3005_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Abyss By Garret \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e Accessories \u003c/ UI_G\u003e materials required for production" />
+	<block key="MA_10_3006_name" korean="By Garret bone" />
+	<block key="MA_10_3006_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Abyss By Garret \u003c/ UI_G\u003e that can tame \u003cUI_G\u003e Accessories \u003c/ UI_G\u003e materials required for production" />
+	<block key="MA_10_3007_name" korean="Ruud pie fireworks" />
+	<block key="MA_10_3007_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e of fear that can tame the pie Ruud \u003c/ UI_G\u003e \u003cUI_G\u003e Accessories \u003c/ UI_G\u003e materials required for production" />
+	<block key="MA_10_3008_name" korean="Ruud tail pie" />
+	<block key="MA_10_3008_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e of fear that can tame the pie Ruud \u003c/ UI_G\u003e \u003cUI_G\u003e Accessories \u003c/ UI_G\u003e materials required for production" />
+	<block key="MA_9_0059_name" korean="Crystal Twilight" />
+	<block key="MA_9_0059_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\nLike a jewel in the twilight of dusk faded, \u003cUI_G\u003e called geurabion \u003c/ UI_G\u003e of signs that can tame the Twilight stuff." />
+	<block key="MA_9_0060_name" korean="Tears of Darkness" />
+	<block key="MA_9_0060_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown lawless \u003c/ UI_G\u003e\n\nTrail of tears shed the devil, \u003cUI_G\u003e called geurabion \u003c/ UI_G\u003e of signs that can tame the Twilight stuff." />
+	<block key="MA_10_1005_Name" korean="Kane ore roum" />
+	<block key="MA_10_1005_Description" korean="\u003cUI_Y\u003e gathering place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ahkeron lawless \u003c/ UI_G\u003e" />
+	<block key="MA_10_1006_Name" korean="Cake flour roum" />
+	<block key="MA_10_1006_Description" korean="\u003cUI_G\u003e PvP trinkets item \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_10_1007_Name" korean="Ke Bar roum" />
+	<block key="MA_10_1007_Description" korean="\u003cUI_G\u003e PvP weapon item \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_10_1008_Name" korean="Kane roum alloy" />
+	<block key="MA_10_1008_Description" korean="\u003cUI_G\u003e PvP armor items \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_10_1009_Name" korean="Kane roum fiber" />
+	<block key="MA_10_1009_Description" korean="\u003cUI_G\u003e PvP armor items \u003c/ UI_G\u003e materials needed for production." />
+	<block key="MA_9_0063_Name" korean="Golden statues" />
+	<block key="MA_9_0063_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nHowever, this ancient piece of red revolution has, \u003cUI_G\u003e Sharkey known for gold bars \u003c/ UI_G\u003e as an ingredient in a sign that you can tame." />
+	<block key="MA_9_0064_Name" korean="Pheromones of bats" />
+	<block key="MA_9_0064_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nSharkey bar taken from the clan of pheromones, \u003cUI_G\u003e is known for gold bars Sharkey \u003c/ UI_G\u003e as an ingredient in a sign that you can tame." />
+	<block key="MA_9_0065_Name" korean="Bloody fruit of" />
+	<block key="MA_9_0065_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nBlood had soaked fruit has mana Massachusetts, \u003cUI_G\u003e has been known to dash \u003c/ UI_G\u003e in the fall as a sign of material that can tame." />
+	<block key="MA_9_0066_Name" korean="Proof of the pack Natura" />
+	<block key="MA_9_0066_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nProof that you can get from the pack Tura, \u003cUI_G\u003e is known to dash \u003c/ UI_G\u003e in the fall as a sign of material that can tame." />
+	<block key="MA_9_0067_Name" korean="Tears of tricolor" />
+	<block key="MA_9_0067_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nTears disciplined in each of the head of the dash in, \u003cUI_G\u003e has been known to dash \u003c/ UI_G\u003e in the fall as a sign of material that can tame." />
+	<block key="MA_9_0068_Name" korean="Tears of Scott rasya" />
+	<block key="MA_9_0068_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nTears of the gods of ancient rasya Scott, \u003cUI_G\u003e The Ruth Vega \u003c/ UI_G\u003e of the venom is known as a token of material that can tame." />
+	<block key="MA_9_0069_Name" korean="Feathers of piyo" />
+	<block key="MA_9_0069_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nPiyo can get from feathers, \u003cUI_G\u003e is known to poyo \u003c/ UI_G\u003e of glory as a sign of material that can tame." />
+	<block key="MA_9_0070_Name" korean="Holding period" />
+	<block key="MA_9_0070_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e of glory poyo \u003c/ UI_G\u003e and \u003cUI_G\u003e mirage of the Far North \u003c/ UI_G\u003e is your favorite meat, and the material of the signs that can tame each Fellow." />
+	<block key="MA_9_0071_Name" korean="Red dye" />
+	<block key="MA_9_0071_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nNews of the flame of a similar color and Tara dyes, \u003cUI_G\u003e The material of the signs that can tame the Tara News \u003c/ UI_G\u003e of the flame." />
+	<block key="MA_9_0072_Name" korean="Lucifer molar root" />
+	<block key="MA_9_0072_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nMoonlight molar root of Lucifer, \u003cUI_G\u003e The Martyrs of the village tyura \u003c/ UI_G\u003e is known as a token of material that can tame." />
+	<block key="MA_9_0073_Name" korean="Evidence of the massacre" />
+	<block key="MA_9_0073_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nBlood in the wonnyeom of those who are slain seoryeo Xenon, \u003cUI_G\u003e The Martyrs of the village tyura \u003c/ UI_G\u003e is known as a token of material that can tame." />
+	<block key="MA_9_0074_Name" korean="Bone of Doom" />
+	<block key="MA_9_0074_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nMercury Suga has in particular bone fragments, \u003cUI_G\u003e This large North \u003c/ UI_G\u003e is known as a sign of the destruction of the material that can tame." />
+	<block key="MA_9_0075_Name" korean="Saendeuwom oil" />
+	<block key="MA_9_0075_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nSaendeuwom larvae extracted from oil, \u003cUI_G\u003e is known to clever chyeopi \u003c/ UI_G\u003e as a sign of material that can tame." />
+	<block key="MA_9_0076_Name" korean="Desert tortoise shell, etc." />
+	<block key="MA_9_0076_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nSuch as the desert tortoise shells, \u003cUI_G\u003e Denny half \u003c/ UI_G\u003e and \u003cUI_G\u003e The Deva \u003c/ UI_G\u003e Wisdom is known as a token of material that can tame." />
+	<block key="MA_9_0077_Name" korean="Beak of the Griffon" />
+	<block key="MA_9_0077_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nBeak of the Griffon, enemies of \u003cUI_G\u003e Gold of Rennes Kiva \u003c/ UI_G\u003e The material of the signs that can tame." />
+	<block key="MA_9_0078_Name" korean="Horn of Raku" />
+	<block key="MA_9_0078_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nRaku's horn, \u003cUI_G\u003e Dos Raku \u003c/ UI_G\u003e is known as a token of material that can tame." />
+	<block key="MA_9_0079_Name" korean="Teeth of wild boar" />
+	<block key="MA_9_0079_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nBoar's teeth, \u003cUI_G\u003e Dos Raku \u003c/ UI_G\u003e is known as a token of material that can tame." />
+	<block key="MA_9_0080_Name" korean="Leather leopard in the desert" />
+	<block key="MA_9_0080_Description" korean="\u003cUI_Y\u003e acquisition place \u003cUI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nLeather can be obtained from the desert leopard, \u003cUI_G\u003e is known as an ingredient in a sign that you can tame the bar jyanin \u003c/ UI_G\u003e." />
+	<block key="MA_1_5001_Name" korean="Adamantium Ingot" />
+	<block key="MA_1_5002_Name" korean="Enhanced Adamantium Ingot" />
+	<block key="MA_1_5003_Name" korean="Adamantium alloy" />
+	<block key="MA_1_5004_Name" korean="Enhanced adamantium alloy" />
+	<block key="MA_2_5001_Name" korean="Crafted emerald" />
+	<block key="MA_2_5002_Name" korean="Exquisite emerald" />
+	<block key="MA_4_5001_Name" korean="Polished cloth" />
+	<block key="MA_4_5002_Name" korean="Enhanced polished cloth" />
+	<block key="MA_6_5001_Name" korean="Can shine spirits" />
+	<block key="MA_9_0061_Name" korean="Essence of darkness" />
+	<block key="MA_9_0062_Name" korean="Water oasis" />
+	<block key="MA_9_0081_Name" korean="White sands of Martyrs" />
+	<block key="MA_9_0082_Name" korean="Open a piece of rock salt" />
+	<block key="MA_9_0083_Name" korean="Gold in the Far North" />
+	<block key="MA_9_0081_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nImmortality of the pure white color, which can be taken in some of the desert sand, \u003cUI_G\u003e a Fellow equipment \u003c/ UI_G\u003e associated with the mirage is known as a material that can be produced." />
+	<block key="MA_9_0082_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nSalt piece of spouting hot heat, \u003cUI_G\u003e Fellow equipment \u003c/ UI_G\u003e Desert and associated patriots are known as capable of producing the material." />
+	<block key="MA_9_0083_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e immortality of the desert \u003c/ UI_G\u003e\n\nPanos is very fond of shining gold, \u003cUI_G\u003e the signs of the mirage of the Far North \u003c/ UI_G\u003e is known as a material that can be produced." />
+	<block key="MA_1_5001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production \u003c/ UI_G\u003e\n\nThe materials used in weapons production" />
+	<block key="MA_1_5002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production \u003c/ UI_G\u003e\n\nThe materials used in weapons production" />
+	<block key="MA_1_5003_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\nThe materials used in making armor" />
+	<block key="MA_1_5004_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\nThe materials used in making armor" />
+	<block key="MA_2_5001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e jewelery making \u003c/ UI_G\u003e\n\nThe materials used in jewelry making" />
+	<block key="MA_2_5002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e jewelery making \u003c/ UI_G\u003e\n\nThe materials used in jewelry making" />
+	<block key="MA_4_5001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\nThe materials used in making armor" />
+	<block key="MA_4_5002_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\nThe materials used in making armor" />
+	<block key="MA_6_5001_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Research Fellow \u003c/ UI_G\u003e\n\nMaterials used in the research fellow" />
+	<block key="MA_9_0061_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ancient temples \u003c/ UI_G\u003e\n\u003cUI_G\u003e Immortal Legion fort \u003c/ UI_G\u003e\n\nThe materials used in making weapons / armor production" />
+	<block key="MA_9_0062_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Quest \u003c/ UI_G\u003e\n\nThe material used in making cooked" />
+	<block key="MA_7_7107_Name" korean="Gem Enhancement Tool" />
+	<block key="MA_7_7107_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Accessories Material Trader \u003c/ UI_G\u003e\n\nThe materials used in jewelry making" />
+	<block key="MA_10_1010_Name" korean="Dead younghonseok" />
+	<block key="MA_10_1010_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e exciter grown coin shop \u003c/ UI_G\u003e\n\nLesser Slayer items required for production, \u003cUI_G\u003e Arkansas constrained, non-carbonate, the material used for the manes \u003c/ UI_G\u003e Production buried." />
+	<block key="MA_10_1011_Name" korean="The specter of a constrained ahtan" />
+	<block key="MA_10_1011_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e weapons production \u003c/ UI_G\u003e\n\nLesser Slayer inorganic materials needed for production." />
+	<block key="MA_10_2003_Name" korean="Fragments of the specter" />
+	<block key="MA_10_2003_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ahkeron lawless \u003c/ UI_G\u003e\n\nMaterials needed for making PvP items." />
+	<block key="MA_10_2004_Name" korean="Essence of Revenant" />
+	<block key="MA_10_2004_Description" korean="\u003cUI_Y\u003e acquisition place \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ahkeron lawless \u003c/ UI_G\u003e\n\nMaterials needed for making PvP items." />
+	<block key="MA_10_1012_Name" korean="The specter of constrained non-carbonate" />
+	<block key="MA_10_1012_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Armorsmithing \u003c/ UI_G\u003e\n\nLesser Slayer armor materials needed for production." />
+	<block key="MA_10_1013_Name" korean="The specter of a constrained Berit" />
+	<block key="MA_10_1013_Description" korean="\u003cUI_Y\u003e Acquisition Method \u003c/ UI_Y\u003e\n\u003cUI_G\u003e jewelery making \u003c/ UI_G\u003e\n\nLesser Slayer jewelry materials needed for production." />
+</blocks>

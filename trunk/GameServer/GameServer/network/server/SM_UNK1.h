@@ -8,7 +8,6 @@
 inline void SM_UNK1(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeB(0);
 	pck->PackSend(OPCODE_SM_UNK1);
 }

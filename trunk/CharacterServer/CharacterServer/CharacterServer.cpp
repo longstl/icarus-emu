@@ -21,12 +21,17 @@
 //
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
+	time_t times;
+
 	EnterCriticalSection(&gCS);
 	THREAD_STRUCT* th_struct = (THREAD_STRUCT*)Param;
-	PACKET* pck = new PACKET(th_struct);
+	PACKET* pck = new PACKET(th_struct, max_characters);
 	th_struct->character = new CHARACTER[max_characters+1];
 	for (int i = 0; i < max_characters; i++)
+	{
 		th_struct->character[i].id = 0;
+		th_struct->character[i].time = 0;
+	}
 
 	memset(th_struct->pin_code, 0, 5);
 	th_struct->status = STATUS_NONE;
@@ -37,6 +42,23 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	while (pck->isconndecred)
 	{
 		EnterCriticalSection(&gCS);
+
+		for (int i = 0; i < max_characters; i++)
+		{
+			if (th_struct->character[i].time != 0)
+			{
+				time(&times);
+				if ((times - th_struct->character[i].time) > 10)
+				{
+					th_struct->character[i].time = 0;
+					if (th_struct->character[i].status == STATUS_DELETE_CHARACTER)
+					{
+						pck->sql->DeleteCharacter(th_struct->character[i].id);
+						SM_DELETE_S(pck, th_struct->character[i].id);
+					}
+				}
+			}
+		}
 
 		if (pck->PackRecv())
 			opcodes(pck);
@@ -71,27 +93,34 @@ DWORD WINAPI InnerThread(LPVOID Param)
 	c_info.id = gameserver_id;
 	c_info.ip = inet_addr(accountserver_ip);
 	c_info.port = accountserver_port;
-
 	hostEnt = gethostbyname(inner_ip);
-	SOCKET lsSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
-	if (lsSock == SOCKET_ERROR)
+
+	if (csInnectSock != NULL)
+	{
+		closesocket(csInnectSock);
+		csInnectSock = NULL;
+		Sleep(5000);
+	}
+
+	csInnectSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
+	if (csInnectSock == SOCKET_ERROR)
 	{
 		log::Error(fg, "InnerThread: Unable to create socket.\n");
-		return false;
+		InnerThread(NULL);
+		return 0;
 	}
 
 	SOCKADDR_IN serverInfo;
 	serverInfo.sin_family = PF_INET;
 	serverInfo.sin_addr = *((LPIN_ADDR)*hostEnt->h_addr_list);
 	serverInfo.sin_port = htons(inner_port);
-	retVal = connect(lsSock, (LPSOCKADDR)&serverInfo, sizeof(serverInfo));
+	retVal = connect(csInnectSock, (LPSOCKADDR)&serverInfo, sizeof(serverInfo));
 	if (retVal == SOCKET_ERROR)
 	{
 		log::Error(fg, "InnerThread: Unable to connect\n");
-		closesocket(lsSock);
-		Sleep(5000);
+		closesocket(csInnectSock);
 		InnerThread(NULL);
-		return false;
+		return 0;
 	}
 
 	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
@@ -103,17 +132,21 @@ DWORD WINAPI InnerThread(LPVOID Param)
 
 	while (true)
 	{
+		if (csInnectSock == NULL)
+		{
+			closesocket(csInnectSock);
+			return 0;
+		}
 		switch (status)
 		{
 		case 0:
 			packet[0] = 2;
 			packet[1] = 0x11;
 			packet[2] = c_info.id;
-			retVal = send(lsSock, packet, 3, 0);
+			retVal = send(csInnectSock, packet, 3, 0);
 			if (retVal == SOCKET_ERROR) {
 				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
-				closesocket(lsSock);
-				Sleep(5000);
+				closesocket(csInnectSock);
 				InnerThread(NULL);
 				return 0;
 			}
@@ -130,15 +163,14 @@ DWORD WINAPI InnerThread(LPVOID Param)
 			//			memcpy(&packet[0], reinterpret_cast<uint8*>(&opcode), sizeof(opcode));
 			memcpy(&packet[2], &c_info, sizeof(CHARACTERSERVER_INFO));
 
-			retVal = send(lsSock, packet, sizeof(CHARACTERSERVER_INFO) + 2, 0);
+			retVal = send(csInnectSock, packet, sizeof(CHARACTERSERVER_INFO) + 2, 0);
 			if (retVal == SOCKET_ERROR) {
 				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
-				closesocket(lsSock);
-				Sleep(5000);
+				closesocket(csInnectSock);
 				InnerThread(NULL);
 				return 0;
 			}
-			Sleep(2000 * 60);
+//			Sleep(2000 * 60);
 			break;
 		}
 		Sleep(1000);
@@ -154,6 +186,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	int err;
 	u_long iMode = 1;
 	const char on = 1;
+	csInnectSock = NULL;
+
 	wVersionRequested = MAKEWORD(2, 2);
 	WSAStartup(wVersionRequested, &wsaData);
 
@@ -163,8 +197,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
 	log::Notify(fg, "# Character Server v0.30        #\n");
-	log::Notify(fg, "# Client version: 1.5.49        #\n");
-	log::Notify(fg, "# Client time: 12:00 31.12.2014 #\n");
+	log::Notify(fg, "# Client version: 1.5.55        #\n");
+	log::Notify(fg, "# Client time: 2015-01-12 23:15 #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////

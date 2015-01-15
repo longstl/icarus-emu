@@ -1,0 +1,675 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_D13_Sinsia_01_Name" korean="àÂÜÂDÅ" />
+	<block key="E_D13_Sinsia_01_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Sinsia_02_Name" korean="àÂÜÂDÅ" />
+	<block key="E_D13_Sinsia_02_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Sinsia_03_Name" korean="­0®XÇ " />
+	<block key="E_D13_Sinsia_03_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Sinsia_04_Name" korean="­0®XÇ " />
+	<block key="E_D13_Sinsia_04_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Jason_01_Name" korean="ÈtÇ¨Â" />
+	<block key="E_D13_Jason_01_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Jason_02_Name" korean="ÈtÇ¨Â" />
+	<block key="E_D13_Jason_02_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Jason_03_Name" korean="ÓxºXÇ " />
+	<block key="E_D13_Jason_03_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Jason_04_Name" korean="ÓxºXÇ " />
+	<block key="E_D13_Jason_04_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Devco_01_Name" korean="XÖ Â¬À " />
+	<block key="E_D13_Devco_01_NameDetail" korean="" />
+	<block key="E_D13_Devco_02_Name" korean="XÖ Â¬À " />
+	<block key="E_D13_Devco_02_NameDetail" korean="" />
+	<block key="E_D13_Devco_03_Name" korean="XÖ Â¬À " />
+	<block key="E_D13_Devco_03_NameDetail" korean="" />
+	<block key="E_D13_Devco_04_Name" korean="XÖ Â¬À " />
+	<block key="E_D13_Devco_04_NameDetail" korean="" />
+	<block key="E_D13_Chimera_01_Name" korean="¤ÐTº|·" />
+	<block key="E_D13_Chimera_01_NameDetail" korean="" />
+	<block key="E_D13_Chimera_02_Name" korean="¤ÐTº|·" />
+	<block key="E_D13_Chimera_02_NameDetail" korean="" />
+	<block key="E_D13_Chimera_03_Name" korean="¤ÐTº|·" />
+	<block key="E_D13_Chimera_03_NameDetail" korean="" />
+	<block key="E_D13_Spirit_01_Name" korean="ÓxºXÇ " />
+	<block key="E_D13_Spirit_01_NameDetail" korean="" />
+	<block key="E_D13_Magic_door_01_Name" korean="ÓxºXÇ " />
+	<block key="E_D13_Magic_door_01_NameDetail" korean="" />
+	<block key="E_D13_KingBat_01_Name" korean="lÐ|·¼ŒÁ¤Â" />
+	<block key="E_D13_KingBat_01_NameDetail" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="E_D13_GagoTamp_01_Name" korean="ÀÉXÕ " />
+	<block key="E_D13_GagoTamp_01_NameDetail" korean="" />
+	<block key="E_D13_GagoRock_01_Name" korean="TÅÁ " />
+	<block key="E_D13_GagoRock_01_NameDetail" korean="" />
+	<block key="E_D13_Fanasnipe_01_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_Fanasnipe_01_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_FanaDevo_01_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_FanaDevo_01_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_CabePatro_01_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_CabePatro_01_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Cabeassa_01_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_Cabeassa_01_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_RebSold_01_Name" korean=" ÇÈ " />
+	<block key="E_D13_RebSold_01_NameDetail" korean="" />
+	<block key="E_D13_RebWiz_01_Name" korean=" ÇÈ " />
+	<block key="E_D13_RebWiz_01_NameDetail" korean="" />
+	<block key="E_D13_RebBow_01_Name" korean=" ÇÈ " />
+	<block key="E_D13_RebBow_01_NameDetail" korean="" />
+	<block key="E_F05_0_0000_0002_Name" korean="¬ÀÉ¹ " />
+	<block key="E_F05_0_0000_0002_NameDetail" korean="" />
+	<block key="E_F05_ScorTong_001_Name" korean="ÑÉŒ¬ " />
+	<block key="E_F05_ScorTong_001_NameDetail" korean="" />
+	<block key="E_F05_ScorTail_001_Name" korean="Å³hÎ " />
+	<block key="E_F05_ScorTail_001_NameDetail" korean="" />
+	<block key="E_F05_BaldEagle_001_Name" korean="" />
+	<block key="E_F05_BaldEagle_001_NameDetail" korean="" />
+	<block key="E_F05_BaldThun_001_Name" korean="¬ÀÉ¹ " />
+	<block key="E_F05_BaldThun_001_NameDetail" korean="" />
+	<block key="E_F05_OstrichDC_001_Name" korean="¬ÀÉ¹ " />
+	<block key="E_F05_OstrichDC_001_NameDetail" korean="" />
+	<block key="E_F05_EturSand_001_Name" korean="tÕHÅ" />
+	<block key="E_F05_EturSand_001_NameDetail" korean="" />
+	<block key="E_F05_CrocOasi_001_Name" korean="¼ä² " />
+	<block key="E_F05_CrocOasi_001_NameDetail" korean="" />
+	<block key="E_F05_Griffon_001_Name" korean="ø­¬¹ðÓ" />
+	<block key="E_F05_Griffon_001_NameDetail" korean="" />
+	<block key="E_F05_Griffon_002_Name" korean="1¼@ÇXÇ " />
+	<block key="E_F05_Griffon_002_NameDetail" korean="" />
+	<block key="E_F05_Ceratops_001_Name" korean="Å³hÎ " />
+	<block key="E_F05_Ceratops_001_NameDetail" korean="" />
+	<block key="E_F05_KingBat_001_Name" korean="®[¾XÇ " />
+	<block key="E_F05_KingBat_001_NameDetail" korean="" />
+	<block key="E_F05_ScorTong_002_Name" korean="Å³aÅXÇ " />
+	<block key="E_F05_ScorTong_002_NameDetail" korean="" />
+	<block key="E_f05_DragFrost_001_Name" korean="œÌe´ " />
+	<block key="E_f05_DragFrost_001_NameDetail" korean="" />
+	<block key="E_f05_UndeadBear_001_Name" korean="" />
+	<block key="E_f05_UndeadBear_001_NameDetail" korean="" />
+	<block key="E_f05_UndeadBull_001_Name" korean="" />
+	<block key="E_f05_UndeadBull_001_NameDetail" korean="" />
+	<block key="E_f05_UndeadWolf_001_Name" korean="" />
+	<block key="E_f05_UndeadWolf_001_NameDetail" korean="" />
+	<block key="e_f05_Matura_001_Name" korean="ôÅ¬ÀXÇ " />
+	<block key="e_f05_Matura_001_NameDetail" korean="" />
+	<block key="E_f05_FatOwl00_001_Name" korean="<Õ”Æ" />
+	<block key="E_f05_FatOwl00_001_NameDetail" korean="" />
+	<block key="E_f05_CaspCat_001_Name" korean="àÂ0®è¸XÇ " />
+	<block key="E_f05_CaspCat_001_NameDetail" korean="" />
+	<block key="E_f05_LTurt00_001_Name" korean="ÀÉÖXÇ " />
+	<block key="E_f05_LTurt00_001_NameDetail" korean="" />
+	<block key="E_f05_Ceras00_001_Name" korean="Ä³¤Â|·àÏ" />
+	<block key="E_f05_Ceras00_001_NameDetail" korean="" />
+	<block key="E_f05_Raptor00_001_Name" korean="¼ÈÇÌ²" />
+	<block key="E_f05_Raptor00_001_NameDetail" korean="" />
+	<block key="E_f05_FatOwl01_001_Name" korean="Æ¬¹\Õ " />
+	<block key="E_f05_FatOwl01_001_NameDetail" korean="" />
+	<block key="E_f05_Hydra00_001_Name" korean="4­%¸XÇ " />
+	<block key="E_f05_Hydra00_001_NameDetail" korean="" />
+	<block key="E_f05_Hydra01_001_Name" korean="È¹%¸XÇ " />
+	<block key="E_f05_Hydra01_001_NameDetail" korean="" />
+	<block key="E_f05_Hydra02_001_Name" korean="ÀÐ}·XÇ " />
+	<block key="E_f05_Hydra02_001_NameDetail" korean="" />
+	<block key="E_f05_BoneCru00_001_Name" korean="iÃÀÉ " />
+	<block key="E_f05_BoneCru00_001_NameDetail" korean="" />
+	<block key="E_f05_FatOwl02_001_Name" korean="Æ­XÇ " />
+	<block key="E_f05_FatOwl02_001_NameDetail" korean="" />
+	<block key="E_f05_SandSaurs_001_Name" korean="¨º˜·XÇ " />
+	<block key="E_f05_SandSaurs_001_NameDetail" korean="" />
+	<block key="E_f05_LTurt01_001_Name" korean="LÅ¬¹¼" />
+	<block key="E_f05_LTurt01_001_NameDetail" korean="" />
+	<block key="E_f05_BoneCru01_001_Name" korean="|·àÏ" />
+	<block key="E_f05_BoneCru01_001_NameDetail" korean="" />
+	<block key="E_f05_BoneCru02_001_Name" korean="ø¼ " />
+	<block key="E_f05_BoneCru02_001_NameDetail" korean="" />
+	<block key="E_f05_Raptor01_001_Name" korean="¬ÀÉ¹ " />
+	<block key="E_f05_Raptor01_001_NameDetail" korean="" />
+	<block key="E_f05_Kangroo00_001_Name" korean="ø¼ " />
+	<block key="E_f05_Kangroo00_001_NameDetail" korean="" />
+	<block key="E_f05_Rhino00_001_Name" korean="è¬ÜÉ0® " />
+	<block key="E_f05_Rhino00_001_NameDetail" korean="" />
+	<block key="E_f05_RaptBaja_001_Name" korean="¼ÈÇÌ²" />
+	<block key="E_f05_RaptBaja_001_NameDetail" korean="" />
+	<block key="E_F05_Taraku_001_Name" korean="ˆ½C¯XÇ " />
+	<block key="E_F05_Taraku_001_NameDetail" korean="" />
+	<block key="E_F05_KingBat_002_Name" korean="iÖ®XÇ " />
+	<block key="E_F05_KingBat_002_NameDetail" korean="" />
+	<block key="E_F05_KingBat_003_Name" korean="äÀ¤Ð¼ " />
+	<block key="E_F05_KingBat_003_NameDetail" korean="" />
+	<block key="E_F05_BoneCru03_001_Name" korean="ÓxºXÇ " />
+	<block key="E_F05_BoneCru03_001_NameDetail" korean="" />
+	<block key="E_F05_BaldEagle_002_Name" korean="" />
+	<block key="E_F05_BaldEagle_002_NameDetail" korean="ˆ½¬Àp­è² " />
+	<block key="E_F05_DragRaba_001_Name" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="E_F05_DragRaba_001_NameDetail" korean="" />
+	<block key="E_D13_Tower_000_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="E_D13_Tower_000_NameDetail" korean="" />
+	<block key="e_f05_ImmoTalos_001_Name" korean="‰½@Ç " />
+	<block key="e_f05_ImmoTalos_001_NameDetail" korean="" />
+	<block key="e_f05_ImmoTalos_002_Name" korean="‰½@Ç " />
+	<block key="e_f05_ImmoTalos_002_NameDetail" korean="" />
+	<block key="e_f05_ImmoTalos_003_Name" korean="‰½@Ç " />
+	<block key="e_f05_ImmoTalos_003_NameDetail" korean="" />
+	<block key="e_f05_ImmoTalos_004_Name" korean="‰½@Ç " />
+	<block key="e_f05_ImmoTalos_004_NameDetail" korean="" />
+	<block key="e_f05_ImmoMorga_001_Name" korean="€¬@Ç " />
+	<block key="e_f05_ImmoMorga_001_NameDetail" korean="" />
+	<block key="e_f05_ImmoMorga_002_Name" korean="€¬@Ç " />
+	<block key="e_f05_ImmoMorga_002_NameDetail" korean="" />
+	<block key="e_f05_ImmoMorga_003_Name" korean="€¬@Ç " />
+	<block key="e_f05_ImmoMorga_003_NameDetail" korean="" />
+	<block key="e_f05_ImmoMorga_004_Name" korean="€¬@Ç " />
+	<block key="e_f05_ImmoMorga_004_NameDetail" korean="" />
+	<block key="e_f05_ImmoMerc_001_Name" korean="xºÈXÇ " />
+	<block key="e_f05_ImmoMerc_001_NameDetail" korean="" />
+	<block key="e_f05_ImmoMerc_002_Name" korean="xºÈXÇ " />
+	<block key="e_f05_ImmoMerc_002_NameDetail" korean="" />
+	<block key="e_f05_ImmoMerc_003_Name" korean="xºÈXÇ " />
+	<block key="e_f05_ImmoMerc_003_NameDetail" korean="" />
+	<block key="e_f05_ImmoMerc_004_Name" korean="xºÈXÇ " />
+	<block key="e_f05_ImmoMerc_004_NameDetail" korean="" />
+	<block key="E_F05_ScorTail_003_Name" korean="[" />
+	<block key="E_F05_ScorTail_003_NameDetail" korean="" />
+	<block key="E_F05_SnakRattl_003_Name" korean="[" />
+	<block key="E_F05_SnakRattl_003_NameDetail" korean="" />
+	<block key="E_F05_CactSand_002_Name" korean="[" />
+	<block key="E_F05_CactSand_002_NameDetail" korean="" />
+	<block key="E_D13_RebSword_01_Name" korean="àÂÈ " />
+	<block key="E_D13_RebSword_01_NameDetail" korean="" />
+	<block key="E_F05_0_0000_0013_Name" korean="¬À\¸¡ÇŒ× " />
+	<block key="E_F05_0_0000_0013_NameDetail" korean="" />
+	<block key="E_F05_0_0000_0014_Name" korean="¬À\¸¡ÇŒ× " />
+	<block key="E_F05_0_0000_0014_NameDetail" korean="" />
+	<block key="E_F05_0_0000_0015_Name" korean="¬À\¸¡ÇŒ× " />
+	<block key="E_F05_0_0000_0015_NameDetail" korean="" />
+	<block key="E_F05_0_0000_0016_Name" korean="¬À\¸¡ÇŒ× " />
+	<block key="E_F05_0_0000_0016_NameDetail" korean="" />
+	<block key="E_D13_CabePatro_02_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_CabePatro_02_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Fanasnipe_02_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_Fanasnipe_02_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_03_0_1000_0011_Name" korean="¨ºXÕ¼ " />
+	<block key="E_03_0_1000_0011_NameDetail" korean="" />
+	<block key="e_D06_ImmoSoldi_001_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoSoldi_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoSoldi_002_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoSoldi_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoSoldi_003_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoSoldi_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoSoldi_004_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoSoldi_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoSoldi_005_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoSoldi_005_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoKnigh_001_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoKnigh_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoKnigh_002_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoKnigh_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoKnigh_003_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoKnigh_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoKnigh_004_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoKnigh_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoImpsu_001_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoImpsu_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoImpsu_002_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoImpsu_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoImpsu_003_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoImpsu_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoImpsu_004_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoImpsu_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoMagi_001_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoMagi_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoMagi_002_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoMagi_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoMagi_003_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoMagi_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoMagi_004_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_D06_ImmoMagi_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_Dimp_001_Name" korean="„ÇÕ " />
+	<block key="E_D06_Dimp_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F05_Dimp_002_Name" korean="D¾¸Ò¸tÇ" />
+	<block key="E_F05_Dimp_002_NameDetail" korean="¨ºt¹¬XÇ " />
+	<block key="E_F05_Dimp_003_Name" korean="¬¹ü¼¸Ò" />
+	<block key="E_F05_Dimp_003_NameDetail" korean="¨ºt¹¬XÇ " />
+	<block key="E_D06_Dimp_002_Name" korean="„ÇÕ " />
+	<block key="E_D06_Dimp_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_Dimp_003_Name" korean="„ÇÕ " />
+	<block key="E_D06_Dimp_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_GhoulMdea_001_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_GhoulMdea_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_GhoulMdea_002_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_GhoulMdea_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_GhoulMdea_003_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_GhoulMdea_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_GhoulWdea_001_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_GhoulWdea_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_GhoulWdea_002_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_GhoulWdea_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_GhoulWdea_003_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_GhoulWdea_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_ZombSlave_001_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_ZombSlave_002_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_ZombSlave_003_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_ZombSlave_004_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_ZombSlave_005_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_005_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D13_SinsiaSh_01_Name" korean="­0®XÇ " />
+	<block key="E_D13_SinsiaSh_01_NameDetail" korean="" />
+	<block key="E_F05_SpirSpark_0001_Name" korean="äÀ¤Ð¼XÇ " />
+	<block key="E_F05_SpirSpark_0001_NameDetail" korean="" />
+	<block key="E_F05_SpirWood_0001_Name" korean="äÀ¤Ð¼XÇ " />
+	<block key="E_F05_SpirWood_0001_NameDetail" korean="" />
+	<block key="E_F05_WolfWild_0001_Name" korean="äÀ¤Ð¼XÇ " />
+	<block key="E_F05_WolfWild_0001_NameDetail" korean="" />
+	<block key="e_f04_ImmoGorak_003_Name" korean="‘ÇÈ" />
+	<block key="e_f04_ImmoGorak_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F05_Potpoison_000_Name" korean="ù¹Å³ " />
+	<block key="E_F05_Potpoison_000_NameDetail" korean="" />
+	<block key="E_F05_Statue_bro_000_Name" korean="tÐ\¸x³XÇ " />
+	<block key="E_F05_Statue_bro_000_NameDetail" korean="" />
+	<block key="e_f04_ImmoImpsu_010_Name" korean="TÅQ× " />
+	<block key="e_f04_ImmoImpsu_010_NameDetail" korean="" />
+	<block key="E_f03_0_0000_0020_Name" korean="©ÍÁÉ\Õ " />
+	<block key="E_f03_0_0000_0020_NameDetail" korean="" />
+	<block key="E_03_0_0013_0010_Name" korean="€½È\Õ " />
+	<block key="E_03_0_0013_0010_NameDetail" korean="" />
+	<block key="E_f04_Spirwisp_010_Name" korean="ÀÐ}·\Õ " />
+	<block key="E_f04_Spirwisp_010_NameDetail" korean="" />
+	<block key="e_f04_ImmoHopli_010_Name" korean="TÅQ× " />
+	<block key="e_f04_ImmoHopli_010_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F05_KrokEngee_005_Name" korean="ÀÐ}·\Õ " />
+	<block key="E_F05_KrokEngee_005_NameDetail" korean="" />
+	<block key="E_F05_KrokGladi_006_Name" korean="ÀÐ}·\Õ " />
+	<block key="E_F05_KrokGladi_006_NameDetail" korean="" />
+	<block key="E_F05_KrokTaine_002_Name" korean="ÀÐ}·\Õ " />
+	<block key="E_F05_KrokTaine_002_NameDetail" korean="" />
+	<block key="E_f05_BoneCru02_002_Name" korean="TÅQ× " />
+	<block key="E_f05_BoneCru02_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D13_SinsiaSh_02_Name" korean="­0®XÇ " />
+	<block key="E_D13_SinsiaSh_02_NameDetail" korean="" />
+	<block key="E_F06_KrokHam_01_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokHam_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_KrokBow_01_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokBow_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="e_f06_krokpries_01_Name" korean="àÂÈ " />
+	<block key="e_f06_krokpries_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_KrokAsse_01_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokAsse_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_KrokGladi_01_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokGladi_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_Krokhatch_01_Name" korean="àÂÈ " />
+	<block key="E_F06_Krokhatch_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_KrokTrai_01_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokTrai_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_KrokTrai_02_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokTrai_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_Scorkni_01_Name" korean="àÂÈ " />
+	<block key="E_F06_Scorkni_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_ScorTail_01_Name" korean="Å³hÎ " />
+	<block key="E_F06_ScorTail_01_NameDetail" korean="" />
+	<block key="E_F06_LeopSand_01_Name" korean="¬ÀÉ¹ " />
+	<block key="E_F06_LeopSand_01_NameDetail" korean="" />
+	<block key="E_03_0_0695_0010_Name" korean="íÅÑ¼ " />
+	<block key="E_03_0_0695_0010_NameDetail" korean="" />
+	<block key="E_03_0_0695_0011_Name" korean="ýÈLÇXÇ " />
+	<block key="E_03_0_0695_0011_NameDetail" korean="" />
+	<block key="E_51_0_1210_0010_Name" korean="ýÈLÇXÇ " />
+	<block key="E_51_0_1210_0010_NameDetail" korean="" />
+	<block key="E_03_0_1110_0010_Name" korean="Q×È¹ Â¬À " />
+	<block key="E_03_0_1110_0010_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_03_0_1000_0012_Name" korean="Ó4­ " />
+	<block key="E_03_0_1000_0012_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_03_0_0682_0011_Name" korean="¬ÀÉ¹ " />
+	<block key="E_03_0_0682_0011_NameDetail" korean="" />
+	<block key="E_03_0_0682_0012_Name" korean="¬ÀÉ¹ " />
+	<block key="E_03_0_0682_0012_NameDetail" korean="" />
+	<block key="E_03_0_0682_0013_Name" korean="XÕ¾8Ð" />
+	<block key="E_03_0_0682_0013_NameDetail" korean="¬ÀÉ¹ " />
+	<block key="E_03_0_0682_0014_Name" korean="8Ð" />
+	<block key="E_03_0_0682_0014_NameDetail" korean="ìÅUÆ " />
+	<block key="E_03_0_0694_0011_Name" korean="àÂÈ " />
+	<block key="E_03_0_0694_0011_NameDetail" korean="" />
+	<block key="E_03_0_0694_0012_Name" korean="¸D¾,Æ" />
+	<block key="E_03_0_0694_0012_NameDetail" korean="|·D¾È² " />
+	<block key="e_f04_ImmoMagi_010_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="e_f04_ImmoMagi_010_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_f04_ImmoImpsu_011_Name" korean="äÀ¾¬¹¤Â" />
+	<block key="e_f04_ImmoImpsu_011_NameDetail" korean="ˆ½¬Àp­è²XÇ " />
+	<block key="E_03_0_0002_0010_Name" korean="ŠÇ" />
+	<block key="E_03_0_0002_0010_NameDetail" korean="è¬ÜÉ0®XÇ " />
+	<block key="E_50_0_0718_0010_Name" korean="<Õ|¹ " />
+	<block key="E_50_0_0718_0010_NameDetail" korean="è¬ÜÉ0®XÇ " />
+	<block key="E_f02_hufpub_g_010_Name" korean="HÅÝÂDÇ " />
+	<block key="E_f02_hufpub_g_010_NameDetail" korean="DÅXÕ¾XÇ " />
+	<block key="E_03_0_0104_0010_Name" korean="tÕHÅ" />
+	<block key="E_03_0_0104_0010_NameDetail" korean="ˆ½¬À " />
+	<block key="E_04_0_0678_0010_Name" korean="ÐÆÜÂ " />
+	<block key="E_04_0_0678_0010_NameDetail" korean="ÜÐà¬XÇ " />
+	<block key="E_F05_CrocOasi01_001_Name" korean="$ÆDÅÜÂ¤Â " />
+	<block key="E_F05_CrocOasi01_001_NameDetail" korean="" />
+	<block key="E_f05_CaspCat_002_Name" korean="ÆEÅ\Õ " />
+	<block key="E_f05_CaspCat_002_NameDetail" korean="" />
+	<block key="E_f05_Chimpus_001_Name" korean="hÎ¤Â" />
+	<block key="E_f05_Chimpus_001_NameDetail" korean="" />
+	<block key="E_f05_Adelake00_001_Name" korean="DÅx³|·lÐ" />
+	<block key="E_f05_Adelake00_001_NameDetail" korean="p¬ø» " />
+	<block key="E_f05_Adelake01_001_Name" korean="4Ò¬¹²" />
+	<block key="E_f05_Adelake01_001_NameDetail" korean="8ÖÇ " />
+	<block key="E_F05_FloatDR_001_Name" korean="ÜÐ‘ÅXÇ " />
+	<block key="E_F05_FloatDR_001_NameDetail" korean="p­è² " />
+	<block key="E_F05_EturSand00_001_Name" korean="¬ÀÉ¹ " />
+	<block key="E_F05_EturSand00_001_NameDetail" korean="" />
+	<block key="E_f05_Ostrich00_001_Name" korean="¸Ò¬¹ðÒ" />
+	<block key="E_f05_Ostrich00_001_NameDetail" korean="" />
+	<block key="E_f05_Raptor00_002_Name" korean="4® " />
+	<block key="E_f05_Raptor00_002_NameDetail" korean="" />
+	<block key="E_f05_BoneCru04_001_Name" korean="iÃÀÉ " />
+	<block key="E_f05_BoneCru04_001_NameDetail" korean="" />
+	<block key="E_D06_ZombSlave_006_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_006_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_ZombSlave_007_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_007_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_ZombSlave_008_Name" korean="ýÈÀÉ " />
+	<block key="E_D06_ZombSlave_008_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D13_Magic_door_02_Name" korean="ÓxºXÇ " />
+	<block key="E_D13_Magic_door_02_NameDetail" korean="" />
+	<block key="E_D13_KingBat_02_Name" korean="lÐ|·¼ŒÁ¤Â" />
+	<block key="E_D13_KingBat_02_NameDetail" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="E_D13_GagoTamp_02_Name" korean="ÀÉXÕ " />
+	<block key="E_D13_GagoTamp_02_NameDetail" korean="" />
+	<block key="E_D13_GagoRock_02_Name" korean="TÅÁ " />
+	<block key="E_D13_GagoRock_02_NameDetail" korean="" />
+	<block key="E_D13_FanaDevo_02_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_FanaDevo_02_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Cabeassa_02_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_Cabeassa_02_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_RebSold_02_Name" korean=" ÇÈ " />
+	<block key="E_D13_RebSold_02_NameDetail" korean="" />
+	<block key="E_D13_RebWiz_02_Name" korean=" ÇÈ " />
+	<block key="E_D13_RebWiz_02_NameDetail" korean="" />
+	<block key="E_D13_RebBow_02_Name" korean=" ÇÈ " />
+	<block key="E_D13_RebBow_02_NameDetail" korean="" />
+	<block key="E_D13_RebSword_02_Name" korean="àÂÈ " />
+	<block key="E_D13_RebSword_02_NameDetail" korean="" />
+	<block key="E_D13_CabePatro_04_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_CabePatro_04_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Fanasnipe_04_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_Fanasnipe_04_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_CabePatro_03_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_CabePatro_03_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_D13_Fanasnipe_03_Name" korean="tÎ¾„Ç " />
+	<block key="E_D13_Fanasnipe_03_NameDetail" korean="tÎ¾„Ç " />
+	<block key="E_F05_GagoTampl_010_Name" korean="TÅQ× " />
+	<block key="E_F05_GagoTampl_010_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F05_GagoTampl_011_Name" korean="TÅQ× " />
+	<block key="E_F05_GagoTampl_011_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F05_cutscene_000_Name" korean="TÅQ× " />
+	<block key="E_F05_cutscene_000_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_f04_ImmoGorak_004_Name" korean="‘ÇÈ" />
+	<block key="e_f04_ImmoGorak_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_f05_BoneCru02_003_Name" korean="TÅQ× " />
+	<block key="E_f05_BoneCru02_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F05_ImmoKnigh_002_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="E_F05_ImmoKnigh_002_NameDetail" korean="" />
+	<block key="E_F05_ImmoKnigh_003_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="E_F05_ImmoKnigh_003_NameDetail" korean="" />
+	<block key="E_F05_ImmoSoldi_002_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="E_F05_ImmoSoldi_002_NameDetail" korean="" />
+	<block key="E_F05_ImmoSoldi_003_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="E_F05_ImmoSoldi_003_NameDetail" korean="" />
+	<block key="E_F05_GagoRock_002_Name" korean="TÅÁ " />
+	<block key="E_F05_GagoRock_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F06_KrokAsse_02_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokAsse_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_Scor_01_Name" korean="ÑÉŒ¬ " />
+	<block key="E_F06_Scor_01_NameDetail" korean="" />
+	<block key="E_F06_ScorGladi_02_Name" korean="àÂÈ " />
+	<block key="E_F06_ScorGladi_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_KrokGladi_02_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokGladi_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_Krokhatch_02_Name" korean="àÂÈ " />
+	<block key="E_F06_Krokhatch_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F06_KrokPries_02_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokPries_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_04_0_0691_0003_Name" korean="ÐÆÜÂ " />
+	<block key="E_04_0_0691_0003_NameDetail" korean="ÜÐà¬XÇ " />
+	<block key="E_F05_Quest_Cart_01_Name" korean="¨ºXÕ¼ " />
+	<block key="E_F05_Quest_Cart_01_NameDetail" korean="È¹(Ì " />
+	<block key="E_F05_KrokEngee_006_Name" korean="[" />
+	<block key="E_F05_KrokEngee_006_NameDetail" korean="" />
+	<block key="E_F05_KrokBowma_004_Name" korean="[" />
+	<block key="E_F05_KrokBowma_004_NameDetail" korean="" />
+	<block key="E_F05_KrokPries_003_Name" korean="[" />
+	<block key="E_F05_KrokPries_003_NameDetail" korean="" />
+	<block key="E_F05_KrokGladi_007_Name" korean="[" />
+	<block key="E_F05_KrokGladi_007_NameDetail" korean="" />
+	<block key="E_f05_Kangroo00_002_Name" korean="[" />
+	<block key="E_f05_Kangroo00_002_NameDetail" korean="" />
+	<block key="E_f05_UndeadBull_002_Name" korean="[" />
+	<block key="E_f05_UndeadBull_002_NameDetail" korean="" />
+	<block key="E_f05_UndeadBear_002_Name" korean="[" />
+	<block key="E_f05_UndeadBear_002_NameDetail" korean="" />
+	<block key="E_f05_UndeadWolf_002_Name" korean="[" />
+	<block key="E_f05_UndeadWolf_002_NameDetail" korean="" />
+	<block key="E_F06_KrokBow_02_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokBow_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_f05_LTurt02_001_Name" korean="p³È²¼" />
+	<block key="E_f05_LTurt02_001_NameDetail" korean="" />
+	<block key="E_F05_KrokTaine_003_Name" korean="[" />
+	<block key="E_F05_KrokTaine_003_NameDetail" korean="" />
+	<block key="E_03_0_0676_0006_Name" korean="[" />
+	<block key="E_03_0_0676_0006_NameDetail" korean="" />
+	<block key="E_03_0_0695_0020_Name" korean="´´ÀDÅœ° " />
+	<block key="E_03_0_0695_0020_NameDetail" korean="" />
+	<block key="E_F05_ImmoKnigh_005_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="E_F05_ImmoKnigh_005_NameDetail" korean="" />
+	<block key="E_F05_Gargonest_000_Name" korean="" />
+	<block key="E_F05_Gargonest_000_NameDetail" korean="" />
+	<block key="E_F05_ImmoSoldi_004_Name" korean="(Â´Åà´ " />
+	<block key="E_F05_ImmoSoldi_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F05_KrokManac_002_Name" korean="Ç" />
+	<block key="E_F05_KrokManac_002_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F05_ImmoSoldi_005_Name" korean="ˆ½¬ÀXÇ " />
+	<block key="E_F05_ImmoSoldi_005_NameDetail" korean="" />
+	<block key="E_F06_KrokHam_02_Name" korean="àÂÈ " />
+	<block key="E_F06_KrokHam_02_NameDetail" korean="™Ó,Ò|· " />
+	<block key="E_F05_KrokEngee_007_Name" korean="ÀÐ}·\Õ " />
+	<block key="E_F05_KrokEngee_007_NameDetail" korean="" />
+	<block key="E_D06_GhostL_001_Name" korean=")¼‘·XÕ”² " />
+	<block key="E_D06_GhostL_001_NameDetail" korean="(ÌÐÆìÅ‰ÕÇ" />
+	<block key="E_D06_GhostS_001_Name" korean="tÇÄ¬XÇ " />
+	<block key="E_D06_GhostS_001_NameDetail" korean="(ÌÐÆìÅ‰ÕÇ" />
+	<block key="E_D06_UndeadWolf_001_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_UndeadWolf_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_UndeadWolf_002_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_UndeadWolf_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_UndeadWolf_003_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_UndeadWolf_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_UndeadWolf_004_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_UndeadWolf_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_UndeadWolf_005_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_UndeadWolf_005_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_UndeadWolf_006_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_UndeadWolf_006_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_DaemonWolf_001_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_DaemonWolf_001_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_DaemonWolf_002_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_DaemonWolf_002_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_DaemonWolf_003_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_DaemonWolf_003_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_D06_DaemonWolf_004_Name" korean="ŒÁXÖ´ " />
+	<block key="E_D06_DaemonWolf_004_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_05_Sandpeli_000_Name" korean="¬ÀÉ¹ " />
+	<block key="E_05_Sandpeli_000_NameDetail" korean="" />
+	<block key="e_f06_scorgladi_01_Name" korean="àÂÈ " />
+	<block key="e_f06_scorgladi_01_NameDetail" korean="™Ó,Ò|· " />
+	<block key="e_D06_ImmoSoldi_006_Name" korean="Ù³ÐÆ´ " />
+	<block key="e_D06_ImmoSoldi_006_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="e_D06_ImmoKnigh_005_Name" korean="Ù³ÐÆ´ " />
+	<block key="e_D06_ImmoKnigh_005_NameDetail" korean="ˆ½¬Àp­è²" />
+	<block key="E_F06_Trap_000_Name" korean="hÕÈ" />
+	<block key="E_F06_Trap_000_NameDetail" korean="ˆ½XÇ " />
+	<block key="E_F06_Trap_001_Name" korean="hÕÈ" />
+	<block key="E_F06_Trap_001_NameDetail" korean="¼ÅLÇXÇ " />
+	<block key="E_F06_Trap_002_Name" korean="hÕÈ" />
+	<block key="E_F06_Trap_002_NameDetail" korean="¼Œ·XÇ " />
+	<block key="E_F06_Trap_003_Name" korean="hÕÈ" />
+	<block key="E_F06_Trap_003_NameDetail" korean="4»àÁXÇ " />
+	<block key="E_F05_E02_mana_Name" korean="È¹%¸ " />
+	<block key="E_F05_E02_mana_NameDetail" korean="" />
+	<block key="E_D06_GhostL_002_Name" korean=")¼‘·XÕ”² " />
+	<block key="E_D06_GhostL_002_NameDetail" korean="" />
+	<block key="E_F05_GoleBreak_003_Name" korean="¼Ç " />
+	<block key="E_F05_GoleBreak_003_NameDetail" korean="„½x±\Õ " />
+	<block key="E_02_0_0040_0002_Name" korean="ÓÑ¼" />
+	<block key="E_02_0_0040_0002_NameDetail" korean="ÀÐ}·\Õ " />
+	<block key="E_02_0_0042_0001_Name" korean="¬ÀÉ¹ " />
+	<block key="E_02_0_0042_0001_NameDetail" korean="ÀÐ}·\Õ " />
+	<block key="E_02_0_0018_0001_Name" korean="¬ÀÉ¹ " />
+	<block key="E_02_0_0018_0001_NameDetail" korean="ÀÐ}·\Õ " />
+	<block key="E_F05_KrokBowma_005_Name" korean="ÀÐ}·\Õ " />
+	<block key="E_F05_KrokBowma_005_NameDetail" korean="Ô¿˜°Ó " />
+	<block key="E_F05_BaldEagle_003_Name" korean="pÈ(¸´ " />
+	<block key="E_F05_BaldEagle_003_NameDetail" korean="" />
+	<block key="E_02_5_0001_0007_Name" korean="¬ÀÉ¹ " />
+	<block key="E_02_5_0001_0007_NameDetail" korean="" />
+	<block key="E_03_5_0001_0010_Name" korean="¬ÀÉ¹ " />
+	<block key="E_03_5_0001_0010_NameDetail" korean="" />
+	<block key="E_F05_Dimp_004_Name" korean="p³¨º¤Â" />
+	<block key="E_F05_Dimp_004_NameDetail" korean="¨ºt¹¬XÇ " />
+	<block key="E_F05_Dimp_005_Name" korean="|·äÕt¹" />
+	<block key="E_F05_Dimp_005_NameDetail" korean="¨ºt¹¬XÇ " />
+	<block key="E_F05_GhosAM1_01_Name" korean="ˆ½XÇ " />
+	<block key="E_F05_GhosAM1_01_NameDetail" korean="" />
+	<block key="E_D13_zomb_01_Name" korean="ÀÉ0¼ù²\Õ " />
+	<block key="E_D13_zomb_01_NameDetail" korean="È²¼t¹XÇ " />
+	<block key="E_D13_zomb_02_Name" korean="ÀÉ0¼ù²\Õ " />
+	<block key="E_D13_zomb_02_NameDetail" korean="È²¼t¹XÇ " />
+	<block key="E_F05_E02_mana2_Name" korean="È¹%¸ " />
+	<block key="E_F05_E02_mana2_NameDetail" korean="" />
+	<block key="E_03_0_0695_0012_Name" korean="íÅÑ¼ " />
+	<block key="E_03_0_0695_0012_NameDetail" korean="ÓÜÂ¸ÒXÇ " />
+	<block key="E_f02_GhosSM1_0001_Name" korean="ˆ½XÇ " />
+	<block key="E_f02_GhosSM1_0001_NameDetail" korean="" />
+	<block key="E_F05_MohabaS1_01_Name" korean="¨ºXÕ¼ " />
+	<block key="E_F05_MohabaS1_01_NameDetail" korean="" />
+	<block key="E_F05_0_0000_0017_Name" korean="¬À\¸¡ÇŒ× " />
+	<block key="E_F05_0_0000_0017_NameDetail" korean="" />
+	<block key="E_F05_0_0000_0018_Name" korean="¬À\¸¡ÇŒ× " />
+	<block key="E_F05_0_0000_0018_NameDetail" korean="" />
+	<block key="E_d00_0_RunRab_0001_Name" korean=" Ç<» " />
+	<block key="E_d00_0_RunRab_0001_NameDetail" korean="" />
+	<block key="E_d00_0_RunRab_0002_Name" korean=" Ç<» " />
+	<block key="E_d00_0_RunRab_0002_NameDetail" korean="" />
+	<block key="E_d00_0_RunRab_0003_Name" korean=" Ç<» " />
+	<block key="E_d00_0_RunRab_0003_NameDetail" korean="" />
+	<block key="E_P02_Mphonix_001_Name" korean="$±¬¬¹(Æ" />
+	<block key="E_P02_Mphonix_001_NameDetail" korean="" />
+	<block key="E_P02_UGarmu_0001_Name" korean="tÎ¬¹È¹" />
+	<block key="E_P02_UGarmu_0001_NameDetail" korean="" />
+	<block key="E_P02_IroHors_0001_Name" korean="ˆÂ˜Ó¬¹(Æ" />
+	<block key="E_P02_IroHors_0001_NameDetail" korean="" />
+	<block key="E_P02_Ceras01_001_Name" korean="äÀ|·àÏ" />
+	<block key="E_P02_Ceras01_001_NameDetail" korean="" />
+	<block key="E_P02_Garesha_001_Name" korean="¤Ð°À" />
+	<block key="E_P02_Garesha_001_NameDetail" korean="" />
+	<block key="E_P02_PoisCroc_001_Name" korean="Å³ÀÉ" />
+	<block key="E_P02_PoisCroc_001_NameDetail" korean="" />
+	<block key="E_P02_BigScrop_001_Name" korean=" ¼ø»l­¤Â" />
+	<block key="E_P02_BigScrop_001_NameDetail" korean="" />
+	<block key="E_P02_BatSnd_001_Name" korean="ˆ×¼|·¸Ò" />
+	<block key="E_P02_BatSnd_001_NameDetail" korean="" />
+	<block key="E_P02_Eagle00_001_Name" korean="Ü­¬¹(Æ" />
+	<block key="E_P02_Eagle00_001_NameDetail" korean="" />
+	<block key="E_P02_Firebird_001_Name" korean="àÏx±¤Â" />
+	<block key="E_P02_Firebird_001_NameDetail" korean="" />
+	<block key="E_P02_DrRaba_001_Name" korean="¾|·¸Ò" />
+	<block key="E_P02_DrRaba_001_NameDetail" korean="" />
+	<block key="E_p02_SkullH1_01_Name" korean="DÅ" />
+	<block key="E_p02_SkullH1_01_NameDetail" korean="" />
+	<block key="E_P02_SkulKnight_01_Name" korean="DÅ" />
+	<block key="E_P02_SkulKnight_01_NameDetail" korean="" />
+	<block key="E_p02_RebSword_01_Name" korean="DÅ" />
+	<block key="E_p02_RebSword_01_NameDetail" korean="" />
+	<block key="E_p02_CabeAshu_01_Name" korean="DÅ" />
+	<block key="E_p02_CabeAshu_01_NameDetail" korean="" />
+	<block key="E_p02_SkulBlarc_01_Name" korean="DÅ" />
+	<block key="E_p02_SkulBlarc_01_NameDetail" korean="" />
+	<block key="E_p02_Spirwisp_01_Name" korean="xÔx¹ " />
+	<block key="E_p02_Spirwisp_01_NameDetail" korean="" />
+	<block key="E_p02_DeadBismo_01_Name" korean="" />
+	<block key="E_p02_DeadBismo_01_NameDetail" korean="DÅ" />
+	<block key="E_p02_DeadJeranin_01_Name" korean="" />
+	<block key="E_p02_DeadJeranin_01_NameDetail" korean="DÅ" />
+	<block key="E_p02_undergrass_01_Name" korean="OÕ[¾ " />
+	<block key="E_p02_undergrass_01_NameDetail" korean="" />
+	<block key="E_p02_underspir_01_Name" korean="OÕ[¾ " />
+	<block key="E_p02_underspir_01_NameDetail" korean="" />
+	<block key="E_p02_underrabi_01_Name" korean="DÅ" />
+	<block key="E_p02_underrabi_01_NameDetail" korean="" />
+	<block key="E_p02_UnderRabu_01_Name" korean="DÅ" />
+	<block key="E_p02_UnderRabu_01_NameDetail" korean="" />
+	<block key="E_p02_UnderRibi_01_Name" korean="" />
+	<block key="E_p02_UnderRibi_01_NameDetail" korean="DÅ" />
+	<block key="E_p02_UnAgMag_01_Name" korean="DÅ" />
+	<block key="E_p02_UnAgMag_01_NameDetail" korean="" />
+	<block key="E_p02_UnAgHunt_01_Name" korean="DÅ" />
+	<block key="E_p02_UnAgHunt_01_NameDetail" korean="" />
+	<block key="E_p02_UnAgMugl_01_Name" korean="°ÆP´8º¬¹ " />
+	<block key="E_p02_UnAgMugl_01_NameDetail" korean="" />
+	<block key="E_p02_VampBat_01_Name" korean="°ÆP´8º¬¹ " />
+	<block key="E_p02_VampBat_01_NameDetail" korean="" />
+	<block key="E_p02_VampBat_02_Name" korean="ÜÂ´Ì " />
+	<block key="E_p02_VampBat_02_NameDetail" korean="" />
+	<block key="E_p02_GagoTampl_01_Name" korean="DÅ" />
+	<block key="E_p02_GagoTampl_01_NameDetail" korean="" />
+	<block key="E_p02_GhosAncien_01_Name" korean="à¬" />
+	<block key="E_p02_GhosAncien_01_NameDetail" korean="" />
+	<block key="E_p02_VampHecto_01_Name" korean="DÅ" />
+	<block key="E_p02_VampHecto_01_NameDetail" korean="" />
+	<block key="E_p02_VampLance_01_Name" korean="DÅ" />
+	<block key="E_p02_VampLance_01_NameDetail" korean="" />
+	<block key="E_p02_VampLance_02_Name" korean="DÅ" />
+	<block key="E_p02_VampLance_02_NameDetail" korean="" />
+	<block key="E_p02_ZombSlave1_01_Name" korean="DÅ" />
+	<block key="E_p02_ZombSlave1_01_NameDetail" korean="" />
+	<block key="E_p02_SkullH1_02_Name" korean="DÅ" />
+	<block key="E_p02_SkullH1_02_NameDetail" korean="" />
+	<block key="E_P02_SkulKnight_02_Name" korean="DÅ" />
+	<block key="E_P02_SkulKnight_02_NameDetail" korean="" />
+	<block key="E_p02_RebSword_02_Name" korean="DÅ" />
+	<block key="E_p02_RebSword_02_NameDetail" korean="" />
+	<block key="E_p02_CabeAshu_02_Name" korean="DÅ" />
+	<block key="E_p02_CabeAshu_02_NameDetail" korean="" />
+	<block key="E_p02_SkulBlarc_02_Name" korean="DÅ" />
+	<block key="E_p02_SkulBlarc_02_NameDetail" korean="" />
+	<block key="E_p02_CabeAshu_03_Name" korean="DÅ" />
+	<block key="E_p02_CabeAshu_03_NameDetail" korean="" />
+	<block key="E_p02_Brackwind_01_Name" korean="¾™· " />
+	<block key="E_p02_Brackwind_01_NameDetail" korean="" />
+	<block key="E_p02_Spirwisp_02_Name" korean="TÅQ× " />
+	<block key="E_p02_Spirwisp_02_NameDetail" korean="" />
+	<block key="E_p02_Spirwisp_03_Name" korean="‰½@Ç " />
+	<block key="E_p02_Spirwisp_03_NameDetail" korean="" />
+	<block key="E_p02_ZombSlave_01_Name" korean="€½(Ó´ " />
+	<block key="E_p02_ZombSlave_01_NameDetail" korean="" />
+	<block key="E_p02_GhoulMdea_01_Name" korean="" />
+	<block key="E_p02_GhoulMdea_01_NameDetail" korean="DÅ" />
+	<block key="E_p02_GhoulWdea_01_Name" korean="" />
+	<block key="E_p02_GhoulWdea_01_NameDetail" korean="DÅ" />
+	<block key="E_F05_Fance_01_Name" korean="ÁÀ5Î " />
+	<block key="E_F05_Fance_01_NameDetail" korean="" />
+	<block key="E_F05_Fance_02_Name" korean="¬ÀÐÆXÇ " />
+	<block key="E_F05_Fance_02_NameDetail" korean="" />
+	<block key="E_F05_Fance_03_Name" korean="" />
+	<block key="E_F05_Fance_03_NameDetail" korean="" />
+	<block key="E_p02_GhosShrin_01_Name" korean="´Å`´XÇ " />
+	<block key="E_p02_GhosShrin_01_NameDetail" korean="" />
+</blocks>

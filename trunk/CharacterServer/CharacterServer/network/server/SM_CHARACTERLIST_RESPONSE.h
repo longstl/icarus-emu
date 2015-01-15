@@ -40,19 +40,19 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeW(0);
 		pck->writeW(1);
 		pck->writeW(1);
-		pck->writeW(pck->sockstruct->character[i].cls);
+		pck->writeW(0);
 		pck->writeW(1);
-		pck->writeD(1);
+		pck->writeD(pck->sockstruct->character[i].cls);
 		pck->writeW(pck->sockstruct->character[i].lvl);		// level
 		pck->writeB(pck->sockstruct->character[i].sex);		// sex
 		pck->writeB(0);
-		pck->writeB(12);
+		pck->writeB(13);
 		pck->writeB(0);
 		pck->writeB(0);
 		pck->writeB(0);
-		pck->writeD(0x433f0000);
-		pck->writeD(0x44580800);
-		pck->writeD(0x42c40000);
+		pck->writeD(0x433f0000);		// 191.000000
+		pck->writeD(0x44580800);		// 864.125000
+		pck->writeD(0x42c40000);		// 98.000000
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0xb1000000);
@@ -77,7 +77,7 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeD(0xffffffff);
 		pck->writeD(0);
 		pck->writeD(0xd9efa578);
-		pck->writeD(2);
+		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
@@ -92,25 +92,12 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeB(23);			// minuta sozdaniya persa
 		pck->writeB(0x2);			// chas sozdaniya persa
 		pck->writeB(0x3);			// den sozdaniya persa
-
 		pck->writeB(0x0e);			// mesac sozdaniya persa
 		pck->writeB(0x0b);			// god sozdaniya persa
-		pck->writeW(0x0000);
+		pck->writeW(0x44a6);
 		pck->writeD(0x0145);
 		pck->writeD(0);
-		pck->writeD(0x0001006c);
-		pck->writeD(0xffff0000);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0xffffffff);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0xffffffff);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0x0001006d);
+		pck->writeD(0x0001006a);
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
@@ -119,6 +106,18 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0xffffffff);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0x0001006b);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0x00010084);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0x000002ce);
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);

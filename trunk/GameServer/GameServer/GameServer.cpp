@@ -1,8 +1,6 @@
 ////////////////////////////////////////////////
 // Authors: Tahoma
 ////////////////////////////////////////////////
-
-
 #include "stdafx.h"
 #include "defines.h"
 #include "game_structs.h"
@@ -12,28 +10,30 @@
 #include "Settings.h"
 #include "GameServer.h"
 
-
-
-
 //================================================================================
 // Нить обрабтки пакетов принятых от клиента
 //
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
 	THREAD_SEND* send = (THREAD_SEND*)Param;
+	InitializeCriticalSection(&send->player->gCSp);
+	EnterCriticalSection(&send->player->gCSp);
+
 	send->player->pck = new PACKET(send->player->socket, &send->player->character, (DATABASE*)send->sys.mysql, send->sys.fg, &send->player->ping_time);
 	PACKET* pck = (PACKET*)send->player->pck;
-	log::Info(fg, "Connect: %s\n", inet_ntoa(send->player->from));
-	pck->me->id = 0;
-	pck->me->status = STATUS_NONE;
-
-	InitializeCriticalSection(&send->player->gCSp);
+	mychar->id = 0;
+	mychar->status = STATUS_NONE;
+	mychar->action = ACTION_NONE;
+	mychar->ingame = false;
+	mychar->items_in_inventory = 0;
+	LeaveCriticalSection(&send->player->gCSp);
+	
 
 	while (pck->isconndected)
 	{
 		EnterCriticalSection(&send->player->gCSp);
 		
-		if (pck->me->status == STATUS_NONE)
+		if (mychar->status == STATUS_NONE)
 		{
 			if (pck->PackRecv())
 			{
@@ -50,24 +50,24 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 					memset(bindbg, 0, 2);
 
 					char* fordebug = pck->GetPacketPointer();
-					log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
+					lg::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
 					for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
 					{
 						if ((uint8)fordebug[i] > 0x20 && (uint8)fordebug[i] <= 'z')
 						{
 							bindbg[0] = (uint8)fordebug[i];
-							log::Notify(fg, bindbg);
+							lg::Notify(fg, bindbg);
 						}
 						else
-							log::Notify(fg, ".");
+							lg::Notify(fg, ".");
 					}
-					log::Notify(fg, "\n");
+					lg::Notify(fg, "\n");
 
-					log::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
+					lg::Debug(fg, "C->S: op[%04x][%02x] ", pck->opcode, pck->real_packet_size);
 					for (uint16 i = 0; i < (uint16)pck->packet_len; i++)
-						log::Notify(fg, "%02x", (uint8)fordebug[i]);
+						lg::Notify(fg, "%02x", (uint8)fordebug[i]);
 
-					log::Notify(fg, "\n");
+					lg::Notify(fg, "\n");
 					// --DEBUG*/
 
 					OPCODES::opcodes(pck, fg);
@@ -110,7 +110,7 @@ DWORD WINAPI WinSockPing(LPVOID Param)
 				if (time > 0 && time > max_time_for_disconnect)
 				{
 					pck->Disconnect();
-					log::Warn(fg, "PingThread: Сlient does not respond. Character: %s\n", pck->me->charname);
+					lg::Warn(fg, "PingThread: Сlient does not respond. Character: %s\n", pck->me->charname);
 				}	
 				
 				LeaveCriticalSection(&players[i].gCSp);
@@ -130,7 +130,7 @@ DWORD WINAPI AIMainThread(LPVOID Param)
 	while (true)
 	{
 		ai->Frame();
-		Sleep(100);
+		Sleep(10);
 	}
 	
 	return 0;
@@ -153,7 +153,7 @@ DWORD WINAPI InnerThread(LPVOID Param)
 	SOCKET lsSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
 	if (lsSock == SOCKET_ERROR)
 	{
-		log::Error(fg, "InnerThread: Unable to create socket.\n");
+		lg::Error(fg, "InnerThread: Unable to create socket.\n");
 		return false;
 	}
 
@@ -164,7 +164,7 @@ DWORD WINAPI InnerThread(LPVOID Param)
 	retVal = connect(lsSock, (LPSOCKADDR)&serverInfo, sizeof(serverInfo));
 	if (retVal == SOCKET_ERROR)
 	{
-		log::Error(fg, "InnerThread: Unable to connect\n");
+		lg::Error(fg, "InnerThread: Unable to connect\n");
 		closesocket(lsSock);
 		Sleep(5000);
 		InnerThread(NULL);
@@ -172,7 +172,7 @@ DWORD WINAPI InnerThread(LPVOID Param)
 	}
 
 	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
-	log::Info(fg, "InnerThread: Connected succesful.\n");
+	lg::Info(fg, "InnerThread: Connected succesful.\n");
 
 	uint16 opcode = 1;
 
@@ -188,7 +188,7 @@ DWORD WINAPI InnerThread(LPVOID Param)
 			packet[2] = id_server;
 			retVal = send(lsSock, packet, 3, 0);
 			if (retVal == SOCKET_ERROR) {
-				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+				lg::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
 				closesocket(lsSock);
 				Sleep(5000);
 				InnerThread(NULL);
@@ -196,7 +196,7 @@ DWORD WINAPI InnerThread(LPVOID Param)
 			}
 			else
 			{
-				log::Info(fg, "InnerThread: Connected.\n");
+				lg::Info(fg, "InnerThread: Connected.\n");
 			}
 			status = 1;
 			break;
@@ -221,7 +221,7 @@ DWORD WINAPI InnerThread(LPVOID Param)
 
 			retVal = send(lsSock, packet, sizeof(GAMESERVER_INFO) + 3, 0);
 			if (retVal == SOCKET_ERROR) {
-				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+				lg::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
 				closesocket(lsSock);
 				Sleep(5000);
 				InnerThread(NULL);
@@ -230,24 +230,19 @@ DWORD WINAPI InnerThread(LPVOID Param)
 			Sleep(refresh_server_info);
 			break;
 		}
-		Sleep(1000);
+		Sleep(5000);
 	}
 	return 0;
 }
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	char aaa[] = { 0x90, 0xE2, 0x56, 0x13, 0x00, 0x6E, 0x4D, 0xB1, 0xCB, 0x30, 0x00, 0x00, 0x00 };
-	int step_xor_key = 0;
-	char xor_key[] = { 0xb1, 0xe1, 0xd2, 0xc4, 0x4a, 0x2f, 0x6b, 0x22 };
-	for (int i = 0; i < sizeof(aaa); i++)
-	{
-		aaa[i ] ^= xor_key[step_xor_key];
-		++step_xor_key;
-		if (step_xor_key == sizeof(xor_key))
-			step_xor_key = 0;
-	}
+	int st = 0x30000000;
+	float ft;
+	ft = *(float*)&st;
 
+	ft = 1;
+	st = *(int*)&ft;
 	int err;
 	u_long iMode = 1;
 	const char on = 1;
@@ -257,80 +252,103 @@ int _tmain(int argc, _TCHAR* argv[])
 	WSAStartup(wVersionRequested, &wsaData);
 
 	hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
-	fg = log::Init();
+	fg = lg::Init();
 	COLOR_GL
-	log::Notify(fg, "\n");
-	log::Notify(fg, "#################################\n");
-	log::Notify(fg, "# Game Server v0.02             #\n");
-	log::Notify(fg, "# Client version: 1.5.49        #\n");
-	log::Notify(fg, "# Client time: 12:00 31.12.2014 #\n");
-	log::Notify(fg, "#################################\n\n");
+	lg::Notify(fg, "\n");
+	lg::Notify(fg, "#################################\n");
+	lg::Notify(fg, "# Game Server v0.02             #\n");
+	lg::Notify(fg, "# Client version: 1.5.55        #\n");
+	lg::Notify(fg, "# Client time: 2015-01-12 23:15 #\n");
+	lg::Notify(fg, "#################################\n\n");
 	
 	///////////////////////////////////////////////////////////////
 	// Загрузка конфигурации
 	///////////////////////////////////////////////////////////////
 	COLOR_RGBL
-	log::Notify(fg, "Load Settings... \t\t");
+	lg::Notify(fg, "Load Settings... \t\t");
 
 	if (!LoadSettings(&settings))
 	{
 		COLOR_RL
-		log::Notify(fg, "Fail\n");
+		lg::Notify(fg, "Fail\n");
 		return -1;
 	}
 
 	COLOR_GL
-	log::Notify(fg, "Succesful\n");
+	lg::Notify(fg, "Succesful\n");
 //--------------------------------------------------------------------------------------------------------------------------
-
 	COLOR_RGBL
-	log::Notify(fg, "Connect to Mysql... \t\t");
+	lg::Notify(fg, "Connect to Mysql... \t\t");
 	mysql = new DATABASE(fg, (char*)db_host, (char*)db_user, (char*)db_pass, (char*)db_name);
 	if (mysql->IsError())
 		return -1;
 
 	COLOR_GL
-	log::Notify(fg, "Succesful\n");
+	lg::Notify(fg, "Succesful\n");
 
 	COLOR_RGBL
-	log::Notify(fg, "Max players... \t\t\t");
-	COLOR_GL
-	log::Notify(fg, "%d\n", max_players);
-	COLOR_RGBL
-	log::Notify(fg, "ID server... \t\t\t");
+		lg::Notify(fg, "ID server... \t\t\t");
 	if (id_server > 12)
 	{
 		COLOR_RL
-		log::Notify(fg, "Fail\n");
+		lg::Notify(fg, "Fail\n");
 		return -1;
 	}
 	else
 	{
 		COLOR_GL
-		log::Notify(fg, "%d\n", id_server);
+		lg::Notify(fg, "%d\n", id_server);
 	}
+
+	COLOR_RGBL
+	lg::Notify(fg, "Max players... \t\t\t");
+	COLOR_GL
+	lg::Notify(fg, "%d\n", max_players);
 
 	allplayers = new ALL_PLAYERS[max_players];
 	for (int i = 0; i < max_players; i++)
 	{
 		allplayers[i].status = false;
 		allplayers[i].socket = NULL;
+		allplayers[i].pck = NULL;
 	}
 
 	///////////////////////////////////////////////////////////////
 	// Загрузка информации для сервера
 	///////////////////////////////////////////////////////////////
+	int nummobsload = 0;
+	int nummobs = mysql->GetNumMobs();
+	COLOR_RGBL
+	lg::Notify(fg, "Spawn data... \t\t\t");
+	if (nummobs == 0)
+	{
+		COLOR_RL
+		lg::Notify(fg, "Empty\n");
+	}
+	else
+	{
+		COLOR_GL
+		mobs = new MOB[nummobs];
+		nummobsload = mysql->GetMobs(mobs);
+		for (int i = 0; i < nummobsload; i++)
+		{
+			memset(mobs[i].accounts_show, 0, max_players);
+//			mobs[i].account_show = malloc(max_players + 1);
+//			memset(mobs[i].account_show, 0, max_players + 1);
+		}
+		lg::Notify(fg, "%d\n", nummobsload);
+	}
 
-
+//--------------------------------------------------------------------------------------------------------------------------
 	// Запуск основной нити сервера
-	server = new AI(fg, mysql, allplayers, max_players);
+	server = new AI(fg, mysql, allplayers, mobs, max_players, nummobsload);
 	CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)AIMainThread, server, NULL, NULL);
-
+//--------------------------------------------------------------------------------------------------------------------------
 	// Запуск слежения за состояниями соединений игроков
 	CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)WinSockPing, allplayers, NULL, NULL);
 //--------------------------------------------------------------------------------------------------------------------------
 	COLOR_GL
-	log::Notify(fg, "\nServer is running. (%s:%d)\n", gameserver_ip, gameserver_port);
+	lg::Notify(fg, "\nServer is running. (%s:%d)\n", gameserver_ip, gameserver_port);
 	COLOR_RGBL
 //--------------------------------------------------------------------------------------------------------------------------
 
@@ -338,11 +356,11 @@ int _tmain(int argc, _TCHAR* argv[])
 	setsockopt(s, SOL_SOCKET, SO_REUSEADDR, &on, sizeof(on));
 	err = ioctlsocket(s, FIONBIO, &iMode);
 
-	sin.sin_family = AF_INET;
-	sin.sin_port = htons(gameserver_port);
-	sin.sin_addr.s_addr = inet_addr(gameserver_ip);
+	si.sin_family = AF_INET;
+	si.sin_port = htons(gameserver_port);
+	si.sin_addr.s_addr = inet_addr(gameserver_ip);
 
-	err = bind(s, (LPSOCKADDR)&sin, sizeof(sin));
+	err = bind(s, (LPSOCKADDR)&si, sizeof(si));
 	err = listen(s, SOMAXCONN);
 	
 	// Запуск внутреннего обмена

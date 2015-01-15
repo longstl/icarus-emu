@@ -8,7 +8,6 @@
 inline void SM_UNK16(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(0x41180000);
 	pck->PackSend(OPCODE_SM_UNK16);

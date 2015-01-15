@@ -7,7 +7,6 @@
 
 inline void CM_CHARACTER_STYLE(PACKET* pck)
 {
-	int16 unk1 = pck->readW();
 	int32 unk2 = pck->readD();
 	SM_CHARACTER_STYLE(pck);
 }

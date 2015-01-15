@@ -10,7 +10,14 @@ void SM_PIN(PACKET* pck, int character_id, bool succesful)
 	++account->pin_erros;
 	pck->sql->UpdatePinCode(account->account_id, account->pin_erros);
 	pck->CreateBufForSend();
-	pck->writeD(0x52);
+	pck->writeD(0);
+	if (account->status == STATUS_DELETE_CHARACTER)
+		pck->writeB(1);
+	else
+		pck->writeB(0);
+	pck->writeB(2);
+	pck->writeD(0);
+/*	pck->writeD(0x52);
 	pck->writeB(1);
 	pck->writeB(2);
 	pck->writeW(0);
@@ -20,13 +27,17 @@ void SM_PIN(PACKET* pck, int character_id, bool succesful)
 	pck->writeW(0);
 	pck->writeB(1);
 	pck->writeB(0);
-	pck->writeD(character_id);
+	pck->writeD(character_id);*/
 	pck->PackSend(OPCODE_SM_PIN);
 }
 
 /*
 // pin ¬á¬â¬Ú¬ß¬ñ¬ä
-0e00050500000000000001020000
+0500 0000
+00000000
+01
+02
+00000000         ............
 
 // ¬à¬ê¬Ú¬Ò¬Ü¬Ñ ¬á¬â¬Ú ¬Ó¬Ó¬à¬Õ¬Ö pin
 0e00

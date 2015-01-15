@@ -7,7 +7,7 @@
 
 void CM_RESTORE_CONNECTION(PACKET* pck)
 {
-	uint32 account_id = pck->readD(); // 1356e2
+	uint32 character_id = pck->readD(); // 1356e2
 	uint32 unk3 = pck->readD(); // 30
 	uint32 unk4 = pck->readD(); // 6eddc0b0
 	uint32 unk5 = pck->readD(); // d8

@@ -7,14 +7,12 @@
 
 inline void CM_UNK11(PACKET* pck)
 {
-	int16 unk1 = pck->readW();
 	int8 unk2 = pck->readB();
-	SM_UNK17(pck);
-	SM_ENTER_WORLD(pck);
+	SM_QUEST_MAP_POINT(pck);
+	SM_CHARACTER_STATS(pck);
 	SM_UNK20(pck);
 	SM_UNK21(pck);
-	SM_UNK40(pck);
-
+	pck->me->ingame = true;
 }
 
 /*

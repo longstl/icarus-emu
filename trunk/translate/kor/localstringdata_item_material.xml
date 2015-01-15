@@ -1,0 +1,613 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="MA_1_0001_Name" korean="l­¬¹ " />
+	<block key="MA_1_1001_Name" korean="l­¬¹ " />
+	<block key="MA_1_1002_Name" korean="l­¬¹ " />
+	<block key="MA_1_0002_Name" korean=" Ì " />
+	<block key="MA_1_2001_Name" korean=" Ì " />
+	<block key="MA_1_2002_Name" korean=" Ì " />
+	<block key="MA_1_0003_Name" korean="ø»¤Â´¹ " />
+	<block key="MA_1_3001_Name" korean="ø»¤Â´¹ " />
+	<block key="MA_1_3002_Name" korean="ø»¤Â´¹ " />
+	<block key="MA_1_0004_Name" korean=",Ò„·¬¹ÀÆ " />
+	<block key="MA_1_0005_Name" korean="DÅä²Ì¹ðÒÀÆ " />
+	<block key="MA_1_0006_Name" korean="Ü´|·à¬È²ÀÆ " />
+	<block key="MA_2_0001_Name" korean="@Ç " />
+	<block key="MA_2_1001_Name" korean="@Ç" />
+	<block key="MA_2_0002_Name" korean="® " />
+	<block key="MA_2_2001_Name" korean="®" />
+	<block key="MA_2_0003_Name" korean="ÇÂÈ " />
+	<block key="MA_2_3001_Name" korean="8Áõ¬´ " />
+	<block key="MA_2_0004_Name" korean="¬ÀÓtÇ´Å " />
+	<block key="MA_2_0005_Name" korean="ÐÅTº„·Ü´ " />
+	<block key="MA_2_0006_Name" korean="ä²tÇDÅ¬ºÜ´ " />
+	<block key="MA_3_0001_Name" korean="ìÓ¬¹(Æ " />
+	<block key="MA_3_0002_Name" korean="8ÁtÇÀÉ " />
+	<block key="MA_3_0003_Name" korean="´Ìt¹Ó " />
+	<block key="MA_3_0004_Name" korean="àÏt¹ " />
+	<block key="MA_3_0005_Name" korean="LÑ¬¹8» " />
+	<block key="MA_3_0006_Name" korean="è¸äÀxÇ " />
+	<block key="MA_4_0001_Name" korean="p¬\Î " />
+	<block key="MA_4_1001_Name" korean="p¬\Î " />
+	<block key="MA_4_0002_Name" korean="‡Å@Ç " />
+	<block key="MA_4_2001_Name" korean="‡Å@Ç " />
+	<block key="MA_4_0003_Name" korean="P´¼®´Æ " />
+	<block key="MA_4_3001_Name" korean="P´¼®´Æ " />
+	<block key="MA_4_0004_Name" korean="€½Ü´ì·´Æ " />
+	<block key="MA_4_0005_Name" korean="­ÝÐ˜°”² " />
+	<block key="MA_4_0006_Name" korean="[¾˜°”² " />
+	<block key="MA_5_0001_Name" korean="ÈÉ4® " />
+	<block key="MA_5_0002_Name" korean="ÉÓ”¼\Õ " />
+	<block key="MA_5_0003_Name" korean="ÄÊC®\Õ " />
+	<block key="MA_5_0004_Name" korean="ô²1¼\Õ " />
+	<block key="MA_5_0005_Name" korean="ðÅ\Õ " />
+	<block key="MA_5_0006_Name" korean="€½Ü´ì·´Æ " />
+	<block key="MA_6_0001_Name" korean="ø»}Å\Õ " />
+	<block key="MA_6_1001_Name" korean="ø»}Å\Õ " />
+	<block key="MA_6_0002_Name" korean="}Å\Õ " />
+	<block key="MA_6_2001_Name" korean="}Å\Õ " />
+	<block key="MA_6_0003_Name" korean="ÉÓ”¼\Õ " />
+	<block key="MA_6_3001_Name" korean="ÉÓ”¼\Õ " />
+	<block key="MA_6_0004_Name" korean="¬\Õ " />
+	<block key="MA_6_0005_Name" korean="[¾˜°”² " />
+	<block key="MA_6_0006_Name" korean=",Ì€·\Õ " />
+	<block key="MA_7_1101_Name" korean="1" />
+	<block key="MA_7_1102_Name" korean="2" />
+	<block key="MA_7_1103_Name" korean="3" />
+	<block key="MA_7_1104_Name" korean="4" />
+	<block key="MA_7_1105_Name" korean="5" />
+	<block key="MA_7_1106_Name" korean="6" />
+	<block key="MA_7_1201_Name" korean="XÕ	® " />
+	<block key="MA_7_1202_Name" korean="É	® " />
+	<block key="MA_7_1203_Name" korean="ÁÀ	® " />
+	<block key="MA_7_2101_Name" korean="1" />
+	<block key="MA_7_2102_Name" korean="2" />
+	<block key="MA_7_2103_Name" korean="3" />
+	<block key="MA_7_2104_Name" korean="4" />
+	<block key="MA_7_2105_Name" korean="5" />
+	<block key="MA_7_2106_Name" korean="6" />
+	<block key="MA_7_2201_Name" korean="XÕ	® " />
+	<block key="MA_7_2202_Name" korean="É	® " />
+	<block key="MA_7_2203_Name" korean="ÁÀ	® " />
+	<block key="MA_7_3101_Name" korean="1" />
+	<block key="MA_7_3102_Name" korean="2" />
+	<block key="MA_7_3103_Name" korean="3" />
+	<block key="MA_7_3104_Name" korean="4" />
+	<block key="MA_7_3105_Name" korean="5" />
+	<block key="MA_7_3106_Name" korean="6" />
+	<block key="MA_7_3201_Name" korean="XÕ	® " />
+	<block key="MA_7_3202_Name" korean="É	® " />
+	<block key="MA_7_3203_Name" korean="ÁÀ	® " />
+	<block key="MA_7_4101_Name" korean="1" />
+	<block key="MA_7_4102_Name" korean="2" />
+	<block key="MA_7_4103_Name" korean="3" />
+	<block key="MA_7_4104_Name" korean="4" />
+	<block key="MA_7_4105_Name" korean="5" />
+	<block key="MA_7_4106_Name" korean="6" />
+	<block key="MA_7_4201_Name" korean="XÕ	® " />
+	<block key="MA_7_4202_Name" korean="É	® " />
+	<block key="MA_7_4203_Name" korean="ÁÀ	® " />
+	<block key="MA_7_5101_Name" korean="1" />
+	<block key="MA_7_5102_Name" korean="2" />
+	<block key="MA_7_5103_Name" korean="3" />
+	<block key="MA_7_5104_Name" korean="4" />
+	<block key="MA_7_5105_Name" korean="5" />
+	<block key="MA_7_5106_Name" korean="6" />
+	<block key="MA_7_5201_Name" korean="XÕ	® " />
+	<block key="MA_7_5202_Name" korean="É	® " />
+	<block key="MA_7_5203_Name" korean="ÁÀ	® " />
+	<block key="MA_7_6111_Name" korean="1" />
+	<block key="MA_7_6112_Name" korean="2" />
+	<block key="MA_7_6113_Name" korean="3" />
+	<block key="MA_7_6114_Name" korean="4" />
+	<block key="MA_7_6115_Name" korean="5" />
+	<block key="MA_7_6116_Name" korean="6" />
+	<block key="MA_7_6121_Name" korean="1" />
+	<block key="MA_7_6122_Name" korean="2" />
+	<block key="MA_7_6123_Name" korean="3" />
+	<block key="MA_7_6124_Name" korean="4" />
+	<block key="MA_7_6125_Name" korean="5" />
+	<block key="MA_7_6126_Name" korean="6" />
+	<block key="MA_7_6131_Name" korean="1" />
+	<block key="MA_7_6132_Name" korean="2" />
+	<block key="MA_7_6133_Name" korean="3" />
+	<block key="MA_7_6134_Name" korean="4" />
+	<block key="MA_7_6135_Name" korean="5" />
+	<block key="MA_7_6136_Name" korean="6" />
+	<block key="MA_7_6201_Name" korean="XÕ	® " />
+	<block key="MA_7_6202_Name" korean="É	® " />
+	<block key="MA_7_6203_Name" korean="ÁÀ	® " />
+	<block key="MA_7_7101_Name" korean="1" />
+	<block key="MA_7_7102_Name" korean="2" />
+	<block key="MA_7_7103_Name" korean="3" />
+	<block key="MA_7_7104_Name" korean="4" />
+	<block key="MA_7_7105_Name" korean="5" />
+	<block key="MA_7_7106_Name" korean="6" />
+	<block key="MA_7_7201_Name" korean="XÕ	® " />
+	<block key="MA_7_7202_Name" korean="É	® " />
+	<block key="MA_7_7203_Name" korean="ÁÀ	® " />
+	<block key="MA_7_8101_Name" korean="1" />
+	<block key="MA_7_8102_Name" korean="2" />
+	<block key="MA_7_8103_Name" korean="3" />
+	<block key="MA_7_8104_Name" korean="4" />
+	<block key="MA_7_8105_Name" korean="5" />
+	<block key="MA_7_8106_Name" korean="6" />
+	<block key="MA_7_8201_Name" korean="XÕ	® " />
+	<block key="MA_7_8202_Name" korean="É	® " />
+	<block key="MA_7_8203_Name" korean="ÁÀ	® " />
+	<block key="MA_8_0001_Name" korean="\ÍXÕ	® " />
+	<block key="MA_8_0002_Name" korean="XÕ	® " />
+	<block key="MA_8_0003_Name" korean="É	® " />
+	<block key="MA_8_0004_Name" korean="ÁÀ	® " />
+	<block key="MA_8_0005_Name" korean="\ÍÁÀ	® " />
+	<block key="MA_8_0006_Name" korean="à¬	® " />
+	<block key="MA_8_1001_Name" korean="\ÍXÕ	® " />
+	<block key="MA_8_1002_Name" korean="XÕ	® " />
+	<block key="MA_8_1003_Name" korean="É	® " />
+	<block key="MA_8_1004_Name" korean="ÁÀ	® " />
+	<block key="MA_8_1005_Name" korean="\ÍÁÀ	® " />
+	<block key="MA_8_1006_Name" korean="à¬	® " />
+	<block key="MA_8_2001_Name" korean="\ÍXÕ	® " />
+	<block key="MA_8_2002_Name" korean="XÕ	® " />
+	<block key="MA_8_2003_Name" korean="É	® " />
+	<block key="MA_8_2004_Name" korean="ÁÀ	® " />
+	<block key="MA_8_2005_Name" korean="\ÍÁÀ	® " />
+	<block key="MA_8_2006_Name" korean="à¬	® " />
+	<block key="MA_8_3001_Name" korean="\ÍXÕ	® " />
+	<block key="MA_8_3002_Name" korean="XÕ	® " />
+	<block key="MA_8_3003_Name" korean="É	® " />
+	<block key="MA_8_3004_Name" korean="ÁÀ	® " />
+	<block key="MA_8_3005_Name" korean="\ÍÁÀ	® " />
+	<block key="MA_8_3006_Name" korean="à¬	® " />
+	<block key="MA_1_0001_Description" korean="<" />
+	<block key="MA_1_1001_Description" korean="<" />
+	<block key="MA_1_1002_Description" korean="<" />
+	<block key="MA_1_0002_Description" korean="<" />
+	<block key="MA_1_2001_Description" korean="<" />
+	<block key="MA_1_2002_Description" korean="<" />
+	<block key="MA_1_0003_Description" korean="<" />
+	<block key="MA_1_3001_Description" korean="<" />
+	<block key="MA_1_3002_Description" korean="<" />
+	<block key="MA_1_0004_Description" korean="<" />
+	<block key="MA_1_0005_Description" korean="<" />
+	<block key="MA_1_0006_Description" korean="<" />
+	<block key="MA_2_0001_Description" korean="<" />
+	<block key="MA_2_1001_Description" korean="<" />
+	<block key="MA_2_0002_Description" korean="<" />
+	<block key="MA_2_2001_Description" korean="<" />
+	<block key="MA_2_0003_Description" korean="<" />
+	<block key="MA_2_3001_Description" korean="<" />
+	<block key="MA_2_0004_Description" korean="<" />
+	<block key="MA_2_0005_Description" korean="<" />
+	<block key="MA_2_0006_Description" korean="<" />
+	<block key="MA_3_0001_Description" korean="<" />
+	<block key="MA_3_0002_Description" korean="<" />
+	<block key="MA_3_0003_Description" korean="<" />
+	<block key="MA_3_0004_Description" korean="<" />
+	<block key="MA_3_0005_Description" korean="<" />
+	<block key="MA_3_0006_Description" korean="<" />
+	<block key="MA_4_0001_Description" korean="<" />
+	<block key="MA_4_1001_Description" korean="<" />
+	<block key="MA_4_0002_Description" korean="<" />
+	<block key="MA_4_2001_Description" korean="<" />
+	<block key="MA_4_0003_Description" korean="<" />
+	<block key="MA_4_3001_Description" korean="<" />
+	<block key="MA_4_0004_Description" korean="<" />
+	<block key="MA_4_0005_Description" korean="<" />
+	<block key="MA_4_0006_Description" korean="<" />
+	<block key="MA_5_0001_Description" korean="<" />
+	<block key="MA_5_0002_Description" korean="<" />
+	<block key="MA_5_0003_Description" korean="<" />
+	<block key="MA_5_0004_Description" korean="<" />
+	<block key="MA_5_0005_Description" korean="<" />
+	<block key="MA_5_0006_Description" korean="<" />
+	<block key="MA_6_0001_Description" korean="<" />
+	<block key="MA_6_1001_Description" korean="<" />
+	<block key="MA_6_0002_Description" korean="<" />
+	<block key="MA_6_2001_Description" korean="<" />
+	<block key="MA_6_0003_Description" korean="<" />
+	<block key="MA_6_3001_Description" korean="<" />
+	<block key="MA_6_0004_Description" korean="<" />
+	<block key="MA_6_0005_Description" korean="<" />
+	<block key="MA_6_0006_Description" korean="<" />
+	<block key="MA_7_1101_Description" korean="<" />
+	<block key="MA_7_1102_Description" korean="<" />
+	<block key="MA_7_1103_Description" korean="<" />
+	<block key="MA_7_1104_Description" korean="<" />
+	<block key="MA_7_1105_Description" korean="<" />
+	<block key="MA_7_1106_Description" korean="<" />
+	<block key="MA_7_1201_Description" korean="<" />
+	<block key="MA_7_1202_Description" korean="<" />
+	<block key="MA_7_1203_Description" korean="<" />
+	<block key="MA_7_2101_Description" korean="<" />
+	<block key="MA_7_2102_Description" korean="<" />
+	<block key="MA_7_2103_Description" korean="<" />
+	<block key="MA_7_2104_Description" korean="<" />
+	<block key="MA_7_2105_Description" korean="<" />
+	<block key="MA_7_2106_Description" korean="<" />
+	<block key="MA_7_2201_Description" korean="<" />
+	<block key="MA_7_2202_Description" korean="<" />
+	<block key="MA_7_2203_Description" korean="<" />
+	<block key="MA_7_3101_Description" korean="<" />
+	<block key="MA_7_3102_Description" korean="<" />
+	<block key="MA_7_3103_Description" korean="<" />
+	<block key="MA_7_3104_Description" korean="<" />
+	<block key="MA_7_3105_Description" korean="<" />
+	<block key="MA_7_3106_Description" korean="<" />
+	<block key="MA_7_3201_Description" korean="<" />
+	<block key="MA_7_3202_Description" korean="<" />
+	<block key="MA_7_3203_Description" korean="<" />
+	<block key="MA_7_4101_Description" korean="<" />
+	<block key="MA_7_4102_Description" korean="<" />
+	<block key="MA_7_4103_Description" korean="<" />
+	<block key="MA_7_4104_Description" korean="<" />
+	<block key="MA_7_4105_Description" korean="<" />
+	<block key="MA_7_4106_Description" korean="<" />
+	<block key="MA_7_4201_Description" korean="<" />
+	<block key="MA_7_4202_Description" korean="<" />
+	<block key="MA_7_4203_Description" korean="<" />
+	<block key="MA_7_5101_Description" korean="<" />
+	<block key="MA_7_5102_Description" korean="<" />
+	<block key="MA_7_5103_Description" korean="<" />
+	<block key="MA_7_5104_Description" korean="<" />
+	<block key="MA_7_5105_Description" korean="<" />
+	<block key="MA_7_5106_Description" korean="<" />
+	<block key="MA_7_5201_Description" korean="<" />
+	<block key="MA_7_5202_Description" korean="<" />
+	<block key="MA_7_5203_Description" korean="<" />
+	<block key="MA_7_6111_Description" korean="<" />
+	<block key="MA_7_6112_Description" korean="<" />
+	<block key="MA_7_6113_Description" korean="<" />
+	<block key="MA_7_6114_Description" korean="<" />
+	<block key="MA_7_6115_Description" korean="<" />
+	<block key="MA_7_6116_Description" korean="<" />
+	<block key="MA_7_6121_Description" korean="<" />
+	<block key="MA_7_6122_Description" korean="<" />
+	<block key="MA_7_6123_Description" korean="<" />
+	<block key="MA_7_6124_Description" korean="<" />
+	<block key="MA_7_6125_Description" korean="<" />
+	<block key="MA_7_6126_Description" korean="<" />
+	<block key="MA_7_6131_Description" korean="<" />
+	<block key="MA_7_6132_Description" korean="<" />
+	<block key="MA_7_6133_Description" korean="<" />
+	<block key="MA_7_6134_Description" korean="<" />
+	<block key="MA_7_6135_Description" korean="<" />
+	<block key="MA_7_6136_Description" korean="<" />
+	<block key="MA_7_6201_Description" korean="<" />
+	<block key="MA_7_6202_Description" korean="<" />
+	<block key="MA_7_6203_Description" korean="<" />
+	<block key="MA_7_7101_Description" korean="<" />
+	<block key="MA_7_7102_Description" korean="<" />
+	<block key="MA_7_7103_Description" korean="<" />
+	<block key="MA_7_7104_Description" korean="<" />
+	<block key="MA_7_7105_Description" korean="<" />
+	<block key="MA_7_7106_Description" korean="<" />
+	<block key="MA_7_7201_Description" korean="<" />
+	<block key="MA_7_7202_Description" korean="<" />
+	<block key="MA_7_7203_Description" korean="<" />
+	<block key="MA_7_8101_Description" korean="<" />
+	<block key="MA_7_8102_Description" korean="<" />
+	<block key="MA_7_8103_Description" korean="<" />
+	<block key="MA_7_8104_Description" korean="<" />
+	<block key="MA_7_8105_Description" korean="<" />
+	<block key="MA_7_8106_Description" korean="<" />
+	<block key="MA_7_8201_Description" korean="<" />
+	<block key="MA_7_8202_Description" korean="<" />
+	<block key="MA_7_8203_Description" korean="<" />
+	<block key="MA_8_0001_Description" korean="<" />
+	<block key="MA_8_0002_Description" korean="<" />
+	<block key="MA_8_0003_Description" korean="<" />
+	<block key="MA_8_0004_Description" korean="<" />
+	<block key="MA_8_0005_Description" korean="<" />
+	<block key="MA_8_0006_Description" korean="<" />
+	<block key="MA_8_1001_Description" korean="<" />
+	<block key="MA_8_1002_Description" korean="<" />
+	<block key="MA_8_1003_Description" korean="<" />
+	<block key="MA_8_1004_Description" korean="<" />
+	<block key="MA_8_1005_Description" korean="<" />
+	<block key="MA_8_1006_Description" korean="<" />
+	<block key="MA_8_2001_Description" korean="<" />
+	<block key="MA_8_2002_Description" korean="<" />
+	<block key="MA_8_2003_Description" korean="<" />
+	<block key="MA_8_2004_Description" korean="<" />
+	<block key="MA_8_2005_Description" korean="<" />
+	<block key="MA_8_2006_Description" korean="<" />
+	<block key="MA_8_3001_Description" korean="<" />
+	<block key="MA_8_3002_Description" korean="<" />
+	<block key="MA_8_3003_Description" korean="<" />
+	<block key="MA_8_3004_Description" korean="<" />
+	<block key="MA_8_3005_Description" korean="<" />
+	<block key="MA_8_3006_Description" korean="<" />
+	<block key="MA_9_0001_Name" korean="ÇtÇ¸Å¸Ò " />
+	<block key="MA_9_0002_Name" korean="ˆ½C¯ " />
+	<block key="MA_9_0003_Name" korean="TÖüÅÁ" />
+	<block key="MA_9_0004_Name" korean="" />
+	<block key="MA_9_0005_Name" korean="²XÇ " />
+	<block key="MA_9_0006_Name" korean="ÖµÑÁXÇ " />
+	<block key="MA_9_0007_Name" korean="ÖµÑÁXÇ " />
+	<block key="MA_9_0008_Name" korean="ÖµÑÁXÇ " />
+	<block key="MA_9_0009_Name" korean="´Å`´XÇ " />
+	<block key="MA_9_0010_Name" korean="È¹˜²" />
+	<block key="MA_9_0011_Name" korean="(ÆœÌÂ" />
+	<block key="MA_9_0012_Name" korean="Ü´˜·ä¬ " />
+	<block key="MA_9_0013_Name" korean="Ü´˜·ä¬ " />
+	<block key="MA_10_0001_Name" korean="ÑÅÇ¬¹ÀÆ " />
+	<block key="MA_10_0001_Description" korean="<" />
+	<block key="MA_10_1001_Name" korean="ÑÅÇ¬¹ÀÆ " />
+	<block key="MA_10_1002_Name" korean="ÑÅÇ¬¹ÀÆ " />
+	<block key="MA_10_1003_Name" korean="ÑÅÇ¬¹ÀÆ " />
+	<block key="MA_10_1004_Name" korean="ÑÅÇ¬¹ÀÆ " />
+	<block key="MA_10_2001_Name" korean="<ÖÈ³XÇ " />
+	<block key="MA_10_2002_Name" korean="<ÖÈ³XÇ " />
+	<block key="MA_9_0014_Name" korean="" />
+	<block key="MA_9_0015_Name" korean="" />
+	<block key="MA_9_0016_Name" korean="|·è²XÇ " />
+	<block key="MA_9_0017_Name" korean="4»ì·ø»XÇ " />
+	<block key="MA_9_0018_Name" korean=" È¤Ð¸ÒXÇ " />
+	<block key="MA_9_0018_Description" korean="<" />
+	<block key="MA_9_0019_Name" korean="¤Â|Î¬¹(ÆXÇ " />
+	<block key="MA_9_0019_Description" korean="<" />
+	<block key="MA_9_0020_Name" korean="Á¬¹€Ô" />
+	<block key="MA_9_0021_Name" korean="ÀÐ}·\Õ " />
+	<block key="MA_9_0022_Name" korean="\ÕY¾Á" />
+	<block key="MA_9_0023_Name" korean="ÂÄ³’±@Ç " />
+	<block key="MA_9_0023_Description" korean="<" />
+	<block key="MA_9_0024_Name" korean="ˆ½ÀÐ”² " />
+	<block key="MA_9_0024_Description" korean="<" />
+	<block key="MA_9_0025_Name" korean="[¾˜°”² " />
+	<block key="MA_9_0025_Description" korean="<" />
+	<block key="MA_9_0026_Name" korean="a×ÖÀ­XÇ " />
+	<block key="MA_9_0026_Description" korean="<" />
+	<block key="MA_9_0027_Name" korean="ÈXÇXÇ " />
+	<block key="MA_9_0027_Description" korean="<" />
+	<block key="MA_9_0001_Description" korean="<" />
+	<block key="MA_9_0002_Description" korean="<" />
+	<block key="MA_9_0003_Description" korean="<" />
+	<block key="MA_9_0004_Description" korean="<" />
+	<block key="MA_9_0005_Description" korean="<" />
+	<block key="MA_9_0006_Description" korean="<" />
+	<block key="MA_9_0007_Description" korean="<" />
+	<block key="MA_9_0008_Description" korean="<" />
+	<block key="MA_9_0009_Description" korean="<" />
+	<block key="MA_9_0010_Description" korean="DÅtÇ\Ñ " />
+	<block key="MA_9_0011_Description" korean="DÅtÇ\Ñ " />
+	<block key="MA_9_0012_Description" korean="<" />
+	<block key="MA_9_0013_Description" korean="<" />
+	<block key="MA_10_1001_Description" korean="<" />
+	<block key="MA_10_1002_Description" korean="<" />
+	<block key="MA_10_1003_Description" korean="<" />
+	<block key="MA_10_1004_Description" korean="<" />
+	<block key="MA_10_2001_Description" korean="<" />
+	<block key="MA_10_2002_Description" korean="<" />
+	<block key="MA_9_0014_Description" korean="<" />
+	<block key="MA_9_0015_Description" korean="<" />
+	<block key="MA_9_0016_Description" korean="<" />
+	<block key="MA_9_0017_Description" korean="<" />
+	<block key="MA_9_0020_Description" korean=" Ó\¸°Æ|¹ " />
+	<block key="MA_9_0021_Description" korean="<" />
+	<block key="MA_9_0022_Description" korean="<" />
+	<block key="MA_9_0028_Name" korean="\Õ0®XÇ " />
+	<block key="MA_9_0029_Name" korean="°ÀÇXÇ " />
+	<block key="MA_9_0028_Description" korean="<" />
+	<block key="MA_9_0029_Description" korean="<" />
+	<block key="ma_11_0001_Name" korean=" Ó\¸°Æ " />
+	<block key="ma_11_0001_Description" korean="<" />
+	<block key="ma_10_3001_Name" korean="" />
+	<block key="ma_10_3001_Description" korean="P" />
+	<block key="ma_10_3002_Name" korean="¼Å´Å™½@Ç " />
+	<block key="ma_10_3002_Description" korean="P" />
+	<block key="MA_11_0002_Name" korean="ÑÅÇ€· " />
+	<block key="MA_11_0002_Description" korean="ÑÅÇ€· " />
+	<block key="MA_9_0030_Name" korean="p³D¾XÇ " />
+	<block key="MA_9_0031_Name" korean="tÎ¾„ÇXÇ " />
+	<block key="MA_9_0032_Name" korean="Ót¹˜°XÇ " />
+	<block key="MA_9_0033_Name" korean="´Å`´XÇ " />
+	<block key="MA_9_0034_Name" korean="ˆ½¬Àp­è²XÇ " />
+	<block key="MA_9_0030_Description" korean="<" />
+	<block key="MA_9_0031_Description" korean="<" />
+	<block key="MA_9_0032_Description" korean="<" />
+	<block key="MA_9_0033_Description" korean="<" />
+	<block key="MA_9_0034_Description" korean="<" />
+	<block key="MA_9_0035_Name" korean="Â]¸à¬0®" />
+	<block key="MA_9_0035_Description" korean="<" />
+	<block key="MA_9_0036_Name" korean="TÅQ×XÇ " />
+	<block key="MA_9_0036_Description" korean="<" />
+	<block key="MA_11_0003_name" korean="ÈÆ " />
+	<block key="MA_11_0004_name" korean="[¾˜°”² " />
+	<block key="MA_11_0005_name" korean="[¾˜°”² " />
+	<block key="MA_11_0006_name" korean="[¾˜°”² " />
+	<block key="MA_11_0003_Description" korean="<" />
+	<block key="MA_11_0004_Description" korean="<" />
+	<block key="MA_11_0005_Description" korean="<" />
+	<block key="MA_11_0006_Description" korean="<" />
+	<block key="MA_9_0037_name" korean="àÂD¾\Õ " />
+	<block key="MA_9_0038_name" korean="à¬À­\Õ " />
+	<block key="MA_9_0037_Description" korean="<" />
+	<block key="MA_9_0038_Description" korean="<" />
+	<block key="MA_9_0039_name" korean="¾è¸¤ÑXÇ " />
+	<block key="MA_9_0039_Description" korean="DÅtÇ\Ñ " />
+	<block key="MA_9_0040_name" korean="°¬Á´ " />
+	<block key="MA_9_0040_Description" korean="<" />
+	<block key="MA_9_0041_name" korean="DÅtÇäÀXÇ " />
+	<block key="MA_9_0041_Description" korean="<" />
+	<block key="MA_1_3003_name" korean="¬TÖ´ " />
+	<block key="MA_1_4001_name" korean=",Ò„·¬¹ÀÆ " />
+	<block key="MA_1_3004_name" korean="¬TÖ´ " />
+	<block key="MA_4_3002_name" korean="¬TÖ´ " />
+	<block key="MA_1_4002_name" korean=",Ò„·¬¹ÀÆ " />
+	<block key="MA_4_4001_name" korean="€½Ü´ì·´Æ " />
+	<block key="MA_2_3002_name" korean="ÈP­\Õ " />
+	<block key="MA_2_4001_name" korean="8Áõ¬´ " />
+	<block key="MA_6_3002_name" korean="±•Í´ " />
+	<block key="MA_6_4001_name" korean="¬\Õ " />
+	<block key="MA_7_1204_name" korean="[¾˜°”² " />
+	<block key="MA_7_2204_name" korean="[¾˜°”² " />
+	<block key="MA_7_3204_name" korean="[¾˜°”² " />
+	<block key="MA_7_4204_name" korean="[¾˜°”² " />
+	<block key="MA_7_5204_name" korean="[¾˜°”² " />
+	<block key="MA_7_6204_name" korean="[¾˜°”² " />
+	<block key="MA_7_7204_name" korean="[¾˜°”² " />
+	<block key="MA_7_8204_name" korean="[¾˜°”² " />
+	<block key="MA_1_3003_Description" korean="<" />
+	<block key="MA_1_4001_Description" korean="<" />
+	<block key="MA_1_3004_Description" korean="<" />
+	<block key="MA_4_3002_Description" korean="<" />
+	<block key="MA_1_4002_Description" korean="<" />
+	<block key="MA_4_4001_Description" korean="<" />
+	<block key="MA_2_3002_Description" korean="<" />
+	<block key="MA_2_4001_Description" korean="<" />
+	<block key="MA_6_3002_Description" korean="<" />
+	<block key="MA_6_4001_Description" korean="<" />
+	<block key="MA_7_1204_Description" korean="<" />
+	<block key="MA_7_2204_Description" korean="<" />
+	<block key="MA_7_3204_Description" korean="<" />
+	<block key="MA_7_4204_Description" korean="<" />
+	<block key="MA_7_5204_Description" korean="<" />
+	<block key="MA_7_6204_Description" korean="<" />
+	<block key="MA_7_7204_Description" korean="<" />
+	<block key="MA_7_8204_Description" korean="<" />
+	<block key="MA_9_0042_name" korean="õ¬íÅXÇ " />
+	<block key="MA_9_0042_Description" korean="<" />
+	<block key="MA_9_0043_name" korean=" Ó\¸°Æ " />
+	<block key="MA_9_0043_Description" korean="<" />
+	<block key="MA_9_0044_name" korean="ÈÈ´ " />
+	<block key="MA_9_0044_Description" korean="<" />
+	<block key="MA_9_0045_name" korean="	½xÇ´ " />
+	<block key="MA_9_0045_Description" korean="<" />
+	<block key="MA_9_0046_name" korean="õ¬ÈÕXÇ " />
+	<block key="MA_9_0046_Description" korean="<" />
+	<block key="MA_9_0047_Name" korean="DÅ¼t¹$±XÇ " />
+	<block key="MA_9_0047_Description" korean="<" />
+	<block key="MA_9_0048_name" korean="È$Á " />
+	<block key="MA_9_0048_Description" korean="<" />
+	<block key="MA_9_0049_name" korean="È$Á " />
+	<block key="MA_9_0049_Description" korean="<" />
+	<block key="MA_9_0050_name" korean="È$Á " />
+	<block key="MA_9_0050_Description" korean="<" />
+	<block key="MA_9_0051_name" korean="TÖüÅXÇ " />
+	<block key="MA_9_0051_Description" korean="<" />
+	<block key="MA_9_0052_name" korean="tÎ|¹¸YÅXÇ " />
+	<block key="MA_9_0052_Description" korean="<" />
+	<block key="MA_9_0053_name" korean="°ÀôÒXÇ " />
+	<block key="MA_9_0053_Description" korean="<" />
+	<block key="MA_9_0054_name" korean="ÁÀ	® " />
+	<block key="MA_9_0054_Description" korean="ÆÅÆ " />
+	<block key="MA_9_0055_name" korean="ÁÀ	® " />
+	<block key="MA_9_0055_Description" korean="ÆÅÆ " />
+	<block key="MA_9_0056_name" korean="xÇ¥ÇXÇ " />
+	<block key="MA_9_0056_Description" korean="<" />
+	<block key="MA_9_0057_name" korean=" ÁÄ³ÇXÇ " />
+	<block key="MA_9_0057_Description" korean="<" />
+	<block key="MA_9_0058_name" korean="QÇà¬È" />
+	<block key="MA_9_0058_Description" korean="<" />
+	<block key="MA_10_3003_name" korean="Tº¬LÑ¤Â " />
+	<block key="MA_10_3003_Description" korean="<" />
+	<block key="MA_10_3004_name" korean="Tº¬LÑ¤Â " />
+	<block key="MA_10_3004_Description" korean="<" />
+	<block key="MA_10_3005_name" korean="¼tÇ¸ " />
+	<block key="MA_10_3005_Description" korean="<" />
+	<block key="MA_10_3006_name" korean="¼tÇ¸ " />
+	<block key="MA_10_3006_Description" korean="<" />
+	<block key="MA_10_3007_name" korean="ÓtÇè¸Ü´ " />
+	<block key="MA_10_3007_Description" korean="<" />
+	<block key="MA_10_3008_name" korean="ÓtÇè¸Ü´ " />
+	<block key="MA_10_3008_Description" korean="<" />
+	<block key="MA_9_0059_name" korean="iÖ<ÖXÇ " />
+	<block key="MA_9_0059_Description" korean="<" />
+	<block key="MA_9_0060_name" korean="´Å`´XÇ " />
+	<block key="MA_9_0060_Description" korean="<" />
+	<block key="MA_10_1005_Name" korean="" />
+	<block key="MA_10_1005_Description" korean="<" />
+	<block key="MA_10_1006_Name" korean="" />
+	<block key="MA_10_1006_Description" korean="<" />
+	<block key="MA_10_1007_Name" korean="" />
+	<block key="MA_10_1007_Description" korean="<" />
+	<block key="MA_10_1008_Name" korean="" />
+	<block key="MA_10_1008_Description" korean="<" />
+	<block key="MA_10_1009_Name" korean="" />
+	<block key="MA_10_1009_Description" korean="<" />
+	<block key="MA_9_0063_Name" korean="iÖ® " />
+	<block key="MA_9_0063_Description" korean="<" />
+	<block key="MA_9_0064_Name" korean="¼PÉXÇ " />
+	<block key="MA_9_0064_Description" korean="<" />
+	<block key="MA_9_0065_Name" korean="OÕ[¾XÇ " />
+	<block key="MA_9_0065_Description" korean="<" />
+	<block key="MA_9_0066_Name" korean=")Ó,Ò|·XÇ " />
+	<block key="MA_9_0066_Description" korean="<" />
+	<block key="MA_9_0067_Name" korean="¼ÀÉÀXÇ " />
+	<block key="MA_9_0067_Description" korean="<" />
+	<block key="MA_9_0068_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="MA_9_0068_Description" korean="<" />
+	<block key="MA_9_0069_Name" korean="<Õ”ÆXÇ " />
+	<block key="MA_9_0069_Description" korean="<" />
+	<block key="MA_9_0070_Name" korean="PÉà¬0®" />
+	<block key="MA_9_0070_Description" korean="<" />
+	<block key="MA_9_0071_Name" korean="‰½@Ç " />
+	<block key="MA_9_0071_Description" korean="<" />
+	<block key="MA_9_0072_Name" korean="è¸ÜÂ|Ó¸ÒXÇ " />
+	<block key="MA_9_0072_Description" korean="<" />
+	<block key="MA_9_0073_Name" korean="YÕ´ÀXÇ " />
+	<block key="MA_9_0073_Description" korean="<" />
+	<block key="MA_9_0074_Name" korean="ÓxºXÇ " />
+	<block key="MA_9_0074_Description" korean="<" />
+	<block key="MA_9_0075_Name" korean="ÌÀÜ´ÜÆ " />
+	<block key="MA_9_0075_Description" korean="<" />
+	<block key="MA_9_0076_Name" korean="¬ÀÉ¹ " />
+	<block key="MA_9_0076_Description" korean="<" />
+	<block key="MA_9_0077_Name" korean="ø­¬¹ðÓXÇ " />
+	<block key="MA_9_0077_Description" korean="<" />
+	<block key="MA_9_0078_Name" korean="|·àÏXÇ " />
+	<block key="MA_9_0078_Description" korean="<" />
+	<block key="MA_9_0079_Name" korean="gºü³ÀÉXÇ " />
+	<block key="MA_9_0079_Description" korean="<" />
+	<block key="MA_9_0080_Name" korean="¬ÀÉ¹ " />
+	<block key="MA_9_0080_Description" korean="<" />
+	<block key="MA_1_5001_Name" korean="DÅä²Ì¹ðÒÀÆ " />
+	<block key="MA_1_5002_Name" korean="¬TÖ´ " />
+	<block key="MA_1_5003_Name" korean="DÅä²Ì¹ðÒÀÆ " />
+	<block key="MA_1_5004_Name" korean="¬TÖ´ " />
+	<block key="MA_2_5001_Name" korean="8Áõ¬´ " />
+	<block key="MA_2_5002_Name" korean="ÈP­\Õ " />
+	<block key="MA_4_5001_Name" korean="­ÝÐ˜°”² " />
+	<block key="MA_4_5002_Name" korean="¬TÖ´ " />
+	<block key="MA_6_5001_Name" korean="[¾˜°”² " />
+	<block key="MA_9_0061_Name" korean="TÅQ×XÇ " />
+	<block key="MA_9_0062_Name" korean="$ÆDÅÜÂ¤ÂXÇ " />
+	<block key="MA_9_0081_Name" korean="XÕ€Å " />
+	<block key="MA_9_0082_Name" korean="ôÅ0®XÇ " />
+	<block key="MA_9_0083_Name" korean="Óx±¤ÂXÇ " />
+	<block key="MA_9_0081_Description" korean="<" />
+	<block key="MA_9_0082_Description" korean="<" />
+	<block key="MA_9_0083_Description" korean="<" />
+	<block key="MA_1_5001_Description" korean="<" />
+	<block key="MA_1_5002_Description" korean="<" />
+	<block key="MA_1_5003_Description" korean="<" />
+	<block key="MA_1_5004_Description" korean="<" />
+	<block key="MA_2_5001_Description" korean="<" />
+	<block key="MA_2_5002_Description" korean="<" />
+	<block key="MA_4_5001_Description" korean="<" />
+	<block key="MA_4_5002_Description" korean="<" />
+	<block key="MA_6_5001_Description" korean="<" />
+	<block key="MA_9_0061_Description" korean="<" />
+	<block key="MA_9_0062_Description" korean="<" />
+	<block key="MA_7_7107_Name" korean="ô¼Á " />
+	<block key="MA_7_7107_Description" korean="<" />
+	<block key="MA_10_1010_Name" korean="Ý¹ÇXÇ " />
+	<block key="MA_10_1010_Description" korean="<" />
+	<block key="MA_10_1011_Name" korean="l­Á´ " />
+	<block key="MA_10_1011_Description" korean="<" />
+	<block key="MA_10_2003_Name" korean="Ý¹9¸XÇ " />
+	<block key="MA_10_2003_Description" korean="<" />
+	<block key="MA_10_2004_Name" korean="Ý¹9¸XÇ " />
+	<block key="MA_10_2004_Description" korean="<" />
+	<block key="MA_10_1012_Name" korean="l­Á´ " />
+	<block key="MA_10_1012_Description" korean="<" />
+	<block key="MA_10_1013_Name" korean="l­Á´ " />
+	<block key="MA_10_1013_Description" korean="<" />
+</blocks>

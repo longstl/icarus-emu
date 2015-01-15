@@ -1,0 +1,55 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="actionlist_normal_Attack_title" korean="General offensive" />
+	<block key="actionlist_normal_Attack_desc" korean="The attack on the specified destination." />
+	<block key="actionlist_normal_Looting_title" korean="Picking up items" />
+	<block key="actionlist_normal_Looting_desc" korean="Target is to pick up a dropped item." />
+	<block key="actionlist_normal_BattleOrNoBattle_title" korean="Combat / General Conversion" />
+	<block key="actionlist_normal_BattleOrNoBattle_desc" korean="Trigger a combat character / causes release." />
+	<block key="actionlist_normal_WalkOrRun_title" korean="Walk / Run switch" />
+	<block key="actionlist_normal_WalkOrRun_desc" korean="Walking the character / to switch to the run state." />
+	<block key="actionlist_community_InviteToParty_title" korean="Party Invitation / Participation" />
+	<block key="actionlist_community_InviteToParty_desc" korean="Invite the other party, or to apply for participation in the opponent's party." />
+	<block key="actionlist_community_RequestBattle_title" korean="Duel with us" />
+	<block key="actionlist_community_RequestBattle_desc" korean="Apply for a duel to the other party." />
+	<block key="actionlist_community_RequestTrade_title" korean="1:01 dealings with us" />
+	<block key="actionlist_community_RequestTrade_desc" korean="The other party to a 1: 1 to apply for a deal." />
+	<block key="actionlist_skill_Taming_title" korean="Taming" />
+	<block key="actionlist_skill_Taming_desc" korean="The Taming of the conditions that can tame the selected destination. If you go into hiding in the back of a tame state more than a certain distance of a selected target approach begins to tame. Get caught on targets or, if you cancel the target selection is tame state is released." />
+	<block key="actionlist_skill_Absorption_title" korean="Drain Soul" />
+	<block key="actionlist_skill_Absorption_desc" korean="To absorb the souls of the selected target. Or learn the specialized nature of the soul absorbed the soul, the soul can be made by changing the younghonseok." />
+	<block key="actionlist_emotion_0_title" korean="Victory" />
+	<block key="actionlist_emotion_0_desc" korean="Operation delighted to win the battle. / Win" />
+	<block key="actionlist_emotion_1_title" korean="Defeat" />
+	<block key="actionlist_emotion_1_desc" korean="Operation of mourning defeated in battle. / Loss" />
+	<block key="actionlist_emotion_2_title" korean="Confession" />
+	<block key="actionlist_emotion_2_desc" korean="Operation to confess his love for the other. / Confession" />
+	<block key="actionlist_emotion_3_title" korean="Surprise" />
+	<block key="actionlist_emotion_3_desc" korean="Startling behavior. / Surprise" />
+	<block key="actionlist_emotion_4_title" korean="Charge" />
+	<block key="actionlist_emotion_4_desc" korean="Prompting action vigorously advancing forward. / Assault" />
+	<block key="actionlist_emotion_5_title" korean="Laugh" />
+	<block key="actionlist_emotion_5_desc" korean="CHORUS smiling behavior. / Funny" />
+	<block key="actionlist_emotion_6_title" korean="Cheer" />
+	<block key="actionlist_emotion_6_desc" korean="Moving large body movement to support the other. / Support" />
+	<block key="actionlist_emotion_7_title" korean="Refusal" />
+	<block key="actionlist_emotion_7_desc" korean="Action to reject the other's words. / Rejection" />
+	<block key="actionlist_emotion_8_title" korean="Applause" />
+	<block key="actionlist_emotion_8_desc" korean="Beating the applause operation to compliment the other. / Applause" />
+	<block key="actionlist_emotion_9_title" korean="Affirmation" />
+	<block key="actionlist_emotion_9_desc" korean="While nodding motion to agree on the other side of the horse. / Positive" />
+	<block key="actionlist_normal_Change2Magicstone_title" korean="Younghonseok conversion" />
+	<block key="actionlist_normal_Change2Magicstone_desc" korean="Convert the soul of a fellow with younghonseok. After younghonseok convert the fellow will disappear." />
+	<block key="actionlist_normal_CreatureRide_title" korean="Fellow board (U)" />
+	<block key="actionlist_normal_CreatureRide_desc" korean="Fellows who are summoned aboard. \u003cbr\u003e (F) key can open a Fellow Pane. Clicking \u003cbr\u003e Fellow face can be summoned / summons release" />
+	<block key="actionlist_normal_swapweapon_title" korean="Weapons Replacement" />
+	<block key="actionlist_normal_swapweapon_desc" korean="Replace worn that weapon." />
+	<block key="actionlist_normal_SitOrStand_title" korean="Sit / stand up" />
+	<block key="actionlist_normal_SitOrStand_desc" korean="Sitting character / Japanese state to switch to the clerk. \u003cbr\u003e Sitting state In more than usual HP / MP recovery is faster." />
+</blocks>

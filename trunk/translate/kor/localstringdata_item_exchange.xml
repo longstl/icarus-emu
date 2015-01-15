@@ -1,0 +1,372 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EX_0_0000_Name" korean="|·tÇx±XÇ " />
+	<block key="EX_0_0000_description" korean="€½ì·ÄÉ " />
+	<block key="EX_0_0001_Name" korean="|·tÇx±XÇ " />
+	<block key="EX_0_0001_description" korean="€½ÁÄÉ " />
+	<block key="EX_0_0002_Name" korean="¼ÅLÇXÇ " />
+	<block key="EX_0_0002_description" korean="äÎä²€· " />
+	<block key="EX_0_0003_Name" korean="TÖüÅXÇ " />
+	<block key="EX_0_0003_description" korean="<»ÈÉTÖ´ " />
+	<block key="EX_0_0004_Name" korean="È9¸XÇ " />
+	<block key="EX_0_0004_description" korean="È9¸ä´tÇ " />
+	<block key="EX_0_0005_Name" korean="È9¸XÇ " />
+	<block key="EX_0_0005_description" korean="È9¸ä´tÇ " />
+	<block key="EX_0_0006_Name" korean="pÈ¬œ° " />
+	<block key="EX_0_0006_description" korean="pÈ¬tÇœ° " />
+	<block key="EX_0_0007_Name" korean="‘²" />
+	<block key="EX_0_0007_description" korean="‘²" />
+	<block key="EX_0_0008_Name" korean="±\³±\³\Õ " />
+	<block key="EX_0_0008_description" korean="±\³±\³tÕÄÉ " />
+	<block key="EX_0_0009_Name" korean="gºü³ÀÉ " />
+	<block key="EX_0_0009_description" korean="gºü³ÀÉXÇ " />
+	<block key="EX_0_0010_Name" korean="¾|·0® " />
+	<block key="EX_0_0010_description" korean="¾|·0® " />
+	<block key="EX_0_0011_Name" korean="tÇ " />
+	<block key="EX_0_0011_description" korean="tÇ" />
+	<block key="EX_0_0012_Name" korean="tÇ " />
+	<block key="EX_0_0012_description" korean="tÇ" />
+	<block key="EX_0_0013_Name" korean="€½ì·ÄÉ " />
+	<block key="EX_0_0013_description" korean="P´ " />
+	<block key="EX_0_0014_Name" korean="Ý¹" />
+	<block key="EX_0_0014_description" korean="	ÍtÇ " />
+	<block key="EX_0_0015_Name" korean="TÖüÅ " />
+	<block key="EX_0_0015_description" korean="TÖüÅ " />
+	<block key="EX_0_0016_Name" korean="TÖüÅXÇ " />
+	<block key="EX_0_0016_description" korean="TÖüÅ " />
+	<block key="EX_0_0017_Name" korean=""Ì¨¬ÄÉ " />
+	<block key="EX_0_0017_description" korean=""Ì¨¬ÄÉ " />
+	<block key="EX_0_0018_Name" korean="ð¬XÇ " />
+	<block key="EX_0_0018_description" korean="ð¬XÇ " />
+	<block key="EX_0_0019_Name" korean="ˆ½ÀÐ$Æt¹”² " />
+	<block key="EX_0_0019_description" korean="ˆ½ÐÅ " />
+	<block key="EX_0_0020_Name" korean="$ÁxÇXÇ " />
+	<block key="EX_0_0020_description" korean="$ÁxÇXÇ " />
+	<block key="EX_0_0021_Name" korean="$ÁxÇ " />
+	<block key="EX_0_0021_description" korean="ÈÀXÕ€Å " />
+	<block key="EX_0_0022_Name" korean="üÈ Â¬ÀXÇ " />
+	<block key="EX_0_0022_description" korean="üÈ Â¬À" />
+	<block key="EX_0_0023_Name" korean="$ÁxÇ " />
+	<block key="EX_0_0023_description" korean="$ÁxÇ " />
+	<block key="EX_0_0024_Name" korean="²ô¼|· " />
+	<block key="EX_0_0024_description" korean="(Ì" />
+	<block key="EX_0_0025_Name" korean="¼Å´Å™½@Ç " />
+	<block key="EX_0_0025_description" korean="(Ì¬Œ¬ " />
+	<block key="EX_0_0026_Name" korean="¼Å´Å™½@Ç " />
+	<block key="EX_0_0026_description" korean="(Ì¬Œ¬ " />
+	<block key="EX_0_0027_Name" korean="¼ÅLÇ " />
+	<block key="EX_0_0027_description" korean="(Ì¬Œ¬ " />
+	<block key="EX_0_0028_Name" korean="¼Å´Å™½@Ç " />
+	<block key="EX_0_0028_description" korean="(Ì¬Œ¬ " />
+	<block key="EX_0_0029_Name" korean="¬0®8Ñ" />
+	<block key="EX_0_0029_description" korean="gºü³ÀÉXÇ " />
+	<block key="EX_0_0030_Name" korean="p¬\Î " />
+	<block key="EX_0_0030_description" korean="gºü³ÀÉXÇ " />
+	<block key="EX_0_0031_Name" korean=" °tÎ\¸´Æ " />
+	<block key="EX_0_0031_description" korean="Æ¬¹hÕtÇ " />
+	<block key="EX_0_0032_Name" korean="¡°@Ç " />
+	<block key="EX_0_0032_description" korean="ÁÀù²ˆ× " />
+	<block key="EX_0_0033_Name" korean="²T³0® " />
+	<block key="EX_0_0033_description" korean="$Æ˜· " />
+	<block key="EX_0_0034_Name" korean="‘²" />
+	<block key="EX_0_0034_description" korean="‘²" />
+	<block key="EX_0_0035_Name" korean="‘²" />
+	<block key="EX_0_0035_description" korean="‘²" />
+	<block key="EX_0_0036_Name" korean="‘²" />
+	<block key="EX_0_0036_description" korean="‘²" />
+	<block key="EX_0_0037_Name" korean="è²è²\Õ " />
+	<block key="EX_0_0037_description" korean="è²è²tÕ " />
+	<block key="EX_0_0038_Name" korean="gºü³ÀÉ " />
+	<block key="EX_0_0038_description" korean="gºü³ÀÉXÇ " />
+	<block key="EX_0_0039_Name" korean="gºü³ÀÉ " />
+	<block key="EX_0_0039_description" korean="gºü³ÀÉXÇ " />
+	<block key="EX_0_0040_Name" korean="Œ¼©º©Æ " />
+	<block key="EX_0_0040_description" korean="Œ¼©º`Õ " />
+	<block key="EX_0_0041_Name" korean="Œ¼©º©Æ " />
+	<block key="EX_0_0041_description" korean="ðÄì·ÄÉ " />
+	<block key="EX_0_0042_Name" korean="€½ÁÄÉ " />
+	<block key="EX_0_0042_description" korean="€½Á8È„¼°¹ " />
+	<block key="EX_0_0043_Name" korean="€½ÁÄÉ " />
+	<block key="EX_0_0043_description" korean="€½Á8È„¼°¹ " />
+	<block key="EX_0_0044_Name" korean="€½ÁÄÉ " />
+	<block key="EX_0_0044_description" korean="€½Á8È„¼°¹ " />
+	<block key="EX_0_0045_Name" korean="¾|·0® " />
+	<block key="EX_0_0045_description" korean="¾|·0® " />
+	<block key="EX_0_0046_Name" korean="¾|·0® " />
+	<block key="EX_0_0046_description" korean="¾|·0® " />
+	<block key="EX_0_0047_Name" korean="¾|·0® " />
+	<block key="EX_0_0047_description" korean="¾|·0® " />
+	<block key="EX_0_0048_Name" korean="”ÆÈXÇ " />
+	<block key="EX_0_0048_description" korean="”ÆÈXÇ " />
+	<block key="EX_0_0049_Name" korean="ìÅ°Æ " />
+	<block key="EX_0_0049_description" korean="ìÅ°ÆXÇ " />
+	<block key="EX_0_0050_Name" korean="‘Ç@Ç " />
+	<block key="EX_0_0050_description" korean="ÁÀù²ˆ× " />
+	<block key="EX_0_0051_Name" korean="¡ÇÍ" />
+	<block key="EX_0_0051_description" korean="´ÅµÐÅÁ˜° " />
+	<block key="EX_0_0052_Name" korean=",Ò…º\Õ " />
+	<block key="EX_0_0052_description" korean="¤´" />
+	<block key="EX_0_0053_Name" korean="a×­Í " />
+	<block key="EX_0_0053_description" korean="ÝÂxÇÝÂ<» " />
+	<block key="EX_0_0054_Name" korean="l×ø»\Õ " />
+	<block key="EX_0_0054_description" korean="l×ø»\Õ " />
+	<block key="EX_0_0055_Name" korean="¾|·0® " />
+	<block key="EX_0_0055_description" korean="¾|·0® " />
+	<block key="EX_0_0056_Name" korean="¡°@Ç " />
+	<block key="EX_0_0056_description" korean="ÁÀù²ˆ× " />
+	<block key="EX_0_0057_Name" korean="ìÅ°Æ " />
+	<block key="EX_0_0057_description" korean="ìÅ°ÆXÇ " />
+	<block key="EX_0_0058_Name" korean="ø­DÇ°¹ " />
+	<block key="EX_0_0058_description" korean="p­p³p­p³ " />
+	<block key="EX_0_0059_Name" korean="ø­DÇ°¹ " />
+	<block key="EX_0_0059_description" korean="¡°@Ç " />
+	<block key="EX_0_0060_Name" korean=" Ç9¸XÇ " />
+	<block key="EX_0_0060_description" korean="$Æœ· " />
+	<block key="EX_0_0061_Name" korean="ˆ½ÐÅ " />
+	<block key="EX_0_0061_description" korean="€¬Œ¬ " />
+	<block key="EX_0_0062_Name" korean="(·p¬´Æ " />
+	<block key="EX_0_0062_description" korean="ÁDÇ " />
+	<block key="EX_0_0063_Name" korean="TÖüÅ " />
+	<block key="EX_0_0063_description" korean="È¹XÎ " />
+	<block key="EX_0_0064_Name" korean="p¬ø» " />
+	<block key="EX_0_0064_description" korean="pÐ " />
+	<block key="EX_0_0065_Name" korean="ÀÐ€·4Ò|·XÇ " />
+	<block key="EX_0_0065_description" korean="ÀÐ€·4Ò|·XÇ " />
+	<block key="EX_0_0066_Name" korean="p¬ø»É" />
+	<block key="EX_0_0066_description" korean="H°H°XÕà¬ " />
+	<block key="EX_0_0067_Name" korean="8Ñì²°¹ " />
+	<block key="EX_0_0067_description" korean="8ÑtÇ " />
+	<block key="EX_0_0068_Name" korean="Â]¸XÇ " />
+	<block key="EX_0_0068_description" korean="è²è²\Õ " />
+	<block key="EX_0_0069_Name" korean="Â]¸XÇ " />
+	<block key="EX_0_0069_description" korean="Â]¸XÇ " />
+	<block key="EX_0_0070_Name" korean="p¬\Î " />
+	<block key="EX_0_0070_description" korean="p¬\Î " />
+	<block key="EX_0_0071_Name" korean="´Å`´XÇ " />
+	<block key="EX_0_0071_description" korean="¬ÀEÅ\Õ " />
+	<block key="EX_0_0072_Name" korean="ÈŒÁ " />
+	<block key="EX_0_0072_description" korean="ÈŒÁ " />
+	<block key="EX_0_0073_Name" korean="‘²" />
+	<block key="EX_0_0073_description" korean="‘²" />
+	<block key="EX_0_0074_Name" korean="}ÅˆÔ " />
+	<block key="EX_0_0074_description" korean="pÈÇ\Õ " />
+	<block key="EX_0_0075_Name" korean="TÖüÅ " />
+	<block key="EX_0_0075_description" korean="‘²" />
+	<block key="EX_0_0076_Name" korean=",Ò™Ì " />
+	<block key="EX_0_0076_description" korean="‘²" />
+	<block key="EX_0_0077_Name" korean="gºü³ÀÉ " />
+	<block key="EX_0_0077_description" korean="gºü³ÀÉXÇ " />
+	<block key="EX_0_0078_Name" korean="ÂÈÔ¿ " />
+	<block key="EX_0_0078_description" korean="ÂÈÔ¿ " />
+	<block key="EX_0_0079_Name" korean="9ºä² " />
+	<block key="EX_0_0079_description" korean=" Ñ|°" />
+	<block key="EX_0_0080_Name" korean="€½Ü´ì·´Æ " />
+	<block key="EX_0_0080_description" korean="€½Ü´ì·´Æ " />
+	<block key="EX_0_0081_Name" korean="p¬" />
+	<block key="EX_0_0081_description" korean="p¬" />
+	<block key="EX_0_0082_Name" korean="Œ¼XÇ " />
+	<block key="EX_0_0082_description" korean="Œ¼XÇ " />
+	<block key="EX_0_0083_Name" korean="Œ¼XÇ " />
+	<block key="EX_0_0083_description" korean="Œ¼XÇ " />
+	<block key="EX_0_0084_Name" korean="p¬½tÇ " />
+	<block key="EX_0_0084_description" korean="p¬½tÇ " />
+	<block key="EX_0_0085_Name" korean="è²è²\Õ " />
+	<block key="EX_0_0085_description" korean="ä¹°Æ " />
+	<block key="EX_0_0086_Name" korean="Å³aÅ" />
+	<block key="EX_0_0086_description" korean="@¼XÇ " />
+	<block key="EX_0_0087_Name" korean="¬l­¬¹ " />
+	<block key="EX_0_0087_description" korean="¬l­¬¹ " />
+	<block key="EX_0_0088_Name" korean="ŒÁXÇ " />
+	<block key="EX_0_0088_description" korean="<»ŒÁXÇ " />
+	<block key="EX_0_0089_Name" korean="ŒÁXÇ " />
+	<block key="EX_0_0089_description" korean="<»ŒÁXÇ " />
+	<block key="EX_0_0090_Name" korean="ð¬XÇ " />
+	<block key="EX_0_0090_description" korean="ð¬XÇ " />
+	<block key="EX_0_0091_Name" korean=" Ó¬¹èÎXÇ " />
+	<block key="EX_0_0091_description" korean="ä¹°Æ " />
+	<block key="EX_0_0092_Name" korean="" />
+	<block key="EX_0_0092_description" korean="" />
+	<block key="EX_0_0093_Name" korean="H°ÈtÇ”² " />
+	<block key="EX_0_0093_description" korean="H°ÈXÕà¬ " />
+	<block key="EX_0_0094_Name" korean="P´¼®´Æ " />
+	<block key="EX_0_0094_description" korean="P´Í®à¬ " />
+	<block key="EX_0_0095_Name" korean="ä´ŒÁXÇ " />
+	<block key="EX_0_0095_description" korean="ä´ŒÁXÇ " />
+	<block key="EX_0_0096_Name" korean="ä´ŒÁXÇ " />
+	<block key="EX_0_0096_description" korean="ä´ŒÁXÇ " />
+	<block key="EX_0_0097_Name" korean="\Ô”¼ " />
+	<block key="EX_0_0097_description" korean="\Ô”¼XÇ " />
+	<block key="EX_0_0098_Name" korean="°¿qÈ\Õ " />
+	<block key="EX_0_0098_description" korean="Ù³<»XÇ " />
+	<block key="EX_0_0099_Name" korean="<Õ " />
+	<block key="EX_0_0099_description" korean="a×ÖÀ­" />
+	<block key="EX_0_0100_Name" korean="<Õ " />
+	<block key="EX_0_0100_description" korean="<Õ" />
+	<block key="EX_0_0101_Name" korean="a×ÖÀ­XÇ " />
+	<block key="EX_0_0101_description" korean="a×ÖÀ­XÇ " />
+	<block key="EX_0_0102_Name" korean="¡°@Ç " />
+	<block key="EX_0_0102_description" korean="¡°DÅÁ " />
+	<block key="EX_0_0103_Name" korean="<Õ\¸ " />
+	<block key="EX_0_0103_description" korean="ü¬p¬ " />
+	<block key="EX_0_0104_Name" korean="<Õ\¸ " />
+	<block key="EX_0_0104_description" korean="<Õ\¸ " />
+	<block key="EX_0_0105_Name" korean="$Æ˜·´ " />
+	<block key="EX_0_0105_description" korean="$Æ˜·´ " />
+	<block key="EX_0_0106_Name" korean="<Õ " />
+	<block key="EX_0_0106_description" korean="<Õ" />
+	<block key="EX_0_0107_Name" korean="pÈ(¸ " />
+	<block key="EX_0_0107_description" korean="|ÅÂ " />
+	<block key="EX_0_0108_Name" korean="pÈ¬œ° " />
+	<block key="EX_0_0108_description" korean="pÈ¬œ° " />
+	<block key="EX_0_0109_Name" korean=" °tÎ\¸´Æ " />
+	<block key="EX_0_0109_description" korean="°ÀôÒXÇ " />
+	<block key="EX_0_0110_Name" korean="¼Å´Å™½@Ç " />
+	<block key="EX_0_0110_description" korean="pÈ(¸¬À" />
+	<block key="EX_0_0111_Name" korean="É°0® " />
+	<block key="EX_0_0111_description" korean="È¹Ä³¬ÀXÇ " />
+	<block key="EX_0_0112_Name" korean="É°0®$ÁxÇ " />
+	<block key="EX_0_0112_description" korean="$ÁxÇä´tÇ " />
+	<block key="EX_0_0113_Name" korean="¼Å´Å™½@Ç " />
+	<block key="EX_0_0113_description" korean="¼Å´Å™½@Ç " />
+	<block key="EX_0_0114_Name" korean="(Ì" />
+	<block key="EX_0_0114_description" korean="(Ì¬à¬ " />
+	<block key="EX_0_0115_Name" korean="¡°@Ç " />
+	<block key="EX_0_0115_description" korean="$Æ˜·´à¬ " />
+	<block key="EX_0_0116_Name" korean="€½ÝÂ´ " />
+	<block key="EX_0_0116_description" korean="iÃ@Ç " />
+	<block key="EX_0_0117_Name" korean="€½ÐÓ´ " />
+	<block key="EX_0_0117_description" korean="iÃ@Ç " />
+	<block key="EX_0_0118_Name" korean="4® " />
+	<block key="EX_0_0118_description" korean="8®à¬ " />
+	<block key="EX_0_0119_Name" korean="$Æ˜·´ " />
+	<block key="EX_0_0119_description" korean="$Æ˜· " />
+	<block key="EX_0_0120_Name" korean="XÕ	® " />
+	<block key="EX_0_0120_description" korean="XÕ	® " />
+	<block key="EX_0_0121_Name" korean="XÕ	® " />
+	<block key="EX_0_0121_description" korean="XÕ	® " />
+	<block key="EX_0_0122_Name" korean="©ÍÌ¹\Õ " />
+	<block key="EX_0_0122_description" korean="´Å`´XÇ " />
+	<block key="EX_0_0123_Name" korean="‘Ç@Ç " />
+	<block key="EX_0_0123_description" korean="‘Ç@Ç " />
+	<block key="EX_0_0124_Name" korean="çÉ@Ç " />
+	<block key="EX_0_0124_description" korean="çÉ@Ç " />
+	<block key="EX_0_0125_Name" korean="€½ÝÂ´ " />
+	<block key="EX_0_0125_description" korean="$Æœ· " />
+	<block key="EX_0_0126_Name" korean="€½ÝÂ´ " />
+	<block key="EX_0_0126_description" korean="$Æœ· " />
+	<block key="EX_0_0127_Name" korean="€½ÝÂ´ " />
+	<block key="EX_0_0127_description" korean="à¬" />
+	<block key="EX_0_0128_Name" korean="€¬@Ç " />
+	<block key="EX_0_0128_description" korean="€¬@Ç " />
+	<block key="EX_0_0129_Name" korean="€¬@Ç " />
+	<block key="EX_0_0129_description" korean="€¬@Ç " />
+	<block key="EX_0_0130_Name" korean="íÓÄÐ " />
+	<block key="EX_0_0130_description" korean="íÓÄÐ " />
+	<block key="EX_0_0131_Name" korean="¡°@Ç " />
+	<block key="EX_0_0131_description" korean="¡°DÅÁ " />
+	<block key="EX_0_0132_Name" korean="±\³±\³\Õ " />
+	<block key="EX_0_0132_description" korean="±\³±\³\Õ " />
+	<block key="EX_0_0133_Name" korean=",¯ÈÉ,¯ÈÉ\Õ " />
+	<block key="EX_0_0133_description" korean="tÎ|·Ü´ " />
+	<block key="EX_0_0135_Name" korean="lÐ<Õt¹ " />
+	<block key="EX_0_0135_description" korean="lÐ<Õt¹ " />
+	<block key="EX_0_0136_Name" korean="¡°@Ç " />
+	<block key="EX_0_0136_description" korean="¡°DÅÁ " />
+	<block key="EX_0_0137_Name" korean="€½ÝÂ´ " />
+	<block key="EX_0_0137_description" korean="Æ " />
+	<block key="EX_0_0138_Name" korean="€½ÝÂ´ " />
+	<block key="EX_0_0138_description" korean="€½ÝÂ´ " />
+	<block key="EX_0_0139_Name" korean="8Ö¼Ð¹Œ¼ " />
+	<block key="EX_0_0139_description" korean="8Ö¼Ð¹Œ¼XÇ " />
+	<block key="EX_0_0140_Name" korean="€½Ü´ì·´Æ " />
+	<block key="EX_0_0140_description" korean="€½Ü´ì·´Æ " />
+	<block key="EX_0_0141_Name" korean="Å³ " />
+	<block key="EX_0_0141_Description" korean="Å³ " />
+	<block key="EX_0_0142_Name" korean="ù¹Å³ " />
+	<block key="EX_0_0142_Description" korean="Å³ " />
+	<block key="EX_0_0143_Name" korean="TÖüÅXÇ " />
+	<block key="EX_0_0143_Description" korean="TÖüÅ " />
+	<block key="EX_0_0144_Name" korean="¬,¸\Õ " />
+	<block key="EX_0_0144_Description" korean="TÖüÅ " />
+	<block key="EX_0_0145_Name" korean="É°0®XÇ " />
+	<block key="EX_0_0145_Description" korean="É°0® " />
+	<block key="EX_0_0146_Name" korean="¬,¸\Õ " />
+	<block key="EX_0_0146_Description" korean="É°0® " />
+	<block key="EX_0_0147_Name" korean="[¾XÇ " />
+	<block key="EX_0_0147_Description" korean="[¾ " />
+	<block key="EX_0_0148_Name" korean="¬,¸\Õ " />
+	<block key="EX_0_0148_Description" korean="[¾ " />
+	<block key="EX_0_0149_Name" korean="´Å`´XÇ " />
+	<block key="EX_0_0149_Description" korean="´Å`´ " />
+	<block key="EX_0_0150_Name" korean="¬,¸\Õ " />
+	<block key="EX_0_0150_Description" korean="´Å`´ " />
+	<block key="EX_0_0151_Name" korean="ÈTÖXÇ " />
+	<block key="EX_0_0151_Description" korean="¼Å´Å™½@Ç " />
+	<block key="EX_0_0152_Name" korean="8»´ÅXÇ " />
+	<block key="EX_0_0152_Description" korean="8»´ÅXÇ " />
+	<block key="EX_0_0153_Name" korean="Y× " />
+	<block key="EX_0_0153_Description" korean="œÓX³¸ÒxÇÉ " />
+	<block key="EX_0_0154_Name" korean="<Õ " />
+	<block key="EX_0_0154_Description" korean="ÐÆ\ÕtÇ " />
+	<block key="EX_0_0155_Name" korean="ÑÅÇ€· " />
+	<block key="EX_0_0155_Description" korean="ÑÅÇ€· " />
+	<block key="EX_0_0156_Name" korean="XÕtÎ˜°¤Â " />
+	<block key="EX_0_0156_Description" korean="XÕtÎ˜°¤Â " />
+	<block key="EX_0_0157_Name" korean="[¾XÇ " />
+	<block key="EX_0_0157_Description" korean="ü¬p¬ " />
+	<block key="EX_0_0158_Name" korean="S" />
+	<block key="EX_0_0158_Description" korean="S" />
+	<block key="EX_0_0160_Name" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="EX_0_0161_Name" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="EX_0_0162_Name" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="EX_0_0163_Name" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="EX_0_0160_Description" korean="<" />
+	<block key="EX_0_0161_Description" korean="<" />
+	<block key="EX_0_0162_Description" korean="<" />
+	<block key="EX_0_0163_Description" korean="ìÅì· " />
+	<block key="ex_0_0159_Name" korean="•Íl­õ¬" />
+	<block key="EX_0_0164_Name" korean="È$ÁXÇ " />
+	<block key="EX_0_0164_Description" korean="<" />
+	<block key="EX_0_0165_Name" korean="•Íõ¼¼@Ç " />
+	<block key="EX_0_0165_Description" korean="<" />
+	<block key="EX_0_0166_Name" korean="Í¹Âì² " />
+	<block key="EX_0_0166_Description" korean="Í¹Âì² " />
+	<block key="EX_0_0167_Name" korean="ÑÅÇ€· " />
+	<block key="EX_0_0167_Description" korean="ÑÅÇ€·XÇ " />
+	<block key="EX_0_0168_Name" korean="ÑÅÇ€· " />
+	<block key="EX_0_0168_Description" korean="ÑÅÇ€·XÇ " />
+	<block key="EX_0_0169_Name" korean="Ù³4­" />
+	<block key="EX_0_0170_Name" korean="@Ç4­" />
+	<block key="EX_0_0171_Name" korean="®4­" />
+	<block key="EX_0_0169_Description" korean="<" />
+	<block key="EX_0_0170_Description" korean="<" />
+	<block key="EX_0_0171_Description" korean="<" />
+	<block key="EX_0_0172_Name" korean="ÑÅÇ€· " />
+	<block key="EX_0_0172_Description" korean="ÑÅÇ€· " />
+	<block key="EX_0_0173_Name" korean="`Õ\¸Ç " />
+	<block key="EX_0_0173_Description" korean="`Õ\¸Ç " />
+	<block key="EX_0_0174_Name" korean="ÑÅÇ€· " />
+	<block key="EX_0_0174_Description" korean="ì²4»¬¹ " />
+	<block key="EX_0_0175_Name" korean="ÑÅÇ¬¹ÀÆ " />
+	<block key="EX_0_0175_Description" korean="ì²4»¬¹ " />
+	<block key="EX_0_0176_Name" korean="DÅ" />
+	<block key="EX_0_0176_Description" korean="DÅ" />
+	<block key="EX_0_0177_Name" korean="DÅ" />
+	<block key="EX_0_0177_Description" korean="DÅ" />
+	<block key="EX_0_0178_Name" korean=" Ç¬¹XÇ " />
+	<block key="EX_0_0178_Description" korean=" Ç¬¹" />
+	<block key="EX_0_0179_Name" korean="ì²[¾ " />
+	<block key="EX_0_0179_Description" korean="Í¹Âì² " />
+	<block key="EX_0_0180_Name" korean="ì²[¾ " />
+	<block key="EX_0_0180_Description" korean="Í¹Âì² " />
+	<block key="EX_0_0181_Name" korean="ì²[¾ " />
+	<block key="EX_0_0181_Description" korean="Í¹Âì² " />
+	<block key="EX_0_0182_Name" korean="ì²[¾ " />
+	<block key="EX_0_0182_Description" korean="Í¹Âì² " />
+</blocks>

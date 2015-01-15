@@ -68,9 +68,6 @@ typedef struct CHAR_STYLE
 	uint8			unk34;
 	uint8			unk35;
 	uint8			unk36;
-//	uint32			unk35;
-//	uint32			unk36;
-//	uint32			unk37;
 } CHAR_STYLE;
 
 typedef struct CHARACTER
@@ -82,7 +79,8 @@ typedef struct CHARACTER
 	int8			lvl;
 	CHAR_STYLE		style;
 	int				access;
-
+	time_t			time;
+	int				status;
 } CHARACTER;
 #pragma pack()
 

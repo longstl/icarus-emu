@@ -1,0 +1,303 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Caption_0000" korean="" />
+	<block key="Caption_0001" korean="(" />
+	<block key="Caption_SP_0001" korean="\Æ " />
+	<block key="Caption_SP_0002" korean="]°L®ÀÉ " />
+	<block key="Caption_SP_0003" korean="ÄÉ¬¹XÇ " />
+	<block key="Caption_SP_0004" korean="Â8ÖàÂá¸XÇ " />
+	<block key="Caption_SP_0005" korean="ÈXÇ " />
+	<block key="Caption_SP_0006" korean="P»|·à¬?" />
+	<block key="Caption_SP_0007" korean="ÇD¾|¹." />
+	<block key="Caption_SP_0008" korean="´Å¤µ " />
+	<block key="Caption_SP_0009" korean="" />
+	<block key="Caption_SP_0010" korean="ÄÉ¬¹XÇ " />
+	<block key="Caption_SP_0011" korean="ØÅ " />
+	<block key="Caption_SP_0012" korean="" />
+	<block key="Caption_SP_0013" korean="ÝÀ¬ô¼ä² " />
+	<block key="Caption_SP_0014" korean="ÈÐ%ÆÇä²!" />
+	<block key="Caption_SP_0015" korean="8»tÇ " />
+	<block key="Caption_Sf_0_1_0005_01" korean="È9¸XÇ " />
+	<block key="Caption_Sf_0_1_0005_02" korean="XÕtÎ˜°¤Â\¸ " />
+	<block key="Caption_Sf_0_1_0005_03" korean="XÕtÎ˜°¤Â\¸ " />
+	<block key="Caption_Sf_0_1_0005_04" korean="´ÅÁ " />
+	<block key="Caption_Sf_0_1_0012_01" korean="ø­ " />
+	<block key="Caption_Sf_0_1_0012_02" korean="ø­å° " />
+	<block key="Caption_Sf_0_1_0012_03" korean="" />
+	<block key="Caption_Sf_0_1_0018_01" korean="à¬" />
+	<block key="Caption_Sf_0_1_0018_02" korean="ô¼µÑ " />
+	<block key="Caption_Sf_0_1_0018_03" korean="XÕÀÉÌ¹," />
+	<block key="Caption_Sf_0_1_0018_04" korean="ÄÉäÂ´ " />
+	<block key="Caption_sp_lever_01" korean="˜°”² " />
+	<block key="Caption_sp_stone_01" korean="P»XÕ˜°?" />
+	<block key="Caption_SP_end_0001" korean="Ç$± " />
+	<block key="Caption_SP_end_0002" korean="DÅ¬ÂDÅ¬ÂˆÕp­”Æ." />
+	<block key="Caption_SP_end_0003" korean="õ¬üÈØ²DÇ " />
+	<block key="Caption_SP_end_0004" korean="ø­¸p­”Æ." />
+	<block key="Caption_SP_end_0005" korean="ÁX´ì· " />
+	<block key="Caption_SP_end_0006" korean="LÅ ¬µÂÈ²ä²." />
+	<block key="Caption_SF_start_0001" korean="XÕtÎ˜°¤Â " />
+	<block key="Caption_SF_start_0002" korean="ÜÂ¬ " />
+	<block key="Caption_SF_start_0003" korean="}ÂÄÉ " />
+	<block key="Caption_SF_start_0004" korean="¾|·0®ä´XÇ " />
+	<block key="Caption_SF_start_0005" korean="ŒÈ!Î " />
+	<block key="Caption_SP_start_0001" korean="˜°”² " />
+	<block key="Caption_sf_0_1_0010_01" korean="¾|·0® " />
+	<block key="Caption_sf_0_1_0010_02" korean="DÅ4»¬¹ " />
+	<block key="Caption_sf_0_1_0010_03" korean="lÂÀÉ " />
+	<block key="Caption_sf_0_1_0010_04" korean="Ç$±" />
+	<block key="Caption_sf_0_1_0011_01" korean="¾|·0®XÇ " />
+	<block key="Caption_sf_0_1_0011_02" korean="lÐ`×," />
+	<block key="Caption_sf_0_1_0011_03" korean="0®¬Àä´\¸”² " />
+	<block key="Caption_sf_0_1_0029_01" korean="¾|·0®ä´tÇ " />
+	<block key="Caption_sf_0_1_0029_02" korean="à¬" />
+	<block key="Caption_sf_0_1_0029_03" korean="lÐ¬¹¤ÂÈÐDÇ " />
+	<block key="Caption_hk_0_1_0014_01" korean="²" />
+	<block key="Caption_hk_0_1_0014_02" korean="¬ÀEÅ\Õ " />
+	<block key="Caption_hk_0_1_0014_03" korean="´Åa´à¬ " />
+	<block key="Caption_hk_0_1_0014_04" korean="0¼ÄÖÐÅ " />
+	<block key="Caption_hk_0_1_0047_01" korean="\ÍÍXÇ " />
+	<block key="Caption_hk_0_1_0047_02" korean="ø­ð·p³," />
+	<block key="Caption_hk_0_1_0047_03" korean="üÈü» " />
+	<block key="Caption_hk_0_1_0047_04" korean="ÐÆxÇDÇ " />
+	<block key="Caption_sf_0_1_0001_03_01" korean="tÇ½!" />
+	<block key="Caption_sf_0_1_0001_03_02" korean="tÇˆ¼ÔÅ " />
+	<block key="Caption_sf_0_1_0001_03_03" korean="" />
+	<block key="Caption_sf_0_1_0001_03_04" korean="DÅ!" />
+	<block key="Caption_sf_0_1_0001_03_05" korean="tÇø­&  " />
+	<block key="Caption_sf_0_1_0001_03_06" korean=" °(ÅÄ³ " />
+	<block key="Caption_sf_0_1_0001_03_07" korean="tÇ½ " />
+	<block key="Caption_f00_start_01_01" korean="ÈàÂtÇ " />
+	<block key="Caption_f00_start_01_02" korean="Ç," />
+	<block key="Caption_f00_lever_01_01" korean="´°" />
+	<block key="Caption_f00_stone_01_01" korean="P»XÕ˜°?" />
+	<block key="Caption_f00_rex_01_01" korean="´Å¬¹Á@Ç " />
+	<block key="Caption_f00_door_01_01" korean="ÈÐ%ÆÇä²!" />
+	<block key="Caption_f00_door_01_02" korean="õ¬©¬DÇ " />
+	<block key="Caption_f00_door_01_03" korean="¨ºP´ " />
+	<block key="Caption_f01_start_01" korean="tÇÈ " />
+	<block key="Caption_f01_start_02" korean="$±." />
+	<block key="Caption_f01_start_03" korean="}ÂÄÉ " />
+	<block key="Caption_f01_start_04" korean="lÐ=Ç!" />
+	<block key="Caption_f01_start_05" korean="¾|·0®ä´XÇ " />
+	<block key="Caption_f01_start_06" korean="ÈXÇ " />
+	<block key="Caption_f01_start_07" korean="¨ºP´ " />
+	<block key="Caption_f01_start_08" korean="¨ºP´ " />
+	<block key="Caption_f00_princess_01" korean="„½XÕä²!" />
+	<block key="Caption_f00_princess_02" korean="¼mÕDÇ " />
+	<block key="Caption_f00_princess_03" korean="õ¬üÈ”² " />
+	<block key="Caption_f00_princess_04" korean="õ¬üÈØ²!" />
+	<block key="Caption_f00_princess_05" korean="´ÀDÅ¨°@Ç " />
+	<block key="Caption_f00_princess_06" korean="XÕDÅ&  " />
+	<block key="Caption_f00_princess_07" korean="õ¬üÈØ²@Ç " />
+	<block key="Caption_f00_princess_A1" korean="õ¬üÈØ²@Ç " />
+	<block key="Caption_f00_princess_A2" korean="XÕDÅ&  " />
+	<block key="Caption_f00_princess_A3" korean="õ¬üÈØ²Ø® Á " />
+	<block key="Caption_f00_princess_A4" korean="°Æ°¹ " />
+	<block key="Caption_f00_princess_A5" korean="õ¬üÈØ²@Ç " />
+	<block key="Caption_f00_princess_A6" korean="ø­Lµ " />
+	<block key="Caption_f00_princess_A7" korean="õ¬©¬XÕ|·!" />
+	<block key="Caption_f00_princess_A8" korean="µÂ©¬tÇä²!" />
+	<block key="Caption_f00_princess_A9" korean="°Æ¬¹”² " />
+	<block key="Caption_f00_princess_A10" korean="XÕÀÉÌ¹ " />
+	<block key="Caption_f00_princess_A11" korean="„½XÕä²!" />
+	<block key="Caption_f00_princess_A12" korean="¼mÕDÇ " />
+	<block key="Caption_f00_princess_A13" korean="õ¬üÈ”² " />
+	<block key="Caption_f00_princess_A14" korean="õ¬üÈØ²!" />
+	<block key="Caption_f00_princess_A15" korean="´ÀDÅ¨°@Ç " />
+	<block key="Caption_f00_princess_A16" korean="ø­Œ¬ " />
+	<block key="Caption_f00_princess_A17" korean="LÇ." />
+	<block key="Caption_f02_g_boss_in" korean="TÖ" />
+	<block key="Caption_f02_g_boss_die" korean="¬ÀÝ¹XÕ”² " />
+	<block key="Caption_c01_fellow_01" korean=" Ó\¸°Æ " />
+	<block key="Caption_c01_fellow_02" korean="\Æ?" />
+	<block key="Caption_c01_fellow_03" korean="tÇ " />
+	<block key="Caption_c01_fellow_04" korean="ø­|Å " />
+	<block key="Caption_c01_fellow_05" korean="|Çè² " />
+	<block key="Caption_c01_fellow_06" korean="ø­¬¹à¬!" />
+	<block key="Caption_c01_fellow_07" korean="|Çè² " />
+	<block key="Caption_c01_fellow_08" korean="XÕXÕXÕ!" />
+	<block key="Caption_c01_fellow_09" korean="ÈÕ|¹ " />
+	<block key="Caption_f01_crow_01" korean="¦²ÀÉJÅDÅ " />
+	<block key="Caption_f01_destroy_01" korean="tÇÈ " />
+	<block key="Caption_f01_destroy_02" korean="”ÆÈXÇ " />
+	<block key="Caption_f01_destroy_03" korean="ÁP´t¹Œ¬." />
+	<block key="Caption_f01_destroy_04" korean="tÇ " />
+	<block key="Caption_f01_ghost_01" korean="±Ä³ " />
+	<block key="Caption_f01_ghost_02" korean="ô¼<»@Ç " />
+	<block key="Caption_f01_ghost_03" korean="´Å µÐ°?" />
+	<block key="Caption_f01_ghost_04" korean="0®ä²$¸!" />
+	<block key="Caption_f01_ghost_05" korean="Ç!" />
+	<block key="Caption_f01_ghost_die" korean="´° " />
+	<block key="Caption_d01_boss_change" korean=";·¼xÇx¬?" />
+	<block key="Caption_d01_in_01_1" korean="tÇx¬\¸ " />
+	<block key="Caption_d01_in_01_2" korean="ÜÂ‘ÇtÕ|·!" />
+	<block key="Caption_c01_move_01_1" korean="Ü´µ´Å " />
+	<block key="Caption_c01_move_01_2" korean="lÐ\¸°Æ " />
+	<block key="Caption_c01_move_01_3" korean=" " />
+	<block key="Caption_c01_move_01_4" korean="Ä³)ÌˆÕp­." />
+	<block key="caption_f01_Tortus_1" korean="õ¬üÈØ²@Ç " />
+	<block key="caption_f01_Tortus_2" korean="ø»HÅXÕ$±." />
+	<block key="caption_f01_Tortus_3" korean="õ¬üÈØ²tÇ " />
+	<block key="caption_f01_Tortus_4" korean="°Æ°¹ " />
+	<block key="caption_f01_Tortus_5" korean="D¾L®ÀÉ " />
+	<block key="caption_f01_Tortus_5_1" korean="Á¬¹p­è²ˆ±ä´@Ç " />
+	<block key="caption_f01_Tortus_5_2" korean="tÇ " />
+	<block key="caption_f01_Tortus_5_3" korean="|ÅDÅDÅUÅ!" />
+	<block key="caption_f01_Tortus_5_4" korean="¼®8È!" />
+	<block key="caption_f01_Tortus_6" korean="lÐ=Ç." />
+	<block key="caption_f01_Tortus_7" korean="\¸." />
+	<block key="caption_f01_Tortus_8" korean="´Å¬¹Á@Ç " />
+	<block key="caption_f01_Tortus_9" korean="±l×" />
+	<block key="caption_f01_Tortus_10" korean="õ¬üÈ”²." />
+	<block key="caption_f01_Tortus_11" korean="DÅÁÉ " />
+	<block key="caption_f01_Tortus_12" korean="pÐ|ÇtÇp­." />
+	<block key="caption_f01_Seal_1" korean="tÇÈ " />
+	<block key="caption_f01_Seal_2" korean="”ÆÈXÇ " />
+	<block key="caption_f01_Seal_5" korean="ÁX´ì·." />
+	<block key="caption_f01_Seal_6" korean="\ÕÜÂ|·Ä³ " />
+	<block key="caption_D01_boss_1" korean="XÇÝÂDÇ " />
+	<block key="caption_D01_boss_2" korean="ô¼ìÅüÈÈ¹." />
+	<block key="caption_D01_boss_3" korean="±l×XÇ " />
+	<block key="caption_D01_boss_4" korean="XÕUÅ!" />
+	<block key="caption_d03_eye_01_1" korean="tÇÈ " />
+	<block key="caption_d03_eye_02_1" korean="$Æ!" />
+	<block key="caption_d03_priest_rescue_1" korean="WÅ!" />
+	<block key="caption_d03_priest_fail_1" korean="±l×ä´XÇ " />
+	<block key="caption_d04__balbo_advent_1" korean="˜°|¹ " />
+	<block key="caption_d04__balbo_advent_2" korean="´°" />
+	<block key="caption_d04__balbo_advent_3" korean="˜°|¹ " />
+	<block key="caption_d04_rondo_mirror_1" korean="8º¬¹" />
+	<block key="caption_d04__rondo_end_1" korean="ìÅ0®L®ÄÉ" />
+	<block key="caption_d04__rondo_end_2" korean="DÅtÇäÀ." />
+	<block key="caption_d04__rondo_end_3" korean="ø­Ì¹l´”Æ." />
+	<block key="caption_d04__rondo_end_4" korean="œ° " />
+	<block key="caption_d04__rondo_end_5" korean="`¸Ä³." />
+	<block key="caption_d04__rondo_end_6" korean="DÅtÇäÀ." />
+	<block key="caption_f03_princess_01_1" korean="õ¬üÈØ²XÇ " />
+	<block key="caption_f03_princess_01_2" korean="ä²‰Õˆ× " />
+	<block key="caption_f03_princess_01_3" korean="h¾¬¹ " />
+	<block key="caption_f03_princess_01_4" korean="ÁX´ì· " />
+	<block key="caption_f03_watertray_01_1" korean="@Ç[¾ " />
+	<block key="caption_f03_watertray_01_2" korean="ÀÉ®L®ÀÉ " />
+	<block key="caption_f03_watertray_01_3" korean="tÕÈtÇ " />
+	<block key="caption_f03_watertray_01_4" korean="¹Òˆ× " />
+	<block key="caption_f03_watertray_01_5" korean="ÀÉ® " />
+	<block key="caption_f03_parna_01_1" korean="tÇ " />
+	<block key="caption_f03_parna_01_2" korean="È¹àÂXÇ " />
+	<block key="caption_f03_parna_01_3" korean="ä²/Á<Ç\¸ " />
+	<block key="caption_f03_lover_01_1" korean="ÁÀ˜Ì|¹ " />
+	<block key="caption_f03_lover_01_2" korean="ø­”² " />
+	<block key="caption_f03_lover_01_3" korean="<»XÇ " />
+	<block key="caption_f03_lover_01_4" korean="È¼," />
+	<block key="caption_f03_princess_tear_1" korean="`¸Ä³" />
+	<block key="caption_f03_princess_tear_2" korean="" />
+	<block key="caption_f03_princess_tear_3" korean="˜°|¹ " />
+	<block key="Caption_d02_sarant_tears_01" korean="´Åµ " />
+	<block key="Caption_d02_sarant_tears_02" korean="È¹àÂXÇ " />
+	<block key="Caption_d02_sarant_tears_03" korean="DÅ„¼ÀÉ!" />
+	<block key="Caption_d02_sarant_tears_04" korean="}ÅtÕÀÉÀÉ " />
+	<block key="Caption_d02_sarant_tears_05" korean="$±& " />
+	<block key="Caption_d02_sarant_tears_06" korean="¨°¸Óü¬ " />
+	<block key="Caption_d02_sarant_tears_07" korean="DÅä´DÅ." />
+	<block key="Caption_d02_sarant_tears_08" korean="©ÆÁXÕÀÉ " />
+	<block key="Caption_d02_sarant_tears_09" korean="8ÁÁÀtÇ " />
+	<block key="caption_c01_lena_change_1" korean="¸˜°," />
+	<block key="caption_c01_lena_change_2" korean="ÝÀ¬ô¼ä² " />
+	<block key="caption_c01_lena_change_3" korean="XÕÀÉÌ¹ " />
+	<block key="caption_c01_lena_change_4" korean="XÇÝÂXÇ " />
+	<block key="caption_c01_lena_change_5" korean="Æ<ÖL®ÀÉ " />
+	<block key="caption_c01_general_fight_1" korean="ì·@Á " />
+	<block key="caption_c01_general_fight_2" korean="ÄÉ¬¹XÇ " />
+	<block key="caption_c01_general_fight_3" korean="`¸ " />
+	<block key="caption_c01_general_fight_4" korean="ø­”² " />
+	<block key="caption_c01_general_fight_5" korean="ÄÉÈ\Õ " />
+	<block key="caption_c01_general_fight_6" korean="ÉÓTÖ”² " />
+	<block key="caption_c01_general_fight_7" korean="°Æ¬¹”² " />
+	<block key="caption_c01_general_fight_8" korean="°Æ¬¹" />
+	<block key="caption_f02_ashuram_01_1" korean="´ÀDÅ " />
+	<block key="caption_f02_ashuram_01_2" korean="Ç~" />
+	<block key="caption_f02_circle_01_1" korean="tÇ " />
+	<block key="caption_f02_circle_01_2" korean="¸ÅU³ÐÅ”² " />
+	<block key="caption_f02_circle_01_3" korean="XÇÝÂ " />
+	<block key="caption_f02_circle_01_4" korean="tÎ¾„Ç " />
+	<block key="caption_f02_circle_01_5" korean="" />
+	<block key="caption_f02_devy_02_1" korean="¶ " />
+	<block key="caption_f02_devy_02_2" korean="°Æ$Æ!" />
+	<block key="caption_f02_devy_02_3" korean="ìÅ4® " />
+	<block key="caption_f02_devy_02_4" korean="°Æ$Æ$Æ$Æ$Æ!" />
+	<block key="caption_f04_Lastfight_01" korean="°Æ¬¹”² " />
+	<block key="caption_f04_Lastfight_02" korean="˜Ó" />
+	<block key="caption_f04_Lastfight_03" korean="tÇ " />
+	<block key="caption_f03_mirror_05" korean="Ç!" />
+	<block key="caption_f09_princess_01_1" korean="XÕtÎ˜°¤Â " />
+	<block key="caption_f09_princess_01_2" korean="ø­|¹ " />
+	<block key="caption_f09_princess_01_3" korean="ìÓEÅ\Õ " />
+	<block key="caption_f09_princess_01_4" korean="àÂXÇ " />
+	<block key="f09_rondo_01_1" korean="´Å¬¹Á0®”²& " />
+	<block key="f09_rondo_01_2" korean="XÕtÎ˜°¤ÂXÇ " />
+	<block key="f09_rondo_01_3" korean="õ¬üÈ”² " />
+	<block key="f09_rondo_01_4" korean="tÇÈ|Å " />
+	<block key="f09_rondo_01_5" korean="ìÅ0®Á " />
+	<block key="f09_rondo_01_6" korean="¬1Á\Õ " />
+	<block key="f09_rondo_01_7" korean="õ¬üÈ|¹ " />
+	<block key="f09_rondo_01_8" korean="ç¬ " />
+	<block key="f09_rondo_01_9" korean="." />
+	<block key="f09_princess_02_1" korean="ØÅ\¸|·XÇ " />
+	<block key="f09_princess_02_2" korean="¶ " />
+	<block key="f09_princess_02_3" korean="tÇø» " />
+	<block key="f09_princess_02_4" korean="ø­¬¹à¬ " />
+	<block key="c01_king_02_1" korean="ø­" />
+	<block key="c01_king_02_2" korean="D¾]¸ " />
+	<block key="c01_king_02_3" korean="ø­|¹ " />
+	<block key="caption_c01_fellow01_01" korean=" ÁÝÐ´ " />
+	<block key="caption_c01_fellow01_02" korean="ø­ü· " />
+	<block key="caption_c01_fellow01_03" korean="<º" />
+	<block key="caption_c01_fellow01_04" korean="8®ä´|Ç " />
+	<block key="caption_c01_fellow01_05" korean="8®ä´|Ç " />
+	<block key="caption_c01_fellow01_06" korean="1Áõ¬…ÇÈ²ä²!" />
+	<block key="caption_c01_fellow01_06_1" korean="ø­¬¹à¬ " />
+	<block key="caption_c01_fellow01_07" korean=" " />
+	<block key="caption_c01_fellow01_08" korean="tÇÈ " />
+	<block key="caption_c01_fellow01_09" korean="˜·È²ðÒ|¹ " />
+	<block key="caption_f05_chime01" korean="ø­" />
+	<block key="caption_f05_chime02" korean="XÕtÎ˜°¤ÂXÇ " />
+	<block key="caption_f05_chime03" korean="ˆ½¬Àp­è²XÇ " />
+	<block key="caption_f05_chime04" korean="ìÅàÂtÇÜÂìÅ." />
+	<block key="caption_f05_chime05" korean="ä²ÜÂ " />
+	<block key="caption_f05_chime06" korean="àÂ1Á\Õ " />
+	<block key="caption_f05_chime07" korean="ø­ " />
+	<block key="caption_f05_chime08" korean="ô¼hÁµÂÈ²L®?" />
+	<block key="caption_f05_chime09" korean="`Õ " />
+	<block key="caption_f05_chime10" korean="È " />
+	<block key="caption_f05_chime11" korean="¨ºà´ " />
+	<block key="caption_f05_chime12" korean="tÇÈ " />
+	<block key="caption_f05_chime13" korean="ø­ì·0® " />
+	<block key="caption_f05_chime14" korean="" />
+	<block key="caption_f05_chime15" korean="°¬Ä¬|¹ " />
+	<block key="caption_f05_chime16" korean="Æ¸Å " />
+	<block key="caption_f05_chime17" korean="€½µ " />
+	<block key="caption_f05_cutis01" korean="" />
+	<block key="caption_f05_cutis02" korean="ø­Lµ," />
+	<block key="caption_f05_cutis03" korean="<º " />
+	<block key="caption_f05_cutis04" korean="ˆ±ä´tÇ " />
+	<block key="caption_f05_cutis05" korean="ä²‰Õˆ× " />
+	<block key="caption_f05_cutis06" korean="°º˜· " />
+	<block key="caption_f05_cutis07" korean="ˆ±ä´@Ç " />
+	<block key="caption_f05_cutis08" korean="T³ " />
+	<block key="caption_f05_cutis09" korean="ˆ½¬Àp­è² " />
+	<block key="caption_f05_cutis10" korean="”ÆÈÀÐÅ " />
+	<block key="caption_f05_princess_lania01" korean="HÅ." />
+	<block key="caption_f05_princess_lania02" korean="<Ç." />
+	<block key="caption_f05_princess_lania03" korean="˜°XÇ " />
+	<block key="caption_f05_princess_lania04" korean="Hº°Í|·." />
+	<block key="caption_f05_princess_lania05" korean="´ÅÁ " />
+	<block key="caption_f05_sarant01" korean="±|¹ " />
+	<block key="caption_f05_jason01" korean="XÖÆiÕÈ²ä²." />
+</blocks>

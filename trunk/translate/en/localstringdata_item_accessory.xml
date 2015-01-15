@@ -1,0 +1,380 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="AC0_0_1000_Name" korean="Protection Amulet of Mary" />
+	<block key="AC0_1_1000_Name" korean="Cooldown reduced Necklace (99%)" />
+	<block key="AC0_0_9999_Name" korean="Critical ring _ for testing (100)" />
+	<block key="AC0_0_9989_Name" korean="Critical ring _ for testing (30)" />
+	<block key="AC0_0_9988_Name" korean="Critical ring _ for testing (70)" />
+	<block key="AC0_0_10001_Name" korean="Royal ring" />
+	<block key="AC0_0_10002_Name" korean="Popo limitation of the Rings" />
+	<block key="AC0_0_21001_Name" korean="Fairy Ring" />
+	<block key="AC0_0_21011_Name" korean="Robust ever fix ring of forest" />
+	<block key="AC0_0_21012_Name" korean="Wisdom of the Peaceful forest ever fix the ring" />
+	<block key="AC0_0_21013_Name" korean="Quick fix ever ring in the forest" />
+	<block key="AC0_0_21501_Name" korean="Raiding party ring" />
+	<block key="AC0_0_21511_Name" korean="Strong ring of delegation" />
+	<block key="AC0_0_21512_Name" korean="Pacific Ring of Wisdom delegation" />
+	<block key="AC0_0_21513_Name" korean="Quick ring of delegation" />
+	<block key="AC0_0_31501_Name" korean="Ancient Ring of Fire Golem" />
+	<block key="AC0_0_22001_Name" korean="Vampire of the Rings" />
+	<block key="AC0_0_22011_Name" korean="Strong ring of militia" />
+	<block key="AC0_0_22012_Name" korean="Militia Pacific Ring of Wisdom" />
+	<block key="AC0_0_22013_Name" korean="Militia quick ring" />
+	<block key="AC0_0_32001_Name" korean="Cursed Ring" />
+	<block key="AC0_0_22501_Name" korean="Ring in the sky" />
+	<block key="AC0_0_22521_Name" korean="A ring of corrupt followers" />
+	<block key="AC0_0_32501_Name" korean="A ring of cold" />
+	<block key="AC0_0_23001_Name" korean="Ring of Snow" />
+	<block key="AC0_0_33001_Name" korean="Yata ring of twenty" />
+	<block key="AC0_0_23501_Name" korean="Ring of Frost Legion" />
+	<block key="AC0_0_33501_Name" korean="Ring of Ice Brigade General" />
+	<block key="AC0_0_24001_Name" korean="Ring of the Commander-in-Chief" />
+	<block key="AC0_1_21001_Name" korean="Brage ancient necklace" />
+	<block key="AC0_1_22001_Name" korean="Vampire Necklace" />
+	<block key="AC0_1_22011_Name" korean="Robust necklace militia" />
+	<block key="AC0_1_22012_Name" korean="Wisdom of the Peaceful Posse necklace" />
+	<block key="AC0_1_22013_Name" korean="Quick necklace militia" />
+	<block key="AC0_1_32001_Name" korean="Daughter of Darkness" />
+	<block key="AC0_1_22501_Name" korean="Yata necklace of twenty" />
+	<block key="AC0_1_22521_Name" korean="Ancient Necklace of Fire Golem" />
+	<block key="AC0_1_32501_Name" korean="Necklace cold" />
+	<block key="AC0_1_23001_Name" korean="Necklace fallen followers" />
+	<block key="AC0_1_33001_Name" korean="Necklace Ice Brigade General" />
+	<block key="AC0_1_23501_Name" korean="Necklace of the Commander-in-Chief" />
+	<block key="AC0_1_33501_Name" korean="Fairy Necklace" />
+	<block key="AC0_1_24001_Name" korean="Raiding party necklace" />
+	<block key="AC0_0_1001_Name" korean="Ruby Ring" />
+	<block key="AC0_0_1141_Name" korean="Ring of the kingdom article" />
+	<block key="AC0_0_1142_Name" korean="Ring and Canas hero" />
+	<block key="AC0_0_2141_Name" korean="Onyx ring of bloody force" />
+	<block key="AC0_0_2142_Name" korean="Stained with the blood of agile onyx ring" />
+	<block key="AC0_0_2143_Name" korean="Onyx ring of bloody intelligence" />
+	<block key="AC0_1_2141_Name" korean="Sapphire Necklace Chilled fitness" />
+	<block key="AC0_1_2142_Name" korean="Sapphire Necklace Chilled Spirit" />
+	<block key="AC0_1_2143_Name" korean="Sapphire Necklace Chilled force" />
+	<block key="AC0_1_2144_Name" korean="Chilled agile Sapphire Necklace" />
+	<block key="AC0_1_2145_Name" korean="Sapphire Necklace Chilled intelligence" />
+	<block key="AC0_1_2261_Name" korean="Water pendant" />
+	<block key="AC0_1_2262_Name" korean="Enhanced water pendant" />
+	<block key="AC0_0_2261_Name" korean="I swear this heart ring containing" />
+	<block key="AC0_0_2262_Name" korean="Proof of Heroes" />
+	<block key="AC0_0_82151_Name" korean="Physical ring of tough veterans" />
+	<block key="AC0_0_82152_Name" korean="Magic Ring of tough veterans" />
+	<block key="AC0_1_82151_Name" korean="Physical necklace tough warrior" />
+	<block key="AC0_1_82152_Name" korean="Magic necklace tough warrior" />
+	<block key="AC0_0_82251_Name" korean="Physical Ring of Legends" />
+	<block key="AC0_0_82252_Name" korean="Legend of the Magic Ring" />
+	<block key="AC0_1_82251_Name" korean="Physical Necklace legend" />
+	<block key="AC0_1_82252_Name" korean="The magic of the legendary necklace" />
+	<block key="AC0_0_83251_Name" korean="Physical ring of seasoned hero" />
+	<block key="AC0_0_83252_Name" korean="Magic Ring of seasoned hero" />
+	<block key="AC0_1_83251_Name" korean="Physical necklace seasoned hero" />
+	<block key="AC0_1_83252_Name" korean="Magic necklace of seasoned hero" />
+	<block key="AC0_0_81101_Name" korean="Physical Silver Ring" />
+	<block key="AC0_0_81102_Name" korean="Magic ring" />
+	<block key="AC0_1_81101_Name" korean="Physical Necklaces" />
+	<block key="AC0_1_81102_Name" korean="Magic necklace" />
+	<block key="AC0_0_81201_Name" korean="Physical gold ring" />
+	<block key="AC0_0_81202_Name" korean="Magic gold ring" />
+	<block key="AC0_1_81201_Name" korean="Physical gold necklace" />
+	<block key="AC0_1_81202_Name" korean="Magic gold necklace" />
+	<block key="AC0_0_82201_Name" korean="Enhanced Physical Gold Rings" />
+	<block key="AC0_0_82202_Name" korean="Enhanced magic gold ring" />
+	<block key="AC0_1_82201_Name" korean="Enhanced physical gold necklace" />
+	<block key="AC0_1_82202_Name" korean="Enhanced magic gold necklace" />
+	<block key="AC0_0_81301_Name" korean="Physical and amethyst ring" />
+	<block key="AC0_0_81302_Name" korean="Magic amethyst ring" />
+	<block key="AC0_1_81301_Name" korean="Physical and amethyst necklace" />
+	<block key="AC0_1_81302_Name" korean="Magic amethyst necklace" />
+	<block key="AC0_0_82301_Name" korean="Enhanced physical amethyst ring" />
+	<block key="AC0_0_82302_Name" korean="Enhanced magic amethyst ring" />
+	<block key="AC0_1_82301_Name" korean="Enhanced physical amethyst necklace" />
+	<block key="AC0_1_82302_Name" korean="Enhanced magic amethyst necklace" />
+	<block key="AC0_0_83301_Name" korean="Physical brilliant amethyst ring" />
+	<block key="AC0_0_83302_Name" korean="Shining magic amethyst ring" />
+	<block key="AC0_1_83301_Name" korean="Physical brilliant amethyst necklace" />
+	<block key="AC0_1_83302_Name" korean="Shining magic amethyst necklace" />
+	<block key="AC0_2_21501_Name" korean="Kingdom of the ring section of the article" />
+	<block key="AC0_2_220011_Name" korean="Elite bottle ring Kingdom" />
+	<block key="AC0_2_225012_Name" korean="The lower ring of the Croix kunjok" />
+	<block key="AC0_2_325013_Name" korean="Sapphire Ring Mart Rennes cold" />
+	<block key="AC0_2_230014_Name" korean="Ring of advanced Croix kunjok" />
+	<block key="AC0_2_22001_Name" korean="Elite bottle necklace Kingdom" />
+	<block key="AC0_2_22501_Name" korean="Lesser necklace Croix kunjok" />
+	<block key="AC0_2_32501_Name" korean="Sapphire Necklace Mart Rennes cold" />
+	<block key="AC0_2_23001_Name" korean="Advanced necklace Croix kunjok" />
+	<block key="AC0_2_821511_Name" korean="Physical ring of tough veterans" />
+	<block key="AC0_2_821522_Name" korean="Magic Ring of tough veterans" />
+	<block key="AC0_2_82151_Name" korean="Physical necklace tough warrior" />
+	<block key="AC0_2_82152_Name" korean="Magic necklace tough warrior" />
+	<block key="AC0_2_822513_Name" korean="Physical Ring of Legends" />
+	<block key="AC0_2_822522_Name" korean="Legend of the Magic Ring" />
+	<block key="AC0_2_82251_Name" korean="Physical Necklace legend" />
+	<block key="AC0_2_82252_Name" korean="The magic of the legendary necklace" />
+	<block key="AC0_2_832511_Name" korean="Physical ring of seasoned hero" />
+	<block key="AC0_2_832522_Name" korean="Magic Ring of seasoned hero" />
+	<block key="AC0_2_83251_Name" korean="Physical necklace seasoned hero" />
+	<block key="AC0_2_83252_Name" korean="Magic necklace of seasoned hero" />
+	<block key="AC0_0_2263_Name" korean="PvP Ring I" />
+	<block key="AC0_0_2264_Name" korean="PvP Ring II" />
+	<block key="AC0_0_2265_Name" korean="PvP Ring III" />
+	<block key="AC0_0_2266_Name" korean="PvP Ring IV" />
+	<block key="AC0_0_2267_Name" korean="PvP Ring V" />
+	<block key="AC0_0_2271_Name" korean="Ring of the other moose" />
+	<block key="AC0_1_2271_Name" korean="Necklace of other Moose" />
+	<block key="AC0_0_2272_Name" korean="Ring of the royal guard." />
+	<block key="AC0_0_2281_Name" korean="Ring of the royal guard." />
+	<block key="AC0_0_2282_Name" korean="Ring of the royal guard." />
+	<block key="AC0_0_2283_Name" korean="Ring of the royal guard." />
+	<block key="AC0_0_2284_Name" korean="Ring of the royal guard." />
+	<block key="AC0_0_2273_Name" korean="Knight-Commander of the skull ring" />
+	<block key="AC0_0_2274_Name" korean="Vampiric Ring of Gust" />
+	<block key="AC0_0_2275_Name" korean="Vampiric Ring of Rembrandt" />
+	<block key="AC0_0_2276_Name" korean="Kell ring Ro" />
+	<block key="AC0_0_2277_Name" korean="Dragon tension" />
+	<block key="AC0_1_2272_Name" korean="Aura ahsyuram" />
+	<block key="AC0_1_2273_Name" korean="Necklace of Mato kontin" />
+	<block key="AC0_0_2278_Name" korean="Resurrection Ring of Mister Geppetto" />
+	<block key="pvpAC0_1_2528_Name" korean="Necklace of the lower Hunter" />
+	<block key="pvpAC0_0_2528_Name" korean="Ring of the lower Hunter" />
+	<block key="pvpAC0_1_3033_Name" korean="Intermediate Hunter Necklace" />
+	<block key="pvpAC0_0_3033_Name" korean="Intermediate ring hunter" />
+	<block key="pvpAC0_1_3538_Name" korean="Senior Hunter Necklace" />
+	<block key="pvpAC0_0_3538_Name" korean="Ring of advanced hunter" />
+	<block key="pvpAC0_1_4043_Name" korean="Necklace of the finest hunters" />
+	<block key="pvpAC0_0_4043_Name" korean="Ring of the finest hunters" />
+	<block key="AC0_0_2279_Name" korean="Debbie wanted" />
+	<block key="AC0_0_2280_Name" korean="Wrath of the Devi" />
+	<block key="AC0_1_2274_Name" korean="Cask of bismuth" />
+	<block key="AC0_1_2275_Name" korean="Goblet of bismuth" />
+	<block key="AC0_0_2290_Name" korean="Rings of bismuth" />
+	<block key="AC0_0_30000_Name" korean="Strong ring of guards" />
+	<block key="AC0_0_30001_Name" korean="Guard Pacific Ring of Wisdom" />
+	<block key="AC0_0_30002_Name" korean="Garrison's quick ring" />
+	<block key="AC0_0_30003_Name" korean="Strong ring of wind militia only" />
+	<block key="AC0_0_30004_Name" korean="Pacific Ring of Wisdom wind militia only" />
+	<block key="AC0_0_30005_Name" korean="Quick ring of wind militia only" />
+	<block key="AC0_0_30006_Name" korean="Robust ring Croix kunjok" />
+	<block key="AC0_0_30007_Name" korean="Croix kunjok Pacific Ring of Wisdom" />
+	<block key="AC0_0_30008_Name" korean="Quick ring Croix kunjok" />
+	<block key="AC0_0_30009_Name" korean="Strong ring of Pegasus Knights" />
+	<block key="AC0_0_30010_Name" korean="Pegasus Knights Pacific Ring of Wisdom" />
+	<block key="AC0_0_30011_Name" korean="Quick ring of Pegasus Knights" />
+	<block key="AC0_0_30012_Name" korean="Ring of mureo mijok" />
+	<block key="AC0_0_30013_Name" korean="Ring of Undead Legion" />
+	<block key="AC0_1_30001_Name" korean="Robust necklace delegation" />
+	<block key="AC0_1_30002_Name" korean="Wisdom of the wise delegation necklace" />
+	<block key="AC0_1_30003_Name" korean="Quick Necklace delegation" />
+	<block key="AC0_1_30004_Name" korean="Strong garrison Necklace" />
+	<block key="AC0_1_30005_Name" korean="Wisdom of the Peaceful garrison necklace" />
+	<block key="AC0_1_30006_Name" korean="Quick Necklace garrison" />
+	<block key="AC0_1_30007_Name" korean="Strong wind necklace militia only" />
+	<block key="AC0_1_30008_Name" korean="Wisdom of the Peaceful Wind militia However necklace" />
+	<block key="AC0_1_30009_Name" korean="Quick Necklace wind militia only" />
+	<block key="AC0_1_30010_Name" korean="Robust necklace Croix kunjok" />
+	<block key="AC0_1_30011_Name" korean="Wisdom of the wise necklace Croix kunjok" />
+	<block key="AC0_1_30012_Name" korean="Quick necklace Croix kunjok" />
+	<block key="AC0_1_30013_Name" korean="Robust Necklace Pegasus Knights" />
+	<block key="AC0_1_30014_Name" korean="Wisdom of the Peaceful Pegasus Knights necklace" />
+	<block key="AC0_1_30015_Name" korean="Pegasus Knights quick Necklace" />
+	<block key="AC0_1_30016_Name" korean="Necklace of blue sky" />
+	<block key="AC0_1_30017_Name" korean="Necklace of snow" />
+	<block key="AC0_1_30018_Name" korean="Necklace mureo mijok" />
+	<block key="AC0_1_30019_Name" korean="Frost necklace Corps" />
+	<block key="AC0_1_30020_Name" korean="Necklace Immortal Legion" />
+	<block key="AC0_0_30014_Name" korean="Ring Kara Shah I" />
+	<block key="AC0_0_30014_1_Name" korean="Ring Kara Shah II" />
+	<block key="AC0_1_30021_Name" korean="Kara necklace Shah" />
+	<block key="AC0_0_30015_Name" korean="Jeume friendship ring" />
+	<block key="AC0_1_30022_Name" korean="Jeume friendship necklace" />
+	<block key="AC0_1_30023_Name" korean="Bloody skull necklace of Zerah Ninh" />
+	<block key="AC0_1_30024_Name" korean="Necklace right Sligo" />
+	<block key="AC0_0_30016_Name" korean="Rings of Wu Sligo" />
+	<block key="AC0_0_30017_Name" korean="Ring of de Balboa" />
+	<block key="AC0_0_30018_Name" korean="Ring of Rama shoe to" />
+	<block key="AC0_0_30019_Name" korean="Ring of the AVA" />
+	<block key="AC0_0_30020_Name" korean="Baba's ring" />
+	<block key="AC0_0_30021_Name" korean="Ring of syaba" />
+	<block key="pvpAC1_1_3148_Name" korean="Bloody Jack Hunter Necklace" />
+	<block key="pvpAC1_0_3148_Name" korean="Jack Hunter cursed ring" />
+	<block key="pvpAC1_1_3350_Name" korean="Klee bloody necklace key" />
+	<block key="pvpAC1_0_3350_Name" korean="Klee cursed ring of keys" />
+	<block key="pvpAC1_1_3552_Name" korean="Bloody Nightmare Necklace" />
+	<block key="pvpAC1_0_3552_Name" korean="Cursed Ring of Nightmare" />
+	<block key="pvpAC1_1_3855_Name" korean="Ruud pie in the bloody necklace" />
+	<block key="pvpAC1_0_3855_Name" korean="Ruud pie in the cursed ring" />
+	<block key="pvpAC1_1_4259_Name" korean="Blood Necklace by Nazareth" />
+	<block key="pvpAC1_0_4259_Name" korean="By cursed ring of Nazareth" />
+	<block key="pvpAC1_1_4562_Name" korean="Blood tests Megan Necklace" />
+	<block key="pvpAC1_0_4562_Name" korean="Megan cursed ring test" />
+	<block key="pvpAC1_2_3148_Name" korean="Jack Hunter Ring of Darkness" />
+	<block key="pvpAC1_2_3350_Name" korean="Klee dark ring of keys" />
+	<block key="pvpAC1_2_3552_Name" korean="Ring of Darkness Nightmare" />
+	<block key="pvpAC1_2_3855_Name" korean="Ruud pie in the dark ring" />
+	<block key="pvpAC1_2_4259_Name" korean="Ring of Darkness by Nazareth" />
+	<block key="pvpAC1_2_4562_Name" korean="Megan dark ring test" />
+	<block key="AC0_0_30022_Name" korean="Historic challenger ring" />
+	<block key="AC0_0_30023_Name" korean="Sites conqueror ring" />
+	<block key="AC0_1_30025_Name" korean="Lords sites necklace" />
+	<block key="AC0_0_30024_Name" korean="Chateau challenger ring" />
+	<block key="AC0_0_30025_Name" korean="Castle Conqueror ring" />
+	<block key="AC0_1_30026_Name" korean="Castle Lords necklace" />
+	<block key="AC0_0_30026_Name" korean="Ruins challenger ring" />
+	<block key="AC0_0_30027_Name" korean="Ruins conqueror ring" />
+	<block key="AC0_1_30027_Name" korean="Ruins ruler necklace" />
+	<block key="AC0_0_30028_Name" korean="Drive on Brage (movement speed 50)" />
+	<block key="AC0_0_30029_Name" korean="Drive on Brage (movement speed 100)" />
+	<block key="AC0_0_30030_Name" korean="Drive on Brage (movement speed 200)" />
+	<block key="AC0_0_30031_Name" korean="Wrath of the Brage (ATK)" />
+	<block key="AC0_0_30032_Name" korean="The power of the Brage (movement speed / Attack)" />
+	<block key="AC0_0_2098_Name" korean="Canas ring and articles" />
+	<block key="AC0_1_2098_Name" korean="Necklace and Canas article" />
+	<block key="AC0_0_2099_Name" korean="Ring of Sage and Canas" />
+	<block key="AC0_1_2099_Name" korean="Necklace and Canas Sage" />
+	<block key="AC0_1_30028_Name" korean="Necklace cruel fate" />
+	<block key="AC0_0_30033_Name" korean="Black ring of cruel fate" />
+	<block key="AC0_0_30034_Name" korean="Blue ring of cruel fate" />
+	<block key="AC0_0_83502_Name" korean="Shining sophisticated amethyst ring" />
+	<block key="AC0_1_83501_Name" korean="Shining sophisticated amethyst necklace" />
+	<block key="AC0_0_84002_Name" korean="Shining Sapphire Ring" />
+	<block key="AC0_1_84001_Name" korean="Brilliant sapphire necklace" />
+	<block key="AC0_1_90028_Name" korean="Necklace Pardo and veterans" />
+	<block key="AC0_0_90033_Name" korean="Pardo and the mighty black ring" />
+	<block key="AC0_0_90034_Name" korean="Blue ring of Pardo and veterans" />
+	<block key="AC0_0_33801_Name" korean="Yata ring of twenty" />
+	<block key="AC0_0_33802_Name" korean="Ring of the Rhine Noir" />
+	<block key="AC0_1_33801_Name" korean="Necklace Colossus" />
+	<block key="BX_AC0_0_23501_Name" korean="Old ring of crescent top" />
+	<block key="BX_AC0_1_30019_Name" korean="Old crescent necklace top" />
+	<block key="BX_AC0_0_33501_Name" korean="Ring of the crescent top" />
+	<block key="BX_AC0_1_33001_Name" korean="Necklace crescent top" />
+	<block key="BX_AC0_0_30013_Name" korean="Enhanced ring crescent top" />
+	<block key="BX_AC0_1_30020_Name" korean="Enhanced necklace crescent top" />
+	<block key="BX_AC0_0_24001_Name" korean="Glowing ring of crescent top" />
+	<block key="BX_AC0_1_23501_Name" korean="Shiny necklace crescent top" />
+	<block key="AC0_0_90101_Name" korean="Friendship ring I" />
+	<block key="AC0_0_90102_Name" korean="Friendship Rings II" />
+	<block key="AC0_1_24001_qu_Name" korean="Necklace and Canas hero" />
+	<block key="EV_AC0_0_33801_Name" korean="Ring of the Royal Protector" />
+	<block key="AC0_0_1000_EV_Name" korean="Bunny Rabbit Ring of Fish I" />
+	<block key="AC0_0_1000_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring I of the Fish can be worn for one hour, then automatically disappears.\nBunny Rabbit Ring of fish this time from the moment I was coming into the bag are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1000_EV_Name" korean="Fish Bunny Rabbit Necklace I" />
+	<block key="AC0_1_1000_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace I of the fish can be worn for one hour, then automatically disappears.\nBunny Rabbit Necklace of fish this time from the moment I was entering the bag are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1001_EV_Name" korean="Bunny Rabbit Ring of Fish II" />
+	<block key="AC0_0_1001_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring II of fish can be worn for 3 hours, then automatically disappears.\nBunny rabbit ring II This time from the moment the fish are coming in the bag are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1001_EV_Name" korean="Bunny Rabbit Necklace Fish II" />
+	<block key="AC0_1_1001_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace II of fish can be worn for 3 hours, then automatically disappears.\nBarney's Fish Rabbit Necklace II, this time coming from the moment the bag is consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1002_EV_Name" korean="Bunny Rabbit Ring of Fish III" />
+	<block key="AC0_0_1002_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring III of fish can be worn for five hours, then automatically disappears.\nBunny Rabbit Ring of Fish III is the time from the moment the incoming bags are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1002_EV_Name" korean="Bunny Rabbit Necklace Fish III" />
+	<block key="AC0_1_1002_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace III of fish can be worn for five hours, then automatically disappears.\nBunny Rabbit Necklace of Fish III is coming in time from the moment the bag is consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1003_EV_Name" korean="Bunny Rabbit Ring of fish IV" />
+	<block key="AC0_0_1003_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring IV of the fish can be worn for 7 hours, then automatically disappears.\nBunny rabbit ring IV of the fish coming into the bag this time from the moment the consumer. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1003_EV_Name" korean="Bunny Rabbit Necklace Fish IV" />
+	<block key="AC0_1_1003_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace IV of the fish can be worn for 7 hours, then automatically disappears.\nBunny Rabbit Necklace of Fish IV is coming this time from the moment the bag is consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1004_EV_Name" korean="Bunny Rabbit Ring of Fish V" />
+	<block key="AC0_0_1004_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring V of fish can be worn for 10 hours, then automatically disappears.\nBunny rabbit ring V of the fish coming into the bag this time from the moment the consumer. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1004_EV_Name" korean="Fish Bunny Rabbit Necklace V" />
+	<block key="AC0_1_1004_EV_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace V of fish can be worn for 10 hours, then automatically disappears.\nBunny Rabbit Necklace V of the fish coming into the bag this time from the moment the consumer. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_83512_Name" korean="Shining sophisticated amethyst ring" />
+	<block key="AC0_1_83511_Name" korean="Shining sophisticated amethyst necklace" />
+	<block key="AC0_0_1143_Name" korean="Ring to defend Canas" />
+	<block key="AC0_0_30032_TE_01_Name" korean="The power of the Brage (Crit / Town)" />
+	<block key="AC0_0_30032_TE_02_Name" korean="The power of the Brage (casting speed)" />
+	<block key="AC0_1_22501_qu_Name" korean="Necklace of the kingdom article" />
+	<block key="AC0_1_90128_Name" korean="Necklace airspace Guardian" />
+	<block key="AC0_0_90133_Name" korean="Black ring of airspace Guardian" />
+	<block key="AC0_0_90134_Name" korean="Blue ring of airspace Guardian" />
+	<block key="BX_AC1_1_90000_Name" korean="Fighting Spirit Necklace airspace" />
+	<block key="BX_AC0_1_90040_Name" korean="Fighting Spirit Ring of airspace" />
+	<block key="BX_AC0_1_90041_Name" korean="Determination of the conjugated ring" />
+	<block key="AC0_1_23502_Name" korean="Necklace of brilliant leader" />
+	<block key="AC0_0_24002_Name" korean="I ring the brilliant leader" />
+	<block key="AC0_0_24003_Name" korean="A ring of brilliant leader II" />
+	<block key="AC0_1_45001_Name" korean="Robust Necklace know Gocek Guard" />
+	<block key="AC0_1_45002_Name" korean="A wise necklace Guard Gocek know" />
+	<block key="AC0_0_45001_Name" korean="Al Gocek tough guard ring" />
+	<block key="AC0_0_45002_Name" korean="Guard ring of Gocek wise to know" />
+	<block key="AC0_1_45003_Name" korean="Necklace mother Haba yongbyeongdan" />
+	<block key="AC0_0_45003_Name" korean="Ring of the mother Haba yongbyeongdan" />
+	<block key="AC0_1_45004_Name" korean="Lim necklace Cobb Church" />
+	<block key="AC0_0_45004_Name" korean="Ring of Cobb Im denomination" />
+	<block key="AC0_1_50001_Name" korean="Robust Necklace Hermit" />
+	<block key="AC0_1_50002_Name" korean="Wisdom of the wise hermit necklace" />
+	<block key="AC0_0_50001_Name" korean="Strong ring of a recluse" />
+	<block key="AC0_0_50002_Name" korean="Wisdom of the wise hermit ring" />
+	<block key="AC0_1_50003_Name" korean="Necklace desert Brage" />
+	<block key="AC0_0_50003_Name" korean="Ring of the desert Brage" />
+	<block key="AC0_1_50004_Name" korean="Necklace of Darkness Brigade General" />
+	<block key="AC0_0_50004_Name" korean="Ring of Darkness Brigade General" />
+	<block key="pvpAC0_1_4564_Name" korean="Necklace Lesser Slayer" />
+	<block key="pvpAC0_0_4564_Name" korean="Ring of Lesser Slayer I" />
+	<block key="pvpAC0_2_4564_Name" korean="Ring of Lesser Slayer II" />
+	<block key="pvpAC0_1_5069_Name" korean="Intermediate necklace Slayer" />
+	<block key="pvpAC0_0_5069_Name" korean="Intermediate Ring Slayer I" />
+	<block key="pvpAC0_2_5069_Name" korean="Intermediate Ring Slayer II" />
+	<block key="AC0_1_45004_CR_Name" korean="Shining emerald necklace" />
+	<block key="AC0_0_45004_CR_Name" korean="Shining emerald ring" />
+	<block key="AC0_1_50004_CR_Name" korean="Shining sophisticated emerald necklace" />
+	<block key="AC0_0_50004_CR_Name" korean="Shining sophisticated emerald ring" />
+	<block key="AC0_1_45005_Name" korean="Smelting's necklace" />
+	<block key="AC0_0_50011_Name" korean="Smelting's tough ring" />
+	<block key="AC0_0_50012_Name" korean="Smelting's wise ring" />
+	<block key="AC0_1_45006_Name" korean="Necklace merchant" />
+	<block key="AC0_0_50013_Name" korean="Strong ring of merchants" />
+	<block key="AC0_0_50014_Name" korean="Wisdom of the wise merchant ring" />
+	<block key="AC0_1_45007_Name" korean="Necklace trainer" />
+	<block key="AC0_0_50015_Name" korean="Robust ring trainer" />
+	<block key="AC0_0_50016_Name" korean="Trainer Pacific Ring of Wisdom" />
+	<block key="AC0_1_45008_Name" korean="Blacksmith Necklace" />
+	<block key="AC0_0_50017_Name" korean="Strong ring of a blacksmith" />
+	<block key="AC0_0_50018_Name" korean="Blacksmith Pacific Ring of Wisdom" />
+	<block key="AC0_1_45300_Name" korean="Necklace Raja agent" />
+	<block key="AC0_0_45300_Name" korean="Ring of Raja bit I" />
+	<block key="AC0_0_45301_Name" korean="Raja tree ring II" />
+	<block key="AC0_1_45310_Name" korean="Kasim Necklace" />
+	<block key="AC0_0_45310_Name" korean="Kasim ring of I" />
+	<block key="AC0_0_45311_Name" korean="Kasim II of rings" />
+	<block key="AC0_1_45320_Name" korean="Xenon Necklace" />
+	<block key="AC0_0_45320_Name" korean="Zeno of the Rings I" />
+	<block key="AC0_0_45321_Name" korean="Ring of Xenon II" />
+	<block key="AC0_1_45330_Name" korean="Non padin Necklace" />
+	<block key="AC0_0_45330_Name" korean="Non padin ring of I" />
+	<block key="AC0_0_45331_Name" korean="Ring of non-padin II" />
+	<block key="AC0_1_45400_Name" korean="Ancient Necklace" />
+	<block key="AC0_0_45400_Name" korean="Ancient Rings I" />
+	<block key="AC0_0_45401_Name" korean="Ancient Rings II" />
+	<block key="AC0_0_45500_Name" korean="Poison Resistance Ring of Peck Ventura" />
+	<block key="AC0_0_1000_EV2_Name" korean="Bunny Rabbit Ring of Fish I" />
+	<block key="AC0_0_1000_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring I of the Fish can be worn for one hour, then automatically disappears.\nBunny Rabbit Ring of fish this time from the moment I was coming into the bag are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1000_EV2_Name" korean="Fish Bunny Rabbit Necklace I" />
+	<block key="AC0_1_1000_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace I of the fish can be worn for one hour, then automatically disappears.\nBunny Rabbit Necklace of fish this time from the moment I was entering the bag are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1001_EV2_Name" korean="Bunny Rabbit Ring of Fish II" />
+	<block key="AC0_0_1001_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring II of fish can be worn for 3 hours, then automatically disappears.\nBunny rabbit ring II This time from the moment the fish are coming in the bag are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1001_EV2_Name" korean="Bunny Rabbit Necklace Fish II" />
+	<block key="AC0_1_1001_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace II of fish can be worn for 3 hours, then automatically disappears.\nBarney's Fish Rabbit Necklace II, this time coming from the moment the bag is consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1002_EV2_Name" korean="Bunny Rabbit Ring of Fish III" />
+	<block key="AC0_0_1002_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring III of fish can be worn for five hours, then automatically disappears.\nBunny Rabbit Ring of Fish III is the time from the moment the incoming bags are consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1002_EV2_Name" korean="Bunny Rabbit Necklace Fish III" />
+	<block key="AC0_1_1002_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace III of fish can be worn for five hours, then automatically disappears.\nBunny Rabbit Necklace of Fish III is coming in time from the moment the bag is consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1003_EV2_Name" korean="Bunny Rabbit Ring of fish IV" />
+	<block key="AC0_0_1003_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring IV of the fish can be worn for 7 hours, then automatically disappears.\nBunny rabbit ring IV of the fish coming into the bag this time from the moment the consumer. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1003_EV2_Name" korean="Bunny Rabbit Necklace Fish IV" />
+	<block key="AC0_1_1003_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace IV of the fish can be worn for 7 hours, then automatically disappears.\nBunny Rabbit Necklace of Fish IV is coming this time from the moment the bag is consumed. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1004_EV2_Name" korean="Bunny Rabbit Ring of Fish V" />
+	<block key="AC0_0_1004_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Ring V of fish can be worn for 10 hours, then automatically disappears.\nBunny rabbit ring V of the fish coming into the bag this time from the moment the consumer. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1004_EV2_Name" korean="Fish Bunny Rabbit Necklace V" />
+	<block key="AC0_1_1004_EV2_Description" korean="\u003cR_Y\u003e Bunny Rabbit Necklace V of fish can be worn for 10 hours, then automatically disappears.\nBunny Rabbit Necklace V of the fish coming into the bag this time from the moment the consumer. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_45600_Name" korean="Necklace of desert warriors" />
+	<block key="AC0_0_45600_Name" korean="Desert warrior ring of I" />
+	<block key="AC0_0_45601_Name" korean="Ring of the desert warrior II" />
+	<block key="AC0_1_XMAS_Name" korean="Necklace Christmas" />
+	<block key="AC0_0_XMAS1_Name" korean="Ring of Christmas I" />
+	<block key="AC0_0_XMAS2_Name" korean="Ring of Christmas II" />
+</blocks>

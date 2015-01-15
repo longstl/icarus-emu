@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="WolfWildSaddleA_NAME" korean="‘²" />
+	<block key="BoarManeSaddleA_NAME" korean="p¬\Î¬0® " />
+	<block key="BoarToothSaddleA_NAME" korean="´Å®È² " />
+	<block key="BoarWildSaddleA_NAME" korean="gºü³ÀÉ" />
+	<block key="DragAsterSaddleB_NAME" korean="DÅ¤ÂLÑ|·¤Â" />
+	<block key="DragCarasSaddleB_NAME" korean="tÎ|·äÀ" />
+	<block key="LeopSaddleA_NAME" korean="¸$Æ" />
+	<block key="MagHoundSaddleA_NAME" korean="È¹ø­È¹XÕ´ÆÜ´" />
+	<block key="SpidBase1SaddleA_NAME" korean="p¬ø»" />
+	<block key="SpidBase4SaddleA_NAME" korean="ÀÐ€·¤Ò|·" />
+	<block key="LeopSnowSaddleB_NAME" korean="$ÁÐÆ8Ö‘·tÇ" />
+	<block key="BoarForchSaddleB_NAME" korean="ìÓXÎ" />
+	<block key="HorsUnicSaddleB_NAME" korean="äÂØÕ©Æ " />
+	<block key="BearSaddleB_NAME" korean="ð¬" />
+</blocks>

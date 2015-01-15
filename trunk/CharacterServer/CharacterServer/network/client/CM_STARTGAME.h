@@ -17,7 +17,10 @@ void CM_STARTGAME(PACKET* pck)
 	if (use_pin_code)
 		SM_GETPIN(pck, character_id);
 	else
+	{
+		SM_PIN(pck, character_id, true);
 		SM_STARTGAME(pck, character_id);
+	}
 }
 
 #endif

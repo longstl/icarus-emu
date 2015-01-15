@@ -30,6 +30,7 @@ typedef struct THREAD_SEND
 {
 	SYSTEM_STRUCT			sys;
 	ALL_PLAYERS*			player;
+	MOB						mobs;
 }THERAD_SEND;
 
 #pragma pack(1)

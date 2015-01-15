@@ -24,7 +24,6 @@ void CM_MY_LAUNCHER_LOGIN(PACKET* pck)
 	memset(hash, 0, sizeof(hash));
 	srand(GetTickCount());
 
-//	pck->readW();
 	pck->readTstr(recv);
 
 	for (int i = 0; i < 32; i++)
@@ -57,7 +56,7 @@ void CM_MY_LAUNCHER_LOGIN(PACKET* pck)
 		memset(hash, 0, sizeof(hash));
 	}
 	else
-		log::Info(fg, "LSNetwork [%s]: Hash send: %s\n", inet_ntoa(from.sin_addr), hash);
+		log::Info(fg, "LSNetwork [%s]: Hash: %s\n", inet_ntoa(from.sin_addr), hash);
 
 	SM_MY_LAUNCHER_LOGIN(pck, hash);
 }

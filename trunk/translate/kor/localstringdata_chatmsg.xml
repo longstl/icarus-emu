@@ -1,0 +1,134 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ChatMsg_emotion_win_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_lose_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_confession_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_surprise_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_charge_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_shame_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_greeting_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_joyful_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cry_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_smile_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cheerup_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_mockery_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cheers_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_penalty1_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_penalty2_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_refuse_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_angry_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_applause_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_salute_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_beg_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cheek_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_slapped_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_beg2_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_step_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_affirmation_my_target" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_win_others_target" korean="[" />
+	<block key="ChatMsg_emotion_lose_others_target" korean="[" />
+	<block key="ChatMsg_emotion_confession_others_target" korean="[" />
+	<block key="ChatMsg_emotion_surprise_others_target" korean="[" />
+	<block key="ChatMsg_emotion_charge_others_target" korean="[" />
+	<block key="ChatMsg_emotion_shame_others_target" korean="[" />
+	<block key="ChatMsg_emotion_greeting_others_target" korean="[" />
+	<block key="ChatMsg_emotion_joyful_others_target" korean="[" />
+	<block key="ChatMsg_emotion_cry_others_target" korean="[" />
+	<block key="ChatMsg_emotion_smile_others_target" korean="[" />
+	<block key="ChatMsg_emotion_cheerup_others_target" korean="[" />
+	<block key="ChatMsg_emotion_mockery_others_target" korean="[" />
+	<block key="ChatMsg_emotion_cheers_others_target" korean="[" />
+	<block key="ChatMsg_emotion_penalty1_others_target" korean="[" />
+	<block key="ChatMsg_emotion_penalty2_others_target" korean="[" />
+	<block key="ChatMsg_emotion_refuse_others_target" korean="[" />
+	<block key="ChatMsg_emotion_angry_others_target" korean="[" />
+	<block key="ChatMsg_emotion_applause_others_target" korean="[" />
+	<block key="ChatMsg_emotion_salute_others_target" korean="[" />
+	<block key="ChatMsg_emotion_beg_others_target" korean="[" />
+	<block key="ChatMsg_emotion_cheek_others_target" korean="[" />
+	<block key="ChatMsg_emotion_slapped_others_target" korean="[" />
+	<block key="ChatMsg_emotion_beg2_others_target" korean="[" />
+	<block key="ChatMsg_emotion_step_others_target" korean="[" />
+	<block key="ChatMsg_emotion_affirmation_others_target" korean="[" />
+	<block key="ChatMsg_emotion_win_yours" korean="[" />
+	<block key="ChatMsg_emotion_lose_yours" korean="[" />
+	<block key="ChatMsg_emotion_confession_yours" korean="[" />
+	<block key="ChatMsg_emotion_surprise_yours" korean="[" />
+	<block key="ChatMsg_emotion_charge_yours" korean="[" />
+	<block key="ChatMsg_emotion_shame_yours" korean="[" />
+	<block key="ChatMsg_emotion_greeting_yours" korean="[" />
+	<block key="ChatMsg_emotion_joyful_yours" korean="[" />
+	<block key="ChatMsg_emotion_cry_yours" korean="[" />
+	<block key="ChatMsg_emotion_smile_yours" korean="[" />
+	<block key="ChatMsg_emotion_cheerup_yours" korean="[" />
+	<block key="ChatMsg_emotion_mockery_yours" korean="[" />
+	<block key="ChatMsg_emotion_cheers_yours" korean="[" />
+	<block key="ChatMsg_emotion_penalty1_yours" korean="[" />
+	<block key="ChatMsg_emotion_penalty2_yours" korean="[" />
+	<block key="ChatMsg_emotion_refuse_yours" korean="[" />
+	<block key="ChatMsg_emotion_angry_yours" korean="[" />
+	<block key="ChatMsg_emotion_applause_yours" korean="[" />
+	<block key="ChatMsg_emotion_salute_yours" korean="[" />
+	<block key="ChatMsg_emotion_beg_yours" korean="[" />
+	<block key="ChatMsg_emotion_cheek_yours" korean="[" />
+	<block key="ChatMsg_emotion_slapped_yours" korean="[" />
+	<block key="ChatMsg_emotion_beg2_yours" korean="[" />
+	<block key="ChatMsg_emotion_step_yours" korean="[" />
+	<block key="ChatMsg_emotion_affirmation_yours" korean="[" />
+	<block key="ChatMsg_emotion_win_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_lose_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_confession_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_surprise_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_charge_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_shame_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_greeting_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_joyful_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cry_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_smile_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cheerup_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_mockery_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cheers_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_penalty1_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_penalty2_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_refuse_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_angry_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_applause_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_salute_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_beg_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_cheek_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_slapped_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_beg2_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_step_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_affirmation_my_notarget" korean="ù²àÂ@Ç " />
+	<block key="ChatMsg_emotion_win_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_lose_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_confession_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_surprise_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_charge_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_shame_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_greeting_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_joyful_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_cry_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_smile_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_cheerup_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_mockery_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_cheers_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_penalty1_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_penalty2_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_refuse_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_angry_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_applause_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_salute_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_beg_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_cheek_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_slapped_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_beg2_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_step_others_notarget" korean="[" />
+	<block key="ChatMsg_emotion_affirmation_others_notarget" korean="[" />
+</blocks>

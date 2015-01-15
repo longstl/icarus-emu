@@ -33,7 +33,7 @@ typedef struct THREAD_STRUCT
 	CHARACTER*		character;
 	char			pin_code[5];
 	int				pin_erros;
-	int				status;
+	int				status;	
 
 } THREAD_STRUCT;
 

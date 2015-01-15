@@ -13,17 +13,27 @@
 #define PACKET_LEN	1024*64
 
 
-void SendOK(uint8 id, SOCKET s)
+bool SendOK(uint8 id, SOCKET s)
 {
+	int retVal;
 	char packet_buf[3];
 	packet_buf[0] = id;
 	packet_buf[1] = 0x0a;
-	send(s, packet_buf, 2, NULL);
+	retVal = send(s, packet_buf, 2, NULL);
+	if (retVal == SOCKET_ERROR) {
+		log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+		closesocket(s);
+//		WinSockThread(NULL);
+		return false;
+	}
+	return true;
 }
 
 
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
+	int serve = 0;
+	int retVal;
 	bool connected = true;
 	int packet_len;
 	char packet_buf[PACKET_LEN];
@@ -34,12 +44,13 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 
 	while (connected)
 	{
-		if ((packet_len = recv(stc->socket, packet_buf, PACKET_LEN, 0)) != -1)// 0)
+		if ((packet_len = recv(stc->socket, packet_buf, PACKET_LEN, 0)) != SOCKET_ERROR)// 0)
 		{
 			switch (packet_buf[0])
 			{
 			case 1:
 			{
+				serve = 1;
 				////////////////////////////////////////////////////////////////////////
 				/// From login server
 				////////////////////////////////////////////////////////////////////////
@@ -47,38 +58,49 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 				{
 				case 0x11:
 					log::Info(fg, "InnerThread: [%s] LoginServer connection.\n", inet_ntoa(stc->from));
-					SendOK(stc->id, stc->socket);
+					if (!SendOK(stc->id, stc->socket))
+						return 0;
 					break;
 				case 0x21:
 					packet_buf[0] = 0x22;
 					step = 0;
-					for (int i = 0; i < 32; i++)
+					for (int i = 0; i < 12; i++)
 					{
-						if (stc->gs_info[i].id != -1)
-						{
+//						if (stc->gs_info[i].id != -1)
+	//					{
 							gs_info[i].cs_ip = cs_info[i].ip;
 							gs_info[i].cs_port = cs_info[i].port;
 							++step;
-						}
+//						}
 					}
 
-					packet_buf[1] = (uint8)step;
+					packet_buf[1] = 12;// (uint8)step;
 					step = 2;
-					for (int i = 0; i < 32; i++)
+					for (int i = 0; i < 12; i++)
 					{
-						if (stc->gs_info[i].id != -1)
-						{
+//						if (stc->gs_info[i].id != -1)
+	//					{
 							memcpy(packet_buf + step, &gs_info[i], sizeof(GAMESERVER_INFO));
 							step += sizeof(GAMESERVER_INFO);
-						}
+//						}
 					}
-					send(stc->socket, packet_buf, step, NULL);
+					retVal = send(stc->socket, packet_buf, step, NULL);
+					if (retVal == SOCKET_ERROR) {
+						log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+						closesocket(s);
+						return 0;
+					}
+					else
+					{
+						log::Info(fg, "InnerThread: Login Server update information.\n");
+					}
 					break;
 				}
 				break;
 			}
 			case 2:
 			{
+				serve = 2;
 				////////////////////////////////////////////////////////////////////////
 				/// From character server
 				////////////////////////////////////////////////////////////////////////
@@ -87,7 +109,8 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 				case 0x11:
 					log::Info(fg, "InnerThread: [%s] Character Server (%d) connection.\n", inet_ntoa(stc->from), packet_buf[2]);
 					stc->id = packet_buf[2];
-					SendOK(stc->id, stc->socket);
+					if (!SendOK(stc->id, stc->socket))
+						return 0;
 					break;
 
 				case 0x13:
@@ -95,7 +118,8 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 						log::Info(fg, "InnerThread: [%s] Character Server (%d) send info.\n", inet_ntoa(stc->from), stc->id);
 					stc->cs_info[stc->id].id = stc->id;
 					memcpy(&stc->cs_info[stc->id], packet_buf + 2, sizeof(CHARACTERSERVER_INFO));
-					SendOK(stc->id, stc->socket);
+					if (!SendOK(stc->id, stc->socket))
+						return 0;
 					send_info = true;
 					break;
 				default:
@@ -109,6 +133,7 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 			}
 			case 3:
 			{
+				serve = 3;
 				////////////////////////////////////////////////////////////////////////
 				/// From game server
 				////////////////////////////////////////////////////////////////////////
@@ -117,15 +142,17 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 				case 0x11:
 					log::Info(fg, "InnerThread: [%s] Game Server (%d) connection.\n", inet_ntoa(stc->from), packet_buf[2]);
 					stc->id = packet_buf[2];
-					SendOK(stc->id, stc->socket);
+					if (!SendOK(stc->id, stc->socket))
+						return 0;
 					break;
 
 				case 0x13:
-					if (!send_info)
+//					if (!send_info)
 						log::Info(fg, "InnerThread: [%s] Game Server (%d) send info.\n", inet_ntoa(stc->from), stc->id);
 					stc->gs_info[stc->id].id = stc->id;
 					memcpy(&stc->gs_info[stc->id], packet_buf + 3, sizeof(GAMESERVER_INFO));
-					SendOK(stc->id, stc->socket);
+					if (!SendOK(stc->id, stc->socket))
+						return 0;
 					send_info = true;
 					break;
 
@@ -144,6 +171,29 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 				connected = false;
 			}
 		}
+		else
+		{
+			int nError = WSAGetLastError();
+			if (nError != WSAEWOULDBLOCK && nError != 0)
+			{
+				switch (serve)
+				{
+				case 1:
+					log::Error(fg, "InnerThread: [%s] Login Server disconnect.\n", inet_ntoa(stc->from));
+					break;
+				case 2:
+					log::Error(fg, "InnerThread: [%s] Character Server disconnect.\n", inet_ntoa(stc->from));
+					break;
+				case 3:
+					log::Error(fg, "InnerThread: [%s] Game Server disconnect.\n", inet_ntoa(stc->from));
+					stc->gs_info[stc->id].id = -1;
+					break;
+				}
+				closesocket(stc->socket);
+				return 0;
+			}
+		}
+
 		Sleep(100);
 	}
 	

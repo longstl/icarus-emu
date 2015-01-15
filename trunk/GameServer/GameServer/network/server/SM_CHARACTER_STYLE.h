@@ -12,7 +12,6 @@ inline void SM_CHARACTER_STYLE(PACKET* pck)
 //	pck->PackSend(OPCODE_SM_CHARACTER_STYLE);
 //	return;
 
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(pck->me->id);
 	pck->writeBuf((void*)&pck->me->style, sizeof(CHAR_STYLE));

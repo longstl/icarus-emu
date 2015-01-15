@@ -8,7 +8,6 @@
 inline void SM_UNK_610e(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeW(7);
 	pck->writeW(0x0100);

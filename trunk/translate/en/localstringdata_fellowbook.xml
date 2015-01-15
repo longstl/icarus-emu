@@ -1,0 +1,816 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="map_f03_west_name" korean="Parque my land west" />
+	<block key="map_f03_east_name" korean="Parque my land east" />
+	<block key="map_f04_west_name" korean="Airspace west of destruction" />
+	<block key="map_f04_east_name" korean="Airspace east of destruction" />
+	<block key="map_p01_west_name" korean="Exergy bred West" />
+	<block key="map_p01_east_name" korean="Exergy bred East" />
+	<block key="map_f02_west_name" korean="Canas jikhal command and West" />
+	<block key="map_f02_east_name" korean="Eastern Command and Canas jikhal" />
+	<block key="map_f05_west_name" korean="Western Desert of immortality" />
+	<block key="map_f05_east_name" korean="Eastern Desert of immortality" />
+	<block key="map_f05_dungeon_name" korean="Desert Dungeon Immortal" />
+	<block key="fb_0_0000_names" korean="Rai Lourdes" />
+	<block key="fb_0_0000_namel" korean="Rai Lourdes" />
+	<block key="fb_0_0000_map" korean="Broken square belfry" />
+	<block key="fb_0_0000_source" korean="Frozen Mart Len ruins at Mission Report" />
+	<block key="fb_0_0000_0" korean="Hemp" />
+	<block key="fb_0_0000_1" korean="Near Trenton \u003cfont color = \" />
+	<block key="fb_0_0000_2" korean="Mart Ren Yi \u003cfont color = \." />
+	<block key="fb_0_0000_3" korean="Nothing" />
+	<block key="fb_0_0000_4" korean="Lourdes has become Rai force and hid the vanished after that, it seemed abandoned yigireul longer the king of beasts." />
+	<block key="fb_0_0000_5" korean="Lost your license chatgil Lourdes is the honor, which is available on the ruins frozen surface gildeulyiryeo \u003cfont color = \Ruins of frozen reportedly \u003cfont color = \" />
+	<block key="fb_0_0001_names" korean="La Hynix" />
+	<block key="fb_0_0001_namel" korean="La Hynix" />
+	<block key="fb_0_0001_map" korean="Blue Islands" />
+	<block key="fb_0_0001_source" korean="Journal of bird flu among researchers mode" />
+	<block key="fb_0_0001_0" korean="\u003cFont color = \" />
+	<block key="fb_0_0001_1" korean="Sound" />
+	<block key="fb_0_0001_2" korean="Hearing the waves to attack the target tame the singer's about enjoying the hunting method is simple." />
+	<block key="fb_0_0001_3" korean="Just that it will shut its mouth. Meanwhile, fellow in and Canas was repeated for research fellow craftsmen \u003cfont color = \But it was. No way was not delivered. Recently merchant rumored to have produced and sold in combination Tome silence, so it is necessary to identify." />
+	<block key="fb_0_0002_names" korean="Rich hippocampus" />
+	<block key="fb_0_0002_namel" korean="Rich hippocampus" />
+	<block key="fb_0_0002_map" korean="Large wind Island" />
+	<block key="fb_0_0002_source" korean="Among the report's Marine Research Fellow Difference" />
+	<block key="fb_0_0002_0" korean="And" />
+	<block key="fb_0_0002_1" korean="Canas at about \u003cfont color = \" />
+	<block key="fb_0_0002_2" korean="Legend that silencing a wave of mysterious hues of the hippocampus appeared about is famous among sailors crossing for. Some captains were also comment the rich hippocampus figurehead for safe navigation." />
+	<block key="fb_0_0002_3" korean="Bar" />
+	<block key="fb_0_0002_4" korean="Dot gildeulyiryeo in reincarnation because if people are called sacred creatures of Hisense \u003cfont color = \" />
+	<block key="fb_0_0002_5" korean="The existence of this energy is \u003cfont color = \\u003cfont color = \No doubt, but he would not have thought anyone would be against them." />
+	<block key="fb_0_0003_names" korean="Penrith" />
+	<block key="fb_0_0003_namel" korean="Harsh shadows Penrith" />
+	<block key="fb_0_0003_map" korean="Jack Hunter's Cave" />
+	<block key="fb_0_0003_source" korean="Among the choices in the legendary alchemist potions" />
+	<block key="fb_0_0003_0" korean="Remove" />
+	<block key="fb_0_0003_1" korean="Chin shadow \u003cfont color = \" />
+	<block key="fb_0_0003_2" korean="But some fellow collectors to Penrith are coveted, and did not even attempt to tame in horror all alone stand in Penrith." />
+	<block key="fb_0_0003_3" korean="Ball" />
+	<block key="fb_0_0003_4" korean="Four people are tired of wandering slowly losing her mind and went curse turned into a wolf caught in humans." />
+	<block key="fb_0_0003_5" korean="Brave \u003cfont color = \The anecdote is well known and fell. Eventually potion recipe Dreamland is forever gone, again successful people in the preparation is not up to date." />
+	<block key="fb_0_0004_names" korean="Cha chi" />
+	<block key="fb_0_0004_namel" korean="Eyed cha chi" />
+	<block key="fb_0_0004_map" korean="In the guise forest" />
+	<block key="fb_0_0004_source" korean="Among the adventures of militia chapter Vere help cha chi" />
+	<block key="fb_0_0004_0" korean="I" />
+	<block key="fb_0_0004_1" korean="And \u003cfont color = \" />
+	<block key="fb_0_0004_2" korean="Signature Elite intrepid fellow Kai had the power to make my knife sharper, longer than any fellow nubyeotda the battlefield. That was just a soldier, I was able to climb one spot in the large intestine with the help of cha chi far." />
+	<block key="fb_0_0004_3" korean="Uh" />
+	<block key="fb_0_0004_4" korean="Lean times, \u003cfont color = \" />
+	<block key="fb_0_0004_5" korean="Only when all of you are afraid of cha cha chi-chi I walked cautiously to. I gave toss \u003cfont color = \" />
+	<block key="fb_0_0005_names" korean="Hun Baba" />
+	<block key="fb_0_0005_namel" korean="Eyed Hun Baba" />
+	<block key="fb_0_0005_map" korean="In the guise forest" />
+	<block key="fb_0_0005_source" korean="Babar cult books from school introduction" />
+	<block key="fb_0_0005_0" korean="In secular \u003cfont color = \" />
+	<block key="fb_0_0005_1" korean="Oh" />
+	<block key="fb_0_0005_2" korean="Father gyojunim is great to put the meaning of worship Baba \u003cfont color = \" />
+	<block key="fb_0_0005_3" korean="To receive the greatest desires have not been baptized teeth Baba \u003cfont color = \let him put on. Who seek the Truth with the ear to Babar school \u003cfont color = \" />
+	<block key="fb_0_0006_names" korean="Black Wind" />
+	<block key="fb_0_0006_namel" korean="Black Wind" />
+	<block key="fb_0_0006_map" korean="Dreary stall" />
+	<block key="fb_0_0006_source" korean="Among steed story of the stall being populated Adin" />
+	<block key="fb_0_0006_0" korean="\u003cFont color = \" />
+	<block key="fb_0_0006_1" korean="Of" />
+	<block key="fb_0_0006_2" korean="But died defending the side of the owner of the investment achieved a breath alcohol was revived by the commander of the Cobb Im denomination." />
+	<block key="fb_0_0006_3" korean="Currently, the car should be bound by the mansion reang gildeulyiryeo if this steed can not forget the old masters \u003cfont color = \Just hyeoltongseo is \u003cfont color = \" />
+	<block key="fb_0_0007_names" korean="Kara Shah" />
+	<block key="fb_0_0007_namel" korean="Dark maryong Kara Shah" />
+	<block key="fb_0_0007_map" korean="The destruction of the northern airspace" />
+	<block key="fb_0_0007_source" korean="Remy diary from your fellow hunters" />
+	<block key="fb_0_0007_0" korean="And" />
+	<block key="fb_0_0007_1" korean="I drank active help in the war against the alliance of Light and \u003cfont color = \" />
+	<block key="fb_0_0007_2" korean="Kara Charles de Krabi order to tame red horns Gala doku, combine to create tension in the darkness \u003cfont color = \Shadow of the tension is in the sea of ​​greed \u003cfont color = \Dying does not exhaust the state powerful enough stamina maryong will never surrender." />
+	<block key="fb_0_0008_names" korean="Megan test" />
+	<block key="fb_0_0008_namel" korean="Megan Tess's Nightmare" />
+	<block key="fb_0_0008_map" korean="Len San Mart" />
+	<block key="fb_0_0008_source" korean="Among the writings of ruyiche forgotten Fellow" />
+	<block key="fb_0_0008_0" korean="Stage" />
+	<block key="fb_0_0008_1" korean="Simple red light skin seems to not be wearing a scratch." />
+	<block key="fb_0_0008_2" korean="\u003cFont color = \" />
+	<block key="fb_0_0008_3" korean="Then slowly forgotten Katakana from people recently opened a gap of time and space exciter grown again this became known there was relief. In addition, there are ways to tame the Megan test based on past research has also recorded and performed actively." />
+	<block key="fb_0_0008_4" korean="Character" />
+	<block key="fb_0_0008_5" korean="And can be a god looking ganghanja owner and does not even care about who are not eligible." />
+	<block key="fb_0_0008_6" korean="If gildeulyiryeo Megan Tess of the nightmare \u003cfont color = \But even if that person is entitled to access Megan Tess \u003cfont color = \If you wear a senior hunters reportedly set is that you can overcome the curse." />
+	<block key="fb_0_0009_names" korean="It's Calais" />
+	<block key="fb_0_0009_namel" korean="It's Calais" />
+	<block key="fb_0_0009_map" korean="Land of turbulence" />
+	<block key="fb_0_0009_source" korean="Journal of bird flu among researchers mode" />
+	<block key="fb_0_0009_0" korean="\u003cFont color = \" />
+	<block key="fb_0_0009_1" korean="Nothing" />
+	<block key="fb_0_0009_2" korean="Lee to do archaeological whilst also often used in his sentence bangranggi apostle's different, thanks to Calais." />
+	<block key="fb_0_0009_3" korean="Yieoteuna The Lord of the birds is not difficult to imagine a tame, \u003cfont color = \Although the recipe for the Elixir is not open to the outside \u003cfont color = \" />
+	<block key="fb_0_0010_names" korean="Porch" />
+	<block key="fb_0_0010_namel" korean="Frost molar Porch" />
+	<block key="fb_0_0010_map" korean="Brage home" />
+	<block key="fb_0_0010_source" korean="Browse carboxylic forests in tourist guide" />
+	<block key="fb_0_0010_0" korean="For" />
+	<block key="fb_0_0010_1" korean="Lovely Brage blind sheik frost molar \u003cfont color = \" />
+	<block key="fb_0_0010_2" korean="Book" />
+	<block key="fb_0_0010_3" korean="Li molar porch is always \u003cfont color = \" />
+	<block key="fb_0_0010_4" korean="Porch with Chilled molar freeze until the soul is even more outrageous than it looks. In recent weeks, ignored my warning and norideon the molar teeth of frost Porch hunters have always been found dead." />
+	<block key="fb_0_0010_5" korean="Because every time a change from generation to generation patriarch frost molar Porch is known to obey the following chiefs \u003cfont color = \" />
+	<block key="fb_0_0011_names" korean="By Garret" />
+	<block key="fb_0_0011_namel" korean="By wavelet of the abyss" />
+	<block key="fb_0_0011_map" korean="Moon Shadow Glen" />
+	<block key="fb_0_0011_source" korean="Among the writings of ruyiche forgotten Fellow" />
+	<block key="fb_0_0011_0" korean="Car" />
+	<block key="fb_0_0011_1" korean="Beuim Church Summoner are in the dark swallowed the moon \u003cfont color = \" />
+	<block key="fb_0_0011_2" korean="This life is always extremely light but hates staying in the dark, in the exo position to help jindago ore is often seen around me in the darkness. And \u003cfont color = \In addition, \u003cfont color = \" />
+	<block key="fb_0_0012_names" korean="Car Burners" />
+	<block key="fb_0_0012_namel" korean="Car Berners pain" />
+	<block key="fb_0_0012_map" korean="Land of turbulence" />
+	<block key="fb_0_0012_source" korean="Among the writings of ruyiche forgotten Fellow" />
+	<block key="fb_0_0012_0" korean="Sword" />
+	<block key="fb_0_0012_1" korean="After the fall between Kell point for the \u003cfont color = \" />
+	<block key="fb_0_0012_2" korean="But the revolt of the car Berners expelled ends in failure. Gildeulyiryeo a long time if the car lost its identity Berners flows \u003cfont color = \The grown exciter reportedly \u003cfont color = \" />
+	<block key="fb_0_0013_names" korean="Taseulran" />
+	<block key="fb_0_0013_namel" korean="Giant Spider taseulran" />
+	<block key="fb_0_0013_map" korean="Northern historic ruins" />
+	<block key="fb_0_0013_source" korean="Browse carboxylic forests in tourist guide" />
+	<block key="fb_0_0013_0" korean="Remove" />
+	<block key="fb_0_0013_1" korean="For spider \u003cfont color = \" />
+	<block key="fb_0_0013_2" korean="Uh" />
+	<block key="fb_0_0013_3" korean="Doom \u003cfont color = \" />
+	<block key="fb_0_0013_4" korean="Because just being near Cobb appears to freedom taseulran those familiar with the original dark wizards, they can reach some sort of taseulran \u003cfont color = \" />
+	<block key="fb_0_0013_5" korean="Coming out of the dark energy of the ejected turned around because of taseulran is the wicked curve ball jump a general numerical wizard with \u003cfont color = \There are." />
+	<block key="fb_0_0014_names" korean="Apocalypse" />
+	<block key="fb_0_0014_namel" korean="Apocalypse" />
+	<block key="fb_0_0014_map" korean="The wave lakh estates" />
+	<block key="fb_0_0014_source" korean="From the research journal of the Institute of Race Paul Travel" />
+	<block key="fb_0_0014_0" korean="Four" />
+	<block key="fb_0_0014_1" korean="Landhaus is blown into the horsepower \u003cfont color = \" />
+	<block key="fb_0_0014_2" korean="Black aura turned out is pumped throughout the body allows you to experience the powerful magic of Saran bit. Apocalypse is reborn in good steed ahsyuram accustomed to call you is a new species." />
+	<block key="fb_0_0014_3" korean="Straight" />
+	<block key="fb_0_0014_4" korean="I want to meet ground, \u003cfont color = \" />
+	<block key="fb_0_0014_5" korean="To hear people's stories and articles ahsyuram estates of darkness that control the Apocalypse through a special thing. I think he owns \u003cfont color = \" />
+	<block key="fb_0_0015_names" korean="Janus views" />
+	<block key="fb_0_0015_namel" korean="Janus views" />
+	<block key="fb_0_0015_map" korean="Mori four lakes" />
+	<block key="fb_0_0015_source" korean="And Canas jikhal in command tamheomgi" />
+	<block key="fb_0_0015_0" korean="Bar" />
+	<block key="fb_0_0015_1" korean="La Janus is known that the presence on the ground in the first specimen Telly god of darkness created by Keo than humans." />
+	<block key="fb_0_0015_2" korean="Famous for its aggressive nature of the body and covered with tight muscles, laying a solid grind that I meet the enemies from head to tail like crazy assault to inflict serious damage. If \u003cfont color = \" />
+	<block key="fb_0_0015_3" korean="Hawk" />
+	<block key="fb_0_0015_4" korean="If you want to tame because they have a right to know how to hide their keen sense." />
+	<block key="fb_0_0015_5" korean="Darkness was famous as a gourmet's like a specimen of Telly Oh god I love the delicious meat, especially \u003cfont color = \" />
+	<block key="fb_0_0016_names" korean="Tru Tan" />
+	<block key="fb_0_0016_namel" korean="True chief Tan" />
+	<block key="fb_0_0016_map" korean="Forest of affluence" />
+	<block key="fb_0_0016_source" korean="And Canas jikhal in command tamheomgi" />
+	<block key="fb_0_0016_0" korean="Head \u003cfont color = \" />
+	<block key="fb_0_0016_1" korean="The" />
+	<block key="fb_0_0016_2" korean="When the other bears, like trying to tame Kuge anger rather just be more appetizing." />
+	<block key="fb_0_0016_3" korean="Many adventurers, but I want to tame the giant bear killed with extreme prejudice. The only way that I look at a true shot at a successful loan plain of King memoir, \u003cfont color = \whole stay up, but says only way deulyeotdago authenticity is not certain." />
+	<block key="fb_0_0017_names" korean="Ghost" />
+	<block key="fb_0_0017_namel" korean="Ghost" />
+	<block key="fb_0_0017_map" korean="Aisha's room" />
+	<block key="fb_0_0017_source" korean="From the research journal of the Institute of Race Paul Travel" />
+	<block key="fb_0_0017_0" korean="Ron" />
+	<block key="fb_0_0017_1" korean="One of the wolves degrees from children's gireudeon 3 \u003cfont color = \" />
+	<block key="fb_0_0017_2" korean="The unique point is that the ghost is exceptionally well followed fiancee, Aisha's Rondo. Aisha has died meal I put reumyeo neck and cried for days and nights and do not want to wonder about Aisha deeper loyalty than Rondo." />
+	<block key="fb_0_0017_3" korean="Insect" />
+	<block key="fb_0_0017_4" korean="Heart full of ghost wolf seems just not be tamed by any means." />
+	<block key="fb_0_0017_5" korean="Rondo is jinyeotda are you ... \u003cfont color = \Until the mind wavered briefly regain his cool again, but questioned how long go ..." />
+	<block key="fb_0_0018_names" korean="Hound" />
+	<block key="fb_0_0018_namel" korean="Magma Hound" />
+	<block key="fb_0_0018_map" korean="Raging river of flames" />
+	<block key="fb_0_0018_source" korean="And among the ruins of the legendary Canas" />
+	<block key="fb_0_0018_0" korean="Born in blazing lava \u003cfont color = \" />
+	<block key="fb_0_0018_1" korean="Four" />
+	<block key="fb_0_0018_2" korean="The ruins of a plan of Landhaus occupation danghamyeonseo Magma Hound is deprived of the heart to the magic of darkness." />
+	<block key="fb_0_0018_3" korean="Devoted to the lost frequencies found freedom was beholden to replace the lost heart if gildeulyiryeo magma hound in targeting multiple opportunities \u003cfont color = \The secrets of the heart making fireworks for the control of magma Hound reportedly \u003cfont color = \" />
+	<block key="fb_0_0019_names" korean="The slopes" />
+	<block key="fb_0_0019_namel" korean="The slopes" />
+	<block key="fb_0_0019_map" korean="Pardo and floating island" />
+	<block key="fb_0_0019_source" korean="From the research journal of the Institute of Race Paul Travel" />
+	<block key="fb_0_0019_0" korean="I, when creating a simple point yongsin Kell group for black \u003cfont color = \" />
+	<block key="fb_0_0019_1" korean="And" />
+	<block key="fb_0_0019_2" korean="The effects of black magic bones if the slope gildeulyiryeo a resurrection while remaining \u003cfont color = \it is known that you need. According to rumors in the Parque my land \u003cfont color = \" />
+	<block key="fb_0_0020_names" korean="Rob Kane" />
+	<block key="fb_0_0020_namel" korean="Rob Kane of Horror" />
+	<block key="fb_0_0020_map" korean="Lemar small plains" />
+	<block key="fb_0_0020_source" korean="From the research journal of the Institute of Race Paul Travel" />
+	<block key="fb_0_0020_0" korean="Spirit" />
+	<block key="fb_0_0020_1" korean="And able to handle the responsibility of one corps sleep, Kerala is a creature of Rab Corps, also known as Saran bit." />
+	<block key="fb_0_0020_2" korean="\u003cFont color = \/ font\u003e has reached the conclusion that the mysterious runes that prevents the cold." />
+	<block key="fb_0_0020_3" korean="Prefecture" />
+	<block key="fb_0_0020_4" korean="Waiting for the command of the material Saran tree is said to be flying over the plains of small Lemar." />
+	<block key="fb_0_0020_5" korean="Populated with only a hypothesis, but as giving a fatal blow to Rob \u003cfont color = \" />
+	<block key="fb_0_0021_names" korean="La Shaka" />
+	<block key="fb_0_0021_namel" korean="Wolf King Shaka la" />
+	<block key="fb_0_0021_map" korean="Reed wind woods" />
+	<block key="fb_0_0021_source" korean="Among my land Pardo's Travels" />
+	<block key="fb_0_0021_0" korean="Wave" />
+	<block key="fb_0_0021_1" korean="Le Royal wolves live in my land, \u003cfont color = \" />
+	<block key="fb_0_0021_2" korean="Shaka was clever and agile but called it easier tame, \u003cfont color = \According to the rumors that you hear has known the signs \u003cfont color = \" />
+	<block key="fb_0_0022_names" korean="Nightmare" />
+	<block key="fb_0_0022_namel" korean="Nightmare" />
+	<block key="fb_0_0022_map" korean="Halo lake" />
+	<block key="fb_0_0022_source" korean="Among the writings of ruyiche forgotten Fellow" />
+	<block key="fb_0_0022_0" korean="L" />
+	<block key="fb_0_0022_1" korean="Laura is one of the three sacred suhoryeong created to coordinate the balance of the world is \u003cfont color = \" />
+	<block key="fb_0_0022_2" korean="Exergy suhoryeong spilling into legend and delivered with the emergence of the party and raised again revealing look into the world of these received a lot of light. However, this phenomenon horsepower two-dimensional surrounding the entire exciter grown evoking the madness of the report was a hot debate with the state of Nightmare Society." />
+	<block key="fb_0_0022_3" korean="City" />
+	<block key="fb_0_0022_4" korean="Space in my judgment as a scholar who studies the changes and fellow affected accordingly and let's note." />
+	<block key="fb_0_0022_5" korean="Gildeulyiryeo are possible if the Nightmare press billion from the madness order to control the madness of horsepower \u003cfont color = \Because exo-digit helpful ore required for production reportedly reportedly worth of ore to excessive competition among blacksmith rising day by day." />
+	<block key="fb_0_0023_names" korean="Kishar" />
+	<block key="fb_0_0023_namel" korean="Kishar" />
+	<block key="fb_0_0023_map" korean="Forgotten Dragon Land" />
+	<block key="fb_0_0023_source" korean="Remy diary from your fellow hunters" />
+	<block key="fb_0_0023_0" korean="And" />
+	<block key="fb_0_0023_1" korean="I drank from the alliance of the war took place in the light airspace \u003cfont color = \" />
+	<block key="fb_0_0023_2" korean="The other gildeulyeoya weakened gap, dealing a fatal blow, the veil of immortality is required. \u003cFont color = \This recipe is just lost the only clue to get the tent of immortality in the airspace of destruction now, \u003cfont color = \" />
+	<block key="fb_0_0024_names" korean="Kruger" />
+	<block key="fb_0_0024_namel" korean="Ice Fang Kruger" />
+	<block key="fb_0_0024_map" korean="Frozen wilderness" />
+	<block key="fb_0_0024_source" korean="Among birds of prey in the Parque my land" />
+	<block key="fb_0_0024_0" korean="Right" />
+	<block key="fb_0_0024_1" korean="Lu and lead a relationship \u003cfont color = \" />
+	<block key="fb_0_0024_2" korean="Uru is displayed behind a house worth Kruger cattle were driven into a corner Lemar plains pushed to bears. Kruger has a fierce hostility to the ruler wool, quietly joining forces to re-open the era of the tiger." />
+	<block key="fb_0_0024_3" korean="Cattle" />
+	<block key="fb_0_0024_4" korean="Lemar plains below, \u003cfont color = \" />
+	<block key="fb_0_0024_5" korean="Many people looked to find a way to catch the Kruger tame no one is sure how to find. Kruger is shaken when sober but only for a moment, was the right shape Luna wool \u003cfont color = \Kruger hatred for the wool is scary." />
+	<block key="fb_0_0025_names" korean="Casper agent" />
+	<block key="fb_0_0025_namel" korean="Casper toxic agent" />
+	<block key="fb_0_0025_map" korean="Pardo and floating island" />
+	<block key="fb_0_0025_source" korean="Among the creatures of darkness" />
+	<block key="fb_0_0025_0" korean="The reason is because the huge unknown creature is no human \u003cfont color = \" />
+	<block key="fb_0_0025_1" korean="Wave" />
+	<block key="fb_0_0025_2" korean="Le deep where my land \u003cfont color = \" />
+	<block key="fb_0_0025_3" korean="How to tame a toxic agent Casper is surprisingly simple. Deulyimyeon best way to prevent rebellion after minus the health of the tree, but the problem is the bane of Casper Casper bit of instant death to life. From the eyes of Ladan \u003cfont color = \" />
+	<block key="fb_0_0026_names" korean="Uru" />
+	<block key="fb_0_0026_namel" korean="A wide wool" />
+	<block key="fb_0_0026_map" korean="Pardo and floating island" />
+	<block key="fb_0_0026_source" korean="Among birds of prey in the Parque my land" />
+	<block key="fb_0_0026_0" korean="\u003cFont color = \" />
+	<block key="fb_0_0026_1" korean="Right" />
+	<block key="fb_0_0026_2" korean="Lou is driving out the Kruger ruled the plains between the back \u003cfont color = \" />
+	<block key="fb_0_0026_3" korean="Kuhn, who previously created a powerful Croix redeemed for the Uru Uru are tame \u003cfont color = \I also know that wool has already released the shackles of fear. In order to create a wool hanging the shackles to almost moribund. But it naelsu Who Can?" />
+	<block key="fb_0_0027_names" korean="Oh Lots" />
+	<block key="fb_0_0027_namel" korean="Oh Lots" />
+	<block key="fb_0_0027_map" korean="Land of turbulence" />
+	<block key="fb_0_0027_source" korean="Journal of bird flu among researchers mode" />
+	<block key="fb_0_0027_0" korean="\u003cFont color = \" />
+	<block key="fb_0_0027_1" korean="Other" />
+	<block key="fb_0_0027_2" korean="Many adventurers to tame rising flames are ignited with a lot of road accidents are among the high-risk Fellow." />
+	<block key="fb_0_0027_3" korean="If you were born in a dying fire is lit gildeulyiryeo a curious new \u003cfont color = \It is. And that you are familiar with how to make their premises fuze reportedly tumultuous." />
+	<block key="fb_0_0028_names" korean="Moire teaching" />
+	<block key="fb_0_0028_namel" korean="Moire teaching" />
+	<block key="fb_0_0028_map" korean="Cemetery" />
+	<block key="fb_0_0028_source" korean="Of Shadow Clan emergency report" />
+	<block key="fb_0_0028_0" korean="Fire" />
+	<block key="fb_0_0028_1" korean="Im Cobb High magic to destroy the church through the Devil's \u003cfont color = \" />
+	<block key="fb_0_0028_2" korean="Young human girl named Debbie taught to walk with moire was OK to add the child, Debbie Cobb as being denominational affiliation of Summoner's also the story of the birth homunkeulruseu Inject the magic of the immortal demon." />
+	<block key="fb_0_0028_3" korean="Prefecture" />
+	<block key="fb_0_0028_4" korean="Eoryeowoona information to identify any activity of teaching materials alone moire has been found to be directed to Debbie." />
+	<block key="fb_0_0028_5" korean="Debbie has been controlling the feral scent of teaching using moire continuously delayed action of the roots of perfume Judging by Debbie \u003cfont color = \seems to be no adjustment to tame." />
+	<block key="fb_0_0029_names" korean="Bladder size" />
+	<block key="fb_0_0029_namel" korean="Violent bladder size" />
+	<block key="fb_0_0029_map" korean="Lemar small plains" />
+	<block key="fb_0_0029_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0029_0" korean="Wooramhan features that extend the horns toward the sky \u003cfont color = \" />
+	<block key="fb_0_0029_1" korean="Road" />
+	<block key="fb_0_0029_2" korean="Deulyigi order \u003cfont color = \" />
+	<block key="fb_0_0029_3" korean="That power is sympathetic fellow inducer will be made in the form of bonginseok will prevent the power of two so that they do not conflict. I hope my advice will help you get to become a partner of fellow I like the block recreation side. Keunteul of The Taming of the Fellows presented in this book is how I hope to read Note Dicky." />
+	<block key="fb_0_0030_names" korean="Rhodes" />
+	<block key="fb_0_0030_namel" korean="Biting Rhodes" />
+	<block key="fb_0_0030_map" korean="Pardo and floating island" />
+	<block key="fb_0_0030_source" korean="Among birds of prey in the Parque my land" />
+	<block key="fb_0_0030_0" korean="Fellow of the most beautiful flying Parque my land \u003cfont color = \" />
+	<block key="fb_0_0030_1" korean="A mercenary is a referral agency, many of jipga noryeot but eventually lost their lives in the province of Rhodes in Rhodes." />
+	<block key="fb_0_0030_2" korean="Nevertheless, the hues of blue and white, reminiscent of the sea blend of soft feathers, aloof commissioned to do many fellow collectors ending in appearance." />
+	<block key="fb_0_0030_3" korean="In order to break-through research fellow DOS \u003cfont color = \" />
+	<block key="fb_0_0030_4" korean="That power is sympathetic fellow inducer will be made in the form of bonginseok will prevent the power of two so that they do not conflict. I hope my advice will help you get to become a partner of fellow I like the side of Rhodes. Keunteul of The Taming of the Fellows presented in this book is how I hope to read Note Dicky." />
+	<block key="fb_0_0030_5" korean="Number" />
+	<block key="fb_0_0030_6" korean="By" />
+	<block key="fb_0_0031_names" korean="Ray dose" />
+	<block key="fb_0_0031_namel" korean="Seorikkot ray dose" />
+	<block key="fb_0_0031_map" korean="Pirates home" />
+	<block key="fb_0_0031_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0031_0" korean="The horns that resemble tree branches characteristic of \u003cfont color = \" />
+	<block key="fb_0_0031_1" korean="Has the power to heal wounds abilities known to the Horns adventurer called healing and surprisingly ray dose is passed, let alone to exert its influence to other destinations. Thanks to this ability ray doses received considerable attention to the alchemists and priests." />
+	<block key="fb_0_0031_2" korean="Ido seuneun through research fellows \u003cfont color = \" />
+	<block key="fb_0_0031_3" korean="That power is sympathetic fellow inducer will be made in the form of bonginseok will prevent the power of two so that they do not conflict. My advice is like a ray doses piece I want to help you find a partner, hoping that fellow. Keunteul of The Taming of the Fellows presented in this book is how I hope to read Note Dicky." />
+	<block key="fb_0_0031_4" korean="Of" />
+	<block key="fb_0_0031_5" korean="Les" />
+	<block key="fb_0_0032_names" korean="This Strahan" />
+	<block key="fb_0_0032_namel" korean="This maryong Strahan" />
+	<block key="fb_0_0032_map" korean="Reed wind coast" />
+	<block key="fb_0_0032_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0032_0" korean="Snake" />
+	<block key="fb_0_0032_1" korean="This feature is similar to the body of the scales \u003cfont color = \" />
+	<block key="fb_0_0032_2" korean="Other organisms to adapt to the cold wave have been adapted to the environment by emitting stripes hanging scales fever, unlike hair wrapped in a thick body. Reduce the rate of emissions out of the new unique sonic scream return the power to the internal vibrations propagated naendago ever made." />
+	<block key="fb_0_0032_3" korean="This" />
+	<block key="fb_0_0032_4" korean="Run vibration energy is transferred to the scales has been reported as a source to exert a strong resistance to cold." />
+	<block key="fb_0_0032_5" korean="I think, also known as the cannibal tame the Strasbourg this without proper preparation, it would be nice to lay down. In order to tame this maryong Strahan \u003cfont color = \. That power is sympathetic fellow inducer will be made in the form of bonginseok will prevent the power of two so that they do not conflict." />
+	<block key="fb_0_0033_names" korean="Troy" />
+	<block key="fb_0_0033_namel" korean="Troy White" />
+	<block key="fb_0_0033_map" korean="Valley of the bag" />
+	<block key="fb_0_0033_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0033_0" korean="Only the icy breath of the hybrid was born united together \u003cfont color = \" />
+	<block key="fb_0_0033_1" korean="The blood that looks like a solid granite patterns and colors with high and likely to confuse used stone and monument." />
+	<block key="fb_0_0033_2" korean="Given the unique behavior that is immiscible with the power of the latest drinking seems to be out of the control of Saran bit. If gildeulyiryeo a research fellow with the white Trojan \u003cfont color = \That power is sympathetic fellow inducer will be made in the form of bonginseok will prevent the power of two so that they do not conflict." />
+	<block key="fb_0_0033_3" korean="Except" />
+	<block key="fb_0_0034_names" korean="Karas" />
+	<block key="fb_0_0034_namel" korean="Tyrant Karas" />
+	<block key="fb_0_0034_map" korean="The wave lakh estates" />
+	<block key="fb_0_0034_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0034_0" korean="Le Quilted my land is the most compelling presence of a fellow!" />
+	<block key="fb_0_0034_1" korean="\u003cFont color = \" />
+	<block key="fb_0_0034_2" korean="Canas data and research on the Karas Megan Tess found in dusty books in the library corner on the basis knows that even made active." />
+	<block key="fb_0_0034_3" korean="Pohan eat the snow lion or gomdeung can gauge the strength postponed to live with the Karas appetite." />
+	<block key="fb_0_0034_4" korean="If this berserk tyrant through research fellow gildeulyiryeo the Karas \u003cfont color = \is required. That power is made jimyeo sympathetic fellow inducer in the form of a harmonized and coordinated bonginseok push and pull forces of three." />
+	<block key="fb_0_0034_5" korean="Wave" />
+	<block key="fb_0_0034_6" korean="Chest" />
+	<block key="fb_0_0035_names" korean="Gross" />
+	<block key="fb_0_0035_namel" korean="Gross Hunks" />
+	<block key="fb_0_0035_map" korean="Silvery Wave Lake" />
+	<block key="fb_0_0035_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0035_0" korean="Dwarf is a petite and small molars than half boar \u003cfont color = \" />
+	<block key="fb_0_0035_1" korean="Gross is known to have adapted to the harsh Parque my land and other physical changes to the other fellow. Instead of blocking the cold wind called the petite raised the hair over the years, with only a small amount of meal intake became the current undersized body to meet the energy needed for hunting." />
+	<block key="fb_0_0035_2" korean="Because of these physical waesoham was also the target of another fellow and hunter." />
+	<block key="fb_0_0035_3" korean="But even by those parties who have experienced the power burst like an explosion coming from the diminutive of the Gross Gross would not be yatbol. In order to tame the hunks Gross research fellow with the \u003cfont color = \." />
+	<block key="fb_0_0035_4" korean="Day" />
+	<block key="fb_0_0035_5" korean="This" />
+	<block key="fb_0_0036_names" korean="Amaranth" />
+	<block key="fb_0_0036_namel" korean="Amaranth white wings" />
+	<block key="fb_0_0036_map" korean="Swamp turncoat" />
+	<block key="fb_0_0036_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0036_0" korean="Phoenix has a fiery spirit are born as \u003cfont color = \" />
+	<block key="fb_0_0036_1" korean="The Parque slicing my cold heart of Leaping known as amaranth and soon the power of Amaranth." />
+	<block key="fb_0_0036_2" korean="Excellent endurance and sleek wings, mainly thanks to the local people called've nicknamed white wings. In order to tame the white wings Amaranth through research fellows \u003cfont color = \. That power is sympathetic fellow inducer will be made in the form of bonginseok will prevent the power of two so that they do not conflict." />
+	<block key="fb_0_0036_3" korean="Years of age" />
+	<block key="fb_0_0037_names" korean="Dryer Soap" />
+	<block key="fb_0_0037_namel" korean="The ultimate driver Soap" />
+	<block key="fb_0_0037_map" korean="Fragmented areas" />
+	<block key="fb_0_0037_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0037_0" korean="Naris eat energy gels growth spread the airspace of the network \u003cfont color = \" />
+	<block key="fb_0_0037_1" korean="Currently no recent appearance was found to be different and look at the record of the documents related to the driver Soap forgotten the ancient city has been excavated from frozen tree lights airspace. The top-line growth, as well as in the rapidly changing situation there are signs that fellow researchers are watching closely." />
+	<block key="fb_0_0037_2" korean="Is expressed as the ultimate word for dry suits Soap devoured the new look, shall be without aura." />
+	<block key="fb_0_0037_3" korean="In order to tame this ultimate driver Soap in a large wind Island \u003cfont color = \\u003e The need can be obtained is called the probability is very low, but more or less what you need is a very easy way it's supposed to tame the ultimate driver Soap making the sign of the research process through the Fellowship." />
+	<block key="fb_0_0037_4" korean="Destroy" />
+	<block key="fb_0_0037_5" korean="Shelter" />
+	<block key="fb_0_0038_names" korean="Para gas" />
+	<block key="fb_0_0038_namel" korean="Gwangryong Para gas" />
+	<block key="fb_0_0038_map" korean="Temple lost light" />
+	<block key="fb_0_0038_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0038_0" korean="Seeking to reverse \u003cfont color = \" />
+	<block key="fb_0_0038_1" korean="But then do not join Para gas escape from the crowds, but felt that yihurodo were on a mission of some kind, such as Kara Shah who are active exclusively in airspace outside, it was seen that it was not long before fighting their own people." />
+	<block key="fb_0_0038_2" korean="Naris's comforting somehow affected the parametric gas, it is a good thing or a simple betrayal enemy forces are divided." />
+	<block key="fb_0_0038_3" korean="However, the reason for the gas deungjin para a storm is unknown, but now this is a breath on the tame atmosphere. But for this outrageous way that I could succeed only to get him into the fatal blow. In addition, \u003cfont color = \Vaida down." />
+	<block key="fb_0_0038_4" korean="Ball" />
+	<block key="fb_0_0038_5" korean="Gels" />
+	<block key="fb_0_0039_names" korean="Blade" />
+	<block key="fb_0_0039_namel" korean="Blue-winged blades" />
+	<block key="fb_0_0039_map" korean="Sea of ​​Greed" />
+	<block key="fb_0_0039_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0039_0" korean="Other wings \u003cfont color = \" />
+	<block key="fb_0_0039_1" korean="Heinz is in the process of Pegasus Knights and Warriors are smashed and burned Corps in airspace and blades have been exposed to the magic of the gel during treatment Naris I got a big scar. As a result, the blade is floating around somewhere airspace Pegasus Knights jumped out." />
+	<block key="fb_0_0039_2" korean="This is not reluctant to Reid fled Pegasus Knights Killer-Blade Army command that is issued." />
+	<block key="fb_0_0039_3" korean="In this section, an article that recently encountered a blade command completion is returned to the carcass, but certainly that herd. In order to tame the blue steed stained with horsepower \u003cfont color = \\u003c/ font\u003e is said to be a possession. He who has the courage to look into, please check directly to makan." />
+	<block key="fb_0_0039_4" korean="Fu" />
+	<block key="fb_0_0039_5" korean="Bloemfontein" />
+	<block key="fb_0_0040_names" korean="Ballack" />
+	<block key="fb_0_0040_namel" korean="Black Dragon Ballack" />
+	<block key="fb_0_0040_map" korean="Black Dragon haven of cancer" />
+	<block key="fb_0_0040_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0040_0" korean="On behalf of the digits of the re-absent Kara Shah \u003cfont color = \" />
+	<block key="fb_0_0040_1" korean="Ballack has always achieved many major battles fought, then the head In warlike nature to focus on the Battle of the Pegasus Knights Immortal Legion in recent insight that there is no capacity to manage the perfect time to strike back and his strategists as demonstrated the ability to enemies." />
+	<block key="fb_0_0040_2" korean="Muscle injured in battle known as the weakened state power are increasingly those who want to give in to Ballack." />
+	<block key="fb_0_0040_3" korean="But even if there is no way that the force weakens resistance only to get him into the proper batting order to tame this intrepid Black Dragon will be successful I will be. In addition, \u003cfont color = \Vaida can make that determination." />
+	<block key="fb_0_0040_4" korean="Prefecture" />
+	<block key="fb_0_0040_5" korean="Choi" />
+	<block key="fb_0_0041_names" korean="Lucifer agent" />
+	<block key="fb_0_0041_namel" korean="Lucifer moonlight tree" />
+	<block key="fb_0_0041_map" korean="The destruction of coastal" />
+	<block key="fb_0_0041_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0041_0" korean="Earl had flourished in the ancient city tree light \u003cfont color = \" />
+	<block key="fb_0_0041_1" korean="Although the ancient city is a conflict of drinking and goddesses disappeared like dust, sacred animals were the outrageous beasts." />
+	<block key="fb_0_0041_2" korean="Wooramhan stature and muscular, with large fangs In Ground flawless body can not dare to find the adversary. Taming the order can only be successful to get him into the fatal blow, \u003cfont color = \\u003e Vaida make a determination that the predator's destruction fill \u003c/ font\u003e from to get a clue." />
+	<block key="fb_0_0041_3" korean="And" />
+	<block key="fb_0_0042_names" korean="Mutoh page" />
+	<block key="fb_0_0042_namel" korean="Wings of airspace page Muto" />
+	<block key="fb_0_0042_map" korean="Airspace east of destruction" />
+	<block key="fb_0_0042_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0042_0" korean="Naris fallen under the influence of the spirit, or there will be no end to open the gritty life in a rapidly changing airspace." />
+	<block key="fb_0_0042_1" korean="Among them, \u003cfont color = \After the explosion of the airspace, the aura of strength and Ellora has many years of accumulated gel Naris Muto was born among the ashes of the page for that was asleep forgotten Dragon Land." />
+	<block key="fb_0_0042_2" korean="Mutoh is naerimyeo judgment involving the constant presence of death to the area and maintain a balance between the forces." />
+	<block key="fb_0_0042_3" korean="The page Muto hypothesis that this behavior and judgment of good and evil, between the forces and Ellora gel Naris by their own forces were released. In order to tame the mysterious yitorok page Muto \u003cfont color = \Vaida make decisions that rise Hora \u003c/ font\u003e to be found a clue." />
+	<block key="fb_0_0042_4" korean="Gels" />
+	<block key="fb_0_0042_5" korean="Page" />
+	<block key="fb_0_0043_names" korean="Avene" />
+	<block key="fb_0_0043_namel" korean="Albino Avene" />
+	<block key="fb_0_0043_map" korean="Aerial Farm" />
+	<block key="fb_0_0043_source" korean="Journal of bird flu among researchers mode" />
+	<block key="fb_0_0043_0" korean="Fellow fully capable of withstanding the rigors Parque my cold slicing the flesh is not much in the middle, Lars." />
+	<block key="fb_0_0043_1" korean="Trial" />
+	<block key="fb_0_0043_2" korean="If a fellow creature with a strong resistance than live in my land Pardo built a handful." />
+	<block key="fb_0_0043_3" korean="\u003cFont color = \According to the testimony of domesticated albino Avene adventurer \u003cfont color = \" />
+	<block key="fb_0_0044_names" korean="Apocalypse" />
+	<block key="fb_0_0044_namel" korean="Non posse Apocalypse" />
+	<block key="fb_0_0044_map" korean="Red Shadow Forest" />
+	<block key="fb_0_0044_source" korean="Among the writings of ruyiche forgotten Fellow" />
+	<block key="fb_0_0044_0" korean="And" />
+	<block key="fb_0_0044_1" korean="It is going to be in mortal combat with the devil Cobb Lim Wang's life several times moi \u003cfont color = \" />
+	<block key="fb_0_0044_2" korean="But it is the death of his son in the wake Khan was the chief carve any temptation to succumb to the darkness, where existing exciter is Khan blown non posse Apocalypse is the magic of darkness has been granted to carve look at the record of being bred In Association estimates that born again." />
+	<block key="fb_0_0044_3" korean="This" />
+	<block key="fb_0_0044_4" korean="After it disappeared into the darkness King Khan was also present in non posse Apocalypse soon forgotten by the people." />
+	<block key="fb_0_0044_5" korean="However exciter grown lawless got a revealing look into the world again increased non posse of people who witnessed the Apocalypse or also one of them. If non posse gildeulyiryeo the Apocalypse exciter place to help create the magic of ore \u003cfont color = \" />
+	<block key="fb_0_0045_names" korean="Ruud pie" />
+	<block key="fb_0_0045_namel" korean="Fear of pie Lourdes" />
+	<block key="fb_0_0045_map" korean="Land of turbulence" />
+	<block key="fb_0_0045_source" korean="Among the writings of ruyiche forgotten Fellow" />
+	<block key="fb_0_0045_0" korean="Mother" />
+	<block key="fb_0_0045_1" korean="New Ellora is the second of the three divine created to coordinate the balance of the world suhoryeong the \u003cfont color = \" />
+	<block key="fb_0_0045_2" korean="When the third exciter grown dispatched investigators, records that pie Ruud is missing the first team and received the attention of discovery and encounter the presence of the pie Ludwig Institute. According to records pie Ruud is hayeotdago detect corruption of the Nightmare of suhoryeong like myself." />
+	<block key="fb_0_0045_3" korean="And" />
+	<block key="fb_0_0045_4" korean="Connected with my spirit suhoryeong is difficult because it would not feel the change in the other suhoryeong." />
+	<block key="fb_0_0045_5" korean="Consistent with recent research activities were able to find a trace of the pie in the deep cave of Lourdes end of the earth upheaval, \u003cfont color = \It can be found that iphimyeon tame. And \u003cfont color = \" />
+	<block key="fb_0_0046_names" korean="Krabi de" />
+	<block key="fb_0_0046_namel" korean="Void in Krabi de" />
+	<block key="fb_0_0046_map" korean="Sea of ​​Greed" />
+	<block key="fb_0_0046_source" korean="Robinson, director of a report from the archaeological airspace" />
+	<block key="fb_0_0046_0" korean="Hoping nightmare blade bone bony body and made this with blazing red heart \u003cfont color = \." />
+	<block key="fb_0_0046_1" korean="The body is made up of suspected that have evolved to match the environment in the light of the post-war, the collapse of airspace." />
+	<block key="fb_0_0046_2" korean="This powerful godaeyong awake the airspace shortly Nanji, but a lot of bars being found strong resistance to the organism that has a disproportionate strength of the airspace is clear." />
+	<block key="fb_0_0046_3" korean="Krabi de subdue the blame to mercilessly massacred around the creature in full nature will not be easy." />
+	<block key="fb_0_0046_4" korean="In order to tame the Krabi de white wings Amaranth and the key to making a combination of Sharjah \u003cfont color = \In order to fully tame, but a strong godaeyong only way to get him into the fatal blow I'll have to succeed. Also, rumor has it that the recipe to General RIKEN in a fraction of the airspace." />
+	<block key="fb_0_0046_5" korean="Bone" />
+	<block key="fb_0_0046_6" korean="Arc" />
+	<block key="fb_0_0047_names" korean="Leto other Asian" />
+	<block key="fb_0_0047_namel" korean="Leto Void other Asian" />
+	<block key="fb_0_0047_map" korean="Clearance of airspace" />
+	<block key="fb_0_0047_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0047_0" korean="\u003cFont color = \" />
+	<block key="fb_0_0047_1" korean="And" />
+	<block key="fb_0_0047_2" korean="But by the strategic location was transformed into an immortal legions of loyal troops to defend the gap was airspace." />
+	<block key="fb_0_0047_3" korean="Leto making other Asian possible to combine the sacred piece de Krabi and emptiness of airspace through research fellow at the end of several attempts to tame \u003cfont color = \In addition, a sacred piece of airspace is airspace east of destruction, in the temple lost its light \u003cfont color = \" />
+	<block key="fb_0_0048_names" korean="Gala doku" />
+	<block key="fb_0_0048_namel" korean="Red horns Gala doku" />
+	<block key="fb_0_0048_map" korean="Turbulent sea" />
+	<block key="fb_0_0048_source" korean="Robinson, director of a report from the archaeological airspace" />
+	<block key="fb_0_0048_0" korean="Many years of accumulated energy gel Naris and Ellora breathed new life into the remains of the dragon was sleeping." />
+	<block key="fb_0_0048_1" korean="Line" />
+	<block key="fb_0_0048_2" korean="Unlike a top-line \u003cfont color = \" />
+	<block key="fb_0_0048_3" korean="The ability to resist the resonance it has received the attention of the explorer towards the conjugate. In order to tame this gala doku to create a combination of drama and black horn Dino Koo Koo through research fellows \u003cfont color = \Also rumors that the gap between the airspace \u003cfont color = \" />
+	<block key="fb_0_0049_names" korean="White Tear" />
+	<block key="fb_0_0049_namel" korean="White beard, white-tier" />
+	<block key="fb_0_0049_map" korean="Forgotten Dragon Land" />
+	<block key="fb_0_0049_source" korean="Robinson, director of a report from the archaeological airspace" />
+	<block key="fb_0_0049_0" korean="Gels" />
+	<block key="fb_0_0049_1" korean="Born in the spirit of Naris \u003cfont color = \" />
+	<block key="fb_0_0049_2" korean="The fins that resemble the shape of a fish, the Royal Institute for Biological Kinder docile nature to blame activities in airspace kkophimyeo the largest physical characteristics of white-tier enjoys a Fellow of the high ranking of airspace to do research." />
+	<block key="fb_0_0049_3" korean="Whether" />
+	<block key="fb_0_0049_4" korean="Gold also has the aura of a gel Naris dragon breathes life into the hazardous born a white tiers." />
+	<block key="fb_0_0049_5" korean="Have the ability to resist the resonance has received the attention of the explorer. Known immediately that produced by combining the flow tier and tier bladder through research fellows order to tame the white-tier \u003cfont color = \Also rumored to have forgotten in the Dragon Land \u003cfont color = \" />
+	<block key="fb_0_0050_names" korean="Oh brass" />
+	<block key="fb_0_0050_namel" korean="Oh brass golden wings" />
+	<block key="fb_0_0050_map" korean="Aerial scout camp" />
+	<block key="fb_0_0050_source" korean="Robinson, director of a report from the archaeological airspace" />
+	<block key="fb_0_0050_0" korean="The goddess of magic and energy of this vortex of life which can not be one without mysteries soaring as airspace conflicts." />
+	<block key="fb_0_0050_1" korean="Gold" />
+	<block key="fb_0_0050_2" korean="Light Wing \u003cfont color = \" />
+	<block key="fb_0_0050_3" korean="People are calling, also known as the incarnation of the goddess ah brass, Society and analyze the impact on the golden aura airspace. Oh brass tame order to create a combination of Windrunner's Envy and expanse through research fellows \u003cfont color = \Also rumored to have \u003cfont color = \" />
+	<block key="fb_0_0051_names" korean="Cargo days (empty)" />
+	<block key="fb_0_0051_namel" korean="Cargo days of the Void" />
+	<block key="fb_0_0051_map" korean="Forgotten Dragon Land" />
+	<block key="fb_0_0051_source" korean="Robinson, director of a report from the archaeological airspace" />
+	<block key="fb_0_0051_0" korean="At the time the airspace of a conflict of drinking and credit collapse \u003cfont color = \" />
+	<block key="fb_0_0051_1" korean="Reodeon of cargo work was to share the ancient dragons and dragon's spirit was sleeping on the ground." />
+	<block key="fb_0_0051_2" korean="The results are revealed for the ancient look to release the sealed airspace soon after awakening sikyeotgo Cargo days. In order to tame the Cargo days \u003cfont color = \Please see Getting To find the Forgotten Knights Dragon Land Notice Pegasus installed." />
+	<block key="fb_0_0051_3" korean="That" />
+	<block key="fb_0_0052_names" korean="Cargo days (Dawn)" />
+	<block key="fb_0_0052_namel" korean="Dawn of cargo work" />
+	<block key="fb_0_0052_map" korean="Forgotten Dragon Land" />
+	<block key="fb_0_0052_source" korean="Robinson, director of a report from the archaeological airspace" />
+	<block key="fb_0_0052_0" korean="Bong" />
+	<block key="fb_0_0052_1" korean="In the spirit of the drink is infused with cargo work created a posse." />
+	<block key="fb_0_0052_2" korean="Cargo mind two things to share, but there are some differences with ability." />
+	<block key="fb_0_0052_3" korean="Accept an aura that is so magical mix of airspace capacity cargo work and the development of a void is contrary \u003cfont color = \The difference does not impenetrable scales and the. For this reason, the immortal army has shown great interest to both of them." />
+	<block key="fb_0_0052_4" korean="Fire" />
+	<block key="fb_0_0052_5" korean="Unlike the work of the empty cargo receiving corps is rather the pursuit of four traveled to find the Immortal Legion slaughter." />
+	<block key="fb_0_0052_6" korean="In order to tame the cargo be purified bone integer and the hongryeon Leonid, the ultimate driver bonginseok Soap made from materials that \u003cfont color = \But completely tame order \u003cfont color = \Also there is a clue in the purified bone integer forgotten Dragon Land Knights Pegasus installation notice." />
+	<block key="fb_0_0060_names" korean="Beldeon" />
+	<block key="fb_0_0060_namel" korean="Beldeon Immortal" />
+	<block key="fb_0_0060_map" korean="Black Dragon haven of cancer" />
+	<block key="fb_0_0060_source" korean="Robinson, director of a report from the archaeological airspace" />
+	<block key="fb_0_0060_0" korean="Light" />
+	<block key="fb_0_0060_1" korean="Powerful godaeyong who worked in a time of war, they had each one a unique habit." />
+	<block key="fb_0_0060_2" korean="That was easy jungen concerned with the soul of life, he is just \u003cfont color = \Beldeon attention turned out to madness devoured the souls of the dead soldiers. When the power of the goddess and drink to conflict, and the airspace explosion, beldeon the flesh, but he lost his will preserve as much as a shield to absorb a soul Sanya." />
+	<block key="fb_0_0060_3" korean="This" />
+	<block key="fb_0_0060_4" korean="After the horsepower of the Immortal Legion receives grant injected new body shape once again revealed the airspace." />
+	<block key="fb_0_0060_5" korean="The emergence of beldeon is also a hot topic in the wizard of truth was the strong commitment of the recent beldeon \u003cfont color = \Also, I hear a story of a high school Immortal Legion, Lt. bottle, and that shamans are \u003cfont color = \and there." />
+	<block key="fb_0_0061_names" korean="Abercrombie \u0026 Fitch Renee" />
+	<block key="fb_0_0061_namel" korean="Abercrombie \u0026 Fitch Renee" />
+	<block key="fb_0_0061_map" korean="Resonance of horsepower" />
+	<block key="fb_0_0061_source" korean="Remy diary from your fellow hunters" />
+	<block key="fb_0_0061_0" korean="Updated" />
+	<block key="fb_0_0061_1" korean="ABBA was one look Ren Wright Earl of those ugly spider to deal with disgusting creatures about." />
+	<block key="fb_0_0061_2" korean="\u003cFont color = \It is more familiar than the name." />
+	<block key="fb_0_0061_3" korean="This" />
+	<block key="fb_0_0061_4" korean="The attention of the people who want to study the doksaem horsepower increase the amount of these attempts has led the catch is captured." />
+	<block key="fb_0_0061_5" korean="However, in order to tame the Abba Ren \u003cfont color = \There have been way Renee necessary \u003cfont color = \" />
+	<block key="fb_0_0062_names" korean="Pegasus" />
+	<block key="fb_0_0062_namel" korean="Pegasus" />
+	<block key="fb_0_0062_map" korean="Aerial scout camp" />
+	<block key="fb_0_0062_source" korean="Remy diary from your fellow hunters" />
+	<block key="fb_0_0062_0" korean="Ball" />
+	<block key="fb_0_0062_1" korean="Most of the creatures of the station has been affected in the whirlpool of horsepower born with the power of the goddess drank and conflict." />
+	<block key="fb_0_0062_2" korean="However, \u003cfont color = \there. It is also preferred species are excellent rapport skills of numerous articles and humans." />
+	<block key="fb_0_0062_3" korean="To" />
+	<block key="fb_0_0062_4" korean="Bill's words roll sleep, the life companion and said most trusted colleagues in the field." />
+	<block key="fb_0_0062_5" korean="In order to tame this Pegasus \u003cfont color = \Maybe the key is to show the power of the amount, nor exceed shortage without?" />
+	<block key="fb_0_0063_names" korean="Carl ripto" />
+	<block key="fb_0_0063_namel" korean="Carl ripto of geukyeom" />
+	<block key="fb_0_0063_map" korean="Historic spa zone" />
+	<block key="fb_0_0063_source" korean="Report a priest from the church of Terry O cells Bray" />
+	<block key="fb_0_0063_0" korean="And" />
+	<block key="fb_0_0063_1" korean="One of the sons of one dubious Scott rasya \u003cfont color = \" />
+	<block key="fb_0_0063_2" korean="Since Scott rasya is just shit the guardian of the goddess often enlightening to surrender before the divine power of the sword ripto Ellora are trying to determine the new geochwi. In order to tame the knife ripto \u003cfont color = \and that the available." />
+	<block key="fb_0_0064_names" korean="Free bonus" />
+	<block key="fb_0_0064_namel" korean="Free bonus of Darkness" />
+	<block key="fb_0_0064_map" korean="Mission of Earl" />
+	<block key="fb_0_0064_source" korean="Report a priest from the church of Terry O cells Bray" />
+	<block key="fb_0_0064_0" korean="And" />
+	<block key="fb_0_0064_1" korean="One, one of the sons of dubious Scott rasya \u003cfont color = \" />
+	<block key="fb_0_0064_2" korean="Here junghi demo bonus honor was trying to Ellora is receiving significant portion of a shock to accept the challenge to humanize Scott rasya aura of darkness. In order to tame the demo bonus \u003cfont color = \and that the available." />
+	<block key="fb_0_0065_names" korean="On Hami" />
+	<block key="fb_0_0065_namel" korean="Hami come from Aisha" />
+	<block key="fb_0_0065_map" korean="Broken square belfry" />
+	<block key="fb_0_0065_source" korean="Aisha reports of priests from the water theme rildeu" />
+	<block key="fb_0_0065_0" korean="L" />
+	<block key="fb_0_0065_1" korean="Laura seemed to have made a suhoryeong for the purpose of coordinating the balance of the world, I made the water goddess Parque agent." />
+	<block key="fb_0_0065_2" korean="Hami covered with solid ice on Aisha is a fellow who was a sergeant from the earth goddess to preach the Parque my sense shaman receives direct successor of the water. In order to tame the Hami on \u003cfont color = \and that the available." />
+	<block key="fb_0_0066_names" korean="Shoe Terran" />
+	<block key="fb_0_0066_namel" korean="Prominences of the shoe Terran" />
+	<block key="fb_0_0066_map" korean="Swamp turncoat" />
+	<block key="fb_0_0066_source" korean="From the land of the frozen clutches of the collector Darcy" />
+	<block key="fb_0_0066_0" korean="Sword" />
+	<block key="fb_0_0066_1" korean="From the red dragon belongs to conquer alliance led by Kell point for the liver \u003cfont color = \" />
+	<block key="fb_0_0066_2" korean="Prominences called the Fire has a constant born shoe Terran is the reigning lord of fire, serving a 12-led alliance to conquer the red for the moment they are born complete the production. Shoe Terran is showing great interest and many haunts in the Parque my land, but in order to tame the dragon red flames blazing \u003cfont color = \" />
+	<block key="fb_0_0067_names" korean="Greater Terran" />
+	<block key="fb_0_0067_namel" korean="Anil's large Terran" />
+	<block key="fb_0_0067_map" korean="Swamp turncoat" />
+	<block key="fb_0_0067_source" korean="From the land of the frozen clutches of the collector Darcy" />
+	<block key="fb_0_0067_0" korean="Blue for clothing belonging to the allies \u003cfont color = \" />
+	<block key="fb_0_0067_1" korean="Simple point Kell led alliance conquest had been a patron Union and ending in a long power struggle for the golden eggs that rival deuba revered and venerated for centuries horsepower physical force." />
+	<block key="fb_0_0067_2" korean="Over the year, but for the silver-to-gold is a wise one for Kell point resection and were amazed at the amazing power of magic is easy to demonstrate that the major axis of the white patron Union of harmony." />
+	<block key="fb_0_0067_3" korean="Terran has become the successor to the head of another Lennon for the White eventually backs Shia clan led by the power of magic." />
+	<block key="fb_0_0067_4" korean="This has been stigmatized and were taken to date by turncoat. Current aldeu Baan among post, Federated system fell for Golden greater Terrans plagued with death threats from fellow is believed to have fled to the Parque my land. To obtain a large number of adventurers under cover of this opportunity Terran \u003cfont color = \" />
+	<block key="fb_0_0067_5" korean="Tablet" />
+	<block key="fb_0_0067_6" korean="Size" />
+	<block key="fb_0_0068_names" korean="Lucio wave" />
+	<block key="fb_0_0068_namel" korean="Lucio wave" />
+	<block key="fb_0_0068_map" korean="The wave lakh estates" />
+	<block key="fb_0_0068_source" korean="From the land of the frozen clutches of the collector Darcy" />
+	<block key="fb_0_0068_0" korean="Pardo and goddess were rigon within the Trust without regard to race it was meant for heterogeneous family of the Goddess of Mercy roum, represented by mureo beauty mermaid, the \u003cfont color = \was not an exception." />
+	<block key="fb_0_0068_1" korean="The Parque my tales about the house, so trust is relatively more, please see description found." />
+	<block key="fb_0_0068_2" korean="In summary, when the value reached the Pearl Parque my land, commander of the darkness that did not stop hitting Indecent Proposal resist temptation and Pearl were led by the goddess finally reached the place." />
+	<block key="fb_0_0068_3" korean="But only Raven who was the spirit of the Magi and the domination of the Promised Land flowing dark eyes were on him handing compensation." />
+	<block key="fb_0_0068_4" korean="With the recent Bridal carboxylic bonginseok the porch that inhabit the forests, the report sikindaneun purifying the same properties as the Magi of the wave Lucio announcement was a lot of attention. Pearl gildeulyiryeo value is expected to be equipped with a adventurers pilhi \u003cfont color = \" />
+	<block key="fb_0_0068_5" korean="This" />
+	<block key="fb_0_0068_6" korean="And" />
+	<block key="fb_0_0069_names" korean="Geurabion" />
+	<block key="fb_0_0069_namel" korean="Geurabion of Twilight" />
+	<block key="fb_0_0069_map" korean="Moon Shadow Glen" />
+	<block key="fb_0_0069_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0069_0" korean="That" />
+	<block key="fb_0_0069_1" korean="Information on the Ravi says that there is no choice but to be based on the founding myth of the very limited period and then to Canas." />
+	<block key="fb_0_0069_2" korean="End" />
+	<block key="fb_0_0069_3" korean="Not the darkness beyond, the Lord Haas knees to drink gel Naris kkuleun camera and a huge whale of seven revolving around it." />
+	<block key="fb_0_0069_4" korean="By the time the war's end of the conversation light, magic of Ellora and gel Naris squeeze the gap stretches beyond the middle-Las-dimensional collided \u003cfont color = \The memory of geurabion knocked Telly comes face to face with the reality of geurabion god of darkness prying." />
+	<block key="fb_0_0069_5" korean="Terry came out of the rush that comes to mind surprised Haas camera can not be overruled beomjeop. Eonggyeo attached to the body of the Telly comes geurabion in the process \u003cfont color = \And in fact \u003cfont color = \Rumors are ridiculous La Beanie stole." />
+	<block key="fb_0_0070_names" korean="Sharkey Bar" />
+	<block key="fb_0_0070_namel" korean="Sharkey gold bars" />
+	<block key="fb_0_0070_map" korean="Sharkey's Nest Bar" />
+	<block key="fb_0_0070_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0070_0" korean="3 youngmul of the ancient power of the dark one and the giant bat meogeumeo governing the desert at night \u003cfont color = \" />
+	<block key="fb_0_0070_1" korean="Lords of Doom also referred to the existence and killing a number of Gryphon located in the desert of monsters." />
+	<block key="fb_0_0070_2" korean="They should immediately revealed that in addition to what is currently required Sharkey golden statue to tame \u003cfont color = \\u003cFont color = \" />
+	<block key="fb_0_0070_3" korean="Uh" />
+	<block key="fb_0_0071_names" korean="A dash" />
+	<block key="fb_0_0071_namel" korean="Pradesh in the Fall" />
+	<block key="fb_0_0071_map" korean="Peck Tura top" />
+	<block key="fb_0_0071_source" korean="Among the writings of Vine der between the sympathetic and governance" />
+	<block key="fb_0_0071_0" korean="Was a Fellow of the legend is known with multiple heads that dominate the space-time dimension in charge who destroyed the Commandment." />
+	<block key="fb_0_0071_1" korean="Three heads of the dash is a ruin, play, have the power of pain, and a strong attack by the three powers." />
+	<block key="fb_0_0071_2" korean="This powerful \u003cfont color = \In addition, they need to combine the power of the Blood in the fruit and something, not known yet. Haebomyeon General to investigate the information most important clue is \u003cfont color = \" />
+	<block key="fb_0_0071_3" korean="By" />
+	<block key="fb_0_0072_names" korean="Tall Ruth" />
+	<block key="fb_0_0072_namel" korean="Duluth Tall Thunder Dragon" />
+	<block key="fb_0_0072_map" korean="Forgotten Valley" />
+	<block key="fb_0_0072_source" korean="From the air Fellow of yeonguseo expanse of Hearts" />
+	<block key="fb_0_0072_0" korean="Aloof enjoy speculating in specific areas exist in \u003cfont color = \" />
+	<block key="fb_0_0072_1" korean="If the secured area meek but only God, by turns violent when the area becomes involved in any way." />
+	<block key="fb_0_0072_2" korean="According to the villagers, the hermit saw the toll Ruth enjoying the speculation comes from the sky near the town of hermit occasionally has heard the rumors. The ruler of the sky, the road toll and that is how Ruth were able to get from his family as a golden nest of Sharkey Sharkey's Bar." />
+	<block key="fb_0_0072_3" korean="Character" />
+	<block key="fb_0_0073_names" korean="Signature Taunus" />
+	<block key="fb_0_0073_namel" korean="Janus bag of Chatham" />
+	<block key="fb_0_0073_map" korean="Military District of the Croix entrance Kuhn" />
+	<block key="fb_0_0073_source" korean="Among the mysteries of yeonguseo fellow collector beldu" />
+	<block key="fb_0_0073_0" korean="Most of the fellows living in the desert is a look if you do not keep your own in order to protect themselves, most under the heat of the sun." />
+	<block key="fb_0_0073_1" korean="But \u003cfont color = \" />
+	<block key="fb_0_0073_2" korean="In addition, the mystical aura felt from Chatham Janus usually does not allow even one person is going to reach out to Chatham Janus." />
+	<block key="fb_0_0073_3" korean="Since product and also a symbol of mystical powers Pegasus Knights of easy elegance did not even approach it." />
+	<block key="fb_0_0073_4" korean="If gildeulyiryeo the Chatham Janus \u003cfont color = \Haunted the chromatin Kuhn barracks Earth \u003cfont color = \Would?" />
+	<block key="fb_0_0073_5" korean="And" />
+	<block key="fb_0_0073_6" korean="Period" />
+	<block key="fb_0_0074_names" korean="Ruth Vega" />
+	<block key="fb_0_0074_namel" korean="Ruth Vega venom" />
+	<block key="fb_0_0074_map" korean="Scott's commitment rasya" />
+	<block key="fb_0_0074_source" korean="Im carve out a report of the denomination wave sheet" />
+	<block key="fb_0_0074_0" korean="Scott was a loyal rasya \u003cfont color = \" />
+	<block key="fb_0_0074_1" korean="Scott then left into the magma Fora rasya Ruth Vega Scott rasya waiting to come back, begin to bear the venom to protect the language of destruction was its venom is estimated will inflict a fatal blow is contained in the box desperately loyal." />
+	<block key="fb_0_0074_2" korean="Here the language of the coveted destroyed, and a powerful poison and forefinger of Ruth Vega never far away from them." />
+	<block key="fb_0_0074_3" korean="In order to tame the Ruth Vega \u003cfont color = \Tears of Scott rasya the \u003cfont color = \" />
+	<block key="fb_0_0074_4" korean="Switch" />
+	<block key="fb_0_0074_5" korean="Bong" />
+	<block key="fb_0_0075_names" korean="Poyo" />
+	<block key="fb_0_0075_namel" korean="Poyo of Glory" />
+	<block key="fb_0_0075_map" korean="Barren branches road" />
+	<block key="fb_0_0075_source" korean="From the flight plan of the desert astronaut Carl" />
+	<block key="fb_0_0075_0" korean="Desert owl was born in the dark sand was scattered fog was less powerful tribe in the desert of the original immortality." />
+	<block key="fb_0_0075_1" korean="Light \u003cfont color = \" />
+	<block key="fb_0_0075_2" korean="In recent years, however yongbyeongdan the red revolution from which the only way to tame the garrison poyo \u003cfont color = \In the words of the witnesses to the feathers of the piyo it is important to create a sign of poyo, it is said that \u003cfont color = \" />
+	<block key="fb_0_0075_3" korean="Spirit" />
+	<block key="fb_0_0076_names" korean="Far North" />
+	<block key="fb_0_0076_namel" korean="Mirage of the Far North" />
+	<block key="fb_0_0076_map" korean="A gold mine transportation" />
+	<block key="fb_0_0076_source" korean="My writings of serenity difference between treasures and antiques" />
+	<block key="fb_0_0076_0" korean="That likes to adorn with jewelry \u003cfont color = \" />
+	<block key="fb_0_0076_1" korean="Chyeopi to be a predatory attend covering their bodies with importing all kinds of gold and jewels." />
+	<block key="fb_0_0076_2" korean="Panos unique gold in order to tame made \u003cfont color = \According to rumors say that \u003cfont color = \" />
+	<block key="fb_0_0076_3" korean="Hawk" />
+	<block key="fb_0_0077_names" korean="Tara News" />
+	<block key="fb_0_0077_namel" korean="Flame of Tara News" />
+	<block key="fb_0_0077_map" korean="Fire altar" />
+	<block key="fb_0_0077_source" korean="Among gelato dry earth creature rather than the yeonguseo" />
+	<block key="fb_0_0077_0" korean="News tribe owns a firm skin, such as armor, because born with the spirit of the sun." />
+	<block key="fb_0_0077_1" korean="Among them, \u003cfont color = \Tara were evolution into a red-ku is the solid form of skin to adapt to the heat of the desert, riding the energy of the sun is become more ferocious by nature and I wind the lookout for people high." />
+	<block key="fb_0_0077_2" korean="Those who attempt to subdue the Raku will receive a whole body heat melts the pain of Tara hot couscous." />
+	<block key="fb_0_0077_3" korean="In order to Tara News and The Taming of the dose Raku Raku combined strength of the material \u003cfont color = \And Cobb being and that it has an important clue to create a sign of Tara News One of the church, I hear that, according to haunt the shadow of death \u003cfont color = \and they can get." />
+	<block key="fb_0_0077_4" korean="La" />
+	<block key="fb_0_0077_5" korean="Other" />
+	<block key="fb_0_0078_names" korean="Bajyan" />
+	<block key="fb_0_0078_namel" korean="Bajyan long horns" />
+	<block key="fb_0_0078_map" korean="Sands of oblivion" />
+	<block key="fb_0_0078_source" korean="Among gelato dry earth creature rather than the yeonguseo" />
+	<block key="fb_0_0078_0" korean="Hit the sand was famous as a habitat for saendeuwom, one of the three ancient youngmul was like an ocean swimming area." />
+	<block key="fb_0_0078_1" korean="Fellow flock in droves around long before there was found. It was created just disappeared into the gap in the ancient confusion of war \u003cfont color = \." />
+	<block key="fb_0_0078_2" korean="View and has attracted the attention of many different fellow who owns the master brain clever fellow." />
+	<block key="fb_0_0078_3" korean="In order to tame the bajyan \u003cfont color = \However, in order to tame the bajyan without violent resistance \u003cfont color = \" />
+	<block key="fb_0_0078_4" korean="Remove" />
+	<block key="fb_0_0078_5" korean="Outside" />
+	<block key="fb_0_0079_names" korean="Do tyura" />
+	<block key="fb_0_0079_namel" korean="Martyrs of the village tyura" />
+	<block key="fb_0_0079_map" korean="Please Croix Temple" />
+	<block key="fb_0_0079_source" korean="Among non-rummy Shaman Napa order of the journal" />
+	<block key="fb_0_0079_0" korean="Burning sands of the temperature \u003cfont color = \" />
+	<block key="fb_0_0079_1" korean="Reportedly promised a big threat to all those who fight for their own worth as a canine body and his head turned red, the size of matyu. Unlike other fellow unusually long tail to disperse the heat to loose a feature that has a strong vitality by keeping the body temperature." />
+	<block key="fb_0_0079_2" korean="Many experts called matyu fellow who owns the resulting strength is watching with interest." />
+	<block key="fb_0_0079_3" korean="In order to tame the stamina to do tyura \u003cfont color = \There is no information revealed. Be the Croix temple \u003cfont color = \" />
+	<block key="fb_0_0079_4" korean="Fire" />
+	<block key="fb_0_0079_5" korean="River" />
+	<block key="fb_0_0080_names" korean="Large North" />
+	<block key="fb_0_0080_namel" korean="The greater the destruction of the North" />
+	<block key="fb_0_0080_map" korean="Summon Room" />
+	<block key="fb_0_0080_source" korean="Among gelato dry earth creature rather than the yeonguseo" />
+	<block key="fb_0_0080_0" korean="Nagi Al Kinney total defeat in the War of the Undead Legion seeks to enforce a magical experiment in the desert across the Immortal." />
+	<block key="fb_0_0080_1" korean="Wild beasts of the desert called bulrideon \u003cfont color = \Thus, smoking Kearney know that sacrifice was eventually force a large number of fellow test-inspiring magic ghost and evil thoughts, and the cause of death on the ground fog up the whole of the desert." />
+	<block key="fb_0_0080_2" korean="When was shown again this large North is, previous memories are all said to have been revived without missing." />
+	<block key="fb_0_0080_3" korean="In order to subdue the big North \u003cfont color = \According to the residents will not be able to create a sign of the greater North without the destruction of bone fragments, more obvious clues \u003cfont color = \" />
+	<block key="fb_0_0080_4" korean="Light" />
+	<block key="fb_0_0080_5" korean="This" />
+	<block key="fb_0_0081_names" korean="Chyeopi" />
+	<block key="fb_0_0081_namel" korean="Clever chyeopi" />
+	<block key="fb_0_0081_map" korean="A gold mine transportation" />
+	<block key="fb_0_0081_source" korean="My writings of serenity difference between treasures and antiques" />
+	<block key="fb_0_0081_0" korean="Past, Al Golden is disappearing every day in this case found a gold mine in the town of Gocek occurred. An interesting aspect of this case is that every time changes are ways to plunder." />
+	<block key="fb_0_0081_1" korean="The presence of such a miner on his way to deceive the robbers looted gold sections are called \u003cfont color = \" />
+	<block key="fb_0_0081_2" korean="Chyeopi and his tribe beyond the intelligence to plunder the gold and jewels of the people who were there, such as the workers of the gold mine susongro nunetgasi." />
+	<block key="fb_0_0081_3" korean="For their chief Panos jewelry to decorate the blood has always aimed only chance to loot the gold." />
+	<block key="fb_0_0081_4" korean="Yitorok clever chyeopi make possible the production of The Taming of the material saendeuwom oil through research fellows \u003cfont color = \For more information on the signs of blood hit Cartography is a haunting dust wind field \u003cfont color = \" />
+	<block key="fb_0_0081_5" korean="Light" />
+	<block key="fb_0_0081_6" korean="Hit" />
+	<block key="fb_0_0082_names" korean="Denny half" />
+	<block key="fb_0_0082_namel" korean="Denny half" />
+	<block key="fb_0_0082_map" korean="Military District of the Croix-kun" />
+	<block key="fb_0_0082_source" korean="Desert ecosystem report from the Institute of Potts Dell" />
+	<block key="fb_0_0082_0" korean="Unlike the Deva of wisdom would have believed Le Hess Wrap saved \u003cfont color = \" />
+	<block key="fb_0_0082_1" korean="It is shown to be derived from Denny half warlike tendencies. One of the biggest features indicating the Denny half is attached to the head crest. Like a Denny half capacity, unlike the ridiculous appearance reminiscent ssaumdal built the crests often comes unexpectedly that this is where the researchers." />
+	<block key="fb_0_0082_2" korean="Red skin has been reported that groups equally hard shell bounced dumping also quite a bit of steel." />
+	<block key="fb_0_0082_3" korean="In order to tame the Denny half through making available such as research fellow of the desert tortoise shells of material \u003cfont color = \For more information on Denny half Cartography is a sign that haunts the barren road forked \u003cfont color = \" />
+	<block key="fb_0_0082_4" korean="Four" />
+	<block key="fb_0_0082_5" korean="Female" />
+	<block key="fb_0_0083_names" korean="Tea Tree" />
+	<block key="fb_0_0083_namel" korean="Tea Tree" />
+	<block key="fb_0_0083_map" korean="Barren branches road" />
+	<block key="fb_0_0083_source" korean="Desert ecosystem report from the Institute of Potts Dell" />
+	<block key="fb_0_0083_0" korean="Wizard of truth in the airspace of the network have found a strong aura of Ellora wandering the earth goddess of airspace." />
+	<block key="fb_0_0083_1" korean="Magic at the time the truth was mandatory social experiment to inject a Fellow of the energy found in the desert by the spirit of the goddess of immortality, and just as I need to find the physical power to supplement the power of the kingdom rapidly deteriorated after the war , where the only \u003cfont color = \" />
+	<block key="fb_0_0083_2" korean="Know that the spirit of the late Ellora Naris gel mixed with an unstable energy experiment was stopped." />
+	<block key="fb_0_0083_3" korean="In order to tame the tree T by using a sealed power of Oasis crocodile made possible research fellows \u003cfont color = \For more information about the tree tee signs are stationed in Brage mine \u003cfont color = \" />
+	<block key="fb_0_0083_4" korean="Destroy" />
+	<block key="fb_0_0083_5" korean="Rear" />
+	<block key="fb_0_0084_names" korean="Bar jyanin" />
+	<block key="fb_0_0084_namel" korean="Bar jyanin" />
+	<block key="fb_0_0084_map" korean="Sands of oblivion" />
+	<block key="fb_0_0084_source" korean="Desert ecosystem report from the Institute of Potts Dell" />
+	<block key="fb_0_0084_0" korean="War of the Ancients, dubious and some of the many species created in the hands of four who has fought four given at the time of the confusion is said to have moved the continents avoid this confusion." />
+	<block key="fb_0_0084_1" korean="Company desert sands of oblivion has been discovered ancient fellow crowd who go to the continent at that time." />
+	<block key="fb_0_0084_2" korean="In particular, \u003cfont color = \" />
+	<block key="fb_0_0084_3" korean="These two euros are jyanin bar receives a strong interest in its value is very high, Fellow Research Institute." />
+	<block key="fb_0_0084_4" korean="However, progress in research on personality and andago not blame Vicious nokrok. In order to tame these bars jyanin \u003cfont color = \The fallen Croix Kuhn said Dr. Mahal moire \u003c/ font\u003e is carried on the body." />
+	<block key="fb_0_0084_5" korean="Fire" />
+	<block key="fb_0_0084_6" korean="This" />
+	<block key="fb_0_0085_names" korean="Chimseu" />
+	<block key="fb_0_0085_namel" korean="Chimseu" />
+	<block key="fb_0_0085_map" korean="Dust wind field" />
+	<block key="fb_0_0085_source" korean="Desert ecosystem report from the Institute of Potts Dell" />
+	<block key="fb_0_0085_0" korean="In broad plains and Canas not seen \u003cfont color = \" />
+	<block key="fb_0_0085_1" korean="Using it to strong instinct of wild Unlike characterized by gentle appearance play a big step." />
+	<block key="fb_0_0085_2" korean="Julindago known as flexible ligaments and muscles with the help of at least the physical consumption, do not eat any food and they can survive for 30 days." />
+	<block key="fb_0_0085_3" korean="It has tons hunters tried to catch a case chimseu lost their lives under the assault of a surprise." />
+	<block key="fb_0_0085_4" korean="In order to tame the chimseu can produce a sealed power of the Kruger and sand of the material denba \u003cfont color = \Clues for making the signs are there is a rumor that someone is in possession of the gold mines and susongro, \u003cfont color = \." />
+	<block key="fb_0_0085_5" korean="Rear" />
+	<block key="fb_0_0085_6" korean="Many" />
+	<block key="fb_0_0086_names" korean="Kiva Rennes" />
+	<block key="fb_0_0086_namel" korean="Kiva Rennes gold" />
+	<block key="fb_0_0086_map" korean="Sharkey's Nest Bar" />
+	<block key="fb_0_0086_source" korean="Among Fellow of yeonguseo expanse of the collector beldu" />
+	<block key="fb_0_0086_0" korean="Among blood relatives of Kiva referred to the existence of pure jinhyeolui collectively inherited \u003cfont color = \" />
+	<block key="fb_0_0086_1" korean="Kiva also called the soft golden golden Rennes blame in wearing a huge body. Kiva has a shape like a wren in existence similar to that described jinhyeolui of Sharkey Sharkey took over the bar and even greed similar tendencies once and had never fought a travelogue seeking a seat in the bar Sharkey gave birth to them." />
+	<block key="fb_0_0086_2" korean="Kiva Rennes light domatah the role of captain outrageous behavior Griffon king was to buy the wrath of Ken Griffith." />
+	<block key="fb_0_0086_3" korean="In order to give in the Kiva Fellows Rennes through research Griffon possible to produce a bill of materials \u003cfont color = \Some do not, according to the words of the adventurer is an important clue to the token creation of Kiva inhabit the surrounding Wren's Nest Bar Sharkey \u003cfont color = \." />
+	<block key="fb_0_0086_4" korean="Shah" />
+	<block key="fb_0_0086_5" korean="Gold" />
+	<block key="fb_0_0087_names" korean="Deva" />
+	<block key="fb_0_0087_namel" korean="Videos of Wisdom" />
+	<block key="fb_0_0087_map" korean="Sands of oblivion" />
+	<block key="fb_0_0087_source" korean="Desert ecosystem report from the Institute of Potts Dell" />
+	<block key="fb_0_0087_0" korean="Each of the sands is that there were still traces of saendeuwom As delivered from the foot of those who were lost." />
+	<block key="fb_0_0087_1" korean="4 Nerja Hess gave three limbs are needed to assist the youngmul regard to the lack of wisdom saendeuwom \u003cfont color = \But Hess Nerja to Deva has inherited the wisdom saendeuwom later because of the instinct of destruction, desert ecosystems would collapse were felt threatened him boundary." />
+	<block key="fb_0_0087_2" korean="Deva known to exist from the wise and guessed the big horns in the head Is not a source of wisdom." />
+	<block key="fb_0_0087_3" korean="In order to get the wisdom of making such Deva possible through the shell of the desert tortoise research fellow in materials \u003cfont color = \In addition to formatting an important clue to the Deva signs around Cartography Sharkey's Nest Bar \u003cfont color = \" />
+	<block key="fb_0_0087_4" korean="Networks" />
+	<block key="fb_0_0087_5" korean="Example" />
+	<block key="fb_0_0088_names" korean="Effusion" />
+	<block key="fb_0_0088_namel" korean="Clever Toro" />
+	<block key="fb_0_0088_map" korean="The flight of the Challenger" />
+	<block key="fb_0_0088_source" korean="From the flight plan of the desert astronaut Carl" />
+	<block key="fb_0_0088_0" korean="Company has scattered his assistant's poyo a rally race scattered in the desert \u003cfont color = \" />
+	<block key="fb_0_0088_1" korean="Four races and rally the limbs of yoga in the process poyo places to catch a flight to the role of the challenger was a reliable throne. Toro poyo and appearance, disposition, but if you both have similar recognition of the contribution that helped the poyo called Toro clever." />
+	<block key="fb_0_0088_2" korean="And that the film primarily in the sky to fly Toro challenger According to the testimony of witnesses and investigators." />
+	<block key="fb_0_0088_3" korean="In order to tame the Toro \u003cfont color = \And that in the flight information periodically to get to the desert to observe the Toro team witnessed a garrison in yongbyeongdan \u003cfont color = \" />
+	<block key="fb_0_0088_4" korean="Fire" />
+	<block key="fb_0_0088_5" korean="Four" />
+	<block key="fb_0_0089_names" korean="The ash" />
+	<block key="fb_0_0089_namel" korean="The ash" />
+	<block key="fb_0_0089_map" korean="Forgotten Valley" />
+	<block key="fb_0_0089_source" korean="Among gelato dry earth creature rather than the yeonguseo" />
+	<block key="fb_0_0089_0" korean="Immortal magic experiment called cursed plague Corps fought in the shadow of death desert southeast of immortality went away all the lives of creatures that inhabit the surrounding." />
+	<block key="fb_0_0089_1" korean="Ash also died of the plague, but was reborn as a magic horsepower head of Nagi Al Kinney Immortal Legion." />
+	<block key="fb_0_0089_2" korean="\u003cFont color = \" />
+	<block key="fb_0_0089_3" korean="Collector say we need a sign of four legions and a close relationship to the surface gildeulyiryeo the ash Ash." />
+	<block key="fb_0_0089_4" korean="In order to tame the combined forces of the Ash cursed and cursed Corban de Leon is required. Analysis of the information of some fellow hunter, \u003cfont color = \and that a lease \u003c/ font\u003e." />
+	<block key="fb_0_0089_5" korean="The" />
+	<block key="fb_0_0089_6" korean="Fire" />
+	<block key="fb_0_0090_names" korean="Griffon" />
+	<block key="fb_0_0090_namel" korean="Griffon" />
+	<block key="fb_0_0090_map" korean="Golden Peaks" />
+	<block key="fb_0_0090_source" korean="Among Fellow of yeonguseo expanse of the collector beldu" />
+	<block key="fb_0_0090_0" korean="Ken Griffith triple youngmul high is conceived offspring resembling sought to consolidate his own power." />
+	<block key="fb_0_0090_1" korean="The intention with the birth of \u003cfont color = \is accepted as a partner." />
+	<block key="fb_0_0090_2" korean="Ripon excellent rapport with the unfolding story is known to be the most active time battle beoleojyeoteul." />
+	<block key="fb_0_0090_3" korean="The stories that are handed down by a Griffon obey only the relative superiority of the enemy forces and contested perfected somewhat obscured." />
+	<block key="fb_0_0090_4" korean="Womb" />
+	<block key="fb_0_0090_5" korean="That" />
+	<block key="fb_0_0091_names" korean="Dos Raku" />
+	<block key="fb_0_0091_namel" korean="Dos Raku" />
+	<block key="fb_0_0091_map" korean="Fire altar" />
+	<block key="fb_0_0091_source" korean="Desert ecosystem report from the Institute of Potts Dell" />
+	<block key="fb_0_0091_0" korean="Serious petite and \u003cfont color = \" />
+	<block key="fb_0_0091_1" korean="Among these features the most eye off the part of the dose Raku is inde huge antlers, horns of immortality of the dose Raku In the words of Wilson teulreo under study while fellow 10-year second only desert is an amazing power that turns into a thick rock of the desert dust and that the carry." />
+	<block key="fb_0_0091_2" korean="Aggressive tendencies rise to investigators and adventurers across the desert to blame regarded as a precautionary target hand." />
+	<block key="fb_0_0091_3" korean="According to the words of the collector to study the possible production of Raku molar dose of the wild boar of the material through research fellows \u003cfont color = \Dos Raku signs of being stationed in barracks Croix Kuhn \u003cfont color = \" />
+	<block key="fb_0_0091_4" korean="Meat" />
+	<block key="fb_0_0091_5" korean="Ball" />
+	<block key="fb_0_0092_names" korean="Adela size" />
+	<block key="fb_0_0092_namel" korean="Adela size of carnage" />
+	<block key="fb_0_0092_map" korean="Forgotten Valley" />
+	<block key="fb_0_0092_source" korean="Among gelato dry earth creature rather than the yeonguseo" />
+	<block key="fb_0_0092_0" korean="Nagi Al Kearney's army chief use is the ruler of the spider was born through the magic of the plague experiment." />
+	<block key="fb_0_0092_1" korean="\u003cFont color = \Spider lived for many years in a forgotten valley are the subject of the valley and the greatest risk due to man-eating habits." />
+	<block key="fb_0_0092_2" korean="Muscle, hermits are showing beyond the liberation movement want to succumb to the threat of Adela size." />
+	<block key="fb_0_0092_3" korean="According to tame the ever greater Adela make known information made available through the Valley Research Fellow ingredients sealed power of cannibalistic spiders and spider desert \u003cfont color = \. Also being seen in front of the ruins of the Temple \u003cfont color = \" />
+	<block key="fb_0_0092_4" korean="Fire" />
+	<block key="fb_0_0092_5" korean="Choi" />
+</blocks>

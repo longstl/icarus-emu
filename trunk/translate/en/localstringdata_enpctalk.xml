@@ -1,0 +1,878 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_01_0_0001_0101" korean="Company ... Help ... Ugh ..." />
+	<block key="E_01_0_0001_0102" korean="Whilst party to the captives ... Uhh .." />
+	<block key="E_01_0_0001_0103" korean="Saran's agent .. sorry .." />
+	<block key="E_01_0_0002_0101" korean="Sleep jailbreak! Get them!" />
+	<block key="E_01_0_0002_0102" korean="This can not pass!" />
+	<block key="E_01_0_0002_0103" korean="Keuheuheu. Where are you going for? I'll put in a deeper jail!" />
+	<block key="E_01_0_0002_0201" korean="Uhh .. call the guards ... more ..." />
+	<block key="E_01_0_0002_0202" korean="Uhh ... can not let get away this place is not ... ..." />
+	<block key="E_01_0_0002_0203" korean="Well, we did not fulfill its mission ... shit ..." />
+	<block key="E_01_4_0004_0101" korean="Whooping ... Did you think you can get out of here?" />
+	<block key="E_01_4_0004_0201" korean="Do not worry ../ .. Kutsu won me updated Saran wrote'll you do not live your ..." />
+	<block key="E_01_4_0637_0101" korean="Stupid things! Here, one can not escape even a rat!" />
+	<block key="E_01_4_0637_0201" korean="Argh ... I should not dare greater things ... this ridiculous party." />
+	<block key="E_01_4_0637_0301" korean="Zuma made of flour!" />
+	<block key="E_01_4_0637_0302" korean="Think about what an honor to die in my hands!" />
+	<block key="E_01_4_0637_0601" korean="Hahaha coming! Tickle group!" />
+	<block key="E_01_4_0637_0602" korean="Large Ha, ha, ha! What Just try any!" />
+	<block key="E_01_4_0637_0603" korean="Attacks can not cause that much to me hurt either!" />
+	<block key="E_01_4_0637_0901" korean="Would not even insects only things stand where your hands!" />
+	<block key="E_01_4_0637_0902" korean="Saran attend for a bit dirty hands in response to the stuff! Do not forgive!" />
+	<block key="E_02_0_0012_0101" korean="Keureung! Who?" />
+	<block key="E_02_0_0012_0102" korean="Keureung! A mixed suspicious bastard!" />
+	<block key="E_02_0_0012_0103" korean="Keureung! Ready for battle!" />
+	<block key="E_02_0_0012_0201" korean="Keureung ... were ..." />
+	<block key="E_02_0_0012_0202" korean="Keureung ... alive ... Give me ..." />
+	<block key="E_02_0_0012_0203" korean="Keureung ... a strong enemy." />
+	<block key="E_02_0_0012_0301" korean="Keureung! Are any guy!" />
+	<block key="E_02_0_0012_0302" korean="Keureung! The ever! Get them!" />
+	<block key="E_02_0_0012_0401" korean="Keureung! Maybe she alone!" />
+	<block key="E_02_0_0012_0402" korean="Keureung! Help me out!" />
+	<block key="E_02_0_0012_0403" korean="Keureung! Help!" />
+	<block key="E_02_0_0012_0501" korean="Keureung! I will party too!" />
+	<block key="E_02_0_0012_0502" korean="Keureung! What about write it here! Idiot!" />
+	<block key="E_02_0_0012_0503" korean="Keureung! Well, you are to me, you idiot!" />
+	<block key="E_02_0_0016_0101" korean="Kiek! Is that ... Ever!" />
+	<block key="E_02_0_0016_0102" korean="Kiek! Help!" />
+	<block key="E_02_0_0016_0103" korean="Kiek! Human? Come on Dear Commissioner informed!" />
+	<block key="E_02_0_0016_0201" korean="Kiek! He is a winner! Help!" />
+	<block key="E_02_0_0016_0202" korean="Kiek! The ever! Somebody help me!" />
+	<block key="E_02_0_0016_0301" korean="Kiek! Where are you? That's the guy?" />
+	<block key="E_02_0_0016_0401" korean="Kiek ... have a lot of work to be done." />
+	<block key="E_02_0_0016_0402" korean="Kiek ... also was a bunch of fights." />
+	<block key="E_02_0_0016_0501" korean="Kiek! Press ... Who are you?" />
+	<block key="E_02_0_0016_0502" korean="Kiek! He is a winner." />
+	<block key="E_02_0_0017_0101" korean="Keureung! Come on." />
+	<block key="E_02_0_0017_0102" korean="Keureung! Keureung! Keureung!" />
+	<block key="E_02_0_0017_0103" korean="Keureung! Come on." />
+	<block key="E_02_0_0017_0201" korean="Keureung!" />
+	<block key="E_02_0_0017_0202" korean="Keureung! Who?" />
+	<block key="E_02_0_0017_0301" korean="Keureung! Are any guy!" />
+	<block key="E_02_0_0017_0302" korean="Keureung! The ever! Get them!" />
+	<block key="E_02_0_0017_0401" korean="Keureung! We are sorry!" />
+	<block key="E_02_0_0017_0402" korean="Keureung! We will work hard!" />
+	<block key="E_02_0_0018_0101" korean="Kyaak! Are WAN bastard!" />
+	<block key="E_02_0_0018_0102" korean="Kyaak! Prey is a first look?" />
+	<block key="E_02_0_0018_0201" korean="Kyaak ... Have too shallow." />
+	<block key="E_02_0_0018_0202" korean="Kyaak ... alive ... Give me ..." />
+	<block key="E_02_0_0018_0301" korean="Kyaak! Flea. Do not stick close!" />
+	<block key="E_02_0_0018_0302" korean="Kyaak! Here himdeulgun shooting the bow." />
+	<block key="E_02_0_0018_0303" korean="Kyaak! It'll be hard to avoid!" />
+	<block key="E_02_0_0021_0101" korean="Kyareung! A mixed suspicious bastard!" />
+	<block key="E_02_0_0021_0102" korean="Kyareung! A mixed stupid-looking face!" />
+	<block key="E_02_0_0021_0201" korean="Kyareung! Nitwit." />
+	<block key="E_02_0_0021_0202" korean="Kyareung! The fool's back!" />
+	<block key="E_02_0_0021_0203" korean="Kyareung! I hate stupid eopji can help give!" />
+	<block key="E_02_0_0021_0204" korean="Intruders Attack!" />
+	<block key="E_02_0_0021_0205" korean="This can not pass, Human !!" />
+	<block key="E_02_0_0021_0206" korean="Keureung! All I'll stop!" />
+	<block key="E_02_0_0021_0207" korean="Keureung! The unconditional defense!" />
+	<block key="E_02_0_0021_0208" korean="Keureung! The fire caught attend the shield!" />
+	<block key="E_02_0_0021_0301" korean="Kyareung ... ... I was able to win." />
+	<block key="E_02_0_0021_0302" korean="Kyareung ... too stupid are three forces." />
+	<block key="E_02_0_0021_0401" korean="Kyareung! This is my great magic!" />
+	<block key="E_02_0_0021_0402" korean="Kyareung! The power of ice cold!" />
+	<block key="E_02_0_0021_0501" korean="Kyareung! Great healing magic!" />
+	<block key="E_02_0_0022_0101" korean="Greater reureung! Smells delicious smell!" />
+	<block key="E_02_0_0022_0102" korean="Greater reureung! The smell of food!" />
+	<block key="E_02_0_0022_0201" korean="Greater reureung! Gonna shredded!" />
+	<block key="E_02_0_0022_0202" korean="Greater reureung! Turning the windmills!" />
+	<block key="E_02_0_0022_0203" korean="Greater reureung! Me angry!" />
+	<block key="E_02_0_0022_0301" korean="Greater reureung ... drop ... to ..." />
+	<block key="E_02_0_0022_0302" korean="Greater reureung ... Drat." />
+	<block key="E_02_0_0022_0401" korean="Greater reureung! Is the food Guess snappy!" />
+	<block key="E_02_0_0022_0402" korean="Greater reureung! Yusheng become delicious food!" />
+	<block key="E_02_0_0022_0701" korean="Greater reureung! We will fight hard!" />
+	<block key="E_02_0_0022_0702" korean="Greater reureung! We are sorry!" />
+	<block key="E_02_0_0042_0101" korean="Greater reureung! You're gonna crush!" />
+	<block key="E_02_0_0043_0101" korean="Kiek! Crossbow is ruined! / I'm holding fast pity my supervisor hit!" />
+	<block key="E_02_0_0043_0102" korean="Kiek! Xujiahui heal quickly!" />
+	<block key="E_02_0_0043_0103" korean="Kiek! Bothered to fix!" />
+	<block key="E_02_0_0043_0201" korean="Kiek! The war is over! Should go to bed now." />
+	<block key="E_02_0_0043_0202" korean="Kiek! Done! Which is roughly fixed and angetji honna?" />
+	<block key="E_02_0_0043_0301" korean="Kiek! Impede the work's subject ghastly thing!" />
+	<block key="E_02_0_0043_0302" korean="Kiek! Who? Started it." />
+	<block key="E_02_0_0644_0101" korean="Who is ... This is not a place where one comes alive." />
+	<block key="E_02_0_0644_0102" korean="Are you ready to invade the Holy Land?" />
+	<block key="E_02_0_0644_0201" korean="Can you rest in peace now ... You're ..." />
+	<block key="E_02_0_0644_0202" korean="My mission is to apply to here." />
+	<block key="E_02_0_0644_0301" korean="Hadoda cylinder." />
+	<block key="E_02_0_0644_0302" korean="We ... keep the Holy Land." />
+	<block key="E_02_0_0659_0101" korean="Keoheung! Zuma blown away!" />
+	<block key="E_02_0_0659_0102" korean="Keoheung! Let me fly far!" />
+	<block key="E_02_0_0659_0201" korean="Keoheung! Sell ​​glance will not forgive!" />
+	<block key="E_02_0_1022_0101" korean="Keoheung! Who?" />
+	<block key="E_02_0_1022_0102" korean="Keoheung! Are WAN bastard!" />
+	<block key="E_02_0_1022_0103" korean="Keoheung! You there! Stop!" />
+	<block key="E_02_0_1022_0201" korean="Keoheung! Come Be attack!" />
+	<block key="E_02_0_1022_0202" korean="Keoheung! Do toes, come on!" />
+	<block key="E_02_0_1022_0203" korean="Keoheung! Slow-toed guy!" />
+	<block key="E_02_0_1022_0301" korean="Keoheung! Behold, my strength!" />
+	<block key="E_02_0_1022_0302" korean="Keoheung! Come on." />
+	<block key="E_02_0_1022_0401" korean="Keoheung! I'll flatten created!" />
+	<block key="E_02_0_1022_0402" korean="Keoheung! Incompetent bastard! That mothana handle one!" />
+	<block key="E_02_0_1022_0601" korean="Keoheung! Humans were ... Drat ..." />
+	<block key="E_02_0_1022_0602" korean="Keoheung! Jidani humans ..." />
+	<block key="E_02_0_1022_0701" korean="Keoheung! Do not make me mad!" />
+	<block key="E_02_0_1022_0702" korean="Keoheung! Be prepared!" />
+	<block key="E_02_0_1022_0703" korean="Keoheung! Where once fully Just try!" />
+	<block key="E_02_1_0011_0101" korean="Ling greener! Pureung!" />
+	<block key="E_02_1_0011_0102" korean="Darfur Beep, beep!" />
+	<block key="E_03_0_0180_0101" korean="Woohihi! Fascinating Hou?" />
+	<block key="E_03_0_0180_0102" korean="That an attacker? Give me torn into pieces ... kikiki." />
+	<block key="E_03_0_0180_0103" korean="Let Yufu - play a long time?" />
+	<block key="E_03_0_0180_0201" korean="Stale cake. Will you play with me?" />
+	<block key="E_03_0_0180_0202" korean="Want to see my claws taste? Stale cake." />
+	<block key="E_03_0_0180_0203" korean="Stale cake. Ingeol fun-looking toy?" />
+	<block key="E_03_0_0180_0301" korean="Keuak! Unbelievable ..." />
+	<block key="E_03_0_0180_0302" korean="Ow! Have too shallow ..." />
+	<block key="E_03_0_0180_0303" korean="Link to the exciter!" />
+	<block key="E_03_0_0180_0401" korean="Stale cake. Dare blood." />
+	<block key="E_03_0_0180_0402" korean="Stale cake. Go up about?" />
+	<block key="E_03_0_0180_0403" korean="You're so slow? Stale cake." />
+	<block key="E_03_0_0214_0101" korean="Attack is not that much to begin!" />
+	<block key="E_03_0_0214_0102" korean="Sheesh! That's crappy attack." />
+	<block key="E_03_0_0214_0103" korean="Are you not a little stronger, right? Giggling." />
+	<block key="E_03_0_0694_0000" korean="Dad never hit, too. Kyaak dengue." />
+	<block key="E_03_0_0694_0101" korean="Ta ... 's not a particularly going away party!" />
+	<block key="E_03_0_0694_0102" korean="Not afraid to go away party!" />
+	<block key="E_03_0_0694_0201" korean="Kkyareung - my treasure can not pass! Bunsinsul pumpkin!" />
+	<block key="E_03_0_0694_0202" korean="Ugh show my special moves! Bunsinsul pumpkin!" />
+	<block key="E_03_0_0694_0203" korean="I'm really fast? You'd be surprised. It's more! Bunsinsul pumpkin!" />
+	<block key="E_03_0_0694_1000" korean="Screams! My carrot .. dengue meokeotneun not yet peninsula." />
+	<block key="E_03_0_0694_2000" korean="Kkareung himdeuldang live to eat .. .." />
+	<block key="E_03_0_0694_3000" korean="Rabbit and per different! Rabbit with a!" />
+	<block key="E_03_0_0694_4000" korean="Nyan eat the way!" />
+	<block key="E_03_0_0694_5000" korean="My carrots! I keep sugar." />
+	<block key="E_03_0_0694_6000" korean="Look for me on this one - Go Look to attack! Kikiki" />
+	<block key="E_03_0_0694_7000" korean="Fool! ... Stupid idiot! ~ ~~!" />
+	<block key="E_03_0_0694_8000" korean="No! How do you know? Now it is backing the swash plate!" />
+	<block key="E_03_0_0694_9000" korean="Whilst you like Sloth is about to take away my treasure ... and with practice and running! Kikiki" />
+	<block key="E_03_0_0707_0101" korean="Rogun intruders! I need to tell your colleagues!" />
+	<block key="E_03_0_0707_0102" korean="Alone, He's going to be dangerous. I will call a colleague!" />
+	<block key="E_03_0_0707_0103" korean="Do not fight stupid thing alone. La'm waiting!" />
+	<block key="E_03_0_0707_0201" korean="That an attacker? And I'll opponents!" />
+	<block key="E_03_0_0707_0202" korean="So I'll help you!" />
+	<block key="E_03_0_0707_0203" korean="Itdani to interfere with the darkness of self-consciousness! Do not forgive!" />
+	<block key="E_03_0_0707_0204" korean="The freshest offerings gonna grow one!" />
+	<block key="E_03_0_0707_0301" korean="Who?" />
+	<block key="E_03_0_0707_0302" korean="What's your disturb the darkness of the unconscious?" />
+	<block key="E_03_0_0707_0303" korean="Stop!" />
+	<block key="E_03_0_0707_0304" korean="Ingeol awarded him?" />
+	<block key="E_03_0_0707_0401" korean="Drat ... iteotdamyeon me the power of darkness ..." />
+	<block key="E_03_0_0707_0402" korean="Uhh ... so gotta say die ..." />
+	<block key="E_03_0_0707_0403" korean="Keueuk ... great darkness, O ..." />
+	<block key="E_03_0_0707_0404" korean="No ... can fall here ..." />
+	<block key="E_03_0_0707_0501" korean="Gosh! You've a big deal close." />
+	<block key="E_03_0_0707_0502" korean="No way!" />
+	<block key="E_03_0_0707_0503" korean="WOW. I risk." />
+	<block key="E_03_0_0900_0101" korean="Let you put your dirty feet on the master of the house! / Do not go thinking is alive!" />
+	<block key="E_03_0_0900_0201" korean="Sir ... I'm sorry ..." />
+	<block key="E_03_0_0900_0301" korean="Please treat the intruder!" />
+	<block key="E_03_0_0900_0302" korean="The Count is a self-hurt here!" />
+	<block key="E_03_0_0900_0303" korean="Here is an intruder!" />
+	<block key="E_03_0_0900_0401" korean="Thou weak. Want to eternal life?" />
+	<block key="E_03_0_0900_0501" korean="Do not be afraid. Soon you will also gain eternal life." />
+	<block key="E_03_0_0900_0601" korean="Fool groups. Why Does the jjarm clinging to life." />
+	<block key="E_03_0_0900_0701" korean="Will humans ... the inevitable death ... keueuk ..." />
+	<block key="E_03_0_0900_0801" korean="Suspicious man! Who?" />
+	<block key="E_03_0_0900_0802" korean="To attend to the estates of Count ... fool that group." />
+	<block key="E_03_0_0900_0803" korean="Will regret coming here!" />
+	<block key="E_03_0_0900_0901" korean="Euheuheu ... fresh blood group." />
+	<block key="E_03_0_0900_0902" korean="Naenwara blood! Fresh blood!" />
+	<block key="E_03_0_0900_1001" korean="I should heal wounds! Make sacrifices for me!" />
+	<block key="E_03_0_0900_1002" korean="This situation ought risk. Me and offer the blood!" />
+	<block key="E_03_0_0900_1301" korean="Ram beurandeu! Please hurry up killing intruders!" />
+	<block key="E_03_0_0900_1401" korean="Gust! To prepare a meal of blood intruders!" />
+	<block key="E_03_0_0902_0101" korean="News heuheu. Preside gonna give you a fresh gogida ./ Dear Earl meat dishes." />
+	<block key="E_03_0_0902_0201" korean="Drat ... fresh ingredients are there before your eyes, you can not cook ..." />
+	<block key="E_04_0_1300_0101" korean="Attack the attacker!" />
+	<block key="E_04_0_1300_0102" korean="Attendants! Jugeora show the attacker to the hot flavor!" />
+	<block key="E_04_0_1300_0103" korean="Attack! Do not let the intruder alive!" />
+	<block key="E_50_0_0667_0101" korean="Dead over the soldiers. And help me." />
+	<block key="E_51_0_0011_0101" korean="Interesting. Commitment will challenge me?" />
+	<block key="E_51_0_0011_0201" korean="I'll do my opponents have power!" />
+	<block key="E_51_0_0011_0301" korean="Shall be able to take my blow!" />
+	<block key="E_51_0_0011_0401" korean="Keueuk ... military ... applied to drop here." />
+	<block key="E_51_0_0013_0101" korean="Kaat! A human! Humans!" />
+	<block key="E_51_0_0013_0102" korean="Kaat! The ever! Somebody help me!" />
+	<block key="E_51_0_0013_0201" korean="Kaat! Throw a window yen group too close!" />
+	<block key="E_51_0_0013_0202" korean="Kaat! Do not bother sticking!" />
+	<block key="E_51_0_0013_0203" korean="Keuat! Blow to the power of the powerful ice Zuma!" />
+	<block key="E_51_0_0019_0101" korean="Beep, large ... more can not pass!" />
+	<block key="E_51_0_0019_0201" korean="Beep, size! I will not send me!" />
+	<block key="E_51_0_0019_0301" korean="Beep, size! How dare I hurt my body!" />
+	<block key="E_51_0_0019_0302" korean="Beep, size! Do not make me mad!" />
+	<block key="E_51_0_0019_0401" korean="Beep, size! I'm making an ice decorations!" />
+	<block key="E_51_0_0019_0402" korean="Beep, size! You're gonna freeze all!" />
+	<block key="E_51_0_0019_0601" korean="Beep, Saran tree's size ... ... Sorry ..." />
+	<block key="E_51_0_0019_0701" korean="Beep, size! This time, do not look!" />
+	<block key="E_51_0_0019_0801" korean="... Beep, where large groups fighting disagreeable." />
+	<block key="E_51_0_0019_0901" korean="Beep, size! Die!" />
+	<block key="E_51_0_0019_0902" korean="Beep, size! I will not send me!" />
+	<block key="E_51_0_0019_1501" korean="Beep, size! Ahyiren will discard frozen're on the fucking!" />
+	<block key="E_51_0_0614_0101" korean="Oh ... I feel the aura of ice!" />
+	<block key="E_51_0_0614_0102" korean="Feel the power of the of! Beep, size!" />
+	<block key="E_51_0_0614_0103" korean="Of over a cold! Me strength!" />
+	<block key="E_51_0_0614_0104" korean="I'll show you the fear of the Yeti absorbs the energy of the ice!" />
+	<block key="E_51_0_1500_0101" korean="Arise, ye frozen dead!" />
+	<block key="E_51_0_1500_0102" korean="Frozen Dead Arise, and help me!" />
+	<block key="E_51_0_0622_0101" korean="Is attracted to human keuheung ~ me?" />
+	<block key="E_51_0_0622_0102" korean="Keuheung ~ neukkyeojine hot gaze." />
+	<block key="E_51_0_0622_0103" korean="Ine keuheung - delicious-looking man." />
+	<block key="E_51_0_0622_0201" korean="Keuheung ... Santin'll give my revenge ..." />
+	<block key="E_51_0_0622_0202" korean="Keuheung ... Yeti he dies soon the beautiful ... really ... sugar." />
+	<block key="E_51_0_0622_0301" korean="Keuheung - and you crush me! I'll hail crushed cute ♡" />
+	<block key="E_51_0_0622_0302" korean="Keuheung - most hurt by the human me ... just you!" />
+	<block key="E_51_0_0622_0401" korean="Keuheung! If a woman had a one ohnyuwol frost down to it!" />
+	<block key="E_51_0_0622_0402" korean="Keuheung! Jakkuman dare hurt me, I'll freeze to fill an ocean away!" />
+	<block key="E_51_0_0622_0501" korean="Keuheung - now looking so sick, my beauty - I will not have mercy?" />
+	<block key="E_51_0_0622_0502" korean="Do not keep hitting like a beautiful Yeti keuheung ~ me back. Not." />
+	<block key="E_51_0_0622_0503" korean="Keuheung-fighting should stop thinking, why do not I look beautiful?" />
+	<block key="E_52_0_0900_0005" korean="Without fear're here for the front door! Ln all of the guys in cheap blood in here!" />
+	<block key="E_03_0_0903_0000" korean="From now on you all to feel my true power!" />
+	<block key="E_54_0_0697_0101" korean="Oh Roll ?! Oh, burn!" />
+	<block key="E_54_0_0683_0101" korean="O power of Ladan!" />
+	<block key="E_54_0_0683_0102" korean="Ye heresy! Still not the end!" />
+	<block key="E_55_0_1521_0101" korean="Remember, O .. Do not bother me!" />
+	<block key="E_55_0_1521_0102" korean="Open harsh cold!" />
+	<block key="E_55_0_1521_0103" korean="Listen to sleep with the ice!" />
+	<block key="E_51_0_0019_1001" korean="Climb towering ice-O!" />
+	<block key="E_04_0_1301_0101" korean="I'll rub your bones and flesh!" />
+	<block key="E_04_0_1301_0102" korean="Ah ha ha ha! Pit Towel Lara flesh, O!" />
+	<block key="N_01_0_0001_0101" korean="Red stone to restore the military-to-head. We have to destroy as soon as possible." />
+	<block key="N_01_0_0001_0201" korean="I'll give healing the injured area. Do not get too wet." />
+	<block key="N_01_0_0001_0202" korean="Be careful not to suffer injury." />
+	<block key="N_01_0_0001_0301" korean="First, it's nice to destruction from a red stone. Yiyap!" />
+	<block key="N_01_0_0003_0101" korean="Here it is! Here! Please check on me!" />
+	<block key="N_01_0_0004_0101" korean="Aaaaah!" />
+	<block key="N_01_0_0004_0102" korean="Aah! Help!" />
+	<block key="N_02_0_0002_0101" korean="Yibeoneya succeeded in taming and malgeteo words!" />
+	<block key="N_02_0_0002_0102" korean="Wild boar, you're mine!" />
+	<block key="N_02_0_0002_0103" korean="Eight! Be my fellow soon as we have it!" />
+	<block key="N_02_0_0002_0104" korean="1,000,023 ... no, a million is a twenty fourth challenge!" />
+	<block key="N_02_0_0002_0201" korean="Oh, come on ... I want to fight with fellow Brage in a way which takes ..." />
+	<block key="N_02_0_0002_0202" korean="Select tame the monster, and after using the taming skill, approached close to catching up to the jump! Why are you going to order is correct, but failed!" />
+	<block key="N_02_0_0002_0203" korean="I heard other people succeed tame and easy, why do you only I fail? Was it a name?" />
+	<block key="N_02_0_0002_0204" korean="He says he's prepared weapons for boarding, no ... you miserable fellow haguman." />
+	<block key="N_02_0_0007_0101" korean="Really dangerous haetgu fee. Eopso injured place?" />
+	<block key="N_02_0_0007_0102" korean="Being in the military never have eyes twinkling. Brage bad guys." />
+	<block key="N_02_0_0007_0201" korean="Also the fire, there is also the fire ... I do not have full parts! So it's a big deal!" />
+	<block key="N_02_0_0007_0202" korean="For years, so take care that have parts that are burned away ... keuheuk attend!" />
+	<block key="N_02_0_0007_0203" korean="Ah ... this is now not a machine. Scrap'm a, scrap metal!" />
+	<block key="N_02_0_0023_0101" korean="Sipeulkka doing business in this situation?" />
+	<block key="N_02_0_0023_0102" korean="I watch eopget your business needs treatment." />
+	<block key="N_02_0_0023_0201" korean="Be patient a little bit. Soon you'll be able to recover." />
+	<block key="N_02_0_0023_0202" korean="Do you eat a little crazy now? Good thing letting wake up." />
+	<block key="N_02_0_0023_0203" korean="I treat all wounds. Please be assured." />
+	<block key="N_02_0_0034_0101" korean="There's a need to have a sense that the well is inscribed on the ruins ./ intensive investigation to hear me." />
+	<block key="N_02_0_0035_0101" korean="Well, when you see the ruins of this pattern. There is tremendous value! Mm-hmm!" />
+	<block key="N_02_0_0095_0101" korean="Welcome to the team camp sites." />
+	<block key="N_02_0_0095_0102" korean="Here is the team camp sites." />
+	<block key="N_02_0_0095_0201" korean="Stop! You can not pass any more!" />
+	<block key="N_02_0_0095_0202" korean="Shenron for the glory of the Templars!" />
+	<block key="N_02_0_0095_0203" korean="Canas and glory in the kingdom!" />
+	<block key="N_02_0_0098_0101" korean="Well, well, a lot of good weapons! Please visit the ~!" />
+	<block key="N_02_0_0098_0102" korean="Here are weapons will make you stronger!" />
+	<block key="N_02_0_0111_0101" korean="Rogun strewn around the wildlife. It's a big deal, big deal." />
+	<block key="N_02_0_0111_0102" korean="The airship ditched completely destroyed. Brage damn them!" />
+	<block key="N_02_0_0111_0103" korean="Did I say why not follow this bad feeling deuldeo mean ...?" />
+	<block key="N_02_0_0111_0201" korean="Is there any useful parts." />
+	<block key="N_02_0_0111_0202" korean="Food shortages and also, what shall I do?" />
+	<block key="N_02_0_0111_0203" korean="Can I go home? Ugh .." />
+	<block key="N_02_0_0219_0101" korean="The ship gets into some smash-Brage they attend .. damn!" />
+	<block key="N_02_0_0219_0102" korean="I'm screwed ... that the network!" />
+	<block key="N_02_0_0219_0103" korean="This important than the lives department jidani airship ... Holy shit!" />
+	<block key="N_02_0_0221_0101" korean="Too much work to do ... moans." />
+	<block key="N_02_0_0221_0102" korean="I will look to create the best equipment!" />
+	<block key="N_02_0_0224_0101" korean="Brage they are destroying the forest. I need your help." />
+	<block key="N_02_0_0246_0101" korean="Uhh Ohh .." />
+	<block key="N_02_0_0246_0102" korean="Give me some water ... who suffer." />
+	<block key="N_02_0_0246_0103" korean="W ... here is where yo .." />
+	<block key="N_02_0_0247_0101" korean="A golden chance ~ ~ / ~ crash memorial significantly Sale / Come bosira I come in -" />
+	<block key="N_02_0_0247_0102" korean="Come on now Come Take your pick ~ / ~ jjikhan stuff me like a flash itdapnida full full!" />
+	<block key="N_02_0_0247_0201" korean="Look over here! Our store grows stuff is the best!" />
+	<block key="N_02_0_0247_0301" korean="There was just passing siryeoneun minutes! Maybe not yet ready to fight without a gun and Brage? / There are so many useful things, are you going to see one!" />
+	<block key="N_02_0_0247_0302" korean="All the necessities for survival here! Cottonwood purchased simyeon regret!" />
+	<block key="N_02_0_0257_0101" korean="To do so would only have to defend last?" />
+	<block key="N_02_0_0257_0102" korean="Brage'm only if everyone would come out to play in the woods ..." />
+	<block key="N_02_0_0257_0103" korean="It's a big deal getting the food to go away ..." />
+	<block key="N_02_0_0257_0201" korean="Our shop will treat only the best stuff. Ahem!" />
+	<block key="N_02_0_0257_0202" korean="Now, caliber is free! But empty-handed as a'd never go back?" />
+	<block key="N_02_0_0257_0301" korean="Look at this! This guy still alive!" />
+	<block key="N_02_0_0257_0302" korean="Uh-huh! This guy squirm group!" />
+	<block key="N_02_0_0257_0401" korean="BBQ makes sense finished soon! Come and eat the old!" />
+	<block key="N_02_0_0257_0501" korean="Uh-pig smell!" />
+	<block key="N_02_0_0257_0502" korean="I do not smell the visible quality!" />
+	<block key="N_02_1_0245_0101" korean="Greater reureung!" />
+	<block key="N_02_1_0245_0201" korean="Greater reureung ... sniff." />
+	<block key="N_03_0_0001_0101" korean="Die! Beep, Cool!" />
+	<block key="N_03_0_0001_0102" korean="Whoa! Your red flesh are beautiful! Avoid delicate whores smell more fragrant. Geureureu." />
+	<block key="N_03_0_0001_0201" korean="Aheuk! I wanted the mother to eat hot stew .. .." />
+	<block key="N_03_0_0095_0000" korean="Canas and for the glory of the kingdom! Assault!" />
+	<block key="N_03_0_0095_0001" korean="Assault! Assault! Forward!" />
+	<block key="N_03_0_0095_0002" korean="For His Majesty!" />
+	<block key="N_03_0_0095_0003" korean="Tell these guys coming." />
+	<block key="N_03_0_0095_0004" korean="Uhh ... Drat!" />
+	<block key="N_03_0_0095_0005" korean="Ugh! Back ... and ask back." />
+	<block key="N_03_0_0095_0006" korean="The guy! Here is where you dare say." />
+	<block key="N_03_0_0095_0007" korean="Power Charge! Runners Jailbreak!" />
+	<block key="N_03_0_0095_0008" korean="Do not be afraid!" />
+	<block key="N_50_0_0002_0101" korean="You've put on a burn. I'll heal." />
+	<block key="N_50_0_0002_0102" korean="Be careful not to burn on hot coals." />
+	<block key="N_50_0_0002_0103" korean="Please wait. I'll treat burns." />
+	<block key="N_50_0_0002_0104" korean="At the expense of my life I'll try to suppress the horsepower of the eye of a moment Ladan!" />
+	<block key="N_02_0_0999_0101" korean="Again, I'm comforting. This grace has come to pay it back." />
+	<block key="N_02_0_0999_0102" korean="WOW ... it's uniformly better. Thank you." />
+	<block key="N_02_0_0999_0103" korean="I thought Lee Dae Ro die. Thank you." />
+	<block key="E_03_0_0694_0300" korean="Give you the ditch that! In particular, the Carrots!" />
+	<block key="E_03_0_0694_0301" korean="Twetwe on! Eopdang sown wheat flavor. Why do such a thing to plant geonyang?" />
+	<block key="E_03_0_0694_0302" korean="Per hungry! Wooeng, or wangjjajeung natdang!" />
+	<block key="E_03_0_0694_0400" korean="Wooeng! Carrots are not meokeotneun dengue." />
+	<block key="E_03_0_0694_0401" korean="Watdang here for nothing! For nothing." />
+	<block key="E_03_0_0694_0402" korean="Burdock ... this ... is this the youth?" />
+	<block key="N_05_0_2005_0000" korean="Now, if you dont eat a little bit?" />
+	<block key="N_05_0_2005_0001" korean="L'm gonna get sick just have to see ryeoni." />
+	<block key="N_05_0_2000_0001" korean="Uncle Are we there yet? I'm hungry just having crazy." />
+	<block key="N_05_0_2000_0002" korean="How much looking forward to this day do not understand. Ew ~ I want to eat quickly." />
+	<block key="N_05_0_2000_0003" korean="Oh, I want to eat ... Can we eat together?" />
+	<block key="N_05_0_5002_0000" korean="I have one bite ..." />
+	<block key="N_05_0_5002_0001" korean="Ine looking at it only drool in your mouth and not far ..." />
+	<block key="N_05_0_0001_0001" korean="Is the egg comes first - the chicken Is it?" />
+	<block key="N_05_0_0001_0002" korean="Am a tree with branches swaying in the wind, the wind is moving animated wonder?" />
+	<block key="N_05_0_0001_0003" korean="Why do apples fall to the ground without sotji in the sky?" />
+	<block key="N_05_0_2005_0002" korean="Windmills came only manage language and '16 ..." />
+	<block key="N_05_0_2005_0003" korean="Dont ssotatji all the windmills management. But do not regret." />
+	<block key="N_05_0_0001_0004" korean="* Sigh * ... I do not give her attention again to ..." />
+	<block key="N_05_0_0001_0005" korean="She is not attractive to upstage ..." />
+	<block key="N_05_0_0001_0006" korean="Want When will look at me once ...?" />
+	<block key="N_05_0_0002_0001" korean="Huh! Have that pretty thing ..." />
+	<block key="N_05_0_0002_0002" korean="Qiu Jin guys versus good guys never saw nikkan hit?" />
+	<block key="N_05_0_0001_0007" korean="I am a man cold and Canas. But'll warm To my girl?" />
+	<block key="N_05_0_0001_0008" korean="And someday I'm just doing the best chefs and Canas malgeteo!" />
+	<block key="N_05_0_0001_0009" korean="I Mastering the work method could be the best chef?" />
+	<block key="N_05_0_0002_0003" korean="When you turn the ehyu - a lot?" />
+	<block key="N_05_0_2000_0004" korean="Hmm ... wonder who has a lot of money?" />
+	<block key="N_05_0_2000_0005" korean="Stop going to steal this once ... maybe ..." />
+	<block key="N_05_0_0001_0010" korean="Fellows will each have different characteristics." />
+	<block key="N_05_0_0001_0011" korean="To better understand the characteristics of their fellows than it would be easier to fight." />
+	<block key="N_05_0_0001_0012" korean="The battle is not as fellow gatjiyo not turn off the wagon wheels." />
+	<block key="N_05_0_0001_0013" korean="Shes a powerful force national power soon." />
+	<block key="N_05_0_0001_0014" korean="To train great people in charge of the defense of the country, and it's what I do." />
+	<block key="N_05_0_0002_0004" korean="Hey, the assistant! They fail to properly fucking fall out!" />
+	<block key="N_05_0_0002_0005" korean="There Recruit! Off! Oh, and align the heat!" />
+	<block key="N_05_0_0001_0015" korean="Be stare straight at the target!" />
+	<block key="N_05_0_0001_0016" korean="Iljeomsa also be specified only by the forces ..." />
+	<block key="N_05_0_0095_0001" korean="Oh, man." />
+	<block key="N_05_0_0095_0002" korean="Wait another thought is this ... What are you suffering" />
+	<block key="N_05_0_0095_0003" korean="So I'll never fall out separately bateuni nongttaengyi smoke." />
+	<block key="N_05_0_0095_0004" korean="Panting panting ~" />
+	<block key="N_05_0_0001_0017" korean="I sugar. Idiot. Knowing only one stupid self ..." />
+	<block key="N_05_0_0001_0018" korean="1 minute 1 second without self I guess I could live." />
+	<block key="N_05_0_0001_0019" korean="Can not live without oxygen inhabit it without him." />
+	<block key="N_05_0_0002_0006" korean="Come on. I do not know why -" />
+	<block key="N_05_0_0002_0007" korean="I also only about themselves -" />
+	<block key="N_05_0_0001_0020" korean="Why the poor bastard like that and leave me ..." />
+	<block key="N_05_0_0001_0021" korean="Come back to me, bay bay -" />
+	<block key="N_05_0_0001_0022" korean="If you would like to establish a guild can be through me." />
+	<block key="N_05_0_0001_0023" korean="Please consult with me without hesitation if you want to express your own guild." />
+	<block key="N_05_0_0001_0024" korean="I think that the power of each guild are getting bigger." />
+	<block key="N_05_0_0001_0025" korean="Maybe the presence of traditional aristocratic stake stake jilji to the emergence of various guilds." />
+	<block key="N_05_0_0002_0008" korean="I think the interests of the nobility leaning in the guild." />
+	<block key="N_05_0_0002_0009" korean="Activation of the guild'll have new life in this country?" />
+	<block key="N_05_0_0001_0026" korean="This place boasts Canas and shes the best book reserves the right place." />
+	<block key="N_05_0_0001_0027" korean="What book genga want to see? No books and nothing bosige around slowly." />
+	<block key="N_05_0_0001_0028" korean="That will make the absolute cheolongseong also impenetrable by any force, it tilts my goal." />
+	<block key="N_05_0_0001_0029" korean="Saran teurago even first generation will not see even the shadow of His Majesty." />
+	<block key="N_05_0_0423_0000" korean="You guys, I've always had - I did not - as pparit pparit to move? Huh?" />
+	<block key="N_05_0_0423_0001" korean="I pretended not to hear and eyes to move out - so only jwodo nice sense eopeoseoya ~" />
+	<block key="N_05_0_0423_0002" korean="I'm also the last to do so alert. So one more time ... kwak!" />
+	<block key="N_05_0_0001_0030" korean="(Euyigeu nagging ... darn ...)" />
+	<block key="N_05_0_0001_0031" korean="(You take off ...)" />
+	<block key="N_05_0_0001_0032" korean="(From inside your very own castle seems to be hopefully yo ...)" />
+	<block key="N_05_0_0001_0033" korean="Ellora's grace be with you." />
+	<block key="N_05_0_0001_0034" korean="Ellora has to Canas today in response to bless Doug 's not even an exaggeration." />
+	<block key="N_05_0_0001_0036_01" korean="Well not that much inside the castle ... I guess I lost the way ..." />
+	<block key="N_05_0_0001_0036_02" korean="Do you just throw back to doin 'that patrols the musimhage walk past a man saying ..." />
+	<block key="N_05_0_0001_0035_01" korean="Lee Jung-do'll face hid well?" />
+	<block key="N_05_0_0001_0035_02" korean="No one will not be able to find me" />
+	<block key="N_05_0_0002_0005_01" korean="..." />
+	<block key="N_05_0_0001_0028_01" korean="How can we be tame the hell?" />
+	<block key="N_05_0_0001_0028_02" korean="You'll always make mine!" />
+	<block key="N_05_0_0001_0028_03" korean="Gosh, it's ass! Not be much more beyond?" />
+	<block key="IN_SF_1_0016_001" korean="Oh, my back ..." />
+	<block key="IN_SF_1_0016_002" korean="Heokheok to happen ... I can not ..." />
+	<block key="IN_SF_1_0016_003" korean="Geez, the guy ... damn Brage" />
+	<block key="IN_SF_1_0017_001" korean="Uhh ... Is anybody out there flying ..." />
+	<block key="IN_SF_1_0017_002" korean="Uhh ... Somebody help me ..." />
+	<block key="IN_SF_1_0017_003" korean="Ugh ... I can not move the body ..." />
+	<block key="N_03_0_0001_0088_01" korean="Cows are lost, injured friend Are the hell is this form ..." />
+	<block key="N_03_0_0001_0088_02" korean="Hmm. Herbs can not easily get ..." />
+	<block key="N_03_0_0001_0074_01" korean="If I would have been better skills than it is now to where the earthquake did not come hyunghyung ..." />
+	<block key="N_03_0_0001_0074_02" korean="Just the nature gatahseon that wolf!" />
+	<block key="N_03_0_0001_0096_01" korean="That's would no longer have to worry about damage." />
+	<block key="N_03_0_0001_0096_02" korean="Little village people are dedicated to the guard to avoid getting damaged." />
+	<block key="N_03_0_0002_0032_01" korean="Here's a wolf humans are very violent. Please take care of yourself." />
+	<block key="N_03_0_0002_0032_02" korean="You should also be careful wolf around humans, but watch out for the wolf does not look better." />
+	<block key="N_03_0_0001_0091_01" korean="Whew ... should not have to leave the house ..." />
+	<block key="N_03_0_0001_0091_02" korean="Woke did not want to live in the countryside left ... so gotta say." />
+	<block key="N_03_0_0001_0091_03" korean="Boohoo ..." />
+	<block key="N_03_0_0001_0163_01" korean="Hmm ... well that is already requested the help there either sex may dwaetjiman so that he did not have a spare." />
+	<block key="N_03_0_0001_0163_02" korean="I was just waiting There's, when halreonji wait ..." />
+	<block key="N_03_0_0001_0165_01" korean="Mayor Sir, I Shenron Templars arrive?" />
+	<block key="N_03_0_0001_0165_02" korean="Mayor's. You need also to help the castle to the safety of the town." />
+	<block key="N_03_0_0001_0162_01" korean="I wish I did so want to have more skills doejin ..." />
+	<block key="N_03_0_0001_0162_02" korean="Ugh ... a group to pick the injured area ..." />
+	<block key="N_03_0_0002_0041_01" korean="The town is now I have more growth potential than yireotji only." />
+	<block key="N_03_0_0002_0041_02" korean="I worked hard to create a vibrant town." />
+	<block key="N_03_0_0001_0103_01" korean="Clear duty!" />
+	<block key="N_03_0_0001_0103_02" korean="Do not walk around carelessly am This is a civilian area access control." />
+	<block key="N_03_0_0001_0106_01" korean="Clear duty!" />
+	<block key="N_03_0_0001_0060_01" korean="One day as my key would catch the big guys!" />
+	<block key="N_03_0_0001_0060_02" korean="My name is locked. Not without a name to be called the best anglers and Canas jikhal command!" />
+	<block key="N_03_0_0001_0062_01" korean="This fuck ... Why is the town I go back so presumably the mayor!" />
+	<block key="N_03_0_0001_0062_02" korean="Damn. Halkkabwa mayor resigned spot ..." />
+	<block key="N_03_0_0001_0174_01" korean="In doing'm in town might be a sex until yourself into these situations ..." />
+	<block key="N_03_0_0001_0174_02" korean="Now is the militia personnel are just tough defensive sense." />
+	<block key="N_03_0_0002_0033_01" korean="I visited you like ... you can for satbun will not attend downs." />
+	<block key="N_03_0_0002_0033_02" korean="Find baekjakga come attend the mood right now ... maybe ..." />
+	<block key="N_03_0_0001_0108_01" korean="Please, somebody get me out of here!" />
+	<block key="N_03_0_0001_0108_02" korean="Free, scared." />
+	<block key="N_03_0_0001_0067_01" korean="Goodness me! Disgrace stranger here ..." />
+	<block key="N_03_0_0001_0067_02" korean="Elsewhere without knowing the absolute end of the cemetery E.O different stages called me - walking dead!" />
+	<block key="N_03_0_0001_0068_01" korean="Some time ago I met a woman at the bar was definitely on ... pichil the body and the fear is that when you tackle me ...!" />
+	<block key="N_03_0_0001_0068_02" korean="Ah ... it's already become a bizarre place where the deceased is still walking around!" />
+	<block key="N_03_0_0001_0168_01" korean="Knights and we are inseparable relationship ttelreya not win." />
+	<block key="N_03_0_0001_0168_02" korean="Now this does not solve the knights arrived, gave one no longer hard to keep our organization. Gotta be done somehow ...!" />
+	<block key="N_03_0_0001_0170_01" korean="I want to also make a delicious food stuff money eopdang ~" />
+	<block key="N_03_0_0001_0170_02" korean="We can not even going boss money coming true ability is also eopdang ~" />
+	<block key="N_03_0_0001_0170_03" korean="Come on. I want to give the boss soppul even boil, gaeppul also eopdang ~" />
+	<block key="N_03_0_0001_0156_01" korean="You're not a very easy task that tamed the flight Fellow ..." />
+	<block key="N_03_0_0001_0156_02" korean="If you're not careful gotten me me." />
+	<block key="N_03_0_0001_0158_01" korean="Players only thing that seems to be so defensive is called Victory does not meet my character." />
+	<block key="N_03_0_0001_0158_02" korean="If you would rather attack the first Phoenix ..." />
+	<block key="N_05_0_0001_0037_01" korean="It may be the end of the warehouse management -No." />
+	<block key="N_05_0_0001_0037_02" korean="Let's see. The number of shells ..." />
+	<block key="N_05_0_0001_0038_01" korean="Jikhal command talent that suffer from a headache caused by a werewolf and a vampire." />
+	<block key="N_05_0_0001_0038_02" korean="We would mean sending reinforcements, even if only the right margin of the troops." />
+	<block key="N_05_0_0001_0039_01" korean="Hmm ..." />
+	<block key="N_05_0_0001_0039_02" korean="Antakkapgun that's not really what we can do." />
+	<block key="N_05_0_0001_0055_01" korean="This is not jitdeon local farmers hold the many adventurers site in the past." />
+	<block key="N_05_0_0001_0055_02" korean="Due to the chaos happening everywhere now briefly slowed, but the revival of five liras believe that when you return." />
+	<block key="N_05_0_0001_0040_01" korean="Panting panting ..." />
+	<block key="N_05_0_0001_0040_02" korean="No playing all the time so would mean not tell him the lady calf" />
+	<block key="N_05_0_0001_0041_01" korean="This is where the male and female of each other offal rudeon outstanding ones." />
+	<block key="N_05_0_0001_0041_02" korean="In the past, many sagas have taken place here, but now I do not use it." />
+	<block key="N_05_0_0001_0041_03" korean="Someday those who have outstanding skills will find me here." />
+	<block key="N_05_0_0001_0042_01" korean=", Have been the one that allows you to safely come here without getting lost elsewhere." />
+	<block key="N_05_0_0001_0042_02" korean="Bunch of shame always have people waiting for a boat ride away lover stood in the same place ..." />
+	<block key="N_05_0_0001_0043_01" korean="Today could have just come back ..." />
+	<block key="N_05_0_0001_0043_02" korean="At any time you good health I'd appreciate it if you'd come back ..." />
+	<block key="N_05_0_0001_0044_01" korean="I'll be damned. How beondago charyeoseo the shop where money ..." />
+	<block key="N_05_0_0001_0044_02" korean="Well anyways boyeoseo managed to give me any more witdon I should have seen the inside bar also sex." />
+	<block key="N_05_0_0001_0045_01" korean="Canas and look out for the windmill as if the person knows or in the vicinity of the right." />
+	<block key="N_05_0_0001_0045_02" korean="I'm just saying that the people at the top do not know how did he manage windmill stood there." />
+	<block key="N_05_0_0001_0046_01" korean="Hadeonga friends say that down there?" />
+	<block key="N_05_0_0001_0046_02" korean="Do not care. If someone windmill mworaedo I know best." />
+	<block key="N_05_0_0001_0047_01" korean="This is a sacred place where the king's ancestors were asleep." />
+	<block key="N_05_0_0001_0047_02" korean="Please be sure to observe modesty in the inside." />
+	<block key="N_05_0_0001_0048_01" korean="Oh ... Can trusted with money?" />
+	<block key="N_05_0_0001_0048_02" korean="This is how all of the money is inde ... Bank or'm not going to be robbed?" />
+	<block key="N_05_0_0001_0049_01" korean="Even now, but I'll get just sell or cloth in this alley." />
+	<block key="N_05_0_0001_0049_02" korean="Increasing success later I should have a nice name one degree. Andre King like ...?" />
+	<block key="N_05_0_0001_0050_01" korean="Itdapnida lot of beautiful flowers are like me." />
+	<block key="N_05_0_0001_0050_02" korean="I still look around a little more yippeujiman flowers ~" />
+	<block key="N_05_0_0001_0051_01" korean="That young man is just bullshit me jeorido maybe even a place not specified at any given time rattling ..." />
+	<block key="N_05_0_0001_0051_02" korean="Jjeutjjeutjjeut ... sucks young crabs." />
+	<block key="N_05_0_0001_0052_01" korean="You know what? Inside the well I have hidden your face with a ghost with long hair?" />
+	<block key="N_05_0_0001_0052_02" korean="Well not for killing the ghost who came out gear wells by hand without nails." />
+	<block key="N_05_0_0001_0052_03" korean="Ghosts are ... cheap big way round?" />
+	<block key="N_05_0_0001_0053_01" korean="Do not be late. Scared ..." />
+	<block key="N_05_0_0001_0053_02" korean="I'm not listening ..." />
+	<block key="N_05_0_0001_0053_03" korean="Stop me ..." />
+	<block key="N_05_0_0001_0054_01" korean="This is a self-managed farm adventurers." />
+	<block key="N_05_0_0001_0054_02" korean="Now that the less ready yet, please come back later." />
+	<block key="N_05_0_9999_9999_01" korean="It's here! Please check on me!" />
+	<block key="N_05_0_9999_9999_02" korean="Please help me!" />
+	<block key="N_05_0_0001_0056_01" korean="Welcome. Fellow Institute." />
+	<block key="N_05_0_0001_0057_01" korean="I can see it takes to be a fellow researcher for you." />
+	<block key="N_05_0_0001_0057_02" korean="You, you ever think to look to researchers?" />
+	<block key="N_05_0_0001_0058_01" korean="What's more sympathetic think it is important." />
+	<block key="N_05_0_0001_0058_02" korean="Want to help fellow can grow?" />
+	<block key="N_05_0_0001_0059_01" korean="Lin Merlot're always with me!" />
+	<block key="N_05_0_0001_0059_02" korean="She'll never do not seal." />
+	<block key="N_05_0_0001_0059_03" korean="Lin Merlot is why so do not like washing ..." />
+	<block key="N_05_0_0001_0060_01" korean="My fellow's really great, cool it!" />
+	<block key="N_05_0_0001_0060_02" korean="I do not know why people are afraid of spiders." />
+	<block key="N_05_0_0001_0060_03" korean="Do not attack! My fellow up!" />
+	<block key="N_05_0_0001_0061_01" korean="It is not easy to have a fellow flight." />
+	<block key="N_05_0_0001_0061_02" korean="More woomyeon too good to do this in the shade." />
+	<block key="N_05_0_0001_0061_03" korean="If you do not manage the energy ends up falling out of the sky." />
+	<block key="N_05_0_0001_0062_01" korean="Fellows will also be the best from the land of the tiger." />
+	<block key="N_05_0_0001_0062_02" korean="If it is stronger as Raney Fellow." />
+	<block key="N_05_0_0001_0062_03" korean="S got a way to make even more strongly ..." />
+	<block key="N_05_0_0001_0063_01" korean="Come on Joe ... just a little more!" />
+	<block key="N_05_0_0001_0063_02" korean="You can obtain ... please!" />
+	<block key="N_05_0_0001_0063_03" korean="When she's over me!" />
+	<block key="N_05_0_0001_0064_01" korean="Get rid of the low-Black Panther!" />
+	<block key="N_05_0_0001_0064_02" korean="We only apen win!" />
+	<block key="N_05_0_0001_0064_03" korean="Men in crying hurt me weak!" />
+	<block key="N_05_0_0001_0065_01" korean="Win it! Win it!" />
+	<block key="N_05_0_0001_0066_01" korean="Still stuck! Get rid of it!" />
+	<block key="N_05_0_0001_0067_01" korean="Yeah, promises. Tiger is going to win!" />
+	<block key="N_05_0_0001_0068_01" korean="I'm really interested in their thrilling battle ... that fellow." />
+	<block key="N_05_0_0001_0068_02" korean="Siltende father chastised you know where this came ..." />
+	<block key="N_05_0_0001_0069_01" korean="Gee, Gee at that ... Excuse" />
+	<block key="N_05_0_0001_0070_01" korean="Battle of pure power! Hagun exciting." />
+	<block key="N_05_0_0001_0071_01" korean="In fact, did you know that two of the couple ... Would you?" />
+	<block key="N_05_0_0001_0072_01" korean="I do not know who really won!" />
+	<block key="N_05_0_0001_0073_01" korean="This is just a test ... yiraguyo fellow combat" />
+	<block key="N_05_0_0001_0073_02" korean="Why are you fighting for your lives ?!" />
+	<block key="N_05_0_0001_0074_01" korean="For His Majesty!" />
+	<block key="N_05_0_0001_0074_02" korean="Let assume the whole deportment seeing the Majesty!" />
+	<block key="N_02_0_0001_1000_01" korean="Would have to go as fast as capital property." />
+	<block key="N_02_0_0001_1000_02" korean="Do you body is all right?" />
+	<block key="N_02_0_0001_1000_03" korean="If I had been a little more careful ..." />
+	<block key="N_02_0_0001_1010_01" korean="Disgrace crashed over me ... I was surprised." />
+	<block key="N_02_0_0001_1010_02" korean="I hope you do not fall through the Brage." />
+	<block key="N_02_0_0002_1000_01" korean="Look a little patience." />
+	<block key="N_02_0_0002_1000_02" korean="About this, I need more ...!" />
+	<block key="N_02_0_0001_1020_01" korean="Too sick ..." />
+	<block key="N_02_0_0001_1020_02" korean="Mother ..." />
+	<block key="N_02_0_0001_1020_03" korean="I do not wanna die." />
+	<block key="N_02_0_0001_1030_01" korean="Why should not this be turned off?" />
+	<block key="N_02_0_0001_1030_02" korean="No, do not get lost, okay?" />
+	<block key="N_02_0_0001_1040_01" korean="Brage the damn!" />
+	<block key="N_02_0_0001_1040_02" korean="Let me know if you ever find Brage come to me!" />
+	<block key="N_02_0_0001_1050_01" korean="Also not tame the beast!" />
+	<block key="N_02_0_0001_1050_02" korean="Fellow is going, you know?" />
+	<block key="N_02_0_0001_1060_01" korean="Lead, pig smell!" />
+	<block key="N_02_0_0001_1060_02" korean="Did you do a clean place to raise pigs." />
+	<block key="N_02_0_0001_1070_01" korean="I want to report Rania princess." />
+	<block key="N_02_0_0001_1070_02" korean="Safe Water Castle?" />
+	<block key="N_02_0_0001_1080_01" korean="If the transfer of blood flow come to me!" />
+	<block key="N_02_0_0001_1080_02" korean="You're gonna break the Brage them!" />
+	<block key="N_02_0_0001_1080_03" korean="Come on! Brage hold gapja beat the enemies of Pomerania princess!" />
+	<block key="N_02_0_0002_1010_01" korean="The power of mana want to lead you." />
+	<block key="N_02_0_0002_1010_02" korean="Follow mana." />
+	<block key="N_02_0_0001_1090_01" korean="Many useful weapon!" />
+	<block key="N_02_0_0001_1090_02" korean="Please handle the Brage with a new weapon!" />
+	<block key="N_02_0_0001_1100_01" korean="Explore your armor!" />
+	<block key="N_02_0_0001_1100_02" korean="Makes a great armor reminds brushed death!" />
+	<block key="N_02_0_0001_1110_01" korean="Potion is life. Always carry potions!" />
+	<block key="N_02_0_0001_1110_02" korean="Come on, man. Welcome! Browse carbonate is the only potion shop!" />
+	<block key="N_02_0_0002_1020_01" korean="And Canas also sikhugyeong I heard!" />
+	<block key="N_02_0_0002_1020_02" korean="Are not you hungry?" />
+	<block key="N_02_0_0002_1020_03" korean="If you wear the bag might be a lot more stuff." />
+	<block key="N_02_0_0001_1120_01" korean="Shh! Now I eopdagu mind." />
+	<block key="N_02_0_0001_1120_02" korean="Give me with you!" />
+	<block key="N_02_0_0001_1130_01" korean="Do not meet the crossbow!" />
+	<block key="N_02_0_0001_1130_02" korean="Get ready to strike!" />
+	<block key="N_02_0_0001_1140_01" korean="Keep your defenses!" />
+	<block key="N_02_0_0001_1140_02" korean="Make safe the camp!" />
+	<block key="N_02_0_0001_1140_03" korean="Would only hurt the Commissioner load woomyeon weaken the power of the Brage ..." />
+	<block key="N_02_0_0001_1140_04" korean="The defense can not afford to lose as much as never bored." />
+	<block key="N_02_0_0001_1150_01" korean="Rania peloton sidani kidnapped princess, is it true?" />
+	<block key="N_02_0_0001_1150_02" korean="This place hard to hear the news." />
+	<block key="N_02_0_0001_1160_01" korean="The dynamics of the Brage not alarming ..." />
+	<block key="N_02_0_0001_1160_02" korean="I'm putting Rania never seen a princess!" />
+	<block key="N_02_0_0001_1170_01" korean="Saran bit him, but you still manage group made a mess!" />
+	<block key="N_02_0_0001_1170_02" korean="... If I could get out of this fucking place!" />
+	<block key="N_02_0_0001_1180_01" korean="Damned awful night've bearing. ..." />
+	<block key="N_02_0_0001_1180_02" korean="If you been only Princess Rania ..." />
+	<block key="N_02_0_0001_1190_01" korean="Trees do not have a sad legend shining brilliance." />
+	<block key="N_02_0_0001_1190_02" korean="Me, I do not believe in legends." />
+	<block key="N_02_0_0001_1190_03" korean="Princess Rania also I've come here." />
+	<block key="N_02_0_0001_1200_01" korean="Do you want to know about the fellow?" />
+	<block key="N_02_0_0001_1200_02" korean="Tame, nothing is not hard." />
+	<block key="N_02_0_0001_1210_01" korean="You, it's something that weapon?" />
+	<block key="N_02_0_0001_1210_02" korean="Already facing linger late sphere." />
+	<block key="N_02_0_0001_1220_01" korean="We sell food and potions!" />
+	<block key="N_02_0_0001_1220_02" korean="Go look around!" />
+	<block key="N_02_0_0001_1230_01" korean="Do not go is a dangerous place!" />
+	<block key="N_02_0_0001_1230_02" korean="Browse carboxylic forest is dangerous!" />
+	<block key="N_02_0_0001_1230_03" korean="Gotman same day round .. La sick." />
+	<block key="N_02_0_0001_1230_04" korean="Shenron for the honor of the Knights!" />
+	<block key="N_02_0_0001_1230_05" korean="My life and in Canas!" />
+	<block key="N_02_0_0001_1230_06" korean="Nice, a Shenron Knights." />
+	<block key="N_02_0_0001_1230_07" korean="Scouts and different, the scouts and is!" />
+	<block key="N_02_0_0001_1230_08" korean="Now darkens soon. Please be careful." />
+	<block key="N_02_0_0001_1230_09" korean="Remember it's better just put a portal site." />
+	<block key="N_02_0_0001_1230_10" korean="Suddenly, I heard that there is a darkness to flood the area." />
+	<block key="N_02_0_0001_1230_11" korean="Nice to meet you, Guardian knight!" />
+	<block key="N_02_0_0001_1230_12" korean="Do Rania warrior princess?" />
+	<block key="N_02_0_0001_1230_13" korean="Dare ... I can not forgive Saran bit the princess!" />
+	<block key="N_02_0_0001_1230_14" korean="If manyirado once met a princess." />
+	<block key="N_02_0_0001_1230_15" korean="Princess Rania .. I go! This bra deception Hugo hatch." />
+	<block key="N_05_0_0001_0075_01" korean="Now you have to go girl ..." />
+	<block key="N_05_0_0001_0075_02" korean="I want them to think my lady the duke says honnan stage." />
+	<block key="N_05_0_0001_0076_01" korean="Keyboard, listen to the roar of the tiger. Is not it so cool!" />
+	<block key="N_05_0_0001_0077_01" korean="Yes! I'm just going to be a fellow trainer!" />
+	<block key="N_05_0_0001_0077_02" korean="But my mother does not like wonhasyeoseo safe work overtime banker ..." />
+	<block key="N_05_0_0001_0078_01" korean="Bearish strength, O come to me!" />
+	<block key="N_05_0_0001_0078_02" korean="That yiraeboedo soft Southern sleeps !!" />
+	<block key="N_05_0_0001_0078_03" korean="Bear up! Run run run!" />
+	<block key="N_05_0_0001_0079_01" korean="This huge younghonseok, does not really beautiful?" />
+	<block key="N_05_0_0001_0079_02" korean="The name is a dead man, a great fellow is dead and will leave younghonseok." />
+	<block key="N_05_0_0001_0079_03" korean="Some people called it fly younghonseok of rope." />
+	<block key="N_05_0_0001_0080_01" korean="The younghonseok ... ryeona not have a way to compress?" />
+	<block key="N_05_0_0001_0080_02" korean="Fellows are also unwanted me almost sealed." />
+	<block key="N_02_0_0001_1300_01" korean="Brage got to be near the base of the ... trouble heartbreaking." />
+	<block key="N_02_0_0001_1310_01" korean="Forest, good for him this mess. I am sorry to think." />
+	<block key="N_02_0_0001_1320_01" korean="No, what is it? Also be soup? I'd like some all-you-can-eat meat like the old days." />
+	<block key="N_02_0_0001_1330_01" korean="Think lucky to eat any soup. Soup ingredients also hard to find these days because of the Brage." />
+	<block key="N_02_0_0001_1340_01" korean="Say where you want to go anywhere. Of course, the value of so do not pay." />
+	<block key="N_02_0_0001_1350_01" korean="Use the gwihwanseok I'm coming back here if you want to return here to register portal." />
+	<block key="N_02_0_0001_1360_01" korean="The word is not to give up on Shenron Knights advance!" />
+	<block key="N_02_0_0001_1370_01" korean="Brage be prevented only if the crossbow of expression would be a piece of cake ..." />
+	<block key="N_02_0_0001_1380_01" korean="Have you aware of Saran bit?" />
+	<block key="N_02_0_0001_1390_01" korean="If you come to me hanging on the resurrection side effects." />
+	<block key="N_02_0_0001_1391_01" korean="Because of that giant crossbow difficult to move forward ..." />
+	<block key="N_02_0_0001_1392_01" korean="You. Is this where you want to go?" />
+	<block key="N_02_0_0001_1393_01" korean="Not only to hear the voice of the ghost Princess Rania only ..." />
+	<block key="N_02_0_0001_1394_01" korean="Before the creatures of darkness come to be stronger escape this forest." />
+	<block key="N_02_0_0001_1395_01" korean="We treat the pain of the soul." />
+	<block key="N_02_0_0001_1396_01" korean="Uh ... That's a big deal today ... ghosts would appear at night." />
+	<block key="N_02_0_0001_1396_02" korean="Ah! What about the horses do not ..." />
+	<block key="N_02_0_0001_1396_03" korean="I do not know, um ... hard to leave because of that giant crossbow forward ..." />
+	<block key="N_02_0_0001_1396_04" korean="S time for reinforcements to come?" />
+	<block key="N_02_0_0001_1396_05" korean="Did not hear the sounds of nature are now longer?" />
+	<block key="N_02_0_0001_1396_06" korean="The dynamics of the Brage not alarming ..." />
+	<block key="N_02_0_0001_1396_07" korean="If you want to go to another place to talk at any time." />
+	<block key="N_02_0_0001_1396_08" korean="Come to me. I have a lot of useful stuff." />
+	<block key="N_02_0_0001_1396_09" korean="I could only hear the story of the fairy princess Rania ..." />
+	<block key="N_02_0_0001_1396_10" korean="I can not achieve the net because of the monster ... we do live in one now ..." />
+	<block key="N_02_0_0001_1396_11" korean="The town is also comfortable because of the Pirates nourish me one day!" />
+	<block key="N_02_0_0001_1396_12" korean="Pirates also insufficient to Monster ... Are we no longer can launch a boat at sea ...?" />
+	<block key="N_02_0_0001_1396_13" korean="I want to make music for the peace in the town ..." />
+	<block key="N_02_0_0001_1396_14" korean="I truly have a wide range of art not able to go!" />
+	<block key="N_02_0_0001_1396_15" korean="The one who came from out of town." />
+	<block key="N_02_0_0001_1396_16" korean="Because you can not do one damn pirate fishers them!" />
+	<block key="N_02_0_0001_1396_17" korean="Why does everybody come here with my life?" />
+	<block key="N_02_0_0001_1396_18" korean="Here's the thing you are looking for! Except what not!" />
+	<block key="N_02_0_0001_1396_19" korean="Outsiders have to be careful! When I do not know whether to bother us again." />
+	<block key="N_02_0_0001_1396_20" korean="Do you want something?" />
+	<block key="N_02_0_0001_1396_21" korean="The town has a number of risks lurking." />
+	<block key="N_02_0_0001_1396_22" korean="Where we'll see. Pirates them!" />
+	<block key="N_02_0_0001_1396_23" korean="Well gotta go cook the spices as much as possible ..." />
+	<block key="N_02_0_0001_1396_24" korean="Well gotta go cook the spices as much as possible ..." />
+	<block key="N_02_0_0001_1396_25" korean="Live match ...! Live match ...!" />
+	<block key="N_02_0_0001_1396_26" korean="And a plurality of parents'm gonna be ...!" />
+	<block key="N_02_0_0001_1396_27" korean="What Can food supplements for energy? Well ..." />
+	<block key="N_02_0_0001_1396_28" korean="No! No'll put a ship schematic come out ?!" />
+	<block key="N_02_0_0001_1396_29" korean="What the hell is the difference between fishing vessels and warships !?" />
+	<block key="N_02_0_0001_1396_30" korean="Whatever you ask for a fellow!" />
+	<block key="N_02_0_0001_1396_31" korean="Only your reputation is heard, you better be quiet stay in the village!" />
+	<block key="N_02_0_0001_1396_32" korean="One son, he is so hurt whilst in ..." />
+	<block key="N_02_0_0001_1396_33" korean="Who are you?! He wakes up in my sleep !?" />
+	<block key="N_02_0_0001_1396_34" korean="An attacker can not forgive! Guys !!" />
+	<block key="N_02_0_0001_1396_35" korean="Yiguna recipe!" />
+	<block key="N_02_0_0001_1396_36" korean="Departure times now destined to soon ceases to Canas also sex." />
+	<block key="N_02_0_0001_1396_37" korean="Ugh! Because damn pirates in their boat goes my completion." />
+	<block key="N_02_0_0001_1396_38" korean="If the wolf is now sick horses born!" />
+	<block key="N_02_0_0001_1396_39" korean="I'm not turning windmills. The wind did not have to turn ... annoying ..." />
+	<block key="N_02_0_0001_1396_40" korean="Only mercenaries are tired of the constant pirate attacks!" />
+	<block key="N_02_0_0001_1396_41" korean="Pirates something that brings four my equipment. No problem!" />
+	<block key="N_02_0_0001_1396_42" korean="Welcome! Except what's already true!" />
+	<block key="N_02_0_0001_1396_43" korean="A beautiful day to hunt pirates with me? !!" />
+	<block key="N_02_0_0001_1396_44" korean="Dewil guy and I'm resemblance attend ... figures ..." />
+	<block key="N_02_0_0001_1396_45" korean="Uhh ... Drat ... My brother always will have revenge!" />
+	<block key="N_02_0_0001_1396_46" korean="Shh! Hey! This way here!" />
+	<block key="N_02_0_0001_1396_47" korean="So you also will not have lived back!" />
+	<block key="N_02_0_0001_1396_48" korean="At Karnak! The Stupid! The body is not until Whilst !!" />
+	<block key="N_02_0_0001_1396_49" korean="This dirty monsters! Here the fishermen do not bother anymore!" />
+	<block key="N_02_0_0001_1396_50" korean="Hmm ... where the hell is this ... if ...? Ahchacha!" />
+	<block key="N_02_0_0001_1396_51" korean="Uhh ...! This place is ttulrida you ... but come on wit my brother will kill you ...!" />
+	<block key="N_02_0_0001_1396_52" korean="It was you trim it down to my brother Haute far! I'll kill you!" />
+	<block key="N_02_0_0001_1396_53" korean="Ah! Well, you've come to save us!" />
+	<block key="N_02_0_0001_1396_54" korean="Please deliver us from the hands of the pirates!" />
+	<block key="N_02_0_0001_1396_55" korean="That's a big deal this is! Would show them a lesson by pirates ...!" />
+	<block key="N_02_0_0001_1396_56" korean="They also swept the pirates now that's soon Oh! Go for it!" />
+	<block key="N_02_0_0001_1396_57" korean="Hey! Young people! Fucking helped !!" />
+	<block key="N_02_0_0001_1396_58" korean="Save me got a man ... How can I find him?" />
+	<block key="N_02_0_0001_1396_59" korean="Mureo have only one hapchyeoya prevent war between Middleton." />
+	<block key="N_02_0_0001_1396_60" korean="If you follow the voices come back mothari ..." />
+	<block key="N_02_0_0001_1396_61" korean="Angry mureo pushing is our main enemy! Be sure to win!" />
+	<block key="N_02_0_0001_1396_62" korean="Never buy the favor of free rummy thing's not an easy task." />
+	<block key="N_02_0_0001_1396_63" korean="Oh give Rummy! I want you to see!" />
+	<block key="N_02_0_0001_1396_64" korean="Human beings do not come here for carelessly." />
+	<block key="N_02_0_0001_1396_65" korean="Also mureo Middleton's charming race! I'll have to put check!" />
+	<block key="N_02_0_0001_1396_66" korean="I mureo Middleton is also true blacksmith recognized! Ha, ha, ha!" />
+	<block key="N_02_0_0001_1396_67" korean="Dapdaphagun! Riveting!" />
+	<block key="N_02_0_0001_1396_68" korean="Let whale grabbed the last one before I die ...?" />
+	<block key="N_02_0_0001_1396_69" korean="Uhh ... the ship can not come too hungry to fight ..." />
+	<block key="N_02_0_0001_1396_70" korean="If ever you please share a little bit of food?" />
+	<block key="N_02_0_0001_1396_71" korean="Thank you! You're the hero of the area. You just hope you find the princess." />
+	<block key="N_02_0_0001_1396_72" korean="Oh! Mureo Mio! Why do we only fall inde free rummy like !?" />
+	<block key="N_02_0_0001_1396_73" korean="Ah! Mureo Mio! So I'd rather die than to stay open late fall with you!" />
+	<block key="N_02_0_0001_1396_74" korean="Thank you! Eating the right foods will be involved in the battle!" />
+	<block key="N_02_0_0001_1396_75" korean="Oh! Eating the right foods seem to be able to catch that pirates beat them!" />
+	<block key="N_02_0_0001_1396_76" korean="Dumoknim! Is not the time to be doing this! Yiraguyo time to set sail! I go for at Karnak's revenge!" />
+	<block key="N_02_0_0001_1396_77" korean="Huh! Damn stupid annoying because at Karnak guy! Hey! Come on! Come on imported alcohol and more" />
+	<block key="IN_EX_1_0001_001" korean="Oh, is not to pump more seumda will fight. Help me ..." />
+	<block key="IN_EX_1_0001_002" korean="Stein colorectal liver body is under two hundred, even a hat would Lal." />
+	<block key="IN_EX_1_0001_003" korean="I'm not anymore! I'm just going to go home! Rowan sick of war and do it!" />
+	<block key="IN_EX_1_0001_004" korean="Is Captain Stein's been sending help to give me?" />
+	<block key="IN_EX_1_0001_005" korean="Failing that, who would you see me. In particular, do not say never hanteneun Stein captain!" />
+	<block key="IN_EX_1_0001_006" korean="Whew ... I think that give a lot of tough things even pay mercenaries." />
+	<block key="IN_EX_1_0002_001" korean="Eopu puppu puppu !!!! Where to dajjagojja from water kkieonneun seumkka!" />
+	<block key="IN_EX_1_0002_002" korean="Eopu! Eopu pup ㅍ Fu! ... This had turned the star of the colon?" />
+	<block key="IN_EX_1_0002_003" korean="Heek coming! Kelrok kelrok! Oh, you let words, words! ... Fu Ah- choo!" />
+	<block key="IN_EX_1_0002_004" korean="....... I'm a star ... colon too. I want to see my mom ...." />
+	<block key="N_P01_0_0001_0013_01" korean="Who dares disturb my sleep!" />
+	<block key="N_P01_0_0001_0013_02" korean="Loud that I'll never sleep! Dicky they'll fold the bone!" />
+	<block key="N_P01_0_0001_0013_03" korean="One thousand six hundred thirty-four skull, skull sixteen hundred ... Oh, Oh, boy!" />
+	<block key="N_P01_0_0001_0013_04" korean="I fall asleep ... I fall asleep ... missing long gaeppul!" />
+	<block key="N_P01_0_0001_0013_05" korean="Come on ... Come on little sleep, sleep, sleep-year-old ghost, I ahninyago ..." />
+	<block key="e_f02_hufpub_001_01" korean="Where are you my dear ... .." />
+	<block key="e_f02_hufpub_001_02" korean="I do not see ... Honey ..." />
+	<block key="e_f02_hufpub_001_03" korean="Hey ... I'm sorry ..." />
+	<block key="e_c01_chaowiz_001_01" korean="Canas will kneel down and to the church!" />
+	<block key="e_c01_chaowiz_001_02" korean="Taste and see the power of darkness!" />
+	<block key="e_c01_chaowiz_001_03" korean="You'll have to die here, doggies!" />
+	<block key="n_f03_0_0001_0055_01" korean="Thanks to the messenger's mureo became able to do with Mio!" />
+	<block key="n_f03_0_0001_0055_02" korean="I'll get married when the messenger God also sent the invitations! And I ask you?" />
+	<block key="n_f03_0_0001_0055_03" korean="I'm so happy ... love's messenger, thank you!" />
+	<block key="n_f03_iho_001" korean="What about human music?" />
+	<block key="n_f03_paul_001" korean="Mureo pushing really mysterious and beautiful race!" />
+	<block key="n_f03_Lain_001" korean="Pirates are done passing out the free rummy sold in other countries." />
+	<block key="n_f03_chigaru_001" korean="What kind of human buildings look ...?" />
+	<block key="n_f03_romeo_001" korean="Oh! Line Rummy! You grip too small!" />
+	<block key="n_f03_hadaru_001" korean="Humans. Do not staying out of trouble should break here." />
+	<block key="n_f03_syisa_001" korean="Oh! Now Newbie? Thanks for the yen last!" />
+	<block key="n_f03_kirosiha_001" korean="You must prevent the contamination of the bog!" />
+	<block key="n_f03_korata_001" korean="Rabbits, pigs, pelicans around here ... this game to become too large." />
+	<block key="n_f03_rykoha_001" korean="While there are good arms and light performance." />
+	<block key="n_f03_gakuu_001" korean="Looking for a good armor?" />
+	<block key="n_f03_kamero_001" korean="Whatever you ask for a fellow!" />
+	<block key="n_f03_rbron_001" korean="Do not worry about going to steal anyone leave the shoe!" />
+	<block key="n_f03_sitaru_001" korean="We will treat your pain." />
+	<block key="n_f03_shyron_001" korean="I do not except what mureo mummy!" />
+	<block key="n_f03_rahican_001" korean="The last line of defense! Always keep produce!" />
+	<block key="n_f03_grente_001" korean="Anything for a fellow'm familiar." />
+	<block key="n_f03_akantool_001" korean="Basics of magic is a humble heart." />
+	<block key="n_f03_taranin_001" korean="In order to rebuild it still lacks many of the Croix Kuhn." />
+	<block key="n_f03_mananan_001" korean="Lake has been opened up because of you. Thank you." />
+	<block key="n_f03_reonjenis_001" korean="Come to stop the Yeti can reduce the Croix Kuhn and human sacrifice." />
+	<block key="n_c01_humsol01_001" korean="The harbor is dangerous. I turned the plague!" />
+	<block key="n_c01_humsol01_002" korean="Dolahganeunge would be nice if you value your life!" />
+	<block key="n_c01_humsol01_003" korean="People are dying to know the cause plague!" />
+	<block key="n_c01_humsol01_004" korean="Uhh ... Please help!" />
+	<block key="n_c01_humsol01_005" korean="Body ... the body is more ...." />
+	<block key="n_c01_humsol01_006" korean="I would like to pick on ... I'd rather die ...!" />
+	<block key="n_c01_humsol01_007" korean="Uhh ...! What seems to want to wake up in the body! I'm afraid!" />
+	<block key="n_c01_humsol01_008" korean="Save me ...! Body is so sick ..." />
+	<block key="n_c01_humsol01_009" korean="Please be patient for a bit. Drugs will soon arrive!" />
+	<block key="n_c01_humsol01_010" korean="You'll have to endure!" />
+	<block key="n_c01_humsol01_011" korean="What the hell happened to this disease is not where to start ?!" />
+	<block key="n_c01_humsol01_012" korean="The police keep the disease started after the wizard unidentified've stayed ..." />
+	<block key="n_c01_humsol01_013" korean="It's a big deal ... This has to stop before the disease spread to the capital castle!" />
+	<block key="n_c01_humsol01_014" korean="More people should not wait for this structure on the side!" />
+	<block key="n_c01_humsol01_015" korean="I can not write any more hands ...!" />
+	<block key="n_d03_potal_01" korean="This is currently closed, guys. I'll send it to the front of the temple." />
+	<block key="n_d03_potal_02" korean="Where you goin 'do without scoring Ladan ..." />
+	<block key="n_d03_potal_03" korean="We come into staying a while here to help punish the Ladan." />
+	<block key="n_d03_potal_04" korean="I think you called the right person ceases to yamalro punish the eyes of Ladan." />
+	<block key="N_04_0_0001_0048_1" korean="Due to landslides blocking the road." />
+	<block key="N_04_0_0001_0048_2" korean="Come staffing to be going the recovery operation is won is replaced When will ..." />
+	<block key="N_c01_UnionMaster_01" korean="Matters relating to the United guild please consult with me." />
+	<block key="in_f05_sickman_01" korean="Neck ... neck yo do. The water ..." />
+	<block key="in_f05_sickman_02" korean="There is no spirit say lack of energy." />
+	<block key="in_f05_sickman_03" korean="This desert .. also do not you hot? Former seems to die." />
+	<block key="in_f05_sickman_04" korean="Now I seem to be some weight. Thank you!" />
+	<block key="in_f05_sickman_05" korean="I'm cool water! Now I see the water preciousness." />
+	<block key="in_f05_sickman_06" korean="The water looks so delicious drink for the first time in my life!" />
+	<block key="in_f05_worker_01" korean="Never had Materials'm asking what you are doing." />
+	<block key="in_f05_worker_02" korean="I'd like a little more rest ... Come to find old later." />
+	<block key="in_f05_worker_03" korean="I'm not itneunge good to do this play. If the material only secure because now days it?" />
+	<block key="in_f05_worker_04" korean="Has secured a construction material? Then got to start the day!" />
+	<block key="in_f05_worker_05" korean="We gotta do when you work a little rest more? He was sitting in the back longer sick." />
+	<block key="in_f05_worker_06" korean="Great! Getting a job again now?" />
+	<block key="N_d06_UpperN_01" korean="Talos for scoring in front of the huge stone statues." />
+	<block key="N_d06_UpperN_02" korean="Activate Find the upper steel door lever." />
+	<block key="N_d06_UpperN_03" korean="Steel doors are open. On board the Fellowship can journey underneath." />
+	<block key="N_d06_UpperN_04" korean="The ship has been activated. Enemies come flocking." />
+	<block key="N_d06_Under_01" korean="Operate the engine room lever." />
+	<block key="N_d06_Under_02" korean="To enter power indeed to be operated engine room steel door lever." />
+	<block key="N_d06_Under_03" korean="Engine room iron gates are opened." />
+	<block key="N_d06_Under_04" korean="Let congestion by operating with power." />
+	<block key="N_d06_Under_05" korean="Stopped is in a power-operated." />
+	<block key="N_d06_Under_06" korean="The summoning chamber of evil barriers have been removed" />
+	<block key="N_d06_Under_07" korean="The control room of evil barriers have been removed." />
+	<block key="N_d06_Under_08" korean="Please obtain a crystal ball of Pomerania princess." />
+	<block key="N_d06_Under_09" korean="Is a power to congestion." />
+	<block key="N_d06_Under_10" korean="Summon room iron gates are opened." />
+	<block key="N_d06_Under_11" korean="Control room, steel door is open." />
+	<block key="N_d06_clear_n1" korean="Immortal Legion has cleared the fort (general)!" />
+	<block key="N_d06_clear_n2" korean="You can find more powerful enemies in the Elite difficulty." />
+	<block key="N_d06_clear_h1" korean="Has cleared the Immortal Legion Fort (Elite)!" />
+	<block key="N_d06_clear_h2" korean="You can find more powerful enemies on Heroic difficulty." />
+	<block key="N_d06_clear_e1" korean="Congratulations!" />
+	<block key="N_d06_clear_e2" korean="Immortal Legion has cleared the fort (hero)!" />
+	<block key="E_d06_BossTal_01" korean="Another rat that I am inside the gear." />
+	<block key="E_d06_BossTal_02" korean="Greater alas ... I'll be back!" />
+	<block key="E_d06_BossMor_01" korean="A long time came Ine guests. Jujuy" />
+	<block key="E_d06_BossMor_02" korean="Closer with. I'll seonsahae death." />
+	<block key="E_d06_BossMor_03" korean="Greater Uhh ... it's a disgrace." />
+	<block key="E_d06_BossMerc_01" korean="Here outset jaldo!" />
+	<block key="E_d06_BossMerc_02" korean="Get rid of!" />
+	<block key="E_d06_BossMerc_03" korean="Zuma for scoring yourself!" />
+	<block key="E_d06_BossMerc_04" korean="This I Uhh off ...." />
+	<block key="E_d06_BossMerc_05" korean="We are legion!" />
+	<block key="E_d06_BossMerc_06" korean="You clothe hurt me. Preparation yiroguna (not used)" />
+	<block key="E_d06_BossMerc_07" korean="Yet! Legion is not dead !!! (not used)" />
+	<block key="E_d06_BossMerc_08" korean="Maninga much to meet these Gegenüber. Sorry only lines relative to! (Not used)" />
+	<block key="E_d06_BossMerc_09" korean="This ... this guy! Recipe .... (not used)" />
+	<block key="E_d06_BossMerc_10" korean="This ... is not in Riga this! That can not do this (not used)" />
+	<block key="E_d06_BossMerc_11" korean="I ... Come! Both come in! Out Be Killed them!! (Not used)" />
+	<block key="E_d06_immoMon_01" korean="You're caught! I'll kill you!" />
+	<block key="E_d06_immoMon_02" korean="Today is your last day!" />
+	<block key="E_d06_immoMon_03" korean="Death to mortal!" />
+	<block key="E_d06_immoMon_04" korean="Zuma presented to death." />
+	<block key="E_d06_immoMon_05" korean="Shredded'll all!" />
+	<block key="E_d06_immoMon_06" korean="We do not die!" />
+	<block key="E_d06_immoMon_07" korean="We are legion!" />
+	<block key="E_d06_immoMon_08" korean="The Immortal Legion Immortal." />
+	<block key="E_d06_immoMon_09" korean="New loot the've come." />
+	<block key="E_d06_immoMon_10" korean="The ever! The ever!" />
+	<block key="E_d06_immoMon_11" korean="You kill Master'll give me the freedom" />
+	<block key="E_d06_immoZom_01" korean="That, alas ahh. Living Well ... ah ... the ... ah ..." />
+	<block key="E_d06_immoZom_02" korean="Te Uh ..." />
+	<block key="E_d06_immoZom_03" korean="Uh ... Uh Uh ...." />
+	<block key="E_d06_immoZom_04" korean="Fresh ... fresh ... meats" />
+	<block key="E_d06_immoZom_05" korean="Eat ... you and unloading ..." />
+	<block key="E_d06_immoZom_06" korean="You ... neoeo ... kill ... kill ... tear ... you and unloading ..." />
+	<block key="E_d06_immoMon_12" korean="Zuma to me alive!" />
+	<block key="E_d06_immoMon_13" korean="The time of torture!" />
+	<block key="E_d06_immoGos_01" korean="Life A mixed of different dimensions. Did not occur Strangely I'm glad." />
+	<block key="E_d06_immoGos_02" korean="Explore this world to'll write yourself. D laid his body!" />
+	<block key="E_d06_immoGos_03" korean="Let's leave keueu Uhh ... you guys." />
+	<block key="N_D06_Barrent_01" korean="Rania Princess She's in Fort downstairs!" />
+	<block key="N_D06_Barrent_02" korean="We must treat the upper level demon Talos and secure the lever." />
+	<block key="N_D06_Barrent_03" korean="Kill him and actuates a lever leading to the downstairs\nSteel doors will open!" />
+	<block key="N_D06_Barrent_04" korean="Him is the Talos!" />
+	<block key="N_D06_Barrent_05" korean="I will be in addition !!!" />
+	<block key="N_D06_Barrent_06" korean="Now you must find the upstairs lever." />
+	<block key="N_D06_Barrent_07" korean="The lever will be upstairs corner." />
+	<block key="N_D06_Barrent_08" korean="Upstairs steel door is open." />
+	<block key="N_D06_Barrent_09" korean="I will go down first. I'll see you in the bottom floor!" />
+	<block key="N_D06_Barrent_10" korean="This way! There are power room iron door lever in direction." />
+	<block key="N_D06_Barrent_11" korean="The front of the dead who chairs they were many. Be careful!" />
+	<block key="N_D06_Barrent_12" korean="Engine room iron gates are opened! Now you can get into the engine compartment." />
+	<block key="N_D06_Barrent_13" korean="Must stop with power available to the princess! We must go." />
+	<block key="N_D06_Barrent_14" korean="Attend you like killing Mercury's. Also chose awesome!" />
+	<block key="N_D06_Barrent_15" korean="Now you need to congestion the power to! Perform this operation in power." />
+	<block key="N_D06_Barrent_16" korean="Rania princess attend you like water over evil. Oh, my God." />
+	<block key="N_d06_Under_12" korean="To enter indeed summoned to be operated summoned room iron door lever." />
+	<block key="N_d06_Under_13" korean="To enter the control room to be operated control room iron door lever." />
+	<block key="N_d06_Under_14" korean="Operate the summoning chamber steel door lever." />
+	<block key="N_d06_Under_15" korean="Operate the control room, iron door lever." />
+</blocks>

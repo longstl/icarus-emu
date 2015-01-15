@@ -8,9 +8,9 @@
 inline void SM_UNK_6f0e(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->PackSend(OPCODE_SM_UNK_6f0e);
+	SM_CHANGE_CHARACTER(pck);
 }
 
 /*

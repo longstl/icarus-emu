@@ -66,19 +66,64 @@ bool PACKET::PackRecv()
 
 	real_packet_size = readUW();
 	opcode = readUW();
-	packet_len = real_packet_size - offset;		
+	int cryptflag1 = readUB();
+	int cryptflag2 = readUB();
+//	offset -= 2;
+	packet_len = real_packet_size - offset;
+
+	
+	char key[] = { 0xc1, 0xa1, 0xb2, 0xc4, 0x4b, 0x3f, 0x1b, 0x41 };
+	int step_key = 0;
+	if (cryptflag1 == 2)
+	{
+		for (int i = 0; i < packet_len; i++)
+		{
+			buf_use_packed[i + offset] ^= key[step_key];
+			++step_key;
+			if (step_key == sizeof(key))
+				step_key = 0;
+		}
+	}
+
 	return true;
 }
 
 bool PACKET::PackSend(uint16 op)
 {
-	char pack[PACKET_LEN + 4];
-	memcpy(pack + 4, packet_snd, offset_snd);
+	int16 null = 0;
+	char pack[PACKET_LEN + 6];
+	memcpy(pack + 6, packet_snd, offset_snd);
 
-	uint16 pack_len = offset_snd + 4;
+	int pack_len = offset_snd + 6;
 	memcpy(pack, &pack_len, 2);
 	memcpy(pack + 2, &op, 2);
+	memcpy(pack + 4, &null, 2);
 	send(sockstruct->socket, pack, pack_len, NULL);
+
+	/*/// DEBUG
+	char tmp[2];
+	tmp[1] = 0;
+	log::Debug(fg, "S->C: [len:%d] [op:%02x]", pack_len, op);
+	for (int i = 6; i < pack_len; i++)
+	{
+	if ((uint8)pack[i] > 0x20 && (uint8)pack[i] <= 'z')
+	{
+	tmp[0] = (uint8)pack[i];
+	log::Notify(fg, tmp);
+	}
+	else
+	{
+	log::Notify(fg, ".");
+	}
+	}
+	log::Notify(fg, "\n");
+	log::Debug(fg, "S->C: ");
+	for (int i = 6; i < pack_len; i++)
+	{
+	log::Notify(fg, "%02x", (uint8)pack[i]);
+	}
+	log::Notify(fg, "\n");
+	/// !DEBUG*/
 	return true;
 }
 //////////////////////////////////////////////////////////////////////////

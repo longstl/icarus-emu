@@ -9,8 +9,7 @@ void SM_UPDATESERVERINFO(PACKET* pck)
 	if (pck->sockstruct->send_serverlist)
 	{
 		pck->CreateBufForSend();
-		pck->writeW(0);
-		pck->writeD(0);
+		pck->writeD(1);
 		pck->writeD(1);
 		pck->writeD(1);			
 		pck->writeD(2);

@@ -1,0 +1,60 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="loading_tip_f00_001" korean="W" />
+	<block key="loading_tip_f00_002" korean="°ÆtÐ­¹ " />
+	<block key="loading_tip_f00_003" korean="" />
+	<block key="loading_tip_d00_001" korean="X³ÈtÇ " />
+	<block key="loading_tip_d00_002" korean="X³ÈÐÅÁ " />
+	<block key="loading_tip_d00_003" korean="X³È " />
+	<block key="loading_tip_f01_001" korean="F" />
+	<block key="loading_tip_f01_002" korean="F" />
+	<block key="loading_tip_f01_003" korean="5Ð¬Âo¸ÐÅ " />
+	<block key="loading_tip_f01_004" korean="È¹°Æ¤Â " />
+	<block key="loading_tip_f01_005" korean="ìÓÈÐ " />
+	<block key="loading_tip_f01_006" korean="¬ÀÝ¹ " />
+	<block key="loading_tip_f01_007" korean="tÇtÎè¸¤ÂXÇ " />
+	<block key="loading_tip_f01_008" korean="C" />
+	<block key="loading_tip_f01_009" korean="7" />
+	<block key="loading_tip_f01_010" korean="DÌ±tÇÙ³DÇ " />
+	<block key="loading_tip_f01_011" korean="ÀÉÖÐÅ " />
+	<block key="loading_tip_f01_012" korean="ä²x¹ " />
+	<block key="loading_tip_f01_013" korean="5" />
+	<block key="loading_tip_f01_014" korean=" Ó\¸°Æ " />
+	<block key="loading_tip_f01_015" korean="Œ¬„Ç5ÆXÁÐÅÁ " />
+	<block key="loading_tip_f01_016" korean="¹Ò1Á<Ç\¸ " />
+	<block key="loading_tip_f01_017" korean=""" />
+	<block key="loading_tip_f01_018" korean="8®ä´tÇ0® " />
+	<block key="loading_tip_f01_019" korean="8®ä´tÇ0® " />
+	<block key="loading_tip_f01_020" korean="	½xÇ´ " />
+	<block key="loading_tip_f01_021" korean="Ót¹˜°XÇEµ " />
+	<block key="loading_tip_f01_022" korean="È‘ÇDÇ " />
+	<block key="loading_tip_f01_023" korean="ñ´	®Ä¼\¸ " />
+	<block key="loading_tip_f01_024" korean=" Ó\¸°Æ " />
+	<block key="loading_tip_f01_025" korean="ÓðÒŒ¬ÜÂÓDÇ " />
+	<block key="loading_tip_c01_001" korean="" />
+	<block key="loading_tip_c01_002" korean="ÈÆ " />
+	<block key="loading_tip_d06_001" korean="ÁÀ1Á " />
+	<block key="loading_tip_d06_002" korean="ä²‘Å\Õ " />
+	<block key="loading_tip_d06_003" korean="È¹LÇtÇ " />
+	<block key="loading_tip_d01_001" korean="Á1Á " />
+	<block key="loading_tip_d01_002" korean="¼ÅLÇÁ1Á " />
+	<block key="loading_tip_d01_003" korean="Á1Á " />
+	<block key="loading_tip_p01_001" korean="Õ¸tÇ´ÅÐÅŒ¬ " />
+	<block key="loading_tip_p01_002" korean="HÅÈÀÉíÅÐÅÁ”² " />
+	<block key="loading_tip_p01_003" korean="Õ¸tÇ´Å|¹ " />
+	<block key="loading_tip_p01_004" korean="ÑÅÇ€· " />
+	<block key="loading_tip_p01_005" korean="¬xÇ " />
+	<block key="loading_tip_p01_006" korean="3" />
+	<block key="loading_tip_p01_007" korean="ì²4»¬¹ " />
+	<block key="loading_tip_f01_026" korean=""" />
+	<block key="loading_tip_f01_027" korean="\Ö%¸tÇ " />
+	<block key="loading_tip_f01_028" korean="Î­¹0ÑÐÅ " />
+	<block key="loading_tip_f01_029" korean="ÜÂ¤Â\Ñ " />
+	<block key="loading_tip_f00_030" korean=" Ó\¸°Æ " />
+</blocks>

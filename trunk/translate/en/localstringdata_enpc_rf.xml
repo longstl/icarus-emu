@@ -1,0 +1,97 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<!-- f6 -->
+<!-- f7 -->
+<!-- f8 -->
+<!-- f9 -->
+<blocks>
+	<keys num_keys="9" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" key6="f6" key7="f7" key8="f8" key9="f9" />
+	<block key="E_D11_MohaScout_001_Name" korean="Pyrgos greater robbers Ranger" />
+	<block key="E_D11_MohaScout_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_FanaRecon_001_Name" korean="Pyrgos large predators robbers" />
+	<block key="E_D11_FanaRecon_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaSnipe_001_Name" korean="Pyrgos greater robbers Monitor" />
+	<block key="E_D11_MohaSnipe_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_FanaTroop_001_Name" korean="Pyrgos greater robbers guard" />
+	<block key="E_D11_FanaTroop_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_FanaMidget_001_Name" korean="Pyrgos greater bandits striking a bell" />
+	<block key="E_D11_FanaMidget_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaShotr_001_Name" korean="Mother Haba yongbyeongdan blacksmith" />
+	<block key="E_D11_MohaShotr_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaHealer_001_Name" korean="All fear Mystic Harbor yongbyeongdan" />
+	<block key="E_D11_MohaHealer_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_FanaRecon_002_Name" korean="Haba yongbyeongdan all Swashbuckler" />
+	<block key="E_D11_FanaRecon_002_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaSnipe_002_Name" korean="Haba yongbyeongdan ambush all drinkers" />
+	<block key="E_D11_MohaSnipe_002_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaSnipe_003_Name" korean="Mother Haba yongbyeongdan lion trainer" />
+	<block key="E_D11_MohaSnipe_003_NameDetail" korean="Red revolution" />
+	<block key="E_D11_Lion_001_Name" korean="Lion trainer" />
+	<block key="E_D11_Lion_001_NameDetail" korean="#" />
+	<block key="E_D11_McTyman_001_Name" korean="Mac Thai distant" />
+	<block key="E_D11_McTyman_001_NameDetail" korean="Bull" />
+	<block key="E_D11_McTyman_002_Name" korean="Mac Thai distant" />
+	<block key="E_D11_McTyman_002_NameDetail" korean="Bull" />
+	<block key="E_D11_Hoston_001_Name" korean="Stone Lake" />
+	<block key="E_D11_Hoston_001_NameDetail" korean="Blacksmiths fire" />
+	<block key="E_D11_MohaSnipe_004_Name" korean="Kara De Pirate Boatswain" />
+	<block key="E_D11_MohaSnipe_004_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmTreas_001_Name" korean="Kara De Pirate Assault bottle" />
+	<block key="E_D11_CarmTreas_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmWatch_001_Name" korean="Cara de Pirate Watchtower bottle" />
+	<block key="E_D11_CarmWatch_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmBarub_001_Name" korean="Cara de pirate operations tubes" />
+	<block key="E_D11_CarmBarub_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmDeckh_001_Name" korean="Kara De Pirate Crew" />
+	<block key="E_D11_CarmDeckh_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_Karad_001_Name" korean="Kara De" />
+	<block key="E_D11_Karad_001_NameDetail" korean="Captain" />
+	<block key="E_D11_DetuGaren_001_Name" korean="D2 is Rennes" />
+	<block key="E_D11_DetuGaren_001_NameDetail" korean="Wizard of Darkness" />
+	<block key="E_D11_Garesh_001_Name" korean="The leche" />
+	<block key="E_D11_Garesh_001_NameDetail" korean="Evil" />
+	<block key="E_D11_FanaRecon_003_Name" korean="Pyrgos large predators robbers" />
+	<block key="E_D11_FanaRecon_003_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaSnipe_005_Name" korean="Pyrgos greater robbers Monitor" />
+	<block key="E_D11_MohaSnipe_005_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmTreas_002_Name" korean="Pyrgos greater robbers steel project" />
+	<block key="E_D11_CarmTreas_002_NameDetail" korean="Red revolution" />
+	<block key="E_D11_FanaThera_001_Name" korean="Pyrgos greater robbers EMT" />
+	<block key="E_D11_FanaThera_001_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaHealer_002_Name" korean="Pyrgos large wind robbers Mystic" />
+	<block key="E_D11_MohaHealer_002_NameDetail" korean="Red revolution" />
+	<block key="E_D11_Kfir_001_Name" korean="Greater Pyrmont" />
+	<block key="E_D11_Kfir_001_NameDetail" korean="For robbers" />
+	<block key="E_D11_MohaSnipe_006_Name" korean="Tooth SS sniper keurak" />
+	<block key="E_D11_MohaSnipe_006_NameDetail" korean="Red revolution" />
+	<block key="E_D11_FanaTroop_002_Name" korean="Tooth keurak SS guards" />
+	<block key="E_D11_FanaTroop_002_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmTreas_003_Name" korean="Tooth disease keurak SS assault" />
+	<block key="E_D11_CarmTreas_003_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmBarub_002_Name" korean="Tooth SS tube keurak Staff" />
+	<block key="E_D11_CarmBarub_002_NameDetail" korean="Red revolution" />
+	<block key="E_D11_Kraktus_001_Name" korean="Keurak Tooth" />
+	<block key="E_D11_Kraktus_001_NameDetail" korean="Red revolution only position" />
+	<block key="E_D11_MohaScout_002_Name" korean="Pyrgos greater robbers Ranger" />
+	<block key="E_D11_MohaScout_002_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaScout_003_Name" korean="Pyrgos greater robbers Ranger" />
+	<block key="E_D11_MohaScout_003_NameDetail" korean="Red revolution" />
+	<block key="E_D11_FanaRecon_004_Name" korean="Haba yongbyeongdan all Swashbuckler" />
+	<block key="E_D11_FanaRecon_004_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaSnipe_007_Name" korean="Haba yongbyeongdan ambush all drinkers" />
+	<block key="E_D11_MohaSnipe_007_NameDetail" korean="Red revolution" />
+	<block key="E_D11_CarmTreas_004_Name" korean="Kara De Pirate Assault bottle" />
+	<block key="E_D11_CarmTreas_004_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaSnipe_008_Name" korean="Kara De Pirate Boatswain" />
+	<block key="E_D11_MohaSnipe_008_NameDetail" korean="Red revolution" />
+	<block key="E_D11_MohaSnipe_009_Name" korean="Pyrgos greater robbers Monitor" />
+	<block key="E_D11_MohaSnipe_009_NameDetail" korean="Red revolution" />
+	<block key="E_D11_Key_001_Name" korean="Wadi" />
+	<block key="E_D11_Key_001_NameDetail" korean="Key drawbridge being" />
+	<block key="E_D11_Key_002_Name" korean="Theta" />
+	<block key="E_D11_Key_002_NameDetail" korean="Key drawbridge being" />
+</blocks>

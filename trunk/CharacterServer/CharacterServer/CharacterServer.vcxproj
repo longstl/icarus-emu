@@ -103,6 +103,7 @@
     <ClInclude Include="network\packet.h" />
     <ClInclude Include="network\server\SM_CREATECHARACTER.h" />
     <ClInclude Include="network\server\SM_DELETECHARACTER.h" />
+    <ClInclude Include="network\server\SM_DELETE_S.h" />
     <ClInclude Include="network\server\SM_DISCONNECT.h" />
     <ClInclude Include="network\server\SM_GETPIN.h" />
     <ClInclude Include="network\server\SM_LOBBYUSERMSG.h" />
@@ -112,7 +113,7 @@
     <ClInclude Include="network\server\SM_PONG.h" />
     <ClInclude Include="network\server\SM_RESTORE_CONNECTION.h" />
     <ClInclude Include="network\server\SM_STARTGAME.h" />
-    <ClInclude Include="network\server\SM_UNK1.h" />
+    <ClInclude Include="network\server\SM_UPDATE_CHARACTER_INFO.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="Settings.h" />
     <ClInclude Include="stdafx.h" />

@@ -20,7 +20,7 @@ WSADATA				wsaData;
 SOCKET				s;
 SOCKET				sock_accept;
 sockaddr_in			from;
-struct				sockaddr_in sin;
+struct				sockaddr_in si;
 HANDLE				hpthr;
 SETTINGS			settings;
 CRITICAL_SECTION	gCS;
@@ -30,6 +30,7 @@ FILE*				fg;				// Хэндл файла для логера
 
 DATABASE*			mysql;
 ALL_PLAYERS*		allplayers;
+MOB*				mobs;
 AI*					server;
 
 #endif _LAUNCHER_SERVER_H_

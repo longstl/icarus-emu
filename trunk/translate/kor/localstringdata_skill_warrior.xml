@@ -1,0 +1,1166 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Wr_Absorption_Name" korean="0®´Æ " />
+	<block key="Wr_Absorption_Description_1" korean="Á1Á " />
+	<block key="Wr_Absorption_Description_2" korean="Á1Á " />
+	<block key="Wr_Absorption_Description_3" korean="Á1Á " />
+	<block key="Wr_Absorption_Description_4" korean="Á1Á " />
+	<block key="wr_comboslash_Name" korean="3" />
+	<block key="wr_comboslash_Description_1" korean="" />
+	<block key="wr_comboslash_Description_1_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_2" korean="" />
+	<block key="wr_comboslash_Description_2_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_3" korean="" />
+	<block key="wr_comboslash_Description_3_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_4" korean="" />
+	<block key="wr_comboslash_Description_4_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_5" korean="" />
+	<block key="wr_comboslash_Description_5_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_6" korean="" />
+	<block key="wr_comboslash_Description_6_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_7" korean="" />
+	<block key="wr_comboslash_Description_7_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_8" korean="" />
+	<block key="wr_comboslash_Description_8_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_9" korean="" />
+	<block key="wr_comboslash_Description_9_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_10" korean="" />
+	<block key="wr_comboslash_Description_10_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_11" korean="" />
+	<block key="wr_comboslash_Description_11_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_12" korean="" />
+	<block key="wr_comboslash_Description_12_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_13" korean="" />
+	<block key="wr_comboslash_Description_13_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_14" korean="" />
+	<block key="wr_comboslash_Description_14_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_15" korean="" />
+	<block key="wr_comboslash_Description_15_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_16" korean="" />
+	<block key="wr_comboslash_Description_16_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_17" korean="" />
+	<block key="wr_comboslash_Description_17_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_18" korean="" />
+	<block key="wr_comboslash_Description_18_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_19" korean="" />
+	<block key="wr_comboslash_Description_19_attach_0" korean="
+" />
+	<block key="wr_comboslash_Description_20" korean="" />
+	<block key="wr_comboslash_Description_20_attach_0" korean="
+" />
+	<block key="wr_comboslash2_name" korean="3" />
+	<block key="wr_combo1_name" korean="[" />
+	<block key="wr_combo2_name" korean="[" />
+	<block key="wr_combo3_name" korean="[" />
+	<block key="wr_combo4_name" korean="[" />
+	<block key="wr_combo5_name" korean="[" />
+	<block key="wr_drawing_Name" korean="" />
+	<block key="wr_drawing_Description_1" korean="àÂ1Á\Õ " />
+	<block key="wr_counteratt_Name" korean="¼©¬" />
+	<block key="wr_counteratt_Description_1" korean="ÈXÇ " />
+	<block key="wr_counteratt_Description_2" korean="ÈXÇ " />
+	<block key="wr_counteratt_Description_3" korean="ÈXÇ " />
+	<block key="wr_counteratt_Description_4" korean="ÈXÇ " />
+	<block key="wr_counteratt_Description_5" korean="ÈXÇ " />
+	<block key="wr_counteratt_Description_6" korean="ÈXÇ " />
+	<block key="wr_courage_Name" korean="©Æ0®XÇ " />
+	<block key="wr_courage_description_1" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_2" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_3" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_4" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_5" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_6" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_7" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_8" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_9" korean="hÕ1ÁDÇ " />
+	<block key="wr_courage_description_10" korean="hÕ1ÁDÇ " />
+	<block key="wr_deepstab_Name" korean="J®@Ç " />
+	<block key="wr_deepstab_Description_1" korean="ÈDÇ " />
+	<block key="wr_deepstab_Description_2" korean="ÈDÇ " />
+	<block key="wr_deepstab_Description_3" korean="ÈDÇ " />
+	<block key="wr_deepstab_Description_4" korean="ÈDÇ " />
+	<block key="wr_defstanceini_Name" korean=")¼´ÅÇ8Á " />
+	<block key="wr_defstanceini_Description_1" korean=")¼´ÅÇ8Á " />
+	<block key="wr_defstanceini_Description_2" korean=")¼´ÅÇ8Á " />
+	<block key="wr_defstanceini_Description_3" korean=")¼´ÅÇ8Á " />
+	<block key="wr_defup_Name" korean=")¼´Å%¸ " />
+	<block key="wr_defup_Description_1" korean="2" />
+	<block key="wr_defup_Description_2" korean="2" />
+	<block key="wr_defup_Description_3" korean="2" />
+	<block key="wr_dexup_Name" korean="ü»©Ì " />
+	<block key="wr_dexup_Description_1" korean="ü»©Ì1ÁDÇ " />
+	<block key="wr_dexup_Description_2" korean="ü»©Ì1ÁDÇ " />
+	<block key="wr_dexup_Description_3" korean="ü»©Ì1ÁDÇ " />
+	<block key="wr_dexup_Description_4" korean="ü»©Ì1ÁDÇ " />
+	<block key="wr_dexup_Description_5" korean="ü»©Ì1ÁDÇ " />
+	<block key="wr_dexup_Description_6" korean="ü»©Ì1ÁDÇ " />
+	<block key="wr_disarming_Name" korean="4»¥Ç " />
+	<block key="wr_disarming_Description_1" korean="" />
+	<block key="wr_disarming_Description_2" korean="" />
+	<block key="wr_disarming_Description_3" korean="" />
+	<block key="wr_doubleslash_Name" korean="2" />
+	<block key="wr_doubleslash_Description_1" korean="" />
+	<block key="wr_doubleslash_Description_2" korean="" />
+	<block key="wr_doubleslash_Description_3" korean="" />
+	<block key="wr_doubleslash_Description_4" korean="" />
+	<block key="wr_doubleslash_Description_5" korean="" />
+	<block key="wr_doubleslash_Description_6" korean="" />
+	<block key="wr_doubleslash_Description_7" korean="" />
+	<block key="wr_doubleslash_Description_8" korean="" />
+	<block key="wr_doubleslash_Description_9" korean="" />
+	<block key="wr_doubleslash_Description_10" korean="" />
+	<block key="wr_doubleslash_Description_11" korean="" />
+	<block key="wr_doubleslash_Description_12" korean="" />
+	<block key="wr_doubleslash_Description_13" korean="" />
+	<block key="wr_doubleslash_Description_14" korean="" />
+	<block key="wr_doubleslash_Description_15" korean="" />
+	<block key="wr_doubleslash_Description_16" korean="" />
+	<block key="wr_doubleslash_Description_17" korean="" />
+	<block key="wr_doubleslash_Description_18" korean="" />
+	<block key="wr_doubleslash_Description_19" korean="" />
+	<block key="wr_doubleslash_Description_20" korean="" />
+	<block key="wr_doubleslash2_Name" korean="2" />
+	<block key="wr_doubleslash2_Description_1" korean="" />
+	<block key="wr_doubleslash2_Description_2" korean="" />
+	<block key="wr_doubleslash2_Description_3" korean="" />
+	<block key="wr_doubleslash2_Description_4" korean="" />
+	<block key="wr_doubleslash2_Description_5" korean="" />
+	<block key="wr_doubleslash2_Description_6" korean="" />
+	<block key="wr_doubleslash2_Description_7" korean="" />
+	<block key="wr_doubleslash2_Description_8" korean="" />
+	<block key="wr_doubleslash2_Description_9" korean="" />
+	<block key="wr_doubleslash2_Description_10" korean="" />
+	<block key="wr_doubleslash2_Description_11" korean="" />
+	<block key="wr_doubleslash2_Description_12" korean="" />
+	<block key="wr_doubleslash2_Description_13" korean="" />
+	<block key="wr_doubleslash2_Description_14" korean="" />
+	<block key="wr_doubleslash2_Description_15" korean="" />
+	<block key="wr_doubleslash2_Description_16" korean="" />
+	<block key="wr_doubleslash2_Description_17" korean="" />
+	<block key="wr_doubleslash2_Description_18" korean="" />
+	<block key="wr_doubleslash2_Description_19" korean="" />
+	<block key="wr_doubleslash2_Description_20" korean="" />
+	<block key="wr_earthdevide_Name" korean="" />
+	<block key="wr_earthdevide_Description_1" korean="4»0®\¸ " />
+	<block key="wr_earthdevide_Description_2" korean="4»0®\¸ " />
+	<block key="wr_earthdevide_Description_3" korean="4»0®\¸ " />
+	<block key="wr_earthdevide_Description_4" korean="4»0®\¸ " />
+	<block key="wr_earthdevide_Description_5" korean="4»0®\¸ " />
+	<block key="wr_earthdevide_Description_6" korean="4»0®\¸ " />
+	<block key="wr_finalatt_Name" korean="\ÍÄÖXÇ " />
+	<block key="wr_finalatt_Description_1" korean="" />
+	<block key="wr_finalatt_Description_2" korean="" />
+	<block key="wr_finalatt_Description_3" korean="" />
+	<block key="Wr_FirAtk_Name" korean="Á1Á " />
+	<block key="Wr_FirAtk_Description_1" korean="" />
+	<block key="Wr_FirAtk_Description_2" korean="" />
+	<block key="Wr_FirAtk_Description_3" korean="" />
+	<block key="Wr_FirAtk_Description_4" korean="" />
+	<block key="Wr_FirAtk_Description_5" korean="" />
+	<block key="wr_heragrip_Name" korean="äÕ|·tÐ˜·¤ÂXÇ " />
+	<block key="wr_heragrip_Description_1" korean="" />
+	<block key="wr_heragrip_Description_2" korean="" />
+	<block key="wr_heragrip_Description_3" korean="" />
+	<block key="wr_herapower_Name" korean="äÕ|·tÐ˜·¤ÂXÇ " />
+	<block key="wr_herapower_Description_1" korean="ÂÈÉ" />
+	<block key="wr_herapower_Description_2" korean="ÂÈÉ" />
+	<block key="wr_herapower_Description_3" korean="ÂÈÉ" />
+	<block key="wr_heraspirit_Name" korean="äÕ|·tÐ˜·¤ÂXÇ " />
+	<block key="wr_heraspirit_Description_1" korean="ÂÈÉ" />
+	<block key="wr_heraspirit_Description_2" korean="ÂÈÉ" />
+	<block key="wr_heraspirit_Description_3" korean="ÂÈÉ" />
+	<block key="Wr_Indure_Name" korean="„¼ðÒ0®" />
+	<block key="Wr_Indure_Description_1" korean="1" />
+	<block key="Wr_Indure_Description_2" korean="1" />
+	<block key="Wr_Indure_Description_3" korean="1" />
+	<block key="Wr_InnerPower_Name" korean=" Ç¬Ç " />
+	<block key="Wr_InnerPower_Description_1" korean="„½x±|¹ " />
+	<block key="Wr_InnerPower_Description_2" korean="„½x±|¹ " />
+	<block key="Wr_InnerPower_Description_3" korean="„½x±|¹ " />
+	<block key="wr_kickdown_Name" korean="ä²¬¹ " />
+	<block key="wr_kickdown_Description_1" korean="" />
+	<block key="wr_kickdown_Description_2" korean="" />
+	<block key="wr_kickdown_Description_3" korean="" />
+	<block key="wr_legattack_Name" korean="˜×ˆÇŒ¬(Ì0®" />
+	<block key="wr_legattack_Description_1" korean="" />
+	<block key="wr_legattack_Description_2" korean="" />
+	<block key="wr_legattack_Description_3" korean="" />
+	<block key="wr_legattack_Description_4" korean="" />
+	<block key="wr_legattack_Description_5" korean="" />
+	<block key="wr_mindatt_Name" korean="ÈàÂ " />
+	<block key="wr_mindatt_Description_1" korean="" />
+	<block key="wr_mindatt_Description_2" korean="" />
+	<block key="wr_mindatt_Description_3" korean="" />
+	<block key="wr_mindatt_Description_4" korean="" />
+	<block key="wr_nerveblock_Name" korean="àÂ½¬ " />
+	<block key="wr_nerveblock_Description_1" korean="3" />
+	<block key="wr_nerveblock_Description_2" korean="3" />
+	<block key="wr_nerveblock_Description_3" korean="3" />
+	<block key="wr_nerveblock_Description_4" korean="3" />
+	<block key="wr_parry_Name" korean="ÐÌ´°0®" />
+	<block key="wr_parry_Description_1" korean="" />
+	<block key="wr_parry_Description_2" korean="" />
+	<block key="wr_parry_Description_3" korean="" />
+	<block key="wr_parry_Description_4" korean="" />
+	<block key="wr_hack_Name" korean="œ°Ä³ÈÉ" />
+	<block key="wr_hack_Description_1" korean="" />
+	<block key="wr_piercingheart_Name" korean="ìÂ¥Ç " />
+	<block key="wr_piercingheart_Description_1" korean="" />
+	<block key="wr_piercingheart_Description_2" korean="" />
+	<block key="wr_piercingheart_Description_3" korean="" />
+	<block key="wr_piercingheart_Description_4" korean="" />
+	<block key="wr_piercingheart_Description_5" korean="" />
+	<block key="wr_provoke_Name" korean="Ä³¼XÇ " />
+	<block key="wr_provoke_Description_1" korean="è²|Ç " />
+	<block key="wr_provoke_Description_2" korean="è²|Ç " />
+	<block key="wr_provoke_Description_3" korean="è²|Ç " />
+	<block key="wr_provoke_Description_4" korean="è²|Ç " />
+	<block key="wr_provoke_Description_5" korean="è²|Ç " />
+	<block key="wr_provoke_Description_6" korean="è²|Ç " />
+	<block key="wr_provoke_Description_7" korean="è²|Ç " />
+	<block key="wr_provoke_Description_8" korean="è²|Ç " />
+	<block key="wr_provoke_Description_9" korean="è²|Ç " />
+	<block key="wr_provoke_Description_10" korean="è²|Ç " />
+	<block key="wr_roar_Name" korean="¬ÀÇÄÖ" />
+	<block key="wr_roar_Description_1" korean="È " />
+	<block key="wr_roar_Description_2" korean="È " />
+	<block key="wr_roar_Description_3" korean="È " />
+	<block key="wr_shoulderpush_Name" korean="" />
+	<block key="wr_shoulderpush_Description_1" korean="3" />
+	<block key="wr_shoulderpush_Description_2" korean="3" />
+	<block key="wr_shoulderpush_Description_3" korean="3" />
+	<block key="wr_shoulderpush_Description_4" korean="3" />
+	<block key="Wr_combo2link_Name" korean="¤Â4Ñ”Í" />
+	<block key="Wr_combo2link_Description_1" korean="<" />
+	<block key="Wr_combo2link_Description_2" korean="<" />
+	<block key="Wr_combo2link_Description_3" korean="<" />
+	<block key="Wr_combo2link_Description_4" korean="<" />
+	<block key="Wr_combo2link_Description_5" korean="<" />
+	<block key="Wr_combo2link_Description_6" korean="<" />
+	<block key="Wr_combo2link_Description_7" korean="<" />
+	<block key="Wr_combo2link_Description_8" korean="<" />
+	<block key="Wr_combo2link_Description_9" korean="<" />
+	<block key="Wr_combo2link_Description_10" korean="<" />
+	<block key="wr_soccerkick_Name" korean="¬ÀäÎ¥Ð" />
+	<block key="wr_soccerkick_Description_1" korean="±´ÅÄÉ " />
+	<block key="wr_soccerkick_Description_2" korean="±´ÅÄÉ " />
+	<block key="wr_soccerkick_Description_3" korean="±´ÅÄÉ " />
+	<block key="wr_spiritslash_Name" korean="Æ<Ö ¼0®" />
+	<block key="wr_spiritslash_Description_1" korean="" />
+	<block key="wr_spiritslash_Description_2" korean="" />
+	<block key="wr_spiritslash_Description_3" korean="" />
+	<block key="wr_strong_Name" korean="8ÁŒ¬ " />
+	<block key="wr_strong_Description_1" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_2" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_3" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_4" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_5" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_6" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_7" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_8" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_9" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_10" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong_Description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strong1_Name" korean="­íÓ\Õ:" />
+	<block key="wr_strong2_Name" korean="­íÓ\Õ:" />
+	<block key="wr_strong3_Name" korean="­íÓ\Õ:" />
+	<block key="wr_jumpslash_Name" korean="ÈÕ " />
+	<block key="wr_jumpslash_Description_1" korean="" />
+	<block key="wr_jumpslash_Description_2" korean="" />
+	<block key="wr_jumpslash_Description_3" korean="" />
+	<block key="wr_jumpslash_Description_4" korean="" />
+	<block key="wr_jumpslash_Description_5" korean="" />
+	<block key="wr_jumpslash_Description_6" korean="" />
+	<block key="wr_jumpslash_Description_7" korean="" />
+	<block key="wr_jumpslash_Description_8" korean="" />
+	<block key="wr_jumpslash_Description_9" korean="" />
+	<block key="wr_jumpslash_Description_10" korean="" />
+	<block key="wr_jumpslash_Description_11" korean="" />
+	<block key="wr_jumpslash_Description_12" korean="" />
+	<block key="wr_jumpslash_Description_13" korean="" />
+	<block key="wr_jumpslash_Description_14" korean="" />
+	<block key="wr_jumpslash_Description_15" korean="" />
+	<block key="wr_jumpslash_Description_16" korean="" />
+	<block key="wr_jumpslash_Description_17" korean="" />
+	<block key="wr_jumpslash_Description_18" korean="" />
+	<block key="wr_jumpslash_Description_19" korean="" />
+	<block key="wr_jumpslash_Description_20" korean="" />
+	<block key="wr_finishatk_Name" korean="\ÍÄÖXÇ " />
+	<block key="wr_finishatk_Description_1" korean="" />
+	<block key="wr_finishatk_Description_2" korean="" />
+	<block key="wr_finishatk_Description_3" korean="" />
+	<block key="wr_finishatk_Description_4" korean="" />
+	<block key="wr_finishatk_Description_5" korean="" />
+	<block key="wr_finishatk_Description_6" korean="" />
+	<block key="wr_finishatk_Description_7" korean="" />
+	<block key="wr_finishatk_Description_8" korean="" />
+	<block key="wr_finishatk_Description_9" korean="" />
+	<block key="wr_finishatk_Description_10" korean="" />
+	<block key="wr_strongatk_Name" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_Description_1" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_2" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_3" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_4" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_5" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_6" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_7" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_8" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_9" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_10" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongatk_Description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongbody_Name" korean="s­t¬\Õ " />
+	<block key="wr_strongbody_Description_1" korean="\Í" />
+	<block key="wr_strongbody_Description_2" korean="\Í" />
+	<block key="wr_strongbody_Description_3" korean="\Í" />
+	<block key="wr_strongbody_Description_4" korean="\Í" />
+	<block key="wr_strongbody_Description_5" korean="\Í" />
+	<block key="wr_strongbody_Description_6" korean="\Í" />
+	<block key="wr_strongbody_Description_7" korean="\Í" />
+	<block key="wr_strup_Name" korean="˜× " />
+	<block key="wr_strup_Description_1" korean="˜×DÇ " />
+	<block key="wr_strup_Description_2" korean="˜×DÇ " />
+	<block key="wr_strup_Description_3" korean="˜×DÇ " />
+	<block key="wr_strup_Description_4" korean="˜×DÇ " />
+	<block key="wr_strup_Description_5" korean="˜×DÇ " />
+	<block key="wr_strup_Description_6" korean="˜×DÇ " />
+	<block key="wr_swdwind_Name" korean="€¬0® " />
+	<block key="wr_swdwind_Description_1" korean="4»0®ÐÅ " />
+	<block key="wr_swdwind_Description_2" korean="4»0®ÐÅ " />
+	<block key="wr_swdwind_Description_3" korean="4»0®ÐÅ " />
+	<block key="wr_swdwind_Description_4" korean="4»0®ÐÅ " />
+	<block key="wr_swdwind_Description_5" korean="4»0®ÐÅ " />
+	<block key="wr_swingatk_Name" korean="×P´t¹0®" />
+	<block key="wr_swingatk_description_1" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_2" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_3" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_4" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_5" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_6" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_7" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_8" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_9" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_10" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_11" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_12" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_13" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_14" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_15" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_16" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_17" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_18" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_19" korean="¸ºDÇ " />
+	<block key="wr_swingatk_description_20" korean="¸ºDÇ " />
+	<block key="wr_swordhurri_Name" korean="€¬0® " />
+	<block key="wr_swordhurri_Description_1" korean="€¬0® " />
+	<block key="wr_swordhurri_Description_2" korean="€¬0® " />
+	<block key="wr_swordhurri_Description_3" korean="€¬0® " />
+	<block key="Wr_SwordShield_Name" korean="|Î ° " />
+	<block key="Wr_SwordShield_Description_1" korean="|ÇÈ " />
+	<block key="Wr_SwordShield_Description_2" korean="|ÇÈ " />
+	<block key="Wr_SwordShield_Description_3" korean="|ÇÈ " />
+	<block key="Wr_SwordShield_Description_4" korean="|ÇÈ " />
+	<block key="wr_zap_Name" korean="ÈUÅXÇ " />
+	<block key="wr_zap_Description_1" korean="ÈXÇ " />
+	<block key="wr_zap_Description_2" korean="ÈXÇ " />
+	<block key="wr_zap_Description_3" korean="ÈXÇ " />
+	<block key="wr_zap_Description_4" korean="ÈXÇ " />
+	<block key="wr_annoyingatt_Name" korean="1Á" />
+	<block key="wr_annoyingatt_description_1" korean="" />
+	<block key="wr_annoyingatt_description_2" korean="" />
+	<block key="wr_annoyingatt_description_3" korean="" />
+	<block key="wr_annoyingatt_description_4" korean="" />
+	<block key="wr_annoyingatt_description_5" korean="" />
+	<block key="wr_fearatt_Name" korean="õ¬ìÓXÇ " />
+	<block key="wr_fearatt_description_1" korean="" />
+	<block key="wr_fearatt_description_2" korean="" />
+	<block key="wr_fearatt_description_3" korean="" />
+	<block key="wr_fearatt_description_4" korean="" />
+	<block key="wr_shoulderatk1_Name" korean="´Åh® " />
+	<block key="wr_shoulderatk1_description_1" korean="" />
+	<block key="wr_shoulderatk1_description_1_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_2" korean="" />
+	<block key="wr_shoulderatk1_description_2_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_3" korean="" />
+	<block key="wr_shoulderatk1_description_3_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_4" korean="" />
+	<block key="wr_shoulderatk1_description_4_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_5" korean="" />
+	<block key="wr_shoulderatk1_description_5_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_6" korean="" />
+	<block key="wr_shoulderatk1_description_6_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_7" korean="" />
+	<block key="wr_shoulderatk1_description_7_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_8" korean="" />
+	<block key="wr_shoulderatk1_description_8_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_9" korean="" />
+	<block key="wr_shoulderatk1_description_9_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_10" korean="" />
+	<block key="wr_shoulderatk1_description_10_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_11" korean="" />
+	<block key="wr_shoulderatk1_description_11_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_12" korean="" />
+	<block key="wr_shoulderatk1_description_12_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_13" korean="" />
+	<block key="wr_shoulderatk1_description_13_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_14" korean="" />
+	<block key="wr_shoulderatk1_description_14_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_15" korean="" />
+	<block key="wr_shoulderatk1_description_15_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_16" korean="" />
+	<block key="wr_shoulderatk1_description_16_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_17" korean="" />
+	<block key="wr_shoulderatk1_description_17_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_18" korean="" />
+	<block key="wr_shoulderatk1_description_18_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_19" korean="" />
+	<block key="wr_shoulderatk1_description_19_attach_0" korean="
+" />
+	<block key="wr_shoulderatk1_description_20" korean="" />
+	<block key="wr_shoulderatk1_description_20_attach_0" korean="
+" />
+	<block key="shoulderatk_change_Name" korean="´Åh® " />
+	<block key="shoulderatk_change1_Name" korean="´Åh® " />
+	<block key="wr_1handaxe_Name" korean="\ÕÁ " />
+	<block key="wr_1handaxe_description_1" korean="\ÕÁ " />
+	<block key="wr_1handblunt_Name" korean="\ÕÁ " />
+	<block key="wr_1handblunt_description_1" korean="\ÕÁ " />
+	<block key="wr_1handsword_Name" korean="\ÕÁ " />
+	<block key="wr_1handsword_description_1" korean="\ÕÁ " />
+	<block key="wr_2handaxe_Name" korean="‘ÅÁ " />
+	<block key="wr_2handaxe_description_1" korean="‘ÅÁ " />
+	<block key="wr_2handblunt_Name" korean="‘ÅÁ " />
+	<block key="wr_2handblunt_description_1" korean="‘ÅÁ " />
+	<block key="wr_2handsword_Name" korean="‘ÅÁ " />
+	<block key="wr_2handsword_description_1" korean="‘ÅÁ " />
+	<block key="wr_chain_Name" korean="½¬¬ " />
+	<block key="wr_chain_description_1" korean="½¬¬ " />
+	<block key="wr_cloth_Name" korean="\¸¾ " />
+	<block key="wr_cloth_description_1" korean="\¸¾ " />
+	<block key="wr_ctrl_move_Name" korean="ÈàÂ " />
+	<block key="wr_ctrl_move_description_1" korean="Õ¸tÇ´Å " />
+	<block key="wr_dagger_Name" korean="è²€¬ " />
+	<block key="wr_dagger_description_1" korean="è²€¬DÇ " />
+	<block key="wr_duelweapon_Name" korean="ÃÂ " />
+	<block key="wr_duelweapon_description_1" korean="‘ÅÁÐÅ " />
+	<block key="wr_leather_Name" korean="tº¬ " />
+	<block key="wr_leather_description_1" korean="tº¬ " />
+	<block key="wr_plate_Name" korean="É¬ " />
+	<block key="wr_plate_description_1" korean="É¬ " />
+	<block key="wr_shield_Name" korean=")¼(Ó " />
+	<block key="wr_shield_description_1" korean=")¼(Ó|¹ " />
+	<block key="wr_3combo_2_Name" korean="3" />
+	<block key="wr_3combo_2_description_1" korean="3" />
+	<block key="wr_3combo_3_Name" korean="3" />
+	<block key="wr_3combo_3_description_1" korean="3" />
+	<block key="wr_areaprovoke_Name" korean="ÆíÅÄ³¼" />
+	<block key="wr_areaprovoke_description_1" korean="|ÇÈ " />
+	<block key="wr_areaprovoke_description_2" korean="|ÇÈ " />
+	<block key="wr_areaprovoke_description_3" korean="|ÇÈ " />
+	<block key="wr_blockatt_Name" korean="(Ìè²XÇ " />
+	<block key="wr_blockatt_description_1" korean="ÐÌ´°0®|¹ " />
+	<block key="wr_blockatt_description_2" korean="ÐÌ´°0®|¹ " />
+	<block key="wr_blockatt_description_3" korean="ÐÌ´°0®|¹ " />
+	<block key="wr_bodyup_Name" korean="àÂ´Ì " />
+	<block key="wr_bodyup_description_1" korean="ÇàÂXÇ " />
+	<block key="wr_bodyup_description_2" korean="ÇàÂXÇ " />
+	<block key="wr_bodyup_description_3" korean="ÇàÂXÇ " />
+	<block key="wr_damweakatt_Name" korean="õ¬©¬%¸ " />
+	<block key="wr_damweakatt_description_1" korean="È " />
+	<block key="wr_damweakatt_description_2" korean="È " />
+	<block key="wr_damweakatt_description_3" korean="È " />
+	<block key="wr_fearhowl_Name" korean="õ¬ìÓXÇ " />
+	<block key="wr_fearhowl_description_1" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_2" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_3" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_4" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_5" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_6" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_7" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_8" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_9" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowl_description_10" korean="4­1ÁDÇ " />
+	<block key="wr_instantslash_Name" korean="Â¬ " />
+	<block key="wr_instantslash_description_1" korean="" />
+	<block key="wr_instantslash_description_2" korean="" />
+	<block key="wr_instantslash_description_3" korean="" />
+	<block key="wr_instantslash_description_4" korean="" />
+	<block key="wr_instantslash_description_5" korean="" />
+	<block key="wr_instantslash_description_6" korean="" />
+	<block key="wr_instantslash_description_7" korean="" />
+	<block key="wr_instantslash_description_8" korean="" />
+	<block key="wr_instantslash_description_9" korean="" />
+	<block key="wr_instantslash_description_10" korean="" />
+	<block key="wr_instantslash_description_11" korean="" />
+	<block key="wr_instantslash_description_12" korean="" />
+	<block key="wr_instantslash_description_13" korean="" />
+	<block key="wr_instantslash_description_14" korean="" />
+	<block key="wr_instantslash_description_15" korean="" />
+	<block key="wr_instantslash_description_16" korean="" />
+	<block key="wr_instantslash_description_17" korean="" />
+	<block key="wr_instantslash_description_18" korean="" />
+	<block key="wr_instantslash_description_19" korean="" />
+	<block key="wr_instantslash_description_20" korean="" />
+	<block key="wr_luckyatt_Name" korean="”Æ‰ÕXÇ " />
+	<block key="wr_luckyatt_description_1" korean="" />
+	<block key="wr_luckyatt_description_2" korean="" />
+	<block key="wr_luckyatt_description_3" korean="" />
+	<block key="wr_protecthowl_Name" korean="ô¼8ÖXÇ " />
+	<block key="wr_protecthowl_description_1" korean="|ÇÈ " />
+	<block key="wr_protecthowl_description_2" korean="|ÇÈ " />
+	<block key="wr_protecthowl_description_3" korean="|ÇÈ " />
+	<block key="wr_upperatt_Name" korean="ÐÌ,Æ¬¹0®" />
+	<block key="wr_upperatt_description_1" korean="‘ÅÁ€¬<Ç\¸ " />
+	<block key="wr_upperatt_description_2" korean="‘ÅÁ€¬<Ç\¸ " />
+	<block key="wr_upperatt_description_3" korean="‘ÅÁ€¬<Ç\¸ " />
+	<block key="wr_weakatt_Name" korean="}ÅTÖXÇ " />
+	<block key="wr_weakatt_description_1" korean="ÈXÇ " />
+	<block key="wr_weakatt_description_2" korean="ÈXÇ " />
+	<block key="wr_weakatt_description_3" korean="ÈXÇ " />
+	<block key="wr_warmastery_Name" korean="È,Ò " />
+	<block key="wr_warmastery_description_1" korean="È,Ò " />
+	<block key="wr_destroymastery_Name" korean="Ó4­ " />
+	<block key="wr_destroymastery_description_1" korean="Ó4­ÈxÇ " />
+	<block key="wr_protectmastery_Name" korean="Â8Ö " />
+	<block key="wr_protectmastery_description_1" korean="Â8ÖÈxÇ " />
+	<block key="wr_frenzy_Name" korean="­íÓTÖ" />
+	<block key="wr_frenzy_description_1" korean="e×„½ " />
+	<block key="wr_frenzy_description_2" korean="e×„½ " />
+	<block key="wr_frenzy_description_3" korean="e×„½ " />
+	<block key="wr_frenzy_description_4" korean="e×„½ " />
+	<block key="wr_frenzy_description_5" korean="e×„½ " />
+	<block key="wr_frenzy_description_6" korean="e×„½ " />
+	<block key="wr_frenzy_description_7" korean="e×„½ " />
+	<block key="wr_frenzy_description_8" korean="e×„½ " />
+	<block key="wr_frenzy_description_9" korean="e×„½ " />
+	<block key="wr_frenzy_description_10" korean="e×„½ " />
+	<block key="wr_frenzylink_Name" korean="­íÓTÖ" />
+	<block key="wr_heavy_Name" korean="É¬ " />
+	<block key="wr_heavy_description_1" korean="É¬DÇ " />
+	<block key="wr_comaclear_Name" korean="ÁÀÜÐtÕÈ" />
+	<block key="wr_comaclear_description_1" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_2" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_3" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_4" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_5" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_6" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_7" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_8" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_9" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_comaclear_description_10" korean="Î­¹0ÑÐÅŒ¬ " />
+	<block key="wr_provokeall_Name" korean="Ä³¼XÇ " />
+	<block key="wr_provokeall_description_1" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_2" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_3" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_4" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_5" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_6" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_7" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_8" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_9" korean="üÈÀ¼XÇ " />
+	<block key="wr_provokeall_description_10" korean="üÈÀ¼XÇ " />
+	<block key="wr_combatmode_Name" korean="õ¬©¬ " />
+	<block key="wr_combatmode_description_1" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_2" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_3" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_4" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_5" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_6" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_7" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_8" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_9" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_combatmode_description_10" korean="õ¬©¬È<Ç\¸ " />
+	<block key="wr_reatt_name" korean="”Í" />
+	<block key="wr_reatt_description_1" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_2" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_3" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_4" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_5" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_6" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_7" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_8" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_9" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_10" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_11" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_12" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_13" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_14" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_15" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_16" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_17" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_18" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_19" korean="ÈÐÅŒ¬ " />
+	<block key="wr_reatt_description_20" korean="ÈÐÅŒ¬ " />
+	<block key="wr_anger_Name" korean="©Æ0®XÇ " />
+	<block key="wr_anger_description_1" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_2" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_3" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_4" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_5" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_6" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_7" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_8" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_9" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_anger_description_10" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wr_ncouragement_Name" korean="" />
+	<block key="wr_ncouragement_description_1" korean="" />
+	<block key="wr_ncouragement_description_2" korean="" />
+	<block key="wr_ncouragement_description_3" korean="" />
+	<block key="wr_ncouragement_description_4" korean="" />
+	<block key="wr_ncouragement_description_5" korean="" />
+	<block key="wr_ncouragement_description_6" korean="" />
+	<block key="wr_ncouragement_description_7" korean="" />
+	<block key="wr_ncouragement_description_8" korean="" />
+	<block key="wr_ncouragement_description_9" korean="" />
+	<block key="wr_ncouragement_description_10" korean="" />
+	<block key="wr_excited_Name" korean="e×„½ " />
+	<block key="wr_excited_description_1" korean="¨ºà´ " />
+	<block key="wr_excited_description_2" korean="¨ºà´ " />
+	<block key="wr_excited_description_3" korean="¨ºà´ " />
+	<block key="wr_excited_description_4" korean="¨ºà´ " />
+	<block key="wr_excited_description_5" korean="¨ºà´ " />
+	<block key="wr_excited_description_6" korean="¨ºà´ " />
+	<block key="wr_excited_description_7" korean="¨ºà´ " />
+	<block key="wr_excited_description_8" korean="¨ºà´ " />
+	<block key="wr_excited_description_9" korean="¨ºà´ " />
+	<block key="wr_excited_description_10" korean="¨ºà´ " />
+	<block key="wr_strongcs_Name" korean="8ÁŒ¬XÎ0®" />
+	<block key="wr_strongcs_description_1" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_2" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_3" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_4" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_5" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_6" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_7" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_8" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_9" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_10" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_12" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_13" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_14" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_15" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_16" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_17" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_18" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_19" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_strongcs_description_20" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_Name" korean="´°$¸XÎ0®" />
+	<block key="wr_smashcs_description_1" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_2" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_3" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_4" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_5" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_6" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_7" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_8" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_9" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_10" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_12" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_13" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_14" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_15" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_16" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_17" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_18" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_19" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcs_description_20" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smashcl_Name" korean="´°$¸XÎ0®(" />
+	<block key="wr_smashcm_Name" korean="´°$¸XÎ0®(" />
+	<block key="wr_smash_Name" korean="´°$¸XÎ0®" />
+	<block key="wr_smash_description_1" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_1_attach_0" korean="
+" />
+	<block key="wr_smash_description_2" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_2_attach_0" korean="
+" />
+	<block key="wr_smash_description_3" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_3_attach_0" korean="
+" />
+	<block key="wr_smash_description_4" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_4_attach_0" korean="
+" />
+	<block key="wr_smash_description_5" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_5_attach_0" korean="
+" />
+	<block key="wr_smash_description_6" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_6_attach_0" korean="
+" />
+	<block key="wr_smash_description_7" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_7_attach_0" korean="
+" />
+	<block key="wr_smash_description_8" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_8_attach_0" korean="
+" />
+	<block key="wr_smash_description_9" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_9_attach_0" korean="
+" />
+	<block key="wr_smash_description_10" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_10_attach_0" korean="
+" />
+	<block key="wr_smash_description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_description_11_attach_0" korean="
+" />
+	<block key="wr_smash_Description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_11_attach_0" korean="
+" />
+	<block key="wr_smash_Description_12" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_12_attach_0" korean="
+" />
+	<block key="wr_smash_Description_13" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_13_attach_0" korean="
+" />
+	<block key="wr_smash_Description_14" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_14_attach_0" korean="
+" />
+	<block key="wr_smash_Description_15" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_15_attach_0" korean="
+" />
+	<block key="wr_smash_Description_16" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_16_attach_0" korean="
+" />
+	<block key="wr_smash_Description_17" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_17_attach_0" korean="
+" />
+	<block key="wr_smash_Description_18" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_18_attach_0" korean="
+" />
+	<block key="wr_smash_Description_19" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_19_attach_0" korean="
+" />
+	<block key="wr_smash_Description_20" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash_Description_20_attach_0" korean="
+" />
+	<block key="wr_footattackcs_Name" korean="˜×Ï® " />
+	<block key="wr_footattackcs_Description_1" korean="˜×DÇ " />
+	<block key="wr_footattackcs_Description_1_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_2" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_2_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_3" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_3_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_4" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_4_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_5" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_5_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_6" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_6_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_7" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_7_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_8" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_8_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_9" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_9_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_10" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_10_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_11" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_11_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_12" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_12_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_13" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_13_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_14" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_14_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_15" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_15_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_16" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_16_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_17" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_17_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_18" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_18_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_19" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_19_attach_0" korean="
+" />
+	<block key="wr_footattackcs_description_20" korean="˜×DÇ " />
+	<block key="wr_footattackcs_description_20_attach_0" korean="
+" />
+	<block key="wr_smash1_Name" korean="[" />
+	<block key="wr_smash2_Name" korean="[" />
+	<block key="wr_smash3_Name" korean="[" />
+	<block key="wr_smash4_Name" korean="[" />
+	<block key="wr_footattackcl_Name" korean="˜×Ï®(Ì0®" />
+	<block key="wr_footattackcm_Name" korean="˜×Ï®(Ì0®(" />
+	<block key="wr_strongcl_Name" korean="8ÁŒ¬XÎ0®" />
+	<block key="wr_strongcl_description_1" korean="[" />
+	<block key="wr_strongcl_description_2" korean="[" />
+	<block key="wr_strongcl_description_3" korean="[" />
+	<block key="wr_strongcl_description_4" korean="[" />
+	<block key="wr_strongcl_description_5" korean="[" />
+	<block key="wr_strongcl_description_6" korean="[" />
+	<block key="wr_strongcl_description_7" korean="[" />
+	<block key="wr_strongcl_description_8" korean="[" />
+	<block key="wr_strongcl_description_9" korean="[" />
+	<block key="wr_strongcl_description_10" korean="[" />
+	<block key="wr_strongcl_description_11" korean="[" />
+	<block key="wr_strongcl_description_12" korean="[" />
+	<block key="wr_strongcl_description_13" korean="[" />
+	<block key="wr_strongcl_description_14" korean="[" />
+	<block key="wr_strongcl_description_15" korean="[" />
+	<block key="wr_strongcl_description_16" korean="[" />
+	<block key="wr_strongcl_description_17" korean="[" />
+	<block key="wr_strongcl_description_18" korean="[" />
+	<block key="wr_strongcl_description_19" korean="[" />
+	<block key="wr_strongcl_description_20" korean="[" />
+	<block key="wr_strongcm_Name" korean="8ÁŒ¬XÎ0®(" />
+	<block key="wr_strongcm_description_1" korean="[" />
+	<block key="wr_strongcm_description_2" korean="[" />
+	<block key="wr_strongcm_description_3" korean="[" />
+	<block key="wr_strongcm_description_4" korean="[" />
+	<block key="wr_strongcm_description_5" korean="[" />
+	<block key="wr_strongcm_description_6" korean="[" />
+	<block key="wr_strongcm_description_7" korean="[" />
+	<block key="wr_strongcm_description_8" korean="[" />
+	<block key="wr_strongcm_description_9" korean="[" />
+	<block key="wr_strongcm_description_10" korean="[" />
+	<block key="wr_strongcm_description_11" korean="[" />
+	<block key="wr_strongcm_description_12" korean="[" />
+	<block key="wr_strongcm_description_13" korean="[" />
+	<block key="wr_strongcm_description_14" korean="[" />
+	<block key="wr_strongcm_description_15" korean="[" />
+	<block key="wr_strongcm_description_16" korean="[" />
+	<block key="wr_strongcm_description_17" korean="[" />
+	<block key="wr_strongcm_description_18" korean="[" />
+	<block key="wr_strongcm_description_19" korean="[" />
+	<block key="wr_strongcm_description_20" korean="[" />
+	<block key="wr_combocs_Name" korean="3" />
+	<block key="wr_combocl_Name" korean="3" />
+	<block key="wr_combocm_Name" korean="3" />
+	<block key="wr_normalattack_Name" korean="ÇÙ³ " />
+	<block key="wr_normalattack_description_1" korean="" />
+	<block key="wr_frenzyprovokecs_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyprovokecs_description_1" korean="˜×DÇ " />
+	<block key="wr_frenzyprovokecs_description_1_attach_0" korean="5" />
+	<block key="wr_frenzysmash_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatk_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_poweratk_name" korean="8ÁŒ¬XÎ0®" />
+	<block key="wr_footatk_name" korean="˜×Ï®(Ì0®" />
+	<block key="wr_smashatk_name" korean="´°$¸XÎ0®" />
+	<block key="wr_frenzyfootatk_name" korean="­íÓ\Õ\Õ:" />
+	<block key="wr_frenzycomboatk_name" korean="­íÓ\Õ:" />
+	<block key="wr_bash_name" korean="ÄÖ$¸XÎ0®" />
+	<block key="wr_counteratk_name" korean="¼©¬" />
+	<block key="wr_counteratk_Description_1" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_name" korean="¼©¬" />
+	<block key="wr_counteratk1_Description_1" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_2" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_3" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_4" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_5" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_6" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_7" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_8" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_9" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk1_Description_10" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_name" korean="¼©¬" />
+	<block key="wr_counteratk2_Description_1" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_2" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_3" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_4" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_5" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_6" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_7" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_8" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_9" korean="ÇàÂtÇ " />
+	<block key="wr_counteratk2_Description_10" korean="ÇàÂtÇ " />
+	<block key="wr_block_name" korean="|Î °É¹0®" />
+	<block key="wr_bladeblock_name" korean="|Î °É¹0®" />
+	<block key="wr_bladeblock_Description_1" korean="„½x± " />
+	<block key="wr_shockwavecs_name" korean="©Í©¬Ó" />
+	<block key="wr_furyatk_name" korean="„½x±XÇ " />
+	<block key="wr_frenzyforce_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce_Description_1" korean="ÇàÂXÇ " />
+	<block key="wr_frenzyforce_Description_1_attach_0" korean="
+" />
+	<block key="wr_frenzyforce8_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce7_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce6_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce5_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce4_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce3_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce2_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce1_Name" korean="­íÓ\Õ " />
+	<block key="frenzy_Name" korean="­íÓ\Õ " />
+	<block key="frenzy_description_1" korean="e×„½ " />
+	<block key="wr_whirlwindcs_name" korean="¼Œ·XÇ " />
+	<block key="wr_whirlwindcs_Description_1" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_2" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_3" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_4" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_5" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_6" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_7" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_8" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_9" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcs_Description_10" korean="ŒÖÈXÕpº " />
+	<block key="wr_whirlwindcm_name" korean="¼Œ·XÇ " />
+	<block key="wr_whirlwindcl_name" korean="¼Œ·XÇ " />
+	<block key="instantslash_change_name" korean="Â¬ " />
+	<block key="instantslash_change1_name" korean="Â¬ " />
+	<block key="swingatk_change_name" korean="×P´t¹0®" />
+	<block key="swingatk_change1_name" korean="×P´t¹0®" />
+	<block key="wr_excited_link_name" korean="e×„½TÖ" />
+	<block key="jumpslash_change_name" korean="ÈÕ " />
+	<block key="jumpslash_change1_name" korean="ÈÕ " />
+	<block key="finishatk_change_name" korean="\ÍÄÖXÇ " />
+	<block key="finishatk_change1_name" korean="\ÍÄÖXÇ " />
+	<block key="wr_frenzyprovokecs_Description_1" korean="˜×DÇ " />
+	<block key="wr_frenzyprovokecl_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyprovokecm_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzymode_name" korean="­È¬À" />
+	<block key="wr_frenzymode_Description_1" korean="<" />
+	<block key="wr_frenzystrongatk_description_1" korean="`¾t¹à¬ " />
+	<block key="skillbook1_name" korean="¬xÇ\Õ " />
+	<block key="wr_skillbook2_name" korean="0® Á " />
+	<block key="skillbook1_Description_1" korean="„¼ÁäÎXÇ " />
+	<block key="wr_skillbook2_Description_1" korean="„¼ÁäÎ" />
+	<block key="wr_frenzystrongatk2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatk3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkr1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkr2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkr3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongrg1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongrg2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongrg3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkb1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkb2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkb3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbr1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbr2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbr3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbrg1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbrg2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbrg3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbg1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbg2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongbg3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkg1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkg2_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkg3_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_reactionhit_Name" korean="È,ÒXÇ " />
+	<block key="wr_reactionhit1_Name" korean="È,ÒXÇ " />
+	<block key="wr_reactionhit_description_1" korean="¬À0®|¹ " />
+	<block key="wr_reactionhit_name" korean="È,ÒXÇ " />
+	<block key="wr_furyatkr_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkg_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkb_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkrg_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkbr_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkbg_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkbrg_name" korean="„½x±XÇ " />
+	<block key="furyatklink_name" korean="„½x±XÇ " />
+	<block key="wr_boardbuffskill_Name" korean="[" />
+	<block key="wr_boardbuffskill_description_1" korean="ÑÐ¹Â " />
+	<block key="wr_furyatk_description_1" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="wr_combo1_Description_1" korean="" />
+	<block key="wr_combo1_Description_1_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_2" korean="" />
+	<block key="wr_combo1_Description_2_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_3" korean="" />
+	<block key="wr_combo1_Description_3_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_4" korean="" />
+	<block key="wr_combo1_Description_4_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_5" korean="" />
+	<block key="wr_combo1_Description_5_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_6" korean="" />
+	<block key="wr_combo1_Description_6_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_7" korean="" />
+	<block key="wr_combo1_Description_7_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_8" korean="" />
+	<block key="wr_combo1_Description_8_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_9" korean="" />
+	<block key="wr_combo1_Description_9_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_10" korean="" />
+	<block key="wr_combo1_Description_10_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_11" korean="" />
+	<block key="wr_combo1_Description_11_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_12" korean="" />
+	<block key="wr_combo1_Description_12_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_13" korean="" />
+	<block key="wr_combo1_Description_13_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_14" korean="" />
+	<block key="wr_combo1_Description_14_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_15" korean="" />
+	<block key="wr_combo1_Description_15_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_16" korean="" />
+	<block key="wr_combo1_Description_16_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_17" korean="" />
+	<block key="wr_combo1_Description_17_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_18" korean="" />
+	<block key="wr_combo1_Description_18_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_19" korean="" />
+	<block key="wr_combo1_Description_19_attach_0" korean="
+" />
+	<block key="wr_combo1_Description_20" korean="" />
+	<block key="wr_combo1_Description_20_attach_0" korean="
+" />
+	<block key="wr_smash1_Description_1" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_2" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_3" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_4" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_5" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_6" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_7" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_8" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_9" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_10" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_12" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_13" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_14" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_15" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_16" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_17" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_18" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_19" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_smash1_Description_20" korean="¬%¸XÕŒ¬ " />
+	<block key="wr_fearhowllc_Name" korean="[" />
+	<block key="wr_fearhowllc_description_1" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_2" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_3" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_4" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_5" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_6" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_7" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_8" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_9" korean="4­1ÁDÇ " />
+	<block key="wr_fearhowllc_description_10" korean="4­1ÁDÇ " />
+	<block key="wr_excited_party_Name" korean="e×„½TÖ" />
+	<block key="wr_newbies01_Name" korean="ìÅàÂXÇ " />
+	<block key="wr_newbies01_Description_1" korean="ØÅ\¸|· " />
+	<block key="wr_angerlink_Name" korean="©Æ0®XÇ " />
+	<block key="wr_hemorhage_name" korean="[" />
+	<block key="wr_skillbook3_name" korean="È¬ÀXÇ " />
+	<block key="wr_skillbook3_Description_1" korean="„¼ÁäÎXÇ " />
+	<block key="wr_colorhit_Name" korean="Ó4­XÇ " />
+	<block key="wr_colorhit_Description_1" korean="‘ÅÁ€¬DÇ " />
+	<block key="wr_colorhit2_Name" korean="­íÓ\Õ " />
+	<block key="wr_colorhit2_Description_1" korean="‘ÅÁ€¬DÇ " />
+	<block key="wr_colorhit3_Name" korean="­íÓ\Õ " />
+	<block key="wr_colorhit3_Description_1" korean="‘ÅÁ€¬DÇ " />
+	<block key="wr_destroyorigin_Name" korean="Ó4­XÇ " />
+	<block key="wr_destroyorigin_description_1" korean="Ó4­XÇ " />
+	<block key="wr_shockwavecs_description_1" korean="4" />
+	<block key="wr_wildrush_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrushr_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrushrg_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrushb_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrushbr_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrushrgb_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrushbg_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrushg_name" korean="œ°íÓ\Õ " />
+	<block key="wr_wildrush_description_1" korean="ÈÐÅŒ¬ " />
+	<block key="wr_colorfulhit_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhit2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhit3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitr_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitr2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitr3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitrg_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitrg2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitrg3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitb_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitb2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitb3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitbr_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitbr2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitbr3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitrgb_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitrgb2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitrgb3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitbg_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitbg2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitbg3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitg_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitg2_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhitg3_name" korean="­íÓ\Õ " />
+	<block key="wr_colorfulhit_description_1" korean="‘ÅÁ " />
+	<block key="wr_worriorglory_name" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_1" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_2" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_3" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_4" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_5" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_6" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_7" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_8" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_9" korean="„¼ÁäÎXÇ " />
+	<block key="wr_worriorglory_description_10" korean="„¼ÁäÎXÇ " />
+</blocks>

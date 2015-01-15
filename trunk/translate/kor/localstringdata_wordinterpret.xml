@@ -1,0 +1,1182 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SecDamage" korean="Íù² " />
+	<block key="CriticalRate" korean="XÎ…ºÀÐ(Ç" />
+	<block key="CombinePower" korean="°¬Á " />
+	<block key="Casting" korean="Î¤ÂÓ" />
+	<block key="Activity" korean="¼Ù³" />
+	<block key="InvCastingTarget" korean="íÅÎ¤ÂÓ_" />
+	<block key="CoolTime" korean="¬Ç¬À©Æ" />
+	<block key="CannotTrade" korean="p¬˜· " />
+	<block key="CannotDestroy" korean="Ó4­ " />
+	<block key="CanTrade" korean="p¬˜· " />
+	<block key="BelongingGet" korean="ÖÝ´ÜÂ " />
+	<block key="BelongingEquip" korean=")Ì©ÆÜÂ " />
+	<block key="CannotPerTrade" korean="¬xÇ " />
+	<block key="CannotShopTrade" korean="ÁÀÈ " />
+	<block key="LimitEquip" korean=")Ì©Æ " />
+	<block key="Upper" korean="tÇÁÀ" />
+	<block key="AttackAttr" korean="õ¬©¬ " />
+	<block key="AttackAttrNone" korean="4»Á1Á" />
+	<block key="Phy" korean="<»¬¹" />
+	<block key="Fire" korean="TÖüÅ" />
+	<block key="Ice" korean="É°0®" />
+	<block key="Light" korean="[¾" />
+	<block key="Dark" korean="´Å`´" />
+	<block key="OneHandSword" korean="\ÕÁ€¬" />
+	<block key="TwoHandSword" korean="‘ÅÁ€¬" />
+	<block key="OneHandHammer" korean="\ÕÁT´0®" />
+	<block key="TwoHandHammer" korean="‘ÅÁT´0®" />
+	<block key="OneHandDagger" korean="è²€¬" />
+	<block key="TwoHandGun" korean="|·tÇÕ" />
+	<block key="OneHandMagicStaff" korean="\ÕÁ " />
+	<block key="TwoHandMagicStaff" korean="‘ÅÁ " />
+	<block key="twohandbow" korean="\Ö" />
+	<block key="DuelGun" korean="¼¬À " />
+	<block key="EquipPos" korean=")Ì©Æ " />
+	<block key="Jacket" korean="ÁÀXÇ" />
+	<block key="Pants" korean="XÕXÇ" />
+	<block key="Gloves" korean="¥Ç¬" />
+	<block key="boots" korean="àÂ¼" />
+	<block key="hat" korean=",Òl­" />
+	<block key="Shoulder" korean="´Åh® " />
+	<block key="shield" korean=")¼(Ó" />
+	<block key="artifact" korean="DÅðÒ)Ó¸Ò" />
+	<block key="Gauntlet" korean=",Ò¬" />
+	<block key="SubItem" korean="ô¼pÈ " />
+	<block key="Ring" korean="¼ÀÉ" />
+	<block key="Necklace" korean="©ºx¬tÇ" />
+	<block key="RequireStr" korean="DÕ”Æ " />
+	<block key="RequireDex" korean="DÕ”Æ " />
+	<block key="RequireInt" korean="DÕ”Æ " />
+	<block key="RequireVit" korean="DÕ”Æ " />
+	<block key="RequireSpr" korean="DÕ”Æ " />
+	<block key="Job" korean="ÁÉÅÅ" />
+	<block key="Warrior" korean="„¼ÁäÎ" />
+	<block key="Guardian" korean="" />
+	<block key="Priest" korean="Õ¬¹¤Â¸Ò" />
+	<block key="Wizard" korean="Ç" />
+	<block key="Archer" korean="¸xÇ" />
+	<block key="Thief" korean="´ÅÃàÂ" />
+	<block key="AttackSpeed" korean="õ¬©¬ÁÄ³" />
+	<block key="Damage" korean="<ÕtÕ" />
+	<block key="Durability" korean="´°l­Ä³" />
+	<block key="Maker" korean="È‘ÇÇ" />
+	<block key="EMPowerLevel" korean="¬TÖ " />
+	<block key="sellprice" korean="Óä¹" />
+	<block key="buyprice" korean="l­ä¹" />
+	<block key="CreatureCanLink" korean="Á¹lÐ " />
+	<block key="CreatureCanEquip" korean="¥Ç)Ì " />
+	<block key="CreatedChar" korean="ÝÀ1ÁÎ­¹0Ñ" />
+	<block key="Warning" korean="LÅ¼¹" />
+	<block key="Personal" korean="¬xÇ" />
+	<block key="Free" korean="Ç Ç" />
+	<block key="Summon" korean="ŒÁXÖ " />
+	<block key="Return" korean="À­XÖ " />
+	<block key="Incubator" korean="€½TÖ0®" />
+	<block key="Error" korean="ÐÅì·" />
+	<block key="Notice" korean="[" />
+	<block key="complete" korean="DÆÌ¸" />
+	<block key="STP_TRAIT" korean="Ç Ç" />
+	<block key="STP_TECH" korean="ŒÁXÖ " />
+	<block key="STC_GENE" korean="À­XÖ " />
+	<block key="STC_SWAP" korean="€½TÖ0®" />
+	<block key="STC_LEARN" korean="ÐÅì·" />
+	<block key="STC_CREATE" korean="[" />
+	<block key="STC_POTEN" korean="DÆÌ¸" />
+	<block key="STC_CHANGE" korean="DÆÌ¸" />
+	<block key="STN_LEARN" korean="DÆÌ¸" />
+	<block key="SCT_NONE" korean="ÝÀ1Á" />
+	<block key="SCT_FORWARD" korean=" Ç¬Ç" />
+	<block key="SCT_BACKWARD1" korean="P­´Ì" />
+	<block key="SCT_BACKWARD2" korean="S" />
+	<block key="SCT_DIRECT" korean="N" />
+	<block key="STT_NONE" korean="È)¼¥Õ " />
+	<block key="STT_SELF" korean="íÅ)¼¥Õ " />
+	<block key="STT_GROUND" korean="íÅ)¼¥Õ " />
+	<block key="STT_FRIENDLY" korean="‰ÉÜÂ¼Ù³" />
+	<block key="STT_ENEMY" korean="N" />
+	<block key="STT_FAMILY" korean="S" />
+	<block key="STT_OWNER" korean="G" />
+	<block key="STT_MYCREATURE" korean="F" />
+	<block key="CFS_NONE" korean="E" />
+	<block key="CFS_NEUTRAL" korean="F" />
+	<block key="CFS_FURY" korean="O" />
+	<block key="CFS_MORALE" korean="M" />
+	<block key="CFS_BRAVE" korean="N" />
+	<block key="CFS_FURY_EX" korean="N" />
+	<block key="CFS_MORALE_EX" korean="F" />
+	<block key="CFS_BRAVE_EX" korean="M" />
+	<block key="SET_NONE" korean="B" />
+	<block key="SET_PHYSIC" korean="F" />
+	<block key="SET_MAGIC" korean="¤Â¬Ð " />
+	<block key="SET_MIND" korean="¤Â¬Ð " />
+	<block key="STS_DEATH" korean="¤Â¬Ð " />
+	<block key="STS_ALIVE" korean="¤Â¬Ð " />
+	<block key="STS_ALL" korean="¤Â¬Ð " />
+	<block key="SkillLevel" korean="¤Â¬Ð " />
+	<block key="UseMP" korean="ŒÁD¾ " />
+	<block key="Attribute" korean="Á1Á" />
+	<block key="active" korean="aÅðÒ¾" />
+	<block key="Passive" korean="(ÓÜÂ¾" />
+	<block key="CastTime" korean="ÜÂÈ " />
+	<block key="Second" korean="Í" />
+	<block key="Backward" korean="ÜÂÈÜÂ " />
+	<block key="CastDirect" korean="‰ÉÜÂÜÂÈ" />
+	<block key="StandByCoolTime" korean="¬Ç¬À©Æ " />
+	<block key="SkillEffect" korean="¤Â¬Ð " />
+	<block key="RequireWeapon" korean="DÕ”Æ " />
+	<block key="RequireHP" korean="ŒÁ¨º " />
+	<block key="RequireLevel" korean="¬À©Æ " />
+	<block key="equiplevel" korean=")Ì©Æ " />
+	<block key="RequrePoint" korean="DÕ”Æ " />
+	<block key="NextLevel" korean="ä²LÇ " />
+	<block key="Form" korean="´ÌÖ" />
+	<block key="Hair" korean="8º¬¹" />
+	<block key="Face" korean="¼Åt­" />
+	<block key="Channel" korean="DÌ±" />
+	<block key="Closed" korean="ìÓTÖ" />
+	<block key="Normal" korean="|Ç¼" />
+	<block key="Recommend" korean="ŒÏÈ" />
+	<block key="Crowded" korean="<Ö¡Ç" />
+	<block key="PossessCreature" korean="ŒÁ Ç " />
+	<block key="Nedian" korean="$±Ü´xÇ" />
+	<block key="CreateDialog" korean="" />
+	<block key="DeleteDialog" korean="" />
+	<block key="SetChannel" korean="\ÔÜÂ " />
+	<block key="ChatNormal" korean="|Ç " />
+	<block key="ChatParty" korean="Ó " />
+	<block key="ChatGuild" korean="8® " />
+	<block key="ChatWhisper" korean="Ó­ÁÐ¹" />
+	<block key="ChatPublic" korean="õ¬ " />
+	<block key="ChatTrade" korean="p¬ " />
+	<block key="ChatSystem" korean="ÜÂ¤Â\Ñ" />
+	<block key="Gold" korean="è¬Ü´" />
+	<block key="Silver" korean="äÂ„¼" />
+	<block key="Copper" korean="àÏ|Ó" />
+	<block key="Trade" korean="p¬˜·" />
+	<block key="PartyInvite" korean="ÓðÒÍ" />
+	<block key="Duel" korean="°¬,ÒXÕ0®" />
+	<block key="Match" korean="P­0¼XÕ0®" />
+	<block key="PartyExpel" korean="ÓðÒÐÆ " />
+	<block key="PartyCommission" korean="ÓðÒ¥Ç " />
+	<block key="PartyLeave" korean="ÓðÒÐÅÁ " />
+	<block key="PartyQuestShare" korean="Ð¤Â¸Ò " />
+	<block key="PartyInvite_NoSpace" korean="ÓðÒÍ" />
+	<block key="PartyLeave_NoSpace" korean="ÓðÒÈÐôÑ" />
+	<block key="GetItemRule" korean="DÅtÇ\Ñ " />
+	<block key="GetItemGrade" korean="DÅtÇ\Ñ " />
+	<block key="SetLeaderCreature" korean="¬¹T³ " />
+	<block key="DuelFree" korean="Ç Ç " />
+	<block key="DuelNormal" korean="ÈÝÂ " />
+	<block key="GetItemRuleFree" korean="Ç Ç " />
+	<block key="GetItemRuleOrder" korean="ÂÁ " />
+	<block key="GetItemRuleLooter" korean="ô²ù² " />
+	<block key="GetItemRuleNoLimit" korean="È\Õ " />
+	<block key="GetItemRuleNormal" korean="|Ç¼" />
+	<block key="GetItemRuleRare" korean="ÈÆ" />
+	<block key="GetItemRuleHero" korean="ÆÅÆ" />
+	<block key="GetItemRuleLegend" korean="È$Á" />
+	<block key="NGT_MERCHANT" korean="ÁÀxÇ" />
+	<block key="NGT_GENERAL" korean="|Ç¼¹º" />
+	<block key="NGT_BOSS" korean="ô¼¤Â" />
+	<block key="NGT_RAID" korean="¸tÇÜ´" />
+	<block key="NGT_SUMMON" korean="ŒÁXÖÂ" />
+	<block key="NGT_MINE" korean="ÀÉ°¸" />
+	<block key="NGT_GENERALNPC" korean="|Ç¼ " />
+	<block key="Minute" korean="„½" />
+	<block key="Male" korean="¨°Ç" />
+	<block key="Female" korean="ìÅÇ" />
+	<block key="Weapon" korean="¥ÇD¾(" />
+	<block key="Armor" korean="¥ÇD¾(" />
+	<block key="Sub" korean="¥ÇD¾(" />
+	<block key="Accessory" korean="¥ÇD¾(" />
+	<block key="Quest" korean="Ð¤Â¸Ò" />
+	<block key="Exchange" korean="¡ÇTÖ" />
+	<block key="consume" korean="ŒÁ¨º " />
+	<block key="enchantstone" korean="Æ<ÖÁ" />
+	<block key="materialitem" korean="È‘Ç¬ÇÌ¸" />
+	<block key="skillbook" korean="¤Â¬Ð½" />
+	<block key="monstersheet" korean="Ä³¬" />
+	<block key="dyeingitem" korean="üÅÉÀ}Å" />
+	<block key="Bag" korean="" />
+	<block key="box" korean=" Á<»ÁÀÇ" />
+	<block key="Creature" korean=" Ó\¸°Æ" />
+	<block key="Money" korean="È³" />
+	<block key="Level" korean="¸¨¼" />
+	<block key="Class" korean="tÐ˜·¤Â" />
+	<block key="Faction" korean="1Á¥Õ" />
+	<block key="MyState" korean="´°ÁÀÜÐ" />
+	<block key="Battle" korean="È,Ò" />
+	<block key="General" korean="|Ç¼" />
+	<block key="TargetState" korean="ÀÐŸ¬ÁÀÜÐ" />
+	<block key="Standard" korean="Â" />
+	<block key="Elite" korean="ÈÆ" />
+	<block key="NormalAttack" korean="|Ç¼õ¬©¬" />
+	<block key="QuestRequest" korean="XÇ°¸ " />
+	<block key="QuestCoMPlete" korean="°¬ü¬ " />
+	<block key="QuestText" korean="´°©Æ" />
+	<block key="Reward" korean="ô¼ÁÀ" />
+	<block key="RewardMoney" korean="ô¼ÁÀ®" />
+	<block key="RewardSkillSelect" korean="ô¼ÁÀ " />
+	<block key="RewardSkillNormal" korean="ô¼ÁÀ " />
+	<block key="RewardItemSelect" korean="ô¼ÁÀ " />
+	<block key="RewardItemNormal" korean="ô¼ÁÀ " />
+	<block key="SelectCreature" korean=" Ó\¸°Æ " />
+	<block key="QuestList" korean="Ð¤Â¸Ò " />
+	<block key="BTAccept" korean="Â " />
+	<block key="BTConfirm" korean="UÖ " />
+	<block key="BTCoMPlete" korean="DÆ " />
+	<block key="SkillTreeWarrior1" korean="|Ç " />
+	<block key="SkillTreeWarrior2" korean="È " />
+	<block key="SkillTreeWarrior3" korean=")¼ " />
+	<block key="SkillTreePriest1" korean="ÀÉ " />
+	<block key="SkillTreePriest2" korean="ŒÖ " />
+	<block key="SkillTreePriest3" korean="È " />
+	<block key="SkillTreeWizard1" korean="TÖ " />
+	<block key="SkillTreeWizard2" korean="¼Å " />
+	<block key="SkillTreeWizard3" korean="È " />
+	<block key="SkillTreeNature1" korean="¬À " />
+	<block key="SkillTreeNature2" korean="ÀÉ " />
+	<block key="SkillTreeNature3" korean="" />
+	<block key="SkillTreeThief1" korean="0® " />
+	<block key="SkillTreeThief2" korean="ô¼ " />
+	<block key="SkillTreeThief3" korean="ÝÀ " />
+	<block key="ViewEntire" korean="È´Ì " />
+	<block key="CurPos" korean="Ö¬Ç " />
+	<block key="EntireMap" korean="È´Ì " />
+	<block key="Sundries" korean="¡ÇTÖ" />
+	<block key="Repair" korean="¥ÇD¾Â¬¹" />
+	<block key="ResurrectPoint" korean="€½\Ö " />
+	<block key="Hydrate" korean="ÂTÖ<»" />
+	<block key="Except" korean="xÆ" />
+	<block key="Persons" korean="…º" />
+	<block key="AttributeAttack" korean="Á1Áõ¬©¬" />
+	<block key="Cost" korean="D¾©Æ" />
+	<block key="failure" korean="äÂ(Ó" />
+	<block key="Target" korean="" />
+	<block key="deathblow" korean="XÎ…ºÀÐ" />
+	<block key="maximize" korean="XÎ…ºÀÐ" />
+	<block key="avoid" korean="ŒÖ<Õ" />
+	<block key="miss" korean="W¾Þ¹LÇ" />
+	<block key="defense" korean=")¼´Å" />
+	<block key="tradeinvite_nospace" korean="p¬˜·" />
+	<block key="duelinvite_nospace" korean="°¬,Ò" />
+	<block key="friendinvite_nospace" korean="\Îl­Í" />
+	<block key="targetme" korean="ÇàÂ" />
+	<block key="targetcoMPany" korean="DÅp­" />
+	<block key="targetparty" korean="ÓðÒ" />
+	<block key="targetenemy" korean="È" />
+	<block key="targetground" korean="Eµ" />
+	<block key="targetnone" korean="|±ÀÐŸ¬" />
+	<block key="attackpow" korean="õ¬©¬%¸" />
+	<block key="subattackpow" korean="ô¼pÈõ¬©¬%¸" />
+	<block key="attackrate" korean="õ¬©¬`¹" />
+	<block key="defensepow" korean=")¼´ÅÄ³" />
+	<block key="defenserate" korean="<»¬¹ " />
+	<block key="gaugerate" korean="Œ¬tÇÀÉ" />
+	<block key="neutral" korean="É½¹" />
+	<block key="elgenus" korean="E" />
+	<block key="purengere" korean="P" />
+	<block key="develier" korean="D" />
+	<block key="player3" korean="È3" />
+	<block key="fnpc" korean="°Æ8ÖN" />
+	<block key="enpc" korean="ÈN" />
+	<block key="enpc_beast" korean="ÈN" />
+	<block key="enpc_animal" korean="ÈN" />
+	<block key="none" korean="4»1Á¥Õ" />
+	<block key="hour" korean="ÜÂ¬" />
+	<block key="day" korean="|Ç" />
+	<block key="HP" korean="ÝÀ…º%¸" />
+	<block key="MP" korean="È¹˜°" />
+	<block key="wpphattpow" korean="<»¬¹ " />
+	<block key="spphattpow" korean="È¹•¼ " />
+	<block key="fireattpow" korean="TÖüÅ " />
+	<block key="iceattpow" korean="É°0® " />
+	<block key="lightattpow" korean="[¾ " />
+	<block key="darkattpow" korean="´Å`´ " />
+	<block key="wpphdefpow" korean=")¼´Å%¸" />
+	<block key="spphdefpow" korean="È¹•¼ " />
+	<block key="firedefpow" korean="TÖüÅ " />
+	<block key="icedefpow" korean="É°0® " />
+	<block key="lightdefpow" korean="[¾ " />
+	<block key="darkdefpow" korean="´Å`´ " />
+	<block key="wpphdefrate" korean=")¼´Å%¸" />
+	<block key="wpfiredefrate" korean="TÖüÅ " />
+	<block key="wpicedefrate" korean="É°0® " />
+	<block key="wplightdefrate" korean="[¾ " />
+	<block key="wpdarkdefrate" korean="´Å`´ " />
+	<block key="spphdefrate" korean="È¹•¼ " />
+	<block key="spfiredefrate" korean="TÖüÅ " />
+	<block key="spicedefrate" korean="É°0® " />
+	<block key="splightdefrate" korean="[¾ " />
+	<block key="spdarkdefrate" korean="´Å`´ " />
+	<block key="wpphavdrate" korean="ŒÖ<Õ(Ç" />
+	<block key="spphavdrate" korean="È¹•¼ŒÖ<Õ(Ç" />
+	<block key="fireavdrate" korean="TÖüÅ " />
+	<block key="iceavdrate" korean="É°0® " />
+	<block key="lightavdrate" korean="[¾ " />
+	<block key="darkavdrate" korean="´Å`´ " />
+	<block key="wphitrate" korean="…ºÉ`¹" />
+	<block key="subwphitrate" korean="ô¼pÈ…ºÉ`¹" />
+	<block key="sphitrate" korean="È¹•¼ " />
+	<block key="pkattpowmult" korean="" />
+	<block key="pkdefpowmult" korean="" />
+	<block key="pkbodyregistrateplus" korean="" />
+	<block key="wpgaugeattpow" korean="4»0®Œ¬tÇÀÉõ¬©¬%¸" />
+	<block key="firegaugedefpow" korean="TÖüÅ " />
+	<block key="icegaugedefpow" korean="É°0® " />
+	<block key="lightgaugedefpow" korean="[¾ " />
+	<block key="darkgaugedefpow" korean="´Å`´ " />
+	<block key="wpcrirate" korean="<»¬¹ " />
+	<block key="subwpcrirate" korean="ô¼pÈXÎ…ºÀÐ(Ç" />
+	<block key="spcrirate" korean="È¹•¼ " />
+	<block key="Str" korean="˜×" />
+	<block key="Dex" korean="ü»©Ì" />
+	<block key="Int" korean="ÀÉ¥²" />
+	<block key="Vtl" korean="´Ì%¸" />
+	<block key="mtl" korean="ÈàÂ%¸" />
+	<block key="BDY" korean="!Ç´Ì " />
+	<block key="MND" korean="ÈàÂ " />
+	<block key="maxHP" korean="ÝÀ…º%¸" />
+	<block key="maxMP" korean="È¹˜°" />
+	<block key="maxfire" korean="\Í" />
+	<block key="maxice" korean="\Í" />
+	<block key="maxlight" korean="\Í" />
+	<block key="maxdark" korean="\Í" />
+	<block key="runspeed" korean="ð¶0®ÁÄ³" />
+	<block key="walkspeed" korean="w¬0®ÁÄ³" />
+	<block key="wpattrange" korean="¬ÀÈp¬¬¹" />
+	<block key="wpattspeed" korean="õ¬©¬ÁÄ³" />
+	<block key="recHPpow" korean="ÝÀ…º%¸ " />
+	<block key="recMPpow" korean="È¹˜° " />
+	<block key="stunregist" korean="0®È" />
+	<block key="fearregist" korean="õ¬ìÓ" />
+	<block key="sleepregist" korean="Âtº" />
+	<block key="moveblockregist" korean="Ù³ÁÀ" />
+	<block key="poisonregist" korean="Å³" />
+	<block key="wppyattpow" korean="Á1Áõ¬©¬%¸" />
+	<block key="wpphattpowplus" korean="<»¬¹ " />
+	<block key="wpphattpowmult" korean="<»¬¹ " />
+	<block key="fireattpowplus" korean="TÖüÅ " />
+	<block key="fireattpowmult" korean="TÖüÅ " />
+	<block key="iceattpowplus" korean="É°0® " />
+	<block key="iceattpowmult" korean="É°0® " />
+	<block key="lightattpowplus" korean="[¾ " />
+	<block key="lightattpowmult" korean="[¾ " />
+	<block key="darkattpowplus" korean="´Å`´ " />
+	<block key="darkattpowmult" korean="´Å`´ " />
+	<block key="spphattpowplus" korean="È¹•¼ " />
+	<block key="spphattpowmult" korean="È¹•¼ " />
+	<block key="wpphdefpowplus" korean="<»¬¹ " />
+	<block key="wpphdefpowmult" korean="<»¬¹ " />
+	<block key="spdefpowplus" korean="È¹•¼ " />
+	<block key="spdefpowmult" korean="È¹•¼ " />
+	<block key="firedefpowplus" korean="TÖüÅ " />
+	<block key="firedefpowmult" korean="TÖüÅ " />
+	<block key="icedefpowplus" korean="É°0® " />
+	<block key="icedefpowmult" korean="É°0® " />
+	<block key="lightdefpowplus" korean="[¾ " />
+	<block key="lightdefpowmult" korean="[¾ " />
+	<block key="darkdefpowplus" korean="´Å`´ " />
+	<block key="darkdefpowmult" korean="´Å`´ " />
+	<block key="wphitrateplus" korean="…ºÉ`¹" />
+	<block key="sphitrateplus" korean="È¹•¼ " />
+	<block key="wphitpowplus" korean="…ºÉ%¸" />
+	<block key="sphitpowplus" korean="È¹•¼ " />
+	<block key="avdpowplus" korean="ŒÖ<Õ%¸" />
+	<block key="avdrateplus" korean="ŒÖ<Õ(Ç" />
+	<block key="comborateplus" korean="dÏô¼(Ç" />
+	<block key="wpfiregaugeattpowplus" korean="4»0® " />
+	<block key="wpicegaugeattpowplus" korean="4»0® " />
+	<block key="wplightgaugeattpowplus" korean="4»0® " />
+	<block key="wpdarkgaugeattpowplus" korean="4»0® " />
+	<block key="spfiregaugeattpowplus" korean="È¹•¼ " />
+	<block key="spicegaugeattpowplus" korean="È¹•¼ " />
+	<block key="splightgaugeattpowplus" korean="È¹•¼ " />
+	<block key="spdarkgaugeattpowplus" korean="È¹•¼ " />
+	<block key="firegaugedefpowplus" korean="TÖüÅ " />
+	<block key="icegaugedefpowplus" korean="É°0® " />
+	<block key="lightgaugedefpowplus" korean="[¾ " />
+	<block key="darkgaugedefpowplus" korean="´Å`´ " />
+	<block key="wpcripowplus" korean="<»¬¹ " />
+	<block key="spcripowplus" korean="È¹•¼ " />
+	<block key="wpcrirateplus" korean="<»¬¹ " />
+	<block key="spcrirateplus" korean="È¹•¼ " />
+	<block key="wpspellplus" korean="È,Ò%¸" />
+	<block key="spspellplus" korean="È¹•¼%¸" />
+	<block key="wpphdaMPlus" korean="<»¬¹ " />
+	<block key="spphdaMPlus" korean="È¹•¼ " />
+	<block key="wpcridaMPlus" korean="4»0®ù­" />
+	<block key="spcridaMPlus" korean="È¹•¼ù­" />
+	<block key="allstatplus" korean="¨ºà´ " />
+	<block key="StrPlus" korean="˜×" />
+	<block key="StrMult" korean="˜×" />
+	<block key="DexPlus" korean="ü»©Ì" />
+	<block key="DexMult" korean="ü»©Ì" />
+	<block key="IntPlus" korean="ÀÉ¥²" />
+	<block key="IntMult" korean="ÀÉ¥²" />
+	<block key="VtlPlus" korean="´Ì%¸" />
+	<block key="VtlMult" korean="´Ì%¸" />
+	<block key="MtlPlus" korean="ÈàÂ%¸" />
+	<block key="MtlMult" korean="ÈàÂ%¸" />
+	<block key="BdyPlus" korean="!Ç´Ì " />
+	<block key="BdyMult" korean="!Ç´Ì " />
+	<block key="MndPlus" korean="ÈàÂ " />
+	<block key="MndMult" korean="ÈàÂ " />
+	<block key="maxHPplus" korean="ÝÀ…º%¸" />
+	<block key="maxMPplus" korean="È¹˜°" />
+	<block key="maxfireplus" korean="\Í" />
+	<block key="maxiceplus" korean="\Í" />
+	<block key="maxlightplus" korean="\Í" />
+	<block key="maxdarkplus" korean="\Í" />
+	<block key="maxHPmult" korean="ÝÀ…º%¸" />
+	<block key="maxMPmult" korean="È¹˜°" />
+	<block key="maxfiremult" korean="\Í" />
+	<block key="maxicemult" korean="\Í" />
+	<block key="maxlightmult" korean="\Í" />
+	<block key="maxdarkmult" korean="\Í" />
+	<block key="movespeedmult" korean="tÇÙ³ÁÄ³" />
+	<block key="vehiclespeedmult" korean="ÈÐƒ¬ÁÄ³" />
+	<block key="wpattrangemult" korean="4»0®¬ÀÈp¬¬¹" />
+	<block key="wpattspeedmult" korean="õ¬©¬ÁÄ³" />
+	<block key="castingspeedmult" korean="ÜÂÈÁÄ³" />
+	<block key="recHPpowplus" korean="ÝÀ…º%¸ " />
+	<block key="recMPpowplus" korean="È¹˜° " />
+	<block key="reccombatHPplus" korean="È,ÒÜÂH" />
+	<block key="reccombatMPplus" korean="È,ÒÜÂM" />
+	<block key="absorbHPfromstategaugeofdier" korean="H" />
+	<block key="consumMPplus" korean="M" />
+	<block key="stunstate" korean="0®È" />
+	<block key="chaosstate" korean="<Ö€·" />
+	<block key="roaredstate" korean="¬ÀÇÄÖ " />
+	<block key="sleepstate" korean="Âtº" />
+	<block key="silencestate" korean="hÎ5»" />
+	<block key="fearstate" korean="õ¬ìÓ" />
+	<block key="VineTangledState" korean="±èÏÐÅ " />
+	<block key="NetTangledState" korean="ø­<»ÐÅ " />
+	<block key="PhysicalPoisonState" korean="àÂ´ÌÅ³ " />
+	<block key="MentalPoisonState" korean="ÈàÂÅ³ " />
+	<block key="DeadlyPoisonState" korean="ù¹Å³ " />
+	<block key="CorrosionPoisonState" korean="€½ÝÂ " />
+	<block key="DizzyState" korean="Ö0®É" />
+	<block key="BleedingState" korean="œÍÖ" />
+	<block key="DiseaseState" korean="ÈüÅÑ¼" />
+	<block key="ThrowupState" korean="l­ Ñ" />
+	<block key="SealedState" korean="	½ÄÁ" />
+	<block key="skillmovingstate" korean="¤Â¬ÐtÇÙ³ÉxÇ" />
+	<block key="parriedstate" korean="¼DÅXÎ0®ù²\Õ" />
+	<block key="frozenstate" korean="¼Å´Å™½@Ç" />
+	<block key="attacklessstate" korean="õ¬©¬ˆ½¥²" />
+	<block key="poisonstate" korean="ÉÅ³" />
+	<block key="risingstate" korean="õ¬É€½‘Å" />
+	<block key="capturedstate" korean="ìÓÖ" />
+	<block key="CaptureFailedState" korean="ìÓÖäÂ(Ó" />
+	<block key="ConcentratedState" korean="üÈXÇÑÉÉ" />
+	<block key="knockdownImmunitystate" korean="	±ä²´ÆtºíÅ" />
+	<block key="knockbackdownImmunitystate" korean="	±1¼	±ä²´ÆtºíÅ" />
+	<block key="oddactionbypropertyimmunitystate" korean="Á1ÁtÇÁÀ‰ÕÙ³tºíÅ" />
+	<block key="fireImmunitystate" korean="TÖüÅ " />
+	<block key="iceImmunitystate" korean="É°0® " />
+	<block key="lightImmunitystate" korean="[¾ " />
+	<block key="darkImmunitystate" korean="´Å`´ " />
+	<block key="magicImmunitystate" korean="È¹•¼ " />
+	<block key="physicImmunitystate" korean="<»¬¹ " />
+	<block key="meleephysicImmunitystate" korean="ü­p¬¬¹<»¬¹tºíÅ" />
+	<block key="rangephysicImmunitystate" korean="ÐÆp¬¬¹<»¬¹tºíÅ" />
+	<block key="OddActionImuumityState" korean="‰ÕÙ³ˆ½" />
+	<block key="defencestate" korean=")¼´ÅÇ8Á" />
+	<block key="spiritstate" korean="Æ<ÖÀ¼XÖ" />
+	<block key="StealthState" korean=",Ò…ºTÖ" />
+	<block key="GhostState" korean=" Ç9¸¨ºÜ´" />
+	<block key="ExorcistState" korean="ôÑÈ¹¬À¨ºÜ´" />
+	<block key="StealthBlockState" korean=",Ò…ºTÖ®ÀÉ" />
+	<block key="perceptrangerate" korean=" Áõ¬ÜÂ|Å" />
+	<block key="ui_attack" korean="0®ø¼ " />
+	<block key="ui_character" korean="Î­¹0Ñ " />
+	<block key="ui_map" korean="ÀÉÄ³" />
+	<block key="ui_inventory" korean="" />
+	<block key="ui_skill" korean="¤Â¬Ð " />
+	<block key="ui_quest" korean="Ð¤Â¸Ò " />
+	<block key="ui_fieldmapview" korean="ÁÀ8Á " />
+	<block key="ui_worldmapview" korean="È´Ì " />
+	<block key="start" korean="ÜÂ‘Ç" />
+	<block key="finish" korean="…ÈÌ¸" />
+	<block key="ok" korean="UÖxÇ" />
+	<block key="cancel" korean="èÍŒÁ" />
+	<block key="year" korean="D±" />
+	<block key="month" korean="ÔÆ" />
+	<block key="variety" korean="…È" />
+	<block key="limit_time" korean="ÖÝ´ " />
+	<block key="arrival_time" korean="ÆÁÀ " />
+	<block key="ui_worldmapalpha" korean=",Ò…ºõ¹ " />
+	<block key="server_closed" korean="ë²˜×" />
+	<block key="quest_limit_time" korean="È\Õ " />
+	<block key="equipiMPossible" korean=")Ì©Æˆ½" />
+	<block key="throw_dice" korean="üÈ¬ÀÇ " />
+	<block key="cancel_dice" korean="ìÓ0®" />
+	<block key="decision" korean="°¬È" />
+	<block key="fixation" korean="à¬È" />
+	<block key="dyeing" korean="üÅÉÀ" />
+	<block key="color" korean="ÉÀÁÀ" />
+	<block key="getitemrulejoblimit" korean="ÁÉÅÅ " />
+	<block key="kind" korean="…ÈX¹" />
+	<block key="grade" korean="ñ´	®" />
+	<block key="esummon" korean="ŒÁXÖ" />
+	<block key="magicstone" korean="È¹•¼Á" />
+	<block key="equippeditem" korean=")Ì©ÆÉ" />
+	<block key="preemptivestrike" korean=" Áõ¬" />
+	<block key="nopreemptivestrike" korean="D¾ Áõ¬" />
+	<block key="trait" korean="È,Ò " />
+	<block key="melee" korean="ü­È" />
+	<block key="defence" korean=")¼´Å" />
+	<block key="magic" korean="È¹•¼" />
+	<block key="heal" korean="ŒÖõ¼" />
+	<block key="range" korean="ÐÆp¬¬¹" />
+	<block key="parry" korean="ÐÌ´°0®" />
+	<block key="immunity" korean="õ¬©¬¨Öü¬ÆÅLÇ" />
+	<block key="resist_invincibility" korean="õ¬©¬¨Öü¬ÆÅLÇ" />
+	<block key="resist_reactionresistancepoint" korean="õ¬©¬¨Öü¬ÆÅLÇ" />
+	<block key="resist_castingignorereaction" korean="õ¬©¬¨Öü¬ÆÅLÇ" />
+	<block key="actornomal" korean="|Ç¼" />
+	<block key="hero" korean="ÆÅÆ" />
+	<block key="ParryRate" korean="4»0®É¹0®" />
+	<block key="BlockRate" korean=")¼(ÓÉ¹0®" />
+	<block key="BlockRateplus" korean=")¼(ÓÉ¹0®UÖ`¹" />
+	<block key="belongitem" korean="À­Á(´" />
+	<block key="material" korean="¬ÇÌ¸" />
+	<block key="plate" korean="É¬" />
+	<block key="chain" korean="½¬¬" />
+	<block key="leather" korean="tº¬" />
+	<block key="cloth" korean="\¸¾" />
+	<block key="attphpowersecond" korean="Íù² " />
+	<block key="equipeff" korean=")Ì©Æ " />
+	<block key="skilllearneff" korean="µÂÝ´ " />
+	<block key="doing" korean="ÄÉ‰ÕÉ" />
+	<block key="learnprice" korean="µÂÝ´" />
+	<block key="exp" korean="½¬ØÕXÎ" />
+	<block key="repeat" korean="¼õ¼" />
+	<block key="emotion_win" korean="¹Â¬¹" />
+	<block key="emotion_lose" korean="(Ó0¼" />
+	<block key="emotion_confession" korean="à¬1¼" />
+	<block key="emotion_surprise" korean="€±Œ·" />
+	<block key="emotion_charge" korean="Ì³©¬" />
+	<block key="emotion_shame" korean="€½D°ì·ÀÆ" />
+	<block key="emotion_greeting" korean="ÁxÇ¬À" />
+	<block key="emotion_joyful" korean="àÂ¨°" />
+	<block key="emotion_cry" korean="¸Æ0®" />
+	<block key="emotion_smile" korean="ÃÆ0®" />
+	<block key="emotion_cheerup" korean="QÇÐÆ" />
+	<block key="emotion_mockery" korean="pÈq¸" />
+	<block key="emotion_cheers" korean="XÖ8Ö" />
+	<block key="emotion_penalty1" korean="Œ¼YÎ1" />
+	<block key="emotion_penalty2" korean="Œ¼YÎ2" />
+	<block key="emotion_refuse" korean="p¬È" />
+	<block key="emotion_angry" korean="TÖ¨°" />
+	<block key="emotion_applause" korean="¼Â" />
+	<block key="emotion_salute" korean="½¬@¸" />
+	<block key="emotion_beg" korean="l­x¬" />
+	<block key="emotion_cheek" korean="0µÀ­" />
+	<block key="emotion_slapped" korean="0µÀ­Þ¹0®" />
+	<block key="emotion_beg2" korean="¼µðÄ0®" />
+	<block key="emotion_step" korean="¼0®" />
+	<block key="emotion_affirmation" korean="®È" />
+	<block key="ui_questalarm" korean="Ð¤Â¸Ò " />
+	<block key="possible" korean="" />
+	<block key="impossible" korean="ˆ½" />
+	<block key="deadbody" korean="ÜÂ´Ì" />
+	<block key="ui_zoomin" korean="ÉxÇ" />
+	<block key="ui_zoomout" korean="ÉDÅÃÆ" />
+	<block key="ui_minimapsetting" korean="¸tÇT³ " />
+	<block key="skilltype" korean="ÀÐ…Ç" />
+	<block key="forwardcasting" korean="ÜÂÈÄÖ " />
+	<block key="nouseonride" korean="ÑÐ¹Â " />
+	<block key="bufftime" korean="ÀÉÁ " />
+	<block key="expert" korean="à¬	®" />
+	<block key="master" korean="\Íà¬	®" />
+	<block key="attack" korean="õ¬©¬" />
+	<block key="buff" korean="„¼Õ" />
+	<block key="debuff" korean="µ„¼Õ" />
+	<block key="fellowpassive" korean=" Ó\¸°Æ(" />
+	<block key="fellowattack" korean=" Ó\¸°Æ(" />
+	<block key="fellowdefense" korean=" Ó\¸°Æ(" />
+	<block key="fellowrecover" korean=" Ó\¸°Æ(" />
+	<block key="fellowbuff" korean=" Ó\¸°Æ(" />
+	<block key="fellowdebuff" korean=" Ó\¸°Æ(" />
+	<block key="castingtype" korean="ÜÂÈ" />
+	<block key="secondwhile" korean="Í¬" />
+	<block key="size" korean="¬ÀtÇˆÉ" />
+	<block key="small" korean="ŒÁÖ" />
+	<block key="medium" korean="ÉÖ" />
+	<block key="large" korean="" />
+	<block key="StopAutoAttack" korean="õ¬©¬ " />
+	<block key="seizestate" korean="8®ä´tÇ0®" />
+	<block key="tip" korean="T" />
+	<block key="interactive" korean="i" />
+	<block key="activate" korean="a" />
+	<block key="deactivate" korean="d" />
+	<block key="fellow" korean=" Ó\¸°Æ" />
+	<block key="tool" korean="Ä³l­" />
+	<block key="twohandlance" korean="=Ì(" />
+	<block key="twohandcrossbow" korean="Á­(" />
+	<block key="ChatAll" korean="È´Ì" />
+	<block key="ChatGeneral" korean="|Ç¼" />
+	<block key="backattackdammult" korean="ÄÖ)¼ " />
+	<block key="tamableonbattle" korean="È,Ò " />
+	<block key="fellowdeathdesc" korean="tÇ " />
+	<block key="waittime" korean="¨°@Ç " />
+	<block key="short_local_key" korean="41" />
+	<block key="short_whisper_key" korean="H1" />
+	<block key="short_party_key" korean="T1" />
+	<block key="short_guild_key" korean="N1" />
+	<block key="short_shout_key" korean="J1" />
+	<block key="short_server_key" korean="1" />
+	<block key="short_trade_key" korean="2" />
+	<block key="short_findparty_key" korean="3" />
+	<block key="HPHealRateMult" korean="H" />
+	<block key="Tamablestate" korean="8®ä´tÇ0® " />
+	<block key="BodyImmunityState" korean="!Ç´ÌÄ¬ " />
+	<block key="MindImmunityState" korean="ÈàÂÄ¬ " />
+	<block key="Chat" korean="" />
+	<block key="My_Battle" korean="È,ÒÈô¼" />
+	<block key="Party_Battle" korean="È,ÒÈô¼(" />
+	<block key="FNPC_Battle" korean="È,ÒÈô¼(" />
+	<block key="ENPC_Battle" korean="È,ÒÈô¼(" />
+	<block key="all" korean="È´Ì" />
+	<block key="party" korean="ÓðÒ" />
+	<block key="NoneDamagePlus" korean="4»Á1Á " />
+	<block key="NoneDamageMult" korean="4»Á1Á " />
+	<block key="FireDamagePlus" korean="TÖüÅ " />
+	<block key="FireDamageMult" korean="TÖüÅ " />
+	<block key="IceDamagePlus" korean="É°0® " />
+	<block key="IceDamageMult" korean="É°0® " />
+	<block key="LightDamagePlus" korean="[¾ " />
+	<block key="LightDamageMult" korean="[¾ " />
+	<block key="DarkDamagePlus" korean="´Å`´ " />
+	<block key="DarkDamageMult" korean="´Å`´ " />
+	<block key="msg_emotion" korean="¬È " />
+	<block key="normal_fellow" korean=" Ó\¸°Æ " />
+	<block key="zone" korean="ÀÉíÅ " />
+	<block key="whisperget" korean="¼”² " />
+	<block key="whispersend" korean="ô¼´°”² " />
+	<block key="normal_fnpc" korean="DÅp­ " />
+	<block key="normal_enpc" korean="Èp­ " />
+	<block key="guild" korean="8®Ü´ " />
+	<block key="msg_notice_guild" korean="8®Ü´ " />
+	<block key="alience" korean="8Á%¸ " />
+	<block key="msg_notice_alience" korean="8Á%¸ " />
+	<block key="channel_server" korean="Á„¼ " />
+	<block key="channel_trade" korean="p¬˜· " />
+	<block key="channel_party" korean="ÓðÒ>Ì0® " />
+	<block key="msg_battle" korean="0®ø¼È,Ò" />
+	<block key="msg_battle_my_send_action" korean="ÇàÂXÇ " />
+	<block key="msg_battle_my_send_addeffect" korean="ÇàÂXÇ " />
+	<block key="msg_battle_my_get_action" korean="ÇàÂÐÅ " />
+	<block key="msg_battle_my_get_addeffect" korean="ÇàÂÐÅ " />
+	<block key="msg_battle_myfellow_send_action" korean="´° " />
+	<block key="msg_battle_myfellow_send_addeffect" korean="´° " />
+	<block key="msg_battle_myfellow_get_action" korean="´° " />
+	<block key="msg_battle_myfellow_get_addeffect" korean="´° " />
+	<block key="msg_battle_party_send_action" korean="ÓðÒÐÆXÇ " />
+	<block key="msg_battle_party_send_addeffect" korean="ÓðÒÐÆXÇ " />
+	<block key="msg_battle_party_get_action" korean="ÓðÒÐÆÐÅ " />
+	<block key="msg_battle_party_get_addeffect" korean="ÓðÒÐÆÐÅ " />
+	<block key="msg_battle_partyfellow_send_action" korean="ÓðÒÐÆ " />
+	<block key="msg_battle_partyfellow_send_addeffect" korean="ÓðÒÐÆ " />
+	<block key="msg_battle_partyfellow_get_action" korean="ÓðÒÐÆ " />
+	<block key="msg_battle_partyfellow_get_addeffect" korean="ÓðÒÐÆ " />
+	<block key="msg_battle_fnpc_send_action" korean="F" />
+	<block key="msg_battle_fnpc_send_addeffect" korean="F" />
+	<block key="msg_battle_fnpc_get_action" korean="F" />
+	<block key="msg_battle_fnpc_get_addeffect" korean="F" />
+	<block key="msg_battle_enemy_send_action" korean="ÈXÇ " />
+	<block key="msg_battle_enemy_send_addeffect" korean="ÈXÇ " />
+	<block key="msg_battle_enemy_get_action" korean="ÈÐÅ " />
+	<block key="msg_battle_enemy_get_addeffect" korean="ÈÐÅ " />
+	<block key="msg_notice_gm" korean="G" />
+	<block key="msg_notice_game" korean="Œ¬„Ç " />
+	<block key="msg_info_game" korean="Œ¬„Ç " />
+	<block key="msg_info_error" korean="$ÆX¹/" />
+	<block key="msg_info_fellow" korean=" Ó\¸°Æ " />
+	<block key="msg_action_collection" korean="DÌÑÉ " />
+	<block key="msg_action_production" korean="È‘Ç " />
+	<block key="msg_death_my" korean="´° " />
+	<block key="msg_death_myfellow" korean="´° " />
+	<block key="msg_death_party" korean="ÓðÒÐÆ " />
+	<block key="msg_death_partyfellow" korean="ÓðÒÐÆ " />
+	<block key="msg_death_npc" korean="N" />
+	<block key="msg_death_enemy" korean="ÈXÇ " />
+	<block key="msg_gain_exp" korean="½¬ØÕXÎ " />
+	<block key="msg_gain_gold" korean="Ç® " />
+	<block key="msg_gain_item" korean="DÅtÇ\Ñ " />
+	<block key="LockChatUI" korean="DÌÓ=Ì Ç®" />
+	<block key="InitChatUI" korean="DÌÓ=ÌÍ0®TÖ" />
+	<block key="AddTab" korean="íÐ”Í" />
+	<block key="DeleteTab" korean="íÐ­ÀÈ" />
+	<block key="RenameTab" korean="íÐ$ÁÈ" />
+	<block key="rename" korean="À¼½¬" />
+	<block key="InitTabText" korean="íÐ´°©Æ­ÀÈ" />
+	<block key="EditTabOption" korean="íÐ5ÆXÁ" />
+	<block key="EditTabTextColor" korean="íÐ8»¥ÇÉÀÁÀ5ÆXÁ" />
+	<block key="FontSize" korean="ðÓ¸ÒlÐ0®" />
+	<block key="FontSize_Large" korean=" " />
+	<block key="FontSize_Middle" korean=" " />
+	<block key="FontSize_Small" korean=" " />
+	<block key="Emotion" korean="¬È\ÔÖ" />
+	<block key="HotkeyInfo" korean="è²•Í¤ÐÄ³ÀÆÐ¹" />
+	<block key="ChatHotkey_Normal" korean="|Ç¼:" />
+	<block key="ChatHotkey_Party" korean="ÓðÒ:" />
+	<block key="ChatHotkey_Guild" korean="8®Ü´:" />
+	<block key="ChatHotkey_Whisper" korean="Ó­ÁÐ¹:" />
+	<block key="ChatHotkey_Zone" korean="ÀÉíÅ" />
+	<block key="ChatHotkey_LinkInfo" korean="Èô¼Á¹lÐ:" />
+	<block key="notshortkeydesc" korean="¬À©Æ`Õ " />
+	<block key="green" korean="y±" />
+	<block key="red" korean="‰½@Ç" />
+	<block key="blue" korean="xÔx¹" />
+	<block key="transparency" korean=",Ò…º" />
+	<block key="colour" korean="ÉÀ" />
+	<block key="defaltshortkeydesc" korean="è²•Í¤Ð " />
+	<block key="overlapkeydesc" korean=" " />
+	<block key="removekeydesc" korean=" " />
+	<block key="LocalChat" korean="|Ç¼" />
+	<block key="ZoneChat" korean="ÀÉíÅ" />
+	<block key="WhisperChat" korean="Ó­ÁÐ¹" />
+	<block key="PartyChat" korean="ÓðÒ" />
+	<block key="GuildChat" korean="8®Ü´" />
+	<block key="ChannelServerChat" korean="Á„¼" />
+	<block key="ChannelTrade" korean="p¬˜·" />
+	<block key="ChannelPartyChat" korean="ÓðÒ>Ì0®" />
+	<block key="Toggle" korean=" Ñ" />
+	<block key="Toggle_Local" korean="|Ç¼" />
+	<block key="Toggle_Zone" korean="ÀÉíÅ" />
+	<block key="Toggle_Whisper" korean="Ó­ÁÐ¹" />
+	<block key="Toggle_Party" korean="ÓðÒ" />
+	<block key="Toggle_Guild" korean="8®Ü´" />
+	<block key="Toggle_ChannelServer" korean="Á„¼" />
+	<block key="Toggle_ChannelParty" korean="ÓðÒ>Ì0®" />
+	<block key="Toggle_ChannelTrade" korean="p¬˜·" />
+	<block key="resurrection_ok" korean="¼\¸€½\Ö" />
+	<block key="fellowitem" korean="¥ÇD¾(" />
+	<block key="Wolf" korean="‘²" />
+	<block key="Leopard" korean="\Ô”¼" />
+	<block key="Boar" korean="gºü³ÀÉ" />
+	<block key="Bull" korean="ŒÁ" />
+	<block key="Bear" korean="ð¬" />
+	<block key="Spider" korean="p¬ø»" />
+	<block key="ReinDeer" korean="Â]¸" />
+	<block key="Bee" korean="Œ¼" />
+	<block key="Turtle" korean="p¬½tÇ" />
+	<block key="Fox" korean="ìÅ°Æ" />
+	<block key="kind0" korean="X¹" />
+	<block key="quality" korean="ˆÔÈÉ" />
+	<block key="equip" korean=")Ì©Æ" />
+	<block key="need" korean="DÕ”Æ" />
+	<block key="noname_attacker" korean="²p­" />
+	<block key="Charinfo_default" korean="0®ø¼ " />
+	<block key="nothing_repair" korean="Â¬¹`Õ " />
+	<block key="ask_repair_all" korean="È´Ì " />
+	<block key="MobFeature_Attack" korean="õ¬©¬ " />
+	<block key="MobFeature_Defence" korean=")¼´Å " />
+	<block key="MobFeature_Heal" korean="XÎ Ç," />
+	<block key="MobFeature_Magic" korean="õ¬©¬ " />
+	<block key="MobFeature_Range" korean="ÐÆp¬¬¹ " />
+	<block key="effect" korean="¨Öü¬" />
+	<block key="UiQuestAccept" korean="Â}·" />
+	<block key="UiQuestMapconfirm" korean="ÀÉÄ³ " />
+	<block key="UiQuestRenounce" korean="ìÓ0®" />
+	<block key="UiQuestRefuse" korean="p¬È" />
+	<block key="UiQuestComplete" korean="DÆÌ¸" />
+	<block key="UiQuestClose" korean="ë²0®" />
+	<block key="returnarea" korean="À­XÖ " />
+	<block key="weaponneed" korean="¬À©Æ " />
+	<block key="Succes" korean="1Áõ¬" />
+	<block key="FireDampingRate" korean="TÖüÅ " />
+	<block key="IceDampingRate" korean="É°0® " />
+	<block key="LightDampingRate" korean="[¾ " />
+	<block key="DarkDampingRate" korean="´Å`´ " />
+	<block key="weapononlyboard" korean="ÑÐ¹Â " />
+	<block key="ask_fellow_growing" korean="XÇ " />
+	<block key="ask_equip_soulbound" korean=")Ì©ÆÜÂ " />
+	<block key="ask_pickup_soulbound" korean=" " />
+	<block key="absence" korean="Ç¬¹D¾ÀÆ" />
+	<block key="resist_reaction_immun" korean="" />
+	<block key="resist_body_immun" korean="" />
+	<block key="resist_body_resist" korean="" />
+	<block key="lightweight" korean="4»Œ¬:" />
+	<block key="normalweight" korean="4»Œ¬:" />
+	<block key="heavyweight" korean="4»Œ¬:" />
+	<block key="system" korean="ÜÂ¤Â\Ñ" />
+	<block key="ep" korean="0®%¸" />
+	<block key="fp" korean="„½x±" />
+	<block key="tp" korean="¤ÂÜÐø»±" />
+	<block key="sp" korean="[¾XÇ " />
+	<block key="nodisplay" korean="\ÔÜÂ " />
+	<block key="alwaysdisplay" korean="mÕÁÀ " />
+	<block key="battledisplay" korean="È,ÒÜÂÐÅÌ¹ " />
+	<block key="field" korean="DÕÜ´" />
+	<block key="instance" korean="X³È" />
+	<block key="nothingness" korean="ÆÅLÇ" />
+	<block key="Enchant_impossible" korean="¬TÖ " />
+	<block key="Enchant_Possible" korean="¬TÖ " />
+	<block key="Enchant_Nolimit" korean="¬TÖ " />
+	<block key="usableonnotride" korean="D¾ÑÐ¹Â " />
+	<block key="usableonride" korean="ÑÐ¹Â " />
+	<block key="notgroundskill" korean="ÀÉÁÀÐÅÁ " />
+	<block key="notskyskill" korean="õ¬ÉÐÅÁ " />
+	<block key="shortcut_move_flying_vertical_descent" korean="D¾‰Õ " />
+	<block key="shortcut_move_riding_fellow" korean=" Ó\¸°Æ " />
+	<block key="shortcut_menu_action_list_open" korean="aÅXÁ©º]¸" />
+	<block key="shortcut_menu_transparency_map_open" korean=",Ò…º " />
+	<block key="shortcut_menu_guild_open" korean="8®Ü´" />
+	<block key="shortcut_menu_help_open" korean="Ä³ÀÆÐ¹" />
+	<block key="shortcut_menu_option_open" korean="Œ¬„Ç " />
+	<block key="shortcut_party_myplayer_select" korean="ÇàÂ " />
+	<block key="shortcut_quickslot_ex1_10" korean="«Ì " />
+	<block key="shortcut_quickslot_ex1_11" korean="«Ì " />
+	<block key="shortcut_quickslot_ex2_10" korean="P´ " />
+	<block key="shortcut_quickslot_ex2_11" korean="P´ " />
+	<block key="shortcut_quickslot_ex3_10" korean="8Á " />
+	<block key="shortcut_quickslot_ex4_10" korean="$± " />
+	<block key="" korean="È©Æ" />
+	<block key="" korean="èÍŒÁ" />
+	<block key="" korean="UÖxÇ" />
+	<block key="" korean="®°LÇ" />
+	<block key="" korean="’±LÇ" />
+	<block key="" korean="0¼½¬ " />
+	<block key="" korean="ÜÂ¤Â\Ñ " />
+	<block key="" korean="D°0®" />
+	<block key="" korean="È´Ì " />
+	<block key="" korean="¨Öü¬LÇ" />
+	<block key="" korean="0¼½¬ " />
+	<block key="" korean="XÖ½¬LÇ" />
+	<block key="" korean="¬À´ÆÜ´ " />
+	<block key="" korean="=Ì¨ºÜ´" />
+	<block key="" korean="´Åa´Œ¬" />
+	<block key="" korean="¼Œ¬" />
+	<block key="" korean="tÕÁÀÄ³" />
+	<block key="" korean="ÉÀÁÀÂ" />
+	<block key="" korean="¼0®" />
+	<block key="" korean="TÖtº " />
+	<block key="" korean="I»Œ¬„Ç " />
+	<block key="" korean="à¬È " />
+	<block key="" korean="È´Ì " />
+	<block key="" korean="" />
+	<block key="" korean="ÂÁÉ " />
+	<block key="" korean="Õ¸„Ç " />
+	<block key="" korean="0®ÁÀ " />
+	<block key="" korean="p¬¬¹Ä¼ " />
+	<block key="" korean="" />
+	<block key="" korean="@º¬¹" />
+	<block key="" korean="HÅðÒhÅ¬¹´ÅñÂ" />
+	<block key="" korean="ÀÉÖ " />
+	<block key="" korean="MÑ¤ÂÐÌ " />
+	<block key="" korean="<» " />
+	<block key="" korean="0¼½¬\ÔÖ" />
+	<block key="" korean="­ÐÆ " />
+	<block key="" korean="ø­¼¹Ç " />
+	<block key="" korean="¬À<» " />
+	<block key="" korean="PÂtÇT³ " />
+	<block key="" korean="tÇ™Ó¸Ò " />
+	<block key="" korean="tÇ™Ó¸Ò " />
+	<block key="" korean="ä²Â " />
+	<block key="" korean="ø­˜·=Õ " />
+	<block key="" korean="|Ç­$ÁÈ" />
+	<block key="" korean="p³tÇ0Ñ " />
+	<block key="" korean="ä²LÇ€½0Ñ " />
+	<block key="Button" korean="B" />
+	<block key="1" korean="1" />
+	<block key="CheckBox" korean="C" />
+	<block key="List Type" korean="L" />
+	<block key="Scroll Type" korean="S" />
+	<block key="Label" korean="L" />
+	<block key="Item Renderer" korean="I" />
+	<block key="RadioButton" korean="R" />
+	<block key="" korean="|Ç¼ " />
+	<block key="H" korean="H" />
+	<block key="S" korean="S" />
+	<block key="B" korean="B" />
+	<block key="R:233, G:569, B:122" korean="R" />
+	<block key="" korean="È¬¹ˆÔ" />
+	<block key="" korean="Ð¤Â¸Ò " />
+	<block key="" korean="È¹°Æ¤ÂŒÈ\Ô" />
+	<block key="Area" korean="A" />
+	<block key="Center" korean="C" />
+	<block key="Delete" korean="D" />
+	<block key="" korean="" />
+	<block key="" korean="ÉÈÈp¬" />
+	<block key="" korean="¸¨¼(" />
+	<block key="" korean="ø»XÁ " />
+	<block key="" korean="Ð¤Â¸Ò " />
+	<block key="" korean="ÆíÅ " />
+	<block key="" korean="ÆíÅìÓxÇ¸Ò " />
+	<block key="" korean="äÂ‰Õ" />
+	<block key="lobby_questnavi_editor" korean="¨ºà´ " />
+	<block key="" korean="\¸D¾ " />
+	<block key="alpha" korean="a" />
+	<block key="camera range" korean="c" />
+	<block key="Front View" korean="F" />
+	<block key="zoom speed" korean="z" />
+	<block key="" korean="ÉÀÁÀ " />
+	<block key="" korean="8Á€½$ÁÈ " />
+	<block key="" korean="¥ÇD¾ " />
+	<block key="" korean="Õ¸tÇ´Å " />
+	<block key="Npc " korean="N" />
+	<block key="PlayerNpc " korean="P" />
+	<block key="" korean=")¼´Ål­ " />
+	<block key="" korean="`ÅÈ²TºtÇXÁ " />
+	<block key="" korean="Õ¬¹KÁ " />
+	<block key="" korean="Á¾TºÜÂ " />
+	<block key="" korean="Œ¬„Ç5ÆXÁ" />
+	<block key="" korean="0®ø¼¬" />
+	<block key="auto" korean="a" />
+	<block key="high" korean="’±LÇ" />
+	<block key="middle" korean="É¬" />
+	<block key="low" korean="®°LÇ" />
+	<block key="no" korean="n" />
+	<block key="" korean="Á„¼ " />
+	<block key="" korean="1Á¥²" />
+	<block key="" korean="ˆÔÈÉ" />
+	<block key="" korean="TÖtº " />
+	<block key="" korean="TÖtº " />
+	<block key="" korean="I»Œ¬ÐÉ " />
+	<block key="consumtpplus" korean="¤ÂÜÐø»± " />
+	<block key="casting" korean="Î¤ÂÓ" />
+	<block key="reversecasting" korean="íÅÎ¤ÂÓ" />
+	<block key="charge" korean="`ÌÀÉ" />
+	<block key="private" korean="È©Æ" />
+	<block key="equippossible" korean=")Ì©Æ" />
+	<block key="allclasspossible" korean="¨ºà´ " />
+	<block key="enchantpossible" korean="¬TÖ " />
+	<block key="enchantimpossible" korean="¬TÖ " />
+	<block key="useeff" korean="¬À©Æ¨Öü¬" />
+	<block key="enchantnolimit" korean="¬TÖ " />
+	<block key="skill_step" korean="è²Ä¬" />
+	<block key="reply" korean="ŒÖàÂ" />
+	<block key="RecTpPowPlus" korean="\Ö%¸ " />
+	<block key="RecTpPowMult" korean="\Ö%¸ " />
+	<block key="graphic" korean="ø­˜·=Õ" />
+	<block key="sound" korean="¬À´ÆÜ´" />
+	<block key="setting" korean="Œ¬„Ç$ÁÈ" />
+	<block key="shortcutkey" korean="è²•Í¤Ð" />
+	<block key="combo" korean="dÏô¼" />
+	<block key="Invalid" korean="ÆÅLÇ" />
+	<block key="compensation" korean="ô¼ÁÀ®" />
+	<block key="accept" korean="Â}·" />
+	<block key="notreactionmovingstate" korean="<Õ©¬ " />
+	<block key="cooltimemult" korean="¬Ç¬À©Æ " />
+	<block key="furifyonattackplus" korean="„½x± " />
+	<block key="connect" korean="ÈÁ" />
+	<block key="disconnect" korean="ø»ÈÁ" />
+	<block key="letter" korean="ô¼" />
+	<block key="window" korean="=Ì¨ºÜ´" />
+	<block key="fullscreen" korean="È´ÌTÖtº" />
+	<block key="fullscreenwindow" korean="È´Ì=Ì¨ºÜ´" />
+	<block key="not" korean="ÆÅLÇ" />
+	<block key="me" korean="ÇàÂ" />
+	<block key="other" korean="ä²x¹ " />
+	<block key="npc" korean="N" />
+	<block key="itemcomparevalue" korean="¥Ç)Ì " />
+	<block key="tamingdisabled" korean="8®ä´tÇ0® " />
+	<block key="tamingenabled" korean="8®ä´tÇ0® " />
+	<block key="taminglocked" korean="8®ä´tÇ0® " />
+	<block key="ride" korean="ÑÐ¹Â" />
+	<block key="ready" korean="" />
+	<block key="allstatmult" korean="¨ºà´ " />
+	<block key="newskill" korean="àÂÜ­¤Â¬Ð" />
+	<block key="event" korean="tÇ¤¼¸Ò" />
+	<block key="unready" korean="À¼½¬" />
+	<block key="usepossible" korean="¬À©Æ" />
+	<block key="allclassusepossible" korean="¨ºà´ " />
+	<block key="companyorenemy" korean="DÅp­ " />
+	<block key="stiffstate" korean="½¬ÁÉ " />
+	<block key="invincibility" korean="4»È " />
+	<block key="maxepmult" korean="\Í" />
+	<block key="agromult" korean="´Åø­\¸ " />
+	<block key="human" korean="4×<º" />
+	<block key="shaling" korean="äÀÁ¹" />
+	<block key="crokhoon" korean="lÐ\¸äÏ" />
+	<block key="fellowconsume" korean=" Ó\¸°ÆŒÁ¨ºˆÔ" />
+	<block key="fellowlevel" korean=" Ó\¸°Æ " />
+	<block key="fellowexp" korean="²È½¬ØÕXÎ" />
+	<block key="sealedfellow" korean="	½xÇ Ó\¸°Æ" />
+	<block key="onehandbow" korean="\ÕÁ\Ö" />
+	<block key="" korean=" Ó\¸°Æ(" />
+	<block key="" korean=" Ó\¸°Æ(" />
+	<block key="" korean=" Ó\¸°Æ(" />
+	<block key="maxep" korean="\Í" />
+	<block key="Plus" korean="É" />
+	<block key="ui_fellow_gauge_hp" korean=" Ó\¸°Æ(" />
+	<block key="ui_fellow_gauge_ep" korean=" Ó\¸°Æ(" />
+	<block key="quick_battle_request" korean="°¬,ÒàÂ­Ì" />
+	<block key="bid" korean="…Ç0Ì" />
+	<block key="renounce" korean="ìÓ0®" />
+	<block key="wearing" korean="¬ " />
+	<block key="" korean="tÐ˜·¤Â" />
+	<block key="" korean="ÑÐ¹Â" />
+	<block key="" korean="õ¬©Æ" />
+	<block key="seteffect" korean="8Á¸Ò¨Öü¬" />
+	<block key="min" korean="\ÍŒÁ" />
+	<block key="max" korean="\Í" />
+	<block key="item" korean="DÅtÇ\Ñ" />
+	<block key="comsume" korean="ŒÁ¨ºˆÔ" />
+	<block key="fellowbook" korean=" Ó\¸°Æ " />
+	<block key="backattackcrirateplus" korean="ÄÖ)¼ " />
+	<block key="bothhands" korean="è²€¬" />
+	<block key="talents_lack_msg" korean="ô¼ Ç\Õ " />
+	<block key="talents_unequip_msg" korean="DÇ " />
+	<block key="talents_equip_msg" korean="DÇ " />
+	<block key="ui_tab_characterinfo_soultalents" korean="¹Ò1Á" />
+	<block key="wr_r" korean="­íÓ" />
+	<block key="wr_g" korean="Ó4­" />
+	<block key="wr_b" korean="È,Ò" />
+	<block key="gd_r" korean="Â8Ö" />
+	<block key="gd_g" korean="àÂ1Á" />
+	<block key="gd_b" korean="È,Ò" />
+	<block key="tf_r" korean="´Ìõ¬" />
+	<block key="tf_g" korean="Áõ¬" />
+	<block key="tf_b" korean="ìÓ)Ì" />
+	<block key="pr_r" korean="ô¼8Ö" />
+	<block key="pr_g" korean="àÂYÅ" />
+	<block key="pr_b" korean="ÕÉ\Ô" />
+	<block key="wz_r" korean="TÖüÅ" />
+	<block key="wz_g" korean="É°0®" />
+	<block key="wz_b" korean="Á1Á" />
+	<block key="soultalent_point" korean="DÕ”Æ " />
+	<block key="ridefellow" korean="ÑÐ¹Â" />
+	<block key="battlefellow" korean="«Ó" />
+	<block key="talents_full_msg" korean="T³ " />
+	<block key="step" korean="è²Ä¬" />
+	<block key="weaponcraft" korean="4»0® " />
+	<block key="armorcraft" korean=")¼´Ål­ " />
+	<block key="accessorycraft" korean="¥ÇàÂl­ " />
+	<block key="fellowequip" korean=" Ó\¸°Æ " />
+	<block key="alchemy" korean="ðÅ® Â" />
+	<block key="cooking" korean="”Æ¬¹" />
+	<block key="WeaponRack" korean="4»0® " />
+	<block key="ArmorRack" korean=")¼´Ål­ " />
+	<block key="CookingRack" korean="pÈ¬¹0®l­" />
+	<block key="AlchemyRack" korean="äÂØÕ0®l­" />
+	<block key="AccessoryRack" korean="¥ÇàÂl­ " />
+	<block key="FellowEquipRack" korean=" Ó\¸°Æ " />
+	<block key="ui_soultalents_blank" korean="¹Ò1Á " />
+	<block key="adjust_skill" korean="È©Æ " />
+	<block key="selectitem" korean=" ÁÝÐ " />
+	<block key="greatsucces" korean="" />
+	<block key="new_mail_count" korean="ÈÀ " />
+	<block key="recipe" korean="¸ÜÂ<Õ" />
+	<block key="production" korean="È‘Ç" />
+	<block key="synergy" korean="”Í" />
+	<block key="talents_equipsoulstone_msg" korean="¹Ò1Á%¸<Ç\¸ " />
+	<block key="soultalentpoint" korean="¹Ò1Á%¸" />
+	<block key="fellow_talon" korean="¼±Ñ" />
+	<block key="fellow_saddle" korean="HÅ¥Ç" />
+	<block key="fellow_sounstone" korean="Æ<ÖÁ" />
+	<block key="idoncare" korean="è¹Á" />
+	<block key="gather" korean="DÌÑÉ" />
+	<block key="enetfailure talents notopenpart" korean="¹Ò1Á " />
+	<block key="sealedfelloweffect" korean="	½xÇÁ " />
+	<block key="sealedfelloweffectdesc" korean=" Ó\¸°Æ " />
+	<block key="previewfelloweffect" korean=" Ó\¸°Æ " />
+	<block key="itemequipskill" korean=")Ì©Æ¤Â¬Ð" />
+	<block key="quick_token" korean="ÕÉ\Ô" />
+	<block key="HunterPKState" korean="xÇ¬ " />
+	<block key="KillPKState" korean="YÕ´ÀÇ " />
+	<block key="GodPKState" korean="ýÈLÇXÇ " />
+	<block key="daily" korean="|Ç|Ç" />
+	<block key="tamingcondition" korean="8®ä´tÇ0® " />
+	<block key="tamingappoint" korean="8®ä´tÇ0® " />
+	<block key="tamingconditionneed" korean="8®ä´tÇ0® " />
+	<block key="tamingconditionsatisfy" korean="8®ä´tÇ0® " />
+	<block key="lobby_delete_char" korean="ÀÉ®­ÀÈ" />
+	<block key="tooltip_killcount_kill" korean="<" />
+	<block key="tooltip_killcount_death" korean="<" />
+	<block key="soultalentskilllearn" korean="<" />
+	<block key="areaaltitude" korean="ÀÉíÅà¬Ä³" />
+	<block key="fellowaltitudetooltip" korean="$ÁÈ´ " />
+	<block key="hour_time" korean="ÜÂ" />
+	<block key="guild_mark_no_gold" korean="è¬Ü´" />
+	<block key="guild_mark_diffent_size_msg" korean="Ø²ÐÅŒ¬ " />
+	<block key="guild_mark_upload_description" korean="ôÓT³ÐÅ " />
+	<block key="point" korean="ìÓxÇ¸Ò" />
+	<block key="savedkeyduplication" korean="Ö¬Ç " />
+	<block key="chat_exe_boarding_apply" korean="ä²xÇÑÐ¹ÂàÂ­Ì" />
+	<block key="chat_exe_boarding_invite" korean="ä²xÇÑÐ¹ÂÍ" />
+	<block key="itemuse_split_item" korean="DÅtÇ\Ñ " />
+	<block key="itemuse_change_fellow_name" korean=" Ó\¸°Æ " />
+	<block key="itemuse_jump_map" korean="tÇÙ³üÈ8»Á" />
+	<block key="itemuse_throw_item" korean="DÅtÇ\Ñ " />
+	<block key="itemuse_skill_use" korean="DÅtÇ\Ñ¬À©Æ" />
+	<block key="People" korean="…º" />
+	<block key="NoLimit" korean="È\ÕÆÅLÇ" />
+	<block key="Hide" korean="(Â@®" />
+	<block key="SimpleDraw" korean="¬è²\Õ " />
+	<block key="proficiency" korean="Â(¸è²Ä¬" />
+	<block key="mastery" korean="Â(¸Ä³" />
+	<block key="check" korean="È€¬É" />
+	<block key="spdamagereductionmult" korean="È¹•¼ " />
+	<block key="spdefense" korean="È¹•¼ " />
+	<block key="rechppowmult" korean="ÝÀ…º%¸ " />
+	<block key="recmppowmult" korean="È¹˜° " />
+	<block key="altitudeplus" korean=" Ó\¸°Æ " />
+	<block key="FellowGrowUpExpMult" korean=" Ó\¸°Æ " />
+	<block key="FellowGrowUpExpPlus" korean=" Ó\¸°Æ " />
+	<block key="fellowtamingaprate" korean="8®ä´tÇ0® " />
+	<block key="allgenderusepossible" korean="¨°@±õ¬©Æ" />
+	<block key="receppowmult" korean="0®%¸ " />
+	<block key="droprateplus" korean="Ü´·(Ç" />
+	<block key="cannotabandon" korean="Ó4­ " />
+	<block key="ui_area_altitude" korean="ÀÉíÅà¬Ä³" />
+	<block key="fellowmaxlevel" korean="tÕù² " />
+	<block key="maxfellowlevel" korean="\Í" />
+	<block key="movespeed" korean="tÇÙ³ÁÄ³" />
+	<block key="fellow_movespeed_desc" korean=" Ó\¸°ÆXÇ " />
+	<block key="altitude" korean="à¬Ä³" />
+	<block key="fellow_altitude_desc" korean=" Ó\¸°Æ" />
+	<block key="altitudemax" korean="\Í" />
+	<block key="altitudemax_desc" korean=" Ó\¸°Æ" />
+	<block key="playergrowupexpmult" korean="ÖÝ´ " />
+	<block key="possessioneff" korean="ŒÁÀÉ " />
+	<block key="cridamreduceplus" korean="XÎ…ºÀÐ " />
+	<block key="eYellowTimeSec" korean="\Ö%¸ " />
+	<block key="allattpowplus" korean="¨ºà´ " />
+	<block key="standarddaily" korean="1" />
+	<block key="standardweek" korean="üÈ¬ " />
+	<block key="premiumweek" korean="P" />
+	<block key="allattpowmult" korean="¨ºà´ " />
+	<block key="alldefpowplus" korean="¨ºà´ " />
+	<block key="alldefpowmult" korean="¨ºà´ " />
+	<block key="nosealedfellow" korean="	½xÇ`Õ " />
+	<block key="tamingratemult" korean="8®ä´tÇ0® " />
+	<block key="createproductratemult" korean="È‘Ç " />
+	<block key="reignforcemult" korean="¬TÖ " />
+	<block key="auctionregfeemult" korean="Óä¹ " />
+	<block key="auctionsellfeemult" korean="Óä¹ " />
+	<block key="dropmoneyratemult" korean="Ü´·´ " />
+	<block key="maxgemslot" korean="<" />
+	<block key="IgnoreLimitStr" korean="˜× " />
+	<block key="IgnoreLimitDex" korean="ü»©Ì " />
+	<block key="IgnoreLimitInt" korean="ÀÉ¥² " />
+	<block key="IgnoreLimitVtl" korean="´Ì%¸ " />
+	<block key="IgnoreLimitMtl" korean="ÈàÂ%¸ " />
+	<block key="IgnoreLimitBdy" korean="!Ç´Ì" />
+	<block key="IgnoreLimitMnd" korean="ÈàÂ" />
+	<block key="IgnoreLimitMaxHp" korean="\Í" />
+	<block key="IgnoreLimitMaxMp" korean="\Í" />
+	<block key="IgnoreLimitWpPhMaxAttPow" korean="4»0®<»¬¹\Í" />
+	<block key="IgnoreLimitSpPhMaxAttPow" korean="È¹•¼<»¬¹\Í" />
+	<block key="IgnoreLimitWpPhDefPow" korean="4»0®<»¬¹)¼´Å%¸ " />
+	<block key="IgnoreLimitSpPhDefPow" korean="È¹•¼<»¬¹)¼´Å%¸ " />
+	<block key="IgnoreLimitWpPhAttCriRate" korean="4»0®<»¬¹lÐ¬¹ðÒìÎUÖ`¹ " />
+	<block key="IgnoreLimitSpCriRate" korean="È¹•¼lÐ¬¹ðÒìÎUÖ`¹ " />
+	<block key="IgnoreLimitBodyRegistRate" korean="!Ç´ÌÄ¬" />
+	<block key="IgnoreLimitMindRegistRate" korean="ÈàÂÄ¬" />
+	<block key="maxepplus" korean="\Í" />
+	<block key="earnmoneyratemult" korean="Ü´·è¬Ü´ÖÝ´É·" />
+</blocks>

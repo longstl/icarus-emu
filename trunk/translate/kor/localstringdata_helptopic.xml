@@ -1,0 +1,418 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="help_title_guide" korean="Õ¸tÇ " />
+	<block key="help_infolink_knowhow" korean="¬tÕÀÉ”² " />
+	<block key="help_infolink_knowhow_tip" korean="¬tÕÀÉ”² " />
+	<block key="help_infolink_knowhow_0" korean="<" />
+	<block key="help_infolink_knowhow_1" korean="<" />
+	<block key="help_infolink_knowhow_2" korean="<" />
+	<block key="help_infolink_knowhow_3" korean="<" />
+	<block key="help_infolink_knowhow_4" korean="<" />
+	<block key="help_infolink_knowhow_5" korean="<" />
+	<block key="help_infolink_knowhow_6" korean="<" />
+	<block key="help_title_mainui" korean="xÇ0Ñ˜ÓtÇ¤Â" />
+	<block key="help_infolink_mainui" korean="TºxÇ " />
+	<block key="help_infolink_mainui_tip" korean="TºxÇ " />
+	<block key="help_infolink_mainui_0" korean="1" />
+	<block key="help_infolink_mainui_1" korean="2" />
+	<block key="help_infolink_mainui_2" korean="3" />
+	<block key="help_infolink_mainui_3" korean="4" />
+	<block key="help_infolink_mainui_4" korean="5" />
+	<block key="help_infolink_mainui_5" korean="6" />
+	<block key="help_infolink_mainui_6" korean="7" />
+	<block key="help_infolink_gamemenu" korean="Œ¬„Ç " />
+	<block key="help_infolink_gamemenu_tip" korean="Œ¬„Ç " />
+	<block key="help_infolink_gamemenu_0" korean="Œ¬„ÇTºt²XÇ " />
+	<block key="help_infolink_gamemenu_1" korean="1" />
+	<block key="help_infolink_gamemenu_2" korean="2" />
+	<block key="help_infolink_gamemenu_3" korean="3" />
+	<block key="help_infolink_gamemenu_4" korean="4" />
+	<block key="help_infolink_gamemenu_5" korean="5" />
+	<block key="help_infolink_gamemenu_6" korean="6" />
+	<block key="help_infolink_charui" korean="Î­¹0Ñ " />
+	<block key="help_infolink_charui_tip" korean="Î­¹0Ñ " />
+	<block key="help_infolink_charui_0" korean="Œ¬„Ç " />
+	<block key="help_infolink_charui_1" korean="¥ÇD¾|¹ " />
+	<block key="help_infolink_bagui" korean="" />
+	<block key="help_infolink_bagui_tip" korean="" />
+	<block key="help_infolink_bagui_0" korean="Œ¬„Ç " />
+	<block key="help_infolink_bagui_1" korean="1" />
+	<block key="help_infolink_bagui_2" korean="2" />
+	<block key="help_infolink_bagui_3" korean="3" />
+	<block key="help_infolink_bagui_4" korean="4" />
+	<block key="help_infolink_raderui" korean="ø»È²õ¹" />
+	<block key="help_infolink_raderui_tip" korean="ø»È²õ¹ " />
+	<block key="help_infolink_raderui_0" korean="1" />
+	<block key="help_infolink_raderui_1" korean="2" />
+	<block key="help_infolink_raderui_2" korean="3" />
+	<block key="help_infolink_raderui_3" korean="4" />
+	<block key="help_infolink_raderui_4" korean="5" />
+	<block key="help_infolink_raderui_5" korean="6" />
+	<block key="help_infolink_mapui" korean="È´ÌÀÉÄ³" />
+	<block key="help_infolink_mapui_tip" korean="È´ÌÀÉÄ³ " />
+	<block key="help_infolink_mapui_0" korean="Œ¬„Ç " />
+	<block key="help_infolink_mapui_1" korean="1" />
+	<block key="help_infolink_mapui_2" korean="2" />
+	<block key="help_infolink_mapui_3" korean="3" />
+	<block key="help_infolink_quickui" korean="è²•Í¬Âo¸" />
+	<block key="help_infolink_quickui_tip" korean="è²•Í¬Âo¸ " />
+	<block key="help_infolink_quickui_0" korean="|Ç¼/" />
+	<block key="help_infolink_quickui_1" korean="¤Â¬ÐDÇ " />
+	<block key="help_infolink_quickui_2" korean="1" />
+	<block key="help_infolink_quickui_3" korean="2" />
+	<block key="help_infolink_communityui" korean="DÌÓ=Ì" />
+	<block key="help_infolink_communityui_tip" korean="DÌÓ=Ì " />
+	<block key="help_infolink_communityui_0" korean="1" />
+	<block key="help_infolink_communityui_1" korean="2" />
+	<block key="help_infolink_communityui_2" korean="3" />
+	<block key="help_title_operate" korean="0®ø¼ " />
+	<block key="help_infolink_move" korean="tÇÙ³" />
+	<block key="help_infolink_move_tip" korean="tÇÙ³ " />
+	<block key="help_infolink_move_0" korean="<" />
+	<block key="help_infolink_move_1" korean="<" />
+	<block key="help_infolink_move_2" korean="<" />
+	<block key="help_infolink_move_3" korean="<" />
+	<block key="help_infolink_combat" korean="0®ø¼ " />
+	<block key="help_infolink_combat_tip" korean="0®ø¼ " />
+	<block key="help_infolink_combat_0" korean="1" />
+	<block key="help_infolink_combat_1" korean="2" />
+	<block key="help_infolink_combat_2" korean="3" />
+	<block key="help_infolink_camera" korean="tÎTº|· " />
+	<block key="help_infolink_camera_tip" korean="tÎTº|· " />
+	<block key="help_infolink_camera_0" korean="1" />
+	<block key="help_infolink_camera_1" korean="2" />
+	<block key="help_infolink_shortcut" korean="è²•Í¤Ð" />
+	<block key="help_infolink_shortcut_tip" korean="è²•Í¤Ð " />
+	<block key="help_infolink_shortcut_0" korean="E" />
+	<block key="help_infolink_shortcut_1" korean="À¼½¬`Õ " />
+	<block key="help_infolink_chatcommand" korean="DÌÓ " />
+	<block key="help_infolink_chatcommand_tip" korean="DÌÓ " />
+	<block key="help_infolink_chatcommand_0" korean="<" />
+	<block key="help_infolink_chatcommand_1" korean="<" />
+	<block key="help_infolink_chatcommand_2" korean="<" />
+	<block key="help_infolink_chatcommand_3" korean="<" />
+	<block key="help_infolink_chatcommand_4" korean="<" />
+	<block key="help_infolink_chatcommand_5" korean="<" />
+	<block key="help_infolink_chatcommand_6" korean="<" />
+	<block key="help_infolink_chatcommand_7" korean="<" />
+	<block key="help_infolink_chatcommand_8" korean="<" />
+	<block key="help_infolink_actionkey" korean="aÅXÁ¤Ð " />
+	<block key="help_infolink_actionkey_tip" korean="aÅXÁ¤Ð " />
+	<block key="help_infolink_actionkey_0" korean="è²•Í¤Ð " />
+	<block key="help_infolink_quickmenu" korean="5Ð " />
+	<block key="help_infolink_quickmenu_tip" korean="5Ð " />
+	<block key="help_infolink_quickmenu_0" korean="ÁÀÜÐ " />
+	<block key="help_infolink_quickmenu_1" korean="ÁÀ" />
+	<block key="help_infolink_crossbowmode" korean="Á­ " />
+	<block key="help_infolink_crossbowmode_tip" korean="Á­ " />
+	<block key="help_infolink_crossbowmode_0" korean="Œ¬„Ç " />
+	<block key="help_title_skill" korean="¤Â¬Ð" />
+	<block key="help_infolink_skillui" korean="¤Â¬Ð " />
+	<block key="help_infolink_skillui_tip" korean="¤Â¬Ð " />
+	<block key="help_infolink_skillui_0" korean="Œ¬„Ç " />
+	<block key="help_infolink_skillui_1" korean="1" />
+	<block key="help_infolink_skillui_2" korean="2" />
+	<block key="help_infolink_skilllearn" korean="¤Â¬Ð " />
+	<block key="help_infolink_skilllearn_tip" korean="¤Â¬Ð " />
+	<block key="help_infolink_skilllearn_0" korean="Î­¹0Ñ " />
+	<block key="help_infolink_skilllearn_1" korean="àÂÜ­¤Â¬Ð " />
+	<block key="help_infolink_skilllevel" korean="¤Â¬Ð " />
+	<block key="help_infolink_skilllevel_tip" korean="¤Â¬Ð " />
+	<block key="help_infolink_skilllevel_0" korean="Î­¹0Ñ " />
+	<block key="help_infolink_charge" korean="`ÌÀÉ " />
+	<block key="help_infolink_charge_tip" korean="`ÌÀÉ " />
+	<block key="help_infolink_charge_0" korean="`ÌÀÉ " />
+	<block key="help_infolink_charge_1" korean="ÁÀ¹Â\Õ " />
+	<block key="help_infolink_skillcombo" korean="dÏô¼ " />
+	<block key="help_infolink_skillcombo_tip" korean="dÏô¼ " />
+	<block key="help_infolink_skillcombo_0" korean="dÏô¼ " />
+	<block key="help_infolink_skillcombo_1" korean="dÏô¼ " />
+	<block key="help_infolink_recom" korean="Á¹lÐ " />
+	<block key="help_infolink_recom_tip" korean="Á¹lÐ " />
+	<block key="help_infolink_recom_0" korean="Á¹lÐ " />
+	<block key="help_infolink_skilllink" korean="ðÅÄ¬ " />
+	<block key="help_infolink_skilllink_tip" korean="ðÅÄ¬ " />
+	<block key="help_infolink_skilllink_0" korean="±´ÅÐÉ," />
+	<block key="help_infolink_talent" korean="¹Ò1Á" />
+	<block key="help_infolink_talent_tip" korean="¹Ò1Á " />
+	<block key="help_infolink_talent_0" korean="1" />
+	<block key="help_infolink_talent_1" korean="2" />
+	<block key="help_infolink_talent_2" korean=" " />
+	<block key="help_infolink_talent_3" korean="3" />
+	<block key="help_infolink_talent_4" korean="4" />
+	<block key="help_title_item" korean="DÅtÇ\Ñ" />
+	<block key="help_infolink_set" korean="8Á¸Ò " />
+	<block key="help_infolink_set_tip" korean="8Á¸Ò " />
+	<block key="help_infolink_set_0" korean="8Á¸Ò " />
+	<block key="help_infolink_fellowoption" korean="	½xÇ " />
+	<block key="help_infolink_fellowoption_tip" korean="	½xÇ " />
+	<block key="help_infolink_fellowoption_0" korean="	½xÇ´ " />
+	<block key="help_infolink_extraction" korean="”ÍœÍ" />
+	<block key="help_infolink_extraction_tip" korean="”ÍœÍ " />
+	<block key="help_infolink_extraction_0" korean="1" />
+	<block key="help_infolink_extraction_1" korean="2" />
+	<block key="help_infolink_extraction_2" korean="3" />
+	<block key="help_infolink_extraction_3" korean=" " />
+	<block key="help_infolink_reinforce" korean="¬TÖ" />
+	<block key="help_infolink_reinforce_tip" korean="¬TÖ " />
+	<block key="help_infolink_reinforce_0" korean="1" />
+	<block key="help_infolink_reinforce_1" korean="2" />
+	<block key="help_infolink_reinforce_2" korean=" " />
+	<block key="help_infolink_reinforce_3" korean=" " />
+	<block key="help_infolink_reinforce_4" korean="3" />
+	<block key="help_infolink_reinforce_5" korean="4" />
+	<block key="help_infolink_reinforce_6" korean=" " />
+	<block key="help_infolink_reinforce_7" korean=" " />
+	<block key="help_infolink_reinforce_8" korean=" " />
+	<block key="help_infolink_reinforce_9" korean=" " />
+	<block key="help_infolink_randombox" korean="œ·d³¼¤Â" />
+	<block key="help_infolink_randombox_tip" korean="œ·d³¼¤Â " />
+	<block key="help_infolink_randombox_0" korean="œ·d³¼¤Â|¹ " />
+	<block key="help_title_quest" korean="Ð¤Â¸Ò" />
+	<block key="help_infolink_questui" korean="Ð¤Â¸Ò " />
+	<block key="help_infolink_questui_tip" korean="Ð¤Â¸Ò " />
+	<block key="help_infolink_questui_0" korean="Œ¬„Ç " />
+	<block key="help_infolink_questui_1" korean="1" />
+	<block key="help_infolink_questui_2" korean="2" />
+	<block key="help_infolink_questtype" korean="Ð¤Â¸Ò " />
+	<block key="help_infolink_questtype_tip" korean="Ð¤Â¸Ò " />
+	<block key="help_infolink_questtype_0" korean="Ç " />
+	<block key="help_infolink_questtype_1" korean="1" />
+	<block key="help_infolink_questtype_2" korean="2" />
+	<block key="help_infolink_questtype_3" korean="3" />
+	<block key="help_infolink_questhelper" korean="Ð¤Â¸Ò " />
+	<block key="help_infolink_questhelper_tip" korean="Ð¤Â¸Ò " />
+	<block key="help_infolink_questhelper_0" korean="1" />
+	<block key="help_infolink_questhelper_1" korean="2" />
+	<block key="help_infolink_questhelper_2" korean="3" />
+	<block key="help_title_contents" korean="èÎPÑ Î" />
+	<block key="help_infolink_dungeonlevel" korean="X³È " />
+	<block key="help_infolink_dungeonlevel_tip" korean="X³È " />
+	<block key="help_infolink_dungeonlevel_0" korean="X³ÈÐÅ " />
+	<block key="help_infolink_dungeonlevel_1" korean="ä²LÇ " />
+	<block key="help_infolink_uniteparty" korean="1" />
+	<block key="help_infolink_uniteparty_tip" korean="1" />
+	<block key="help_infolink_uniteparty_0" korean="ÓðÒ¥Ç@Ç " />
+	<block key="help_infolink_uniteparty_1" korean="õ¬©¬" />
+	<block key="help_infolink_pvp" korean="°¬,Ò" />
+	<block key="help_infolink_pvp_tip" korean="°¬,Ò " />
+	<block key="help_infolink_pvp_0" korean="ÁÀ" />
+	<block key="help_infolink_pvp_1" korean="1" />
+	<block key="help_infolink_pvp_2" korean="2" />
+	<block key="help_infolink_guild" korean="8®Ü´" />
+	<block key="help_infolink_guild_tip" korean="8®Ü´ " />
+	<block key="help_infolink_guild_0" korean="XÕtÎ˜°¤Â " />
+	<block key="help_infolink_guild_1" korean="8®Ü´ " />
+	<block key="help_title_system" korean="ÜÂ¤Â\Ñ" />
+	<block key="help_infolink_partyinvite" korean="ÓðÒ" />
+	<block key="help_infolink_partyinvite_tip" korean="ÓðÒ " />
+	<block key="help_infolink_partyinvite_0" korean="ÁÀ" />
+	<block key="help_infolink_partyinvite_1" korean="1" />
+	<block key="help_infolink_partyinvite_2" korean="2" />
+	<block key="help_infolink_partyinvite_3" korean="3" />
+	<block key="help_infolink_tradeui" korean="¬xÇ " />
+	<block key="help_infolink_tradeui_tip" korean="¬xÇ " />
+	<block key="help_infolink_tradeui_0" korean="ÁÀ" />
+	<block key="help_infolink_tradeui_1" korean="1" />
+	<block key="help_infolink_tradeui_2" korean="2" />
+	<block key="help_infolink_channelui" korean="DÌ± " />
+	<block key="help_infolink_channelui_tip" korean="DÌ± " />
+	<block key="help_infolink_channelui_0" korean="\Õ " />
+	<block key="help_infolink_portal" korean="ìÓÈÐ " />
+	<block key="help_infolink_portal_tip" korean="ìÓÈÐ " />
+	<block key="help_infolink_portal_0" korean="1" />
+	<block key="help_infolink_portal_1" korean=" " />
+	<block key="help_infolink_portal_2" korean=" " />
+	<block key="help_infolink_portal_3" korean=" " />
+	<block key="help_infolink_portal_4" korean="2" />
+	<block key="help_infolink_portal_5" korean=" " />
+	<block key="help_infolink_portal_6" korean=" " />
+	<block key="help_infolink_portal_7" korean=" " />
+	<block key="help_infolink_mail" korean="°Æ¸Ó" />
+	<block key="help_infolink_mail_tip" korean="°Æ¸Ó " />
+	<block key="help_infolink_mail_0" korean="È¹DÇÐÅ " />
+	<block key="help_infolink_auction" korean="Óä¹ " />
+	<block key="help_infolink_auction_tip" korean="Óä¹ " />
+	<block key="help_infolink_auction_0" korean="ÀÉíÅÈ¹ä² " />
+	<block key="help_infolink_auction_1" korean="1" />
+	<block key="help_infolink_auction_2" korean="2" />
+	<block key="help_infolink_auction_3" korean="3" />
+	<block key="help_infolink_pcstorage" korean="=Ìà¬" />
+	<block key="help_infolink_pcstorage_tip" korean="=Ìà¬ " />
+	<block key="help_infolink_pcstorage_0" korean="È¹DÇÐÅ " />
+	<block key="help_infolink_pcstorage_1" korean="É¹Œ× " />
+	<block key="help_infolink_collection" korean="DÌÑÉ" />
+	<block key="help_infolink_collection_tip" korean="DÌÑÉ " />
+	<block key="help_infolink_collection_0" korean="1" />
+	<block key="help_infolink_collection_1" korean="2" />
+	<block key="help_infolink_collection_2" korean="3" />
+	<block key="help_infolink_partyboard" korean="ÓðÒ " />
+	<block key="help_infolink_partyboard_tip" korean="ÓðÒ " />
+	<block key="help_infolink_partyboard_0" korean="<" />
+	<block key="help_infolink_partyboard_1" korean="1" />
+	<block key="help_infolink_partyboard_2" korean="2" />
+	<block key="help_infolink_partyboard_3" korean="3" />
+	<block key="help_infolink_partyauction" korean="ÓðÒ " />
+	<block key="help_infolink_partyauction_tip" korean="ÓðÒ " />
+	<block key="help_infolink_partyauction_0" korean="ÓðÒÐÅÁ " />
+	<block key="help_infolink_partyauction_1" korean="™°0ÌÇ" />
+	<block key="help_infolink_vitality" korean="\Ö%¸" />
+	<block key="help_infolink_vitality_tip" korean="\Ö%¸ " />
+	<block key="help_infolink_vitality_0" korean="1" />
+	<block key="help_infolink_vitality_1" korean="2" />
+	<block key="help_infolink_vitality_2" korean="3" />
+	<block key="help_infolink_vitality_3" korean="4" />
+	<block key="help_infolink_vitality_4" korean="5" />
+	<block key="help_infolink_vitality_5" korean="6" />
+	<block key="help_title_production" korean="È‘Ç" />
+	<block key="help_infolink_productionhow" korean="È‘Ç " />
+	<block key="help_infolink_productionhow_tip" korean="È‘Ç " />
+	<block key="help_infolink_productionhow_0" korean="<" />
+	<block key="help_infolink_productionhow_1" korean="1" />
+	<block key="help_infolink_productionhow_2" korean="2" />
+	<block key="help_infolink_productionhow_3" korean="3" />
+	<block key="help_infolink_productionhow_4" korean="4" />
+	<block key="help_infolink_productionitem" korean="È‘Ç " />
+	<block key="help_infolink_productionitem_tip" korean="È‘Ç " />
+	<block key="help_infolink_productionitem_0" korean="È‘Ç " />
+	<block key="help_infolink_productionitem_1" korean="1" />
+	<block key="help_infolink_productionitem_2" korean="2" />
+	<block key="help_infolink_productionitem_3" korean="3" />
+	<block key="help_infolink_productionitem_4" korean="4" />
+	<block key="help_infolink_productionitem_5" korean="5" />
+	<block key="help_infolink_productionitem_6" korean="6" />
+	<block key="help_infolink_productiongrade" korean="È‘Ç " />
+	<block key="help_infolink_productiongrade_tip" korean="È‘Ç " />
+	<block key="help_infolink_productiongrade_0" korean="1" />
+	<block key="help_infolink_productiongrade_1" korean="2" />
+	<block key="help_infolink_productionperfect" korean="È‘Ç " />
+	<block key="help_infolink_productionperfect_tip" korean="È‘Ç " />
+	<block key="help_infolink_productionperfect_0" korean="1" />
+	<block key="help_infolink_productionperfect_1" korean="2" />
+	<block key="help_infolink_productionweapon" korean="4»0®" />
+	<block key="help_infolink_productionweapon_tip" korean="4»0® " />
+	<block key="help_infolink_productionweapon_0" korean="4»0® " />
+	<block key="help_infolink_productionarmor" korean=")¼´Ål­" />
+	<block key="help_infolink_productionarmor_tip" korean=")¼´Ål­ " />
+	<block key="help_infolink_productionarmor_0" korean=")¼´Ål­ " />
+	<block key="help_infolink_productionfellow" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_productionfellow_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_productionfellow_0" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_productionfood" korean="”Æ¬¹" />
+	<block key="help_infolink_productionfood_tip" korean="”Æ¬¹ " />
+	<block key="help_infolink_productionfood_0" korean="”Æ¬¹ " />
+	<block key="help_infolink_productionfood_1" korean="<" />
+	<block key="help_infolink_productionpotion" korean="ðÅ® Â" />
+	<block key="help_infolink_productionpotion_tip" korean="<»}Å " />
+	<block key="help_infolink_productionpotion_0" korean="ðÅ® ÂDÇ " />
+	<block key="help_infolink_productionaccessory" korean="¥ÇàÂl­" />
+	<block key="help_infolink_productionaccessory_tip" korean="¥ÇàÂl­ " />
+	<block key="help_infolink_productionaccessory_0" korean="¥ÇàÂl­ " />
+	<block key="help_title_fellow" korean=" Ó\¸°Æ" />
+	<block key="help_infolink_fellowui" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowui_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowui_0" korean="Œ¬„Ç " />
+	<block key="help_infolink_fellowui_1" korean="1" />
+	<block key="help_infolink_fellowui_2" korean="2" />
+	<block key="help_infolink_fellowui_3" korean="3" />
+	<block key="help_infolink_fellowui_4" korean="4" />
+	<block key="help_infolink_fellowui_5" korean="5" />
+	<block key="help_infolink_fellowui_6" korean="6" />
+	<block key="help_infolink_fellowui_7" korean="7" />
+	<block key="help_infolink_fellowbook" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowbook_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowbook_0" korean="Œ¬„Ç " />
+	<block key="help_infolink_fellowbook_1" korean="1" />
+	<block key="help_infolink_fellowsummon" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowsummon_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowsummon_0" korean="1" />
+	<block key="help_infolink_fellowsummon_1" korean="2" />
+	<block key="help_infolink_fellowboard" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowboard_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowboard_0" korean="8®ä´tÇ0®" />
+	<block key="help_infolink_fellowboard_1" korean="¬º¤Â0Ñ " />
+	<block key="help_infolink_fellowboard_2" korean="1" />
+	<block key="help_infolink_fellowboard_3" korean="2" />
+	<block key="help_infolink_fellowboard_4" korean="3" />
+	<block key="help_infolink_fellowwithme" korean="«Ó" />
+	<block key="help_infolink_fellowwithme_tip" korean="«Ó" />
+	<block key="help_infolink_fellowwithme_0" korean="1" />
+	<block key="help_infolink_fellowwithme_1" korean="2" />
+	<block key="help_infolink_fellowitem" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowitem_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowitem_0" korean=" Ó\¸°ÆXÇ " />
+	<block key="help_infolink_fellowitem_1" korean="1" />
+	<block key="help_infolink_fellowitem_2" korean="2" />
+	<block key="help_infolink_fellowseal" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowseal_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowseal_0" korean="1" />
+	<block key="help_infolink_fellowseal_1" korean="2" />
+	<block key="help_infolink_fellowseal_2" korean=" " />
+	<block key="help_infolink_fellowseal_3" korean=" " />
+	<block key="help_infolink_fellowcompose" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowcompose_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowcompose_0" korean="1" />
+	<block key="help_infolink_fellowcompose_1" korean="2" />
+	<block key="help_infolink_fellowcombat" korean="ÀÉÁÀ " />
+	<block key="help_infolink_fellowcombat_tip" korean="ÀÉÁÀ " />
+	<block key="help_infolink_fellowcombat_0" korean=" Ó\¸°ÆÐÅ " />
+	<block key="help_infolink_fellowcombat_1" korean="1" />
+	<block key="help_infolink_fellowcombat_2" korean="2" />
+	<block key="help_infolink_fellowcombat_3" korean="3" />
+	<block key="help_infolink_fellowsky" korean="D¾‰Õ " />
+	<block key="help_infolink_fellowsky_tip" korean="D¾‰Õ " />
+	<block key="help_infolink_fellowsky_0" korean="<" />
+	<block key="help_infolink_fellowsky_1" korean="<" />
+	<block key="help_infolink_attributionclear" korean="DÅtÇ\Ñ " />
+	<block key="help_infolink_attributionclear_tip" korean="DÅtÇ\Ñ " />
+	<block key="help_infolink_attributionclear_0" korean="1" />
+	<block key="help_infolink_attributionclear_1" korean="2" />
+	<block key="help_infolink_attributionclear_2" korean="3" />
+	<block key="help_infolink_itembreak" korean="DÅtÇ\Ñ " />
+	<block key="help_infolink_itembreak_tip" korean="DÅtÇ\Ñ " />
+	<block key="help_infolink_itembreak_0" korean="1" />
+	<block key="help_infolink_itembreak_1" korean="2" />
+	<block key="help_infolink_itembreak_2" korean="3" />
+	<block key="help_infolink_guildalliance" korean="8®Ü´ " />
+	<block key="help_infolink_guildalliance_tip" korean="8®Ü´ " />
+	<block key="help_infolink_guildalliance_0" korean="1" />
+	<block key="help_infolink_guildalliance_1" korean="2" />
+	<block key="help_infolink_guildalliance_2" korean="3" />
+	<block key="help_infolink_militia" korean="ÑÅÇ€· " />
+	<block key="help_infolink_militia_tip" korean="ÑÅÇ€· " />
+	<block key="help_infolink_militia_0" korean="1" />
+	<block key="help_infolink_militia_1" korean="2" />
+	<block key="help_infolink_militia_2" korean="3" />
+	<block key="help_infolink_militia_3" korean="4" />
+	<block key="help_infolink_alliancepk" korean="ðÅiÕ " />
+	<block key="help_infolink_alliancepk_tip" korean="ðÅiÕ " />
+	<block key="help_infolink_alliancepk_0" korean="1" />
+	<block key="help_infolink_alliancepk_1" korean="2" />
+	<block key="help_infolink_alliancepk_2" korean="3" />
+	<block key="help_infolink_alliancepk_3" korean="4" />
+	<block key="help_infolink_alliancepk_4" korean="5" />
+	<block key="help_infolink_alliancepk_5" korean="6" />
+	<block key="help_infolink_uiediting" korean="U" />
+	<block key="help_infolink_uiediting_tip" korean="U" />
+	<block key="help_infolink_uiediting_0" korean="1" />
+	<block key="help_infolink_uiediting_1" korean="2" />
+	<block key="help_infolink_uiediting_2" korean="3" />
+	<block key="help_infolink_fellowextraction" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowextraction_tip" korean=" Ó\¸°Æ " />
+	<block key="help_infolink_fellowextraction_0" korean="1" />
+	<block key="help_infolink_fellowextraction_1" korean="2" />
+	<block key="help_infolink_fellowextraction_2" korean="3" />
+	<block key="help_infolink_fellowextraction_3" korean="*" />
+	<block key="help_infolink_fellowoptionchange" korean="	½xÇ5ÆXÁ " />
+	<block key="help_infolink_fellowoptionchange_tip" korean="	½xÇ5ÆXÁ " />
+	<block key="help_infolink_fellowoptionchange_0" korean="1" />
+	<block key="help_infolink_fellowoptionchange_1" korean="2" />
+	<block key="help_infolink_fellowoptionchange_2" korean="3" />
+	<block key="help_infolink_fellowoptionchange_3" korean="4" />
+</blocks>

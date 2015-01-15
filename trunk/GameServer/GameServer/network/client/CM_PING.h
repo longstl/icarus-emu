@@ -9,8 +9,8 @@ inline void CM_PING(PACKET* pck)
 {
 	time_t rawTime;
 	time(&rawTime);
-	pck->pingtime[0] = rawTime;
-	int32 unk2 = pck->readD();
+	pck->pingtime[0] = (int) rawTime;
+	int16 unk2 = pck->readW();
 	SM_PONG(pck);
 }
 

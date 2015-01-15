@@ -9,7 +9,6 @@ inline void SM_PONG(PACKET* pck)
 {
 	pck->CreateBufForSend();
 	pck->writeB(0);
-	pck->writeW(0);
 	pck->PackSend(OPCODE_SM_PONG);
 }
 /*

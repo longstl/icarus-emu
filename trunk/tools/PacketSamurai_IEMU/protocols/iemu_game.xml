@@ -133,17 +133,16 @@
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="d"/>
 			<part name="unk2" type="c"/>
-			<part name="for" type="h" id="0"/>
-			<part name="unk3" type="c"/>
+			<part name="for" type="c" id="0"/>
+			<part name="unk3" type="h"/>
 				<for id="0">
 					<part name="id_char" type="d"/>
-					<part name="num" type="d"/>
-					<part name="unk1" type="h"/>
-					<part name="unk2" type="h"/>
-					<part name="unk3" type="d"/>
-					<part name="unk4" type="d"/>
-					<part name="unk5" type="h"/>
-					<part name="unk6" type="h"/>
+					<part name="id" type="d"/>
+					<part name="item_id" type="d"/>
+					<part name="count" type="d"/>
+					<part name="equip" type="d"/>
+					<part name="sid" type="h"/>
+					<part name="slot" type="h"/>
 				</for>
 		</packet>
 		<packet id="0x053d" name="SM_UNK13">
@@ -371,6 +370,19 @@
 		</packet>
 		<packet id="0x4c0e" name="SM_SKILLS_PANEL">
 			<part name="cryptflag" type="h"/>
+			<part name="unk" type="h"/>
+			<part name="for" type="h" id="0"/>
+				<for id="0">
+					<part name="unk1" type="d"/>
+					<part name="unk2" type="h"/>
+					<part name="slot" type="c"/>
+					<part name="unk3" type="c"/>
+					<part name="unk4" type="d"/>
+					<part name="skill_id" type="h"/>
+					<part name="class?" type="h"/>
+					<part name="unk5" type="d"/>
+					<part name="unk6" type="d"/>
+				</for>
 		</packet>
 		<packet id="0x9913" name="SM_UNK40">
 			<part name="cryptflag" type="h"/>
@@ -724,6 +736,13 @@
 		</packet>
 		<packet id="0x1833" name="CM_UNK_1833">
 			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x1e13" name="CM_INVENTARY_MOVE">
+			<part name="cryptflag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="sid" type="h"/>
+			<part name="slot" type="h"/>
 		</packet>
 	</packetfamilly>
 </protocol>

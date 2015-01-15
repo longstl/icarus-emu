@@ -1,0 +1,37 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="F_00_4_0001_0000_Name" korea_korean="v­üÈ°¹ " />
+	<block key="F_00_4_0002_0000_Name" korea_korean="¸$Æ" />
+	<block key="F_02_1_0007_0002_Name" korea_korean="¬À˜°´Æ " />
+	<block key="F_02_1_0007_0003_Name" korea_korean=" ÇÈÀÉ " />
+	<block key="F_02_0_0309_0000_Name" korea_korean="Â÷Î " />
+	<block key="F_02_0_0309_0001_Name" korea_korean="TÅ÷Î " />
+	<block key="F_00_0_0245_0000_Name" korea_korean="8ÖÇ " />
+	<block key="F_00_0_0245_0001_Name" korea_korean="¸$Æ" />
+	<block key="F_00_0_0309_0000_Name" korea_korean="8ÖÇ " />
+	<block key="F_03_0_0309_0000_Name" korea_korean="ÁÀ˜Ìœ° " />
+	<block key="F_03_0_0309_0001_Name" korea_korean="´Å`´XÇ " />
+	<block key="F_03_0_0309_0004_Name" korea_korean="õ¬ìÓXÇ " />
+	<block key="F_03_0_0309_0005_Name" korea_korean="ä¹Á´Æ " />
+	<block key="F_03_0_0245_0000_Name" korea_korean="Q×\Ô”¼" />
+	<block key="F_03_0_0245_0001_Name" korea_korean="" />
+	<block key="F_03_0_0309_0007_Name" korea_korean="°À " />
+	<block key="F_03_0_0245_0002_Name" korea_korean="p¬\Î8Ñ " />
+	<block key="F_03_0_0309_0008_Name" korea_korean="ÁÀ˜Ìœ° " />
+	<block key="F_03_0_0309_0009_Name" korea_korean="´Å`´XÇ " />
+	<block key="F_03_0_0309_0010_Name" korea_korean="8®ä´ìÅÄÉ " />
+	<block key="F_03_0_0309_0011_Name" korea_korean="´Å`´XÇ " />
+	<block key="F_03_0_0245_0003_Name" korea_korean="­ìÓ\Õ " />
+	<block key="F_03_0_0245_0004_Name" korea_korean="­ìÓ\Õ " />
+	<block key="F_03_0_0083_0000_Name" korea_korean="v­üÈ°¹ " />
+	<block key="F_03_0_0083_0001_Name" korea_korean="°ÆP´8º¬¹ " />
+	<block key="F_03_0_0083_0002_Name" korea_korean="œ°íÓ\Õ " />
+	<block key="F_03_0_0083_0003_Name" korea_korean="¬À˜°´Æ " />
+	<block key="F_03_0_0083_0004_Name" korea_korean="v­üÈ°¹ " />
+	<block key="F_03_0_0083_0005_Name" korea_korean="¬À˜°´Æ " />
+</blocks>

@@ -1,0 +1,169 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_C02_GHorse_001_Name" korean="Meadow Zebra" />
+	<block key="E_C02_GHorse_001_NameDetail" korean="" />
+	<block key="E_C02_GHorse_002_Name" korean="Swift zebra" />
+	<block key="E_C02_GHorse_002_NameDetail" korean="" />
+	<block key="E_C02_Rhino_001_Name" korean="Old rhinoceros" />
+	<block key="E_C02_Rhino_001_NameDetail" korean="" />
+	<block key="E_C02_Rhino_002_Name" korean="Wild nose fluorine" />
+	<block key="E_C02_Rhino_002_NameDetail" korean="" />
+	<block key="E_C02_Rhino_003_Name" korean="The trainer rhinoceros" />
+	<block key="E_C02_Rhino_003_NameDetail" korean="" />
+	<block key="E_C02_Giraffe_001_Name" korean="Meadow giraffe" />
+	<block key="E_C02_Giraffe_001_NameDetail" korean="" />
+	<block key="E_C02_Giraffe_002_Name" korean="Swift giraffe" />
+	<block key="E_C02_Giraffe_002_NameDetail" korean="" />
+	<block key="E_C02_ChildB_001_Name" korean="Ssuiin boys evil spirits" />
+	<block key="E_C02_ChildB_001_NameDetail" korean="" />
+	<block key="E_C02_ChildG_002_Name" korean="Ssuiin girl in spirits" />
+	<block key="E_C02_ChildG_002_NameDetail" korean="" />
+	<block key="E_C02_TucaPatro_001_Name" korean="To kanjok sunchalbyeong" />
+	<block key="E_C02_TucaPatro_001_NameDetail" korean="" />
+	<block key="E_C02_BrhaTride_001_Name" korean="To kanjok Beast Trainer" />
+	<block key="E_C02_BrhaTride_001_NameDetail" korean="" />
+	<block key="E_C02_TucaFpris_001_Name" korean="To kanjok battle priest" />
+	<block key="E_C02_TucaFpris_001_NameDetail" korean="" />
+	<block key="E_C02_BrhaCata_001_Name" korean="To kanjok catapults" />
+	<block key="E_C02_BrhaCata_001_NameDetail" korean="" />
+	<block key="E_C02_Lion_001_Name" korean="Lato Las" />
+	<block key="E_C02_Lion_001_NameDetail" korean="" />
+	<block key="E_C02_Lion_002_Name" korean="Obedience The gelato Las" />
+	<block key="E_C02_Lion_002_NameDetail" korean="" />
+	<block key="E_C02_Lion_003_Name" korean="Hungry gelato Las" />
+	<block key="E_C02_Lion_003_NameDetail" korean="" />
+	<block key="E_C02_Lioness_001_Name" korean="Rio Ness" />
+	<block key="E_C02_Lioness_001_NameDetail" korean="" />
+	<block key="E_C02_Lioness_002_Name" korean="Hungry Rio Ness" />
+	<block key="E_C02_Lioness_002_NameDetail" korean="" />
+	<block key="E_C02_Crocodile_001_Name" korean="Meadow crocodile" />
+	<block key="E_C02_Crocodile_001_NameDetail" korean="" />
+	<block key="E_C02_Gazelle_001_Name" korean="Sharp horns Gazelle" />
+	<block key="E_C02_Gazelle_001_NameDetail" korean="" />
+	<block key="E_C02_Elephant_001_Name" korean="Cordon Press" />
+	<block key="E_C02_Elephant_001_NameDetail" korean="" />
+	<block key="E_C02_Elephant_002_Name" korean="Pirun" />
+	<block key="E_C02_Elephant_002_NameDetail" korean="" />
+	<block key="E_C02_Basilisk_001_Name" korean="Meadow Basilisk" />
+	<block key="E_C02_Basilisk_001_NameDetail" korean="" />
+	<block key="E_C02_FanaTony_001_Name" korean="Gulf Laszlo" />
+	<block key="E_C02_FanaTony_001_NameDetail" korean="" />
+	<block key="E_C02_VampHecto_001_Name" korean="Mayor who Traders" />
+	<block key="E_C02_VampHecto_001_NameDetail" korean="" />
+	<block key="E_C02_Hbee1_001_Name" korean="Wild Wasps" />
+	<block key="E_C02_Hbee1_001_NameDetail" korean="" />
+	<block key="E_C02_SoulWater_001_Name" korean="Malaga is a water spirit" />
+	<block key="E_C02_SoulWater_001_NameDetail" korean="" />
+	<block key="E_C02_FanaRabart_001_Name" korean="Clairvoyant Rabat" />
+	<block key="E_C02_FanaRabart_001_NameDetail" korean="" />
+	<block key="E_C02_RabartEye_001_Name" korean="Eye of Rabat" />
+	<block key="E_C02_RabartEye_001_NameDetail" korean="" />
+	<block key="E_C02_Balanin_001_Name" korean="Mining Commissioner rather than apply" />
+	<block key="E_C02_Balanin_001_NameDetail" korean="" />
+	<block key="E_C02_DevilDog_001_Name" korean="Adnan Hell" />
+	<block key="E_C02_DevilDog_001_NameDetail" korean="" />
+	<block key="E_C02_FanaRecon_001_Name" korean="Mother Haba yongbyeongdan Swashbuckler" />
+	<block key="E_C02_FanaRecon_001_NameDetail" korean="" />
+	<block key="E_C02_FanaRecon_003_Name" korean="Mother Haba yongbyeongdan Swashbuckler" />
+	<block key="E_C02_FanaRecon_003_NameDetail" korean="" />
+	<block key="E_C02_MohaScout_001_Name" korean="Mother Haba yongbyeongdan ambush drinkers" />
+	<block key="E_C02_MohaScout_001_NameDetail" korean="" />
+	<block key="E_C02_MohaScout_003_Name" korean="Mother Haba yongbyeongdan ambush drinkers" />
+	<block key="E_C02_MohaScout_003_NameDetail" korean="" />
+	<block key="E_C02_MohaHealer_001_Name" korean="Mother Haba yongbyeongdan wind magicians" />
+	<block key="E_C02_MohaHealer_001_NameDetail" korean="" />
+	<block key="E_C02_MohaHealer_002_Name" korean="Mother Haba yongbyeongdan wind magicians" />
+	<block key="E_C02_MohaHealer_002_NameDetail" korean="" />
+	<block key="E_C02_FanaThera_001_Name" korean="Greater Pyrgos robbers EMT" />
+	<block key="E_C02_FanaThera_001_NameDetail" korean="" />
+	<block key="E_C02_MohaShotr_001_Name" korean="Mother Haba yongbyeongdan fighter" />
+	<block key="E_C02_MohaShotr_001_NameDetail" korean="" />
+	<block key="E_C02_MohaShotr_002_Name" korean="Mother Haba yongbyeongdan fighter" />
+	<block key="E_C02_MohaShotr_002_NameDetail" korean="" />
+	<block key="E_C02_mohaSnipe_001_Name" korean="Mother Haba yongbyeongdan lion trainer" />
+	<block key="E_C02_mohaSnipe_001_NameDetail" korean="" />
+	<block key="E_C02_Ostrich_001_Name" korean="Meadow ostrich" />
+	<block key="E_C02_Ostrich_001_NameDetail" korean="" />
+	<block key="E_C02_BaldEagle_001_Name" korean="Hungry Phalke" />
+	<block key="E_C02_BaldEagle_001_NameDetail" korean="" />
+	<block key="E_C02_BaldThun_001_Name" korean="Phalke meadow" />
+	<block key="E_C02_BaldThun_001_NameDetail" korean="" />
+	<block key="E_C02_BullBlack_001_Name" korean="Black hair bison" />
+	<block key="E_C02_BullBlack_001_NameDetail" korean="" />
+	<block key="E_C02_BullBrown_001_Name" korean="Docile bison" />
+	<block key="E_C02_BullBrown_001_NameDetail" korean="" />
+	<block key="E_C02_PeliBill_001_Name" korean="Pelican meadow" />
+	<block key="E_C02_PeliBill_001_NameDetail" korean="" />
+	<block key="E_C02_BoarMane_001_Name" korean="Meadow Boar" />
+	<block key="E_C02_BoarMane_001_NameDetail" korean="" />
+	<block key="E_C02_Etur_001_Name" korean="Cracked tortoise" />
+	<block key="E_C02_Etur_001_NameDetail" korean="" />
+	<block key="E_C02_ImmoMagi_001_Name" korean="Eating a Dream Demon" />
+	<block key="E_C02_ImmoMagi_001_NameDetail" korean="" />
+	<block key="E_C02_ImmoSoldi_001_Name" korean="Calls on the desire devil" />
+	<block key="E_C02_ImmoSoldi_001_NameDetail" korean="" />
+	<block key="E_C02_GoleAncgu_001_Name" korean="Rock spirit" />
+	<block key="E_C02_GoleAncgu_001_NameDetail" korean="" />
+	<block key="E_C02_MohaScout_002_Name" korean="Pyrgos greater robbers mine guards" />
+	<block key="E_C02_MohaScout_002_NameDetail" korean="" />
+	<block key="E_C02_FanaRecon_002_Name" korean="Pyrgos greater Ranger mine robbers" />
+	<block key="E_C02_FanaRecon_002_NameDetail" korean="" />
+	<block key="E_C02_FanaTroop_001_Name" korean="Pyrgos greater robbers mine supervisor" />
+	<block key="E_C02_FanaTroop_001_NameDetail" korean="" />
+	<block key="E_C02_FanaStone_001_Name" korean="Pyrgos robbers greater trade" />
+	<block key="E_C02_FanaStone_001_NameDetail" korean="" />
+	<block key="E_C02_VampFarm_001_Name" korean="Ssuiin evil farmers" />
+	<block key="E_C02_VampFarm_001_NameDetail" korean="" />
+	<block key="E_C02_VampLance_001_Name" korean="Ssuiin guards the spirits" />
+	<block key="E_C02_VampLance_001_NameDetail" korean="" />
+	<block key="E_C02_VampWoman_001_Name" korean="Ssuiin woman in spirits" />
+	<block key="E_C02_VampWoman_001_NameDetail" korean="" />
+	<block key="E_C02_GhosAncien_001_Name" korean="The specter of ancient monks" />
+	<block key="E_C02_GhosAncien_001_NameDetail" korean="" />
+	<block key="E_C02_GhosManag_001_Name" korean="The specter of ancient priests" />
+	<block key="E_C02_GhosManag_001_NameDetail" korean="" />
+	<block key="E_C02_CabeElitg_001_Name" korean="Ancient skeletons of soldiers" />
+	<block key="E_C02_CabeElitg_001_NameDetail" korean="" />
+	<block key="E_C02_AgulWoker_001_Name" korean="Agur marsh meadow workers" />
+	<block key="E_C02_AgulWoker_001_NameDetail" korean="" />
+	<block key="E_C02_AgulHunti_001_Name" korean="Agur meadow marsh hunting sportsman" />
+	<block key="E_C02_AgulHunti_001_NameDetail" korean="" />
+	<block key="E_C02_AgulFight_001_Name" korean="Agur marsh meadow fighter" />
+	<block key="E_C02_AgulFight_001_NameDetail" korean="" />
+	<block key="E_C02_AgulMagi_001_Name" korean="Agur marsh meadow Shaman" />
+	<block key="E_C02_AgulMagi_001_NameDetail" korean="" />
+	<block key="E_C02_AgulMugl_001_Name" korean="Agur chief glam look" />
+	<block key="E_C02_AgulMugl_001_NameDetail" korean="" />
+	<block key="E_C02_MoorJavel_001_Name" korean="Last rampant Laramie to Spearman" />
+	<block key="E_C02_MoorJavel_001_NameDetail" korean="" />
+	<block key="E_C02_MoorBow_001_Name" korean="Last rampant Rummy gungbyeong" />
+	<block key="E_C02_MoorBow_001_NameDetail" korean="" />
+	<block key="E_C02_MoorTroop_001_Name" korean="Rummy combat rampant sex" />
+	<block key="E_C02_MoorTroop_001_NameDetail" korean="" />
+	<block key="E_C02_MoorCharge_001_Name" korean="Rummy disease rampant sex assault" />
+	<block key="E_C02_MoorCharge_001_NameDetail" korean="" />
+	<block key="E_C02_Shaman_001_Name" korean="Last rampant priest Rummy" />
+	<block key="E_C02_Shaman_001_NameDetail" korean="" />
+	<block key="E_C02_CarmDeckh_001_Name" korean="Kara De Pirate Marauders" />
+	<block key="E_C02_CarmDeckh_001_NameDetail" korean="" />
+	<block key="E_C02_CarmWatch_001_Name" korean="Kara De Pirate guard" />
+	<block key="E_C02_CarmWatch_001_NameDetail" korean="" />
+	<block key="E_C02_CarmTreas_001_Name" korean="Cara de pirate fishing ax" />
+	<block key="E_C02_CarmTreas_001_NameDetail" korean="" />
+	<block key="E_C02_CarmBarub_001_Name" korean="Cara de pirate operations tubes" />
+	<block key="E_C02_CarmBarub_001_NameDetail" korean="" />
+	<block key="E_C02_Raptor_001_Name" korean="Repteo" />
+	<block key="E_C02_Raptor_001_NameDetail" korean="" />
+	<block key="E_C02_Hydra_001_Name" korean="Hydra Marsh" />
+	<block key="E_C02_Hydra_001_NameDetail" korean="" />
+	<block key="E_C02_WingSnake_001_Name" korean="Wings rattlesnake" />
+	<block key="E_C02_WingSnake_001_NameDetail" korean="" />
+	<block key="E_C02_Brindle_001_Name" korean="Tiger pattern Parrots" />
+	<block key="E_C02_Brindle_001_NameDetail" korean="" />
+</blocks>

@@ -19,6 +19,7 @@
 #include <string.h>
 #include <locale.h>
 #include <fcntl.h>
+#include <math.h>
 
 #pragma warning (disable: 4819) 
 

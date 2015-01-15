@@ -15,6 +15,8 @@
 
 
 #define PACKET_LEN	1024*64
+#define mychar						pck->me
+#define inv							pck->me->inventory
 
 class PACKET
 {
@@ -40,6 +42,7 @@ public:
 	DATABASE*			sql;						/* ¬µ¬Ь¬С¬Щ¬С¬д¬Ц¬Э¬о ¬Я¬С ¬Ь¬Э¬С¬г¬г ¬Х¬Э¬с ¬в¬С¬Т¬а¬д¬н ¬г ¬ў¬Ґ */
 	CHARACTER*			me;
 	bool				isconndected;
+	FILE*				fg;
 
 private:	
 	SOCKET				socket;
@@ -49,7 +52,7 @@ private:
 	uint32				offset;
 	uint32				offset_snd;
 	char				packet_snd[PACKET_LEN];
-	FILE*				fg;
+	
 	uint16				old_packet_len;
 	uint16				old_offset;
 	bool				onepacketsend;
@@ -69,7 +72,7 @@ public:
 		}
 		catch (char* msg)
 		{
-			log::Error(fg, "PCKHandler: Error at reading. ErrorMsg: %s \n", msg);
+			lg::Error(fg, "PCKHandler: Error at reading. ErrorMsg: %s \n", msg);
 			return NULL;
 		}
 	}
@@ -147,16 +150,23 @@ public:
 		}
 		catch (char* msg)
 		{
-			log::Error(fg, "PCKHandler: Error at writing. ErrorMsg: %s \n", msg);
+			lg::Error(fg, "PCKHandler: Error at writing. ErrorMsg: %s \n", msg);
 		}
 	}
 
 	//====================================================================================
 	// Записывает unicode строку исходя из wcslen
 	//
-	int writeUstr(WCHAR* wc)
+	int writeUstr(WCHAR* wc, bool setlen = false)
 	{
-		int lenwc = wcslen(wc);
+		int16 lenwc = wcslen(wc);
+		if (setlen)
+		{
+			int16 unisize = lenwc;
+			memcpy(&packet_snd[offset_snd], reinterpret_cast<uint16*>(&unisize), sizeof(unisize));
+			offset_snd += sizeof(unisize);
+			unisize -= 2;
+		}
 		memcpy(packet_snd + offset_snd, wc, lenwc * 2 + 2);
 		offset_snd += lenwc*2+2;
 		return lenwc;
@@ -173,9 +183,15 @@ public:
 	//====================================================================================
 	// Записывает ascii строку исходя из strlen
 	//
-	int writeTstr(TCHAR* tc)
+	int writeTstr(TCHAR* tc, bool setlen = false)
 	{
-		int lentc = strlen(tc);
+		int16 lentc = strlen(tc);
+		if (setlen)
+		{
+			memcpy(&packet_snd[offset_snd], reinterpret_cast<uint16*>(&lentc), sizeof(lentc));
+			offset_snd += sizeof(lentc);
+			--lentc;
+		}
 		memcpy(packet_snd + offset_snd, tc, lentc+1);
 		offset_snd += lentc+1;
 		return lentc;

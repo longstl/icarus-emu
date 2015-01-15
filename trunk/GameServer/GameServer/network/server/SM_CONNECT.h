@@ -8,7 +8,6 @@
 inline void SM_CONNECT(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->writeD(0x32);

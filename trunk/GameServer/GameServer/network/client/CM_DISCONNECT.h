@@ -7,10 +7,8 @@
 
 inline void CM_DISCONNECT(PACKET* pck)
 {
-	int16 unk1 = pck->readW();
-	int8 unk2 = pck->readB();
-	SM_DISCONNECT(pck);
-	SM_CHANGE_CHARACTER(pck);
+	int8 unk2 = pck->readB();		// b1 - change char
+	SM_DISCONNECT(pck);	
 }
 
 /*

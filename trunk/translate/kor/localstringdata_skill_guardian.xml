@@ -1,0 +1,1071 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="gd_Absorption_Name" korean="0®´Æ " />
+	<block key="gd_Absorption_Description_1" korean="Á1Á " />
+	<block key="gd_Absorption_Description_2" korean="Á1Á " />
+	<block key="gd_Absorption_Description_3" korean="Á1Á " />
+	<block key="gd_Absorption_Description_4" korean="Á1Á " />
+	<block key="gd_comboslash_Name" korean="3" />
+	<block key="gd_comboslash_Description_1" korean="" />
+	<block key="gd_drawing_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_1" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_2" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_3" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_4" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_5" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_6" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_7" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_8" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_9" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_10" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_11" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_12" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_13" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_14" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_15" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_16" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_17" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_18" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_19" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_Description_20" korean="àÂ1Á\Õ " />
+	<block key="drawing_Name" korean="àÂ1Á\Õ " />
+	<block key="drawing_change_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_holypower_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_holypower_Description_1" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_counteratt_Name" korean="¼©¬" />
+	<block key="gd_counteratt_Description_1" korean="ÈXÇ " />
+	<block key="gd_counteratt_Description_2" korean="ÈXÇ " />
+	<block key="gd_counteratt_Description_3" korean="ÈXÇ " />
+	<block key="gd_counteratt_Description_4" korean="ÈXÇ " />
+	<block key="gd_counteratt_Description_5" korean="ÈXÇ " />
+	<block key="gd_counteratt_Description_6" korean="ÈXÇ " />
+	<block key="gd_courage_Name" korean="©Æ0®XÇ " />
+	<block key="gd_courage_description_1" korean="hÕ1ÁDÇ " />
+	<block key="gd_courage_description_2" korean="hÕ1ÁDÇ " />
+	<block key="gd_courage_description_3" korean="hÕ1ÁDÇ " />
+	<block key="gd_courage_description_4" korean="hÕ1ÁDÇ " />
+	<block key="gd_courage_description_5" korean="hÕ1ÁDÇ " />
+	<block key="gd_deepstab_Name" korean="È¹ÀÉÉ¹ " />
+	<block key="gd_deepstab_Description_1" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_2" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_3" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_4" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_5" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_6" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_7" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_8" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_9" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_10" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_11" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_12" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_13" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_14" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_15" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_16" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_17" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_18" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_19" korean=" °tÎ\¸´Æ " />
+	<block key="gd_deepstab_Description_20" korean=" °tÎ\¸´Æ " />
+	<block key="deepstab_change_Name" korean="È¹ÀÉÉ¹ " />
+	<block key="deepstab_Name" korean="È¹ÀÉÉ¹ " />
+	<block key="gd_holyshield_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_1" korean=")¼(Ó " />
+	<block key="gd_holyshield_Description_2" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_3" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_4" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_5" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_6" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_7" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_8" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_9" korean="àÂ1Á\Õ " />
+	<block key="gd_holyshield_Description_10" korean="àÂ1Á\Õ " />
+	<block key="gd_sacrifice_Name" korean="l×ÝÀ" />
+	<block key="gd_sacrifice_Description_1" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_2" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_3" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_4" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_5" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_6" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_7" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_8" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_9" korean="˜°XÇ " />
+	<block key="gd_sacrifice_Description_10" korean="˜°XÇ " />
+	<block key="gd_defstanceini_Name" korean=")¼´ÅÇ8Á " />
+	<block key="gd_defstanceini_Description_1" korean=")¼´ÅÇ8Á " />
+	<block key="gd_defstanceini_Description_2" korean=")¼´ÅÇ8Á " />
+	<block key="gd_defstanceini_Description_3" korean=")¼´ÅÇ8Á " />
+	<block key="gd_defup_Name" korean=")¼´Å%¸ " />
+	<block key="gd_defup_Description_1" korean="2" />
+	<block key="gd_defup_Description_2" korean="2" />
+	<block key="gd_defup_Description_3" korean="2" />
+	<block key="gd_dexup_Name" korean="ü»©Ì " />
+	<block key="gd_dexup_Description_1" korean="ü»©Ì1ÁDÇ " />
+	<block key="gd_dexup_Description_2" korean="ü»©Ì1ÁDÇ " />
+	<block key="gd_dexup_Description_3" korean="ü»©Ì1ÁDÇ " />
+	<block key="gd_dexup_Description_4" korean="ü»©Ì1ÁDÇ " />
+	<block key="gd_dexup_Description_5" korean="ü»©Ì1ÁDÇ " />
+	<block key="gd_dexup_Description_6" korean="ü»©Ì1ÁDÇ " />
+	<block key="gd_disarming_Name" korean="4»¥Ç " />
+	<block key="gd_disarming_Description_1" korean="" />
+	<block key="gd_disarming_Description_2" korean="" />
+	<block key="gd_disarming_Description_3" korean="" />
+	<block key="gd_doubleslash_Name" korean="ðÅÁ " />
+	<block key="gd_doubleslash_Description_1" korean="" />
+	<block key="gd_doubleslash_Description_2" korean="" />
+	<block key="gd_doubleslash_Description_3" korean="" />
+	<block key="gd_doubleslash_Description_4" korean="" />
+	<block key="gd_doubleslash_Description_5" korean="" />
+	<block key="gd_doubleslash_Description_6" korean="" />
+	<block key="gd_doubleslash_Description_7" korean="" />
+	<block key="gd_doubleslash_Description_8" korean="" />
+	<block key="gd_doubleslash_Description_9" korean="" />
+	<block key="gd_doubleslash_Description_10" korean="" />
+	<block key="gd_doubleslash_Description_11" korean="" />
+	<block key="gd_doubleslash_Description_12" korean="" />
+	<block key="gd_doubleslash_Description_13" korean="" />
+	<block key="gd_doubleslash_Description_14" korean="" />
+	<block key="gd_doubleslash_Description_15" korean="" />
+	<block key="gd_doubleslash_Description_16" korean="" />
+	<block key="gd_doubleslash_Description_17" korean="" />
+	<block key="gd_doubleslash_Description_18" korean="" />
+	<block key="gd_doubleslash_Description_19" korean="" />
+	<block key="gd_doubleslash_Description_20" korean="" />
+	<block key="gd_doubleslash2_Name" korean="ðÅÁ " />
+	<block key="gd_doubleslash2_Description_1" korean="" />
+	<block key="gd_doubleslash2_Description_2" korean="" />
+	<block key="gd_doubleslash2_Description_3" korean="" />
+	<block key="gd_doubleslash2_Description_4" korean="" />
+	<block key="gd_doubleslash2_Description_5" korean="" />
+	<block key="gd_doubleslash2_Description_6" korean="" />
+	<block key="gd_doubleslash2_Description_7" korean="" />
+	<block key="gd_doubleslash2_Description_8" korean="" />
+	<block key="gd_doubleslash2_Description_9" korean="" />
+	<block key="gd_doubleslash2_Description_10" korean="" />
+	<block key="gd_doubleslash2_Description_11" korean="" />
+	<block key="gd_doubleslash2_Description_12" korean="" />
+	<block key="gd_doubleslash2_Description_13" korean="" />
+	<block key="gd_doubleslash2_Description_14" korean="" />
+	<block key="gd_doubleslash2_Description_15" korean="" />
+	<block key="gd_doubleslash2_Description_16" korean="" />
+	<block key="gd_doubleslash2_Description_17" korean="" />
+	<block key="gd_doubleslash2_Description_18" korean="" />
+	<block key="gd_doubleslash2_Description_19" korean="" />
+	<block key="gd_doubleslash2_Description_20" korean="" />
+	<block key="doubleslash_Name" korean="ðÅÁ " />
+	<block key="doubleslash2_Name" korean="ðÅÁ " />
+	<block key="gd_earthdevide_Name" korean="" />
+	<block key="gd_earthdevide_Description_1" korean="4»0®\¸ " />
+	<block key="gd_earthdevide_Description_2" korean="4»0®\¸ " />
+	<block key="gd_earthdevide_Description_3" korean="4»0®\¸ " />
+	<block key="gd_earthdevide_Description_4" korean="4»0®\¸ " />
+	<block key="gd_earthdevide_Description_5" korean="4»0®\¸ " />
+	<block key="gd_earthdevide_Description_6" korean="4»0®\¸ " />
+	<block key="gd_FirAtk_Name" korean="Á1Á " />
+	<block key="gd_FirAtk_Description_1" korean="" />
+	<block key="gd_FirAtk_Description_2" korean="" />
+	<block key="gd_FirAtk_Description_3" korean="" />
+	<block key="gd_FirAtk_Description_4" korean="" />
+	<block key="gd_FirAtk_Description_5" korean="" />
+	<block key="gd_heragrip_Name" korean="äÕ|·tÐ˜·¤ÂXÇ " />
+	<block key="gd_heragrip_Description_1" korean="" />
+	<block key="gd_heragrip_Description_2" korean="" />
+	<block key="gd_heragrip_Description_3" korean="" />
+	<block key="gd_herapower_Name" korean="äÕ|·tÐ˜·¤ÂXÇ " />
+	<block key="gd_herapower_Description_1" korean="ÂÈÉ" />
+	<block key="gd_herapower_Description_2" korean="ÂÈÉ" />
+	<block key="gd_herapower_Description_3" korean="ÂÈÉ" />
+	<block key="gd_heraspirit_Name" korean="äÕ|·tÐ˜·¤ÂXÇ " />
+	<block key="gd_heraspirit_Description_1" korean="ÂÈÉ" />
+	<block key="gd_heraspirit_Description_2" korean="ÂÈÉ" />
+	<block key="gd_heraspirit_Description_3" korean="ÂÈÉ" />
+	<block key="gd_Indure_Name" korean="„¼ðÒ0®" />
+	<block key="gd_Indure_Description_1" korean="1" />
+	<block key="gd_Indure_Description_2" korean="1" />
+	<block key="gd_Indure_Description_3" korean="1" />
+	<block key="gd_InnerPower_Name" korean=" Ç¬Ç " />
+	<block key="gd_InnerPower_Description_1" korean="„½x±|¹ " />
+	<block key="gd_InnerPower_Description_2" korean="„½x±|¹ " />
+	<block key="gd_InnerPower_Description_3" korean="„½x±|¹ " />
+	<block key="gd_kickdown_Name" korean="ä²¬¹ " />
+	<block key="gd_kickdown_Description_1" korean="" />
+	<block key="gd_kickdown_Description_2" korean="" />
+	<block key="gd_kickdown_Description_3" korean="" />
+	<block key="gd_legattack_Name" korean="˜×ˆÇŒ¬(Ì0®" />
+	<block key="gd_legattack_Description_1" korean="" />
+	<block key="gd_legattack_Description_2" korean="" />
+	<block key="gd_legattack_Description_3" korean="" />
+	<block key="gd_legattack_Description_4" korean="" />
+	<block key="gd_legattack_Description_5" korean="" />
+	<block key="gd_footattack_Name" korean="¼(Ì0®" />
+	<block key="gd_footattack_Description_1" korean="" />
+	<block key="gd_footattack_Description_2" korean="" />
+	<block key="gd_footattack_Description_3" korean="" />
+	<block key="gd_footattack_Description_4" korean="" />
+	<block key="gd_footattack_Description_5" korean="" />
+	<block key="gd_footattack_Description_6" korean="" />
+	<block key="gd_footattack_Description_7" korean="" />
+	<block key="gd_footattack_Description_8" korean="" />
+	<block key="gd_footattack_Description_9" korean="" />
+	<block key="gd_footattack_Description_10" korean="" />
+	<block key="gd_footattack_Description_11" korean="" />
+	<block key="gd_footattack_Description_12" korean="" />
+	<block key="gd_footattack_Description_13" korean="" />
+	<block key="gd_footattack_Description_14" korean="" />
+	<block key="gd_footattack_Description_15" korean="" />
+	<block key="gd_footattack_Description_16" korean="" />
+	<block key="gd_footattack_Description_17" korean="" />
+	<block key="gd_footattack_Description_18" korean="" />
+	<block key="gd_footattack_Description_19" korean="" />
+	<block key="gd_footattack_Description_20" korean="" />
+	<block key="upperatt_change1_Name" korean="¼(Ì0®" />
+	<block key="footattack_Name" korean="¼(Ì0®" />
+	<block key="gd_shielddefend_Name" korean=")¼(Ó " />
+	<block key="gd_shielddefend_Description_1" korean="2" />
+	<block key="gd_shielddefend_Description_2" korean="2" />
+	<block key="gd_shielddefend_Description_3" korean="2" />
+	<block key="gd_shielddefend_Description_4" korean="2" />
+	<block key="gd_shielddefend_Description_5" korean="2" />
+	<block key="gd_shielddefend_Description_6" korean="2" />
+	<block key="gd_shielddefend_Description_7" korean="2" />
+	<block key="gd_shielddefend_Description_8" korean="2" />
+	<block key="gd_shielddefend_Description_9" korean="2" />
+	<block key="gd_shielddefend_Description_10" korean="2" />
+	<block key="gd_swordforce_Name" korean="€¬0®" />
+	<block key="gd_swordforce_Description_1" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_2" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_3" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_4" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_5" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_6" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_7" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_8" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_9" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_10" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_11" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_12" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_13" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_14" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_15" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_16" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_17" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_18" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_19" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce_Description_20" korean="ÐÆp¬¬¹ " />
+	<block key="gd_swordforce2_Name" korean="€¬0® " />
+	<block key="gd_holystiff_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_holystiff_Description_1" korean="<" />
+	<block key="gd_holystiff_Description_2" korean="<" />
+	<block key="gd_holystiff_Description_3" korean="<" />
+	<block key="gd_holystiff_Description_4" korean="<" />
+	<block key="gd_holystiff_Description_5" korean="<" />
+	<block key="gd_holystiff_Description_6" korean="<" />
+	<block key="gd_holystiff_Description_7" korean="<" />
+	<block key="gd_holystiff_Description_8" korean="<" />
+	<block key="gd_holystiff_Description_9" korean="<" />
+	<block key="gd_holystiff_Description_10" korean="<" />
+	<block key="gd_holystiff_Description_11" korean="<" />
+	<block key="gd_holystiff_Description_12" korean="<" />
+	<block key="gd_holystiff_Description_13" korean="<" />
+	<block key="gd_holystiff_Description_14" korean="<" />
+	<block key="gd_holystiff_Description_15" korean="<" />
+	<block key="gd_holystiff_Description_16" korean="<" />
+	<block key="gd_holystiff_Description_17" korean="<" />
+	<block key="gd_holystiff_Description_18" korean="<" />
+	<block key="gd_holystiff_Description_19" korean="<" />
+	<block key="gd_holystiff_Description_20" korean="<" />
+	<block key="gd_wpbroken_Name" korean="4»0® " />
+	<block key="gd_wpbroken_Description_1" korean="" />
+	<block key="gd_wpbroken_Description_2" korean="" />
+	<block key="gd_wpbroken_Description_3" korean="" />
+	<block key="gd_wpbroken_Description_4" korean="" />
+	<block key="gd_wpbroken_Description_5" korean="" />
+	<block key="gd_wpbroken_Description_6" korean="" />
+	<block key="gd_wpbroken_Description_7" korean="" />
+	<block key="gd_wpbroken_Description_8" korean="" />
+	<block key="gd_wpbroken_Description_9" korean="" />
+	<block key="gd_wpbroken_Description_10" korean="" />
+	<block key="gd_shieldpush_Name" korean=")¼(Ó " />
+	<block key="gd_shieldpush_Description_1" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_2" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_3" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_4" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_5" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_6" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_7" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_8" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_9" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_10" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_11" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_12" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_13" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_14" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_15" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_16" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_17" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_18" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_19" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldpush_Description_20" korean=")¼(Ó|¹ " />
+	<block key="gd_mindatt_Name" korean="ÈàÂ " />
+	<block key="gd_mindatt_Description_1" korean="" />
+	<block key="gd_mindatt_Description_2" korean="" />
+	<block key="gd_mindatt_Description_3" korean="" />
+	<block key="gd_mindatt_Description_4" korean="" />
+	<block key="gd_nerveblock_Name" korean="àÂ½¬ " />
+	<block key="gd_nerveblock_Description_1" korean="3" />
+	<block key="gd_nerveblock_Description_2" korean="3" />
+	<block key="gd_nerveblock_Description_3" korean="3" />
+	<block key="gd_nerveblock_Description_4" korean="3" />
+	<block key="gd_parry_Name" korean="ÐÌ´°0®" />
+	<block key="gd_parry_Description_1" korean="" />
+	<block key="gd_parry_Description_2" korean="" />
+	<block key="gd_parry_Description_3" korean="" />
+	<block key="gd_parry_Description_4" korean="" />
+	<block key="gd_hack_Name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_hack_Description_1" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_2" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_3" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_4" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_5" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_6" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_7" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_8" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_9" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_10" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_11" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_12" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_13" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_14" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_15" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_16" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_17" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_18" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_19" korean="Â¬ÈxÇ " />
+	<block key="gd_hack_Description_20" korean="Â¬ÈxÇ " />
+	<block key="hack1_1_Name" korean="œ°Ä³ÈÉ" />
+	<block key="hack1_2_Name" korean="œ°Ä³ÈÉ" />
+	<block key="hack1_3_Name" korean="œ°Ä³ÈÉ" />
+	<block key="hack1_4_Name" korean="œ°Ä³ÈÉ" />
+	<block key="hack1_5_Name" korean="œ°Ä³ÈÉ" />
+	<block key="hack1_6_Name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_piercingheart_Name" korean="ìÂ¥Ç " />
+	<block key="gd_piercingheart_Description_1" korean="" />
+	<block key="gd_piercingheart_Description_2" korean="" />
+	<block key="gd_piercingheart_Description_3" korean="" />
+	<block key="gd_piercingheart_Description_4" korean="" />
+	<block key="gd_piercingheart_Description_5" korean="" />
+	<block key="gd_provoke_Name" korean="Ä³¼" />
+	<block key="gd_provoke_Description_1" korean="" />
+	<block key="gd_provoke_Description_2" korean="" />
+	<block key="gd_provoke_Description_3" korean="" />
+	<block key="gd_roar_Name" korean="¬ÀÇÄÖ" />
+	<block key="gd_roar_Description_1" korean="È " />
+	<block key="gd_roar_Description_2" korean="È " />
+	<block key="gd_roar_Description_3" korean="È " />
+	<block key="gd_ShoulderAtk_Name" korean="´Åh® " />
+	<block key="gd_ShoulderAtk_Description_1" korean="" />
+	<block key="gd_ShoulderAtk_Description_2" korean="" />
+	<block key="gd_ShoulderAtk_Description_3" korean="" />
+	<block key="gd_ShoulderAtk_Description_4" korean="" />
+	<block key="gd_ShoulderAtk_Description_5" korean="" />
+	<block key="gd_ShoulderAtk_Description_6" korean="" />
+	<block key="gd_ShoulderAtk_Description_7" korean="" />
+	<block key="gd_ShoulderAtk_Description_8" korean="" />
+	<block key="gd_ShoulderAtk_Description_9" korean="" />
+	<block key="gd_ShoulderAtk_Description_10" korean="" />
+	<block key="gd_shoulderpush_Name" korean="" />
+	<block key="gd_shoulderpush_Description_1" korean="3" />
+	<block key="gd_shoulderpush_Description_2" korean="3" />
+	<block key="gd_shoulderpush_Description_3" korean="3" />
+	<block key="gd_shoulderpush_Description_4" korean="3" />
+	<block key="gd_soccerkick_Name" korean="¬ÀäÎ¥Ð" />
+	<block key="gd_soccerkick_Description_1" korean="±´ÅÄÉ " />
+	<block key="gd_soccerkick_Description_2" korean="±´ÅÄÉ " />
+	<block key="gd_soccerkick_Description_3" korean="±´ÅÄÉ " />
+	<block key="gd_spiritslash_Name" korean="Æ<Ö ¼0®" />
+	<block key="gd_spiritslash_Description_1" korean="" />
+	<block key="gd_spiritslash_Description_2" korean="" />
+	<block key="gd_spiritslash_Description_3" korean="" />
+	<block key="gd_strong_Name" korean="8ÁŒ¬ " />
+	<block key="gd_strong_Description_1" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_2" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_3" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_4" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_5" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_6" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_7" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_8" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_9" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_10" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_11" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_12" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_13" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_14" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_15" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_16" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_17" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_18" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_strong_Description_19" korean="¬%¸XÕŒ¬ " />
+	<block key="gd_finishatk_Name" korean="\ÍÄÖXÇ " />
+	<block key="gd_finishatk_Description_1" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_2" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_3" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_4" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_5" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_6" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_7" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_8" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_9" korean="ä²´Æ´ " />
+	<block key="gd_finishatk_Description_10" korean="ä²´Æ´ " />
+	<block key="gd_strongatk_Name" korean=",Æ$¸ " />
+	<block key="gd_strongatk_Description_1" korean="" />
+	<block key="gd_strongatk_Description_2" korean="" />
+	<block key="gd_strongatk_Description_3" korean="" />
+	<block key="gd_strongatk_Description_4" korean="" />
+	<block key="gd_strongatk_Description_5" korean="" />
+	<block key="gd_strongatk_Description_6" korean="" />
+	<block key="gd_strongatk_Description_7" korean="" />
+	<block key="gd_strongatk_Description_8" korean="" />
+	<block key="gd_strongatk_Description_9" korean="" />
+	<block key="gd_strongatk_Description_10" korean="" />
+	<block key="gd_strongatk_Description_11" korean="" />
+	<block key="gd_strongatk_Description_12" korean="" />
+	<block key="gd_strongatk_Description_13" korean="" />
+	<block key="gd_strongatk_Description_14" korean="" />
+	<block key="gd_strongatk_Description_15" korean="" />
+	<block key="gd_strongatk_Description_16" korean="" />
+	<block key="gd_strongatk_Description_17" korean="" />
+	<block key="gd_strongatk_Description_18" korean="" />
+	<block key="gd_strongatk_Description_19" korean="" />
+	<block key="gd_strongatk_Description_20" korean="" />
+	<block key="strongatk_Name" korean=",Æ$¸ " />
+	<block key="gd_strongbody_Name" korean="s­t¬\Õ " />
+	<block key="gd_strongbody_Description_1" korean="\Í" />
+	<block key="gd_strongbody_Description_2" korean="\Í" />
+	<block key="gd_strongbody_Description_3" korean="\Í" />
+	<block key="gd_strongbody_Description_4" korean="\Í" />
+	<block key="gd_strongbody_Description_5" korean="\Í" />
+	<block key="gd_strongbody_Description_6" korean="\Í" />
+	<block key="gd_strongbody_Description_7" korean="\Í" />
+	<block key="gd_strup_Name" korean="˜× " />
+	<block key="gd_strup_Description_1" korean="˜×DÇ " />
+	<block key="gd_strup_Description_2" korean="˜×DÇ " />
+	<block key="gd_strup_Description_3" korean="˜×DÇ " />
+	<block key="gd_strup_Description_4" korean="˜×DÇ " />
+	<block key="gd_strup_Description_5" korean="˜×DÇ " />
+	<block key="gd_strup_Description_6" korean="˜×DÇ " />
+	<block key="gd_swdwind_Name" korean="€¬0® " />
+	<block key="gd_swdwind_Description_1" korean="4»0®ÐÅ " />
+	<block key="gd_swdwind_Description_2" korean="4»0®ÐÅ " />
+	<block key="gd_swdwind_Description_3" korean="4»0®ÐÅ " />
+	<block key="gd_swdwind_Description_4" korean="4»0®ÐÅ " />
+	<block key="gd_swdwind_Description_5" korean="4»0®ÐÅ " />
+	<block key="gd_SwingAtk_Name" korean="×P´t¹0®" />
+	<block key="gd_SwingAtk_Description_1" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_2" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_3" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_4" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_5" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_6" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_7" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_8" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_9" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_SwingAtk_Description_10" korean="‘ÅÁ€¬DÇ " />
+	<block key="gd_swordhurri_Name" korean="€¬0® " />
+	<block key="gd_swordhurri_Description_1" korean="€¬0® " />
+	<block key="gd_swordhurri_Description_2" korean="€¬0® " />
+	<block key="gd_swordhurri_Description_3" korean="€¬0® " />
+	<block key="gd_SwordShield_Name" korean="|Î ° " />
+	<block key="gd_SwordShield_Description_1" korean="|ÇÈ " />
+	<block key="gd_SwordShield_Description_2" korean="|ÇÈ " />
+	<block key="gd_SwordShield_Description_3" korean="|ÇÈ " />
+	<block key="gd_SwordShield_Description_4" korean="|ÇÈ " />
+	<block key="gd_defstance_Name" korean=")¼´Å " />
+	<block key="gd_defstance_Description_1" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_2" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_3" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_4" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_5" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_6" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_7" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_8" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_9" korean=")¼´ÅÈxÇ " />
+	<block key="gd_defstance_Description_10" korean=")¼´ÅÈxÇ " />
+	<block key="gd_strongatklink_Name" korean="±´Å¸Ò¬¹0®" />
+	<block key="gd_strongatklink_Description_1" korean="<" />
+	<block key="gd_strongatklink_Description_2" korean="<" />
+	<block key="gd_strongatklink_Description_3" korean="<" />
+	<block key="gd_strongatklink_Description_4" korean="<" />
+	<block key="gd_strongatklink_Description_5" korean="<" />
+	<block key="gd_strongatklink_Description_6" korean="<" />
+	<block key="gd_strongatklink_Description_7" korean="<" />
+	<block key="gd_strongatklink_Description_8" korean="<" />
+	<block key="gd_strongatklink_Description_9" korean="<" />
+	<block key="gd_strongatklink_Description_10" korean="<" />
+	<block key="gd_throwweapon_Name" korean="4»0® " />
+	<block key="gd_throwweapon_Description_1" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_2" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_3" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_4" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_5" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_6" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_7" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_8" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_9" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_10" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_11" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_12" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_13" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_14" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_15" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_16" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_17" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_18" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_19" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_throwweapon_Description_20" korean="@º¬¹ˆÇ”² " />
+	<block key="gd_annoyingatt_Name" korean="1Á" />
+	<block key="gd_annoyingatt_description_1" korean="" />
+	<block key="gd_annoyingatt_description_2" korean="" />
+	<block key="gd_annoyingatt_description_3" korean="" />
+	<block key="gd_annoyingatt_description_4" korean="" />
+	<block key="gd_annoyingatt_description_5" korean="" />
+	<block key="gd_fearatt_Name" korean="õ¬ìÓXÇ " />
+	<block key="gd_fearatt_description_1" korean="" />
+	<block key="gd_fearatt_description_2" korean="" />
+	<block key="gd_fearatt_description_3" korean="" />
+	<block key="gd_fearatt_description_4" korean="" />
+	<block key="gd_shoulderatk1_Name" korean="´Åh® " />
+	<block key="gd_shoulderatk1_description_1" korean="" />
+	<block key="gd_1handaxe_Name" korean="\ÕÁ " />
+	<block key="gd_1handaxe_description_1" korean="\ÕÁ " />
+	<block key="gd_1handblunt_Name" korean="\ÕÁ " />
+	<block key="gd_1handblunt_description_1" korean="\ÕÁ " />
+	<block key="gd_1handsword_Name" korean="\ÕÁ " />
+	<block key="gd_1handsword_description_1" korean="\ÕÁ " />
+	<block key="gd_2handaxe_Name" korean="‘ÅÁ " />
+	<block key="gd_2handaxe_description_1" korean="‘ÅÁ " />
+	<block key="gd_2handblunt_Name" korean="‘ÅÁ " />
+	<block key="gd_2handblunt_description_1" korean="‘ÅÁ " />
+	<block key="gd_2handsword_Name" korean="‘ÅÁ " />
+	<block key="gd_2handsword_description_1" korean="‘ÅÁ " />
+	<block key="gd_chain_Name" korean="½¬¬ " />
+	<block key="gd_chain_description_1" korean="½¬¬ " />
+	<block key="gd_cloth_Name" korean="\¸¾ " />
+	<block key="gd_cloth_description_1" korean="\¸¾ " />
+	<block key="gd_dagger_Name" korean="è²€¬ " />
+	<block key="gd_dagger_description_1" korean="è²€¬DÇ " />
+	<block key="gd_duelweapon_Name" korean="ÃÂ " />
+	<block key="gd_duelweapon_description_1" korean="‘ÅÁÐÅ " />
+	<block key="gd_leather_Name" korean="tº¬ " />
+	<block key="gd_leather_description_1" korean="tº¬ " />
+	<block key="gd_plate_Name" korean="É¬ " />
+	<block key="gd_plate_description_1" korean="É¬ " />
+	<block key="gd_shield_Name" korean=")¼(Ó " />
+	<block key="gd_shield_description_1" korean=")¼(Ó|¹ " />
+	<block key="gd_shieldsmash_Name" korean=")¼(ÓXÎ0®" />
+	<block key="gd_shieldsmash_description_1" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_2" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_3" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_4" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_5" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_6" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_7" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_8" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_9" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_10" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_11" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_12" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_13" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_14" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_15" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_16" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_17" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_18" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_19" korean=")¼(Ó\¸ " />
+	<block key="gd_shieldsmash_description_20" korean=")¼(Ó\¸ " />
+	<block key="shieldsmash_change_Name" korean="<" />
+	<block key="shieldsmash_Name" korean=")¼(ÓXÎ0®" />
+	<block key="gd_3combo_2_Name" korean="3" />
+	<block key="gd_3combo_2_description_1" korean="3" />
+	<block key="gd_3combo_3_Name" korean="3" />
+	<block key="gd_3combo_3_description_1" korean="3" />
+	<block key="gd_areaprovoke_Name" korean="ÆíÅÄ³¼" />
+	<block key="gd_areaprovoke_description_1" korean="|ÇÈ " />
+	<block key="gd_areaprovoke_description_2" korean="|ÇÈ " />
+	<block key="gd_areaprovoke_description_3" korean="|ÇÈ " />
+	<block key="gd_blockatt_Name" korean="(Ìè²XÇ " />
+	<block key="gd_blockatt_description_1" korean="ÐÌ´°0®|¹ " />
+	<block key="gd_blockatt_description_2" korean="ÐÌ´°0®|¹ " />
+	<block key="gd_blockatt_description_3" korean="ÐÌ´°0®|¹ " />
+	<block key="gd_bodyup_Name" korean="àÂ´Ì " />
+	<block key="gd_bodyup_description_1" korean="ÇàÂXÇ " />
+	<block key="gd_bodyup_description_2" korean="ÇàÂXÇ " />
+	<block key="gd_bodyup_description_3" korean="ÇàÂXÇ " />
+	<block key="gd_damweakatt_Name" korean="õ¬©¬%¸ " />
+	<block key="gd_damweakatt_description_1" korean="È " />
+	<block key="gd_damweakatt_description_2" korean="È " />
+	<block key="gd_damweakatt_description_3" korean="È " />
+	<block key="gd_instantslash_Name" korean="Â¬ " />
+	<block key="gd_instantslash_description_1" korean="" />
+	<block key="gd_instantslash_description_2" korean="¼(Ì0®XÇ " />
+	<block key="gd_instantslash_description_3" korean="¼(Ì0®XÇ " />
+	<block key="gd_luckyatt_Name" korean="”Æ‰ÕXÇ " />
+	<block key="gd_luckyatt_description_1" korean="" />
+	<block key="gd_luckyatt_description_2" korean="" />
+	<block key="gd_luckyatt_description_3" korean="" />
+	<block key="gd_blessofcombat_Name" korean="È,ÒXÇ " />
+	<block key="gd_blessofcombat_description_1" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_2" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_3" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_4" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_5" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_6" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_7" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_8" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_9" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombat_description_10" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_Name" korean="ÀÉ¥²XÇ " />
+	<block key="gd_blessofint_description_1" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_2" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_3" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_4" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_5" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_6" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_7" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_8" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_9" korean="ÇàÂtÇ " />
+	<block key="gd_blessofint_description_10" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_Name" korean=")¼´ÅXÇ " />
+	<block key="gd_blessofdefense_description_1" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_2" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_3" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_4" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_5" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_6" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_7" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_8" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_9" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefense_description_10" korean="ÇàÂtÇ " />
+	<block key="gd_protecthowl_Name" korean="ô¼8ÖXÇ " />
+	<block key="gd_protecthowl_description_1" korean="|ÇÈ " />
+	<block key="gd_protecthowl_description_2" korean="|ÇÈ " />
+	<block key="gd_protecthowl_description_3" korean="|ÇÈ " />
+	<block key="gd_upperatt_Name" korean="ÈUÅXÇ " />
+	<block key="gd_upperatt_description_1" korean="" />
+	<block key="gd_upperatt_description_2" korean="" />
+	<block key="gd_upperatt_description_3" korean="" />
+	<block key="gd_upperatt_description_4" korean="" />
+	<block key="gd_upperatt_description_5" korean="" />
+	<block key="gd_upperatt_description_6" korean="" />
+	<block key="gd_upperatt_description_7" korean="" />
+	<block key="gd_upperatt_description_8" korean="" />
+	<block key="gd_upperatt_description_9" korean="" />
+	<block key="gd_upperatt_description_10" korean="" />
+	<block key="gd_upperatt_description_11" korean="" />
+	<block key="gd_upperatt_description_12" korean="" />
+	<block key="gd_upperatt_description_13" korean="" />
+	<block key="gd_upperatt_description_14" korean="" />
+	<block key="gd_upperatt_description_15" korean="" />
+	<block key="gd_upperatt_description_16" korean="" />
+	<block key="gd_upperatt_description_17" korean="" />
+	<block key="gd_upperatt_description_18" korean="" />
+	<block key="gd_upperatt_description_19" korean="" />
+	<block key="gd_upperatt_description_20" korean="" />
+	<block key="gd_upperatt_change_Name" korean="ÈUÅXÇ " />
+	<block key="upperatt_chcange_name" korean="ÈUÅXÇ " />
+	<block key="gd_weakatt_Name" korean="}ÅTÖXÇ " />
+	<block key="gd_weakatt_description_1" korean="ÈXÇ " />
+	<block key="gd_weakatt_description_2" korean="ÈXÇ " />
+	<block key="gd_weakatt_description_3" korean="ÈXÇ " />
+	<block key="gd_warmastery_Name" korean="È,Ò " />
+	<block key="gd_warmastery_description_1" korean="È,Ò " />
+	<block key="gd_destroymastery_Name" korean="Ó4­ " />
+	<block key="gd_destroymastery_description_1" korean="Ó4­ÈxÇ " />
+	<block key="gd_protectmastery_Name" korean="Â8Ö " />
+	<block key="gd_protectmastery_description_1" korean="Â8ÖÈxÇ " />
+	<block key="gd_heavy_Name" korean="É¬ " />
+	<block key="gd_heavy_description_1" korean="É¬DÇ " />
+	<block key="gd_holychain_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_holychain_description_1" korean="" />
+	<block key="gd_holychain_description_2" korean="" />
+	<block key="gd_holychain_description_3" korean="" />
+	<block key="gd_holychain_description_4" korean="" />
+	<block key="gd_holychain_description_5" korean="" />
+	<block key="gd_holychain_description_6" korean="" />
+	<block key="gd_holychain_description_7" korean="" />
+	<block key="gd_holychain_description_8" korean="" />
+	<block key="gd_holychain_description_9" korean="" />
+	<block key="gd_holychain_description_10" korean="" />
+	<block key="gd_holychain_description_11" korean="" />
+	<block key="gd_holychain_description_12" korean="" />
+	<block key="gd_holychain_description_13" korean="" />
+	<block key="gd_holychain_description_14" korean="" />
+	<block key="gd_holychain_description_15" korean="" />
+	<block key="gd_stun_condition_Name" korean="¤Â4Ñ " />
+	<block key="gd_stun_condition_description_1" korean="" />
+	<block key="gd_stun_condition_description_2" korean="" />
+	<block key="gd_stun_condition_description_3" korean="" />
+	<block key="gd_stun_condition_description_4" korean="" />
+	<block key="gd_stun_condition_description_5" korean="" />
+	<block key="gd_stun_condition_description_6" korean="" />
+	<block key="gd_stun_condition_description_7" korean="" />
+	<block key="gd_stun_condition_description_8" korean="" />
+	<block key="gd_stun_condition_description_9" korean="" />
+	<block key="gd_stun_condition_description_10" korean="" />
+	<block key="gd_defen_crash_Name" korean=")¼´Ål­ " />
+	<block key="gd_defen_crash_description_1" korean="<" />
+	<block key="gd_defen_crash_description_2" korean="<" />
+	<block key="gd_defen_crash_description_3" korean="<" />
+	<block key="gd_defen_crash_description_4" korean="<" />
+	<block key="gd_defen_crash_description_5" korean="<" />
+	<block key="gd_defen_crash_description_6" korean="<" />
+	<block key="gd_defen_crash_description_7" korean="<" />
+	<block key="gd_defen_crash_description_8" korean="<" />
+	<block key="gd_defen_crash_description_9" korean="<" />
+	<block key="gd_defen_crash_description_10" korean="<" />
+	<block key="gd_holyweb_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_holyweb_description_1" korean="¼½¬ " />
+	<block key="gd_holyweb_description_2" korean="¼½¬ " />
+	<block key="gd_holyweb_description_3" korean="¼½¬ " />
+	<block key="gd_holyweb_description_4" korean="¼½¬ " />
+	<block key="gd_holyweb_description_5" korean="¼½¬ " />
+	<block key="gd_holyweb_description_6" korean="¼½¬ " />
+	<block key="gd_holyweb_description_7" korean="¼½¬ " />
+	<block key="gd_holyweb_description_8" korean="¼½¬ " />
+	<block key="gd_holyweb_description_9" korean="¼½¬ " />
+	<block key="gd_holyweb_description_10" korean="¼½¬ " />
+	<block key="gd_holyweb_description_11" korean="¼½¬ " />
+	<block key="gd_holyweb_description_12" korean="¼½¬ " />
+	<block key="gd_holyweb_description_13" korean="¼½¬ " />
+	<block key="gd_holyweb_description_14" korean="¼½¬ " />
+	<block key="gd_holyweb_description_15" korean="¼½¬ " />
+	<block key="gd_holyweb_description_16" korean="¼½¬ " />
+	<block key="gd_holyweb_description_17" korean="¼½¬ " />
+	<block key="gd_holyweb_description_18" korean="¼½¬ " />
+	<block key="gd_holyweb_description_19" korean="¼½¬ " />
+	<block key="gd_holyweb_description_20" korean="¼½¬ " />
+	<block key="gd_normalattack_Name" korean="ÇÙ³ " />
+	<block key="gd_normalattack_description_1" korean="" />
+	<block key="gd_holyweblink_Name" korean="ô¼8ÖXÇ " />
+	<block key="gd_holyweblink_description_1" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_2" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_3" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_4" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_5" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_6" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_7" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_8" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_9" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_10" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_11" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_12" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_13" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_14" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_15" korean=")¼(Ó\¸ " />
+	<block key="gd_holyweblink_description_16" korean=")¼(Ó\¸ " />
+	<block key="gd_judgment_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_1" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_2" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_3" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_4" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_5" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_6" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_7" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_8" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_9" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment_Description_10" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_ dancingsword_name" korean="¤Í”Í”² " />
+	<block key="gd_ dancingsword_Description_1" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_2" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_3" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_4" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_5" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_6" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_7" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_8" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_9" korean="Â¬ " />
+	<block key="gd_ dancingsword_Description_10" korean="Â¬ " />
+	<block key="gd_dancingsword2_Name" korean="¤Í”Í”² " />
+	<block key="gd_dancingsword3_Name" korean="¤Í”Í”² " />
+	<block key="gd_dancingsword4_Name" korean="¤Í”Í”² " />
+	<block key="gd_dancingsword5_Name" korean="¤Í”Í”² " />
+	<block key="dancingsword_name" korean="¤Í”Í”² " />
+	<block key="dancingsword2_Name" korean="¤Í”Í”² " />
+	<block key="dancingsword3_Name" korean="¤Í”Í”² " />
+	<block key="dancingsword4_Name" korean="¤Í”Í”² " />
+	<block key="dancingsword5_Name" korean="¤Í”Í”² " />
+	<block key="strongatk_change_name" korean="<" />
+	<block key="upperatt_change_name" korean="<" />
+	<block key="holyweb_name" korean="àÂ1Á\Õ " />
+	<block key="holychain_Name" korean="àÂ1Á\Õ " />
+	<block key="gd_judgment2_Name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment1_Name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment3_Name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment3_1_Name" korean="ØÅ\¸|·XÇ " />
+	<block key="strongatk_change1_Name" korean=",Æ$¸XÎ0®" />
+	<block key="upperatt_change2_Name" korean="ÈUÅXÇ " />
+	<block key="gd_hack2_Name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_hack3_Name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_hack4_Name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_hack5_Name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_hack6_Name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_shielddash_Name" korean=")¼(Ó " />
+	<block key="gd_shielddash3_Name" korean=")¼(Ó " />
+	<block key="gd_shielddash2_Name" korean=")¼(Ó " />
+	<block key="gd_shielddash4_Name" korean=")¼(Ó " />
+	<block key="gd_shielddash_Description_1" korean="" />
+	<block key="gd_shielddash_Description_2" korean="" />
+	<block key="gd_shielddash_Description_3" korean="" />
+	<block key="gd_counteratk1_Name" korean=" °tÎ\¸´Æ " />
+	<block key="gd_counteratk1_Description_1" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_2" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_3" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_4" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_5" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_6" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_7" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_8" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_9" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk1_Description_10" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Name" korean=" °tÎ\¸´Æ " />
+	<block key="gd_counteratk_Description_1" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_2" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_3" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_4" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_5" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_6" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_7" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_8" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_9" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk_Description_10" korean="ÇàÂtÇ " />
+	<block key="gd_counteratk2_Name" korean=" °tÎ\¸´Æ " />
+	<block key="shielddefend_linkmp1_Name" korean=")¼(Ó " />
+	<block key="shielddefend_linkmp1_Description_1" korean=")¼(ÓXÇ " />
+	<block key="gd_shielddashatk1_Name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk1_description_1" korean=")¼(Ó|¹ " />
+	<block key="gd_skillbook1_name" korean="!Ç´Ì " />
+	<block key="gd_skillbook2_name" korean="è²è²\Õ " />
+	<block key="gd_skillbook1_Description_1" korean="" />
+	<block key="gd_skillbook2_Description_1" korean="" />
+	<block key="gd_shielddashatk2_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk3_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk4_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk5_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk6_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk7_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk8_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_boardbuffskill_Name" korean="[" />
+	<block key="gd_boardbuffskill_description_1" korean="ÑÐ¹Â " />
+	<block key="gd_rageslash_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslash2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslash3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslash4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslash5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslash6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashr1_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashr2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashr3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashr4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashr5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashr6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashg1_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashg2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashg3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashg4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashg5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashg6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashb1_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashb2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashb3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashb4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashb5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashb6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrg1_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrg2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrg3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrg4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrg5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrg6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrb1_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrb2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrb3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrb4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrb5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrb6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashgb1_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashgb2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashgb3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashgb4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashgb5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashgb6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrgb1_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrgb2_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrgb3_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrgb4_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrgb5_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslashrgb6_name" korean="íÓÔXÇ " />
+	<block key="gd_rageslash_description_1" korean="Â¬È<Ç\¸ " />
+	<block key="gd_blessofdefenselc_Name" korean="[" />
+	<block key="gd_blessofdefenselc_description_1" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_2" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_3" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_4" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_5" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_6" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_7" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_8" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_9" korean="ÇàÂtÇ " />
+	<block key="gd_blessofdefenselc_description_10" korean="ÇàÂtÇ " />
+	<block key="gd_holyweblc_Name" korean="[" />
+	<block key="gd_holyweblc_description_1" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_2" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_3" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_4" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_5" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_6" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_7" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_8" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_9" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_10" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_11" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_12" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_13" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_14" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_15" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_16" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_17" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_18" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_19" korean="¼½¬ " />
+	<block key="gd_holyweblc_description_20" korean="¼½¬ " />
+	<block key="gd_drawinglc_Name" korean="[" />
+	<block key="gd_drawinglc_Description_1" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_2" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_3" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_4" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_5" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_6" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_7" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_8" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_9" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_10" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_11" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_12" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_13" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_14" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_15" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_16" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_17" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_18" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_19" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_Description_20" korean="àÂ1Á\Õ " />
+	<block key="drawinglc_change_Name" korean="[" />
+	<block key="gd_judgmentlc_name" korean="[" />
+	<block key="gd_judgmentlc_Description_1" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_2" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_3" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_4" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_5" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_6" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_7" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_8" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_9" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgmentlc_Description_10" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment1lc_Name" korean="[" />
+	<block key="gd_judgment2lc_Name" korean="[" />
+	<block key="gd_judgment3lc_Name" korean="[" />
+	<block key="gd_blessofcombatlc_Name" korean="[" />
+	<block key="gd_blessofcombatlc_description_1" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_2" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_3" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_4" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_5" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_6" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_7" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_8" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_9" korean="ÇàÂtÇ " />
+	<block key="gd_blessofcombatlc_description_10" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_Name" korean="[" />
+	<block key="gd_blessofintlc_description_1" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_2" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_3" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_4" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_5" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_6" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_7" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_8" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_9" korean="ÇàÂtÇ " />
+	<block key="gd_blessofintlc_description_10" korean="ÇàÂtÇ " />
+	<block key="shielddefendmp_link_Name" korean=")¼(Ó " />
+	<block key="gd_newbies01_Name" korean="ìÅàÂXÇ " />
+	<block key="gd_newbies01_Description_1" korean="ØÅ\¸|· " />
+	<block key="gd_armormax_name" korean=")¼´Åù­" />
+	<block key="gd_armormax_description_1" korean="àÂ1Á\Õ " />
+	<block key="rs_gd_holyweb_description" korean="<" />
+	<block key="gd_skillbook3_name" korean="´Ì%¸ " />
+	<block key="gd_skillbook3_Description_1" korean="" />
+	<block key="gd_shieldpoint_Name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldpoint_Description_1" korean="àÂ1Á\Õ " />
+	<block key="gd_shieldpointlink_Name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldatt_Name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldatt_description_1" korean=")¼(Ó\¸ " />
+	<block key="gd_guardatt_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattg_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattgb_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattb_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattr_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrg_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrgb_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrb_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardatt2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattg2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattgb2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattb2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattr2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrg2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrgb2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrb2_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardatt3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattg3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattgb3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattb3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattr3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrg3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrgb3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardattrb3_name" korean="Â8ÖXÇ " />
+	<block key="gd_guardatt_description_1" korean=")¼(ÓXÇ " />
+	<block key="gd_shieldmark_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarklink_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarkg_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarkgb_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarkb_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarkr_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarkrg_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarkrgb_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmarkrb_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkg_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkgb_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkb_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkr_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrg_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrgb_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrb_name" korean="Â8ÖXÇ " />
+	<block key="gd_shieldmark_description_1" korean="ÈÐÅŒ¬ " />
+	<block key="gd_glory_name" korean="" />
+	<block key="gd_glory_description_1" korean="" />
+	<block key="gd_glory_description_2" korean="" />
+	<block key="gd_glory_description_3" korean="" />
+	<block key="gd_glory_description_4" korean="" />
+	<block key="gd_glory_description_5" korean="" />
+	<block key="gd_glory_description_6" korean="" />
+	<block key="gd_glory_description_7" korean="" />
+	<block key="gd_glory_description_8" korean="" />
+	<block key="gd_glory_description_9" korean="" />
+	<block key="gd_glory_description_10" korean="" />
+	<block key="gd_holyshieldlink_name" korean="àÂ1Á\Õ " />
+	<block key="holyshieldlink_name" korean="àÂ1Á\Õ " />
+</blocks>

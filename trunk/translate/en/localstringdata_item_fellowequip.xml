@@ -1,0 +1,138 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="fq_01_fk_0001_name" korean="Claws of an ordinary Shenron" />
+	<block key="fq_01_sl_0001_name" korean="Saddle ordinary Shenron" />
+	<block key="fq_01_ar_0001_name" korean="Younghonseok ordinary Shenron" />
+	<block key="fq_02_fk_0001_name" korean="Claws of the outstanding Shenron" />
+	<block key="fq_02_sl_0001_name" korean="Saddle outstanding Shenron" />
+	<block key="fq_02_ar_0001_name" korean="Younghonseok outstanding Shenron" />
+	<block key="fq_03_fk_0001_name" korean="Claws of rare Shenron" />
+	<block key="fq_03_sl_0001_name" korean="Saddle of rare Shenron" />
+	<block key="fq_03_ar_0001_name" korean="Younghonseok rare Shenron" />
+	<block key="fq_01_fk_0002_name" korean="Claws of an ordinary spirits" />
+	<block key="fq_01_sl_0002_name" korean="Saddle ordinary spirits" />
+	<block key="fq_01_ar_0002_name" korean="Younghonseok ordinary spirits" />
+	<block key="fq_02_fk_0002_name" korean="Claw excellent spirits" />
+	<block key="fq_02_sl_0002_name" korean="Saddle excellent spirits" />
+	<block key="fq_02_ar_0002_name" korean="Younghonseok excellent spirits" />
+	<block key="fq_03_fk_0002_name" korean="Claws of rare spirits" />
+	<block key="fq_03_sl_0002_name" korean="Saddle of rare spirits" />
+	<block key="fq_03_ar_0002_name" korean="Younghonseok of rare spirits" />
+	<block key="fq_01_fk_0003_name" korean="Claws of the ordinary SU" />
+	<block key="fq_01_sl_0003_name" korean="Saddle ordinary SU" />
+	<block key="fq_01_ar_0003_name" korean="Younghonseok ordinary SU" />
+	<block key="fq_02_fk_0003_name" korean="Claws of outstanding patron" />
+	<block key="fq_02_sl_0003_name" korean="Saddle outstanding patron" />
+	<block key="fq_02_ar_0003_name" korean="Younghonseok outstanding patron" />
+	<block key="fq_03_fk_0003_name" korean="Claws of the rarest Guardian" />
+	<block key="fq_03_sl_0003_name" korean="Saddle of rare patron" />
+	<block key="fq_03_ar_0003_name" korean="Younghonseok rare Guardian" />
+	<block key="fq_01_fk_0004_name" korean="Blessed ordinary claws" />
+	<block key="fq_01_sl_0004_name" korean="Blessed ordinary saddle" />
+	<block key="fq_01_ar_0004_name" korean="Blessed ordinary younghonseok" />
+	<block key="fq_02_fk_0004_name" korean="Excellent blessed claws" />
+	<block key="fq_02_sl_0004_name" korean="Blessed excellent saddle" />
+	<block key="fq_02_ar_0004_name" korean="Excellent blessed younghonseok" />
+	<block key="fq_03_fk_0004_name" korean="Blessed rare claws" />
+	<block key="fq_03_sl_0004_name" korean="Blessed rare saddle" />
+	<block key="fq_03_ar_0004_name" korean="Blessed rare younghonseok" />
+	<block key="fq_01_fk_0005_name" korean="Plain damned claws" />
+	<block key="fq_01_sl_0005_name" korean="Cursed ordinary saddle" />
+	<block key="fq_01_ar_0005_name" korean="Plain damned younghonseok" />
+	<block key="fq_02_fk_0005_name" korean="Claw been outstanding curse" />
+	<block key="fq_02_sl_0005_name" korean="Saddle received outstanding curse" />
+	<block key="fq_02_ar_0005_name" korean="Excellent cursed younghonseok" />
+	<block key="fq_03_fk_0005_name" korean="Rare cursed claws" />
+	<block key="fq_03_sl_0005_name" korean="Saddle been rare curse" />
+	<block key="fq_03_ar_0005_name" korean="Rare cursed younghonseok" />
+	<block key="fq_02_fk_0006_name" korean="Claws of the lower Hunter" />
+	<block key="fq_02_sl_0006_name" korean="Saddle of the lower Hunter" />
+	<block key="fq_02_ar_0006_name" korean="Younghonseok of the lower Hunter" />
+	<block key="fq_02_fk_0007_name" korean="Intermediate claws hunter" />
+	<block key="fq_02_sl_0007_name" korean="Intermediate Hunter Saddle" />
+	<block key="fq_02_ar_0007_name" korean="Younghonseok Intermediate Hunter" />
+	<block key="fq_02_fk_0008_name" korean="Greater claws hunter" />
+	<block key="fq_02_sl_0008_name" korean="Greater saddle hunter" />
+	<block key="fq_02_ar_0008_name" korean="Younghonseok Greater Hunter" />
+	<block key="fq_02_fk_0009_name" korean="Lesser Slayer claws" />
+	<block key="fq_02_sl_0009_name" korean="Saddle Lesser Slayer" />
+	<block key="fq_02_ar_0009_name" korean="Younghonseok Lesser Slayer" />
+	<block key="fq_02_fk_1009_name" korean="Intermediate claws Slayer" />
+	<block key="fq_02_sl_1009_name" korean="Intermediate saddle Slayer" />
+	<block key="fq_02_ar_1009_name" korean="Younghonseok Intermediate Slayer" />
+	<block key="fq_01_fk_0006_name" korean="Mediocre sacred claws" />
+	<block key="fq_01_sl_0006_name" korean="Sacred ordinary saddle" />
+	<block key="fq_01_ar_0006_name" korean="Mediocre sacred younghonseok" />
+	<block key="fq_02_fk_0010_name" korean="Excellent sacred claws" />
+	<block key="fq_02_sl_0010_name" korean="Excellent sacred saddle" />
+	<block key="fq_02_ar_0010_name" korean="Excellent sacred younghonseok" />
+	<block key="fq_03_fk_0006_name" korean="Rare sacred claws" />
+	<block key="fq_03_sl_0006_name" korean="Rare sacred saddle" />
+	<block key="fq_03_ar_0006_name" korean="Rare sacred younghonseok" />
+	<block key="fq_02_fk_0011_name" korean="Claws of special cheongma" />
+	<block key="fq_02_sl_0011_name" korean="Saddle special cheongma" />
+	<block key="fq_02_ar_0011_name" korean="Younghonseok special cheongma" />
+	<block key="fq_03_fk_0007_name" korean="Claws of the Blessed cheongma" />
+	<block key="fq_03_sl_0007_name" korean="Saddle of the Blessed cheongma" />
+	<block key="fq_03_ar_0007_name" korean="Younghonseok of the Blessed cheongma" />
+	<block key="fq_03_fk_0008_name" korean="Harlan's claw News" />
+	<block key="fq_03_sl_0008_name" korean="Saddle-ku, Harlan" />
+	<block key="fq_03_ar_0008_name" korean="Younghonseok of Harlan News" />
+	<block key="fq_02_fk_0012_name" korean="Elite Knights claws" />
+	<block key="fq_02_sl_0012_name" korean="Elite Knights saddle" />
+	<block key="fq_02_ar_0012_name" korean="Elite Knights younghonseok" />
+	<block key="fq_01_fk_0007_name" korean="Claws of an ordinary nightmare" />
+	<block key="fq_01_sl_0007_name" korean="Saddle ordinary nightmare" />
+	<block key="fq_01_ar_0007_name" korean="Younghonseok ordinary nightmare" />
+	<block key="fq_02_fk_0013_name" korean="Claws of the outstanding nightmare" />
+	<block key="fq_02_sl_0013_name" korean="Saddle outstanding nightmare" />
+	<block key="fq_02_ar_0013_name" korean="Younghonseok outstanding nightmare" />
+	<block key="fq_03_fk_0009_name" korean="Claws of rare nightmare" />
+	<block key="fq_03_sl_0009_name" korean="Saddle of rare nightmare" />
+	<block key="fq_03_ar_0009_name" korean="Younghonseok rare nightmare" />
+	<block key="fq_04_fk_0001_name" korean="Noble claws nightmare" />
+	<block key="fq_04_sl_0001_name" korean="Saddle Noble Nightmare" />
+	<block key="fq_04_ar_0001_name" korean="Younghonseok Noble Nightmare" />
+	<block key="fq_01_fk_0008_name" korean="Claws like an ordinary pitch" />
+	<block key="fq_01_sl_0008_name" korean="Raven like a normal saddle" />
+	<block key="fq_01_ar_0008_name" korean="Raven like a normal younghonseok" />
+	<block key="fq_02_fk_0014_name" korean="Excellent pitch like claws" />
+	<block key="fq_02_sl_0014_name" korean="Excellent pitch like a saddle" />
+	<block key="fq_02_ar_0014_name" korean="Excellent pitch as younghonseok" />
+	<block key="fq_03_fk_0010_name" korean="Ebon Claws such rare" />
+	<block key="fq_03_sl_0010_name" korean="Raven like a rare saddle" />
+	<block key="fq_03_ar_0010_name" korean="Rare same pitch younghonseok" />
+	<block key="fq_04_fk_0002_name" korean="Ebon Claws such noble" />
+	<block key="fq_04_sl_0002_name" korean="Raven like a noble saddle" />
+	<block key="fq_04_ar_0002_name" korean="Raven like a noble younghonseok" />
+	<block key="fq_06_fk_0001_name" korean="Claws of sand" />
+	<block key="fq_06_sl_0001_name" korean="Buried in the sand" />
+	<block key="fq_06_ar_0001_name" korean="Younghonseok of sand" />
+	<block key="fq_06_fk_0002_name" korean="Excellent sandy claws" />
+	<block key="fq_06_sl_0002_name" korean="Excellent sand the saddle" />
+	<block key="fq_06_ar_0002_name" korean="Excellent sand of younghonseok" />
+	<block key="fq_06_fk_0003_name" korean="Claws of a mirage" />
+	<block key="fq_06_sl_0003_name" korean="Mirage saddle" />
+	<block key="fq_06_ar_0003_name" korean="Mirage younghonseok" />
+	<block key="fq_06_fk_0004_name" korean="Claws into Pradesh" />
+	<block key="fq_06_sl_0004_name" korean="Saddle of a dash" />
+	<block key="fq_06_ar_0004_name" korean="A dash of younghonseok" />
+	<block key="fq_06_fk_0011_name" korean="Claw of the Desert" />
+	<block key="fq_06_sl_0011_name" korean="Buried in the desert" />
+	<block key="fq_06_ar_0011_name" korean="Desert of younghonseok" />
+	<block key="fq_06_fk_0012_name" korean="Claws of outstanding desert" />
+	<block key="fq_06_sl_0012_name" korean="Saddle excellent desert" />
+	<block key="fq_06_ar_0012_name" korean="Younghonseok excellent desert" />
+	<block key="fq_06_fk_0013_name" korean="Desert Claw of Martyrs" />
+	<block key="fq_06_sl_0013_name" korean="Desert saddle of Martyrs" />
+	<block key="fq_06_ar_0013_name" korean="Martyrs of the desert younghonseok" />
+	<block key="fq_06_fk_0014_name" korean="Sharkey's claw bar" />
+	<block key="fq_06_sl_0014_name" korean="Sharkey saddle bar" />
+	<block key="fq_06_ar_0014_name" korean="Sharkey's Bar younghonseok" />
+</blocks>

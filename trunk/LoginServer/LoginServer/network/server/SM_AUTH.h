@@ -7,7 +7,14 @@
 void SM_AUTH(PACKET* pck, bool succesful)
 {
 	if (!succesful)
-		closesocket(pck->sockstruct->socket);
+	{
+		pck->Disconnect();
+/*		pck->CreateBufForSend();
+		pck->writeB(254);
+		pck->PackSend(OPCODE_SM_AUTH);*/
+		return;
+	}
+		
 
 	struct sockaddr_in from;
 	int len = sizeof(from);
@@ -19,7 +26,6 @@ void SM_AUTH(PACKET* pck, bool succesful)
 	strcpy(pack, pck->sockstruct->account_name);
 
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeW(0);
 	pck->writeW(0);
 	pck->writeBuf(pack, 100);

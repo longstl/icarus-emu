@@ -9,7 +9,7 @@ void CM_UNK2(PACKET* pck)
 {
 	uint32 unk2 = pck->readD();
 	uint32 unk3 = pck->readD();
-	SM_UNK1(pck);
+	SM_UPDATE_CHARACTER_INFO(pck);
 }
 
 /*

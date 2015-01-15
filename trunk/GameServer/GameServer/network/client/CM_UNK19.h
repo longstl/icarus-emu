@@ -7,8 +7,8 @@
 
 inline void CM_UNK19(PACKET* pck)
 {
-	int16 unk1 = pck->readW();
 	int8 unk2 = pck->readB();
+	SM_UNK_420e(pck); // ???? поставил по последовательности опкодов
 }
 
 /*

@@ -8,8 +8,7 @@
 inline void SM_CHANGE_CHARACTER(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
-	pck->writeB(1);
+	pck->writeB(0);
 	pck->PackSend(OPCODE_SM_CHANGE_CHARACTER);
 }
 

@@ -1,0 +1,74 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="squest_sf_01" korean="üÈÀ¼XÇ " />
+	<block key="squest_sf_02" korean="¾|·tÎt¹ " />
+	<block key="squest_sf_03_part_01" korean="lÐ\¸°Æ|¹ " />
+	<block key="squest_sf_04" korean="ù¹Â|¹ " />
+	<block key="squest_sf_04_part_01" korean="8®ä´tÇ0®|¹ " />
+	<block key="squest_sf_04_part_02" korean="´Å`´XÇ " />
+	<block key="squest_hk_01" korean="UÆm­DÇ " />
+	<block key="squest_hk_03" korean="Ù³<»ä´XÇ " />
+	<block key="squest_hk_02" korean="ˆ½tÇ " />
+	<block key="squest_hk_021" korean="tÎ¾„Ç " />
+	<block key="squest_hk_04" korean="½€½XÇ " />
+	<block key="squest_hk_05" korean="a×ÖÀ­XÇ " />
+	<block key="squest_hk_06" korean="ýÈLÇDÇ " />
+	<block key="squest_hk_07" korean="¬À€·¸ÒXÇ " />
+	<block key="squest_hk_08" korean="íÓÔXÇ " />
+	<block key="squest_hk_09" korean="ÂÄ³1ÁÐÅ " />
+	<block key="squest_hkd_01" korean="" />
+	<block key="squest_hkd_02" korean="t¬$Á " />
+	<block key="squest_hkd_03" korean="¤ÂxÎ " />
+	<block key="squest_hkd_04" korean="õ¬üÈXÇ " />
+	<block key="squest_hkd_05" korean="4»ÀÉ¬ " />
+	<block key="squest_f02_g_01" korean="©¬Ù³XÇ " />
+	<block key="squest_st_01" korean="ÝÀ…ºXÇ " />
+	<block key="squest_st_01_part_01" korean="ÐÓÄÁ´ " />
+	<block key="squest_st_01_part_02" korean="à¬œ°XÇ " />
+	<block key="squest_st_02" korean="Q×É¹XÇ " />
+	<block key="squest_st_02_part_01" korean="tÕÈè² " />
+	<block key="squest_st_02_part_02" korean="tÕÈè²XÇ " />
+	<block key="squest_st_03" korean="Ót¹˜° " />
+	<block key="squest_st_03_part_01" korean="4»ì·ø»qÈXÇ " />
+	<block key="squest_st_03_part_02" korean="4»ì·ø»qÈXÇ " />
+	<block key="squest_st_03_part_03" korean="ìÅàÂXÇ " />
+	<block key="squest_st_04" korean="¼ÅLÇ1Á " />
+	<block key="squest_st_04_part_01" korean="¼ÅLÇXÇ " />
+	<block key="squest_st_04_part_02" korean="|·È²DÅ " />
+	<block key="squest_ca_04" korean="xºÝ¹XÇ " />
+	<block key="squest_ca_04_part_01" korean="ŒÈÍ´ " />
+	<block key="squest_ca_04_part_02" korean="˜Ó" />
+	<block key="squest_ca_04_part_03" korean="\ÍÄÖXÇ " />
+	<block key="squest_pl_01" korean="Ót¹˜°XÇ " />
+	<block key="squest_pl_01_part_01" korean="Ót¹˜°XÇ " />
+	<block key="squest_pl_02" korean="tÕÈè² " />
+	<block key="squest_pl_02_part_01" korean="tÕÈè² " />
+	<block key="squest_pl_03" korean="„½ôÅ´ " />
+	<block key="squest_pl_03_part_01" korean="„½ôÅ´ " />
+	<block key="squest_pl_04" korean="<»XÇ " />
+	<block key="squest_pl_04_part_01" korean="<»XÇ " />
+	<block key="squest_pl_05" korean="ÐÓÈÕ" />
+	<block key="squest_pl_05_part_01" korean="ÐÓÈÕ" />
+	<block key="squest_ed_01" korean="¬ÀÉ¹XÇ " />
+	<block key="squest_ed_01_part_01" korean="¨ºXÕ¼ " />
+	<block key="squest_ed_02" korean="|¾WÅ4® " />
+	<block key="squest_ed_02_part_01" korean="©ÆÑ¼è²DÇ " />
+	<block key="squest_ed_03" korean="¬ÀÉ¹ " />
+	<block key="squest_ed_03_part_01" korean="$Æt¹ " />
+	<block key="squest_ed_04" korean="iÖ® " />
+	<block key="squest_ed_04_part_01" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="squest_ed_05" korean="¬ÀÉ¹XÇ " />
+	<block key="squest_ed_05_part_01" korean="Ï " />
+	<block key="squest_ed_06" korean="lÐ\¸äÏ " />
+	<block key="squest_ed_06_part_01" korean="ÀÐ}·\Õ " />
+	<block key="squest_ed_07" korean="Æ¸ÅÇ|¹ " />
+	<block key="squest_ed_07_part_01" korean="XÕ|·lÐ\¸ " />
+	<block key="squest_ed_08" korean="‘ÇÈ " />
+	<block key="squest_ed_08_part_01" korean="õ¬üÈØ²DÇ " />
+</blocks>

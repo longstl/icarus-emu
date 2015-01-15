@@ -1,0 +1,303 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Caption_0000" korean="" />
+	<block key="Caption_0001" korean="(Cutscene of production)" />
+	<block key="Caption_SP_0001" korean="Why would insist beak?" />
+	<block key="Caption_SP_0002" korean="If you disobey the end of the end, there is no need to spare you." />
+	<block key="Caption_SP_0003" korean="Wizard will believe the truth will come will come to the rescue?" />
+	<block key="Caption_SP_0004" korean="With the destruction of the guardian dragon kingdom will disappear as soon history." />
+	<block key="Caption_SP_0005" korean="The enemy attack. I found the enemy had gone missing." />
+	<block key="Caption_SP_0006" korean="What? This will not useless." />
+	<block key="Caption_SP_0007" korean="Mercy .. uhh .." />
+	<block key="Caption_SP_0008" korean="What you have to break a dog one day ... but hope is not." />
+	<block key="Caption_SP_0009" korean="" />
+	<block key="Caption_SP_0010" korean="Wizard of truth that I sent you." />
+	<block key="Caption_SP_0011" korean="Oh say you to rescue the survivors of the El jenuseu race. Would kkeonaeju there." />
+	<block key="Caption_SP_0012" korean="" />
+	<block key="Caption_SP_0013" korean="Thought than was fast." />
+	<block key="Caption_SP_0014" korean="Sleep jailbreak! Get them!" />
+	<block key="Caption_SP_0015" korean="Pitch Drill to hurry before the door!" />
+	<block key="Caption_Sf_0_1_0005_01" korean="Itso forest of spirits has long underground passage Marlene family construction." />
+	<block key="Caption_Sf_0_1_0005_02" korean="To go to Canas Hao and must be secured there. #" />
+	<block key="Caption_Sf_0_1_0005_03" korean="And could we go to Canas before the news of Princess Rania to His Majesty?" />
+	<block key="Caption_Sf_0_1_0005_04" korean="Let's get in a hurry." />
+	<block key="Caption_Sf_0_1_0012_01" korean="Fire Golem guarding an underground passage that has come into their fearsome #" />
+	<block key="Caption_Sf_0_1_0012_02" korean="I just went to a constant state of excitement, the other in an instant." />
+	<block key="Caption_Sf_0_1_0012_03" korean="I'll be ready to be tight." />
+	<block key="Caption_Sf_0_1_0018_01" korean="There are ancient ruins, the ghosts. There's no body. #" />
+	<block key="Caption_Sf_0_1_0018_02" korean="Normal human eye has the appearance of a ghost I do not see at all." />
+	<block key="Caption_Sf_0_1_0018_03" korean="However, it is not no way. #" />
+	<block key="Caption_Sf_0_1_0018_04" korean="If you drink a potion of true vision itgeodeunyo not see that look." />
+	<block key="Caption_sp_lever_01" korean="I'll open the door in a hurry to take on the guards!" />
+	<block key="Caption_sp_stone_01" korean="One what? Come to destroy the ruling seat!" />
+	<block key="Caption_SP_end_0001" korean="There Anything you hurt anywhere?" />
+	<block key="Caption_SP_end_0002" korean="Haetgunyo breathtaking. Kkeseon How did you do that?" />
+	<block key="Caption_SP_end_0003" korean="Never would not rescue the princess. Too late ...." />
+	<block key="Caption_SP_end_0004" korean="Right. So, what should I do?" />
+	<block key="Caption_SP_end_0005" korean="Hurry to see a return to the kingdom of His Majesty. Rescued friends'll be looking at the situation." />
+	<block key="Caption_SP_end_0006" korean="Okay. Mate! Raise the speed!" />
+	<block key="Caption_SF_start_0001" korean="Canas and how much cattle until the kingdom?" />
+	<block key="Caption_SF_start_0002" korean="Without detour to save time, and Brage races through the forest that dominates over." />
+	<block key="Caption_SF_start_0003" korean="Would that easy group." />
+	<block key="Caption_SF_start_0004" korean="Brage is attacked by!" />
+	<block key="Caption_SF_start_0005" korean="The left engine was destroyed! The airship ... We're going down!" />
+	<block key="Caption_SP_start_0001" korean="I am Sr. Crow's Shadow Clan. [UserName], Newbie to rescue you!" />
+	<block key="Caption_sf_0_1_0010_01" korean="If they believe you know, those things Brage" />
+	<block key="Caption_sf_0_1_0010_02" korean="No matter how we are valiant knights tired a lot, but now is in" />
+	<block key="Caption_sf_0_1_0010_03" korean="Eopdane against me is how this giant crossbow flying nonstop" />
+	<block key="Caption_sf_0_1_0010_04" korean="You'd give me check my crossbow?" />
+	<block key="Caption_sf_0_1_0011_01" korean="Brage has come into the flames behind the golem. Or is something Brage rogues ..." />
+	<block key="Caption_sf_0_1_0011_02" korean="Keuheum, where the fire golem There's wearing nothing but articles are called to fight hard to avoid here." />
+	<block key="Caption_sf_0_1_0011_03" korean="Articles include a bunch, but I guess you'll find a way, if I were you get it done." />
+	<block key="Caption_sf_0_1_0029_01" korean="Brage are shining crystal to the sacred." />
+	<block key="Caption_sf_0_1_0029_02" korean="That's the last piece revive the ancient weapons." />
+	<block key="Caption_sf_0_1_0029_03" korean="I'm always on hand to put the crystal!" />
+	<block key="Caption_hk_0_1_0014_01" korean="You think somebody caused this." />
+	<block key="Caption_hk_0_1_0014_02" korean="I feel an evil intent." />
+	<block key="Caption_hk_0_1_0014_03" korean="I am full of a dark and cruel evil ..." />
+	<block key="Caption_hk_0_1_0014_04" korean="Please take out to see what's behind it." />
+	<block key="Caption_hk_0_1_0047_01" korean="The vampire is found and was also the first few days after." />
+	<block key="Caption_hk_0_1_0047_02" korean="However, there may be said here eopgunyo town." />
+	<block key="Caption_hk_0_1_0047_03" korean="Now that most of the population does not believe the vampires." />
+	<block key="Caption_hk_0_1_0047_04" korean="I will reveal the cause." />
+	<block key="Caption_sf_0_1_0001_03_01" korean="Hey! Jerks that guy again. This time, well I do?" />
+	<block key="Caption_sf_0_1_0001_03_02" korean="That's right, and you're right this time?" />
+	<block key="Caption_sf_0_1_0001_03_03" korean="Let nikkan still here! Whoa listen to me!" />
+	<block key="Caption_sf_0_1_0001_03_04" korean="Ah! I can see why the hell not? This is what ..." />
+	<block key="Caption_sf_0_1_0001_03_05" korean="Executive ... haetgeonman approaching from behind him say so ..." />
+	<block key="Caption_sf_0_1_0001_03_06" korean="Weather reports deounde not far trick riding group." />
+	<block key="Caption_sf_0_1_0001_03_07" korean="Hey friends! You've also gildeulyiryeo a fellow one. Mind you select him for the good level." />
+	<block key="Caption_f00_start_01_01" korean="Did you hear the spirit? It looks like she's not a princess here." />
+	<block key="Caption_f00_start_01_02" korean="Now, come here! Try out the whereabouts of the Princess Hase." />
+	<block key="Caption_f00_lever_01_01" korean="I'll open the door to be processed as soon as possible!" />
+	<block key="Caption_f00_stone_01_01" korean="One what? Come to destroy the ruling seat!" />
+	<block key="Caption_f00_rex_01_01" korean="Stupid things! This place can not get even one rat out!" />
+	<block key="Caption_f00_door_01_01" korean="Sleep jailbreak! Get them!" />
+	<block key="Caption_f00_door_01_02" korean="La bombarded attack!" />
+	<block key="Caption_f00_door_01_03" korean="All in a hurry!" />
+	<block key="Caption_f01_start_01" korean="Soon Is Now Bra carboxylic woods?" />
+	<block key="Caption_f01_start_02" korean="Yes. The full route, but not also gender'll arrive faster." />
+	<block key="Caption_f01_start_03" korean="Would that easy group." />
+	<block key="Caption_f01_start_04" korean="Keueuk !?" />
+	<block key="Caption_f01_start_05" korean="Brage is attacked by!" />
+	<block key="Caption_f01_start_06" korean="The enemy!" />
+	<block key="Caption_f01_start_07" korean="Get ready to fall all !!" />
+	<block key="Caption_f01_start_08" korean="All Hold on tight!" />
+	<block key="Caption_f00_princess_01" korean="Drat! I did not keep the princess ... (cutscene working)" />
+	<block key="Caption_f00_princess_02" korean="And whilst the foolish rebellion. (Cutscene working)" />
+	<block key="Caption_f00_princess_03" korean="The princess takes to Saran's agent. (Cutscene working)" />
+	<block key="Caption_f00_princess_04" korean="Princess !! (Cutscene working)" />
+	<block key="Caption_f00_princess_05" korean="They survived La locked in jail! (Cutscene working)" />
+	<block key="Caption_f00_princess_06" korean="He should ha ... princess here. (Cutscene working)" />
+	<block key="Caption_f00_princess_07" korean="Princess, He is the army of Saran bit. (Cutscene working)" />
+	<block key="Caption_f00_princess_A1" korean="Princess How did you wind up on TV? (Cutscene working)" />
+	<block key="Caption_f00_princess_A2" korean="He should ha ... Princess kkeseon here. (Cutscene working)" />
+	<block key="Caption_f00_princess_A3" korean="Kkeseon Princess was carrying a destination in itself with the question of power. (Cutscene working)" />
+	<block key="Caption_f00_princess_A4" korean="We yeotjiyo mission to escort a princess. (Cutscene working)" />
+	<block key="Caption_f00_princess_A5" korean="Princess was born with the power of the goddess. (Cutscene working)" />
+	<block key="Caption_f00_princess_A6" korean="Then the men drank the drink to revive ... has been attacked! (Cutscene working)" />
+	<block key="Caption_f00_princess_A7" korean="Attack! (Cutscene working)" />
+	<block key="Caption_f00_princess_A8" korean="The raid! Must keep the princess. (Cutscene working)" />
+	<block key="Caption_f00_princess_A9" korean="We fought for the best. (Cutscene working)" />
+	<block key="Caption_f00_princess_A10" korean="But it was not enough. (Cutscene working)" />
+	<block key="Caption_f00_princess_A11" korean="Drat! Keep the princess did not dare! (Cutscene working)" />
+	<block key="Caption_f00_princess_A12" korean="Whilst resisting the foolish things ... (cutscene working)" />
+	<block key="Caption_f00_princess_A13" korean="The princess takes to Saran's agent. (Cutscene working)" />
+	<block key="Caption_f00_princess_A14" korean="Princess !! (Cutscene working)" />
+	<block key="Caption_f00_princess_A15" korean="They survived La locked in jail! (Cutscene working)" />
+	<block key="Caption_f00_princess_A16" korean="That was the last appearance of the princess. (Cutscene working)" />
+	<block key="Caption_f00_princess_A17" korean="Well ... That's a big deal. To preach the news as soon as possible. Come to the kingdom!" />
+	<block key="Caption_f02_g_boss_in" korean="Angry roar" />
+	<block key="Caption_f02_g_boss_die" korean="Sound of death" />
+	<block key="Caption_c01_fellow_01" korean="I'll teach fellow tame. Snow level!" />
+	<block key="Caption_c01_fellow_02" korean="What? What's going on?" />
+	<block key="Caption_c01_fellow_03" korean="Show your friends this ability once!" />
+	<block key="Caption_c01_fellow_04" korean="Certainly Not hard." />
+	<block key="Caption_c01_fellow_05" korean="Once you select a destination that uses the taming skill." />
+	<block key="Caption_c01_fellow_06" korean="And! Jump !!" />
+	<block key="Caption_c01_fellow_07" korean="Once you take up better not lose important center." />
+	<block key="Caption_c01_fellow_08" korean="Ha, ha, ha! Was a success!" />
+	<block key="Caption_c01_fellow_09" korean="Do not forget to jump." />
+	<block key="Caption_f01_crow_01" korean="Glad not to be late. Come on!" />
+	<block key="Caption_f01_destroy_01" korean="Now I have to destroy the enchantment." />
+	<block key="Caption_f01_destroy_02" korean="Jung and the blade of a fairy, a hammer will break the seal." />
+	<block key="Caption_f01_destroy_03" korean="Stat. We'll take care of the wounded are followed." />
+	<block key="Caption_f01_destroy_04" korean="Come to preach His Majesty the situation." />
+	<block key="Caption_f01_ghost_01" korean="You fools aim at applying our treasure? (Cutscene working)" />
+	<block key="Caption_f01_ghost_02" korean="Treasures can never give." />
+	<block key="Caption_f01_ghost_03" korean="What do you say? How about now, you want want to continue to treasure!" />
+	<block key="Caption_f01_ghost_04" korean="Wait! We Bang!" />
+	<block key="Caption_f01_ghost_05" korean="Come on! Let ssaup together." />
+	<block key="Caption_f01_ghost_die" korean="My treasure! Drat ..." />
+	<block key="Caption_d01_boss_change" korean="Ingeol unexpected? Gonna use all my strength. Blood magic, O! Me strength!" />
+	<block key="Caption_d01_in_01_1" korean="With this you gonna eternal life. My daughter." />
+	<block key="Caption_d01_in_01_2" korean="Begin!" />
+	<block key="Caption_c01_move_01_1" korean="Here you are at last." />
+	<block key="Caption_c01_move_01_2" korean="I waited under the Crow's emergency contact." />
+	<block key="Caption_c01_move_01_3" korean="He wanted to know His Majesty Princess situation. Come on are you." />
+	<block key="Caption_c01_move_01_4" korean="You've arrived." />
+	<block key="caption_f01_Tortus_1" korean="Princess Where is she?" />
+	<block key="caption_f01_Tortus_2" korean="I'm sorry. Rondo thingy losing to the princess." />
+	<block key="caption_f01_Tortus_3" korean="The princess with the power of the goddess ..." />
+	<block key="caption_f01_Tortus_4" korean="We're squatting en route to the destination to unlock the secret of its power." />
+	<block key="caption_f01_Tortus_5" korean="This would have been difficult to scout down rain," />
+	<block key="caption_f01_Tortus_5_1" korean="Frost Legion They knew exactly the way we're going." />
+	<block key="caption_f01_Tortus_5_2" korean="The children!" />
+	<block key="caption_f01_Tortus_5_3" korean="Ahap yah!" />
+	<block key="caption_f01_Tortus_5_4" korean="Get out of here!" />
+	<block key="caption_f01_Tortus_6" korean="This is the power of darkness. Keueuk So, you accepted?" />
+	<block key="caption_f01_Tortus_7" korean="A .. Rondo! What's your plan for a princess ?!" />
+	<block key="caption_f01_Tortus_8" korean="Stupid bastards." />
+	<block key="caption_f01_Tortus_9" korean="What did I am sure you can stop me." />
+	<block key="caption_f01_Tortus_10" korean="The princess ... I takes." />
+	<block key="caption_f01_Tortus_11" korean="We're not done yet!" />
+	<block key="caption_f01_Tortus_12" korean="That's a big deal. We have to report this situation to Your Majesty." />
+	<block key="caption_f01_Seal_1" korean="Now I have to destroy the enchantment." />
+	<block key="caption_f01_Seal_2" korean="Jung and the blade of a fairy, a hammer will break the seal." />
+	<block key="caption_f01_Seal_5" korean="As soon as possible. We'll take care of the wounded are followed." />
+	<block key="caption_f01_Seal_6" korean="Soon as possible to only preach the news, your majesty." />
+	<block key="caption_D01_boss_1" korean="Whilst disturbance of consciousness." />
+	<block key="caption_D01_boss_2" korean="I'll show you ..." />
+	<block key="caption_D01_boss_3" korean="Your foolishness has brought the bloody end of the ..." />
+	<block key="caption_D01_boss_4" korean="Haap!" />
+	<block key="caption_d03_eye_01_1" korean="Now is the time to devote to fly!" />
+	<block key="caption_d03_eye_02_1" korean="Oh! He woke up from his sleep. God! Give defeat the intruder entered the temple!" />
+	<block key="caption_d03_priest_rescue_1" korean="Aww! Look behind you! Mureo Micah is coming!" />
+	<block key="caption_d03_priest_fail_1" korean="You will accelerate the blood of Ladan's resurrection!" />
+	<block key="caption_d04__balbo_advent_1" korean="You can not reach me until you bring down God Rondo." />
+	<block key="caption_d04__balbo_advent_2" korean="I guess I also need to embark eopeulgeot." />
+	<block key="caption_d04__balbo_advent_3" korean="There you go see me prove eligibility." />
+	<block key="caption_d04_rondo_mirror_1" korean="The head ... Aisha? ... Off Aah!" />
+	<block key="caption_d04__rondo_end_1" korean="Here ... Come finish your kkajinga." />
+	<block key="caption_d04__rondo_end_2" korean="Aisha ...? How do you ...?" />
+	<block key="caption_d04__rondo_end_3" korean="Stop it. I'm not the only solution to death." />
+	<block key="caption_d04__rondo_end_4" korean="I'm tired. Aisha. Ya baby my heart is in pain, I froze lost a long time ago." />
+	<block key="caption_d04__rondo_end_5" korean="Londo ... poor guy ... I'm gonna be in your heart." />
+	<block key="caption_d04__rondo_end_6" korean="Aisha." />
+	<block key="caption_f03_princess_01_1" korean="Find the whereabouts of the Princess went to the ice fort." />
+	<block key="caption_f03_princess_01_2" korean="Fortunately, I was able to find the hellish Rondo." />
+	<block key="caption_f03_princess_01_3" korean="Go quickly." />
+	<block key="caption_f03_princess_01_4" korean="Hurry, you must obtain a princess!" />
+	<block key="caption_f03_watertray_01_1" korean="Silvery involve communication? Are you saying that human Shi Saga?" />
+	<block key="caption_f03_watertray_01_2" korean="So far, the lake was banned for life is only accessible to man ..." />
+	<block key="caption_f03_watertray_01_3" korean="Pirates have gone now, the high priest hits Leone wrote again allow the men in and out." />
+	<block key="caption_f03_watertray_01_4" korean="If you obtained the middle and I think especially mureo be able to help us." />
+	<block key="caption_f03_watertray_01_5" korean="Now, please, and the lake is immediately life." />
+	<block key="caption_f03_parna_01_1" korean="O hero, awakened the earth, listen to my story." />
+	<block key="caption_f03_parna_01_2" korean="After a descendant of the waking my daughter was caught drinking frozen, my strength is trapped in a piece or a blizzard." />
+	<block key="caption_f03_parna_01_3" korean="When you wake up the water mirror split into five, will bring frost began to melt." />
+	<block key="caption_f03_lover_01_1" korean="I met Ron was lying wounded on the lake beginning of life." />
+	<block key="caption_f03_lover_01_2" korean="He mercenaries were sent to the pirates. The first time I was a young man." />
+	<block key="caption_f03_lover_01_3" korean="Daehaejun day to Aisha was not the only thing Rondo water shaman. That when, still ..." />
+	<block key="caption_f03_lover_01_4" korean="Please, please save him." />
+	<block key="caption_f03_princess_tear_1" korean="Rondo per the ... Fortunately deviated visor whilst the princess." />
+	<block key="caption_f03_princess_tear_2" korean="Come on! Saran's a bit awaits!" />
+	<block key="caption_f03_princess_tear_3" korean="Yo saving me." />
+	<block key="Caption_d02_sarant_tears_01" korean="Let's see if he can get the old man?" />
+	<block key="Caption_d02_sarant_tears_02" korean="Seeds of drinking is pre-cut to give away." />
+	<block key="Caption_d02_sarant_tears_03" korean="Father!" />
+	<block key="Caption_d02_sarant_tears_04" korean="Do not be weak. You are the son of the great Saran bit." />
+	<block key="Caption_d02_sarant_tears_05" korean="Yes ..." />
+	<block key="Caption_d02_sarant_tears_06" korean="A husband and father am wrong do not blame us put sin." />
+	<block key="Caption_d02_sarant_tears_07" korean="Son ... Excuse the ugly father." />
+	<block key="Caption_d02_sarant_tears_08" korean="I will not forgive." />
+	<block key="Caption_d02_sarant_tears_09" korean="I will never forgive you until the day that the world is doomed." />
+	<block key="caption_c01_lena_change_1" korean="Lena, oh why would you have a magical sphere of consciousness?" />
+	<block key="caption_c01_lena_change_2" korean="Ine noticed that humans faster than thought." />
+	<block key="caption_c01_lena_change_3" korean="But it's too late." />
+	<block key="caption_c01_lena_change_4" korean="The source of my magic magical sphere of consciousness. 've Put the power back in the hands do not need you." />
+	<block key="caption_c01_lena_change_5" korean="Want you to fall to the soul. The doggies." />
+	<block key="caption_c01_general_fight_1" korean="Admiral Russell. You have to keep the Canas and put her in confusion and actively attend to collude with Cobb being." />
+	<block key="caption_c01_general_fight_2" korean="Wizard of truth, they did not know I would end?" />
+	<block key="caption_c01_general_fight_3" korean="Ron plane is to incompetence." />
+	<block key="caption_c01_general_fight_4" korean="He is well hidden behind the old one just the guardian dragon." />
+	<block key="caption_c01_general_fight_5" korean="Canas has begun to be true." />
+	<block key="caption_c01_general_fight_6" korean="Peace is achieved fatigue." />
+	<block key="caption_c01_general_fight_7" korean="We here will open a new era." />
+	<block key="caption_c01_general_fight_8" korean="The power of the sword with us!" />
+	<block key="caption_f02_ashuram_01_1" korean="If they have to attend to here alive ..." />
+	<block key="caption_f02_ashuram_01_2" korean="Come on now! Here are the deceased would be my loyal load!" />
+	<block key="caption_f02_circle_01_1" korean="Do you want to know much going on in the hills?" />
+	<block key="caption_f02_circle_01_2" korean="The hill is piled up corpses." />
+	<block key="caption_f02_circle_01_3" korean="Not those who lost their lives because of consciousness." />
+	<block key="caption_f02_circle_01_4" korean="Cobb denomination being stocked by using the magic phrase to make people into vampires." />
+	<block key="caption_f02_circle_01_5" korean="Who comes to consciousness and stop the curse away the magic sphere." />
+	<block key="caption_f02_devy_02_1" korean="Also trying to chase bad guys got us!" />
+	<block key="caption_f02_devy_02_2" korean="Whoa! Whoa!" />
+	<block key="caption_f02_devy_02_3" korean="This is my house! Moire teach! Crush all those guys!" />
+	<block key="caption_f02_devy_02_4" korean="Wooohoh Oh!" />
+	<block key="caption_f04_Lastfight_01" korean="We stopped finally here." />
+	<block key="caption_f04_Lastfight_02" korean="Pegasus Knights will return home after all the battles in this place today." />
+	<block key="caption_f04_Lastfight_03" korean="Let's end this long dark night! Will spread the wings of Pegasus, the airspace shining!" />
+	<block key="caption_f03_mirror_05" korean="Come on! The mirror finish pretty low, get it." />
+	<block key="caption_f09_princess_01_1" korean="I finally found the whereabouts of the Rondo from and against Canas." />
+	<block key="caption_f09_princess_01_2" korean="Along one will find him" />
+	<block key="caption_f09_princess_01_3" korean="If you'd like a haven of outrageous." />
+	<block key="caption_f09_princess_01_4" korean="God is not a barrier." />
+	<block key="f09_rondo_01_1" korean="Stupid is ..." />
+	<block key="f09_rondo_01_2" korean="Future and Canas was already decided." />
+	<block key="f09_rondo_01_3" korean="The princess awakes to drink, the kingdom is destroyed." />
+	<block key="f09_rondo_01_4" korean="Now we meet. Rondo." />
+	<block key="f09_rondo_01_5" korean="The firing blanks back the princess." />
+	<block key="f09_rondo_01_6" korean="Strength of the awakening Ellora is already connected with me." />
+	<block key="f09_rondo_01_7" korean="If you want to kill the princess may kill me." />
+	<block key="f09_rondo_01_8" korean="There you'll meet again soon, Londo." />
+	<block key="f09_rondo_01_9" korean="... That's a big deal." />
+	<block key="f09_princess_02_1" korean="If you do not have to succumb to the power of Ellora.'ll Tame." />
+	<block key="f09_princess_02_2" korean="Is you again?" />
+	<block key="f09_princess_02_3" korean="It is too late. The princess will awaken the power of four who accepted." />
+	<block key="f09_princess_02_4" korean="And will be a real key to wake up drunk." />
+	<block key="c01_king_02_1" korean="You can draw your head." />
+	<block key="c01_king_02_2" korean="Even though one escort articles, there was this much strive for self kingdom." />
+	<block key="c01_king_02_3" korean="Appointed him to a full article and do not lend its full support!" />
+	<block key="caption_c01_fellow01_01" korean="Please keep in mind that only a selected number of days to tame your fellow warriors." />
+	<block key="caption_c01_fellow01_02" korean="So, I'll describe how tame." />
+	<block key="caption_c01_fellow01_03" korean="First, after using the taming skill, to reach their fellow cautiously." />
+	<block key="caption_c01_fellow01_04" korean="Tame specify the destination as a target, and then ... Make sure to get on, do not miss the opportunity to come!" />
+	<block key="caption_c01_fellow01_05" korean="Tame jilji never know what the situation is when you focus going!" />
+	<block key="caption_c01_fellow01_06" korean="Success! Tame the strength to suppress the timing and Fellows." />
+	<block key="caption_c01_fellow01_06_1" korean="And sympathy with that fellow. The most important thing is three things." />
+	<block key="caption_c01_fellow01_07" korean="These two are the most important." />
+	<block key="caption_c01_fellow01_08" korean="Now explanation is over." />
+	<block key="caption_c01_fellow01_09" korean="Tame the Community under, please prove that you selected veterans." />
+	<block key="caption_f05_chime01" korean="There is a story do for you." />
+	<block key="caption_f05_chime02" korean="Canas lost princess of destiny and ..." />
+	<block key="caption_f05_chime03" korean="About the real purpose of the Immortal Legion" />
+	<block key="caption_f05_chime04" korean="Goddess Spirit ..." />
+	<block key="caption_f05_chime05" korean="Give showed his power again!" />
+	<block key="caption_f05_chime06" korean="Pitch-black darkness and divine woman like ..." />
+	<block key="caption_f05_chime07" korean="That darkness and swallow up the kingdom." />
+	<block key="caption_f05_chime08" korean="Did you see that? The prophecy of the future right to strike in Canas." />
+	<block key="caption_f05_chime09" korean="If I could do to prevent this fate." />
+	<block key="caption_f05_chime10" korean="You are the only hope in this cruel fate according to the FATE ..." />
+	<block key="caption_f05_chime11" korean="All is ready." />
+	<block key="caption_f05_chime12" korean="Now is the time to attack the Immortal Legion fort." />
+	<block key="caption_f05_chime13" korean="In order to do this, it is first off the enchantment." />
+	<block key="caption_f05_chime14" korean="We'll have to stop the enemies, go straight up the hill with enchantment." />
+	<block key="caption_f05_chime15" korean="Revocation of enchantment and must open the way!" />
+	<block key="caption_f05_chime16" korean="Please head to the prophecy, the person in O ... Now let Croix temple." />
+	<block key="caption_f05_chime17" korean="Please please please save me from the fallen Croix Croix Khun temple in ..." />
+	<block key="caption_f05_cutis01" korean="Gargoyle is seen squatting day I chased them all the way alone ..." />
+	<block key="caption_f05_cutis02" korean="Then, they are immortal legions answers it appears in the sky." />
+	<block key="caption_f05_cutis03" korean="It was far away, was being held to them, obviously, Princess Rania!" />
+	<block key="caption_f05_cutis04" korean="They flew toward me ohgilrae hastily carved rocks hide the body behind." />
+	<block key="caption_f05_cutis05" korean="Fortunately, the group felt a failure to find me." />
+	<block key="caption_f05_cutis06" korean="But secretly pursued their backs ..." />
+	<block key="caption_f05_cutis07" korean="Yes they disappeared into the immortal army fort." />
+	<block key="caption_f05_cutis08" korean="He could no longer go after Princess." />
+	<block key="caption_f05_cutis09" korean="Immortal Legion fort is a place like cheolongseong!" />
+	<block key="caption_f05_cutis10" korean="It's one thing to enter the fort nearly impossible." />
+	<block key="caption_f05_princess_lania01" korean="No ... no ..." />
+	<block key="caption_f05_princess_lania02" korean="Whoa ... Uh-Ah!" />
+	<block key="caption_f05_princess_lania03" korean="I'd place my faithful servant, O" />
+	<block key="caption_f05_princess_lania04" korean="Stop. Our work is a priority." />
+	<block key="caption_f05_princess_lania05" korean="Come Pour Gel Sahib led me to a place where monks were sleeping." />
+	<block key="caption_f05_sarant01" korean="Do not remember inviting you." />
+	<block key="caption_f05_jason01" korean="Welcome." />
+</blocks>

@@ -8,7 +8,6 @@
 inline void SM_UNK21(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeB(5);
 	pck->writeW(0x0100);
 	pck->writeW(0x010b);

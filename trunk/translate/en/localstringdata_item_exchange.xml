@@ -1,0 +1,372 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EX_0_0000_Name" korean="Rhino horn of" />
+	<block key="EX_0_0000_description" korean="Rhino horns of broken. Ropda fairly sharp" />
+	<block key="EX_0_0001_Name" korean="A piece of armor Rhino" />
+	<block key="EX_0_0001_description" korean="Broken pieces of armor Rhino. You can not find out the shape" />
+	<block key="EX_0_0002_Name" korean="Flecks of ice" />
+	<block key="EX_0_0002_description" korean="Debris away from the big ice" />
+	<block key="EX_0_0003_Name" korean="Flakes of flame" />
+	<block key="EX_0_0003_description" korean="Materialized debris away from the flame body" />
+	<block key="EX_0_0004_Name" korean="A piece of ordinance" />
+	<block key="EX_0_0004_description" korean="Dead souls left standing sculpture. The mysterious aura felt" />
+	<block key="EX_0_0005_Name" korean="Hairpin spirits" />
+	<block key="EX_0_0005_description" korean="Souls that plugs into hair barrette. The nature of the fragrance is felt" />
+	<block key="EX_0_0006_Name" korean="Wolf teeth torn" />
+	<block key="EX_0_0006_description" korean="I have a piece of wolf teeth. Hard and sharp looks lower" />
+	<block key="EX_0_0007_Name" korean="Wolf Leather" />
+	<block key="EX_0_0007_description" korean="Leather wolf. Tough looks warmer" />
+	<block key="EX_0_0008_Name" korean="Ragged boar leather" />
+	<block key="EX_0_0008_description" korean="Wild boar became tattered leather. Seems to be no place to write by" />
+	<block key="EX_0_0009_Name" korean="Boar intestines" />
+	<block key="EX_0_0009_description" korean="Built in the boar. The smells quite yeokhan" />
+	<block key="EX_0_0010_Name" korean="Brage Charm" />
+	<block key="EX_0_0010_description" korean="Brage favorite talisman supervisor. Do not know what effect this itneunjineun" />
+	<block key="EX_0_0011_Name" korean="The ax fell the day" />
+	<block key="EX_0_0011_description" korean="The missing tooth ax me. Seems no more available" />
+	<block key="EX_0_0012_Name" korean="The missing knife" />
+	<block key="EX_0_0012_description" korean="The missing tooth blade. Seems no more available" />
+	<block key="EX_0_0013_Name" korean="Broken sticks" />
+	<block key="EX_0_0013_description" korean="Two places nabeorin cane. Let's use as firewood." />
+	<block key="EX_0_0014_Name" korean="Broken Arrow" />
+	<block key="EX_0_0014_description" korean="Arrow tip is broken not available" />
+	<block key="EX_0_0015_Name" korean="Fire Corps uniforms." />
+	<block key="EX_0_0015_description" korean="Fire Corps insignia to the highest rank of possession" />
+	<block key="EX_0_0016_Name" korean="Flame Ward" />
+	<block key="EX_0_0016_description" korean="The SS troops guarding the flame stuff" />
+	<block key="EX_0_0017_Name" korean="Torn Bearskin" />
+	<block key="EX_0_0017_description" korean="The sharp-torn country bearskin. Worth a lot of looks off" />
+	<block key="EX_0_0018_Name" korean="Claws of a bear" />
+	<block key="EX_0_0018_description" korean="Sharp claws of a bear. Comes to mind the image of a live bear" />
+	<block key="EX_0_0019_Name" korean="Burning rubble rises" />
+	<block key="EX_0_0019_description" korean="That burnt rubble. Also pour water does not turn off" />
+	<block key="EX_0_0020_Name" korean="Yeti hooves" />
+	<block key="EX_0_0020_description" korean="Hooves off the foot of the Yeti. Snow still united" />
+	<block key="EX_0_0021_Name" korean="Yeti leather" />
+	<block key="EX_0_0021_description" korean="Leather-white yeti. Excellent thermal insulation" />
+	<block key="EX_0_0022_Name" korean="Talisman of the Shaman" />
+	<block key="EX_0_0022_description" korean="Shaman Talisman has had. This occurred in specific patterns" />
+	<block key="EX_0_0023_Name" korean="Arrows of Yeti hunters" />
+	<block key="EX_0_0023_description" korean="Yeti hunters who use arrow. And another arrow is different from white" />
+	<block key="EX_0_0024_Name" korean="Blizzard heart" />
+	<block key="EX_0_0024_description" korean="Blizzard cold heart. The longer the heart of the living creatures in cold regions" />
+	<block key="EX_0_0025_Name" korean="Claw of the frozen wolf" />
+	<block key="EX_0_0025_description" korean="Freezing cold claws of a wolf. Still remains a cold" />
+	<block key="EX_0_0026_Name" korean="Fang of the frozen wolf" />
+	<block key="EX_0_0026_description" korean="Fang of the Wolf freezing cold. The ice on the sharpness of the canine isolated from operators fleeting looks more sharp" />
+	<block key="EX_0_0027_Name" korean="Ice Fist" />
+	<block key="EX_0_0027_description" korean="Fist frozen cold. If the rust seems to disappear" />
+	<block key="EX_0_0028_Name" korean="Frozen bone fragments" />
+	<block key="EX_0_0028_description" korean="Freezing cold and bone fragments. It seems harder to throw me to pieces" />
+	<block key="EX_0_0029_Name" korean="Mane" />
+	<block key="EX_0_0029_description" korean="Fur of wild boar" />
+	<block key="EX_0_0030_Name" korean="Coarse mane" />
+	<block key="EX_0_0030_description" korean="Wild boar hair. The feel of the wild is buried" />
+	<block key="EX_0_0031_Name" korean="Sharp blade" />
+	<block key="EX_0_0031_description" korean="Living blade sharpness. It seems veil touches" />
+	<block key="EX_0_0032_Name" korean="Old cloth" />
+	<block key="EX_0_0032_description" korean="Quite old rags" />
+	<block key="EX_0_0033_Name" korean="Ragged piece" />
+	<block key="EX_0_0033_description" korean="Ragged piece of a hole using a long" />
+	<block key="EX_0_0034_Name" korean="Wolf Meat" />
+	<block key="EX_0_0034_description" korean="Meat of the wolf. Meat looks good" />
+	<block key="EX_0_0035_Name" korean="Wolf Claw" />
+	<block key="EX_0_0035_description" korean="Sharp claws of a wolf. Is rather sharp claws of predators called" />
+	<block key="EX_0_0036_Name" korean="Wolf teeth" />
+	<block key="EX_0_0036_description" korean="Teeth of a wolf. Wolf teeth are sharp even the teeth" />
+	<block key="EX_0_0037_Name" korean="Solid wild boar teeth" />
+	<block key="EX_0_0037_description" korean="Hardened teeth of wild boar looks. Stone also seems to be able to chew" />
+	<block key="EX_0_0038_Name" korean="Wild boar meat" />
+	<block key="EX_0_0038_description" korean="Meat of wild boar. Meat looks good" />
+	<block key="EX_0_0039_Name" korean="Wild boar teeth" />
+	<block key="EX_0_0039_description" korean="Teeth of wild boar" />
+	<block key="EX_0_0040_Name" korean="Felling Axe" />
+	<block key="EX_0_0040_description" korean="Axe to use when logging. The weight quite out" />
+	<block key="EX_0_0041_Name" korean="Saws for felling" />
+	<block key="EX_0_0041_description" korean="Top is used to cut the fallen tree" />
+	<block key="EX_0_0042_Name" korean="Broken pieces of armor" />
+	<block key="EX_0_0042_description" korean="Abandoned broken piece of armor. It does not look much stiffer" />
+	<block key="EX_0_0043_Name" korean="Broken pieces of wood armor" />
+	<block key="EX_0_0043_description" korean="Broken pieces of discarded wood armor. To visible light but sturdy" />
+	<block key="EX_0_0044_Name" korean="Broken ice crystals" />
+	<block key="EX_0_0044_description" korean="Determination of've broken the ice. But seemed insoluble rust" />
+	<block key="EX_0_0045_Name" korean="Brage combat uniforms." />
+	<block key="EX_0_0045_description" korean="Brage rank to combat possession. Rank is not high" />
+	<block key="EX_0_0046_Name" korean="Brage elite rank" />
+	<block key="EX_0_0046_description" korean="Brage rank possessing elite soldiers" />
+	<block key="EX_0_0047_Name" korean="Brage sign of the Patriarchs" />
+	<block key="EX_0_0047_description" korean="Brage sign to prove that the Patriarchs" />
+	<block key="EX_0_0048_Name" korean="Fairy dust" />
+	<block key="EX_0_0048_description" korean="Fairy dust away from the body. Efficacy is unknown." />
+	<block key="EX_0_0049_Name" korean="Fox meat" />
+	<block key="EX_0_0049_description" korean="Meat of foxes. Looks good" />
+	<block key="EX_0_0050_Name" korean="Small hammer" />
+	<block key="EX_0_0050_description" korean="Hammer of the extremely small size" />
+	<block key="EX_0_0051_Name" korean="Weeds" />
+	<block key="EX_0_0051_description" korean="Common pool where you can see eseona" />
+	<block key="EX_0_0052_Name" korean="Transparent wings" />
+	<block key="EX_0_0052_description" korean="Transparent enough to look behind the wings" />
+	<block key="EX_0_0053_Name" korean="Absorption early roots" />
+	<block key="EX_0_0053_description" korean="Man-eating plant roots absorption seconds. Good yakjaeryo used" />
+	<block key="EX_0_0054_Name" korean="Faint sheen" />
+	<block key="EX_0_0054_description" korean="The dim light I care lump" />
+	<block key="EX_0_0055_Name" korean="Brage Charm" />
+	<block key="EX_0_0055_description" korean="Brage amulets were treasured here" />
+	<block key="EX_0_0056_Name" korean="Old pecker" />
+	<block key="EX_0_0056_description" korean="Quite old pickaxe. Seems to be broken down strike" />
+	<block key="EX_0_0057_Name" korean="Foxtail" />
+	<block key="EX_0_0057_description" korean="Soft tail of a fox. It seems like aristocratic wives" />
+	<block key="EX_0_0058_Name" korean="Smoldering Bones" />
+	<block key="EX_0_0058_description" korean="Places seared bones have marks" />
+	<block key="EX_0_0059_Name" korean="Sears armor pieces" />
+	<block key="EX_0_0059_description" korean="The soot remains an old piece of armor everywhere" />
+	<block key="EX_0_0060_Name" korean="A piece of cloth ghost" />
+	<block key="EX_0_0060_description" korean="Long wanted to be felt cloth. The atmosphere feels cold" />
+	<block key="EX_0_0061_Name" korean="The signs of the fire burnt the Templars" />
+	<block key="EX_0_0061_description" korean="Charred black signs of the Templars" />
+	<block key="EX_0_0062_Name" korean="Hot stones" />
+	<block key="EX_0_0062_description" korean="Dale seemed comforting hand remains hot" />
+	<block key="EX_0_0063_Name" korean="Flarecore" />
+	<block key="EX_0_0063_description" korean="As you can see like a little sun, endless flame has been radiating" />
+	<block key="EX_0_0064_Name" korean="Spider legs" />
+	<block key="EX_0_0064_description" korean="Big spider legs." />
+	<block key="EX_0_0065_Name" korean="Money's solo tarantulas" />
+	<block key="EX_0_0065_description" korean="The money that contains the poison of the tarantula solo." />
+	<block key="EX_0_0066_Name" korean="Cobweb" />
+	<block key="EX_0_0066_description" korean="Sticky and chewy web." />
+	<block key="EX_0_0067_Name" korean="Furry spider legs" />
+	<block key="EX_0_0067_description" korean="Fluffy fluffy spider legs." />
+	<block key="EX_0_0068_Name" korean="Tendons of reindeer" />
+	<block key="EX_0_0068_description" korean="Reindeer sinews of a solid." />
+	<block key="EX_0_0069_Name" korean="Mane reindeer" />
+	<block key="EX_0_0069_description" korean="The mane of the reindeer." />
+	<block key="EX_0_0070_Name" korean="Wild wolf leather" />
+	<block key="EX_0_0070_description" korean="Rough leather wolf. Leather is used as armor material." />
+	<block key="EX_0_0071_Name" korean="Aura of Darkness" />
+	<block key="EX_0_0071_description" korean="Energy consisting of an evil spirit." />
+	<block key="EX_0_0072_Name" korean="Cow meat" />
+	<block key="EX_0_0072_description" korean="Cow meat. Is used as a cooking ingredient." />
+	<block key="EX_0_0073_Name" korean="Werewolf's Tail" />
+	<block key="EX_0_0073_description" korean="Wolf is a human tail." />
+	<block key="EX_0_0074_Name" korean="Pocket drug" />
+	<block key="EX_0_0074_description" korean="Assistant a bag filled with medical drugs." />
+	<block key="EX_0_0075_Name" korean="Fire Trap" />
+	<block key="EX_0_0075_description" korean="Wolf flame trap that people use." />
+	<block key="EX_0_0076_Name" korean="Throwing Knives" />
+	<block key="EX_0_0076_description" korean="Wolf is throwing knife for human use." />
+	<block key="EX_0_0077_Name" korean="Boar Hoof" />
+	<block key="EX_0_0077_description" korean="Hooves of a wild boar." />
+	<block key="EX_0_0078_Name" korean="Modify horns debris" />
+	<block key="EX_0_0078_description" korean="Modify the horns debris. Sold out in stores as expensive." />
+	<block key="EX_0_0079_Name" korean="Leftover carrots" />
+	<block key="EX_0_0079_description" korean="The rabbit is leftover carrots." />
+	<block key="EX_0_0080_Name" korean="Soft rabbit fur" />
+	<block key="EX_0_0080_description" korean="The soft rabbit fur. Seems better off creating a warm clothes." />
+	<block key="EX_0_0081_Name" korean="Giant bee antennae" />
+	<block key="EX_0_0081_description" korean="The antenna of the giant bees." />
+	<block key="EX_0_0082_Name" korean="Bee's wings" />
+	<block key="EX_0_0082_description" korean="The bee's wings." />
+	<block key="EX_0_0083_Name" korean="Eyes of a bee" />
+	<block key="EX_0_0083_description" korean="The eyes of a bee." />
+	<block key="EX_0_0084_Name" korean="Turtle claws" />
+	<block key="EX_0_0084_description" korean="The turtle claws." />
+	<block key="EX_0_0085_Name" korean="Hard shell turtles, etc." />
+	<block key="EX_0_0085_description" korean="The shell of the turtle is very solid. Is used as armor material." />
+	<block key="EX_0_0086_Name" korean="Venom" />
+	<block key="EX_0_0086_description" korean="The poison of the serpent." />
+	<block key="EX_0_0087_Name" korean="Frog hind" />
+	<block key="EX_0_0087_description" korean="The frog hind legs." />
+	<block key="EX_0_0088_Name" korean="Cattle hooves" />
+	<block key="EX_0_0088_description" korean="The hooves of buffalo." />
+	<block key="EX_0_0089_Name" korean="Cow tail feathers" />
+	<block key="EX_0_0089_description" korean="The tail feathers of a buffalo." />
+	<block key="EX_0_0090_Name" korean="Teeth of a bear" />
+	<block key="EX_0_0090_description" korean="The teeth of a bear." />
+	<block key="EX_0_0091_Name" korean="Chin on the Pelican" />
+	<block key="EX_0_0091_description" korean="Pelican is a very solid chin." />
+	<block key="EX_0_0092_Name" korean="Light Feather" />
+	<block key="EX_0_0092_description" korean="The feathers of birds and light." />
+	<block key="EX_0_0093_Name" korean="Viscous mucus" />
+	<block key="EX_0_0093_description" korean="Mucus is sticky and unpleasant." />
+	<block key="EX_0_0094_Name" korean="Thick fish scales" />
+	<block key="EX_0_0094_description" korean="The thick, shiny scales mulkko group." />
+	<block key="EX_0_0095_Name" korean="Hard hooves of bison" />
+	<block key="EX_0_0095_description" korean="The solid hooves of bison." />
+	<block key="EX_0_0096_Name" korean="Tail feathers of wild bison" />
+	<block key="EX_0_0096_description" korean="The tail feathers of wild bison." />
+	<block key="EX_0_0097_Name" korean="Leopard tail" />
+	<block key="EX_0_0097_description" korean="The tail of the leopard." />
+	<block key="EX_0_0098_Name" korean="Sharp teeth" />
+	<block key="EX_0_0098_description" korean="The sharp teeth of animals." />
+	<block key="EX_0_0099_Name" korean="Bloody Scythe" />
+	<block key="EX_0_0099_description" korean="The bloody vampire better to use. Gamdonda gloomy aura." />
+	<block key="EX_0_0100_Name" korean="Bloody nails" />
+	<block key="EX_0_0100_description" korean="The nails of bloody vampire blood." />
+	<block key="EX_0_0101_Name" korean="Heart of the Vampire" />
+	<block key="EX_0_0101_description" korean="The heart of the vampire." />
+	<block key="EX_0_0102_Name" korean="Old hood" />
+	<block key="EX_0_0102_description" korean="Is a very old tattered hood." />
+	<block key="EX_0_0103_Name" korean="Knights bloody signs" />
+	<block key="EX_0_0103_description" korean="Past Articles section to prove that it was a sign of the Templars." />
+	<block key="EX_0_0104_Name" korean="Bloodstained garments" />
+	<block key="EX_0_0104_description" korean="The bloodstained garments." />
+	<block key="EX_0_0105_Name" korean="Old Medley" />
+	<block key="EX_0_0105_description" korean="The old odds and ends." />
+	<block key="EX_0_0106_Name" korean="Bloody cooking hat" />
+	<block key="EX_0_0106_description" korean="The blood-stained chef hats places." />
+	<block key="EX_0_0107_Name" korean="Obedience stick" />
+	<block key="EX_0_0107_description" korean="Obedience is a bar for the Beast. Remove the Beast as well to hear the words somehow." />
+	<block key="EX_0_0108_Name" korean="Fragmented chains" />
+	<block key="EX_0_0108_description" korean="The fragmented chains." />
+	<block key="EX_0_0109_Name" korean="Frost sharp claws" />
+	<block key="EX_0_0109_description" korean="The claws of astaxanthin." />
+	<block key="EX_0_0110_Name" korean="Obedience frozen bars" />
+	<block key="EX_0_0110_description" korean="The bar is used by the trainer." />
+	<block key="EX_0_0111_Name" korean="A source of cool air horsepower" />
+	<block key="EX_0_0111_description" korean="Magus horsepower is contained." />
+	<block key="EX_0_0112_Name" korean="Frost Yeti Totem" />
+	<block key="EX_0_0112_description" korean="Yeti is a little doll that has the shape of a totem around." />
+	<block key="EX_0_0113_Name" korean="Frozen spider legs" />
+	<block key="EX_0_0113_description" korean="The frozen spider legs." />
+	<block key="EX_0_0114_Name" korean="Cool webs" />
+	<block key="EX_0_0114_description" korean="The cold, hard webs." />
+	<block key="EX_0_0115_Name" korean="Old slave shackles" />
+	<block key="EX_0_0115_description" korean="Old and the old slave shackles." />
+	<block key="EX_0_0116_Name" korean="Corroded cane" />
+	<block key="EX_0_0116_description" korean="The rotten stick." />
+	<block key="EX_0_0117_Name" korean="Bupye bone" />
+	<block key="EX_0_0117_description" korean="The rotten bone fragments." />
+	<block key="EX_0_0118_Name" korean="Long spider legs" />
+	<block key="EX_0_0118_description" korean="The scar on the face pretty long spider legs." />
+	<block key="EX_0_0119_Name" korean="Hairpin old maids" />
+	<block key="EX_0_0119_description" korean="A long time ago I used the maids of the palace are hairpins." />
+	<block key="EX_0_0120_Name" korean="Lesser Demon one trillion kinds Guide 1" />
+	<block key="EX_0_0120_description" korean="Lesser Demon one trillion kinds of guidelines 1. Completed a total of three. Who is your true master of this book Devil contractor." />
+	<block key="EX_0_0121_Name" korean="Lesser Mark of the Devil contract" />
+	<block key="EX_0_0121_description" korean="When you sign a contract agreement with the lesser demon is a demon that." />
+	<block key="EX_0_0122_Name" korean="Fullness of the spirit of darkness" />
+	<block key="EX_0_0122_description" korean="Energy aura of gloom-filled. This very gloomy aura gamdonda." />
+	<block key="EX_0_0123_Name" korean="Wings of a little devil" />
+	<block key="EX_0_0123_description" korean="The wings of the little devil." />
+	<block key="EX_0_0124_Name" korean="Short-tailed demon" />
+	<block key="EX_0_0124_description" korean="The short-tailed devil. Like the tail of a little devil." />
+	<block key="EX_0_0125_Name" korean="Knights corroded signs" />
+	<block key="EX_0_0125_description" korean="The signs of the old Knights of corrosion for a long time." />
+	<block key="EX_0_0126_Name" korean="Corroded Bone" />
+	<block key="EX_0_0126_description" korean="For a long time the corroded bone fragments." />
+	<block key="EX_0_0127_Name" korean="The corrosion crown" />
+	<block key="EX_0_0127_description" korean="Ancient Crown King. Jewelry are very old and out of it." />
+	<block key="EX_0_0128_Name" korean="Black dragon hatchling scales" />
+	<block key="EX_0_0128_description" korean="The scales for the black kitten. Is used in making armor material." />
+	<block key="EX_0_0129_Name" korean="Claws of black dragon hatchling" />
+	<block key="EX_0_0129_description" korean="The dragon's claw black kitten." />
+	<block key="EX_0_0130_Name" korean="Bomb fuze" />
+	<block key="EX_0_0130_description" korean="The bomb fuze. Gets wet, it says no." />
+	<block key="EX_0_0131_Name" korean="Old hat" />
+	<block key="EX_0_0131_description" korean="Is a very old tattered hat." />
+	<block key="EX_0_0132_Name" korean="Tattered armor pieces" />
+	<block key="EX_0_0132_description" korean="The one piece of tattered armor." />
+	<block key="EX_0_0133_Name" korean="Kkojil kkojil a black flag" />
+	<block key="EX_0_0133_description" korean="Kkojil kkojil Cara de pirate pirate group." />
+	<block key="EX_0_0135_Name" korean="Pyrgos robbers greater sentence" />
+	<block key="EX_0_0135_description" korean="Pyrgos robbers to prove that a greater sentence." />
+	<block key="EX_0_0136_Name" korean="Old mask" />
+	<block key="EX_0_0136_description" korean="Is a very old tattered mask. Write off the same look like bandits." />
+	<block key="EX_0_0137_Name" korean="Corroded Knight-Commander Mark" />
+	<block key="EX_0_0137_description" korean="The signs of the old Knight-Commander." />
+	<block key="EX_0_0138_Name" korean="Corroded armor pieces" />
+	<block key="EX_0_0138_description" korean="The corroded armor pieces." />
+	<block key="EX_0_0139_Name" korean="Pumpkin wasps fluids" />
+	<block key="EX_0_0139_description" korean="The body fluids of pumpkin wasps." />
+	<block key="EX_0_0140_Name" korean="Smooth fox fur" />
+	<block key="EX_0_0140_description" korean="The soft fox fur." />
+	<block key="EX_0_0141_Name" korean="Dock your pocket" />
+	<block key="EX_0_0141_Description" korean="The ingredients needed to make the poison aura suppression order" />
+	<block key="EX_0_0142_Name" korean="Venom pocket" />
+	<block key="EX_0_0142_Description" korean="The ingredients needed to make the poison aura suppression order" />
+	<block key="EX_0_0143_Name" korean="Constant Flame" />
+	<block key="EX_0_0143_Description" korean="The ingredients needed to make the flame aura suppression order" />
+	<block key="EX_0_0144_Name" korean="Constant intense flame" />
+	<block key="EX_0_0144_Description" korean="The ingredients needed to make the flame aura suppression order" />
+	<block key="EX_0_0145_Name" korean="Constant Frost" />
+	<block key="EX_0_0145_Description" korean="Materials needed to make a cold aura suppression order" />
+	<block key="EX_0_0146_Name" korean="Constant intense cold" />
+	<block key="EX_0_0146_Description" korean="Materials needed to make a cold aura suppression order" />
+	<block key="EX_0_0147_Name" korean="Constant light" />
+	<block key="EX_0_0147_Description" korean="The ingredients needed to make the light energy suppression order" />
+	<block key="EX_0_0148_Name" korean="Essence of intense light" />
+	<block key="EX_0_0148_Description" korean="The ingredients needed to make the light energy suppression order" />
+	<block key="EX_0_0149_Name" korean="Essence of darkness" />
+	<block key="EX_0_0149_Description" korean="Materials needed to make a dark aura suppression order" />
+	<block key="EX_0_0150_Name" korean="Essence of intense darkness" />
+	<block key="EX_0_0150_Description" korean="Materials needed to make a dark aura suppression order" />
+	<block key="EX_0_0151_Name" korean="Stone of Purification" />
+	<block key="EX_0_0151_Description" korean="Causes cleanse the body of the dark magic sealed frozen ruins." />
+	<block key="EX_0_0152_Name" korean="Mucus Octopus" />
+	<block key="EX_0_0152_Description" korean="Sticky mucus liquid believed to be an octopus. The disgusting stink fly." />
+	<block key="EX_0_0153_Name" korean="Dirt-stained coins" />
+	<block key="EX_0_0153_Description" korean="Pendant thought I knew it was picked up old coins." />
+	<block key="EX_0_0154_Name" korean="Bloody petals" />
+	<block key="EX_0_0154_Description" korean="Petals rancorous seoryeo" />
+	<block key="EX_0_0155_Name" korean="Exergy grown coins" />
+	<block key="EX_0_0155_Description" korean="Money that can be grown in the exciter store" />
+	<block key="EX_0_0156_Name" korean="Canas and commemorative coins" />
+	<block key="EX_0_0156_Description" korean="Coin commemorating the establishment in the castle and Canas Canas \u003cBR\u003e and also \u003cUI_Y\u003e [to Canas coin operator] can be replaced with a variety of Canas box and through the Madeleine \u003c/ UI_Y\u003e." />
+	<block key="EX_0_0157_Name" korean="Alliance of Light badge" />
+	<block key="EX_0_0157_Description" korean="Insignia of veterans who fought against the army drank in the past" />
+	<block key="EX_0_0158_Name" korean="SK hynix SSD" />
+	<block key="EX_0_0158_Description" korean="SK hynix affiliate promotional items.\n- The probability of winning increases the more high-end SSD collected." />
+	<block key="EX_0_0160_Name" korean="Donggoe of Izu Hora" />
+	<block key="EX_0_0161_Name" korean="Eungoe of Izu Hora" />
+	<block key="EX_0_0162_Name" korean="Bullion Izu Hora" />
+	<block key="EX_0_0163_Name" korean="The key piece of the Izu Hora" />
+	<block key="EX_0_0160_Description" korean="\u003cUI_G\u003e the store can sell at high prices. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0161_Description" korean="\u003cUI_G\u003e the store can sell at high prices. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0162_Description" korean="\u003cUI_G\u003e the store can sell at high prices. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0163_Description" korean="The key piece've broken into several pieces\n\n\u003cUI_G\u003e collection of key pieces you can go to La Vinny trader in the airspace of the gap entrance replace the whole key. \u003c/ UI_G\u003e" />
+	<block key="ex_0_0159_Name" korean="Football" />
+	<block key="EX_0_0164_Name" korean="Seal of the legend" />
+	<block key="EX_0_0164_Description" korean="\u003cUI_Y\u003e Legendary Difficulty instance dungeon entrance \u003c/ UI_Y\u003e\n\u003cUI_G\u003e fire swallowed ruins \u003c/ UI_G\u003e\n\u003cUI_G\u003e Karl's reang mansion \u003c/ UI_G\u003e\n\u003cUI_G\u003e Frozen Mart Len ruins \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e The Cobb key that allows you to position a strong spatial revived by distorting time and space in any denomination. \u003c/ UI_Y\u003e\n\n\u003cUI_G\u003e can be obtained through a quest item can not be traded. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0165_Name" korean="Seal of the legend of the Blessed" />
+	<block key="EX_0_0165_Description" korean="\u003cUI_Y\u003e Legendary Difficulty instance dungeon entrance \u003c/ UI_Y\u003e\n\u003cUI_G\u003e fire swallowed ruins \u003c/ UI_G\u003e\n\u003cUI_G\u003e Karl's reang mansion \u003c/ UI_G\u003e\n\u003cUI_G\u003e Frozen Mart Len ruins \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e The Cobb key that allows you to position a strong spatial revived by distorting time and space in any denomination. \u003c/ UI_Y\u003e\n\n\u003cUI_G\u003e can be achieved through the creation / drop in trading items available. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0166_Name" korean="Certificate of attendance crescent top" />
+	<block key="EX_0_0166_Description" korean="Top attend events crescent item" />
+	<block key="EX_0_0167_Name" korean="The Seven Deadly Sins and raised piece exciter report" />
+	<block key="EX_0_0167_Description" korean="This piece of information written on the exciter grown Fellow of The Seven Deadly Sins" />
+	<block key="EX_0_0168_Name" korean="Exergy grown ancient histories piece" />
+	<block key="EX_0_0168_Description" korean="Part of the written report of the exciter grew up steeped in history" />
+	<block key="EX_0_0169_Name" korean="Donggoe" />
+	<block key="EX_0_0170_Name" korean="Eungoe" />
+	<block key="EX_0_0171_Name" korean="Bullion" />
+	<block key="EX_0_0169_Description" korean="\u003cUI_G\u003e the store can sell at high prices. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0170_Description" korean="\u003cUI_G\u003e the store can sell at high prices. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0171_Description" korean="\u003cUI_G\u003e the store can sell at high prices. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0172_Name" korean="Exergy grown coins" />
+	<block key="EX_0_0172_Description" korean="Advanced currency that can be grown in the exciter store" />
+	<block key="EX_0_0173_Name" korean="Halloween attendance confirmation" />
+	<block key="EX_0_0173_Description" korean="Halloween attend the event items" />
+	<block key="EX_0_0174_Name" korean="Exergy grew up treasure key" />
+	<block key="EX_0_0174_Description" korean="The key to open the treasure chest in the middle of the lake Halo\n\n\u003cUI_G\u003e Caution! If you cancel opening the box disappears. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0175_Name" korean="Exo-digit helpful digger" />
+	<block key="EX_0_0175_Description" korean="Halo Lake digger that can help dig the exo position in the center\n\n\u003cUI_G\u003e Caution! If you cancel during mining will disappear. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0176_Name" korean="Ahkeron coins" />
+	<block key="EX_0_0176_Description" korean="Money that can be used in ahkeron store" />
+	<block key="EX_0_0177_Name" korean="Ahkeron coins" />
+	<block key="EX_0_0177_Description" korean="Advanced currency that can be used in ahkeron store" />
+	<block key="EX_0_0178_Name" korean="Confirmation of attendance glass" />
+	<block key="EX_0_0178_Description" korean="Event attendance confirmation ground of unity that the glass" />
+	<block key="EX_0_0179_Name" korean="Kunzite coin market in the moonlight" />
+	<block key="EX_0_0179_Description" korean="Black market that operates on a common management of the new moon and shadow top top, \u003cUI_G\u003e [Moonlight Market] \u003c/ UI_G\u003e commonly used only in coins\n\n\u003cO_Y\u003e can exchange the item through Kunzite coin exchange traders appeared after December 10. \u003c/ O_Y\u003e" />
+	<block key="EX_0_0180_Name" korean="Gold coin market in the moonlight" />
+	<block key="EX_0_0180_Description" korean="Black market that operates on a common management of the new moon and shadow top top, \u003cUI_G\u003e [Moonlight Market] \u003c/ UI_G\u003e commonly used only in coins\n\n\u003cO_Y\u003e can exchange the item with the gold coin exchange traders appeared after December 10. \u003c/ O_Y\u003e" />
+	<block key="EX_0_0181_Name" korean="Lapis medal in the moonlight Market" />
+	<block key="EX_0_0181_Description" korean="Black market that operates on a common management of the new moon and shadow top top, \u003cUI_G\u003e [Moonlight Market] \u003c/ UI_G\u003e medals are accepted only\n\n\u003cO_Y\u003e can be exchanged for items through the lapis lazuli medal exchange traders appeared after December 10. \u003c/ O_Y\u003e" />
+	<block key="EX_0_0182_Name" korean="Gold medal in the moonlight Market" />
+	<block key="EX_0_0182_Description" korean="Black market that operates on a common management of the new moon and shadow top top, \u003cUI_G\u003e [Moonlight Market] \u003c/ UI_G\u003e medals are accepted only\n\n\u003cO_Y\u003e can exchange the item with the gold medal exchange traders appeared after December 10. \u003c/ O_Y\u003e" />
+</blocks>

@@ -59,10 +59,11 @@ bool StartGame()
 {
 	int tt = strlen(md5_hash);
 	char packet[1024];
-	int packet_len = strlen(md5_hash) + 4 +1;
-	memcpy(packet + 4, md5_hash, strlen(md5_hash));
+	int packet_len = strlen(md5_hash) + 6 +1;
+	memcpy(packet + 6, md5_hash, strlen(md5_hash));
 	*(WORD *)(packet + 0) = packet_len;
 	*(WORD *)(packet + 2) = 0xfeff;
+	*(WORD *)(packet + 4) = 0x0000;
 	packet[packet_len-1] = 0;
 
 	WORD ver = MAKEWORD(2, 2);
@@ -129,9 +130,9 @@ bool StartGame()
 //	closesocket(clientSock);
 	WSACleanup();
 
-	if (strlen(szResponse+4) > 30)
+	if (strlen(szResponse+6) > 30)
 	{
-		sprintf(startparam, "/i:%s /r:1158563 /O /u:5223139 /m:P", szResponse + 4);
+		sprintf(startparam, "/i:%s /r:2621993 /O /u:5223139 /m:P", szResponse + 6);
 		return true;
 	}
 	else
@@ -163,7 +164,7 @@ INT_PTR CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 			{ 
 				// start game
 				SetCurrentDirectory("./Bin32");
-				ShellExecute(NULL, "open", "Launcher.exe", startparam, NULL, SW_NORMAL);
+				ShellExecute(NULL, "open", "Icarus.exe", startparam, NULL, SW_NORMAL);
 				Sleep(100);
 				EndDialog(hWnd, LOWORD(wParam));
 			}

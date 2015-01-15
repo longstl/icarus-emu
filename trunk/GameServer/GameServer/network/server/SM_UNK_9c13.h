@@ -8,7 +8,6 @@
 inline void SM_UNK_9c13(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(3); // for?
 	pck->writeD(0);
 	pck->writeD(0);

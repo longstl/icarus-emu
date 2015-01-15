@@ -1,0 +1,204 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="moramp2_Name" korean="l×ÝÀ" />
+	<block key="moramp2_Description_1" korean="l×ÝÀ" />
+	<block key="mofigo1_Name" korean="" />
+	<block key="mofigo1_Description_1" korean="" />
+	<block key="mofigo2_Name" korean="" />
+	<block key="mofigo2_Description_1" korean="" />
+	<block key="mosantinl05_Name" korean="(Ì" />
+	<block key="mosantinl05_Description_1" korean="(Ì" />
+	<block key="mogarmu03_Name" korean="„½ÄÁ" />
+	<block key="mogarmu03_Description_1" korean="„½ÄÁ" />
+	<block key="mobragseld00_Name" korean="<ÖàÂXÇ " />
+	<block key="mobragseld00_Description_1" korean="<ÖàÂXÇ " />
+	<block key="morzt1_Name" korean="ðÅÁ " />
+	<block key="morzt1_Description_1" korean="ðÅÁ " />
+	<block key="morzt2_Name" korean="ìÂÓXÇ " />
+	<block key="morzt2_Description_1" korean="ìÂÓXÇ " />
+	<block key="morzt3_Name" korean="ˆ½XÇ " />
+	<block key="morzt3_Description_1" korean="ˆ½XÇ " />
+	<block key="morzt4_Name" korean="ìÂÓXÇ " />
+	<block key="morzt4_Description_1" korean="ìÂÓXÇ " />
+	<block key="morzt5_Name" korean="ìÂÓXÇ " />
+	<block key="morzt5_Description_1" korean="ìÂÓXÇ " />
+	<block key="momupa1_Name" korean=",Æ$¸ " />
+	<block key="momupa1_Description_1" korean=",Æ$¸ " />
+	<block key="momupa2_Name" korean="" />
+	<block key="momupa2_Description_1" korean="" />
+	<block key="momupa3_Name" korean="¬%¸\Õ " />
+	<block key="momupa3_Description_1" korean="¬%¸\Õ " />
+	<block key="momupa4_Name" korean="\ÍÄÖXÇ " />
+	<block key="momupa4_Description_1" korean="\ÍÄÖXÇ " />
+	<block key="momupa5_Name" korean="\ÍÄÖXÇ " />
+	<block key="momupa5_Description_1" korean="\ÍÄÖXÇ " />
+	<block key="momupa6_Name" korean="\ÍÄÖXÇ " />
+	<block key="momupa6_Description_1" korean="\ÍÄÖXÇ " />
+	<block key="mohama1_Name" korean="´Åh® " />
+	<block key="mohama1_Description_1" korean="´Åh® " />
+	<block key="mohama2_Name" korean="¼ " />
+	<block key="mohama2_Description_1" korean="¼ " />
+	<block key="mohama3_Name" korean="P´€½ " />
+	<block key="mohama3_Description_1" korean="P´€½ " />
+	<block key="mohama4_Name" korean="\ÍÄÖXÇ " />
+	<block key="mohama4_Description_1" korean="\ÍÄÖXÇ " />
+	<block key="mohama5_Name" korean="\ÍÄÖXÇ " />
+	<block key="mohama5_Description_1" korean="\ÍÄÖXÇ " />
+	<block key="mohama6_Name" korean="\ÍÄÖXÇ " />
+	<block key="mohama6_Description_1" korean="\ÍÄÖXÇ " />
+	<block key="mokas1_Name" korean="ÄÉõ¬ " />
+	<block key="mokas1_Description_1" korean="ÄÉõ¬ " />
+	<block key="mokas2_Name" korean="¨º˜· " />
+	<block key="mokas2_Description_1" korean="¨º˜· " />
+	<block key="mokas3_Name" korean="¬ÀÉ¹XÇ " />
+	<block key="mokas3_Description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="mokas4_Name" korean="¬À˜°´Æ " />
+	<block key="mokas4_Description_1" korean="¬À˜°´Æ " />
+	<block key="mokas5_Name" korean="„½x±\¸ " />
+	<block key="mokas5_Description_1" korean="„½x±\¸ " />
+	<block key="mokass1_Name" korean="¬À˜°´Æ " />
+	<block key="mokass1_Description_1" korean="¬À˜°´Æ " />
+	<block key="mokass2_Name" korean="¬À˜°´Æ " />
+	<block key="mokass2_Description_1" korean="¬À˜°´Æ " />
+	<block key="mokasv1_Name" korean="ÄÉõ¬ " />
+	<block key="mokasv1_Description_1" korean="ÄÉõ¬ " />
+	<block key="mojas1_Name" korean="TÖüÅl­" />
+	<block key="mojas2_Name" korean="¤Í”Í”² " />
+	<block key="mojas3_Name" korean="²¬ÀÜÐ" />
+	<block key="mojas4_Name" korean="È" />
+	<block key="mojas5_Name" korean=" ÇÝÂXÕ”² " />
+	<block key="mojas6_Name" korean="[¾XÇ " />
+	<block key="mojas7_Name" korean=",Ì€·\Õ " />
+	<block key="mojas8_Name" korean="J®@Ç " />
+	<block key="mojasa1_Name" korean="¤Í”Í”² " />
+	<block key="mojasa2_Name" korean="[¾XÇ " />
+	<block key="mojasa3_Name" korean="J®@Ç " />
+	<block key="mojasa4_Name" korean="¤Í”Í”² " />
+	<block key="mosin1_Name" korean="ýÈLÇXÇ " />
+	<block key="mosin2_Name" korean="¤Í”Í”² " />
+	<block key="mosin3_Name" korean="ðÅÉ¹" />
+	<block key="mosin4_Name" korean="ÈÕÁÀ" />
+	<block key="mosin5_Name" korean="©Æ$Æ„¹" />
+	<block key="mosin6_Name" korean="¼¼}·" />
+	<block key="mosin7_Name" korean="ÑÉÉ" />
+	<block key="mosin8_Name" korean="­0®XÇ " />
+	<block key="mosin9_Name" korean="­0®XÇ " />
+	<block key="mosin10_Name" korean="­0®XÇ " />
+	<block key="mosin11_Name" korean="­0®XÇ " />
+	<block key="mosin12_Name" korean="­0®XÇ " />
+	<block key="mosins1_Name" korean="ðÅÉ¹" />
+	<block key="moruinbow1_Name" korean="¨º˜· " />
+	<block key="momohabosal01_Name" korean=" °tÎ\¸´Æ " />
+	<block key="mokrokbowmangs00_Name" korean="lÐ\¸äÏXÇ " />
+	<block key="mokrokpriesgs01_Name" korean="©Æù¹XÇ " />
+	<block key="mokrokpriesgs00_Name" korean="XÎ Ç" />
+	<block key="mosinf1_Name" korean="­0®XÇ " />
+	<block key="mosinf2_Name" korean="¤Í”Í”² " />
+	<block key="mosinf3_Name" korean="ðÅÉ¹" />
+	<block key="mosinf4_Name" korean="©Æ$Æ„¹" />
+	<block key="morg1_Name" korean="p¬\Î " />
+	<block key="morg2_Name" korean="¬ÀÇÄÖ" />
+	<block key="morg3_Name" korean="" />
+	<block key="morg4_Name" korean="" />
+	<block key="morg5_Name" korean="TÅ´À" />
+	<block key="morg6_Name" korean=")¼´Å " />
+	<block key="morg7_Name" korean=")¼´Å " />
+	<block key="morg8_Name" korean=")¼´Å " />
+	<block key="morg9_Name" korean=")¼´Å " />
+	<block key="morg10_Name" korean="ˆ½0®e´" />
+	<block key="mobm1_Name" korean="õ¬l­X³ÀÉ0®" />
+	<block key="mobm2_Name" korean="}ÅˆÔ " />
+	<block key="mobm3_Name" korean="íÓÄÐ " />
+	<block key="mobtw1_Name" korean="¨º˜·¼Œ·" />
+	<block key="mobtf1_Name" korean="ˆ½0®e´" />
+	<block key="mobtic1_Name" korean="¼ÅLÇTÖ´À" />
+	<block key="mobti1_Name" korean=" Ì0®e´" />
+	<block key="mobma1_Name" korean="hÕÈ " />
+	<block key="mobma2_Name" korean="hÕÈ " />
+	<block key="mobma3_Name" korean="hÕÈ " />
+	<block key="mobma4_Name" korean="hÕÈ " />
+	<block key="moshm1_Name" korean="Ä³|° " />
+	<block key="moshm2_Name" korean=" Â " />
+	<block key="moshm3_Name" korean=" ÂµÑ " />
+	<block key="moshm4_Name" korean="ÂD¾" />
+	<block key="moyrs1_Name" korean="œ°Ä³ÈÉ" />
+	<block key="moyrs2_Name" korean="Ìt¹0®" />
+	<block key="moyrs3_Name" korean="hÎ)Ì\Õ " />
+	<block key="moyrs4_Name" korean="hÎ)Ì\Õ " />
+	<block key="moyrs5_Name" korean="hÎ)Ì\Õ " />
+	<block key="moyrs6_Name" korean="hÎ)Ì\Õ " />
+	<block key="moyrs7_Name" korean="õ¬©¬" />
+	<block key="moyrs8_Name" korean="p¬\Î " />
+	<block key="momnc1_Name" korean="Ç" />
+	<block key="momnc11_Name" korean="Ç" />
+	<block key="momnc2_Name" korean="àÂÈXÇ " />
+	<block key="momnc3_Name" korean="ÕÉŒ¼XÇ " />
+	<block key="momnc4_Name" korean="ˆ½" />
+	<block key="momnc5_Name" korean="ÝÀ…ºXÇ " />
+	<block key="momnc6_Name" korean="ìÂÓXÇ " />
+	<block key="momnc7_Name" korean="0ÒÜ´|·" />
+	<block key="momnc8_Name" korean="ä¹Á´Æ " />
+	<block key="momnco1_Name" korean="0ÒÜ´|·" />
+	<block key="momta1_Name" korean="0ÒÜ´|·" />
+	<block key="momip1_Name" korean="¼ÅLÇ " />
+	<block key="momjm1_Name" korean="ìÂÓXÇ " />
+	<block key="momupar1_Name" korean="p¬\Î " />
+	<block key="mohamar1_Name" korean="p¬\Î " />
+	<block key="mokrokgladi00_Name" korean="œ°Ä³ÈÉ" />
+	<block key="mokrokgladigs00_Name" korean="œ°Ä³ÈÉ" />
+	<block key="momorgaso00_Name" korean="x±Æ " />
+	<block key="modarkremove00_Name" korean="TÅQ× " />
+	<block key="modarkremove00_Description_1" korean="TÅQ× " />
+	<block key="modarkarrows00_Name" korean="tÕ)¼´ " />
+	<block key="modarkarrows00_Description_1" korean="tÕ)¼´ " />
+	<block key="modarkshadow01_Name" korean="ýÈLÇXÇ " />
+	<block key="modarkshadow01_Description_1" korean="ýÈLÇXÇ " />
+	<block key="moindarkmo00_Name" korean="´Å`´ÁXÇ " />
+	<block key="momc1_Name" korean="ÅÅTÖ" />
+	<block key="momc2_Name" korean="íÓÔ" />
+	<block key="momc3_Name" korean="Èè²" />
+	<block key="momc4_Name" korean="Ä³}Å" />
+	<block key="momc5_Name" korean="ÀÐ$Æt¹”² " />
+	<block key="momc6_Name" korean="hÎ5»XÇ " />
+	<block key="momc7_Name" korean="€¬@Ç " />
+	<block key="momc8_Name" korean="È¹%¸ " />
+	<block key="momadness00_Name" korean="­0®XÇ " />
+	<block key="mocompact00_Name" korean="UÅ•Í" />
+	<block key="mopollutiona01_Name" korean="$ÆüÅ´ " />
+	<block key="mopollutiona01_Description_1" korean="$ÆüÅ´ " />
+	<block key="mobloodyb01_Name" korean="<Õ,Ò1ÁtÇ" />
+	<block key="mobloodyb01_Description_1" korean="<Õ,Ò1ÁtÇ" />
+	<block key="mostd1_Name" korean="L¾È¹XÇ " />
+	<block key="mostd2_Name" korean="L¾È¹XÇ " />
+	<block key="momcf1_Name" korean="Ä³}Å" />
+	<block key="momcf2_Name" korean="Èè²" />
+	<block key="momcf3_Name" korean="Èè²" />
+	<block key="momcf4_Name" korean="ÀÐ$Æt¹”² " />
+	<block key="momcf5_Name" korean="ÀÐ$Æt¹”² " />
+	<block key="mobragiseld02_Name" korean="ÉÅi³tÇ " />
+	<block key="mobulls02_Name" korean="¬¹ü¼¸ÒXÇ " />
+	<block key="mobulls03_Name" korean="D¾¸Ò¸tÇXÇ " />
+	<block key="mocactus00_Name" korean=" ÁxÇ¥Ç " />
+	<block key="mocactus01_Name" korean=" ÁxÇ¥ÇXÇ " />
+	<block key="mobragismisor00_Name" korean="T´0®œ°ÀÐ" />
+	<block key="mowormhelllink04_Name" korean="¨º˜·ÀÉ%Æ" />
+	<block key="mowormhelllink05_Name" korean="¨º˜·ÀÉ%Æ" />
+	<block key="momohahealer03_Name" korean="¨º˜·¼Œ·" />
+	<block key="momohahealer05_Name" korean="¨º˜·¼Œ·" />
+	<block key="momohasp00_Name" korean="=ÌX³ÀÉ0®" />
+	<block key="momohabosal00_Name" korean="=ÌX³ÀÉ0®" />
+	<block key="momahal00_Name" korean="­íÓTÖ" />
+	<block key="mosnakep00_Name" korean="ù¹Å³" />
+	<block key="mosnakep01_Name" korean="ù¹Å³" />
+	<block key="monivar1_Name" korean="Ý¹ÇXÇ " />
+	<block key="mopasit01_Name" korean="€½\Ö " />
+	<block key="mobragiseld03_Name" korean=" ÂÄÐXÇ " />
+	<block key="morashastone00_Name" korean="à¬µÑ" />
+	<block key="arpoison03_Name" korean="ù¹Å³" />
+</blocks>

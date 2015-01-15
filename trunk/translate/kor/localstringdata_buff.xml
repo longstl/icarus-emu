@@ -1,0 +1,2824 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="wr_shoulderatk_buff_1_name" korean="0®È" />
+	<block key="wr_shoulderatk_buff_1_description_1" korean="©ÍÌ³" />
+	<block key="wr_shoulderatk_buff_1_description_2" korean="©ÍÌ³" />
+	<block key="wr_shoulderatk_buff_1_description_3" korean="©ÍÌ³" />
+	<block key="wr_shoulderatk_buff_1_description_4" korean="©ÍÌ³" />
+	<block key="wr_shoulderatk_buff_1_description_5" korean="©ÍÌ³" />
+	<block key="wr_innerpower_buff_1_name" korean=" Ç¬Ç " />
+	<block key="wr_courage_buff_1_name" korean="©Æ0®XÇ " />
+	<block key="wr_indure_buff_1_name" korean="„¼ðÒ0®" />
+	<block key="wr_swordshield_buff_1_name" korean="|Î ° " />
+	<block key="wr_deepstab_buff_1_name" korean="J®@Ç " />
+	<block key="wr_legattack_buff_1_name" korean="¼(Ì0®" />
+	<block key="wr_spiritslash_buff_1_name" korean="hÎ5»" />
+	<block key="wr_spiritslash_buff_1_description_1" korean="Î¤ÂÓ " />
+	<block key="wr_spiritslash_buff_1_description_2" korean="Î¤ÂÓ " />
+	<block key="wr_spiritslash_buff_1_description_3" korean="Î¤ÂÓ " />
+	<block key="wr_spiritslash_buff_1_description_4" korean="Î¤ÂÓ " />
+	<block key="wr_spiritslash_buff_1_description_5" korean="Î¤ÂÓ " />
+	<block key="wr_swdwind_buff_1_name" korean="€¬0® " />
+	<block key="wr_earthdevide_buff_1_name" korean="" />
+	<block key="wr_earthdevide_buff_1_description_1" korean="±´ÅÄÉ " />
+	<block key="wr_earthdevide_buff_1_description_2" korean="±´ÅÄÉ " />
+	<block key="wr_earthdevide_buff_1_description_3" korean="±´ÅÄÉ " />
+	<block key="wr_earthdevide_buff_1_description_4" korean="±´ÅÄÉ " />
+	<block key="wr_earthdevide_buff_1_description_5" korean="±´ÅÄÉ " />
+	<block key="wr_earthdevide_buff_1_description_6" korean="±´ÅÄÉ " />
+	<block key="wr_parry_buff_1_name" korean="ÐÌ´°0®" />
+	<block key="wr_parry_buff_1_description_1" korean="ÐÌ´°0® " />
+	<block key="wr_parry_buff_1_description_2" korean="ÐÌ´°0® " />
+	<block key="wr_parry_buff_1_description_3" korean="ÐÌ´°0® " />
+	<block key="wr_parry_buff_1_description_4" korean="ÐÌ´°0® " />
+	<block key="wr_counteratt_buff_1_name" korean="¼©¬" />
+	<block key="wr_defstance_buff_1_name" korean=")¼´Å " />
+	<block key="wr_roar_buff_1_name" korean="¬ÀÇÄÖ" />
+	<block key="wr_nerveblock_buff_1_name" korean="àÂ½¬ " />
+	<block key="wr_defup_buff_1_name" korean=")¼´Å%¸ " />
+	<block key="wr_shoulderpush_buff_1_name" korean="" />
+	<block key="wr_shoulderpush_buff_1_description_1" korean="" />
+	<block key="wr_shoulderpush_buff_1_description_2" korean="" />
+	<block key="wr_shoulderpush_buff_1_description_3" korean="" />
+	<block key="wr_shoulderpush_buff_1_description_4" korean="" />
+	<block key="tf_transparency_buff_1_name" korean=",Ò…ºTÖ" />
+	<block key="tf_transparency_buff_1_description_1" korean=",Ò…ºTÖ " />
+	<block key="tf_transparency_buff_1_description_2" korean=",Ò…ºTÖ " />
+	<block key="tf_transparency_buff_1_description_3" korean=",Ò…ºTÖ " />
+	<block key="tf_transparency_buff_1_description_4" korean=",Ò…ºTÖ " />
+	<block key="tf_transparency_buff_1_description_5" korean=",Ò…ºTÖ " />
+	<block key="tf_flash_buff_1_name" korean=",Á­©¬" />
+	<block key="tf_bola_buff_1_name" korean="ü¼|· " />
+	<block key="tf_bola01_buff_1_name" korean="ü¼|· " />
+	<block key="tf_backhead_buff_1_name" korean="0®È" />
+	<block key="tf_woundinflict_buff_1_name" korean="ÁÀ˜Ì " />
+	<block key="tf_smokebomb_buff_1_name" korean="ðÅÉ¹ÄÐ" />
+	<block key="tf_bodyblow_buff_1_name" korean="àÂ´Ì " />
+	<block key="tf_bodyblow_buff_1_description_1" korean="ŒÖõ¼ " />
+	<block key="tf_bodyblow_buff_1_description_2" korean="ŒÖõ¼ " />
+	<block key="tf_bodyblow_buff_1_description_3" korean="ŒÖõ¼ " />
+	<block key="tf_bodyblow_buff_1_description_4" korean="ŒÖõ¼ " />
+	<block key="tf_bodyblow_buff_1_description_5" korean="ŒÖõ¼ " />
+	<block key="tf_heartblow_buff_1_name" korean="ìÂ¥Ç " />
+	<block key="tf_netthrow_buff_1_name" korean="ø­<» " />
+	<block key="tf_netthrow_buff_1_description_1" korean="ø­<»ÐÅ " />
+	<block key="tf_netthrow_buff_1_description_2" korean="ø­<»ÐÅ " />
+	<block key="tf_netthrow_buff_1_description_3" korean="ø­<»ÐÅ " />
+	<block key="tf_netthrow_buff_1_description_4" korean="ø­<»ÐÅ " />
+	<block key="tf_netthrow_buff_1_description_5" korean="ø­<»ÐÅ " />
+	<block key="tf_spinefracture_buff_1_name" korean="™Ì”Í " />
+	<block key="tf_backattack_buff_1_name" korean="±´ÅÐÉ" />
+	<block key="tf_backattack_buff_1_description_1" korean="" />
+	<block key="tf_backattack_buff_1_description_2" korean="" />
+	<block key="tf_backattack_buff_1_description_3" korean="" />
+	<block key="tf_backattack_buff_1_description_4" korean="" />
+	<block key="tf_backattack_buff_1_description_5" korean="" />
+	<block key="tf_backattack_buff_1_description_6" korean="" />
+	<block key="tf_backattack_buff_1_description_7" korean="" />
+	<block key="tf_backattack_buff_1_description_8" korean="" />
+	<block key="tf_stomachblow_buff_1_name" korean="…ºXÎ " />
+	<block key="tf_stomachblow_buff_1_description_1" korean="" />
+	<block key="tf_stomachblow_buff_1_description_2" korean="" />
+	<block key="tf_stomachblow_buff_1_description_3" korean="" />
+	<block key="tf_stomachblow_buff_1_description_4" korean="" />
+	<block key="tf_stomachblow_buff_1_description_5" korean="" />
+	<block key="tf_stomachblow_buff_1_description_6" korean="" />
+	<block key="tf_stomachblow_buff_1_description_7" korean="" />
+	<block key="tf_stomachblow_buff_1_description_8" korean="" />
+	<block key="tf_legattack_buff_1_name" korean="ä²¬¹ " />
+	<block key="tf_memoryoff_buff_1_name" korean="hÎ5»" />
+	<block key="tf_memoryoff_buff_1_description_1" korean="hÎ5» " />
+	<block key="tf_memoryoff_buff_1_description_2" korean="hÎ5» " />
+	<block key="tf_memoryoff_buff_1_description_3" korean="hÎ5» " />
+	<block key="tf_memoryoff_buff_1_description_4" korean="hÎ5» " />
+	<block key="tf_memoryoff_buff_1_description_5" korean="hÎ5» " />
+	<block key="blackhole2_buff_1_name" korean="¾™·@Ö" />
+	<block key="followerstatfire_buff_1_name" korean="TÖÁÀ " />
+	<block key="followerstatfire_buff_1_description_1" korean="¸ºtÇ " />
+	<block key="followerstatfire_buff_1_description_2" korean="¸ºtÇ " />
+	<block key="followerstatfire_buff_1_description_3" korean="¸ºtÇ " />
+	<block key="followerstatice_buff_1_name" korean="Ù³ÁÀ " />
+	<block key="followerstatice_buff_1_description_1" korean="¸ºÐÅ " />
+	<block key="followerstatice_buff_1_description_2" korean="¸ºÐÅ " />
+	<block key="followerstatice_buff_1_description_3" korean="¸ºÐÅ " />
+	<block key="golemstatfire_buff_1_name" korean="ˆ½XÇ " />
+	<block key="golemstatfire_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="golemstatfire_buff_1_description_2" korean="¬º¤Â0Ñ" />
+	<block key="golemstatfire_buff_1_description_3" korean="¬º¤Â0Ñ" />
+	<block key="golemstatice_buff_1_name" korean="Ù³ÁÀ " />
+	<block key="golemstatice_buff_1_description_1" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="golemstatice_buff_1_description_2" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="golemstatice_buff_1_description_3" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="jarstatfire_buff_1_name" korean="ˆ½ " />
+	<block key="jarstatfire_buff_1_description_1" korean="üÈÀ¼ " />
+	<block key="jarstatfire_buff_1_description_2" korean="üÈÀ¼ " />
+	<block key="jarstatfire_buff_1_description_3" korean="üÈÀ¼ " />
+	<block key="statusdark_buff_1_name" korean="<Ö€· " />
+	<block key="statusdark_buff_1_description_1" korean="<Ö€·<Ç\¸ " />
+	<block key="statusdark_buff_1_description_2" korean="<Ö€·<Ç\¸ " />
+	<block key="statusdark_buff_1_description_3" korean="<Ö€·<Ç\¸ " />
+	<block key="statuslight_buff_1_name" korean="¬È " />
+	<block key="statuslight_buff_1_description_1" korean="¬È<Ç\¸ " />
+	<block key="statuslight_buff_1_description_2" korean="¬È<Ç\¸ " />
+	<block key="statuslight_buff_1_description_3" korean="¬È<Ç\¸ " />
+	<block key="statusfire_buff_1_name" korean="TÖÁÀ " />
+	<block key="statusfire_buff_1_description_1" korean="TÖÁÀ<Ç\¸ " />
+	<block key="statusfire_buff_1_description_2" korean="TÖÁÀ<Ç\¸ " />
+	<block key="statusfire_buff_1_description_3" korean="TÖÁÀ<Ç\¸ " />
+	<block key="statusfiretotem_buff_1_name" korean="ˆ½ " />
+	<block key="statusfiretotem_buff_1_description_1" korean="üÈÀ¼ " />
+	<block key="statusfiretotem_buff_1_description_2" korean="üÈÀ¼ " />
+	<block key="statusfiretotem_buff_1_description_3" korean="üÈÀ¼ " />
+	<block key="statushoundfire_buff_1_name" korean="ˆ½XÇ " />
+	<block key="statushoundfire_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="statushoundfire_buff_1_description_2" korean="¬º¤Â0Ñ" />
+	<block key="statushoundfire_buff_1_description_3" korean="¬º¤Â0Ñ" />
+	<block key="statushoundice_buff_1_name" korean="Ù³ÁÀ " />
+	<block key="statushoundice_buff_1_description_1" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statushoundice_buff_1_description_2" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statushoundice_buff_1_description_3" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statusice_buff_1_name" korean="Ù³ÁÀ " />
+	<block key="statusice_buff_1_description_1" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statusice_buff_1_description_2" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statusice_buff_1_description_3" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statussmanfire_buff_1_name" korean="TÖÁÀ " />
+	<block key="statussmanfire_buff_1_description_1" korean="TÖÁÀ<Ç\¸ " />
+	<block key="statussmanfire_buff_1_description_2" korean="TÖÁÀ<Ç\¸ " />
+	<block key="statussmanfire_buff_1_description_3" korean="TÖÁÀ<Ç\¸ " />
+	<block key="statussmanice_buff_1_name" korean="É°0®XÇ " />
+	<block key="statussmanice_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="statussmanice_buff_1_description_2" korean="¬º¤Â0Ñ" />
+	<block key="statussmanice_buff_1_description_3" korean="¬º¤Â0Ñ" />
+	<block key="statusturtlefire_buff_1_name" korean="ˆ½XÇ " />
+	<block key="statusturtlefire_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="statusturtlefire_buff_1_description_2" korean="¬º¤Â0Ñ" />
+	<block key="statusturtlefire_buff_1_description_3" korean="¬º¤Â0Ñ" />
+	<block key="statusturtleice_buff_1_name" korean="Ù³ÁÀ " />
+	<block key="statusturtleice_buff_1_description_1" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statusturtleice_buff_1_description_2" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="statusturtleice_buff_1_description_3" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="summonstatfire_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="summonstatfire_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="summonstatfire_buff_1_description_2" korean="¬º¤Â0Ñ" />
+	<block key="summonstatfire_buff_1_description_3" korean="¬º¤Â0Ñ" />
+	<block key="summonstatice_buff_1_name" korean="Ù³ÁÀ " />
+	<block key="summonstatice_buff_1_description_1" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="summonstatice_buff_1_description_2" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="summonstatice_buff_1_description_3" korean="Ù³ÁÀ<Ç\¸ " />
+	<block key="armagma01_buff_1_name" korean="©ÆTÅ " />
+	<block key="armagma01_buff_1_description_1" korean="©ÆTÅXÇ " />
+	<block key="arspider_buff_1_name" korean="p¬ø»É " />
+	<block key="arspider_buff_1_description_1" korean="p¬ø»É\¸ " />
+	<block key="moashuram05_buff_1_name" korean="œÍÖ " />
+	<block key="moashuram05_buff_1_description_1" korean="œÍÖ\¸ " />
+	<block key="moashuram06_buff_1_name" korean="œÍÖ " />
+	<block key="moashuram06_buff_1_description_1" korean="œÍÖ\¸ " />
+	<block key="moashuram07_buff_1_name" korean="¿ " />
+	<block key="moashuram07_buff_1_description_1" korean="¿\¸ " />
+	<block key="moashuram08_buff_1_name" korean="¿ " />
+	<block key="moashuram08_buff_1_description_1" korean="¿\¸ " />
+	<block key="mobat01_buff_1_name" korean="0®È " />
+	<block key="mobat01_buff_1_description_1" korean="0®È\¸ " />
+	<block key="mobear02_buff_1_name" korean="0®È " />
+	<block key="mobear02_buff_1_description_1" korean="0®È\¸ " />
+	<block key="mobee02_buff_1_name" korean="ÉÅ³ " />
+	<block key="mobee02_buff_1_description_1" korean="Å³<Ç\¸ " />
+	<block key="moblackhole_buff_1_name" korean="ÐÆ<ÖXÇ " />
+	<block key="moblackhole_buff_1_description_1" korean="ÐÆ<ÖXÇ " />
+	<block key="mobodydown_buff_1_name" korean="ÑÐ¹Â " />
+	<block key="mobodydown_buff_1_description_1" korean=" Ó\¸°ÆÐÅ " />
+	<block key="mobistmoot06_buff_1_name" korean="Ì¹èÍ" />
+	<block key="mobistmoot06_buff_1_description_1" korean="D¾¤Â4»¸Ò" />
+	<block key="mobragibrave02_buff_1_name" korean="´ÅÀÉì·ÀÆ" />
+	<block key="mobragibrave02_buff_1_description_1" korean="´ÅÀÉì·ÀÆ<Ç\¸ " />
+	<block key="mocaptain05_buff_1_name" korean="tÕÈUÆXÇ " />
+	<block key="mocaptain05_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="mocleki01_buff_1_name" korean="©Í©¬" />
+	<block key="mocleki01_buff_1_description_1" korean="¼XÎ0®ÐÅ " />
+	<block key="modevycry01_buff_1_name" korean="¸Æ„½" />
+	<block key="modevycry01_buff_1_description_1" korean="p³D¾" />
+	<block key="modevycry02_buff_1_name" korean="¸Æ„½" />
+	<block key="modevycry02_buff_1_description_1" korean="p³D¾" />
+	<block key="modevyheadhit02_buff_1_name" korean="0®È " />
+	<block key="modevyheadhit02_buff_1_description_1" korean="p³D¾XÇ " />
+	<block key="modiseasecloud01_buff_1_name" korean="íÅÑ¼ " />
+	<block key="modiseasecloud01_buff_1_description_1" korean="íÅÑ¼ÐÅ " />
+	<block key="mofairy02_buff_1_name" korean="[¾XÇ " />
+	<block key="mofairy02_buff_1_description_1" korean="¸ºDÇ " />
+	<block key="mofairy03_buff_1_name" korean="4»0®%¸" />
+	<block key="mofairy03_buff_1_description_1" korean="´Å`´ " />
+	<block key="mofireobj01_buff_1_name" korean="(·p¬´Æ " />
+	<block key="mofireobj01_buff_1_description_1" korean="ˆ½8®ÐÅ " />
+	<block key="mogust01_buff_1_name" korean="œÍÖ " />
+	<block key="mogust01_buff_1_description_1" korean="a×Ö\¸ " />
+	<block key="mogust03_buff_1_name" korean="0®È " />
+	<block key="mogust03_buff_1_description_1" korean="0®È\¸ " />
+	<block key="mogust04_buff_1_name" korean="”Æ¬¹¬ÀXÇ " />
+	<block key="mogust04_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="mogust06_buff_1_name" korean="œÍÖ " />
+	<block key="mogust06_buff_1_description_1" korean="a×Ö\¸ " />
+	<block key="mogust06_buff_2_name" korean="0®È " />
+	<block key="mogust06_buff_2_description_1" korean="a×ÖXÇ " />
+	<block key="mogarmuanger01_buff_1_name" korean="ô¼8Ö " />
+	<block key="mogarmuanger01_buff_1_description_1" korean="" />
+	<block key="movampire07_buff_1_name" korean="œÍÖ " />
+	<block key="movampire07_buff_1_description_1" korean="a×Ö\¸ " />
+	<block key="moramb01_buff_1_name" korean="Âtº " />
+	<block key="moramb01_buff_1_description_1" korean="ìÂðÅXÇ " />
+	<block key="mokaleangafter01_buff_1_name" korean="õ¬ìÓ " />
+	<block key="mokaleangafter01_buff_1_description_1" korean="É$ÆXÇ " />
+	<block key="mokaleangafter01_buff_1_description_2" korean="É$ÆXÇ " />
+	<block key="mokaleangafter01_buff_1_description_3" korean="É$ÆXÇ " />
+	<block key="mokaleangafter04_buff_1_name" korean="´Å`´XÇ " />
+	<block key="mokaleangafter04_buff_1_description_1" korean="´Å`´XÇ " />
+	<block key="mokaleangafter04_buff_1_description_2" korean="´Å`´XÇ " />
+	<block key="mokaleangafter04_buff_2_name" korean="<ÕXÇ " />
+	<block key="mokaleangafter04_buff_2_description_1" korean="´Å`´XÇ " />
+	<block key="mokaleangafter04_buff_2_description_2" korean="´Å`´XÇ " />
+	<block key="moiceorb01_buff_1_name" korean="É°0® " />
+	<block key="moiceorb01_buff_1_description_1" korean="9Ö\ÕXÇ " />
+	<block key="moinsense_buff_1_name" korean="4»¬¬" />
+	<block key="moinsense_buff_1_description_1" korean="¬¬DÇ " />
+	<block key="moinspector01_buff_1_name" korean="¬Ç	Í " />
+	<block key="moinspector01_buff_1_description_1" korean="¬Ç	ÍDÇ " />
+	<block key="moinspector03_buff_1_name" korean="¼Ç " />
+	<block key="moinspector03_buff_1_description_1" korean="“±\Î " />
+	<block key="moinspector04_buff_1_name" korean="0®È " />
+	<block key="moinspector04_buff_1_description_1" korean="0®È\¸ " />
+	<block key="moiren04_buff_1_name" korean="9Ö\ÕXÇ " />
+	<block key="moiren04_buff_1_description_1" korean="(Ì" />
+	<block key="moiren04_buff_1_description_2" korean="(Ì" />
+	<block key="moiren05_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="moiren05_buff_1_description_1" korean="±4»˜°Ä³ " />
+	<block key="moiren06_buff_1_name" korean="9Ö\ÕXÇ " />
+	<block key="moiren06_buff_1_description_1" korean="(Ì" />
+	<block key="mojeranin01_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="mojeranin01_buff_1_description_1" korean="ýÈLÇXÇ " />
+	<block key="mojeranin01_buff_2_name" korean="ýÈLÇXÇ " />
+	<block key="mojeranin01_buff_2_description_1" korean="ýÈLÇXÇ " />
+	<block key="mokamila02_buff_1_name" korean="œÍÖ " />
+	<block key="mokamila02_buff_1_description_1" korean="œÍÖ\¸ " />
+	<block key="moleodark01_buff_1_name" korean="´Å`´XÇ " />
+	<block key="moleodark01_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="moleodark03_buff_1_name" korean="´Å`´XÇ " />
+	<block key="moleodark03_buff_1_description_1" korean="´Å`´ " />
+	<block key="moleopard01_buff_1_name" korean="œÍÖ " />
+	<block key="moleopard01_buff_1_description_1" korean="œÍÖ\¸ " />
+	<block key="moleopard01_buff_1_description_2" korean="œÍÖ\¸ " />
+	<block key="moleopard02_buff_1_name" korean="„½x± " />
+	<block key="moleopard02_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="momatu01_buff_1_name" korean="4»0® " />
+	<block key="momatu01_buff_1_description_1" korean="4»0® " />
+	<block key="momatu01_buff_1_description_2" korean="4»0® " />
+	<block key="momatu03_buff_1_name" korean=")¼´Ål­ " />
+	<block key="momatu03_buff_1_description_1" korean=")¼´Ål­XÇ " />
+	<block key="momatu03_buff_1_description_2" korean=")¼´Ål­XÇ " />
+	<block key="momatu08_buff_1_name" korean="È¹,ÒXÏôÒXÇ " />
+	<block key="momatu08_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="momoorumiw03_buff_1_name" korean="ø­<»" />
+	<block key="momoorumiw03_buff_1_description_1" korean="ø­<»ÐÅ " />
+	<block key="mooctopus01_buff_1_name" korean="9º<» " />
+	<block key="mooctopus01_buff_1_description_1" korean="ÙÉ@Ç " />
+	<block key="mooctopus02_buff_1_name" korean="9º<»" />
+	<block key="mooctopus02_buff_1_description_1" korean="9º<»\¸ " />
+	<block key="mopirate02_buff_1_name" korean="È,Ò%¸ " />
+	<block key="mopirate02_buff_1_description_1" korean="õ¬©¬%¸ü¬ " />
+	<block key="mopirate06_buff_1_name" korean="ô¼8ÖXÇ " />
+	<block key="mopirate06_buff_1_description_1" korean="ô¼8ÖXÇ " />
+	<block key="mopirate09_buff_1_name" korean="tÕÈXÇ " />
+	<block key="mopirate09_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="mopiratew02_buff_1_name" korean="¬TÖ " />
+	<block key="mopiratew02_buff_1_description_1" korean="¬TÖ " />
+	<block key="mopiratew05_buff_1_name" korean="°À1Á " />
+	<block key="mopiratew05_buff_1_description_1" korean=")¼´Ål­ÐÅ " />
+	<block key="morabbit01_buff_1_name" korean="3" />
+	<block key="morabbit01_buff_1_description_1" korean="õ¬©¬ " />
+	<block key="moreggauge01_buff_1_name" korean="TÖÁÀ " />
+	<block key="moreggauge01_buff_1_description_1" korean="tÇ " />
+	<block key="moreggauge02_buff_1_name" korean="Ù³ÁÀ " />
+	<block key="moreggauge02_buff_1_description_1" korean="tÇ " />
+	<block key="morex02_buff_1_name" korean="0®È " />
+	<block key="morex02_buff_1_description_1" korean="0®È\¸ " />
+	<block key="morex04_buff_1_name" korean="0®È " />
+	<block key="morex04_buff_1_description_1" korean="0®È\¸ " />
+	<block key="morexstone01_buff_1_name" korean="¬Â¥Ç " />
+	<block key="morexstone01_buff_1_description_1" korean="¬Â¥Ç " />
+	<block key="moriderdie01_buff_1_name" korean="°¬Á " />
+	<block key="moriderdie01_buff_1_description_1" korean="È¹¤Â0ÑXÇ " />
+	<block key="moriderdie01_buff_1_description_2" korean="È¹¤Â0ÑXÇ " />
+	<block key="moriderdie01_buff_2_Name" korean="<Ö€· " />
+	<block key="moriderdie01_buff_2_description_1" korean="È¹¤Â0ÑXÇ " />
+	<block key="moriderdie01_buff_2_description_2" korean="È¹¤Â0ÑXÇ " />
+	<block key="mosantin03_buff_1_name" korean="(Ì" />
+	<block key="mosantin03_buff_1_description_1" korean="(Ì" />
+	<block key="mosantin11_buff_1_name" korean="´°tºXÇ " />
+	<block key="mosantin11_buff_1_description_1" korean="´°tºXÇ " />
+	<block key="mosantin11_buff_1_description_2" korean="´°tºXÇ " />
+	<block key="mosantinh11_buff_1_name" korean="´°tºXÇ " />
+	<block key="mosantinh11_buff_1_description_1" korean="´°tºXÇ " />
+	<block key="mosantin12_buff_1_name" korean="°ÀôÒXÇ " />
+	<block key="mosantin12_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="mosantin13_buff_1_name" korean="(Ì" />
+	<block key="mosantin13_buff_1_description_1" korean="(Ì" />
+	<block key="mosantin13_buff_1_description_2" korean="(Ì" />
+	<block key="mosantin15_buff_1_name" korean="°ÀôÒXÇ " />
+	<block key="mosantin15_buff_1_description_1" korean="°ÀôÒtÇ " />
+	<block key="moshura03_buff_1_name" korean="ìÂðÅXÇ " />
+	<block key="moshura03_buff_1_description_1" korean="DÅˆÂŒ·tÇ " />
+	<block key="moshura03_buff_2_name" korean="J®@Ç " />
+	<block key="moshura03_buff_2_description_1" korean="J®@Ç " />
+	<block key="moshura04_buff_1_name" korean="UÖ°À´ " />
+	<block key="moshura04_buff_1_description_1" korean="DÅˆÂŒ·ÐÅŒ¬ " />
+	<block key="moshura04_buff_2_name" korean="õ¬ìÓ " />
+	<block key="moshura04_buff_2_description_1" korean="ÈXÇ " />
+	<block key="moshura06_buff_1_name" korean="˜°}Å\Õ " />
+	<block key="moshura06_buff_1_description_1" korean="DÅˆÂŒ·tÇ " />
+	<block key="moshura06_aura_1_name" korean="˜°}Å\Õ " />
+	<block key="moshura06_aura_1_description_1" korean="DÅˆÂŒ·ÐÅŒ¬ " />
+	<block key="moshura07_buff_1_name" korean="¬\Õ " />
+	<block key="moshura07_buff_1_description_1" korean="€¬@Ç " />
+	<block key="moshura09_buff_1_name" korean="Æ<Ö " />
+	<block key="moshura09_buff_1_description_1" korean="DÅˆÂŒ·ü¬ " />
+	<block key="mosnake01_buff_1_name" korean="ÉÅ³ " />
+	<block key="mosnake01_buff_1_description_1" korean="Å³<Ç\¸ " />
+	<block key="mosnowshaman02_buff_1_name" korean="É°0® " />
+	<block key="mosnowshaman02_buff_1_description_1" korean="(Ì" />
+	<block key="mosnowshaman03_buff_1_name" korean="É°0® " />
+	<block key="mosnowshaman03_buff_1_description_1" korean="(Ì" />
+	<block key="mospider01_buff_1_name" korean="ÉÅ³ " />
+	<block key="mospider01_buff_1_description_1" korean="Å³<Ç\¸ " />
+	<block key="motaming01_buff_1_name" korean="ø­\¸0® " />
+	<block key="motaming01_buff_1_description_1" korean="ø­\¸0® " />
+	<block key="motaming01pon_buff_1_name" korean="ˆ½C¯XÇ " />
+	<block key="motaming01pon_buff_1_description_1" korean="ˆ½C¯XÇ " />
+	<block key="motaming01poe_buff_1_name" korean="Å³ " />
+	<block key="motaming01poe_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01poh_buff_1_name" korean="Å³ " />
+	<block key="motaming01poh_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01fin_buff_1_name" korean="ˆ½ " />
+	<block key="motaming01fin_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01fie_buff_1_name" korean="Ü´˜·ä¬XÇ " />
+	<block key="motaming01fie_buff_1_description_1" korean="Ü´˜·ä¬XÇ " />
+	<block key="motaming01fih_buff_1_name" korean="ˆ½ " />
+	<block key="motaming01fih_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01icn_buff_1_name" korean="¼ÅLÇ " />
+	<block key="motaming01icn_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01ice_buff_1_name" korean="¼ÅLÇ " />
+	<block key="motaming01ice_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01ich_buff_1_name" korean="¼ÅLÇ " />
+	<block key="motaming01ich_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01lin_buff_1_name" korean="[¾ " />
+	<block key="motaming01lin_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01lie_buff_1_name" korean="[¾ " />
+	<block key="motaming01lie_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01lih_buff_1_name" korean="[¾ " />
+	<block key="motaming01lih_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01dan_buff_1_name" korean="´Å`´ " />
+	<block key="motaming01dan_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01dae_buff_1_name" korean="´Å`´ " />
+	<block key="motaming01dae_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming01dah_buff_1_name" korean="´Å`´ " />
+	<block key="motaming01dah_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="motaming02_buff_1_name" korean="ø­\¸0® " />
+	<block key="motaming02_buff_1_description_1" korean="ø­\¸0® " />
+	<block key="motaming04_buff_1_name" korean="0¼€½„¹" />
+	<block key="motaming04_buff_1_description_1" korean="0¼€½„¹<Ç\¸ " />
+	<block key="motaming06_buff_1_name" korean="°Æè¸pÈ¬ÁÀ " />
+	<block key="motaming06_buff_1_description_1" korean="°Æè¸pÈ¬ÁÀDÇ " />
+	<block key="motaming06a_buff_1_name" korean="”ÆÈXÇ " />
+	<block key="motaming06a_buff_1_description_1" korean="”ÆÈXÇ " />
+	<block key="motaming06d_buff_1_name" korean="°Æè¸pÈ¬ÁÀ " />
+	<block key="motaming06d_buff_1_description_1" korean="°Æè¸pÈ¬ÁÀDÇ " />
+	<block key="motaming07_buff_1_name" korean="@ÇàÂ" />
+	<block key="motaming07_buff_1_description_1" korean=",Ò…ºTÖ " />
+	<block key="motaming14_buff_1_name" korean="0¼€½„¹" />
+	<block key="motaming14_buff_1_description_1" korean="0¼€½„¹<Ç\¸ " />
+	<block key="motaming16_buff_1_name" korean="ÂÈÍ " />
+	<block key="motaming16_buff_1_description_1" korean="ÂÈÍ|¹ " />
+	<block key="motaming24_buff_1_name" korean="0¼€½„¹" />
+	<block key="motaming24_buff_1_description_1" korean="0¼€½„¹<Ç\¸ " />
+	<block key="motaming26_buff_1_name" korean="Â]¸à¬0® " />
+	<block key="motaming26_buff_1_description_1" korean="Â]¸à¬0®|¹ " />
+	<block key="motiger01_buff_1_name" korean="0®È " />
+	<block key="motiger01_buff_1_description_1" korean="0®È\¸ " />
+	<block key="moturtle02_buff_1_name" korean="œÍÖ " />
+	<block key="moturtle02_buff_1_description_1" korean="œÍÖ\¸ " />
+	<block key="movampire04_buff_1_name" korean="œÍÖ " />
+	<block key="movampire04_buff_1_description_1" korean="œÍÖ\¸ " />
+	<block key="movampire08_buff_1_name" korean="a×ÖÀ­XÇ " />
+	<block key="movampire08_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="movampire15_buff_1_name" korean="´Å`´XÇ " />
+	<block key="movampire15_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="movamwoman01_buff_1_name" korean="œÍÖ " />
+	<block key="movamwoman01_buff_1_description_1" korean="œÍÖ\¸ " />
+	<block key="movamwoman02_buff_1_name" korean="a×ÖÀ­XÇ " />
+	<block key="movamwoman02_buff_1_description_1" korean="„½x±\¸ " />
+	<block key="mowolfshadow01_buff_1_name" korean="@ÇàÂ" />
+	<block key="mowolfshadow01_buff_1_description_1" korean=",Ò…ºTÖ " />
+	<block key="mowolfwoman01_buff_1_name" korean="0®È " />
+	<block key="mowolfwoman01_buff_1_description_1" korean="0®È\¸ " />
+	<block key="mozombie01_buff_1_name" korean="íÅ¨¬´Æ " />
+	<block key="mozombie01_buff_1_description_1" korean="íÅ¨¬´Æ " />
+	<block key="mosantinlink01_buff_1_name" korean="(Ì" />
+	<block key="mosantinlink01_buff_1_description_1" korean="(Ì" />
+	<block key="mosantinlinkh01_buff_1_name" korean="(Ì" />
+	<block key="mosantinlinkh01_buff_1_description_1" korean="(Ì" />
+	<block key="mosantinlinkh01_buff_1_description_2" korean="(Ì" />
+	<block key="moradan05_buff_1_name" korean="Œ­¥²XÇ " />
+	<block key="moradan05_buff_1_description_1" korean="|·è²XÇ " />
+	<block key="moradan05_buff_1_description_2" korean="|·è²XÇ " />
+	<block key="moradan05_buff_1_description_3" korean="|·è²XÇ " />
+	<block key="moradan04_buff_1_name" korean="4»%¸TÖ" />
+	<block key="moradan04_buff_1_description_1" korean="" />
+	<block key="moradan02_buff_1_name" korean="ÀÉ0¼XÇ " />
+	<block key="moradan02_buff_1_description_1" korean="|·è²XÇ " />
+	<block key="moradan02_buff_1_description_2" korean="|·è²XÇ " />
+	<block key="moradan02_buff_1_description_3" korean="|·è²XÇ " />
+	<block key="moradan08_buff_1_name" korean="ÀÉ0¼XÇ " />
+	<block key="moradan08_buff_1_description_1" korean="|·è²XÇ " />
+	<block key="moradan08_buff_1_description_2" korean="|·è²XÇ " />
+	<block key="moradan08_buff_1_description_3" korean="|·è²XÇ " />
+	<block key="moradan01_buff_1_name" korean="hÎ5»XÇ " />
+	<block key="moradan01_buff_1_description_1" korean="|·è²XÇ " />
+	<block key="moradan01_buff_1_description_2" korean="|·è²XÇ " />
+	<block key="moradan01_buff_1_description_3" korean="|·è²XÇ " />
+	<block key="moradan06_buff_1_name" korean="hÎ5»XÇ " />
+	<block key="moradan06_buff_1_description_1" korean="|·è²XÇ " />
+	<block key="moradan06_buff_1_description_2" korean="|·è²XÇ " />
+	<block key="moradan06_buff_1_description_3" korean="|·è²XÇ " />
+	<block key="mofloatfish01_buff_1_name" korean="è¸²|·ÀÐ " />
+	<block key="mofloatfish01_buff_1_description_1" korean="àÂ½¬Å³XÇ " />
+	<block key="moankelion02_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="moankelion02_buff_1_description_1" korean="¼ÅLÇ " />
+	<block key="moankelion05_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="moankelion05_buff_1_description_1" korean="¼ÅLÇ " />
+	<block key="moankelion04_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="moankelion04_buff_1_description_1" korean="¼ÅLÇ " />
+	<block key="moankelion07_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="moankelion07_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="moankelion08_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="moankelion08_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="mojenkit03_buff_1_name" korean=")¼´Ål­ " />
+	<block key="mojenkit03_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="mojenkit02_buff_1_name" korean="H°È\Õ " />
+	<block key="mojenkit02_buff_1_description_1" korean=" È¤ÐÜ´" />
+	<block key="mojenkit04_buff_1_name" korean="íÓüÈ" />
+	<block key="mojenkit04_buff_1_description_1" korean="TÖ" />
+	<block key="mokilian01_buff_1_name" korean="9Ö\ÕXÇ " />
+	<block key="mokilian01_buff_1_description_1" korean="9Ö\ÕXÇ " />
+	<block key="mobalbo04_buff_1_name" korean="¬xÇ\Õ " />
+	<block key="mobalbo04_buff_1_description_1" korean=",ÒÀÉÐÅ " />
+	<block key="mobalbo04_buff_1_description_2" korean=",ÒÀÉÐÅ " />
+	<block key="mobalbo04_buff_2_name" korean="!Ç´Ì|¹ " />
+	<block key="mobalbo04_buff_2_description_2" korean="ÇàÂÐÅŒ¬ " />
+	<block key="mobalbo05_buff_1_name" korean="ˆ½t­XÇ " />
+	<block key="mobalbo05_buff_1_description_1" korean=",ÒÀÉÐÅ " />
+	<block key="moskalion03_buff_2_name" korean="Í®ÈÉ " />
+	<block key="moskalion03_buff_2_description_2" korean="¤Â|Î¬¹(ÆXÇ " />
+	<block key="moramashoo01_buff_1_name" korean="´Å`´ " />
+	<block key="moramashoo01_buff_1_description_2" korean="´Å`´XÇ " />
+	<block key="moramashoo03_buff_1_name" korean="´Å`´XÇ " />
+	<block key="moramashoo03_buff_1_description_1" korean="p³ " />
+	<block key="moramashoo04_buff_1_name" korean="´Å`´XÇ " />
+	<block key="moramashoo04_buff_1_description_1" korean="p³ " />
+	<block key="moramashoo04_buff_1_description_2" korean="p³ " />
+	<block key="moramashoo04_buff_1_description_3" korean="p³ " />
+	<block key="moramashoo05_buff_1_name" korean="´Å`´XÇ " />
+	<block key="moramashoo05_buff_1_description_1" korean="p³ " />
+	<block key="moramashoo05_buff_1_description_2" korean="p³ " />
+	<block key="moramashoo05_buff_1_description_3" korean="p³ " />
+	<block key="moramashoo05_buff_2_name" korean="´Å`´XÇ " />
+	<block key="moramashoo05_buff_2_description_2" korean="p³ " />
+	<block key="mofiregolem02_buff_1_name" korean="Ì±ÄÉÕÐ" />
+	<block key="mofiregolem02_buff_1_description_2" korean="è¬¸XÇ " />
+	<block key="moronddash05_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="moronddash05_buff_1_description_1" korean="(Ì" />
+	<block key="molightrondo01_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="molightrondo01_buff_1_description_1" korean="(Ì" />
+	<block key="morondo01_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="morondo01_buff_1_description_1" korean="(Ì" />
+	<block key="morondo02_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="morondo02_buff_1_description_1" korean="(Ì" />
+	<block key="moheavyrondo01_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="moheavyrondo01_buff_1_description_1" korean="(Ì" />
+	<block key="moheavyrondo04_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="moheavyrondo04_buff_1_description_1" korean="(Ì" />
+	<block key="moheavyrondoA1_buff_1_name" korean="(Ì" />
+	<block key="moheavyrondoA1_buff_1_description_1" korean="`¸Ä³XÇ " />
+	<block key="morondobuff01_buff_1_name" korean="õ¬©¬XÇ " />
+	<block key="morondobuff01_buff_1_description_1" korean="`¸Ä³" />
+	<block key="morondobuff02_buff_1_name" korean=")¼´ÅXÇ " />
+	<block key="morondobuff02_buff_1_description_1" korean="`¸Ä³" />
+	<block key="morondobuff03_buff_1_name" korean="È¹•¼XÇ " />
+	<block key="morondobuff03_buff_1_description_1" korean="`¸Ä³" />
+	<block key="morondobuff04_buff_1_name" korean="ÝÀ…ºXÇ " />
+	<block key="morondobuff04_buff_1_description_1" korean="`¸Ä³" />
+	<block key="morondowa01_aura_1_name" korean="­ìÓ\Õ " />
+	<block key="morondowa01_aura_1_description_1" korean="­ìÓ\Õ " />
+	<block key="morondowa02_aura_1_name" korean="­ìÓ\Õ " />
+	<block key="morondowa02_aura_1_description_1" korean="à¬¤Â¸Ò" />
+	<block key="mocomwolf01_buff_1_name" korean="¬Àå° " />
+	<block key="mocomwolf01_buff_1_description_1" korean="¬Àå°ÐÅ " />
+	<block key="mocomvamp01_buff_1_name" korean="<ÕXÇ " />
+	<block key="mocomvamp01_buff_1_description_1" korean="<ÕÐÅ " />
+	<block key="mocomghos01_buff_1_name" korean="Ý¹ÇXÇ " />
+	<block key="mocomghos01_buff_1_description_1" korean="Ý¹Çä´@Ç " />
+	<block key="mocomFroz01_buff_1_name" korean="9Ö\ÕXÇ " />
+	<block key="mocomFroz01_buff_1_description_1" korean="Á¬¹ " />
+	<block key="mocommure01_buff_1_name" korean="Ót¹˜°XÇ " />
+	<block key="mocommure01_buff_1_description_1" korean="Ót¹˜° " />
+	<block key="mocommure02_buff_1_name" korean="|·è²XÇ " />
+	<block key="mocommure02_buff_1_description_1" korean="|·è²XÇ " />
+	<block key="momoorumiw01_buff_1_name" korean="<»p¬ˆÔ " />
+	<block key="momoorumiw01_buff_1_description_1" korean="<»p¬ˆÔ " />
+	<block key="momoorumiw07_buff_1_name" korean="ÑÉÉXÇ " />
+	<block key="momoorumiw07_buff_1_description_1" korean="ÑÉÉXÇ " />
+	<block key="momoorumiw09_buff_1_name" korean="<»XÇ " />
+	<block key="momoorumiw09_buff_1_description_1" korean="<»p¬ˆÔ " />
+	<block key="momoorumiw10_buff_1_name" korean="<»XÇ " />
+	<block key="momoorumiw10_buff_1_description_1" korean="<»XÇ " />
+	<block key="moagul02_buff_1_name" korean="íÓüÈ" />
+	<block key="moagul02_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="moagul06_buff_1_name" korean="ÜÂ%¸ " />
+	<block key="moagul06_buff_1_description_1" korean="ÜÂ%¸tÇ " />
+	<block key="moagul09_buff_1_name" korean="J®@Ç " />
+	<block key="moagul09_buff_1_description_1" korean="J®@Ç " />
+	<block key="momoorumib03_buff_1_name" korean="0®È" />
+	<block key="momoorumib03_buff_1_description_1" korean="" />
+	<block key="momoorumib04_buff_1_name" korean="\ÍÄÖXÇ " />
+	<block key="momoorumib04_buff_1_description_1" korean="È,ÒÐÅ " />
+	<block key="momoorumib05_buff_1_name" korean="„½x±" />
+	<block key="momoorumib05_buff_1_description_1" korean="ù­Ä³ÐÅ " />
+	<block key="momoorumib06_buff_1_name" korean=")¼´Ål­ " />
+	<block key="momoorumib06_buff_1_description_1" korean=")¼´Ål­XÇ " />
+	<block key="moposearrow01_buff_1_name" korean="ù¹Å³" />
+	<block key="moposearrow01_buff_1_description_1" korean="ìÓ8ÁtÇ˜°XÇ " />
+	<block key="moreactimmuneba_buff_1_name" korean="¬,¸\Õ " />
+	<block key="moreactimmuneba_buff_1_description_1" korean="¨ºà´ " />
+	<block key="moreactimmuneba3_buff_1_name" korean="¬,¸\Õ " />
+	<block key="moreactimmuneba3_buff_1_description_1" korean="¨ºà´ " />
+	<block key="moreactimmuneba2_buff_1_name" korean="¬,¸\Õ " />
+	<block key="moreactimmuneba2_buff_1_description_1" korean="¨ºà´ " />
+	<block key="moreactimmuneba1_buff_1_name" korean="¬xÇ\Õ " />
+	<block key="moreactimmuneba1_buff_1_description_1" korean="¬¹aÅXÁÐÅ " />
+	<block key="moreactcheck01_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moreactcheck01_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck02_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moreactcheck02_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck03_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moreactcheck03_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck04_buff_1_name" korean="1Á" />
+	<block key="moreactcheck04_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck05_buff_1_name" korean="1Á" />
+	<block key="moreactcheck05_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck06_buff_1_name" korean="" />
+	<block key="moreactcheck06_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck07_buff_1_name" korean="" />
+	<block key="moreactcheck07_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck08_buff_1_name" korean="¼EÅ" />
+	<block key="moreactcheck08_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck09_buff_1_name" korean="¼EÅ" />
+	<block key="moreactcheck09_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactcheck10_buff_1_name" korean="UÅÄ³" />
+	<block key="moreactcheck10_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moreactimmune01_buff_1_name" korean="ÈUÅ" />
+	<block key="moreactimmune01_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="moracheck01_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck01_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck02_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck02_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck03_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck03_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck04_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck04_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck05_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck05_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck06_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck06_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck07_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck07_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck08_buff_1_name" korean="©¬,¸\Õ " />
+	<block key="moracheck08_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck09_buff_1_name" korean="1Á" />
+	<block key="moracheck09_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck10_buff_1_name" korean="1Á" />
+	<block key="moracheck10_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck11_buff_1_name" korean="" />
+	<block key="moracheck11_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck12_buff_1_name" korean="" />
+	<block key="moracheck12_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck13_buff_1_name" korean="¼EÅ" />
+	<block key="moracheck13_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck14_buff_1_name" korean="¼EÅ" />
+	<block key="moracheck14_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="moracheck15_buff_1_name" korean="UÅÄ³" />
+	<block key="moracheck15_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="morastop_buff_1_name" korean="ÈUÅ" />
+	<block key="morastop_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="mohunterj01_buff_1_name" korean="­íÓTÖ" />
+	<block key="mohunterj01_buff_1_description_1" korean="¬\Õ " />
+	<block key="moreacttuto_buff_1_name" korean="±XÎ”² " />
+	<block key="moreacttuto_buff_1_description_1" korean="" />
+	<block key="moreacttuto01_buff_1_name" korean="È,ÒXÇ " />
+	<block key="moreacttuto01_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="mocbowcheck_buff_1_name" korean="}ÅÈ " />
+	<block key="mocbowcheck_buff_1_description_1" korean="Á­DÇ " />
+	<block key="mospearcheck_buff_1_name" korean="}ÅÈ " />
+	<block key="mospearcheck_buff_1_description_1" korean="=ÌDÇ " />
+	<block key="modaslot03_buff_1_name" korean="©Í©¬" />
+	<block key="modaslot03_buff_1_description_1" korean="¬\Õ " />
+	<block key="modaslot05_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="modaslot05_buff_1_description_1" korean="(Ì" />
+	<block key="seaze_move_buff_1_name" korean="8®ä´tÇ0® " />
+	<block key="tf_seaze_move_buff_1_name" korean="8®ä´tÇ0® " />
+	<block key="wr_absorption_buff_1_description_1" korean="0®´Æ " />
+	<block key="wr_absorption_buff_1_description_2" korean="0®´Æ " />
+	<block key="wr_absorption_buff_1_description_3" korean="0®´Æ " />
+	<block key="wr_absorption_buff_1_description_4" korean="0®´Æ " />
+	<block key="wr_annoyingatt_buff_1_description_1" korean="1Á" />
+	<block key="wr_annoyingatt_buff_1_description_2" korean="1Á" />
+	<block key="wr_annoyingatt_buff_1_description_3" korean="1Á" />
+	<block key="wr_annoyingatt_buff_1_description_4" korean="1Á" />
+	<block key="wr_annoyingatt_buff_1_description_5" korean="1Á" />
+	<block key="wr_comboslash_buff_1_description_1" korean="3" />
+	<block key="wr_comboslash_buff_1_description_2" korean="3" />
+	<block key="wr_comboslash_buff_1_description_3" korean="3" />
+	<block key="wr_comboslash_buff_1_description_4" korean="3" />
+	<block key="wr_comboslash_buff_1_description_5" korean="3" />
+	<block key="wr_comboslash_buff_1_description_6" korean="3" />
+	<block key="wr_comboslash_buff_1_description_7" korean="3" />
+	<block key="wr_ctrl_move_buff_1_name" korean="ÈàÂ " />
+	<block key="wr_ctrl_move_buff_1_description_1" korean="ÈàÂ " />
+	<block key="wr_dexup_buff_1_description_1" korean="ü»©Ì " />
+	<block key="wr_dexup_buff_1_description_2" korean="ü»©Ì " />
+	<block key="wr_dexup_buff_1_description_3" korean="ü»©Ì " />
+	<block key="wr_dexup_buff_1_description_4" korean="ü»©Ì " />
+	<block key="wr_dexup_buff_1_description_5" korean="ü»©Ì " />
+	<block key="wr_dexup_buff_1_description_6" korean="ü»©Ì " />
+	<block key="wr_defstanceini_buff_1_description_1" korean=")¼´Å " />
+	<block key="wr_disarming_buff_1_description_1" korean="4»¥Ç " />
+	<block key="wr_doubleslash_buff_1_description_1" korean="2" />
+	<block key="wr_doubleslash_buff_1_description_2" korean="2" />
+	<block key="wr_doubleslash_buff_1_description_3" korean="2" />
+	<block key="wr_doubleslash_buff_1_description_4" korean="2" />
+	<block key="wr_doubleslash_buff_1_description_5" korean="2" />
+	<block key="wr_doubleslash_buff_1_description_6" korean="2" />
+	<block key="wr_doubleslash_buff_1_description_7" korean="2" />
+	<block key="wr_doubleslash_buff_1_description_8" korean="2" />
+	<block key="wr_fearatt_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="wr_finalatt_buff_1_description_1" korean="\ÍÄÖXÇ " />
+	<block key="wr_heragrip_buff_1_description_1" korean="äÕ|·tÐ¸¤ÂXÇ " />
+	<block key="wr_herapower_buff_1_description_1" korean="äÕ|·tÐ¸¤ÂXÇ " />
+	<block key="wr_heraspirit_buff_1_description_1" korean="äÕ|·tÐ¸¤ÂXÇ " />
+	<block key="wr_kickdown_buff_1_description_1" korean="±´ÅÄÉ " />
+	<block key="wr_mindatt_buff_1_name" korean="ÈàÂ " />
+	<block key="wr_piercingheart_buff_1_description_1" korean="ìÂ¥Ç " />
+	<block key="wr_piercingheart_buff_1_description_2" korean="ìÂ¥Ç " />
+	<block key="wr_piercingheart_buff_1_description_3" korean="ìÂ¥Ç " />
+	<block key="wr_piercingheart_buff_1_description_4" korean="ìÂ¥Ç " />
+	<block key="wr_piercingheart_buff_1_description_5" korean="ìÂ¥Ç " />
+	<block key="wr_provoke_buff_1_description_1" korean="Ä³¼ " />
+	<block key="wr_provoke_buff_1_description_2" korean="Ä³¼ " />
+	<block key="wr_provoke_buff_1_description_3" korean="Ä³¼ " />
+	<block key="wr_shoulderatk01_buff_1_name" korean="´Åh® " />
+	<block key="wr_shoulderatk01_buff_1_description_1" korean="" />
+	<block key="wr_shoulderatk01_buff_1_description_2" korean="" />
+	<block key="wr_smash_buff_1_description_1" korean="±´ÅÄÉ " />
+	<block key="wr_smash_buff_1_description_2" korean="±´ÅÄÉ " />
+	<block key="wr_smash_buff_1_description_3" korean="±´ÅÄÉ " />
+	<block key="wr_smash_buff_1_description_4" korean="±´ÅÄÉ " />
+	<block key="wr_smash_buff_1_description_5" korean="±´ÅÄÉ " />
+	<block key="wr_smash_buff_1_description_6" korean="±´ÅÄÉ " />
+	<block key="wr_smash_buff_1_description_7" korean="±´ÅÄÉ " />
+	<block key="wr_smash_buff_1_description_8" korean="±´ÅÄÉ " />
+	<block key="wr_soccerkick_buff_1_description_1" korean="¬ÀäÎ " />
+	<block key="wr_soccerkick_buff_1_description_2" korean="¬ÀäÎ " />
+	<block key="wr_soccerkick_buff_1_description_3" korean="¬ÀäÎ " />
+	<block key="wr_strong_buff_1_description_1" korean="¬xÇhÕ " />
+	<block key="wr_strong_buff_1_description_2" korean="¬xÇhÕ " />
+	<block key="wr_strong_buff_1_description_3" korean="¬xÇhÕ " />
+	<block key="wr_strong_buff_1_description_4" korean="¬xÇhÕ " />
+	<block key="wr_strong_buff_1_description_5" korean="¬xÇhÕ " />
+	<block key="wr_strongatk_buff_1_description_1" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_buff_1_description_2" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_buff_1_description_3" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_buff_1_description_4" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_buff_1_description_5" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_buff_1_description_6" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_buff_1_description_7" korean="8ÁŒ¬ " />
+	<block key="wr_strongatk_buff_1_description_8" korean="8ÁŒ¬ " />
+	<block key="wr_strongbody_buff_1_description_1" korean="s­t¬\Õ " />
+	<block key="wr_strongbody_buff_1_description_2" korean="s­t¬\Õ " />
+	<block key="wr_strongbody_buff_1_description_3" korean="s­t¬\Õ " />
+	<block key="wr_strongbody_buff_1_description_4" korean="s­t¬\Õ " />
+	<block key="wr_strongbody_buff_1_description_5" korean="s­t¬\Õ " />
+	<block key="wr_strongbody_buff_1_description_6" korean="s­t¬\Õ " />
+	<block key="wr_strongbody_buff_1_description_7" korean="s­t¬\Õ " />
+	<block key="wr_strup_buff_1_description_1" korean="˜× " />
+	<block key="wr_strup_buff_1_description_2" korean="˜× " />
+	<block key="wr_strup_buff_1_description_3" korean="˜× " />
+	<block key="wr_strup_buff_1_description_4" korean="˜× " />
+	<block key="wr_strup_buff_1_description_5" korean="˜× " />
+	<block key="wr_strup_buff_1_description_6" korean="˜× " />
+	<block key="wr_swingatk_buff_1_description_1" korean="€¬0® " />
+	<block key="wr_swingatk_buff_1_description_2" korean="€¬0® " />
+	<block key="wr_swingatk_buff_1_description_3" korean="€¬0® " />
+	<block key="wr_swingatk_buff_1_description_4" korean="€¬0® " />
+	<block key="wr_swingatk_buff_1_description_5" korean="€¬0® " />
+	<block key="wr_swordhurri_buff_1_description_1" korean="€¬0® " />
+	<block key="wr_throwweapon_buff_1_description_1" korean="4»0® " />
+	<block key="wr_throwweapon_buff_1_description_2" korean="4»0® " />
+	<block key="wr_throwweapon_buff_1_description_3" korean="4»0® " />
+	<block key="wr_zap_buff_1_description_1" korean="ÈUÅXÇ " />
+	<block key="wr_zap_buff_1_description_2" korean="ÈUÅXÇ " />
+	<block key="wr_zap_buff_1_description_3" korean="ÈUÅXÇ " />
+	<block key="wr_zap_buff_1_description_4" korean="ÈUÅXÇ " />
+	<block key="wr_firatk_buff_1_description_1" korean="Á1Á " />
+	<block key="wr_firatk_buff_1_description_2" korean="Á1Á " />
+	<block key="wr_firatk_buff_1_description_3" korean="Á1Á " />
+	<block key="wr_firatk_buff_1_description_4" korean="Á1Á " />
+	<block key="wr_firatk_buff_1_description_5" korean="Á1Á " />
+	<block key="bigbang01_buff_1_description_1" korean="E¾E¼(" />
+	<block key="bigbang01_buff_1_description_2" korean="E¾E¼(" />
+	<block key="bigbang01_buff_1_description_3" korean="E¾E¼(" />
+	<block key="demonpressure01_buff_1_description_1" korean="EÅ9¸XÇ " />
+	<block key="demonpressure01_buff_1_description_2" korean="EÅ9¸XÇ " />
+	<block key="demonpressure01_buff_1_description_3" korean="EÅ9¸XÇ " />
+	<block key="demonpressure01_buff_1_description_4" korean="EÅ9¸XÇ " />
+	<block key="demonpressure01_buff_1_description_5" korean="EÅ9¸XÇ " />
+	<block key="demonpressure01_buff_1_description_6" korean="EÅ9¸XÇ " />
+	<block key="crump01_buff_1_name" korean="íÓLÇÄÐ" />
+	<block key="tf_2comboslash_buff_1_description_1" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_2" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_3" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_4" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_5" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_6" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_7" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_8" korean="2" />
+	<block key="tf_2comboslash_buff_1_description_9" korean="2" />
+	<block key="tf_agilemove_buff_1_description_1" korean="0®ü»\Õ " />
+	<block key="tf_agilemove_buff_1_description_2" korean="0®ü»\Õ " />
+	<block key="tf_agilemove_buff_1_description_3" korean="0®ü»\Õ " />
+	<block key="tf_agilemove_buff_1_description_4" korean="0®ü»\Õ " />
+	<block key="tf_agilemove_buff_1_description_5" korean="0®ü»\Õ " />
+	<block key="tf_agilemove_buff_1_description_6" korean="0®ü»\Õ " />
+	<block key="tf_agilemove_buff_1_description_7" korean="0®ü»\Õ " />
+	<block key="tf_agilemove_buff_1_description_8" korean="0®ü»\Õ " />
+	<block key="tf_agility_buff_1_description_1" korean="ü»©ÌhÕ " />
+	<block key="tf_agility_buff_1_description_2" korean="ü»©ÌhÕ " />
+	<block key="tf_agility_buff_1_description_3" korean="ü»©ÌhÕ " />
+	<block key="tf_agility_buff_1_description_4" korean="ü»©ÌhÕ " />
+	<block key="tf_agility_buff_1_description_5" korean="ü»©ÌhÕ " />
+	<block key="tf_agility_buff_1_description_6" korean="ü»©ÌhÕ " />
+	<block key="tf_agility_buff_1_description_7" korean="ü»©ÌhÕ " />
+	<block key="tf_agility_buff_1_description_8" korean="ü»©ÌhÕ " />
+	<block key="tf_ambush_buff_1_description_1" korean="0®µÂ " />
+	<block key="tf_ambush_buff_1_description_2" korean="0®µÂ " />
+	<block key="tf_ambush_buff_1_description_3" korean="0®µÂ " />
+	<block key="tf_ambush_buff_1_description_4" korean="0®µÂ " />
+	<block key="tf_ambush_buff_1_description_5" korean="0®µÂ " />
+	<block key="tf_ambush_buff_1_description_6" korean="0®µÂ " />
+	<block key="tf_aterycut_buff_1_name" korean="Ù³å¹ " />
+	<block key="tf_avatarexplosion_buff_1_description_1" korean="„½àÂ " />
+	<block key="tf_avatarexplosion_buff_1_description_2" korean="„½àÂ " />
+	<block key="tf_avatarexplosion_buff_1_description_3" korean="„½àÂ " />
+	<block key="tf_avatarsummon_buff_1_description_1" korean="„½àÂ " />
+	<block key="tf_concusion_buff_1_description_1" korean="0®È " />
+	<block key="tf_concusion_buff_1_description_2" korean="0®È " />
+	<block key="tf_concusion_buff_1_description_3" korean="0®È " />
+	<block key="tf_concusion_buff_1_description_4" korean="0®È " />
+	<block key="tf_crump_buff_1_description_1" korean="íÓLÇÄÐ " />
+	<block key="tf_crump_buff_1_description_2" korean="íÓLÇÄÐ " />
+	<block key="tf_crump_buff_1_description_3" korean="íÓLÇÄÐ " />
+	<block key="tf_crumpani_buff_1_description_1" korean="íÓLÇÄÐ(" />
+	<block key="tf_extinction_buff_1_name" korean="ÁÀ	® " />
+	<block key="tf_extinction_buff_1_description_1" korean=",Ò…ºTÖ " />
+	<block key="tf_extinction_buff_1_description_2" korean=",Ò…ºTÖ " />
+	<block key="tf_extinction_buff_1_description_3" korean=",Ò…ºTÖ " />
+	<block key="tf_extinctionbomb_buff_1_description_1" korean="ŒÁxºÄÐ" />
+	<block key="tf_flashboom_buff_1_name" korean=",Á­ " />
+	<block key="tf_flashboom01_buff_1_name" korean=",Á­ " />
+	<block key="tf_gauntletgaurd_buff_1_description_1" korean=",Ò¬ " />
+	<block key="tf_heartpiercing_buff_1_description_1" korean="ìÂ¥Ç " />
+	<block key="tf_nelson_buff_1_name" korean="(ÂµÑ " />
+	<block key="tf_poisonpiercing_buff_1_name" korean="Å³Ìt¹0®" />
+	<block key="tf_sandthrow_buff_1_description_1" korean="¨º˜· " />
+	<block key="tf_sandthrow_buff_1_description_2" korean="¨º˜· " />
+	<block key="tf_sandthrow_buff_1_description_3" korean="¨º˜· " />
+	<block key="tf_shadowattack_buff_1_description_1" korean="ø­¼¹Ç " />
+	<block key="tf_shadowattack_buff_1_description_2" korean="ø­¼¹Ç " />
+	<block key="tf_shadowattack_buff_1_description_3" korean="ø­¼¹Ç " />
+	<block key="bandage_buff_1_name" korean="•½" />
+	<block key="foodrecoverhp_buff_1_name" korean="ìÓÌ¹¬ " />
+	<block key="foodrecovermp_buff_1_name" korean="ìÓÌ¹¬ " />
+	<block key="food_qu_honeypie_buff_1_name" korean="ìÓÌ¹¬ " />
+	<block key="food_qu_bakedrabbit_buff_1_name" korean="ìÓÌ¹¬ " />
+	<block key="immune_propertybodym_buff_1_name" korean="ØÅÕXÇ " />
+	<block key="immune_propertybodym_buff_1_description_1" korean="1" />
+	<block key="marlenpotiondex_buff_1_name" korean="È¹|¹°¹ " />
+	<block key="marlenpotionint_buff_1_name" korean="È¹|¹¸ " />
+	<block key="marlenpotionstr_buff_1_name" korean="È¹|¹¸ " />
+	<block key="potionatkpowup_buff_1_name" korean="È,Ò%¸ " />
+	<block key="potiondexup_buff_1_name" korean="ü»©Ì " />
+	<block key="potionintup_buff_1_name" korean="ÀÉ¥² " />
+	<block key="potionmacriup_buff_1_name" korean="È¹•¼XÎ…ºÀÐ " />
+	<block key="potionmtlup_buff_1_name" korean="ÑÉÉ%¸ " />
+	<block key="potionspellpowup_buff_1_name" korean="üÈ8»%¸ " />
+	<block key="potionstrup_buff_1_name" korean="˜× " />
+	<block key="potionvtlup_buff_1_name" korean="´Ì%¸ " />
+	<block key="potionwecriup_buff_1_name" korean="4»0®XÎ…ºÀÐ " />
+	<block key="taming_possible_buff_1_name" korean="8®ä´tÇ0®" />
+	<block key="taming_possible_buff_1_description_1" korean="" />
+	<block key="unknown_potion_buff_1_name" korean="LÅÂÆÅ”² " />
+	<block key="unknown_potion_buff_1_description_1" korean="4»¸Å" />
+	<block key="comm_magic_pre_buff_1_name" korean="È¹ÁÀ¼XÖ_" />
+	<block key="comm_magic_pre_buff_1_description_1" korean="È¹ÁÀ¼XÖ " />
+	<block key="comm_magicstone_conv_buff_1_name" korean="È¹ÁÀ¼XÖ_" />
+	<block key="comm_magicstone_conv_buff_1_description_1" korean="È¹ÁÀ¼XÖ" />
+	<block key="death_penalty_buff_1_name" korean="€½\Ö " />
+	<block key="death_penalty_buff_1_description_1" korean="€½\Ö " />
+	<block key="taming_penalty_targe_buff_1_name" korean="„½x±" />
+	<block key="taming_penalty_targe_buff_1_description_1" korean="ÇàÂDÇ " />
+	<block key="pigstomp_buff_1_description_1" korean="" />
+	<block key="itco_fescroll01pon_buff_1_name" korean="ˆ½C¯XÇ " />
+	<block key="itco_fescroll01pon_buff_1_description_1" korean="¬\Õ " />
+	<block key="itco_fescroll01poe_buff_1_name" korean="Å³ " />
+	<block key="itco_fescroll01poe_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="itco_fescroll01poh_buff_1_name" korean="|·è²XÇ " />
+	<block key="itco_fescroll01poh_buff_1_description_1" korean="|·è²XÇ " />
+	<block key="itco_fescroll01fin_buff_1_name" korean="°Æè¸ " />
+	<block key="itco_fescroll01fin_buff_1_description_1" korean="°Æè¸ " />
+	<block key="itco_fescroll01fie_buff_1_name" korean="Ü´˜·ä¬XÇ " />
+	<block key="itco_fescroll01fie_buff_1_description_1" korean="Ü´˜·ä¬XÇ " />
+	<block key="itco_fescroll01fih_buff_1_name" korean="ˆ½ " />
+	<block key="itco_fescroll01fih_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="itco_fescroll01icn_buff_1_name" korean="¬À|Çð·¤Â " />
+	<block key="itco_fescroll01icn_buff_1_description_1" korean="¬À|Çð·¤Â " />
+	<block key="itco_fescroll01ice_buff_1_name" korean="DÅtÇäÀXÇ " />
+	<block key="itco_fescroll01ice_buff_1_description_1" korean="DÅtÇäÀXÇ " />
+	<block key="itco_fescroll01ich_buff_1_name" korean="DÅˆÂŒ·XÇ " />
+	<block key="itco_fescroll01ich_buff_1_description_1" korean="DÅˆÂŒ·XÇ " />
+	<block key="itco_fescroll01lin_buff_1_name" korean="ÑÅÇ€· " />
+	<block key="itco_fescroll01lin_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="itco_fescroll01lie_buff_1_name" korean="[¾ " />
+	<block key="itco_fescroll01lie_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="itco_fescroll01lih_buff_1_name" korean="°Æè¸XÇ " />
+	<block key="itco_fescroll01lih_buff_1_description_1" korean="°Æè¸XÇ " />
+	<block key="itco_fescroll01dan_buff_1_name" korean="´Å`´ " />
+	<block key="itco_fescroll01dan_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="itco_fescroll01dae_buff_1_name" korean="ÑÅÇ€· " />
+	<block key="itco_fescroll01dae_buff_1_description_1" korean="" />
+	<block key="itco_fescroll01dah_buff_1_name" korean="´Å`´ " />
+	<block key="itco_fescroll01dah_buff_1_description_1" korean="¬º¤Â0Ñ" />
+	<block key="itco_gaugedarkdotup_buff_1_name" korean="´Å`´Œ¬tÇÀÉ " />
+	<block key="itco_gaugedarkdotup_buff_1_description_1" korean="3" />
+	<block key="itco_gaugedarkdotup_buff_1_description_2" korean="3" />
+	<block key="itco_gaugedarkdotup_buff_1_description_3" korean="3" />
+	<block key="itco_gaugedarkdotup_buff_1_description_4" korean="3" />
+	<block key="itco_gaugedarkdotup_buff_1_description_5" korean="3" />
+	<block key="itco_gaugefiredotup_buff_1_name" korean="TÖüÅŒ¬tÇÀÉ " />
+	<block key="itco_gaugefiredotup_buff_1_description_1" korean="3" />
+	<block key="itco_gaugefiredotup_buff_1_description_2" korean="3" />
+	<block key="itco_gaugefiredotup_buff_1_description_3" korean="3" />
+	<block key="itco_gaugefiredotup_buff_1_description_4" korean="3" />
+	<block key="itco_gaugefiredotup_buff_1_description_5" korean="3" />
+	<block key="itco_gaugeicedotup_buff_1_name" korean="É°0®Œ¬tÇÀÉ " />
+	<block key="itco_gaugeicedotup_buff_1_description_1" korean="3" />
+	<block key="itco_gaugeicedotup_buff_1_description_2" korean="3" />
+	<block key="itco_gaugeicedotup_buff_1_description_3" korean="3" />
+	<block key="itco_gaugeicedotup_buff_1_description_4" korean="3" />
+	<block key="itco_gaugeicedotup_buff_1_description_5" korean="3" />
+	<block key="itco_gaugelightdotup_buff_1_name" korean="[¾Œ¬tÇÀÉ " />
+	<block key="itco_gaugelightdotup_buff_1_description_1" korean="3" />
+	<block key="itco_gaugelightdotup_buff_1_description_2" korean="3" />
+	<block key="itco_gaugelightdotup_buff_1_description_3" korean="3" />
+	<block key="itco_gaugelightdotup_buff_1_description_4" korean="3" />
+	<block key="itco_gaugelightdotup_buff_1_description_5" korean="3" />
+	<block key="itco_gaugemaxupdark_buff_1_name" korean="´Å`´Œ¬tÇÀÉ " />
+	<block key="itco_gaugemaxupdark_buff_1_description_1" korean="´Å`´Œ¬tÇÀÉ " />
+	<block key="itco_gaugemaxupfire_buff_1_name" korean="TÖüÅŒ¬tÇÀÉ " />
+	<block key="itco_gaugemaxupfire_buff_1_description_1" korean="TÖüÅŒ¬tÇÀÉ " />
+	<block key="itco_gaugemaxupice_buff_1_name" korean="É°0®Œ¬tÇÀÉ " />
+	<block key="itco_gaugemaxupice_buff_1_description_1" korean="É°0®Œ¬tÇÀÉ " />
+	<block key="itco_gaugemaxuplight_buff_1_name" korean="[¾Œ¬tÇÀÉ " />
+	<block key="itco_gaugemaxuplight_buff_1_description_1" korean="[¾Œ¬tÇÀÉ " />
+	<block key="itco_resistupdark_buff_1_name" korean="´Å`´Á1Á " />
+	<block key="itco_resistupdark_buff_1_description_1" korean="´Å`´Á1Á " />
+	<block key="itco_resistupfire_buff_1_name" korean="TÖüÅÁ1Á " />
+	<block key="itco_resistupfire_buff_1_description_1" korean="TÖüÅÁ1Á " />
+	<block key="itco_resistupice_buff_1_name" korean="É°0®Á1Á " />
+	<block key="itco_resistupice_buff_1_description_1" korean="É°0®Á1Á " />
+	<block key="itco_resistuplight_buff_1_name" korean="[¾Á1Á " />
+	<block key="itco_resistuplight_buff_1_description_1" korean="[¾Á1Á " />
+	<block key="wr_heavy_buff_1_name" korean="4»p¬ÀÆ" />
+	<block key="wr_heavy_buff_1_description_1" korean="ù²àÂtÇ " />
+	<block key="tf_heavy_buff_1_name" korean="4»p¬ÀÆ" />
+	<block key="tf_heavy_buff_1_description_1" korean="ù²àÂtÇ " />
+	<block key="itco_garlicextract_buff_1_name" korean="È¹˜² " />
+	<block key="sparklingwoodaura_buff1_name" korean="­DÌ˜°4»XÇ " />
+	<block key="sparklingwoodaura_buff1_description_1" korean="­DÌ˜°4» " />
+	<block key="jonggrrrstr_buff1_name" korean="ÑÊ" />
+	<block key="jonggrrrstr_buff1_description_1" korean="È,Ò%¸tÇ " />
+	<block key="gd_shielddefend_buff_1_name" korean=")¼(Ó " />
+	<block key="gd_shielddefend_buff_1_description_1" korean=")¼(Ó\¸ " />
+	<block key="gd_shielddefend1_buff_1_name" korean="½¬ÁÉ " />
+	<block key="gd_shielddefend1_buff_1_description_1" korean=" ÇP®Ù³HÅ " />
+	<block key="tf_quickmove_buff_1_name" korean="0®ü»hÕ" />
+	<block key="tf_quickmove_buff_1_description_1" korean="tÇÙ³ " />
+	<block key="tf_avoid_buff_1_name" korean="ŒÖ<ÕÉ" />
+	<block key="tf_avoid_buff_1_description_1" korean="’±@Ç " />
+	<block key="tf_tplimit_buff_1_name" korean="Â	®È\Õ" />
+	<block key="tf_tplimit_buff_1_description_1" korean="<ÕtÕ|¹ " />
+	<block key="tf_tired_buff_1_name" korean="<Õ\¸" />
+	<block key="tf_tired_buff_1_description_1" korean="[" />
+	<block key="tf_tpincrease_buff_1_name" korean="<Õ\¸²È" />
+	<block key="tf_tpincrease_buff_1_description_1" korean="0®ü»\Õ " />
+	<block key="Pr_Heal_buff_1_name" korean="ŒÖõ¼" />
+	<block key="Pr_Holyspear_buff_1_name" korean="Ä¼4»¬¹" />
+	<block key="pr_holysun_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="pr_judgewave_buff_1_name" korean="ìÂÓXÇ " />
+	<block key="pr_judgewaveshock_buff_1_name" korean="ìÂÓXÇ " />
+	<block key="Pr_LifShld_buff_1_name" korean="ÝÀ…ºXÇ " />
+	<block key="Pr_LitArrow_buff_1_name" korean="Ä¼[¾" />
+	<block key="pr_mentalup_buff_1_name" korean="ÀÉ¥² " />
+	<block key="Pr_Psychokinesis_buff_1_name" korean="üÅ%¸" />
+	<block key="pr_purespirit_buff_1_name" korean="à¬°¬\Õ " />
+	<block key="Pr_Resrrt_buff_1_name" korean="ÝÀ…ºXÇ " />
+	<block key="Pr_Rest_buff_1_name" korean="ìÂàÂ " />
+	<block key="pr_secrifice_buff_1_name" korean="l×ÝÀ" />
+	<block key="pr_shootingstar_buff_1_name" korean="Ä¼%¶Ä¼" />
+	<block key="pr_starhurt_buff_1_name" korean="Ä¼XÇ " />
+	<block key="Pr_StrgMind_buff_1_name" korean="¬xÇ\Õ " />
+	<block key="pr_sunwound_buff_1_name" korean="ÜÐ‘ÅXÇ " />
+	<block key="pr_vigor_buff_1_name" korean="\Ö0®" />
+	<block key="pr_godsmile_buff_1_name" korean="àÂXÇ " />
+	<block key="pr_judgementblow_buff_1_name" korean="ìÂÓXÇ " />
+	<block key="pr_powerbless_buff_1_name" korean="˜×XÇ " />
+	<block key="pr_psylink_buff_1_name" korean="üÅ%¸ " />
+	<block key="pr_punishmentblow_buff_1_name" korean="QÇÕÉXÇ " />
+	<block key="pr_quickhealing_buff_1_name" korean="àÂÁ " />
+	<block key="pr_weakenblow_buff_1_name" korean="}ÅTÖXÇ " />
+	<block key="pr_2handstaff_buff_1_name" korean="‘ÅÁ " />
+	<block key="pr_leather_buff_1_name" korean="" />
+	<block key="pr_airslash_buff_1_name" korean="[¾XÇ " />
+	<block key="pr_antidote_buff_1_name" korean="ÉÅ³ " />
+	<block key="pr_fettercast_buff_1_name" korean="Á¼XÇ " />
+	<block key="pr_gravityfall_buff_1_name" korean="É%¸ " />
+	<block key="pr_highcure_buff_1_name" korean="à¬	® " />
+	<block key="pr_psychomove_buff_1_name" korean="üÅ%¸ " />
+	<block key="prudence_buff_1_name" korean="íÓ¼ " />
+	<block key="wr_doubleslash_buff_1_name" korean="2" />
+	<block key="wr_doubleslash2_buff_1_name" korean="2" />
+	<block key="wr_comboslash_buff_1_name" korean="3" />
+	<block key="wr_comboslash2_buff_1_name" korean="0®È " />
+	<block key="wr_combocl_buff_1_name" korean="3" />
+	<block key="wr_combocm_buff_1_name" korean="3" />
+	<block key="wr_combocs_buff_1_name" korean="3" />
+	<block key="wr_fearhowl_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="wr_frenzy_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzylink_buff_1_name" korean="­íÓTÖ" />
+	<block key="wr_smashcs_buff_1_name" korean="´°$¸XÎ0®" />
+	<block key="wr_smashcl_buff_1_name" korean="´°$¸XÎ0®" />
+	<block key="wr_smashcm_buff_1_name" korean="´°$¸XÎ0®" />
+	<block key="wr_ncouragement_buff_1_name" korean="" />
+	<block key="wr_provoke_buff_1_name" korean="Ä³¼" />
+	<block key="wr_provokeall_buff_1_name" korean="Ä³¼XÇ " />
+	<block key="wr_comaclear_buff_1_name" korean="ÁÀÜÐtÕÈ" />
+	<block key="wr_strongcl_buff_1_name" korean="8ÁŒ¬XÎ0®" />
+	<block key="wr_strongcm_buff_1_name" korean="8ÁŒ¬XÎ0®" />
+	<block key="wr_strongcs_buff_1_name" korean="8ÁŒ¬XÎ0®" />
+	<block key="wr_instantslash_buff_1_name" korean="Â¬ " />
+	<block key="wr_combo2link_buff_1_name" korean="¤Â4Ñ”Í" />
+	<block key="wr_shoulderatk1_buff_1_name" korean="´Åh® " />
+	<block key="wr_anger_buff_1_name" korean="©Æ0®XÇ " />
+	<block key="wr_angerlink_buff_1_name" korean="©Æ0®XÇ " />
+	<block key="wr_ncouragementlink_buff_1_name" korean="Ç•Í" />
+	<block key="wr_combatmode_buff_1_name" korean="È,Ò " />
+	<block key="wr_jumpslash_buff_1_name" korean="ÈÕ " />
+	<block key="wr_finishatk_buff_1_name" korean="\ÍÄÖXÇ " />
+	<block key="wr_reatt_buff_1_name" korean="”Í" />
+	<block key="wr_normalattack_buff_1_name" korean="ÉÓÀÐ" />
+	<block key="wr_swingatk_buff_1_name" korean="×P´t¹0®" />
+	<block key="wr_excited_buff_1_name" korean="e×„½ " />
+	<block key="wr_excited_link_buff_1_name" korean="e×„½TÖ" />
+	<block key="wr_footattackcl_buff_1_name" korean="˜×Ï®(Ì0®" />
+	<block key="wr_footattackcm_buff_1_name" korean="˜×Ï®(Ì0®" />
+	<block key="wr_footattackcs_buff_1_name" korean="˜×Ï®(Ì0®" />
+	<block key="pr_skyopen_buff_1_name" korean="¬œÌ" />
+	<block key="pr_skyopen_hael_buff_1_name" korean="¬œÌ_" />
+	<block key="pr_redemption_buff_1_name" korean="õ¬ÉÁ¼" />
+	<block key="pr_backpush_buff_1_name" korean="¤´\¸ " />
+	<block key="pr_reverse_buff_1_name" korean="<Ö€·" />
+	<block key="pr_penaltyoflight_buff_1_name" korean="[¾XÇ " />
+	<block key="penaltyoflightlink_buff_1_name" korean="[¾XÇÕÉŒ¼Á¹lÐ" />
+	<block key="pr_holyimpact_buff_1_name" korean="àÂ1Á " />
+	<block key="pr_judgeoflight_buff_1_name" korean="" />
+	<block key="pr_miracleofelora_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_resurrect_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_blessofelora_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_holysimbol_buff_1_name" korean="ÕÉ\ÔXÇ " />
+	<block key="pr_simboldef1_buff_1_name" korean="ÕÉ\ÔXÇ " />
+	<block key="pr_simboldef2_buff_1_name" korean="ÕÉ\ÔXÇ " />
+	<block key="pr_simboldef3_buff_1_name" korean="ÕÉ\ÔXÇ " />
+	<block key="pr_holyshield_buff_1_name" korean="[¾XÇ " />
+	<block key="pr_holyshield_buff_1_description_1" korean="´Åø­\¸ " />
+	<block key="pr_contrition_buff_1_name" korean="8ÌŒÖ" />
+	<block key="pr_punishment_buff_1_name" korean="œÌŒ¼ " />
+	<block key="pr_punishment2_buff_1_name" korean="œÌŒ¼ " />
+	<block key="pr_punishment3_buff_1_name" korean="œÌŒ¼ " />
+	<block key="pr_punishment3_2_buff_1_name" korean="œÌŒ¼ " />
+	<block key="pr_punishment3_3_buff_1_name" korean="œÌŒ¼ " />
+	<block key="pr_punishmentlink_buff_1_name" korean="œÌŒ¼ÕÉ\ÔŒ¬tÇÀÉ" />
+	<block key="pr_cure_buff_1_name" korean="XÎ Ç" />
+	<block key="pr_normalattack_buff_1_name" korean="ÉÓÀÐ" />
+	<block key="pr_chaos_buff_1_name" korean="<Ö€·ÁÀÜÐ" />
+	<block key="pr_chaoslink_buff_1_name" korean="<Ö€·ÁÀÜÐ" />
+	<block key="pr_holyexplosion_buff_1_name" korean="<Ö€·íÓ¼" />
+	<block key="pr_repentance_buff_1_name" korean="ŒÖ¬" />
+	<block key="pr_replink_buff_1_name" korean="ŒÖ¬ " />
+	<block key="pr_cureoflight_buff_1_name" korean="[¾XÇ " />
+	<block key="pr_curecl_buff_1_name" korean="[¾XÇ " />
+	<block key="pr_curecm_buff_1_name" korean="[¾XÇ " />
+	<block key="pr_curecs_buff_1_name" korean="ŒÖõ¼XÇ[¾" />
+	<block key="wz_icearmor_buff_1_name" korean="É°0®¬7Æ" />
+	<block key="wz_waterforce_buff_1_name" korean="<»XÇ0®´Æ" />
+	<block key="wz_fireforce_buff_1_name" korean="ˆ½XÇ0®´Æ" />
+	<block key="wz_fogoffreezing_buff_1_name" korean="" />
+	<block key="fogoffreezinglink_buff_1_name" korean="Y¾°¬XÇ " />
+	<block key="wz_lightforce_buff_1_name" korean="[¾XÇ0®´Æ" />
+	<block key="wz_calllighting_buff_1_name" korean="[¾XÇˆ¼¬" />
+	<block key="calllightinglink_buff_1_name" korean="[¾XÇˆ¼¬" />
+	<block key="wz_handoflight_buff_1_name" korean="[¾XÇÁ8®" />
+	<block key="wz_teleport_buff_1_name" korean="[¾XÇtÇÙ³" />
+	<block key="teleportlink_buff_1_name" korean="[¾XÇtÇÙ³" />
+	<block key="wz_curseofreaper_buff_1_name" korean="¬ÀàÂXÇ" />
+	<block key="curseofreaperlink_buff_1_name" korean="¬ÀàÂXÇ" />
+	<block key="wz_hevryrain_buff_1_name" korean="ŒÁ˜°0®" />
+	<block key="hevryrainlink1_buff_1_name" korean="ŒÁ˜°0® " />
+	<block key="hevryrainlink2_buff_1_name" korean="ŒÁ˜°0® " />
+	<block key="wz_sleepmushroom_buff_1_name" korean="Âtº„¼/Á" />
+	<block key="wz_createpuppet_buff_1_name" korean="ÜÂ´Ì€½\Ö" />
+	<block key="wz_puppetexplosion_buff_1_name" korean="ÜÂ´ÌíÓ¼" />
+	<block key="wz_judgeofspear_buff_1_name" korean="ìÂÓXÇ=Ì" />
+	<block key="judgeofspearlink_buff_1_name" korean="ìÂÓXÇ=ÌÁ¹lÐ" />
+	<block key="wz_painofdark_buff_1_name" korean="´Å`´XÇà¬µÑ" />
+	<block key="wz_darkforce_buff_1_name" korean="´Å`´XÇ0®´Æ" />
+	<block key="wz_iceexplosion_buff_1_name" korean="¼Å´Å™½LÇ" />
+	<block key="wz_handofdeath_buff_1_name" korean="ýÈLÇXÇÁ" />
+	<block key="wz_bitingwind_buff_1_name" korean="|Î °¼Œ·" />
+	<block key="wz_normalattack_buff_1_name" korean="ÉÓÀÐ" />
+	<block key="wz_apillaroffire_buff_1_name" korean="TÖüÅ0®e´" />
+	<block key="apillaroffirelink_buff_1_name" korean="TÖüÅ0®e´Á¹lÐ" />
+	<block key="wz_firemissilecl_buff_1_name" korean="TÖüÅœ°¬Àè¸Õ" />
+	<block key="wz_firemissilecm_buff_1_name" korean="TÖüÅœ°¬Àå¹¤Â" />
+	<block key="wz_firemissilecs_buff_1_name" korean="TÖüÅœ°¬À`ÌÀÉ" />
+	<block key="wz_meteorshower_buff_1_name" korean="TÖüÅ´ÆÁ" />
+	<block key="meteorlink_buff_1_name" korean="TÖüÅ´ÆÁÁ¹lÐ" />
+	<block key="wz_fireexplosion_buff_1_name" korean="TÖüÅíÓ¼" />
+	<block key="tf_leather_buff_1_name" korean="" />
+	<block key="tf_sprigbreak_buff_1_name" korean="" />
+	<block key="tf_sprigtread_buff_1_name" korean="" />
+	<block key="tf_sprigtread2_buff_1_name" korean="" />
+	<block key="tf_sprigcut_buff_1_name" korean="" />
+	<block key="tf_sprigcut2_buff_1_name" korean="" />
+	<block key="tf_sprigcut3_buff_1_name" korean="" />
+	<block key="tf_backdash_buff_1_name" korean="¬©¬Œ¼¬¹0®" />
+	<block key="tf_backdash2_buff_1_name" korean="¬©¬Œ¼¬¹0®2" />
+	<block key="tf_frontdash_buff_1_name" korean="¬©¬Èˆ×0®" />
+	<block key="tf_frontdash2_buff_1_name" korean="¬©¬Èˆ×0®2" />
+	<block key="tf_shadowextinction_buff_1_name" korean="0®È " />
+	<block key="tf_deepstab_buff_1_name" korean="…ºÉ`¹ " />
+	<block key="tf_leafcut_buff_1_name" korean="™°ýÅ" />
+	<block key="tf_leafsmash_buff_1_name" korean="™°ýÅ¨µl­0®" />
+	<block key="tf_dagger_buff_1_name" korean="è²€¬ " />
+	<block key="tf_throwdagger_air_buff_1_name" korean="è²Ä³ " />
+	<block key="tf_throwdagger2_air_buff_1_name" korean="è²Ä³ " />
+	<block key="tf_throwdagger3_air_buff_1_name" korean="è²Ä³ " />
+	<block key="tf_throwdagger4_air_buff_1_name" korean="è²Ä³ " />
+	<block key="tf_throwdagger_buff_1_name" korean="è²Ä³ " />
+	<block key="tf_throwdagger2_buff_1_name" korean="è²Ä³ " />
+	<block key="tf_daggermake_buff_1_name" korean="è²Ä³ " />
+	<block key="tf_crescentcut_buff_1_name" korean="½¬ÁÉ " />
+	<block key="tf_crescentcut2_buff_1_name" korean="½¬ÁÉ " />
+	<block key="tf_crescentcut3_buff_1_name" korean="½¬ÁÉ " />
+	<block key="tf_crescentcut4_buff_1_name" korean="½¬ÁÉ " />
+	<block key="tf_crescentcut5_buff_1_name" korean="½¬ÁÉ " />
+	<block key="tf_scissorskick_buff_1_name" korean="¼ì²(Ì0®" />
+	<block key="critical_link_buff_1_name" korean="ÁÀ˜Ì " />
+	<block key="tf_backcritical_buff_1_name" korean="Á˜²\Õ " />
+	<block key="tf_pour_buff_1_name" korean="ÄÁÄ³" />
+	<block key="tf_tpamp_buff_1_name" korean="¤ÂÜÐø»± " />
+	<block key="tf_2comboslash_buff_1_name" korean="àÂ´Ì " />
+	<block key="tf_duel_buff_1_name" korean="ÃÂ " />
+	<block key="tf_sidestepr_buff_1_name" korean="$Æx¹½Ê " />
+	<block key="tf_sidestepl_buff_1_name" korean="|Æ½Ê " />
+	<block key="tf_doublejump_buff_1_name" korean="tÇè²ÈÕ" />
+	<block key="tf_mirrorimage_buff_1_name" korean="”ÇÁÀ" />
+	<block key="tf_sprint_buff_1_name" korean="È%¸ " />
+	<block key="critical_scratch_buff_1_name" korean="œÍÖ" />
+	<block key="tf_naturalability_buff_1_name" korean="ÀÐà¬œ°ÀÆÁÉ„Ç" />
+	<block key="tf_nalink_buff_1_name" korean="ÀÐà¬œ°ÀÆÁÉ„ÇÁ¹lÐ" />
+	<block key="tf_normalattack_buff_1_name" korean="ÉÓÀÐ" />
+	<block key="gd_swordforce_buff_1_name" korean="€¬0®" />
+	<block key="gd_swordforce2_buff_1_name" korean="€¬0®2" />
+	<block key="gd_hack_buff_1_name" korean="œ°Ä³ÈÉ" />
+	<block key="gd_hack2_buff_1_name" korean="œ°Ä³ÈÉ2" />
+	<block key="gd_hack3_buff_1_name" korean="œ°Ä³ÈÉ3" />
+	<block key="gd_hack4_buff_1_name" korean="œ°Ä³ÈÉ4" />
+	<block key="gd_hack5_buff_1_name" korean="œ°Ä³ÈÉ5" />
+	<block key="gd_hack6_buff_1_name" korean="œ°Ä³ÈÉ6" />
+	<block key="gd_strongatklink_buff_1_name" korean="±´Å¸Ò¬¹0®" />
+	<block key="gd_deepstab_buff_1_name" korean=")¼´Ål­ " />
+	<block key="gd_wpbroken_buff_1_name" korean="4»0® " />
+	<block key="gd_wpbrokenlink_buff_1_name" korean="4»0® " />
+	<block key="gd_throwweapon_buff_1_name" korean="4»0®X³ÀÉ0®" />
+	<block key="gd_footattack_buff_1_name" korean="¼(Ì0®" />
+	<block key="gd_defstance_buff_1_name" korean=")¼´Å " />
+	<block key="gd_defen_crash_buff_1_name" korean=")¼´Ål­ " />
+	<block key="gd_defenllink_buff_1_name" korean="”Í" />
+	<block key="gd_blessofdefense_buff_1_name" korean=")¼´ÅXÇ " />
+	<block key="gd_shieldpush_buff_1_name" korean="½¬ÁÉ " />
+	<block key="gd_shieldsmash_buff_1_name" korean=")¼(Ó " />
+	<block key="gd_stun_link_buff_1_name" korean="­íÅ " />
+	<block key="gd_stun_condition_buff_1_name" korean="¤Â4Ñ " />
+	<block key="gd_holystiff_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_holyweb_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_drawing_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_holychain_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_doubleslash_buff_1_name" korean="ðÅÁ " />
+	<block key="gd_doubleslash2_buff_1_name" korean="ðÅÁ " />
+	<block key="gd_strongatk_buff_1_name" korean=",Æ$¸ " />
+	<block key="gd_blessofcombat_buff_1_name" korean="È,ÒXÇ " />
+	<block key="gd_upperatt_buff_1_name" korean="ÈUÅXÇ " />
+	<block key="gd_blessofint_buff_1_name" korean="ÀÉ¥²XÇ " />
+	<block key="gd_normalattack_buff_1_name" korean="ÉÓÀÐ" />
+	<block key="gd_holyshield_buff_1_name" korean="@Ö¬¹ " />
+	<block key="gd_sacrifice_buff_1_name" korean="l×ÝÀ" />
+	<block key="moinvincible01_buff_1_name" korean="4»È" />
+	<block key="wz_burn_link_buff_1_name" korean="ÀÐ$Æ„¹" />
+	<block key="wz_flare_buff_1_name" korean="´ÀDÅœ° " />
+	<block key="wz_fireharpooncl_buff_1_name" korean="TÖüÅ‘Ç´Àè¸Õ" />
+	<block key="wz_fireharpooncm_buff_1_name" korean="TÖüÅ‘Ç´Àå¹¤Â" />
+	<block key="wz_fireharpooncs_buff_1_name" korean="TÖüÅ‘Ç´À`ÌÀÉ" />
+	<block key="wz_fireharpooncslink_buff_1_name" korean="ôÅ0® " />
+	<block key="wz_fireharpooncmlink_buff_1_name" korean="ôÅ0® " />
+	<block key="wz_icegimlet_buff_1_name" korean="tÇÙ³ÁÄ³ " />
+	<block key="wz_cold_link_buff_1_name" korean="\Õ0®" />
+	<block key="wz_cold_link_buff_1_name_description_1" korean="tÇÙ³ÁÄ³ " />
+	<block key="wz_freezing_buff_1_name" korean="Y¾°¬" />
+	<block key="wz_twinkle_buff_1_name" korean="[¾4»¬¹" />
+	<block key="wz_writhe_buff_1_name" korean="à¬µÑXÇ " />
+	<block key="wz_writhe_party_buff_1_name" korean="à¬µÑXÇ " />
+	<block key="wz_writhe_gsparty_buff_1_name" korean="à¬µÑXÇ " />
+	<block key="wz_twinkle_party_buff_1_name" korean="[¾4»¬¹" />
+	<block key="wz_pain_buff_1_name" korean="à¬µÑ" />
+	<block key="mobigraytarget01_buff_1_name" korean="[" />
+	<block key="mobigraytarget01_buff_1_description_1" korean="ˆÉTº°Æ" />
+	<block key="sitdown_buff_1_name" korean="4×ÝÂ" />
+	<block key="sitdown_buff_1_description_1" korean="ŒÖõ¼ÁÄ³ " />
+	<block key="wr_newbies_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="wr_newbies_buff_1_description_1" korean="¬ÀÝ¹ " />
+	<block key="pr_newbies_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="pr_newbies_buff_1_description_1" korean="¬ÀÝ¹ " />
+	<block key="tf_newbies_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="tf_newbies_buff_1_description_1" korean="¬ÀÝ¹ " />
+	<block key="wz_newbies_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="wz_newbies_buff_1_description_1" korean="¬ÀÝ¹ " />
+	<block key="gd_newbies_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="gd_newbies_buff_1_description_1" korean="¬ÀÝ¹ " />
+	<block key="mocrow09_buff_1_name" korean="lÐ\¸°ÆXÇ " />
+	<block key="mocrow09_buff_1_description_1" korean="lÐ\¸°ÆXÇ " />
+	<block key="mobragibrave07_buff_2_name" korean="´ÅÀÉì·ÀÆ" />
+	<block key="mobragibrave07_buff_2_description_1" korean="±4» " />
+	<block key="eloralight03_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="eloralight03_buff_1_description_1" korean="ØÅ\¸|·XÇ " />
+	<block key="eloralight02_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="eloralight02_buff_1_description_1" korean="ØÅ\¸|·XÇ " />
+	<block key="jelnalight02_buff_1_name" korean="$È˜°¬¹¤ÂXÇ " />
+	<block key="jelnalight02_buff_1_description_1" korean="$È˜°¬¹¤ÂXÇ " />
+	<block key="jelnalight01_buff_1_name" korean="$È˜°¬¹¤ÂXÇ " />
+	<block key="jelnalight01_buff_1_description_1" korean="$È˜°¬¹¤ÂXÇ " />
+	<block key="moreactresist00_buff_1_name" korean="" />
+	<block key="moreactresist00_buff_1_description_1" korean="¬¹aÅXÁÐÅ " />
+	<block key="moreactresist50_buff_1_name" korean="" />
+	<block key="moreactresist50_buff_1_description_1" korean="¬¹aÅXÁÐÅ " />
+	<block key="moreactresist70_buff_1_name" korean="" />
+	<block key="moreactresist70_buff_1_description_1" korean="¬¹aÅXÁÐÅ " />
+	<block key="mobigray03_buff_1_name" korean="È0® " />
+	<block key="mobigray03_buff_1_description_1" korean="¸º " />
+	<block key="mobodyimmu_buff_1_name" korean="¬,¸\Õ " />
+	<block key="mobodyimmu_buff_1_description_1" korean="¨ºà´ " />
+	<block key="moyatavigor01_buff_1_name" korean="¬È" />
+	<block key="moyatavigor01_buff_1_description_1" korean="œÌÁÀXÇ " />
+	<block key="moyatavigor02_buff_1_name" korean="ˆ¼¬ " />
+	<block key="moyatavigor02_buff_1_description_1" korean="¸º " />
+	<block key="moyataskyenergy01_buff_1_name" korean="¬%¸\Õ " />
+	<block key="moyataskyenergy01_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="moyataskyenergy02_buff_1_name" korean="}ÅTÖ´ " />
+	<block key="moyataskyenergy02_buff_1_description_1" korean="}ÅTÖ´ " />
+	<block key="moyataskyenergy03_buff_1_name" korean="ø»}Å\Õ " />
+	<block key="moyataskyenergy03_buff_1_description_1" korean="ø»}Å\Õ " />
+	<block key="moyataskyenergy04_buff_1_name" korean="ÈUÅ" />
+	<block key="moyataskyenergy04_buff_1_description_1" korean="¸ºDÇ " />
+	<block key="moyataskyenergy05_buff_1_name" korean="¬%¸\Õ " />
+	<block key="moyataskyenergy05_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="moearthvigor01_buff_1_name" korean="" />
+	<block key="moearthvigor01_buff_1_description_1" korean="" />
+	<block key="moearthvigor02_buff_1_name" korean="" />
+	<block key="moearthvigor02_buff_1_description_1" korean="¸º " />
+	<block key="moev1_buff_1_name" korean="" />
+	<block key="moev1_buff_1_description_1" korean="" />
+	<block key="moev2_buff_1_name" korean="" />
+	<block key="moev2_buff_1_description_1" korean="¸º " />
+	<block key="moearthenergy01_buff_1_name" korean="¬%¸\Õ " />
+	<block key="moearthenergy01_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="moearthenergy02_buff_1_name" korean="}ÅTÖ´ " />
+	<block key="moearthenergy02_buff_1_description_1" korean="}ÅTÖ´ " />
+	<block key="moearthenergy03_buff_1_name" korean="ø»}Å\Õ " />
+	<block key="moearthenergy03_buff_1_description_1" korean="ø»}Å\Õ " />
+	<block key="moearthenergy04_buff_1_name" korean="ÈUÅ" />
+	<block key="moearthenergy04_buff_1_description_1" korean="¸ºDÇ " />
+	<block key="moearthenergy05_buff_1_name" korean="¬%¸\Õ " />
+	<block key="moearthenergy05_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="moearthunleash01_buff_1_name" korean="QÇ•Í´ " />
+	<block key="moearthunleash01_buff_1_description_1" korean="È´Å" />
+	<block key="comm_invincible_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="comm_invincible_buff_1_description_1" korean="ØÅ\¸|·XÇ " />
+	<block key="moreactresist04_buff_1_name" korean="" />
+	<block key="moreactresist04_buff_1_description_1" korean="¬¹aÅXÁÐÅ " />
+	<block key="moreactresist06_buff_1_name" korean="" />
+	<block key="moreactresist06_buff_1_description_1" korean="¬¹aÅXÁÐÅ " />
+	<block key="mofleam03_buff_1_name" korean="(·p¬´Æ " />
+	<block key="mofleam03_buff_1_description_1" korean="´ÀDÅˆÇ”² " />
+	<block key="mofleam04_buff_1_name" korean="(·p¬´Æ " />
+	<block key="mofleam04_buff_1_description_1" korean="´ÀDÅˆÇ”² " />
+	<block key="mofleam05_buff_1_name" korean="±XÎ”² " />
+	<block key="mofleam05_buff_1_description_1" korean="ˆ½XÇ " />
+	<block key="moclesier03_buff_1_name" korean="±XÎ”² " />
+	<block key="moclesier03_buff_1_description_1" korean="¼ÅLÇXÇ " />
+	<block key="moforta01_buff_1_name" korean="´Å`´XÇ " />
+	<block key="moforta01_buff_1_description_1" korean="´Å`´XÇ " />
+	<block key="moforta02_buff_1_name" korean="´Å`´XÇ " />
+	<block key="moforta02_buff_1_description_1" korean="´Å`´XÇ " />
+	<block key="moforta04_buff_1_name" korean="Ì±ÄÉÕÐ" />
+	<block key="moforta04_buff_1_description_1" korean="´Å`´XÇ " />
+	<block key="moforta05_buff_1_name" korean="íÅÑ¼XÇ " />
+	<block key="moforta05_buff_1_description_1" korean="íÅÑ¼XÇ " />
+	<block key="moforta05_aura_1_name" korean="íÅÑ¼XÇ " />
+	<block key="moforta05_aura_1_description_1" korean="íÅÑ¼XÇ " />
+	<block key="moikeria01_buff_1_name" korean="[¾XÇ " />
+	<block key="moikeria01_buff_1_description_1" korean="[¾XÇ " />
+	<block key="moikeria02_buff_1_name" korean="4»0®%¸" />
+	<block key="moikeria02_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="moikeria03_buff_1_name" korean="[¾XÇ " />
+	<block key="moikeria03_buff_1_description_1" korean="[¾XÇ " />
+	<block key="moikeria03_aura_1_name" korean="[¾XÇ " />
+	<block key="moikeria03_aura_1_description_1" korean="[¾XÇ " />
+	<block key="moikeria04_buff_1_name" korean="[¾XÇ " />
+	<block key="moikeria04_buff_1_description_1" korean="TÖ$¸\Õ " />
+	<block key="moikeria05_buff_1_name" korean="[¾XÇ " />
+	<block key="moikeria05_buff_1_description_1" korean="[¾XÇ " />
+	<block key="speedupcrilink_buff_1_name" korean="¼Œ·XÇ " />
+	<block key="speeduplink_buff_1_name" korean="Á¬À" />
+	<block key="armoor_buff_1_name" korean="ª²ÀÉXÇ " />
+	<block key="armoor_buff_1_description_1" korean="ª²ÀÉ " />
+	<block key="setskill_gd_1000_buff_1_name" korean="ÑÅÇ€·XÇ " />
+	<block key="setskill_gd_1000_buff_1_description_1" korean="<»¬¹)¼´Å " />
+	<block key="setskill_wr_1000_buff_1_name" korean="ÑÅÇ€·XÇ " />
+	<block key="setskill_wr_1000_buff_1_description_1" korean="õ¬©¬ " />
+	<block key="setskill_tf_1000_buff_1_name" korean="ÑÅÇ€·XÇ " />
+	<block key="setskill_tf_1000_buff_1_description_1" korean="" />
+	<block key="setskill_wz_1000_buff_1_name" korean="ÑÅÇ€·XÇ " />
+	<block key="setskill_wz_1000_buff_1_description_1" korean="üÈ8» " />
+	<block key="setskill_pr_1000_buff_1_name" korean="ÑÅÇ€·XÇ " />
+	<block key="setskill_pr_1000_buff_1_description_1" korean="¤Â¬Ð " />
+	<block key="gd_judment_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judment_buff_1_description_1" korean="¤Â¬Ð " />
+	<block key="tf_deathpoison_buff_1_name" korean="ù¹Å³" />
+	<block key="deathpoison1_buff_1_name" korean="àÂ½¬Å³" />
+	<block key="deathpoison2_buff_1_name" korean="ÈàÂÅ³" />
+	<block key="tf_deathpoison_buff_1_description_1" korean="4»0®\¸ " />
+	<block key="deathpoison1_buff_1_description_1" korean="4»0®\¸ " />
+	<block key="deathpoison2_buff_1_description_1" korean="4»0®\¸ " />
+	<block key="pr_revelation_buff_1_name" korean="àÂXÇ " />
+	<block key="wz_contract_buff_1_name" korean="Y¾°¬XÇ " />
+	<block key="wz_contract_buff_1_description_1" korean="¬¹aÅXÁ " />
+	<block key="tf_deathpoison1_1_buff_1_name" korean="ù¹Å³" />
+	<block key="tf_deathpoison1_1_buff_1_description_1" korean="|ÇÈÜÂ¬ " />
+	<block key="deathpoison2_1_buff_1_name" korean="àÂ½¬Å³" />
+	<block key="deathpoison2_1_buff_1_description_1" korean="|ÇÈÜÂ¬ " />
+	<block key="deathpoison3_1_buff_1_name" korean="ÈàÂÅ³" />
+	<block key="deathpoison3_1_buff_1_description_1" korean="|ÇÈÜÂ¬ " />
+	<block key="wr_frenzyforce_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce_buff_1_description_1" korean="ÇàÂXÇ " />
+	<block key="feall01_buff_1_name" korean="ìÓ¨Ö" />
+	<block key="feasteras01_buff_1_name" korean="€¬@Ç " />
+	<block key="feasteras02_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="feasteras03_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="feasteras04a_buff_1_name" korean="ÀÉÁÀ " />
+	<block key="feasteras05_buff_1_name" korean="ù¹,¸\Õ " />
+	<block key="febear01_buff_1_name" korean="ÇÖXÇ " />
+	<block key="febear02_buff_1_name" korean="P´¼®´Æ " />
+	<block key="febear03_buff_1_name" korean="ÄÖ$¸XÎ0®" />
+	<block key="febearice01_buff_1_name" korean="P´¼®´Æ " />
+	<block key="febearice02_buff_1_name" korean="P´¼®´Æ " />
+	<block key="feboar01_buff_1_name" korean="ˆ½t­XÇ " />
+	<block key="feboar02_buff_1_name" korean="Ì³ÄÉ" />
+	<block key="feboar03_buff_1_name" korean="ä´tÇ¼0®" />
+	<block key="feboar04_buff_1_name" korean="" />
+	<block key="feboar05_buff_1_name" korean="gºü³ÀÉXÇ " />
+	<block key="feboar06_buff_1_name" korean="ð¯«¶0®" />
+	<block key="feboar07_buff_1_name" korean=" ÇxÇ" />
+	<block key="feboar08_buff_1_name" korean=" ÇxÇ " />
+	<block key="feboarice01_buff_1_name" korean="É°0® " />
+	<block key="feboarice02_buff_1_name" korean="É°0® " />
+	<block key="feboarice03_buff_1_name" korean="É°¬" />
+	<block key="fecow01_buff_1_name" korean="­íÓXÇ " />
+	<block key="fecow02_buff_1_name" korean="ä´tÇ¼0®" />
+	<block key="fecow03_buff_1_name" korean="˜×,Ì " />
+	<block key="fecow04_buff_1_name" korean=" ÇxÇ" />
+	<block key="fecow05_buff_1_name" korean=" ÇxÇ " />
+	<block key="fecowdis01_buff_1_name" korean="íÅÑ¼ " />
+	<block key="fecowdis02_buff_1_name" korean="íÅÑ¼ " />
+	<block key="fefirebird01_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fefirebird02_buff_1_name" korean="p¬" />
+	<block key="fefirebird03_buff_1_name" korean="õ¬É " />
+	<block key="fefirebird04a_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fefirebird04b_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fefirebird04c_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fefirebird04d_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fefirebird04e_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fehorse01_buff_1_name" korean="ÈÉüÈ" />
+	<block key="fehorse02_buff_1_name" korean="`¾x¹ " />
+	<block key="fehorse03_buff_1_name" korean="Ì³ÄÉ" />
+	<block key="fehorse04_buff_1_name" korean="ä´tÇ¼0®" />
+	<block key="fehorse05_buff_1_name" korean="·´¼(Ì0®" />
+	<block key="fehoundfire01_buff_1_name" korean="(Æ0®" />
+	<block key="fehoundfire02_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fehpminus_buff_1_name" korean="H" />
+	<block key="feleo01_buff_1_name" korean="ìÓEÅ\Õ " />
+	<block key="feleo02_buff_1_name" korean="`Õ4Ð0®" />
+	<block key="feleo03_buff_1_name" korean="­íÓ\Õ " />
+	<block key="feleo04_buff_1_name" korean="ÄÖ$¸XÎ0®" />
+	<block key="feleodark01_buff_1_name" korean="´Å`´XÇ " />
+	<block key="feleodark02_buff_1_name" korean="€¬@Ç " />
+	<block key="feleodark03_buff_1_name" korean="´Å`´XÇ " />
+	<block key="feleodark04_buff_1_name" korean="€¬@Ç " />
+	<block key="feleodark05_buff_1_name" korean="´Å`´XÇ " />
+	<block key="fereindeer01_buff_1_name" korean="XÎ ÇXÇ " />
+	<block key="fereindeer02_buff_1_name" korean="ÝÀtÈ " />
+	<block key="fereindeer03_buff_1_name" korean=" ÇxÇ" />
+	<block key="fereindeer04_buff_1_name" korean=" ÇxÇ " />
+	<block key="fereindeer05_buff_1_name" korean="ÂXÖXÇ " />
+	<block key="fespider01_buff_1_name" korean="p¬ø»É" />
+	<block key="fespider02_buff_1_name" korean="p¬ø»Å³" />
+	<block key="fespider03_buff_1_name" korean="p¬ø»É " />
+	<block key="fespider04_buff_1_name" korean="p¬ø»É " />
+	<block key="fespiderice01_buff_1_name" korean="H°È\Õ " />
+	<block key="feturtle01_buff_1_name" korean="¼Ò¼Ò\Õ " />
+	<block key="feturtle02_buff_1_name" korean="¼Ò¼Ò\Õ " />
+	<block key="feturtle03_buff_1_name" korean="Í®ÈÉ " />
+	<block key="feturtle04_buff_1_name" korean="Í®ÈÉ " />
+	<block key="feturtlefire01_buff_1_name" korean="(Æ0®" />
+	<block key="feturtlefire02_buff_1_name" korean="TÖüÅl­" />
+	<block key="fewolf01_buff_1_name" korean="ù¹,¸\Õ " />
+	<block key="fewolf02_buff_1_name" korean="­íÓ\Õ " />
+	<block key="fewolf03_buff_1_name" korean=" °tÎ\¸´Æ " />
+	<block key="fewolfshadow01_buff_1_name" korean="@ÇàÂ" />
+	<block key="femagmafire01_buff_1_name" korean="È¹ø­È¹¾¸¤Â" />
+	<block key="feasterasfire01a_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fecarasha01a_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fecarashafire01_buff_1_name" korean="ˆ½C¯ " />
+	<block key="fespider05_buff_1_name" korean="p¬ø»XÇ " />
+	<block key="febear04_buff_1_name" korean="¬,¸\Õ " />
+	<block key="fehorse10_buff_1_name" korean="`¾x¹ " />
+	<block key="fehorse06_buff_1_name" korean="" />
+	<block key="fecow06_buff_1_name" korean="è²è²\Õ " />
+	<block key="fereindeer06_buff_1_name" korean="ÝÀtÈ " />
+	<block key="feasteras06_buff_1_name" korean="ù¹,¸\Õ " />
+	<block key="feunihorse02_buff_1_name" korean="1Á¤Âì·´Æ " />
+	<block key="feunihorse01_buff_1_name" korean="1Á¤Âì·´Æ " />
+	<block key="fecarasha02_buff_1_name" korean="È¹á¸XÇ " />
+	<block key="fecarasha03_buff_1_name" korean="¬,¸\Õ " />
+	<block key="feleo07_buff_1_name" korean=" °tÎ\¸´Æ " />
+	<block key="feleo06_buff_1_name" korean=" °tÎ\¸´Æ " />
+	<block key="feleo05_buff_1_name" korean="ù¹,¸\Õ " />
+	<block key="feallepup01_buff_1_name" korean="à¬" />
+	<block key="feallepup01_buff_1_description_1" korean="à¬" />
+	<block key="Feliger01_buff_1_name" korean="¬7Æ"Ì0®" />
+	<block key="Feliger02_buff_1_name" korean="Æq¸\Õ " />
+	<block key="fesaurus01_buff_1_name" korean="ìÓtÇŒÉ " />
+	<block key="fesaurus02_buff_1_name" korean="­íÓXÇ " />
+	<block key="fesaurus03_buff_1_name" korean="à¬" />
+	<block key="febonedra01_buff_1_name" korean="ìÓtÇŒÉ " />
+	<block key="fefloatdra01_buff_1_name" korean="[¾XÇ " />
+	<block key="fesaurus04_buff_1_name" korean="íÓ,¸\Õ " />
+	<block key="febonedra02_buff_1_name" korean="|Î °XÇ " />
+	<block key="feunihorse04_buff_1_name" korean="àÂD¾\Õ " />
+	<block key="Feliger03_buff_1_name" korean="„½x±XÇ " />
+	<block key="fedarkhorse01_buff_1_name" korean="TÅQ×XÇ " />
+	<block key="fedarkhorse02_buff_1_name" korean="TÅQ×XÇ " />
+	<block key="fepegasus01_buff_1_name" korean="Æ­XÇ " />
+	<block key="fepegasus02_buff_1_name" korean="XÖl×XÇ " />
+	<block key="feasteras04_buff_1_name" korean="€¬@Ç " />
+	<block key="fefirebird05_buff_1_name" korean="ÈÀXÇ " />
+	<block key="fefirebird06_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fetoucan01_buff_1_name" korean="€½¬¹XÇ " />
+	<block key="fetoucan02_buff_1_name" korean="ðÅÁ " />
+	<block key="fehound01_buff_1_name" korean="­íÓ\Õ " />
+	<block key="feboar09_buff_1_name" korean="­€·XÇ " />
+	<block key="fesaurus05_buff_1_name" korean="à¬" />
+	<block key="fetoucan03_buff_1_name" korean="Æ<»XÇ " />
+	<block key="fefirebird08_buff_1_name" korean="ˆ½ÈÀXÇ " />
+	<block key="fefirebird07_buff_1_name" korean="ˆ½ÈÀXÇ " />
+	<block key="fereindeer07_buff_1_name" korean="ÝÀtÈXÇ " />
+	<block key="fewolf04_buff_1_name" korean="ù¹,¸\Õ " />
+	<block key="febear06_buff_1_name" korean="¬,¸\Õ " />
+	<block key="feboar10_buff_1_name" korean="gºü³ÀÉXÇ " />
+	<block key="fecow07_buff_1_name" korean="„¼Ó\¸ " />
+	<block key="fecow08_buff_1_name" korean="ŒÁ " />
+	<block key="fecow10_buff_1_name" korean="„¼Ó\¸XÇ " />
+	<block key="fecow09_buff_1_name" korean="ÈŒÁXÇ " />
+	<block key="fedragon01_buff_1_name" korean="©ÆqÈXÇ " />
+	<block key="fedragon03_buff_1_name" korean="©ÆqÈXÇ " />
+	<block key="fedragon02_buff_1_name" korean="©ÆqÈXÇ " />
+	<block key="feturtle05_buff_1_name" korean="H°ÈÉ4® " />
+	<block key="fehorse07_buff_1_name" korean="`¾x¹ " />
+	<block key="fehorse08_buff_1_name" korean="È,ÒÈxÇ " />
+	<block key="feleo08_buff_1_name" korean="¬,¸\Õ " />
+	<block key="fehound03_buff_1_name" korean="XÕ´ÆÜ´XÇ " />
+	<block key="fereindeer08_buff_1_name" korean="è²è²\Õ " />
+	<block key="fereindeer09_buff_1_name" korean=" °5¸\Õ " />
+	<block key="fespider06_buff_1_name" korean="à¬" />
+	<block key="fespider07_buff_1_name" korean="H°H°\Õ " />
+	<block key="fewolf05_buff_1_name" korean="‘²" />
+	<block key="fewolf06_buff_1_name" korean="‘²" />
+	<block key="fewolf07_buff_1_name" korean="‘²" />
+	<block key="fefloatdra02_buff_1_name" korean="Ü´˜·ä¬XÇ " />
+	<block key="fellow_mode0_buff_1_name" korean="õ¬©¬¨ºÜ´" />
+	<block key="fellow_mode1_buff_1_name" korean="½¬Ä¬¨ºÜ´" />
+	<block key="fellow_mode2_buff_1_name" korean="" />
+	<block key="fellow_Stop_buff_1_name" korean="¬À©ÆHÅhÕ" />
+	<block key="fellow_movemode1_buff_1_name" korean="ÇXÎÀÉÈ" />
+	<block key="fellow_movemode0_buff_1_name" korean="0µ|·" />
+	<block key="fellow_attack_buff_1_name" korean="" />
+	<block key="feliger04_buff_1_name" korean="­0®XÇ " />
+	<block key="feliger05_buff_1_name" korean="­0®XÇ " />
+	<block key="fecarasha04_buff_1_name" korean="È¹ø­È¹ " />
+	<block key="fellow_reinforce_buff_1_name" korean=" Ó\¸°Æ " />
+	<block key="fellow_seal_buff_1_name" korean=" Ó\¸°Æ " />
+	<block key="fellow_synthesis_buff_1_name" korean="	½xÇ5ÆXÁ " />
+	<block key="feimmunebody_buff_1_name" korean="<»¬¹tºíÅ" />
+	<block key="febear05_buff_1_name" korean="‘Å¼ " />
+	<block key="feeturtle01_buff_1_name" korean="¤Â$±tÇlÐ " />
+	<block key="feliger06_buff_1_name" korean="à¬" />
+	<block key="fehorse09_buff_1_name" korean="ˆ½t­XÇ " />
+	<block key="morebsol01_buff_1_name" korean="¼ÅLÇ " />
+	<block key="morebsol01_buff_1_description_1" korean="(Ì" />
+	<block key="morebwiz01_buff_1_name" korean="¼ÅLÇ " />
+	<block key="morebwiz01_buff_1_description_1" korean="(Ì" />
+	<block key="morebbow01_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="morebbow01_buff_1_description_1" korean="(Ì" />
+	<block key="morebmag01_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="morebmag01_buff_1_description_1" korean="(Ì" />
+	<block key="mochaomage01_buff_1_name" korean="¬üÅ" />
+	<block key="mochaomage01_buff_1_description_1" korean="|ÇÜÂÈ<Ç\¸ " />
+	<block key="moisha01_buff_1_name" korean="Æ<ÖXÇ " />
+	<block key="moisha01_buff_1_description_1" korean="ü¬p¬ " />
+	<block key="moisha02_buff_1_name" korean="Æ<ÖXÇ " />
+	<block key="moisha02_buff_1_description_1" korean="ü¬p¬ " />
+	<block key="moisha03_buff_1_name" korean="Æ<ÖXÇ " />
+	<block key="moisha03_buff_1_description_1" korean="ü¬p¬ " />
+	<block key="molivingdoor01_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="molivingdoor01_buff_1_description_1" korean="(Ì" />
+	<block key="fematura00_buff_1_name" korean="Ó4­XÇ " />
+	<block key="gd_wpbroken_buff_1_description_1" korean="<»¬¹ " />
+	<block key="gd_wpbrokenlink_buff_1_description_1" korean="<»¬¹ " />
+	<block key="feostrich01_buff_1_name" korean="ÀÐpÈXÇ " />
+	<block key="feostrich01_buff_1_description_1" korean="ÀÐpÈXÇ " />
+	<block key="fefrostdrag04_buff_2_name" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_1" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_2" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_3" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_4" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_5" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_6" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_7" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_buff_2_description_8" korean="¬,¸\Õ " />
+	<block key="pr_eofeloramark_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_eofeloramark1_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_eofeloramark1_2_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="eofeloramark1_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_eofeloramark_2_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="eofeloramark2_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="wz_iceharpooncslink_buff_1_name" korean="É°0® " />
+	<block key="wz_iceharpooncmlink_buff_1_name" korean="É°0® " />
+	<block key="wr_pkhunter_buff_1_name" korean="xÇ¬ " />
+	<block key="wr_pkkill_buff_1_name" korean="YÕ´ÀÇ " />
+	<block key="wr_pkgod_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="wr_pkabsolute_buff_1_name" korean="È" />
+	<block key="pr_pkhunter_buff_1_name" korean="xÇ¬ " />
+	<block key="pr_pkkill_buff_1_name" korean="YÕ´ÀÇ " />
+	<block key="pr_pkgod_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="pr_pkabsolute_buff_1_name" korean="È" />
+	<block key="tf_pkhunter_buff_1_name" korean="xÇ¬ " />
+	<block key="tf_pkkill_buff_1_name" korean="YÕ´ÀÇ " />
+	<block key="tf_pkgod_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="tf_pkabsolute_buff_1_name" korean="È" />
+	<block key="wz_pkhunter_buff_1_name" korean="xÇ¬ " />
+	<block key="wz_pkkill_buff_1_name" korean="YÕ´ÀÇ " />
+	<block key="wz_pkgod_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="wz_pkabsolute_buff_1_name" korean="È" />
+	<block key="gd_pkhunter_buff_1_name" korean="xÇ¬ " />
+	<block key="gd_pkkill_buff_1_name" korean="YÕ´ÀÇ " />
+	<block key="gd_pkgod_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="gd_pkabsolute_buff_1_name" korean="È" />
+	<block key="ac_pkhunter_buff_1_name" korean="xÇ¬ " />
+	<block key="ac_pkkill_buff_1_name" korean="YÕ´ÀÇ " />
+	<block key="ac_pkgod_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="ac_pkabsolute_buff_1_name" korean="È" />
+	<block key="wr_pkhunter_buff_1_description_1" korean="<" />
+	<block key="wr_pkkill_buff_1_description_1" korean="<" />
+	<block key="wr_pkgod_buff_1_description_1" korean="<" />
+	<block key="wr_pkabsolute_buff_1_description_1" korean="<" />
+	<block key="pr_pkhunter_buff_1_description_1" korean="<" />
+	<block key="pr_pkkill_buff_1_description_1" korean="<" />
+	<block key="pr_pkgod_buff_1_description_1" korean="<" />
+	<block key="pr_pkabsolute_buff_1_description_1" korean="<" />
+	<block key="tf_pkhunter_buff_1_description_1" korean="<" />
+	<block key="tf_pkkill_buff_1_description_1" korean="<" />
+	<block key="tf_pkgod_buff_1_description_1" korean="<" />
+	<block key="tf_pkabsolute_buff_1_description_1" korean="<" />
+	<block key="wz_pkhunter_buff_1_description_1" korean="<" />
+	<block key="wz_pkkill_buff_1_description_1" korean="<" />
+	<block key="wz_pkgod_buff_1_description_1" korean="<" />
+	<block key="wz_pkabsolute_buff_1_description_1" korean="<" />
+	<block key="gd_pkhunter_buff_1_description_1" korean="<" />
+	<block key="gd_pkkill_buff_1_description_1" korean="<" />
+	<block key="gd_pkgod_buff_1_description_1" korean="<" />
+	<block key="gd_pkabsolute_buff_1_description_1" korean="<" />
+	<block key="ac_pkhunter_buff_1_description_1" korean="<" />
+	<block key="ac_pkkill_buff_1_description_1" korean="<" />
+	<block key="ac_pkgod_buff_1_description_1" korean="<" />
+	<block key="ac_pkabsolute_buff_1_description_1" korean="<" />
+	<block key="setskillall31_buff_1_description_1" korean="ÀÐ}·\Õ " />
+	<block key="setskillgd22_buff_1_name" korean="UÆäÂ " />
+	<block key="setskillgd22_buff_1_description_1" korean="<" />
+	<block key="setskillwr23_buff_1_name" korean="UÆäÂ " />
+	<block key="setskillwr23_buff_1_description_1" korean="<" />
+	<block key="setskilltf24_buff_1_name" korean="UÆäÂ " />
+	<block key="setskilltf24_buff_1_description_1" korean="<" />
+	<block key="setskillwz25_buff_1_name" korean="UÆäÂ " />
+	<block key="setskillwz25_buff_1_description_1" korean="<" />
+	<block key="setskillpr26_buff_1_name" korean="UÆäÂ " />
+	<block key="setskillpr26_buff_1_description_1" korean="<" />
+	<block key="setskillgd37_buff_1_name" korean="à¬" />
+	<block key="setskillgd37_buff_1_description_1" korean="<" />
+	<block key="setskillwr38_buff_1_name" korean="à¬" />
+	<block key="setskillwr38_buff_1_description_1" korean="<" />
+	<block key="setskilltf39_buff_1_name" korean="à¬" />
+	<block key="setskilltf39_buff_1_description_1" korean="<" />
+	<block key="setskillwz310_buff_1_name" korean="à¬" />
+	<block key="setskillwz310_buff_1_description_1" korean="<" />
+	<block key="setskillpr311_buff_1_name" korean="à¬" />
+	<block key="setskillpr311_buff_1_description_1" korean="<" />
+	<block key="setskillall312_buff_1_description_1" korean="a×ÖÀ­XÇ " />
+	<block key="setskillgd313_buff_1_name" korean="" />
+	<block key="setskillgd313_buff_1_description_1" korean="<" />
+	<block key="setskillwr314_buff_1_name" korean="" />
+	<block key="setskillwr314_buff_1_description_1" korean="<" />
+	<block key="setskilltf315_buff_1_name" korean="" />
+	<block key="setskilltf315_buff_1_description_1" korean="<" />
+	<block key="setskillwz316_buff_1_name" korean="" />
+	<block key="setskillwz316_buff_1_description_1" korean="<" />
+	<block key="setskillpr317_buff_1_name" korean="" />
+	<block key="setskillpr317_buff_1_description_1" korean="<" />
+	<block key="setskillgd318_buff_1_name" korean="9Ö\Õ " />
+	<block key="setskillgd318_buff_1_description_1" korean="<" />
+	<block key="setskillwr319_buff_1_name" korean="9Ö\Õ " />
+	<block key="setskillwr319_buff_1_description_1" korean="<" />
+	<block key="setskilltf320_buff_1_name" korean="9Ö\Õ " />
+	<block key="setskilltf320_buff_1_description_1" korean="<" />
+	<block key="setskillwz321_buff_1_name" korean="9Ö\Õ " />
+	<block key="setskillwz321_buff_1_description_1" korean="<" />
+	<block key="setskillpr322_buff_1_name" korean="9Ö\Õ " />
+	<block key="setskillpr322_buff_1_description_1" korean="<" />
+	<block key="setskillgd3301_buff_1_name" korean="ÀÐ}·\Õ " />
+	<block key="setskillgd3301_buff_1_description_1" korean="<" />
+	<block key="setskillwr3301_buff_1_name" korean="ÀÐ}·\Õ " />
+	<block key="setskillwr3301_buff_1_description_1" korean="<" />
+	<block key="setskilltf3301_buff_1_name" korean="ÀÐ}·\Õ " />
+	<block key="setskilltf3301_buff_1_description_1" korean="<" />
+	<block key="setskillwz3301_buff_1_name" korean="ÀÐ}·\Õ " />
+	<block key="setskillwz3301_buff_1_description_1" korean="<" />
+	<block key="setskillpr3301_buff_1_name" korean="ÀÐ}·\Õ " />
+	<block key="setskillpr3301_buff_1_description_1" korean="<" />
+	<block key="setskillgd3501_buff_1_name" korean="¼ÅLÇ " />
+	<block key="setskillgd3501_buff_1_description_1" korean="<" />
+	<block key="setskillwr3501_buff_1_name" korean="¼ÅLÇ " />
+	<block key="setskillwr3501_buff_1_description_1" korean="<" />
+	<block key="setskilltf3501_buff_1_name" korean="¼ÅLÇ " />
+	<block key="setskilltf3501_buff_1_description_1" korean="<" />
+	<block key="setskillwz3501_buff_1_name" korean="¼ÅLÇ " />
+	<block key="setskillwz3501_buff_1_description_1" korean="<" />
+	<block key="setskillpr3501_buff_1_name" korean="¼ÅLÇ " />
+	<block key="setskillpr3501_buff_1_description_1" korean="<" />
+	<block key="setskillgd4001_buff_1_name" korean="Í¬À9¸" />
+	<block key="setskillgd4001_buff_1_description_1" korean="<" />
+	<block key="setskillwr4001_buff_1_name" korean="Í¬À9¸" />
+	<block key="setskillwr4001_buff_1_description_1" korean="<" />
+	<block key="setskilltf4001_buff_1_name" korean="Í¬À9¸" />
+	<block key="setskilltf4001_buff_1_description_1" korean="<" />
+	<block key="setskillwz4001_buff_1_name" korean="Í¬À9¸" />
+	<block key="setskillwz4001_buff_1_description_1" korean="<" />
+	<block key="setskillpr4001_buff_1_name" korean="Í¬À9¸" />
+	<block key="setskillpr4001_buff_1_description_1" korean="<" />
+	<block key="setgd4010_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setgd4010_buff_1_description_1" korean="<" />
+	<block key="setgd4011_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setgd4011_buff_1_description_1" korean="<" />
+	<block key="setgd4012_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setgd4012_buff_1_description_1" korean="<" />
+	<block key="setwr4010_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setwr4010_buff_1_description_1" korean="<" />
+	<block key="setwr4011_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setwr4011_buff_1_description_1" korean="<" />
+	<block key="setwr4012_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setwr4012_buff_1_description_1" korean="<" />
+	<block key="settf4010_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="settf4010_buff_1_description_1" korean="<" />
+	<block key="settf4011_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="settf4011_buff_1_description_1" korean="<" />
+	<block key="settf4012_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="settf4012_buff_1_description_1" korean="<" />
+	<block key="setwz4010_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setwz4010_buff_1_description_1" korean="<" />
+	<block key="setwz4011_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setwz4011_buff_1_description_1" korean="<" />
+	<block key="setwz4012_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setwz4012_buff_1_description_1" korean="<" />
+	<block key="setpr4010_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setpr4010_buff_1_description_1" korean="<" />
+	<block key="setpr4011_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setpr4011_buff_1_description_1" korean="<" />
+	<block key="setpr4012_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="setpr4012_buff_1_description_1" korean="<" />
+	<block key="setskillgd5001_buff_1_name" korean="TÅQ× " />
+	<block key="setskillgd5001_buff_1_description_1" korean="<" />
+	<block key="setskillwr5001_buff_1_name" korean="TÅQ× " />
+	<block key="setskillwr5001_buff_1_description_1" korean="<" />
+	<block key="setskilltf5001_buff_1_name" korean="TÅQ× " />
+	<block key="setskilltf5001_buff_1_description_1" korean="<" />
+	<block key="setskillwz5001_buff_1_name" korean="TÅQ× " />
+	<block key="setskillwz5001_buff_1_description_1" korean="<" />
+	<block key="setskillpr5001_buff_1_name" korean="TÅQ× " />
+	<block key="setskillpr5001_buff_1_description_1" korean="<" />
+	<block key="skillAC002273_buff_1_description_1" korean="0®¬Àè²¥ÇXÇ " />
+	<block key="skillAC002276_buff_1_description_1" korean="Ï\¸$±XÇ " />
+	<block key="skillWE800302301_buff_1_description_1" korean="DÅ¤ÂLÑ|·¤ÂXÇ " />
+	<block key="skillWE900502252_buff_1_description_1" korean="tÎ|·äÀXÇ " />
+	<block key="skillAC012273_buff_1_description_1" korean="È¹,ÒXÏôÒXÇ " />
+	<block key="skillAC002278_buff_1_description_1" korean="È˜Ó ÑXÇ " />
+	<block key="skillAR0024492204_buff_1_description_1" korean="¼PÉXÇ " />
+	<block key="skillAR1004492204_buff_1_description_1" korean="õ¬ìÓXÇ " />
+	<block key="skillAR3024492204_buff_1_description_1" korean="´Å`´XÇ " />
+	<block key="skillAR4024492204_buff_1_description_1" korean="¼PÉXÇ " />
+	<block key="skillAR5002492204_buff_1_description_1" korean="¼PÉXÇ " />
+	<block key="areasafezone_buff_1_description_1" korean="HÅÈÀÉíÅ" />
+	<block key="wr_frenzyprovokecs_buff_1_description_1" korean="3" />
+	<block key="wr_frenzyprovokecl_buff_1_description_1" korean="5" />
+	<block key="wr_frenzyprovokecm_buff_1_description_1" korean="1" />
+	<block key="wr_aggrolink_buff_1_description_1" korean="1" />
+	<block key="gd_aggrolink_buff_1_description_1" korean="3" />
+	<block key="gd_aggrolink1_buff_1_description_1" korean="5" />
+	<block key="gd_blessofcombat_aura_2_description_1" korean="<»¬¹ " />
+	<block key="gd_blessofdefense_aura_2_description_1" korean="<»¬¹ " />
+	<block key="gd_blessofint_aura_2_description_1" korean="È¹•¼ " />
+	<block key="itco_feicescroll_buff_1_name" korean="1" />
+	<block key="itco_feicescroll_buff_1_description_1" korean="1" />
+	<block key="itco_festonescroll01_buff_1_name" korean="" />
+	<block key="itco_festonescroll01_buff_1_description_1" korean="" />
+	<block key="arpoison01_buff_1_name" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="arpoison01_buff_1_description_1" korean="ù¹Å³ " />
+	<block key="arpoison02_buff_1_name" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="arpoison02_buff_1_description_1" korean="ù¹Å³ " />
+	<block key="armoorpoison01_buff_1_name" korean="ª²ÀÉXÇ " />
+	<block key="armoorpoison01_buff_description_1" korean="1Áœ° " />
+	<block key="armoorpoison02_buff_1_name" korean="ª²ÀÉXÇ " />
+	<block key="armoorpoison02_buff_description_1" korean="1Áœ° " />
+	<block key="fogofblazelink1_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink2_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink3_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink4_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink5_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink6_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink7_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink8_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink9_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink10_buff_1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink11_buff_11_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink1_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink2_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink3_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink4_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink5_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink6_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink7_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink8_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink9_buff_1_description_1" korean="1" />
+	<block key="fogofblazelink10_buff_1_description_1" korean="1" />
+	<block key="potionpkattup_buff_1_name" korean="" />
+	<block key="potionpkdefup_buff_1_name" korean="" />
+	<block key="potionpkbdyup_buff_1_name" korean="" />
+	<block key="potionpkattup_buff_1_description_5" korean="<" />
+	<block key="potionpkdefup_buff_1_description_5" korean="<" />
+	<block key="potionpkbdyup_buff_1_description_5" korean="<" />
+	<block key="arcoldwave01_aura_1_name" korean="Ót¹˜°XÇ " />
+	<block key="arcoldwave01_aura_1_description_1" korean="(Ì" />
+	<block key="darkenergy_buff_1_name" korean="È¹0®" />
+	<block key="darkenergy_buff_1_description_1" korean="È¹àÂXÇ " />
+	<block key="darkenergy_aura_1_name" korean="È¹0®" />
+	<block key="darkenergy_aura_1_description_1" korean="È¹àÂXÇ " />
+	<block key="fedarkenergy01_buff_1_name" korean="È¹0® " />
+	<block key="fedarkenergy01_buff_1_description_1" korean="ÑÅÇ€·XÇ " />
+	<block key="itco_fefire01_buff_1_name" korean="ˆ½C¯¼Œ· " />
+	<block key="itco_fefire01_buff_1_description_1" korean="ˆ½C¯¼Œ·XÇ " />
+	<block key="gs_grade_02_buff_1_Name" korean="õ¬©¬Ì¹tÇ " />
+	<block key="gs_grade_02_buff_1_description_1" korean="<" />
+	<block key="gs_grade_03_buff_1_Name" korean="ÜÂ¬@Ç " />
+	<block key="gs_grade_03_buff_1_description_1" korean="<" />
+	<block key="wr_frenzyprovokecs_buff_1_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyprovokecl_buff_1_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyprovokecm_buff_1_Name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce8_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce7_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce6_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce5_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce4_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce3_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce2_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_frenzyforce1_buff_1_name" korean="­íÓ\Õ " />
+	<block key="wr_bladeblock_buff_1_name" korean="|Î °É¹0®" />
+	<block key="wr_bladeblock_buff_1_description_1" korean="|Î °\¸ " />
+	<block key="shielddefendmp_buff_1_name" korean=")¼(Ó " />
+	<block key="gd_aggro" korean="´Åø­\¸" />
+	<block key="gd_blessofdefense_aura_1_name" korean=")¼´ÅXÇ " />
+	<block key="gd_blessofcombat_aura_1_name" korean="È,ÒXÇ " />
+	<block key="gd_blessofint_aura_1_name" korean="ÀÉ¥²XÇ " />
+	<block key="holyweb_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_judgment3_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment3_1_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment1_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment2_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment3_buff_1_description_1" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_1" korean="ÀÐ©¬ " />
+	<block key="gd_ dancingsword_buff_1_name" korean="¤Í”Í”² " />
+	<block key="gd_ dancingsword2_buff_1_name" korean="¤Í”Í”² " />
+	<block key="gd_ dancingsword3_buff_1_name" korean="¤Í”Í”² " />
+	<block key="gd_ dancingsword4_buff_1_name" korean="¤Í”Í”² " />
+	<block key="gd_ dancingsword5_buff_1_name" korean="¤Í”Í”² " />
+	<block key="gd_aggrobuff_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="tf_deepstabchange_buff_1_name" korean="…ºÉ`¹ " />
+	<block key="setitem_flame_buff_1_name" korean="¬À˜°´Æ " />
+	<block key="setitem_flame_buff_1_description_1" korean="<" />
+	<block key="setitem_curse_buff_1_name" korean="´Å`´XÇ " />
+	<block key="setitem_curse_buff_1_description_1" korean="<" />
+	<block key="setitem_grace_buff_1_name" korean="Ót¹˜°XÇ " />
+	<block key="setitem_grace_buff_1_description_1" korean="<" />
+	<block key="setitem_fury_buff_1_name" korean="p¬àÂXÇ " />
+	<block key="setitem_fury_buff_1_description_1" korean="<" />
+	<block key="setitem_trust_buff_1_name" korean="ù¹©ºÈxÇ " />
+	<block key="setitem_trust_buff_1_description_1" korean="<" />
+	<block key="setitem_lead_buff_1_name" korean="p­è²¥ÇXÇ " />
+	<block key="setitem_lead_buff_1_description_1" korean="<" />
+	<block key="itemskill_giant_buff_1_name" korean="|ÅÀÐtÇÌ¹XÇ " />
+	<block key="itemskill_giant_buff_1_description_1" korean="<" />
+	<block key="itemskill_giant02_buff_1_name" korean="¸Ò|·²DÅXÇ " />
+	<block key="itemskill_giant02_buff_1_description_1" korean="<" />
+	<block key="itemskill_ancient_buff_1_name" korean="à¬" />
+	<block key="itemskill_ancient_buff_1_description_1" korean="<" />
+	<block key="itemskill_ancient2_buff_1_name" korean="à¬" />
+	<block key="itemskill_ancient2_buff_1_description_1" korean="<" />
+	<block key="pr_contritionlight_buff_1_name" korean="l­ÐÆXÇ " />
+	<block key="conditionheal1_buff_1_Name" korean="ÀÉÁŒÖõ¼" />
+	<block key="conditionheal2_buff_1_Name" korean="‰ÉÜÂŒÖõ¼" />
+	<block key="itco_fefiresoul01_buff_1_Name" korean="ˆ½ÈÀXÇ " />
+	<block key="itco_fefiresoul01_buff_1_description_1" korean="ˆ½ÈÀXÇ " />
+	<block key="wr_reactionhit_buff_1_name" korean="È,ÒXÇ " />
+	<block key="wr_reactionhit2_buff_1_name" korean="¬¹aÅXÁ " />
+	<block key="pr_reactionhit_buff_1_name" korean="¬¹aÅXÁ " />
+	<block key="wz_reactionhit_buff_1_name" korean="¬¹aÅXÁ " />
+	<block key="tf_reactionhit_buff_1_name" korean="¬¹aÅXÁ " />
+	<block key="gd_reactionhit_buff_1_name" korean="¬¹aÅXÁ " />
+	<block key="wr_maxhp1_buff_1_name" korean="[" />
+	<block key="skillbook1_buff_1_name" korean="¬xÇ\Õ " />
+	<block key="gd_skillbook1_buff_1_name" korean="!Ç´Ì " />
+	<block key="tf_skillbook1_buff_1_name" korean="´ÀDÅˆÇ”² " />
+	<block key="pr_skillbook1_buff_1_name" korean="ÀÉ¥² " />
+	<block key="wz_skillbook1_buff_1_name" korean="È¹%¸ " />
+	<block key="wr_skillbook2_aura_1_name" korean="0® Á " />
+	<block key="gd_skillbook2_buff_1_name" korean="è²è²\Õ " />
+	<block key="tf_skillbook2_buff_1_name" korean="¬¬ÈxÇ " />
+	<block key="pr_skillbook2_buff_1_name" korean="l×ÝÀXÇ " />
+	<block key="wz_skillbook2_buff_1_name" korean="ÈàÂ " />
+	<block key="skillbook1_buff_1_description_1" korean="<»¬¹ " />
+	<block key="gd_skillbook1_buff_1_description_1" korean="\Í" />
+	<block key="tf_skillbook1_buff_1_description_1" korean="<»¬¹ " />
+	<block key="pr_skillbook1_buff_1_description_1" korean="\Í" />
+	<block key="wz_skillbook1_buff_1_description_1" korean="È¹•¼ " />
+	<block key="pr_skillbook2_buff_1_description_1" korean="[¾XÇ " />
+	<block key="gd_shielddashatk2_buff_1_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk5_buff_1_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk8_buff_1_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="gd_shielddashatk6_buff_1_name" korean=")¼(ÓÌ³ÄÉ" />
+	<block key="dangerareaatklink2_buff_1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink6_buff_1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink1_buff_1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink4_buff_1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink7_buff_1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink5_buff_1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink3_buff_1_name" korean="ÇØÕÀÉ" />
+	<block key="snareoflighteffect1_aura_1_name" korean="[¾XÇ " />
+	<block key="snareoflightatlink2_buff_1_name" korean="[¾XÇ " />
+	<block key="snareoflightatlink3_buff_1_name" korean="[¾XÇ " />
+	<block key="snareoflightatlink4_buff_1_name" korean="[¾XÇ " />
+	<block key="snareoflightatlink5_buff_1_name" korean="[¾XÇ " />
+	<block key="snareoflightatlink6_buff_1_name" korean="[¾XÇ " />
+	<block key="snareoflightatlink7_buff_1_name" korean="[¾XÇ " />
+	<block key="snareoflightatlink8_buff_1_name" korean="[¾XÇ " />
+	<block key="wr_frenzystrongatkb1_buff_1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkbr1_buff_1_name" korean="iÖ@Ö\Õ " />
+	<block key="wr_frenzystrongatkbrg1_buff_1_name" korean="iÖ@Ö\Õ " />
+	<block key="feshirebird04_buff_1_name" korean="¬,¸\Õ " />
+	<block key="feparnaice01_buff_1_name" korean="\ÕÓ " />
+	<block key="feparnaice01_buff_1_description_1" korean="Ót¹˜°XÇ " />
+	<block key="feparnaice02_buff_1_name" korean="ä¹Á´Æ " />
+	<block key="feparnaice02_buff_1_description_1" korean="Ót¹˜°XÇ " />
+	<block key="feparnaice03_buff_1_name" korean="9ÖÅ³\Õ " />
+	<block key="feparnaice03_buff_1_description_1" korean="Ót¹˜°XÇ " />
+	<block key="drawing_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="drawing_change_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="drawing_change_buff_2_name" korean="àÂ1Á\Õ " />
+	<block key="drawing_change_buff_2_description_1" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_2" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_3" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_4" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_5" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_6" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_7" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_8" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_9" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_10" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_11" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_12" korean="ÇØÕÂXÎ " />
+	<block key="drawing_change_buff_2_description_13" korean="ÇØÕÂXÎ " />
+	<block key="wr_furyatk_buff_1_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkr_buff_1_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkg_buff_1_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkb_buff_1_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkrg_buff_1_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkrb_buff_1_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkgb_buff_1_name" korean="„½x±XÇ " />
+	<block key="wr_furyatkrgb_buff_1_name" korean="„½x±XÇ " />
+	<block key="gd_boardbuffskill_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_boardbuffskill_buff_1_description_1" korean="" />
+	<block key="wr_boardbuffskill_buff_1_name" korean="­ìÓ\Õ " />
+	<block key="wr_boardbuffskill_buff_1_description_1" korean="" />
+	<block key="tf_boardbuffskill_buff_1_name" korean="ŒÏÁXÇ " />
+	<block key="tf_boardbuffskill_buff_1_description_1" korean="" />
+	<block key="wz_boardbuffskill_buff_1_name" korean="´Å`´XÇ " />
+	<block key="wz_boardbuffskill_buff_1_description_1" korean="" />
+	<block key="pr_boardbuffskill_buff_1_name" korean="[¾XÇ " />
+	<block key="pr_boardbuffskill_buff_1_description_1" korean="" />
+	<block key="itco_feblackmeat02_buff_1_name" korean="ÑÅÇ€· " />
+	<block key="itco_feblackmeat02_buff_1_description_1" korean="$ÆüÅ´ " />
+	<block key="itco_feblackmeat03_buff_1_name" korean="ÑÅÇ€· " />
+	<block key="itco_feblackmeat03_buff_1_description_1" korean="ÑÅÇ€· " />
+	<block key="itco_fenightmare01_buff_1_name" korean="ÑÅÇ€· " />
+	<block key="itco_fenightmare01_buff_1_description_1" korean="ÑÅÇ€·XÇ " />
+	<block key="arcoldwave02_buff_1_name" korean="ä¹Á´Æ " />
+	<block key="arcoldwave02_buff_1_description_1" korean="ä¹Á´Æ " />
+	<block key="arcoldwave03_buff_1_name" korean="9ÖÅ³\Õ " />
+	<block key="arcoldwave03_buff_1_description_1" korean="9ÖÅ³\Õ " />
+	<block key="arcoldwave03_buff_1_description_1_attach_0" korean=" Ó\¸°ÆXÇ " />
+	<block key="wr_furyatkr1_buff_1_name" korean="„½x±XÇ " />
+	<block key="tf_spincutb_buff_1_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutrb_buff_1_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutrgb_buff_1_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutr_link1_buff_1_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutg_buff_1_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutgb_buff_1_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutrg_buff_1_name" korean="•ÍŒÖÈ " />
+	<block key="moredskyball01_buff_1_name" korean="¬È" />
+	<block key="moredskyball01_buff_1_description_1" korean="œÌõ¬l­XÇ " />
+	<block key="pr_latentlightlink3_buff_1_name" korean=" Ç¬Ç´ " />
+	<block key="pr_latentlightlink_buff_1_name" korean=" Ç¬Ç´ " />
+	<block key="pr_latentlightlink2_buff_1_name" korean=" Ç¬Ç´ " />
+	<block key="wr_hemorhage_buff_1_name" korean="[" />
+	<block key="gd_defensivedown_buff_1_name" korean="[" />
+	<block key="tf_attackplus_buff_1_name" korean="[" />
+	<block key="tf_defensivedown_buff_1_name" korean="[" />
+	<block key="pr_eofeloramarksoul_buff_1_name" korean="[" />
+	<block key="wz_mpplus_buff_1_name" korean="[" />
+	<block key="gd_blessofdefense_aura_2_name" korean="[" />
+	<block key="gd_blessofcombat_aura_2_name" korean="[" />
+	<block key="gd_blessofint_aura_2_name" korean="[" />
+	<block key="gd_delaytime_buff_1_name" korean="[" />
+	<block key="gd_delaytime2_buff_1_name" korean="[" />
+	<block key="gd_delaytime3_buff_1_name" korean="[" />
+	<block key="femegantes06_buff_1_name" korean="EÅ½ºXÇ " />
+	<block key="femegantes06_buff_1_description_1" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_buff_1_description_2" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_buff_1_description_3" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_buff_1_description_4" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_buff_1_description_5" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_buff_1_description_6" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_buff_1_description_7" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_buff_1_description_8" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="fehound02_buff_1_name" korean="XÕ´ÆÜ´XÇ " />
+	<block key="wr_frenzyforce8_buff_2_name" korean="[" />
+	<block key="wr_frenzyforce7_buff_2_name" korean="[" />
+	<block key="wr_frenzyforce6_buff_2_name" korean="[" />
+	<block key="wr_frenzyforce5_buff_2_name" korean="[" />
+	<block key="wr_frenzyforce4_buff_2_name" korean="[" />
+	<block key="wr_frenzyforce3_buff_2_name" korean="[" />
+	<block key="wr_frenzyforce2_buff_2_name" korean="[" />
+	<block key="wr_frenzyforce1_buff_2_name" korean="[" />
+	<block key="wr_speedup_buff_1_name" korean="[" />
+	<block key="gd_stun_buff_1_name" korean="[" />
+	<block key="gd_defencedown_buff_1_name" korean="[" />
+	<block key="tf_pkattack_buff_1_name" korean="[" />
+	<block key="tf_avoid_buff_2_name" korean="[" />
+	<block key="tf_tpplus_buff_1_name" korean="[" />
+	<block key="redemption_buff_1_name" korean="õ¬ÉÁ¼" />
+	<block key="wz_attackdown_buff_1_name" korean="[" />
+	<block key="wz_defencedown_buff_1_name" korean="[" />
+	<block key="pkhunterkill_buff_1_name" korean="¬Àå°¼¯ " />
+	<block key="pkkillkill_buff_1_name" korean="YÕ´ÀÇ " />
+	<block key="pkgodkill_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="pkabsolutekill_buff_1_name" korean="È" />
+	<block key="pkmonsterbuff_buff_1_name" korean="‰½@Ç " />
+	<block key="pkmonsterbuff_buff_1_description_1" korean="" />
+	<block key="wr_fearhowllc_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="gd_blessofcombatlc_aura_1_name" korean="È,ÒXÇ " />
+	<block key="gd_blessofintlc_aura_1_name" korean="ÀÉ¥²XÇ " />
+	<block key="gd_blessofdefenselc_aura_1_name" korean=")¼´ÅXÇ " />
+	<block key="gd_holyweblc_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_drawinglc_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="drawinglc_change_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="gd_judgmentlc_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_judgment1lc_buff_1_name" korean="[" />
+	<block key="gd_judgment2lc_buff_1_name" korean="[" />
+	<block key="gd_judgment3lc_buff_1_name" korean="[" />
+	<block key="pr_redemptionlc_buff_1_name" korean="l­ÐÆ" />
+	<block key="pr_holyshieldlc_buff_1_name" korean="[¾XÇ " />
+	<block key="pr_revelationlc_buff_1_name" korean="àÂXÇ " />
+	<block key="miracleofeloralc_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_blessofeloralc_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="blessofeloralc_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_repentancelc_buff_1_name" korean="ŒÖ¬" />
+	<block key="wz_painofdarklc_buff_1_name" korean="´Å`´XÇ " />
+	<block key="wz_handofdeathlc_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="shielddefendmp_link_buff_1_name" korean=")¼(Ó " />
+	<block key="wr_bladeblock_buff_2_name" korean="|Î °É¹0®" />
+	<block key="setskilltaming03_buff_1_name" korean="XÕ	® " />
+	<block key="setskilltaming03_buff_1_description_1" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="setskilltaming02_buff_1_name" korean="É	® " />
+	<block key="setskilltaming02_buff_1_description_1" korean="|± " />
+	<block key="setskilltaming01_buff_1_name" korean="Tº¬LÑ¤Â " />
+	<block key="setskilltaming01_buff_1_description_1" korean="EÅ½ºXÇ " />
+	<block key="setskilltaming04_buff_1_name" korean="É	® " />
+	<block key="setskilltaming04_buff_1_description_1" korean="|± " />
+	<block key="setskilltaming05_buff_1_name" korean="É	® " />
+	<block key="setskilltaming05_buff_1_description_1" korean="|± " />
+	<block key="setskilltaming06_buff_1_name" korean="É	® " />
+	<block key="setskilltaming06_buff_1_description_1" korean="|± " />
+	<block key="setskilltaming07_buff_1_name" korean="É	® " />
+	<block key="setskilltaming07_buff_1_description_1" korean="|± " />
+	<block key="setskilltaming08_buff_1_name" korean="XÕ	® " />
+	<block key="setskilltaming08_buff_1_description_1" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="setskilltaming09_buff_1_name" korean="XÕ	® " />
+	<block key="setskilltaming09_buff_1_description_1" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="setskilltaming10_buff_1_name" korean="XÕ	® " />
+	<block key="setskilltaming10_buff_1_description_1" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="setskilltaming11_buff_1_name" korean="XÕ	® " />
+	<block key="setskilltaming11_buff_1_description_1" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="wr_pkhunter_buff_2_name" korean="1" />
+	<block key="wr_pkgod_buff_2_name" korean="3" />
+	<block key="wr_pkkill_buff_2_name" korean="5" />
+	<block key="wr_pkhunter_buff_2_description_1" korean="¿Ç[¾ " />
+	<block key="wr_pkgod_buff_2_description_1" korean="¬ÂÕXÇ " />
+	<block key="wr_pkkill_buff_2_description_1" korean="ÓxºXÇ " />
+	<block key="pr_pkhunter_buff_2_name" korean="1" />
+	<block key="pr_pkgod_buff_2_name" korean="3" />
+	<block key="pr_pkkill_buff_2_name" korean="5" />
+	<block key="pr_pkhunter_buff_2_description_1" korean="¿Ç[¾ " />
+	<block key="pr_pkgod_buff_2_description_1" korean="¬ÂÕXÇ " />
+	<block key="pr_pkkill_buff_2_description_1" korean="ÓxºXÇ " />
+	<block key="wz_pkhunter_buff_2_name" korean="1" />
+	<block key="wz_pkgod_buff_2_name" korean="3" />
+	<block key="wz_pkkill_buff_2_name" korean="5" />
+	<block key="wz_pkhunter_buff_2_description_1" korean="¿Ç[¾ " />
+	<block key="wz_pkgod_buff_2_description_1" korean="¬ÂÕXÇ " />
+	<block key="wz_pkkill_buff_2_description_1" korean="ÓxºXÇ " />
+	<block key="tf_pkhunter_buff_2_name" korean="1" />
+	<block key="tf_pkgod_buff_2_name" korean="3" />
+	<block key="tf_pkkill_buff_2_name" korean="5" />
+	<block key="tf_pkhunter_buff_2_description_1" korean="¿Ç[¾ " />
+	<block key="tf_pkgod_buff_2_description_1" korean="¬ÂÕXÇ " />
+	<block key="tf_pkkill_buff_2_description_1" korean="ÓxºXÇ " />
+	<block key="gd_pkhunter_buff_2_name" korean="1" />
+	<block key="gd_pkgod_buff_2_name" korean="3" />
+	<block key="gd_pkkill_buff_2_name" korean="5" />
+	<block key="gd_pkhunter_buff_2_description_1" korean="¿Ç[¾ " />
+	<block key="gd_pkgod_buff_2_description_1" korean="¬ÂÕXÇ " />
+	<block key="gd_pkkill_buff_2_description_1" korean="ÓxºXÇ " />
+	<block key="gs_grade02_1_buff_1_name" korean="àÂ´ÌXÇ " />
+	<block key="gs_grade05_1_buff_1_name" korean="ÖÝ´XÇ " />
+	<block key="gs_grade06_2_buff_1_name" korean="È¥ÇXÇ " />
+	<block key="gs_grade02_1_buff_1_description_1" korean="<" />
+	<block key="gs_grade05_1_buff_1_description_1" korean="<" />
+	<block key="gs_grade06_2_buff_1_description_1" korean="<" />
+	<block key="wr_aggrolink_buff_1_name" korean="Çù­" />
+	<block key="cash_normalpotion_00_buff_1_name" korean="\Í" />
+	<block key="cash_normalpotion_01_buff_1_name" korean="\Í" />
+	<block key="cash_normalpotion_02_buff_1_name" korean="´Ì%¸ " />
+	<block key="cash_normalpotion_03_buff_1_name" korean="È¹˜° " />
+	<block key="cash_normalpotion_04_buff_1_name" korean="<»¬¹ " />
+	<block key="cash_normalpotion_05_buff_1_name" korean=")¼´Å%¸ " />
+	<block key="cash_normalpotion_06_buff_1_name" korean="È¹•¼ " />
+	<block key="cash_normalpotion_07_buff_1_name" korean="XÎ…ºÀÐ " />
+	<block key="cash_normalpotion_08_buff_1_name" korean="èÏÀÐ„Ç " />
+	<block key="cash_normalpotion_09_buff_1_name" korean="tÇÙ³ " />
+	<block key="cash_partypotion_00_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_01_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_02_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_03_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_04_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_05_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_06_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_07_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_partypotion_08_buff_1_name" korean="ÓðÒ " />
+	<block key="cash_normalpotion_10_buff_1_name" korean=" Ó\¸°Æ " />
+	<block key="pr_redemption_link_buff_1_name" korean="àÂ1Á " />
+	<block key="pr_redemption_link_buff_1_description_1" korean="1Á¤Âì·´Æ " />
+	<block key="pr_redemption_link_buff_1_description_2" korean="1Á¤Âì·´Æ " />
+	<block key="pr_redemption1_link_buff_1_name" korean="àÂ1Á " />
+	<block key="pr_redemption1_link_buff_1_description_1" korean="1Á¤Âì·´Æ " />
+	<block key="pr_redemption1_link_buff_1_description_2" korean="1Á¤Âì·´Æ " />
+	<block key="contrition_link_buff_1_name" korean="àÂ1Á " />
+	<block key="contrition_link_buff_1_description_1" korean="1Á¤Âì·´Æ " />
+	<block key="contrition1_link_buff_1_name" korean="àÂ1Á " />
+	<block key="contrition1_link_buff_1_description_1" korean="1Á¤Âì·´Æ " />
+	<block key="pc_buff_01_buff_1_name" korean="XÕtÎ˜°¤ÂXÇ " />
+	<block key="pc_buff_01_buff_1_description_1" korean="tÇtÎè¸¤Â " />
+	<block key="unarcoldwave03_buff_1_name" korean="\ÕÓ " />
+	<block key="unarcoldwave03_buff_1_description_1" korean="0µï´\Õ " />
+	<block key="yellowzone_buff_1_name" korean="\Ö%¸ " />
+	<block key="yellowzone_buff_1_description_1" korean="ÓðÒ " />
+	<block key="timestop_buff_1_description_1" korean="¨ºà´ " />
+	<block key="holyweb_buff_2_name" korean="àÂ1Á\Õ " />
+	<block key="holyweb_buff_2_description_1" korean="1" />
+	<block key="gd_defenllink_buff_1_description_1" korean=")¼´Å%¸ " />
+	<block key="gd_dancingsword5_buff_1_name" korean="¤Í”Í”² " />
+	<block key="gm_blessing10_buff_1_name" korean="G" />
+	<block key="gm_blessing20_buff_1_name" korean="G" />
+	<block key="gm_blessing30_buff_1_name" korean="G" />
+	<block key="gm_blessing50_buff_1_name" korean="G" />
+	<block key="feraptor02_buff_1_name" korean="©·0ÑXÇ " />
+	<block key="feraptor02_buff_1_description_1" korean="©·0Ñ " />
+	<block key="feraptor02_buff_1_description_2" korean="©·0Ñ " />
+	<block key="feraptor02_buff_1_description_3" korean="©·0Ñ " />
+	<block key="feraptor02_buff_1_description_4" korean="©·0Ñ " />
+	<block key="feraptor02_buff_1_description_5" korean="©·0Ñ " />
+	<block key="feraptor01_buff_1_name" korean="©·0ÑXÇ " />
+	<block key="feraptor01_buff_1_description_1" korean="©·0ÑXÇ " />
+	<block key="feraptor03_buff_1_name" korean="­€·XÇ " />
+	<block key="feraptor03_buff_1_description_1" korean="©·0Ñ " />
+	<block key="feraptor03_buff_1_description_2" korean="©·0Ñ " />
+	<block key="feraptor03_buff_1_description_3" korean="©·0Ñ " />
+	<block key="feraptor03_buff_1_description_4" korean="©·0Ñ " />
+	<block key="feraptor03_buff_1_description_5" korean="©·0Ñ " />
+	<block key="wr_reactionhit1_buff_1_name" korean="È,ÒXÇ " />
+	<block key="gl_potion_00_buff_1_name" korean="´Ì%¸ " />
+	<block key="gl_potion_01_buff_1_name" korean="à¬Ä³ " />
+	<block key="gl_potion_02_buff_1_name" korean="XÎ…ºÀÐ " />
+	<block key="gl_potion_03_buff_1_name" korean="õ¬©¬%¸ " />
+	<block key="gl_potion_04_buff_1_name" korean=")¼´Å%¸ " />
+	<block key="gl_potion_05_buff_1_name" korean="ÁÄ³ " />
+	<block key="gl_potion_06_buff_1_name" korean="èÏÀÐ„Ç " />
+	<block key="arfrozenroad_buff_1_name" korean="Y¾Ó " />
+	<block key="arfrozenroad_description_1" korean="Y¾Ó " />
+	<block key="ev_bp00_buff_1_name" korean="tÇ¤¼¸Ò " />
+	<block key="feowl01_buff_1_name" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl02_buff_1_name" korean=" °tÎ\¸´Æ " />
+	<block key="feowl03_buff_1_name" korean="½ºXÖXÇ " />
+	<block key="feowl04_buff_1_name" korean=",Æ|¾ø»XÇ " />
+	<block key="fehound05_buff_1_name" korean="¬%¸\Õ " />
+	<block key="setitem_uncoldwave_buff_1_name" korean="Ót¹˜°XÇ " />
+	<block key="setitem_uncoldwave_buff_1_description_1" korean="Ót¹˜° " />
+	<block key="fereindeer11_buff_1_name" korean="¬%¸\Õ " />
+	<block key="fereindeer10_buff_1_name" korean="¬%¸\Õ " />
+	<block key="fefrostdrag07_buff_2_name" korean="É°0®XÇ " />
+	<block key="fefrostdrag07_buff_2_description_1" korean="Á¬¹ " />
+	<block key="fefrostdrag07_buff_2_description_2" korean="Á¬¹ " />
+	<block key="fefrostdrag07_buff_2_description_3" korean="Á¬¹ " />
+	<block key="fefrostdrag07_buff_2_description_4" korean="Á¬¹ " />
+	<block key="fefrostdrag07_buff_2_description_5" korean="Á¬¹ " />
+	<block key="fefrostdrag07_buff_2_description_6" korean="Á¬¹ " />
+	<block key="fefrostdrag07_buff_2_description_7" korean="Á¬¹ " />
+	<block key="fefrostdrag07_buff_2_description_8" korean="Á¬¹ " />
+	<block key="febragsham01_buff_1_name" korean="XÎ Ç " />
+	<block key="febragsham01_buff_1_description_1" korean="XÎ Ç " />
+	<block key="feghost01_buff_1_name" korean="´Å`´XÇ " />
+	<block key="feghost01_buff_1_description_1" korean="´Å`´XÇ " />
+	<block key="febragihunter01_buff_1_name" korean="XÎ…ºÈxÇ " />
+	<block key="febragihunter01_1_description_1" korean="XÎ…ºÈxÇ " />
+	<block key="febragibrave03_buff_1_name" korean="´ÅÀÉì·ÀÆ" />
+	<block key="febragibrave03_1_description_1" korean="´ÅÀÉì·ÀÆ" />
+	<block key="fefairy01_buff_1_name" korean="”ÆÈXÇ " />
+	<block key="fefairy01_1_description_1" korean="”ÆÈXÇ " />
+	<block key="gd_judgment3_buff_1_description_2" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_2" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_buff_1_description_3" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_3" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_buff_1_description_4" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_4" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_buff_1_description_5" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_5" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_buff_1_description_6" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_6" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_buff_1_description_7" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_7" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_1" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_2" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_3" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_4" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_5" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_6" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_7" korean="ÀÐ©¬ " />
+	<block key="wz_manashield_buff_1_name" korean="È¹˜° " />
+	<block key="ev_bp_002_buff_1_name" korean="•Íõ¼¼@Ç " />
+	<block key="ev_bp_000_buff_1_name" korean="G" />
+	<block key="ev_bp_001_buff_1_name" korean="G" />
+	<block key="tf_calm_buff_1_name" korean="hÎ)Ì\Õ " />
+	<block key="tf_calm_buff_1_description_1" korean="´Åø­\¸ " />
+	<block key="shoulderatk_change2_buff_1_name" korean="ÈàÂ©Í©¬" />
+	<block key="wz_aggro_buff_1_name" korean="[¾XÇ " />
+	<block key="wz_aggro_buff_1_description_1" korean="´Åø­\¸ " />
+	<block key="wr_aggrolink1_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="wr_aggrolink1_buff_1_description_1" korean="ÇàÂXÇ " />
+	<block key="pr_lightshield_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_lightshield_buff_1_description_1" korean="<ÕtÕ|¹ " />
+	<block key="lightshieldlink_buff_1_name" korean="Ì¹<»XÇ " />
+	<block key="blessofelora_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="miracleofelora_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="cash_normalpotion_11_buff_1_name" korean=" Ó\¸°Æ " />
+	<block key="mobowdmg00_buff_1_Name" korean="Á­ " />
+	<block key="mobowdmg01_buff_1_Name" korean="ð¶´Åœ° " />
+	<block key="mobowdmg02_buff_1_Name" korean="ÌÖm¹\Õ " />
+	<block key="mobowdmg03_buff_1_Name" korean="DÆ½¼\Õ " />
+	<block key="mobowdmg00_buff_1_description" korean="Á­XÇ " />
+	<block key="mobowdmg01_buff_1_description" korean="Á­XÇ " />
+	<block key="mobowdmg02_buff_1_description" korean="Á­XÇ " />
+	<block key="mobowdmg03_buff_1_description" korean="Á­ " />
+	<block key="mospeardmg00_buff_1_Name" korean="=Ì " />
+	<block key="mospeardmg01_buff_1_Name" korean="ð¶´Åœ° " />
+	<block key="mospeardmg02_buff_1_Name" korean="ÌÖm¹\Õ " />
+	<block key="mospeardmg03_buff_1_Name" korean="DÆ½¼\Õ " />
+	<block key="mospeardmg00_buff_1_description" korean="=ÌXÇ " />
+	<block key="mospeardmg01_buff_1_description" korean="=ÌXÇ " />
+	<block key="mospeardmg02_buff_1_description" korean="=ÌXÇ " />
+	<block key="mospeardmg03_buff_1_description" korean="=Ì " />
+	<block key="setitem_unmagi_buff_1_Name" korean="È¹0® " />
+	<block key="setitem_unmagi_buff_1_description" korean="ÑÅÇ€· " />
+	<block key="undarkenegy_buff_1_Name" korean="È¹0® " />
+	<block key="undarkenegy_buff_1_description" korean="ÑÅÇ€· " />
+	<block key="fecollapase01_buff_1_Name" korean="õ¬…º " />
+	<block key="fecollapase01_buff_1_description" korean="xºÝ¹XÇ " />
+	<block key="areadeath01_buff_1_Name" korean="õ¬…º" />
+	<block key="areadeath01_buff_1_description" korean="xºÝ¹XÇ " />
+	<block key="moray01_buff_1_name" korean="¬È" />
+	<block key="moray01_buff_1_description_1" korean="¸º " />
+	<block key="moray04_buff_1_name" korean="¬È" />
+	<block key="moray04_buff_1_description_1" korean="¸º " />
+	<block key="moishzora01_buff_1_name" korean="É$ÆXÇ " />
+	<block key="moishzora01_buff_1_description_1" korean="É$ÆXÇ " />
+	<block key="moishzora03_buff_1_name" korean="¬|·ÄÉ " />
+	<block key="moishzora03_buff_1_description_1" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="moishzora04_buff_1_name" korean="É$ÆXÇ " />
+	<block key="moishzora04_buff_1_description_1" korean="É$ÆXÇ " />
+	<block key="moishzora06_buff_1_name" korean="S°´Å$Æt¹”² " />
+	<block key="moishzora06_buff_1_description_1" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="morayarea01_buff_1_name" korean="¤´ÀÒ°¹ " />
+	<block key="morayarea01_buff_1_description_1" korean="¤´ÀÒ°¹ " />
+	<block key="morayarea02_buff_1_name" korean="¤´ÀÒ°¹ " />
+	<block key="morayarea02_buff_1_description_1" korean="¤´ÀÒ°¹ " />
+	<block key="feallresist01_buff_1_name" korean="Æ<»XÇ " />
+	<block key="feallresist01_buff_1_description_1" korean="Æ<»¤Âì·´Æ " />
+	<block key="fellow_exp20_buff_1_name" korean=" Ó\¸°Æ " />
+	<block key="unareadeath01_buff_1_name" korean="õ¬…º " />
+	<block key="unareadeath01_buff_1_description_1" korean="àÂD¾\Õ " />
+	<block key="feyfirdbird01_buff_1_name" korean="ÔÅD¾XÇ " />
+	<block key="fegarmu01_buff_1_name" korean="" />
+	<block key="fegarmu04_buff_1_name" korean="" />
+	<block key="fegarmu02_buff_1_name" korean="¬%¸\Õ " />
+	<block key="fegarmu03_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="feeturle01_buff_1_name" korean="è²è²\Õ " />
+	<block key="feturtle06_buff_1_name" korean="ô¼8ÖXÇ " />
+	<block key="fewolf09_buff_1_name" korean="(Ì" />
+	<block key="fewolf10_buff_1_name" korean="Ó|¹|·lÐXÇ " />
+	<block key="fenightmare01_buff_1_name" korean="È$ÁXÇ " />
+	<block key="fedragon05_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="fedragon06_buff_1_name" korean="xÇµø­$±XÇ " />
+	<block key="feliger07_buff_1_name" korean="ÓtÇè¸Ü´XÇ " />
+	<block key="fematura02_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura01_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="femegantes03_buff_1_name" korean="¬\Õ " />
+	<block key="femegantes02_buff_1_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes01_buff_1_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_buff_1_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes07_buff_1_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes05_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="febonedra04_buff_1_name" korean="¼tÇ¸XÇ " />
+	<block key="febonedra03_buff_1_name" korean="Æ<ÖXÇ " />
+	<block key="fetoucan04_buff_1_name" korean="È¹%¸XÇ " />
+	<block key="fetoucan05_buff_1_name" korean="DÅ¾¬¹TÁ¤ÂXÇ " />
+	<block key="feskyseahorse02_buff_1_name" korean="¬%¸\Õ " />
+	<block key="feskyseahorse01_buff_1_name" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse05_buff_1_name" korean="tÕÈ¹XÇ " />
+	<block key="fesaurus09_buff_1_name" korean="ÑÅÇ€· " />
+	<block key="fesaurus06_buff_1_name" korean="È9¸XÇ " />
+	<block key="fefrostdrag07_buff_1_name" korean="É°0®XÇ " />
+	<block key="fefrostdrag04_buff_1_name" korean="¬,¸\Õ " />
+	<block key="fefrostdrag01_buff_1_name" korean="É°0®¼¬À" />
+	<block key="fefrostdrag02_buff_1_name" korean="É°0® " />
+	<block key="fefrostdrag03_buff_1_name" korean="É°0®¾¸¤Â" />
+	<block key="fefrostdrag05_buff_1_name" korean="É°0®¾¸¤Â" />
+	<block key="fefrostdrag06_buff_1_name" korean="(Ì" />
+	<block key="fecow11_buff_1_name" korean="¬,¸\Õ " />
+	<block key="feasuhorse02_buff_1_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_buff_1_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse01_buff_1_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_buff_1_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse07_buff_1_name" korean="È,ÒÈxÇ " />
+	<block key="feydrag01_buff_1_name" korean="Ü´|·àÏXÇ " />
+	<block key="feydrag02_buff_1_name" korean="Ü´|·àÏXÇ " />
+	<block key="feydrag03_buff_1_name" korean="‰½@Ç " />
+	<block key="fedragon08_buff_1_name" korean="ì·¤Â¸ÒXÇ " />
+	<block key="feshriekbird01_buff_1_name" korean="D¾…ºÈÀXÇ " />
+	<block key="feshriekbird02_buff_1_name" korean="D¾…ºXÇ " />
+	<block key="fecarahsa05_buff_1_name" korean="È¹ø­È¹ " />
+	<block key="fecarasha06_buff_1_name" korean="È¹á¸XÇ " />
+	<block key="feostrich03_buff_1_name" korean="`¾x¹ " />
+	<block key="feostrich02_buff_1_name" korean="¬,¸\Õ " />
+	<block key="fepegasus04_buff_1_name" korean="Ô¿XÇ " />
+	<block key="fepegasus03_buff_1_name" korean="¬%¸\Õ " />
+	<block key="fepet13_buff_1_name" korean="=ÕÜÂXÇ " />
+	<block key="fepet18_buff_1_name" korean="8»´ÅXÇ " />
+	<block key="fepet20_buff_1_name" korean="‘²" />
+	<block key="fepet04_buff_1_name" korean=" ÇÈÀÉ " />
+	<block key="fepet19_buff_1_name" korean="$ÁxÇ " />
+	<block key="fepet21_buff_1_name" korean="TÖüÅ¼Ç " />
+	<block key="fepet09_buff_1_name" korean="½¬D¾Ñ¼XÇ " />
+	<block key="fepet17_buff_1_name" korean="”Æ¬¹¬À " />
+	<block key="fepet10_buff_1_name" korean="˜°4»”ÆÈXÇ " />
+	<block key="fepet02_buff_1_name" korean="	¸¤ÂXÇ " />
+	<block key="fepet16_buff_1_name" korean="È¹,ÒXÏôÒXÇ " />
+	<block key="fepet03_buff_1_name" korean="¾|·0® " />
+	<block key="fepet06_buff_1_name" korean="¬Àå°¼¯XÇ " />
+	<block key="fepet05_buff_1_name" korean="äÀ<ºXÇ " />
+	<block key="fepet14_buff_1_name" korean="9Ö\ÕXÇ " />
+	<block key="fepet15_buff_1_name" korean="TÅQ× " />
+	<block key="fepet12_buff_1_name" korean="}ÅÈÐ " />
+	<block key="fepet01_buff_1_name" korean="ØÅ4Ð$±¤ÂXÇ " />
+	<block key="fepet08_buff_1_name" korean="©Æ¬ÀXÇ " />
+	<block key="fepet11_buff_1_name" korean=" ÇÈÀÉ " />
+	<block key="fepet07_buff_1_name" korean="È,ÒÑ¼XÇ " />
+	<block key="fehound04_buff_1_name" korean="È,ÒÈxÇ " />
+	<block key="fetiger01_buff_1_name" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger02_buff_1_name" korean="8Ö‘·tÇXÇ " />
+	<block key="ferex01_buff_1_name" korean=" ÌôÑ " />
+	<block key="fegust02_buff_1_name" korean="0¼XÎ0®" />
+	<block key="fematu03_buff_1_name" korean="¼ÅLÇ " />
+	<block key="febragibrave02_buff_1_name" korean="µÑ˜°4» " />
+	<block key="febragibrave01_buff_1_name" korean="Ô(Ì " />
+	<block key="febragifighter01_buff_1_name" korean="¬ ¼0®" />
+	<block key="fechief01_buff_1_name" korean="8ÁŒ¬ " />
+	<block key="feiren01_buff_1_name" korean="p¬" />
+	<block key="fekaleangafer01_buff_1_name" korean="É$ÆXÇ " />
+	<block key="moliger03_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="moliger04_buff_1_name" korean="Ó4­XÇ " />
+	<block key="moliger05_buff_1_name" korean="­0®XÇ " />
+	<block key="momatura02_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="momegantes01_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="momegantes02_buff_1_name" korean="4»ÇD¾" />
+	<block key="mobonedra01_buff_1_name" korean="ìÂðÅXÇ " />
+	<block key="mofrostdrag02_buff_1_name" korean="É°0® " />
+	<block key="mofrostdrag03_buff_1_name" korean="É°0® " />
+	<block key="moasterasfire01_buff_1_name" korean="€¬@Çˆ¼¬" />
+	<block key="mocarashafire01_buff_1_name" korean="ˆ½C¯I¼0®" />
+	<block key="mopkraid01_buff_1_name" korean="àÁ}ÅXÇ " />
+	<block key="mopkraid01_buff_1_description_1" korean="üÈÀ¼XÇ " />
+	<block key="mopkraid01_aura_1_name" korean="àÁ}ÅXÇ " />
+	<block key="mopkraid01_aura_1_description_1" korean="È¹0®XÇ " />
+	<block key="fegriffon97_buff_1_name" korean="tÎà¬|ÇXÇ " />
+	<block key="fegriffon98_buff_1_name" korean="iÖ<ÖXÇ " />
+	<block key="fegriffon99_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="feowl05_buff_1_name" korean="Æq¸\Õ " />
+	<block key="fewolf11_buff_1_name" korean="(Ì" />
+	<block key="fehound06_buff_1_name" korean="1¼ÉÀXÇ " />
+	<block key="fesaurus07_buff_1_name" korean="ìÂðÅXÇ " />
+	<block key="feydragon02_buff_1_name" korean="iÖ®XÇ " />
+	<block key="feydragon03_buff_1_name" korean="iÖ®XÇ " />
+	<block key="feydragon04_buff_1_name" korean="iÖ®XÇ " />
+	<block key="feydragon05_buff_1_name" korean="iÖ®XÇ " />
+	<block key="ev_bp01_buff_1_name" korean="°ÀÀÐ " />
+	<block key="setskillpkraid01_buff_1_name" korean="ÁÀ	® " />
+	<block key="setskillpkraid01_buff_1_description_1" korean="ÓtÇè¸Ü´," />
+	<block key="setskillpkraid02_buff_1_name" korean="ÁÀ	® " />
+	<block key="setskillpkraid02_buff_1_description_1" korean="ÓtÇè¸Ü´," />
+	<block key="setskillpkraid03_buff_1_name" korean="ÁÀ	® " />
+	<block key="setskillpkraid03_buff_1_description_1" korean="ÓtÇè¸Ü´," />
+	<block key="setskillpkraid04_buff_1_name" korean="ÁÀ	® " />
+	<block key="setskillpkraid04_buff_1_description_1" korean="ÓtÇè¸Ü´," />
+	<block key="setskillpkraid05_buff_1_name" korean="ÁÀ	® " />
+	<block key="setskillpkraid05_buff_1_description_1" korean="ÓtÇè¸Ü´," />
+	<block key="feknightsbuff00_buff_1_name" korean="Æ­XÇ " />
+	<block key="feknightsbuff01_buff_1_name" korean="…ºÆXÇ " />
+	<block key="feknightsbuff02_buff_1_name" korean="@ÇÍXÇ " />
+	<block key="setskilltaming13_buff_1_name" korean="¼tÇ¸ " />
+	<block key="setskilltaming13_buff_1_description_1" korean="ìÂðÅXÇ " />
+	<block key="setskilltaming12_buff_1_name" korean="ÓtÇè¸Ü´ " />
+	<block key="setskilltaming12_buff_1_description_1" korean="õ¬ìÓXÇ " />
+	<block key="fepegasus05_buff_1_name" korean="à¬¤Â¸ÒÇXÇ " />
+	<block key="fepegasus06_buff_1_name" korean="à¬¤Â¸ÒÇXÇ " />
+	<block key="setitem_unresky_buff_1_name" korean="õ¬…º " />
+	<block key="setitem_unresky_buff_1_description_1" korean="xºÝ¹XÇ " />
+	<block key="febeldon00_buff_1_name" korean="ˆ½¬ÀXÇ " />
+	<block key="febeldon01_buff_1_name" korean="ˆ½¬ÀXÇ " />
+	<block key="febeldon04_buff_1_name" korean="ÉÅ³" />
+	<block key="wr_newbies01_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="wr_newbies01_buff_1_description_1" korean="½¬ØÕXÎ|¹ " />
+	<block key="pr_newbies01_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="pr_newbies01_buff_1_description_1" korean="½¬ØÕXÎ|¹ " />
+	<block key="tf_newbies01_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="tf_newbies01_buff_1_description_1" korean="½¬ØÕXÎ|¹ " />
+	<block key="wz_newbies01_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="wz_newbies01_buff_1_description_1" korean="½¬ØÕXÎ|¹ " />
+	<block key="gd_newbies01_buff_1_name" korean="ìÅàÂXÇ " />
+	<block key="gd_newbies01_buff_1_description_1" korean="½¬ØÕXÎ|¹ " />
+	<block key="fedevy00_buff_1_name" korean="p³D¾XÇ " />
+	<block key="fehatchling00_buff_1_name" korean="ÈÀ|° " />
+	<block key="fejepeto00_buff_1_name" korean="XÖ Â¬À " />
+	<block key="fejeranin00_buff_1_name" korean="4»ÇD¾\Õ " />
+	<block key="femidget00_buff_1_name" korean="tÎ¾„Ç " />
+	<block key="fesantin00_buff_1_name" korean="$ÁxÇ" />
+	<block key="feskullknight_buff_1_name" korean="tÕè¬ " />
+	<block key="ev_bp_003_buff_1_name" korean="G" />
+	<block key="ev_bp_004_buff_1_name" korean="G" />
+	<block key="ev_bp_005_buff_1_name" korean="G" />
+	<block key="ev_bp_006_buff_1_name" korean="G" />
+	<block key="ev_bp_007_buff_1_name" korean="G" />
+	<block key="ev_bp_008_buff_1_name" korean="G" />
+	<block key="ev_bp_009_buff_1_name" korean="G" />
+	<block key="ev_bp_010_buff_1_name" korean="G" />
+	<block key="ev_bp_011_buff_1_name" korean="G" />
+	<block key="ev_bp_012_buff_1_name" korean="G" />
+	<block key="ev_bp_013_buff_1_name" korean="G" />
+	<block key="ev_bp_014_buff_1_name" korean="G" />
+	<block key="ev_bp_015_buff_1_name" korean="G" />
+	<block key="wr_bladbuff_link_buff_1_name" korean="©Æù¹\Õ " />
+	<block key="areadeath01_aura_1_Name" korean="õ¬…º" />
+	<block key="areadeath01_aura_1_description" korean="xºÝ¹XÇ " />
+	<block key="arena_red_buff_1_name" korean="°¬,Ò " />
+	<block key="arena_red_buff_1_description" korean="¸Ü´" />
+	<block key="arena_blue_buff_1_name" korean="°¬,Ò " />
+	<block key="arena_blue_buff_1_description" korean="¾è¸" />
+	<block key="cash_normalpotion_12_buff_1_name" korean="1Á¥ÇXÇ " />
+	<block key="rabini_bless_buff_1_name" korean="|·D¾È²XÇ " />
+	<block key="rabini_bless_description_1" korean="|·D¾È²XÇ " />
+	<block key="fereddrag00_buff_1_name" korean="MÖ(¸XÇ " />
+	<block key="ev_bp_016_buff_1_name" korean="G" />
+	<block key="cash_normalpotion_13_buff_1_name" korean=" Ó\¸°Æ " />
+	<block key="cash_normalpotion_14_buff_1_name" korean=" Ó\¸°Æ " />
+	<block key="it_drop_d22_hp_buff_1_name" korean="TÏ°ÆˆÉXÇ " />
+	<block key="fesnomhunter00_buff_1_name" korean="$ÁxÇ " />
+	<block key="fecaasuram00_buff_1_name" korean="DÅˆÂŒ·XÇ " />
+	<block key="fecaasuram01_buff_1_name" korean="DÅˆÂŒ·XÇ " />
+	<block key="fecabismoto00_buff_1_name" korean="D¾¤Â4»¸ÒXÇ " />
+	<block key="fecabismoto01_buff_1_name" korean="D¾¤Â4»¸ÒXÇ " />
+	<block key="fecascalion00_buff_1_name" korean="¤Â|Î¬¹(ÆXÇ " />
+	<block key="fecascalion01_buff_1_name" korean="¤Â|Î¬¹(ÆXÇ " />
+	<block key="fecaposena00_buff_1_name" korean="ìÓ8ÁtÇ˜°XÇ " />
+	<block key="fecaposena01_buff_1_name" korean="ìÓ8ÁtÇ˜°XÇ " />
+	<block key="fearabne01_buff_1_name" korean="È¹%¸ " />
+	<block key="fearabne02_buff_2_name" korean="È¹%¸ " />
+	<block key="moregen01_buff_1_name" korean="ŒÖõ¼%¸" />
+	<block key="moregen01_buff_1_description_1" korean="ä¹°Æ " />
+	<block key="moregen01_buff_1_description_2" korean="¬%¸\Õ " />
+	<block key="moregen01_buff_1_description_3" korean="¬\Õ " />
+	<block key="moregen01_buff_1_description_4" korean="ð¶´Åœ° " />
+	<block key="moregen01_buff_1_description_5" korean="}Å\Õ " />
+	<block key="fullmoon_bless_buff_1_name" korean="\Õ" />
+	<block key="fullmoon_bless_description_1" korean="\Õ" />
+	<block key="febonefrost05_buff_1_name" korean="Æ<ÖXÇ " />
+	<block key="fecashacri00_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecashmcri00_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaatk00_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecamatk00_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaarmor00_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecamarmor00_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaparry00_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecamtime00_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="felgdhorse00_buff_1_name" korean="Y¾°¬XÇ " />
+	<block key="felgdhorse01_buff_1_name" korean="íÓüÅXÇ " />
+	<block key="felgdhorse02_buff_1_name" korean="TÅQ×XÇ " />
+	<block key="fekalipto01_buff_1_name" korean="¼ " />
+	<block key="fekalipto02_buff_1_name" korean="íÓüÅXÇ " />
+	<block key="fehamion01_buff_1_name" korean="¼ " />
+	<block key="fehamion02_buff_1_name" korean="Y¾°¬XÇ " />
+	<block key="fedemonus01_buff_1_name" korean="¼ " />
+	<block key="fedemonus02_buff_1_name" korean="TÅQ×XÇ " />
+	<block key="pr_eofeloramark_buff_2_name" korean="ØÅ\¸|·XÇ " />
+	<block key="eofeloramark1_buff_2_name" korean="ØÅ\¸|·XÇ " />
+	<block key="eofeloramark2_buff_2_name" korean="ØÅ\¸|·XÇ " />
+	<block key="gd_armormax_buff_1_name" korean=")¼´Åù­" />
+	<block key="gd_aggrolink2_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="feallreslgd00_buff_1_name" korean="È$ÁXÇ " />
+	<block key="feallreslgd00_buff_1_description_1" korean="È$Á	®XÇ " />
+	<block key="fepegasusp04_buff_1_name" korean="Ô¿XÇ " />
+	<block key="fepegasusp03_buff_1_name" korean="¬%¸\Õ " />
+	<block key="mokalipto00_buff_1_name" korean="¼ " />
+	<block key="mokalipto01_buff_1_name" korean="íÓüÅXÇ " />
+	<block key="mohamion00_buff_1_name" korean="¼ " />
+	<block key="mohamion01_buff_1_name" korean="Y¾°¬XÇ " />
+	<block key="modemonus00_buff_1_name" korean="¼ " />
+	<block key="modemonus01_buff_1_name" korean="TÅQ×XÇ " />
+	<block key="mobragiseld03_buff_1_name" korean=" ÂÄÐXÇ " />
+	<block key="mobragiseld03_buff_1_description_1" korean="õ¬©¬%¸ü¬ " />
+	<block key="mokrokpries01_buff_1_name" korean="©Æù¹XÇ " />
+	<block key="mokrokpries01_buff_1_description_1" korean="õ¬©¬%¸ü¬ " />
+	<block key="fedemonus99_buff_1_name" korean="p³¨º±¤ÂXÇ " />
+	<block key="fekalipto99_buff_1_name" korean="|Î½¹ ÑXÇ " />
+	<block key="fehamion99_buff_1_name" korean="XÕø»(ÆXÇ " />
+	<block key="gm_bless_buff_1_name" korean="G" />
+	<block key="setskillgd_le4001_buff_1_name" korean="tÎ|·äÀXÇ " />
+	<block key="setskillgd_le4001_buff_1_description_1" korean="<" />
+	<block key="setskillwr_le4001_buff_1_name" korean="tÎ|·äÀXÇ " />
+	<block key="setskillwr_le4001_buff_1_description_1" korean="<" />
+	<block key="setskilltf_le4001_buff_1_name" korean="tÎ|·äÀXÇ " />
+	<block key="setskilltf_le4001_buff_1_description_1" korean="<" />
+	<block key="setskillwz_le4001_buff_1_name" korean="tÎ|·äÀXÇ " />
+	<block key="setskillwz_le4001_buff_1_description_1" korean="<" />
+	<block key="setskillpr_le4001_buff_1_name" korean="tÎ|·äÀXÇ " />
+	<block key="setskillpr_le4001_buff_1_description_1" korean="<" />
+	<block key="setitemgd01_buff_1_name" korean=" ÁÄ³ÇXÇ " />
+	<block key="setitemgd01_buff_1_description_1" korean="<" />
+	<block key="setitemgd02_buff_1_name" korean=" ÁÄ³ÇXÇ " />
+	<block key="setitemgd02_buff_1_description_1" korean="<" />
+	<block key="setitemgd03_buff_1_name" korean=" ÁÄ³ÇXÇ " />
+	<block key="setitemgd03_buff_1_description_1" korean="<" />
+	<block key="setitem_carasha_buff_1_name" korean="XÎ…ºÈxÇ " />
+	<block key="setitem_carasha_buff_1_description_1" korean="<" />
+	<block key="setitem_carasha_buff_2_name" korean="XÎ…ºÈxÇ " />
+	<block key="setitem_carasha_buff_2_description_1" korean="<" />
+	<block key="pr_eofeloramarklink_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_eofeloramarklink_buff_2_name" korean="ØÅ\¸|·XÇ " />
+	<block key="fecashacri01_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecashmcri01_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaatk01_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecamatk01_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaarmor01_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecamarmor01_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaparry01_buff_1_name" korean="ìÅ…ºXÇ " />
+	<block key="fecamtime01_buff_1_name" korean="õ¬ÈÕXÇ " />
+	<block key="fehelldog00_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="mohelldog00_buff_1_name" korean="ÀÉ%ÆXÇ " />
+	<block key="fegrabion00_buff_1_name" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fejjaru00_buff_1_name" korean="ÜÉè¸XÇ " />
+	<block key="fekarnin00_buff_1_name" korean="tÎt¹Ì²XÇ " />
+	<block key="feberite00_buff_1_name" korean=" ¼¬¹¸ÒXÇ " />
+	<block key="featan00_buff_1_name" korean="DÅÄÐXÇ " />
+	<block key="fecagara00_buff_1_name" korean="•Íõ¼XÇ " />
+	<block key="fecagara00_buff_1_description_1" korean="•Íõ¼XÇ " />
+	<block key="ev_bp02_buff_1_name" korean="[" />
+	<block key="ev_bp03_buff_1_name" korean="[" />
+	<block key="ev_bp04_buff_1_name" korean="[" />
+	<block key="ev_bp05_buff_1_name" korean="[" />
+	<block key="feparuchi00_buff_1_name" korean="ˆ½t­XÇ " />
+	<block key="feparuchi01_buff_1_name" korean="gºü³ÀÉXÇ " />
+	<block key="feshteran00_buff_1_name" korean="ù¹,¸\Õ " />
+	<block key="feshteran01_buff_1_name" korean="õ¬ìÓXÇ " />
+	<block key="fekteran00_buff_1_name" korean="ù¹,¸\Õ " />
+	<block key="fekteran01_buff_1_name" korean="©ÆqÈXÇ " />
+	<block key="fediagil00_buff_1_name" korean="Æ­ü¬ " />
+	<block key="fediagil01_buff_1_name" korean="µDÅ8®XÇ " />
+	<block key="protect_otp_buff_1_name" korean="O" />
+	<block key="protect_otp_description_1" korean="O" />
+	<block key="love_bless_30_buff_1_name" korean="¬À‘·XÇ " />
+	<block key="love_bless_50_buff_1_name" korean="Ô”ÆXÇ " />
+	<block key="support_crow_1_buff_1_name" korean="lÐ\¸°ÆXÇ " />
+	<block key="support_crow_2_buff_1_name" korean="lÐ\¸°ÆXÇ " />
+	<block key="support_crow_3_buff_1_name" korean="lÐ\¸°ÆXÇ " />
+	<block key="support_crow_4_buff_1_name" korean="lÐ\¸°ÆXÇ " />
+	<block key="support_crow_5_buff_1_name" korean="lÐ\¸°ÆXÇ " />
+	<block key="shine_support_crow_1_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_support_crow_2_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_support_crow_3_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_support_crow_4_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_support_crow_5_buff_1_name" korean="[¾˜°”² " />
+	<block key="great_support_crow_1_buff_1_name" korean="Ç" />
+	<block key="great_support_crow_2_buff_1_name" korean="Ç" />
+	<block key="great_support_crow_3_buff_1_name" korean="Ç" />
+	<block key="great_support_crow_4_buff_1_name" korean="Ç" />
+	<block key="spirit_hakain_1_buff_1_name" korean="XÕ" />
+	<block key="spirit_hakain_2_buff_1_name" korean="XÕ" />
+	<block key="spirit_hakain_3_buff_1_name" korean="XÕ" />
+	<block key="spirit_hakain_4_buff_1_name" korean="XÕ" />
+	<block key="spirit_hakain_5_buff_1_name" korean="XÕ" />
+	<block key="will_hakain_1_buff_1_name" korean="XÕ" />
+	<block key="will_hakain_2_buff_1_name" korean="XÕ" />
+	<block key="will_hakain_3_buff_1_name" korean="XÕ" />
+	<block key="will_hakain_4_buff_1_name" korean="XÕ" />
+	<block key="will_hakain_5_buff_1_name" korean="XÕ" />
+	<block key="bless_elora_1_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="bless_elora_2_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="bless_elora_3_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="bless_elora_4_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="bless_elora_5_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="noble_bless_elora_1_buff_1_name" korean="à¬À­\Õ " />
+	<block key="noble_bless_elora_2_buff_1_name" korean="à¬À­\Õ " />
+	<block key="noble_bless_elora_3_buff_1_name" korean="à¬À­\Õ " />
+	<block key="noble_bless_elora_4_buff_1_name" korean="à¬À­\Õ " />
+	<block key="great_bless_elora_1_buff_1_name" korean="Ç" />
+	<block key="great_bless_elora_2_buff_1_name" korean="Ç" />
+	<block key="great_bless_elora_3_buff_1_name" korean="Ç" />
+	<block key="great_bless_elora_4_buff_1_name" korean="Ç" />
+	<block key="will_pega_1_buff_1_name" korean="˜Ó" />
+	<block key="will_pega_2_buff_1_name" korean="˜Ó" />
+	<block key="will_pega_3_buff_1_name" korean="˜Ó" />
+	<block key="power_hakain_1_buff_1_name" korean="XÕ" />
+	<block key="power_hakain_2_buff_1_name" korean="XÕ" />
+	<block key="power_hakain_3_buff_1_name" korean="XÕ" />
+	<block key="protect_hakain_1_buff_1_name" korean="XÕ" />
+	<block key="protect_hakain_2_buff_1_name" korean="XÕ" />
+	<block key="protect_hakain_3_buff_1_name" korean="XÕ" />
+	<block key="shine_bless_elora_1_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_bless_elora_2_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_bless_elora_3_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_power_hakain_1_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_power_hakain_2_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_power_hakain_3_buff_1_name" korean="[¾˜°”² " />
+	<block key="great_bless_pega_1_buff_1_name" korean="Ç" />
+	<block key="great_bless_pega_2_buff_1_name" korean="Ç" />
+	<block key="great_bless_pega_3_buff_1_name" korean="Ç" />
+	<block key="shine_spirit_pega_1_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_spirit_pega_2_buff_1_name" korean="[¾˜°”² " />
+	<block key="shine_spirit_pega_3_buff_1_name" korean="[¾˜°”² " />
+	<block key="noble_spirit_pega_1_buff_1_name" korean="à¬À­\Õ " />
+	<block key="noble_spirit_pega_2_buff_1_name" korean="à¬À­\Õ " />
+	<block key="noble_spirit_pega_3_buff_1_name" korean="à¬À­\Õ " />
+	<block key="support_pega_1_buff_1_name" korean="˜Ó" />
+	<block key="support_pega_2_buff_1_name" korean="˜Ó" />
+	<block key="support_pega_3_buff_1_name" korean="˜Ó" />
+	<block key="support_pega_4_buff_1_name" korean="˜Ó" />
+	<block key="support_pega_5_buff_1_name" korean="˜Ó" />
+	<block key="spirit_pega_1_buff_1_name" korean="˜Ó" />
+	<block key="spirit_pega_2_buff_1_name" korean="˜Ó" />
+	<block key="spirit_pega_3_buff_1_name" korean="˜Ó" />
+	<block key="spirit_pega_4_buff_1_name" korean="˜Ó" />
+	<block key="spirit_pega_5_buff_1_name" korean="˜Ó" />
+	<block key="support_rabini_1_buff_1_name" korean="|·D¾È²XÇ " />
+	<block key="support_rabini_2_buff_1_name" korean="|·D¾È²XÇ " />
+	<block key="support_rabini_3_buff_1_name" korean="|·D¾È²XÇ " />
+	<block key="support_rabini_4_buff_1_name" korean="|·D¾È²XÇ " />
+	<block key="support_rabini_5_buff_1_name" korean="|·D¾È²XÇ " />
+	<block key="fecatdsthero99_buff_1_name" korean="XÖÆXÇ " />
+	<block key="fechims99_buff_1_name" korean="hÎ¤ÂXÇ " />
+	<block key="fecatelite99_buff_1_name" korean="ÐÌ<ÕXÇ " />
+	<block key="febatking99_buff_1_name" korean="iÖ®¼PÉXÇ " />
+	<block key="fepoyo99_buff_1_name" korean=",Ì€·\Õ " />
+	<block key="fetaraku99_buff_1_name" korean="ˆ½C¯XÇ " />
+	<block key="feboneleopardhero99_buff_1_name" korean="ÓxºXÇ " />
+	<block key="fechanus99_buff_1_name" korean="1¼@ÇXÇ " />
+	<block key="fethunderdragon99_buff_1_name" korean="œÌe´XÇ " />
+	<block key="feostrich99_buff_1_name" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="fematura99_buff_1_name" korean="È¹œÒ|·XÇ " />
+	<block key="felonghorn99_buff_1_name" korean="¼ÌÇXÇ " />
+	<block key="feadelak99_buff_1_name" korean="´À!ÇXÇ " />
+	<block key="fedenivan99_buff_1_name" korean="p³È²¼XÇ " />
+	<block key="fedosraku99_buff_1_name" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="febajyanin99_buff_1_name" korean="¼ÈÇÌ²XÇ " />
+	<block key="fescorhero99_buff_1_name" korean="Å³aÅXÇ " />
+	<block key="fehydralegend99_buff_1_name" korean="¼ÀP´á¸XÇ " />
+	<block key="fekibaren99_buff_1_name" korean="®[¾XÇ " />
+	<block key="fedeva99_buff_1_name" korean="p³¼XÇ " />
+	<block key="fetoro99_buff_1_name" korean=" Ñ\¸XÇ " />
+	<block key="feboneash99_buff_1_name" korean="ø¼ " />
+	<block key="fegoldgriff99_buff_1_name" korean="ø­¬¹ðÓXÇ " />
+	<block key="feundeadbear99_buff_1_name" korean="¸Åp³Ü´XÇ " />
+	<block key="feundeadcow99_buff_1_name" korean="¸Åp³Ü´XÇ " />
+	<block key="feundeadwolf99_buff_1_name" korean="¸Åp³Ü´XÇ " />
+	<block key="femutant99_buff_1_name" korean="Ì³ðÅÀ¼tÇXÇ " />
+	<block key="fedstturtle99_buff_1_name" korean="¬ÀÉ¹ " />
+	<block key="fealiva99_buff_1_name" korean="LÅ¬¹¼XÇ " />
+	<block key="feboneleopn99_buff_1_name" korean="ø¼ " />
+	<block key="feseacroc99_buff_1_name" korean="¼ä²EÅ´ÅXÇ " />
+	<block key="fepiyo99_buff_1_name" korean="<Õ”ÆXÇ " />
+	<block key="fedenva99_buff_1_name" korean="t³¼XÇ " />
+	<block key="feboneleopc99_buff_1_name" korean="ø¼ " />
+	<block key="febaldeagle99_buff_1_name" korean="Å³Â¬¹XÇ " />
+	<block key="fedstleop99_buff_1_name" korean="\Ô”¼XÇ " />
+	<block key="fedstspider99_buff_1_name" korean="¬ÀÉ¹ " />
+	<block key="fescortong99_buff_1_name" korean="È¬XÇ " />
+	<block key="fescortail99_buff_1_name" korean="È¬XÇ " />
+	<block key="feraku99_buff_1_name" korean="|·àÏXÇ " />
+	<block key="fedstboar99_buff_1_name" korean="gºü³ÀÉXÇ " />
+	<block key="fedstbison99_buff_1_name" korean="„¼Ó\¸XÇ " />
+	<block key="feoasiscroc99_buff_1_name" korean="$ÆDÅÜÂ¤Â " />
+	<block key="fecannispider99_buff_1_name" korean="ÝÂxÇp¬ø»XÇ " />
+	<block key="fesunguard99_buff_1_name" korean="ÜÐ‘ÅXÇ " />
+	<block key="arf05psv_buff_1_name" korean="ôÅ¬ÀXÇ " />
+	<block key="arf05psv_buff_1_description_1" korean="¬ÀÉ¹ " />
+	<block key="fef05psv_buff_1_name" korean="ôÅ¬ÀXÇ " />
+	<block key="fef05psv_buff_1_description_1" korean="¬ÀÉ¹ " />
+	<block key="arf05psv_aura_1_name" korean="ôÅ¬ÀXÇ " />
+	<block key="arf05psv_aura_1_description_1" korean="¬ÀÉ¹ " />
+	<block key="morodeshi01_buff_1_name" korean="©Í©¬XÇ " />
+	<block key="movegarus01_buff_1_name" korean="XÎ…ºÈxÇ " />
+	<block key="morodeshi01_buff_1_description_1" korean="©Í©¬XÇ " />
+	<block key="movegarus01_buff_1_description_1" korean="XÎ…ºÈxÇ " />
+	<block key="ferodeshi01_buff_1_name" korean="©Í©¬XÇ " />
+	<block key="fevegarus01_buff_1_name" korean="XÎ…ºÈxÇ " />
+	<block key="ferodeshi01_buff_1_description_1" korean="©Í©¬XÇ " />
+	<block key="fevegarus01_buff_1_description_1" korean="XÎ…ºÈxÇ " />
+	<block key="areadeath02_buff_1_name" korean="´ÅÀÉì·ÀÆ" />
+	<block key="areadeath02_buff_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="areadeath021_buff_1_name" korean="4»0®%¸É" />
+	<block key="areadeath021_buff_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="areadeath022_buff_1_name" korean="|Ç¬ÀÑ¼" />
+	<block key="areadeath022_buff_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="areadeath022_aura_1_name" korean="|Ç¬ÀÑ¼" />
+	<block key="areadeath022_aura_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="store_foodbuff_buff_1_name" korean="ìÓÌ¹¬" />
+	<block key="store_foodbuff_buff_1_description_1" korean="ìÓÌ¹¬ " />
+	<block key="qu_foodrecoverhp01_buff_1_name" korean="í²l­tÇ " />
+	<block key="qu_foodrecoverhp01_buff_2_name" korean="í²l­tÇ " />
+	<block key="qu_foodrecoverhp01_buff_3_name" korean="í²l­tÇ " />
+	<block key="qu_foodrecoverhp02_buff_1_name" korean="Ä¬€· " />
+	<block key="qu_foodrecoverhp02_buff_2_name" korean="Ä¬€· " />
+	<block key="qu_foodrecoverhp02_buff_3_name" korean="Ä¬€· " />
+	<block key="qu_foodrecovermp01_buff_1_name" korean=" ÁxÇ¥Ç " />
+	<block key="qu_foodrecovermp01_buff_2_name" korean=" ÁxÇ¥Ç " />
+	<block key="qu_foodrecovermp01_buff_3_name" korean=" ÁxÇ¥Ç " />
+	<block key="qu_foodrecovermp02_buff_1_name" korean="|ÅDÌ " />
+	<block key="qu_foodrecovermp02_buff_2_name" korean="|ÅDÌ " />
+	<block key="qu_foodrecovermp02_buff_3_name" korean="|ÅDÌ " />
+	<block key="cr_foodrecoverhp01_buff_1_name" korean="ðÅ\Õ " />
+	<block key="cr_foodrecoverhp01_buff_2_name" korean="ðÅ\Õ " />
+	<block key="cr_foodrecoverhp01_buff_3_name" korean="ðÅ\Õ " />
+	<block key="cr_foodrecoverhp02_buff_1_name" korean="/Âˆ½ " />
+	<block key="cr_foodrecoverhp02_buff_2_name" korean="/Âˆ½ " />
+	<block key="cr_foodrecoverhp02_buff_3_name" korean="/Âˆ½ " />
+	<block key="cr_foodrecovermp01_buff_1_name" korean="¬Àè¬m­ " />
+	<block key="cr_foodrecovermp01_buff_2_name" korean="¬Àè¬m­ " />
+	<block key="cr_foodrecovermp01_buff_3_name" korean="¬Àè¬m­ " />
+	<block key="cr_foodrecovermp02_buff_1_name" korean="à¬0® " />
+	<block key="cr_foodrecovermp02_buff_2_name" korean="à¬0® " />
+	<block key="cr_foodrecovermp02_buff_3_name" korean="à¬0® " />
+	<block key="qu_foodbuff_meat_buff_1_name" korean="LÇÝÂ" />
+	<block key="qu_foodbuff_riceball_buff_1_name" korean="LÇÝÂ" />
+	<block key="qu_foodbuff_juice_buff_1_name" korean="LÇÌ¸" />
+	<block key="qu_foodbuff_soup_buff_1_name" korean="LÇÌ¸" />
+	<block key="cr_foodbuff_meat_buff_1_name" korean="LÇÝÂ" />
+	<block key="cr_foodbuff_riceball_buff_1_name" korean="LÇÝÂ" />
+	<block key="cr_foodbuff_juice_buff_1_name" korean="LÇÌ¸" />
+	<block key="cr_foodbuff_soup_buff_1_name" korean="LÇÌ¸" />
+	<block key="partybonus_buff_buff_1_name" korean="ÓðÒ " />
+	<block key="partybonus_buff_buff_1_description_1" korean="ÓðÒ/" />
+	<block key="partybonus_buff_buff_1_description_2" korean="ÓðÒ/" />
+	<block key="partybonus_buff_buff_1_description_3" korean="ÓðÒ/" />
+	<block key="partybonus_buff_buff_1_description_4" korean="ÓðÒ/" />
+	<block key="partybonus_buff_buff_1_description_5" korean="õ¬©¬" />
+	<block key="partybonus_buff_buff_1_description_6" korean="õ¬©¬" />
+	<block key="partybonus_buff_buff_1_description_7" korean="õ¬©¬" />
+	<block key="partybonus_buff_buff_1_description_8" korean="õ¬©¬" />
+	<block key="partybonus_buff_buff_1_description_9" korean="õ¬©¬" />
+	<block key="f05fqset00_buff_1_name" korean="¬ÀÉ¹XÇ " />
+	<block key="f05fqset01_buff_1_name" korean="ð¶´Åœ° " />
+	<block key="f05fqset02_buff_1_name" korean="ôÅ¬ÀXÇ " />
+	<block key="f05fqset03_buff_1_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="setf05fqcond00_buff_1_name" korean="¬ÀÉ¹XÇ " />
+	<block key="setf05fqcond01_buff_1_name" korean="ð¶´Åœ° " />
+	<block key="setf05fqcond02_buff_1_name" korean="ôÅ¬ÀXÇ " />
+	<block key="setf05fqcond03_buff_1_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="f05fqset00_buff_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="f05fqset01_buff_1_description_1" korean="ð¶´Åœ° " />
+	<block key="f05fqset02_buff_1_description_1" korean="ôÅ¬ÀXÇ " />
+	<block key="f05fqset03_buff_1_description_1" korean="äÀ¤Ð¼XÇ " />
+	<block key="setf05fqcond00_buff_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="setf05fqcond01_buff_1_description_1" korean="ð¶´Åœ° " />
+	<block key="setf05fqcond02_buff_1_description_1" korean="ôÅ¬ÀXÇ " />
+	<block key="setf05fqcond03_buff_1_description_1" korean="äÀ¤Ð¼XÇ " />
+	<block key="f05fqset00_aura_1_name" korean="¬ÀÉ¹XÇ " />
+	<block key="f05fqset01_aura_1_name" korean="ð¶´Åœ° " />
+	<block key="f05fqset02_aura_1_name" korean="ôÅ¬ÀXÇ " />
+	<block key="f05fqset03_aura_1_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="setf05fqcond00_aura_1_name" korean="¬ÀÉ¹XÇ " />
+	<block key="setf05fqcond01_aura_1_name" korean="ð¶´Åœ° " />
+	<block key="setf05fqcond02_aura_1_name" korean="ôÅ¬ÀXÇ " />
+	<block key="setf05fqcond03_aura_1_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="f05fqset00_aura_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="f05fqset01_aura_1_description_1" korean="ð¶´Åœ° " />
+	<block key="f05fqset02_aura_1_description_1" korean="ôÅ¬ÀXÇ " />
+	<block key="f05fqset03_aura_1_description_1" korean="äÀ¤Ð¼XÇ " />
+	<block key="setf05fqcond00_aura_1_description_1" korean="¬ÀÉ¹XÇ " />
+	<block key="setf05fqcond01_aura_1_description_1" korean="ð¶´Åœ° " />
+	<block key="setf05fqcond02_aura_1_description_1" korean="ôÅ¬ÀXÇ " />
+	<block key="setf05fqcond03_aura_1_description_1" korean="äÀ¤Ð¼XÇ " />
+	<block key="quickbladelink_buff_1_name" korean="Å³XÇ " />
+	<block key="quickbladelink2_buff_1_name" korean="Å³XÇ " />
+	<block key="pr_titlelora_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titlelorag_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titleloragb_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titlelorab_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titlelorar_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titlelorarg_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titlelorargb_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titlelorarb_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="pr_titleloralink3_buff_2_name" korean="ØÅ\¸|·XÇ " />
+	<block key="titleloralink_buff_1_name" korean="ØÅ\¸|·XÇ " />
+	<block key="wr_desorigin_link_buff_1_name" korean="Ó4­XÇ " />
+	<block key="wr_desorigin_link2_buff_1_name" korean="Ó4­XÇ " />
+	<block key="pr_awakenmarklink_buff_1_name" korean="ÕÉ\Ô " />
+	<block key="wz_blacklightlink_buff_1_name" korean="Q×­XÇ " />
+	<block key="tf_weakpointlink_buff_1_name" korean="}ÅÈ " />
+	<block key="gd_holyshieldlink2_buff_1_name" korean="àÂ1Á\Õ " />
+	<block key="shieldmarklinkg_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkg_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkgb_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkgb_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkb_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkb_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkr_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkr_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrg_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrg_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrgb_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrgb_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrb_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrb_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklink_buff_1_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklink_aura_1_name" korean="Â8ÖXÇ " />
+	<block key="knistormlinkg_buff_1_name" korean="|Î °íÓÔ" />
+	<block key="godjudgmenteffect3_buff_1_name" korean="àÂXÇ " />
+	<block key="godjudgmenteffect3_aura_1_name" korean="àÂXÇ " />
+	<block key="godjudgmenteffect1_buff_1_name" korean="àÂXÇ " />
+	<block key="godjudgmenteffect1_aura_1_name" korean="àÂXÇ " />
+	<block key="godjudgmenteffect12_buff_1_name" korean="àÂXÇ " />
+	<block key="godjudgmenteffect12_aura_1_name" korean="àÂXÇ " />
+	<block key="pr_depenceup_buff_1_name" korean="È¹•¼¬ÀXÇ " />
+	<block key="pr_depenceup_buff_1_description_1" korean="È¹•¼XÎ…ºÀÐ<ÕtÕ" />
+	<block key="event_normalpotion_0_buff_1_name" korean="1Á¥ÇXÇ " />
+	<block key="tf_movedown_buff_1_name" korean="[" />
+	<block key="gd_blessofintlc_aura_2_name" korean="[" />
+	<block key="gd_blessofcombatlc_aura_2_name" korean="[" />
+	<block key="gd_blessofdefenselc_aura_2_name" korean="[" />
+	<block key="shieldmarklinkg_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkgb_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkb_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkr_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrg_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrgb_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklinkrb_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="shieldmarklink_aura_2_name" korean="Â8ÖXÇ " />
+	<block key="pr_eofeloramarksoul_buff_2_name" korean="È¥ÇXÇ " />
+	<block key="godjudgmenteffect12_buff_1_description_1" korean="DÅp­XÇ " />
+	<block key="fecapopdevy00_buff_1_name" korean="ì²dÏ\Õ " />
+	<block key="fecapopdevy99_buff_1_name" korean="ì²dÏ\Õ " />
+	<block key="fecacritical00_buff_1_name" korean="XÎ…ºÀÐ " />
+	<block key="fecacritical00_buff_2_name" korean="XÎ…ºÀÐ " />
+	<block key="fecapopheal01_buff_1_name" korean="ì²dÏ\Õ " />
+	<block key="fecarudolph99_buff_1_name" korean="è¸Ì³ÕXÇ " />
+	<block key="snow_festuval_buff_1_name" korean="²C¯ " />
+	<block key="snow_festuval_buff_1_description_1" korean="<" />
+	<block key="setitem_allresist_buff_1_name" korean="Æ<»XÇ " />
+	<block key="setitem_allresist_buff_1_description_1" korean="¨ºà´ " />
+	<block key="gd_blessofintlc_aura_2_description_1" korean="È¹•¼ " />
+	<block key="gd_blessofcombatlc_aura_2_description_1" korean="<»¬¹ " />
+	<block key="gd_blessofdefenselc_aura_2_description_1" korean="<»¬¹ " />
+	<block key="newyear_bless_buff_1_name" korean="ÈÀtÕ " />
+	<block key="newyear_bless_buff_1_description_1" korean="<" />
+	<block key="gd_judgment3_buff_1_description_8" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3lc_buff_1_description_8" korean="ÀÐ©¬ " />
+	<block key="gd_judgment3_1_buff_1_description_8" korean="ÀÐ©¬ " />
+</blocks>

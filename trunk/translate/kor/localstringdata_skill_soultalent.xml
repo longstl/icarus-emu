@@ -1,0 +1,189 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SP_WRR01_name" korean="4»\Õ\Õ " />
+	<block key="SP_WRR02_name" korean="Hº”ÍÀÉ " />
+	<block key="SP_WRG01_name" korean="5»ÁÉ\Õ " />
+	<block key="SP_WRG02_name" korean="„¼ÁäÎXÇ " />
+	<block key="SP_WRB01_name" korean="]°ÆÅ”² " />
+	<block key="SP_WRB02_name" korean="©Æù¹XÇ " />
+	<block key="SP_GDR01_name" korean="0®¬Àè²XÇ " />
+	<block key="SP_GDR02_name" korean=")¼(ÓXÇ " />
+	<block key="SP_GDG01_name" korean="È,ÒXÇ " />
+	<block key="SP_GDG02_name" korean="àÂ1Á\Õ " />
+	<block key="SP_GDB01_name" korean=" °tÎ\¸´Æ " />
+	<block key="SP_GDB02_name" korean="ä¹Á´Æ " />
+	<block key="SP_TFR01_name" korean="XÎ…ºÈxÇ " />
+	<block key="SP_TFR02_name" korean=" °tÎ\¸´Æ " />
+	<block key="SP_TFG01_name" korean="´ÅÃàÂXÇ " />
+	<block key="SP_TFG02_name" korean="[¾ô¼ä² " />
+	<block key="SP_TFB01_name" korean="´Ì ÂXÇ " />
+	<block key="SP_TFB02_name" korean="TÖ$¸\Õ " />
+	<block key="SP_PRR01_name" korean="\Ö%¸XÇ " />
+	<block key="SP_PRR02_name" korean="1Á¤Âì·´Æ " />
+	<block key="SP_PRG01_name" korean="¬TÖXÇ " />
+	<block key="SP_PRG02_name" korean="ÖÇXÇ " />
+	<block key="SP_PRB01_name" korean="XÕ˜²XÇ " />
+	<block key="SP_PRB02_name" korean="ÀÉ¥²XÇ " />
+	<block key="SP_WZR01_name" korean="ˆ½XÇ " />
+	<block key="SP_WZR02_name" korean="ØÅ\¸|·XÇ " />
+	<block key="SP_WZG01_name" korean="¼ÅLÇXÇ " />
+	<block key="SP_WZG02_name" korean="ÖÇXÇ " />
+	<block key="SP_WZB01_name" korean="[¾ü¬ " />
+	<block key="SP_WZB02_name" korean="Á1ÁXÇ " />
+	<block key="SP_WRR01_description" korean=" " />
+	<block key="SP_WRR02_description" korean=" " />
+	<block key="SP_WRG01_description" korean=" " />
+	<block key="SP_WRG02_description" korean=" " />
+	<block key="SP_WRB01_description" korean=" " />
+	<block key="SP_WRB02_description" korean=" " />
+	<block key="SP_GDR01_description" korean=" " />
+	<block key="SP_GDR02_description" korean=" " />
+	<block key="SP_GDG01_description" korean=" " />
+	<block key="SP_GDG02_description" korean=" " />
+	<block key="SP_GDB01_description" korean=" " />
+	<block key="SP_GDB02_description" korean=" " />
+	<block key="SP_TFR01_description" korean=" " />
+	<block key="SP_TFR02_description" korean=" " />
+	<block key="SP_TFG01_description" korean=" " />
+	<block key="SP_TFG02_description" korean=" " />
+	<block key="SP_TFB01_description" korean=" " />
+	<block key="SP_TFB02_description" korean=" " />
+	<block key="SP_PRR01_description" korean=" " />
+	<block key="SP_PRR02_description" korean=" " />
+	<block key="SP_PRG01_description" korean=" " />
+	<block key="SP_PRG02_description" korean=" " />
+	<block key="SP_PRB01_description" korean=" " />
+	<block key="SP_PRB02_description" korean=" " />
+	<block key="SP_WZR01_description" korean=" " />
+	<block key="SP_WZR02_description" korean=" " />
+	<block key="SP_WZG01_description" korean=" " />
+	<block key="SP_WZG02_description" korean=" " />
+	<block key="SP_WZB01_description" korean=" " />
+	<block key="SP_WZB02_description" korean=" " />
+	<block key="SP_WRR03_name" korean="È,ÒXÇ " />
+	<block key="SP_WRR04_name" korean="ÓxºXÇ " />
+	<block key="SP_WRR05_name" korean="J°„ÇÆÅ”² " />
+	<block key="SP_WRR06_name" korean="íÓüÈXÇ " />
+	<block key="SP_WRG03_name" korean="Ó4­XÇ " />
+	<block key="SP_WRG04_name" korean="¬%¸\Õ " />
+	<block key="SP_WRG05_name" korean="È¥ÇXÇ " />
+	<block key="SP_WRG06_name" korean="È" />
+	<block key="SP_WRB03_name" korean="È,ÒXÇ " />
+	<block key="SP_WRB04_name" korean="øÂÀÆXÇ " />
+	<block key="SP_WRB05_name" korean="È¬ÀXÇ " />
+	<block key="SP_WRB06_name" korean="„¼ÁäÎXÇ " />
+	<block key="SP_GDR03_name" korean="È¥ÇXÇ " />
+	<block key="SP_GDR04_name" korean="©Æ¬ÀXÇ " />
+	<block key="SP_GDR05_name" korean="È¥ÇXÇ " />
+	<block key="SP_GDR06_name" korean="h®ÀÉÀÉ " />
+	<block key="SP_GDG03_name" korean="©Æù¹XÇ " />
+	<block key="SP_GDG04_name" korean="ØÅ\¸|·XÇ " />
+	<block key="SP_GDG05_name" korean="È,ÒXÇ " />
+	<block key="SP_GDG06_name" korean="" />
+	<block key="SP_GDB03_name" korean="0®¬Àè²XÇ " />
+	<block key="SP_GDB04_name" korean="©Æ¬ÀXÇ " />
+	<block key="SP_GDB05_name" korean="ØÅ\¸|·XÇ " />
+	<block key="SP_GDB06_name" korean="àÂ1Á\Õ " />
+	<block key="SP_TFR03_name" korean="ŒÖ<ÕXÇ " />
+	<block key="SP_TFR04_name" korean="TÅ´ÀÇXÇ " />
+	<block key="SP_TFR05_name" korean="È¥ÇXÇ " />
+	<block key="SP_TFR06_name" korean="è²€¬XÇ " />
+	<block key="SP_TFG03_name" korean="ŒÖìÂXÇ " />
+	<block key="SP_TFG04_name" korean="¼Œ·XÇ " />
+	<block key="SP_TFG05_name" korean="ýÈLÇXÇ " />
+	<block key="SP_TFG06_name" korean="|Ç©¬ " />
+	<block key="SP_TFB03_name" korean="¬Àå°XÇ " />
+	<block key="SP_TFB04_name" korean="´ÀÝÀXÇ " />
+	<block key="SP_TFB05_name" korean="ýÈLÇXÇ " />
+	<block key="SP_TFB06_name" korean="´Å`´XÇ " />
+	<block key="SP_PRR03_name" korean="¼Œ·XÇ " />
+	<block key="SP_PRR04_name" korean="Ì¹<»XÇ " />
+	<block key="SP_PRR05_name" korean="x±¥ÇXÇ " />
+	<block key="SP_PRR06_name" korean="ŒÖõ¼XÇ " />
+	<block key="SP_PRG03_name" korean="È¥ÇXÇ " />
+	<block key="SP_PRG04_name" korean="4»\ÕXÇ " />
+	<block key="SP_PRG05_name" korean="È¹•¼¬ÀXÇ " />
+	<block key="SP_PRG06_name" korean="ØÅ\¸|·XÇ " />
+	<block key="SP_PRB03_name" korean="È¥ÇXÇ " />
+	<block key="SP_PRB04_name" korean="àÂä´XÇ " />
+	<block key="SP_PRB05_name" korean="È¹•¼¬ÀXÇ " />
+	<block key="SP_PRB06_name" korean="È¥ÇXÇ " />
+	<block key="SP_WZR03_name" korean="È¹•¼¬ÀXÇ " />
+	<block key="SP_WZR04_name" korean="àÂD¾XÇ " />
+	<block key="SP_WZR05_name" korean="=ÌpÈXÇ " />
+	<block key="SP_WZR06_name" korean="È¹•¼¬ÀXÇ " />
+	<block key="SP_WZG03_name" korean="È¹%¸XÇ " />
+	<block key="SP_WZG04_name" korean="1Á¥ÇXÇ " />
+	<block key="SP_WZG05_name" korean="ÀÉ¥²XÇ " />
+	<block key="SP_WZG06_name" korean="àÂXÇ " />
+	<block key="SP_WZB03_name" korean="¹Â¬¹XÇ " />
+	<block key="SP_WZB04_name" korean="]°ÆÅ”² " />
+	<block key="SP_WZB05_name" korean="ÖÇXÇ " />
+	<block key="SP_WZB06_name" korean="Ç" />
+	<block key="SP_WRR03_description" korean=" " />
+	<block key="SP_WRR04_description" korean=" " />
+	<block key="SP_WRR05_description" korean=" " />
+	<block key="SP_WRR06_description" korean=" " />
+	<block key="SP_WRG03_description" korean=" " />
+	<block key="SP_WRG04_description" korean=" " />
+	<block key="SP_WRG05_description" korean=" " />
+	<block key="SP_WRG06_description" korean=" " />
+	<block key="SP_WRB03_description" korean=" " />
+	<block key="SP_WRB04_description" korean=" " />
+	<block key="SP_WRB05_description" korean=" " />
+	<block key="SP_WRB06_description" korean=" " />
+	<block key="SP_GDR03_description" korean=" " />
+	<block key="SP_GDR04_description" korean=" " />
+	<block key="SP_GDR05_description" korean=" " />
+	<block key="SP_GDR06_description" korean=" " />
+	<block key="SP_GDG03_description" korean=" " />
+	<block key="SP_GDG04_description" korean=" " />
+	<block key="SP_GDG05_description" korean=" " />
+	<block key="SP_GDG06_description" korean=" " />
+	<block key="SP_GDB03_description" korean=" " />
+	<block key="SP_GDB04_description" korean=" " />
+	<block key="SP_GDB05_description" korean=" " />
+	<block key="SP_GDB06_description" korean=" " />
+	<block key="SP_TFR03_description" korean=" " />
+	<block key="SP_TFR04_description" korean=" " />
+	<block key="SP_TFR05_description" korean=" " />
+	<block key="SP_TFR06_description" korean=" " />
+	<block key="SP_TFG03_description" korean=" " />
+	<block key="SP_TFG04_description" korean=" " />
+	<block key="SP_TFG05_description" korean=" " />
+	<block key="SP_TFG06_description" korean=" " />
+	<block key="SP_TFB03_description" korean=" " />
+	<block key="SP_TFB04_description" korean=" " />
+	<block key="SP_TFB05_description" korean=" " />
+	<block key="SP_TFB06_description" korean=" " />
+	<block key="SP_PRR03_description" korean=" " />
+	<block key="SP_PRR04_description" korean=" " />
+	<block key="SP_PRR05_description" korean=" " />
+	<block key="SP_PRR06_description" korean=" " />
+	<block key="SP_PRG03_description" korean=" " />
+	<block key="SP_PRG04_description" korean=" " />
+	<block key="SP_PRG05_description" korean=" " />
+	<block key="SP_PRG06_description" korean=" " />
+	<block key="SP_PRB03_description" korean=" " />
+	<block key="SP_PRB04_description" korean=" " />
+	<block key="SP_PRB05_description" korean=" " />
+	<block key="SP_PRB06_description" korean=" " />
+	<block key="SP_WZR03_description" korean=" " />
+	<block key="SP_WZR04_description" korean=" " />
+	<block key="SP_WZR05_description" korean=" " />
+	<block key="SP_WZR06_description" korean=" " />
+	<block key="SP_WZG03_description" korean=" " />
+	<block key="SP_WZG04_description" korean=" " />
+	<block key="SP_WZG05_description" korean=" " />
+	<block key="SP_WZG06_description" korean=" " />
+	<block key="SP_WZB03_description" korean=" " />
+	<block key="SP_WZB04_description" korean=" " />
+	<block key="SP_WZB05_description" korean=" " />
+	<block key="SP_WZB06_description" korean=" " />
+</blocks>

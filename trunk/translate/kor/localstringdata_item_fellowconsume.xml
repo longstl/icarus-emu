@@ -1,0 +1,115 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="FM_000_0000_name" korean="|Ç¼ " />
+	<block key="FM_000_0000_Description" korean="|Ç¼ " />
+	<block key="FM_000_0001_name" korean="ÈÆ " />
+	<block key="FM_000_0001_Description" korean="ÈÆ " />
+	<block key="FM_000_0002_name" korean="ÆÅÆ " />
+	<block key="FM_000_0002_Description" korean="ÆÅÆ " />
+	<block key="FM_000_0014_name" korean="È$Á " />
+	<block key="FM_000_0014_Description" korean="È$Á " />
+	<block key="FM_000_0003_name" korean="ÑÅÇ€· " />
+	<block key="FM_000_0003_Description" korean="ÆÅÆ " />
+	<block key="FM_000_0004_name" korean="2" />
+	<block key="FM_000_0004_Description" korean="1" />
+	<block key="FM_000_0005_name" korean="2" />
+	<block key="FM_000_0005_Description" korean="1" />
+	<block key="FM_000_0006_name" korean="3" />
+	<block key="FM_000_0006_Description" korean="1" />
+	<block key="FM_000_0007_name" korean="3" />
+	<block key="FM_000_0007_Description" korean="1" />
+	<block key="FM_000_0008_name" korean="3" />
+	<block key="FM_000_0008_Description" korean="1" />
+	<block key="SF1_0_000_0000_name" korean="1" />
+	<block key="SF1_0_000_0000_Description" korean="1" />
+	<block key="SF1_0_000_0001_name" korean="ÈÆ " />
+	<block key="SF1_0_000_0001_Description" korean="ÈÆ " />
+	<block key="SF1_1_000_0000_name" korean="ÆÅÆ " />
+	<block key="SF1_1_000_0000_Description" korean="ÆÅÆ " />
+	<block key="SF1_4_000_0000_name" korean="È$Á " />
+	<block key="SF1_4_000_0000_Description" korean="È$Á " />
+	<block key="SF1_1_000_0001_name" korean="4" />
+	<block key="SF1_1_000_0001_Description" korean="1" />
+	<block key="SF1_1_000_0002_name" korean="5" />
+	<block key="SF1_1_000_0002_Description" korean="1" />
+	<block key="SF1_2_000_0000_name" korean="2" />
+	<block key="SF1_2_000_0000_Description" korean="1" />
+	<block key="SF1_2_000_0001_name" korean="2" />
+	<block key="SF1_2_000_0001_Description" korean="1" />
+	<block key="SF1_3_000_0000_name" korean="3" />
+	<block key="SF1_3_000_0000_Description" korean="1" />
+	<block key="SF1_3_000_0001_name" korean="3" />
+	<block key="SF1_3_000_0001_Description" korean="1" />
+	<block key="FM_000_9000_name" korean="´ÌØÕ " />
+	<block key="FM_000_9000_Description" korean="1" />
+	<block key="SF1_1_000_9000_name" korean="´ÌØÕ " />
+	<block key="SF1_1_000_9000_Description" korean="1" />
+	<block key="FM_000_0009_Name" korean="|Ç¼ " />
+	<block key="FM_000_0009_Description" korean="|Ç¼ " />
+	<block key="FM_000_0011_Name" korean="ÈÆ " />
+	<block key="FM_000_0011_Description" korean="ÈÆ " />
+	<block key="FM_000_0012_Name" korean="ÆÅÆ " />
+	<block key="FM_000_0012_Description" korean="ÆÅÆ " />
+	<block key="FM_000_0013_Name" korean="È$Á " />
+	<block key="FM_000_0013_Description" korean="È$Á " />
+	<block key="FM_000_0010_Name" korean="«Ó " />
+	<block key="FM_000_0010_Description" korean=" Ó\¸°Æ " />
+	<block key="SF1_1_000_0003_Name" korean="ÑÅÇ€· " />
+	<block key="SF1_1_000_0003_Description" korean="ÆÅÆ " />
+	<block key="IT_FE_UF_0000_Name" korean="ÈÆ " />
+	<block key="IT_FE_UF_0000_Description" korean="	½xÇ´´Å " />
+	<block key="IT_FE_UF_0001_Name" korean="ÆÅÆ " />
+	<block key="IT_FE_UF_0001_Description" korean="	½xÇ´´Å " />
+	<block key="CA_FE_UF_0000_Name" korean="ÈÆ " />
+	<block key="CA_FE_UF_0000_Description" korean="	½xÇ´´Å " />
+	<block key="CA_FE_UF_0001_Name" korean="ÆÅÆ " />
+	<block key="CA_FE_UF_0001_Description" korean="	½xÇ´´Å " />
+	<block key="IT_FE_EF_0000_Name" korean="ÈÆ " />
+	<block key="IT_FE_EF_0000_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="IT_FE_EF_0001_Name" korean="DÅ" />
+	<block key="IT_FE_EF_0001_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="IT_FE_EF_0002_Name" korean="ÈÆ " />
+	<block key="IT_FE_EF_0002_Description" korean="ÈÆ " />
+	<block key="IT_FE_EF_0003_Name" korean="ÈÆ " />
+	<block key="IT_FE_EF_0003_Description" korean="ÈÆ " />
+	<block key="IT_FE_EF_0004_Name" korean="ÈÆ " />
+	<block key="IT_FE_EF_0004_Description" korean="ÈÆ " />
+	<block key="IT_FE_EF_0005_Name" korean="ÆÅÆ " />
+	<block key="IT_FE_EF_0005_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="IT_FE_EF_0006_Name" korean="DÅ" />
+	<block key="IT_FE_EF_0006_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="IT_FE_EF_0007_Name" korean="ÆÅÆ " />
+	<block key="IT_FE_EF_0007_Description" korean="ÆÅÆ " />
+	<block key="IT_FE_EF_0008_Name" korean="ÆÅÆ " />
+	<block key="IT_FE_EF_0008_Description" korean="ÆÅÆ " />
+	<block key="IT_FE_EF_0009_Name" korean="ÆÅÆ " />
+	<block key="IT_FE_EF_0009_Description" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0000_Name" korean="•Íõ¼¼@Ç " />
+	<block key="CA_FE_EF_0000_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="CA_FE_EF_0001_Name" korean="ÈÆ " />
+	<block key="CA_FE_EF_0001_Description" korean="ÈÆ " />
+	<block key="CA_FE_EF_0002_Name" korean="ÈÆ " />
+	<block key="CA_FE_EF_0002_Description" korean="ÈÆ " />
+	<block key="CA_FE_EF_0003_Name" korean="ÈÆ " />
+	<block key="CA_FE_EF_0003_Description" korean="ÈÆ " />
+	<block key="CA_FE_EF_0004_Name" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0004_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="CA_FE_EF_0005_Name" korean="•Íõ¼¼@Ç " />
+	<block key="CA_FE_EF_0005_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="CA_FE_EF_0006_Name" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0006_Description" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0007_Name" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0007_Description" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0008_Name" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0008_Description" korean="ÆÅÆ " />
+	<block key="CA_FE_EF_0009_Name" korean="È$Á " />
+	<block key="CA_FE_EF_0009_Description" korean="DÅtÇ\ÑÐÅ " />
+	<block key="CA_FE_EF_0010_Name" korean="•Íõ¼¼@Ç " />
+	<block key="CA_FE_EF_0010_Description" korean="DÅtÇ\ÑÐÅ " />
+</blocks>

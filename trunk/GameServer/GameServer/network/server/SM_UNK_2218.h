@@ -8,7 +8,6 @@
 inline void SM_UNK_2218(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0x0008b51d);
 	pck->writeD(0x000081cc);
 	pck->writeD(1);

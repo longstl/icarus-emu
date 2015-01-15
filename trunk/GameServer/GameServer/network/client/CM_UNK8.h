@@ -7,7 +7,6 @@
 
 inline void CM_UNK8(PACKET* pck)
 {
-	int16 unk1 = pck->readW();
 	int8 unk2 = pck->readB();
 	SM_UNK11(pck);
 	SM_UNK24(pck);

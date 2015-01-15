@@ -1,0 +1,125 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="shortcut_move_forward" korean="^Å<Ç\¸" />
+	<block key="shortcut_move_backward" korean="¤´\¸" />
+	<block key="shortcut_move_rot_left" korean="|Æ½Ê<Ç\¸Ì³0®" />
+	<block key="shortcut_move_rot_right" korean="$Æx¹½Ê<Ç\¸Ì³0®" />
+	<block key="shortcut_move_left" korean="|Æ½Ê<Ç\¸w¬0®" />
+	<block key="shortcut_move_right" korean="$Æx¹½Ê<Ç\¸w¬0®" />
+	<block key="shortcut_move_run_walk" korean="ì²¬¹0®/" />
+	<block key="shortcut_move_autorun" korean="ÇÙ³ì²¬¹0®" />
+	<block key="shortcut_move_jump" korean="ÈÕ" />
+	<block key="shortcut_move_sit_standup" korean="IÅ0®/" />
+	<block key="shortcut_menu_char_info_open" korean="Î­¹0ÑÈô¼=Ì" />
+	<block key="shortcut_menu_fellowview_open" korean=" Ó\¸°ÆÈô¼=Ì" />
+	<block key="shortcut_menu_skill_open" korean="¤Â¬Ð=Ì" />
+	<block key="shortcut_menu_quest_open" korean="Ð¤Â¸Ò=Ì" />
+	<block key="shortcut_menu_inventory_open" korean="xÇ¤¼ Ñ¬¹" />
+	<block key="shortcut_menu_map_open" korean="ÀÉÄ³" />
+	<block key="shortcut_menu_channel_open" korean="DÌ±" />
+	<block key="shortcut_menu_gm_open" korean="G" />
+	<block key="shortcut_menu_personal_connections_open" korean="xÇå¹" />
+	<block key="shortcut_menu_organization_open" korean="è²´Ì" />
+	<block key="shortcut_menu_offensive_army_open" korean="õ¬©¬" />
+	<block key="shortcut_camera_keyboard_zoomin" korean="ÉxÇ" />
+	<block key="shortcut_camera_keyboard_zoomout" korean="ÉDÅÃÆ" />
+	<block key="shortcut_battle_attack_talk" korean="õ¬©¬/" />
+	<block key="shortcut_battle_battle_onoff" korean="È,Ò/" />
+	<block key="shortcut_battle_orders_onoff" korean="$ÆT³¤Â¼Ù³/" />
+	<block key="shortcut_battle_near_enemy_select" korean="" />
+	<block key="shortcut_battle_near_ally_select" korean="" />
+	<block key="shortcut_battle_near_object_select" korean="" />
+	<block key="shortcut_battle_near_dead_select" korean="" />
+	<block key="shortcut_battle_mark_target_select" korean="ÕÉ\Ô" />
+	<block key="shortcut_battle_target_target" korean="" />
+	<block key="shortcut_battle_weapon_swap" korean="4»0®¤ÂQÆ" />
+	<block key="shortcut_party_first_member_select" korean="ÓðÒÐÆ1" />
+	<block key="shortcut_party_second_member_select" korean="ÓðÒÐÆ2" />
+	<block key="shortcut_party_third_member_select" korean="ÓðÒÐÆ3" />
+	<block key="shortcut_party_fourth_member_select" korean="ÓðÒÐÆ4" />
+	<block key="shortcut_mark_1_disp" korean="ÕÉ\Ô1" />
+	<block key="shortcut_mark_2_disp" korean="ÕÉ\Ô2" />
+	<block key="shortcut_mark_3_disp" korean="ÕÉ\Ô3" />
+	<block key="shortcut_mark_4_disp" korean="ÕÉ\Ô4" />
+	<block key="shortcut_mark_5_disp" korean="ÕÉ\Ô5" />
+	<block key="shortcut_mark_6_disp" korean="ÕÉ\Ô6" />
+	<block key="shortcut_mark_7_disp" korean="ÕÉ\Ô7" />
+	<block key="shortcut_quickslot_basic_0" korean="0®ø¼5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_basic_1" korean="0®ø¼5Ð¬Âo¸2" />
+	<block key="shortcut_quickslot_basic_2" korean="0®ø¼5Ð¬Âo¸3" />
+	<block key="shortcut_quickslot_basic_3" korean="0®ø¼5Ð¬Âo¸4" />
+	<block key="shortcut_quickslot_basic_4" korean="0®ø¼5Ð¬Âo¸5" />
+	<block key="shortcut_quickslot_basic_5" korean="0®ø¼5Ð¬Âo¸6" />
+	<block key="shortcut_quickslot_basic_6" korean="0®ø¼5Ð¬Âo¸7" />
+	<block key="shortcut_quickslot_basic_7" korean="0®ø¼5Ð¬Âo¸8" />
+	<block key="shortcut_quickslot_basic_8" korean="0®ø¼5Ð¬Âo¸9" />
+	<block key="shortcut_quickslot_basic_9" korean="0®ø¼5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_basic_10" korean="0®ø¼5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_basic_11" korean="0®ø¼5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex1_0" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex1_1" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸2" />
+	<block key="shortcut_quickslot_ex1_2" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸3" />
+	<block key="shortcut_quickslot_ex1_3" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸4" />
+	<block key="shortcut_quickslot_ex1_4" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸5" />
+	<block key="shortcut_quickslot_ex1_5" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸6" />
+	<block key="shortcut_quickslot_ex1_6" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸7" />
+	<block key="shortcut_quickslot_ex1_7" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸8" />
+	<block key="shortcut_quickslot_ex1_8" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸9" />
+	<block key="shortcut_quickslot_ex1_9" korean="«Ìˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex2_0" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex2_1" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸2" />
+	<block key="shortcut_quickslot_ex2_2" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸3" />
+	<block key="shortcut_quickslot_ex2_3" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸4" />
+	<block key="shortcut_quickslot_ex2_4" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸5" />
+	<block key="shortcut_quickslot_ex2_5" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸6" />
+	<block key="shortcut_quickslot_ex2_6" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸7" />
+	<block key="shortcut_quickslot_ex2_7" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸8" />
+	<block key="shortcut_quickslot_ex2_8" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸9" />
+	<block key="shortcut_quickslot_ex2_9" korean="P´ˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex3_0" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex3_1" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸2" />
+	<block key="shortcut_quickslot_ex3_2" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸3" />
+	<block key="shortcut_quickslot_ex3_3" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸4" />
+	<block key="shortcut_quickslot_ex3_4" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸5" />
+	<block key="shortcut_quickslot_ex3_5" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸6" />
+	<block key="shortcut_quickslot_ex3_6" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸7" />
+	<block key="shortcut_quickslot_ex3_7" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸8" />
+	<block key="shortcut_quickslot_ex3_8" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸9" />
+	<block key="shortcut_quickslot_ex3_9" korean="8Áˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex4_0" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_ex4_1" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸2" />
+	<block key="shortcut_quickslot_ex4_2" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸3" />
+	<block key="shortcut_quickslot_ex4_3" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸4" />
+	<block key="shortcut_quickslot_ex4_4" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸5" />
+	<block key="shortcut_quickslot_ex4_5" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸6" />
+	<block key="shortcut_quickslot_ex4_6" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸7" />
+	<block key="shortcut_quickslot_ex4_7" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸8" />
+	<block key="shortcut_quickslot_ex4_8" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸9" />
+	<block key="shortcut_quickslot_ex4_9" korean="$±ˆ¼øÉUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_mv1_0" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_mv1_1" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸2" />
+	<block key="shortcut_quickslot_mv1_2" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸3" />
+	<block key="shortcut_quickslot_mv1_3" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸4" />
+	<block key="shortcut_quickslot_mv1_4" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸5" />
+	<block key="shortcut_quickslot_mv1_5" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸6" />
+	<block key="shortcut_quickslot_mv1_6" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸7" />
+	<block key="shortcut_quickslot_mv1_7" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸8" />
+	<block key="shortcut_quickslot_mv1_8" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸9" />
+	<block key="shortcut_quickslot_mv1_9" korean="«Ìˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_mv2_0" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸1" />
+	<block key="shortcut_quickslot_mv2_1" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸2" />
+	<block key="shortcut_quickslot_mv2_2" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸3" />
+	<block key="shortcut_quickslot_mv2_3" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸4" />
+	<block key="shortcut_quickslot_mv2_4" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸5" />
+	<block key="shortcut_quickslot_mv2_5" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸6" />
+	<block key="shortcut_quickslot_mv2_6" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸7" />
+	<block key="shortcut_quickslot_mv2_7" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸8" />
+	<block key="shortcut_quickslot_mv2_8" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸9" />
+	<block key="shortcut_quickslot_mv2_9" korean="P´ˆ¼øÉtÇÙ³ÖUÖ¥Ç5Ð¬Âo¸1" />
+</blocks>

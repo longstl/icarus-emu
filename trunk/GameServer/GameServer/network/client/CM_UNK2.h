@@ -7,7 +7,6 @@
 
 inline void CM_UNK2(PACKET* pck)
 {
-	int16 unk1 = pck->readW();
 	int8 unk2 = pck->readB();
 	pck->me->status = STATUS_SM_UNK3;
 	/*
