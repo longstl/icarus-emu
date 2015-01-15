@@ -6,11 +6,30 @@
 
 void CM_AUTH(PACKET* pck)
 {
-	char hash[64];
+	char hash[512];
 	char login[32];
-	uint16 unk1 = pck->readW();
 	uint8 unk2 = pck->readB();
 	int len_hash = pck->readTstr(hash);
+
+	struct sockaddr_in from;
+	int len = sizeof(from);
+	getpeername(pck->sockstruct->socket, (struct sockaddr *)&from, &len);
+
+	if (len_hash > 64)
+	{
+		log::Error(fg, "LSNetwork: Hash failed.\n", inet_ntoa(from.sin_addr));
+		SM_AUTH(pck, false);
+		return;
+	}
+	for (int i = 0; i < len_hash-1; i++)
+	{
+		if (hash[i] < 0x30 || hash[i] > 'z')
+		{
+			log::Error(fg, "LSNetwork: Hash failed.\n", inet_ntoa(from.sin_addr));
+			SM_AUTH(pck, false);
+			return;
+		}
+	}
 
 	if ((pck->sockstruct->mysql->GetAccountName(hash, login, &pck->sockstruct->account_id)))
 	{
@@ -19,11 +38,7 @@ void CM_AUTH(PACKET* pck)
 	}
 	else
 	{
-		struct sockaddr_in from;
-		int len = sizeof(from);
-		getpeername(pck->sockstruct->socket, (struct sockaddr *)&from, &len);
 		log::Info(fg, "LSNetwork: [%s]: Account not found: %s\n", inet_ntoa(from.sin_addr), hash);
-
 		SM_AUTH(pck, false);
 	}
 }

@@ -1,0 +1,418 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="help_title_guide" korean="Play Guide" />
+	<block key="help_infolink_knowhow" korean="Stronger law" />
+	<block key="help_infolink_knowhow_tip" korean="Stronger law" />
+	<block key="help_infolink_knowhow_0" korean="\u003cFont color = \The characters, the stronger the thermostat is raised when you level up. \u003c/ Font\u003e\n  - Attack, Crit rate, increases vitality.\n  - Against monsters myeongjungyul, evasion, will increase the efficiency of the defense.\n  - The new skills and higher level equipment available." />
+	<block key="help_infolink_knowhow_1" korean="\u003cFont color = \The resurrection of the character the ability to decrease complications state.\n        Resurrection sequelae can be removed from the therapist's white. \u003c/ Font\u003e" />
+	<block key="help_infolink_knowhow_2" korean="\u003cFont color = \If you strengthen the attack and defense items to rise. \u003c/ Font\u003e\n  - To strengthen Upgrade Stone-click the item and then right-click.\n  - Upgrade Stone higher level of enhanced probability increases.\n  - Upgrade Stone can be obtained after the destruction of the items and the extraction tool.\n  - Extract tool can be purchased at the store." />
+	<block key="help_infolink_knowhow_3" korean="\u003cFont color = \Potion made much better than store potion effect. \u003c/ Font\u003e\n  - You can create a potion to alchemy produced a good performance.\n  - Alchemy can learn from and Canas capital property." />
+	<block key="help_infolink_knowhow_4" korean="\u003cFont color = \Kill monsters and dungeons alone hard to recommend a party. \u003c/ Font\u003e\n  - The party \u003cfont color = \" />
+	<block key="help_infolink_knowhow_5" korean="\u003cFont color = \You can give the option to the items bonginseok Fellow. \u003c/ Font\u003e\n  - To fellow bonginseok right-click the item and click strengthen.\n  - Fellow bonginseok slot can only item in this." />
+	<block key="help_infolink_knowhow_6" korean="\u003cFont color = \Mounting the property, you can maximize the efficiency skills. \u003c/ Font\u003e\n  - The characteristics can be mounted from more than 20 levels.\n  - Characteristics can be mounted to consume talent points.\n  - Characteristic points can be acquired by fellow bonginseok." />
+	<block key="help_title_mainui" korean="Interface" />
+	<block key="help_infolink_mainui" korean="Main Screen" />
+	<block key="help_infolink_mainui_tip" korean="The Main Screen" />
+	<block key="help_infolink_mainui_0" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_mainui_1" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_mainui_2" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_mainui_3" korean="4. \u003cfont color = \" />
+	<block key="help_infolink_mainui_4" korean="5. \u003cfont color = \" />
+	<block key="help_infolink_mainui_5" korean="6. \u003cfont color = \" />
+	<block key="help_infolink_mainui_6" korean="7. \u003cfont color = \" />
+	<block key="help_infolink_gamemenu" korean="Game Menu" />
+	<block key="help_infolink_gamemenu_tip" korean="Game menu description" />
+	<block key="help_infolink_gamemenu_0" korean="Function can be selected by clicking the button in the game menu" />
+	<block key="help_infolink_gamemenu_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_gamemenu_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_gamemenu_3" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_gamemenu_4" korean="4. \u003cfont color = \" />
+	<block key="help_infolink_gamemenu_5" korean="5. \u003cfont color = \" />
+	<block key="help_infolink_gamemenu_6" korean="6 \u003cfont color = \" />
+	<block key="help_infolink_charui" korean="Character Information Window" />
+	<block key="help_infolink_charui_tip" korean="Character Information Window Description" />
+	<block key="help_infolink_charui_0" korean="Click on the character of the game menus, shortcuts \u003cfont color = \" />
+	<block key="help_infolink_charui_1" korean="Wear equipment on / off, or you can check the stats." />
+	<block key="help_infolink_bagui" korean="Bag" />
+	<block key="help_infolink_bagui_tip" korean="Bags Description" />
+	<block key="help_infolink_bagui_0" korean="Click on the bag in the game menu or keyboard shortcut \u003cfont color = \" />
+	<block key="help_infolink_bagui_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_bagui_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_bagui_3" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_bagui_4" korean="4. \u003cfont color = \- The item quantity is more than two \u003cfont color = \" />
+	<block key="help_infolink_raderui" korean="Mini Map" />
+	<block key="help_infolink_raderui_tip" korean="Mini Map Description" />
+	<block key="help_infolink_raderui_0" korean="1. Click to move to a different channel." />
+	<block key="help_infolink_raderui_1" korean="2. Mark the area you are currently in name." />
+	<block key="help_infolink_raderui_2" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_raderui_3" korean="4. \u003cfont color = \- Available: Green Show\n  - Impossible: gray display" />
+	<block key="help_infolink_raderui_4" korean="5. Displays the current in altitude." />
+	<block key="help_infolink_raderui_5" korean="6. minimap Hide / Reveal" />
+	<block key="help_infolink_mapui" korean="Full Map" />
+	<block key="help_infolink_mapui_tip" korean="Full Map Description" />
+	<block key="help_infolink_mapui_0" korean="Click on the map to the game menu or keyboard shortcut \u003cfont color = \" />
+	<block key="help_infolink_mapui_1" korean="1. Display the current in a region name." />
+	<block key="help_infolink_mapui_2" korean="2. Click on the map, you can see the different areas." />
+	<block key="help_infolink_mapui_3" korean="3. Click the map you can see the world." />
+	<block key="help_infolink_quickui" korean="Speed ​​Slot" />
+	<block key="help_infolink_quickui_tip" korean="Speed ​​Slot Description" />
+	<block key="help_infolink_quickui_0" korean="As a general / boarding conditions are automatically converted slot." />
+	<block key="help_infolink_quickui_1" korean="When the moment over the class / Boarding button while you drag your skills, changes to the over-the kind of slot." />
+	<block key="help_infolink_quickui_2" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_quickui_3" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_communityui" korean="Chat Window" />
+	<block key="help_infolink_communityui_tip" korean="Chat Window Description" />
+	<block key="help_infolink_communityui_0" korean="1. Change the chat window options, add / can be deleted." />
+	<block key="help_infolink_communityui_1" korean="2. battle, the party tab can be removed by dragging." />
+	<block key="help_infolink_communityui_2" korean="3. You can click to change the chat type." />
+	<block key="help_title_operate" korean="Basic Operations" />
+	<block key="help_infolink_move" korean="Movement" />
+	<block key="help_infolink_move_tip" korean="How to Move" />
+	<block key="help_infolink_move_0" korean="\u003cFont color = \" />
+	<block key="help_infolink_move_1" korean="\u003cFont color = \" />
+	<block key="help_infolink_move_2" korean="\u003cFont color = \" />
+	<block key="help_infolink_move_3" korean="\u003cFont color = \" />
+	<block key="help_infolink_combat" korean="Basic Combat" />
+	<block key="help_infolink_combat_tip" korean="Basic combat methods" />
+	<block key="help_infolink_combat_0" korean="1. \u003cfont color = \- Monster character front is targeting auto.\n  - You can choose to click on the monster." />
+	<block key="help_infolink_combat_1" korean="2. \u003cfont color = \- Double-click the mouse, you can right-click attack.\n  - You can attack automatically registered in the quick slot attack." />
+	<block key="help_infolink_combat_2" korean="3. \u003cfont color = \- Ranged attacks are launched when projecting body.\n  - You can move the character to evade enemy projectiles." />
+	<block key="help_infolink_camera" korean="Camera Operation" />
+	<block key="help_infolink_camera_tip" korean="Camera Basics" />
+	<block key="help_infolink_camera_0" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_camera_1" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_shortcut" korean="Shortcuts" />
+	<block key="help_infolink_shortcut_tip" korean="Shortcuts Setting" />
+	<block key="help_infolink_shortcut_0" korean="Press the ESC key in game options \u003cfont color = \" />
+	<block key="help_infolink_shortcut_1" korean="Click to change keyboard shortcuts, and then press the key you want to change." />
+	<block key="help_infolink_chatcommand" korean="Chat commands" />
+	<block key="help_infolink_chatcommand_tip" korean="Chat command type" />
+	<block key="help_infolink_chatcommand_0" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_1" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_2" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_3" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_4" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_5" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_6" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_7" korean="\u003cFont color = \" />
+	<block key="help_infolink_chatcommand_8" korean="\u003cFont color = \" />
+	<block key="help_infolink_actionkey" korean="Action key advantage" />
+	<block key="help_infolink_actionkey_tip" korean="Action Key Practices" />
+	<block key="help_infolink_actionkey_0" korean="Shortcuts \u003cfont color = \" />
+	<block key="help_infolink_quickmenu" korean="Quick Menu" />
+	<block key="help_infolink_quickmenu_tip" korean="Use Quick Menu" />
+	<block key="help_infolink_quickmenu_0" korean="Right-click the status information, \u003cfont color = \" />
+	<block key="help_infolink_quickmenu_1" korean="Right-click the relative character, \u003cfont color = \" />
+	<block key="help_infolink_crossbowmode" korean="Crossbow mode" />
+	<block key="help_infolink_crossbowmode_tip" korean="Crossbow Mode Description" />
+	<block key="help_infolink_crossbowmode_0" korean="If you choose aboard \u003cfont color = \" />
+	<block key="help_title_skill" korean="Skill" />
+	<block key="help_infolink_skillui" korean="Skill window" />
+	<block key="help_infolink_skillui_tip" korean="Skill Window Description" />
+	<block key="help_infolink_skillui_0" korean="Click on the skill of the game menu or keyboard shortcut \u003cfont color = \" />
+	<block key="help_infolink_skillui_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_skillui_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_skilllearn" korean="Automatic skill acquisition" />
+	<block key="help_infolink_skilllearn_tip" korean="Automatic skill acquisition" />
+	<block key="help_infolink_skilllearn_0" korean="If the character level increases, the skill level for the \u003cfont color = \" />
+	<block key="help_infolink_skilllearn_1" korean="When you click the button, you can see the skills of new skills list." />
+	<block key="help_infolink_skilllevel" korean="Skill Level Rise" />
+	<block key="help_infolink_skilllevel_tip" korean="Skill Level Rise" />
+	<block key="help_infolink_skilllevel_0" korean="If the character level increases, the skill level for the \u003cfont color = \" />
+	<block key="help_infolink_charge" korean="Charge Skills" />
+	<block key="help_infolink_charge_tip" korean="Charge Skill Description" />
+	<block key="help_infolink_charge_0" korean="A gauge as you hold the charge type of skill increases." />
+	<block key="help_infolink_charge_1" korean="The effect will vary depending on when triggered increased charge phase." />
+	<block key="help_infolink_skillcombo" korean="Combo Skill" />
+	<block key="help_infolink_skillcombo_tip" korean="Combo Skill Description" />
+	<block key="help_infolink_skillcombo_0" korean="One of skill combo skill has at least two Proc." />
+	<block key="help_infolink_skillcombo_1" korean="The combo effect every time you roll combo skill set is activated." />
+	<block key="help_infolink_recom" korean="Skills Link" />
+	<block key="help_infolink_recom_tip" korean="Skills Link Description" />
+	<block key="help_infolink_recom_0" korean="Haejueo links automatically skill is highly recommended utility skills, skills allows easy connection to trigger additional effects." />
+	<block key="help_infolink_skilllink" korean="Associated skills" />
+	<block key="help_infolink_skilllink_tip" korean="Skills associated description" />
+	<block key="help_infolink_skilllink_0" korean="Fall, such as a particular situation or milryeonam, Displays the skills that are available only when using certain skills to the character right." />
+	<block key="help_infolink_talent" korean="Characteristic" />
+	<block key="help_infolink_talent_tip" korean="Property Description" />
+	<block key="help_infolink_talent_0" korean="1. On the character information window \u003cfont color = \" />
+	<block key="help_infolink_talent_1" korean="2. you have, \u003cfont color = \" />
+	<block key="help_infolink_talent_2" korean="- Characteristic strength can be obtained by dragging the sealed Fellow." />
+	<block key="help_infolink_talent_3" korean="3 is a unique characteristic of the three types of each class." />
+	<block key="help_infolink_talent_4" korean="4. Depending on the level characteristic expansion slots are available to install features." />
+	<block key="help_title_item" korean="Items" />
+	<block key="help_infolink_set" korean="Set Items" />
+	<block key="help_infolink_set_tip" korean="Set Item Description" />
+	<block key="help_infolink_set_0" korean="Set item has been added effect will be applied according to the number worn when wearing the same type of item." />
+	<block key="help_infolink_fellowoption" korean="Seal options granted" />
+	<block key="help_infolink_fellowoption_tip" korean="Seal options granted" />
+	<block key="help_infolink_fellowoption_0" korean="If you drag a sealed fellow in arms with the slots, you can give more effective weapons." />
+	<block key="help_infolink_extraction" korean="Extraction" />
+	<block key="help_infolink_extraction_tip" korean="Extraction Description" />
+	<block key="help_infolink_extraction_0" korean="1. Extract tool can be purchased from haberdasher." />
+	<block key="help_infolink_extraction_1" korean="2. Right-click on the Extract tool, it is possible to extract an item is displayed." />
+	<block key="help_infolink_extraction_2" korean="3. Click on the item you want to extract \u003cfont color = \" />
+	<block key="help_infolink_extraction_3" korean="- The level, the higher the rating level and acquire the Upgrade Stone." />
+	<block key="help_infolink_reinforce" korean="Consolidation" />
+	<block key="help_infolink_reinforce_tip" korean="Enhanced description" />
+	<block key="help_infolink_reinforce_0" korean="1. Right-click on the Upgrade Stone, possible enhanced item is displayed." />
+	<block key="help_infolink_reinforce_1" korean="2. The item stats will rise when you click an item to strengthen." />
+	<block key="help_infolink_reinforce_2" korean="- \u003cFont color = \" />
+	<block key="help_infolink_reinforce_3" korean="- \u003cFont color = \" />
+	<block key="help_infolink_reinforce_4" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_reinforce_5" korean="4. Consolidation up to 20 steps." />
+	<block key="help_infolink_reinforce_6" korean="- \u003cFont color = \" />
+	<block key="help_infolink_reinforce_7" korean="- \u003cFont color = \" />
+	<block key="help_infolink_reinforce_8" korean="- \u003cFont color = \" />
+	<block key="help_infolink_reinforce_9" korean="- \u003cFont color = \" />
+	<block key="help_infolink_randombox" korean="Random Box" />
+	<block key="help_infolink_randombox_tip" korean="Random Box Description" />
+	<block key="help_infolink_randombox_0" korean="Clicking the random boxes of various items, depending on the class \u003cfont color = \" />
+	<block key="help_title_quest" korean="Quest" />
+	<block key="help_infolink_questui" korean="Quest window" />
+	<block key="help_infolink_questui_tip" korean="Quest Window Description" />
+	<block key="help_infolink_questui_0" korean="Quests in the game menu, or click \u003cfont color = \" />
+	<block key="help_infolink_questui_1" korean="1. You can find the list of the quests in the quest by type." />
+	<block key="help_infolink_questui_2" korean="2. Clicking on the quest name, you can see the details." />
+	<block key="help_infolink_questtype" korean="Quest Type" />
+	<block key="help_infolink_questtype_tip" korean="Name Type Description" />
+	<block key="help_infolink_questtype_0" korean="Obtained from the left in the above picture, progress, completion display" />
+	<block key="help_infolink_questtype_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_questtype_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_questtype_3" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_questhelper" korean="Quest alert" />
+	<block key="help_infolink_questhelper_tip" korean="Quest notification Description" />
+	<block key="help_infolink_questhelper_0" korean="1. Click on the Quest mark \u003cfont color = \" />
+	<block key="help_infolink_questhelper_1" korean="2. Clicking on the quest name \u003cfont color = \" />
+	<block key="help_infolink_questhelper_2" korean="3. Select On / Off to \u003cfont color = \" />
+	<block key="help_title_contents" korean="Content" />
+	<block key="help_infolink_dungeonlevel" korean="Dungeon Difficulty" />
+	<block key="help_infolink_dungeonlevel_tip" korean="Dungeon Level Description" />
+	<block key="help_infolink_dungeonlevel_0" korean="You can choose the difficulty level when you enter the dungeon." />
+	<block key="help_infolink_dungeonlevel_1" korean="To play the next difficulty level, you must complete the previous difficulty." />
+	<block key="help_infolink_uniteparty" korean="10-player raid" />
+	<block key="help_infolink_uniteparty_tip" korean="10-player raid Description" />
+	<block key="help_infolink_uniteparty_0" korean="Party chapter can be organized in a raid party menu." />
+	<block key="help_infolink_uniteparty_1" korean="Raid can be organized for up to 10 people." />
+	<block key="help_infolink_pvp" korean="Duel" />
+	<block key="help_infolink_pvp_tip" korean="Duel Description" />
+	<block key="help_infolink_pvp_0" korean="The other \u003cfont color = \" />
+	<block key="help_infolink_pvp_1" korean="1. Made of attacks target the HP to zero success \u003cfont color = \" />
+	<block key="help_infolink_pvp_2" korean="2. Click the surrender button, or out-duel the place \u003cfont color = \" />
+	<block key="help_infolink_guild" korean="Guild" />
+	<block key="help_infolink_guild_tip" korean="Guild description" />
+	<block key="help_infolink_guild_0" korean="Canas and also in the guild station in St. \u003cfont color = \" />
+	<block key="help_infolink_guild_1" korean="As the guild level increases automatically \u003cfont color = \" />
+	<block key="help_title_system" korean="System" />
+	<block key="help_infolink_partyinvite" korean="Party" />
+	<block key="help_infolink_partyinvite_tip" korean="Party Description" />
+	<block key="help_infolink_partyinvite_0" korean="The other \u003cfont color = \" />
+	<block key="help_infolink_partyinvite_1" korean="1. Party chapter, you can change the loot distribution system." />
+	<block key="help_infolink_partyinvite_2" korean="2. The party information can be found at the bottom of the status information." />
+	<block key="help_infolink_partyinvite_3" korean="3. You can get the amount of experience acquired and buff to Drop rate increases in proportion to the number of party members." />
+	<block key="help_infolink_tradeui" korean="Private Transaction" />
+	<block key="help_infolink_tradeui_tip" korean="Private Transaction Description" />
+	<block key="help_infolink_tradeui_0" korean="The other \u003cfont color = \" />
+	<block key="help_infolink_tradeui_1" korean="1. your item, you can register your money." />
+	<block key="help_infolink_tradeui_2" korean="2. You can see the other side of the item and the money." />
+	<block key="help_infolink_channelui" korean="Channel Go" />
+	<block key="help_infolink_channelui_tip" korean="Channel Go Description" />
+	<block key="help_infolink_channelui_0" korean="If a large number of users looking a little rough around the area, go to the slack channel, you can enjoy a smooth play." />
+	<block key="help_infolink_portal" korean="Portal Go" />
+	<block key="help_infolink_portal_tip" korean="Go explanation portal" />
+	<block key="help_infolink_portal_0" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_portal_1" korean="- Advanced mobile devices portal is only the first area location." />
+	<block key="help_infolink_portal_2" korean="- Greater portal mobile device can be moved to another area.\n    (Within the movement area is also available)" />
+	<block key="help_infolink_portal_3" korean="- Portal mobile device is capable of returning positioning." />
+	<block key="help_infolink_portal_4" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_portal_5" korean="- Portal mobile device is located in the main area." />
+	<block key="help_infolink_portal_6" korean="- Portal mobile devices is only possible within the movement area.\n    (Can not be moved to a different area)" />
+	<block key="help_infolink_portal_7" korean="- Portal mobile device is capable of returning positioning." />
+	<block key="help_infolink_mail" korean="Mail" />
+	<block key="help_infolink_mail_tip" korean="Mail Description" />
+	<block key="help_infolink_mail_0" korean="Located in the village \u003cfont color = \" />
+	<block key="help_infolink_auction" korean="Sales Representative" />
+	<block key="help_infolink_auction_tip" korean="Sales Representative Description" />
+	<block key="help_infolink_auction_0" korean="Each area located in a large village \u003cfont color = \" />
+	<block key="help_infolink_auction_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_auction_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_auction_3" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_pcstorage" korean="Warehouse" />
+	<block key="help_infolink_pcstorage_tip" korean="Garage Description" />
+	<block key="help_infolink_pcstorage_0" korean="Located in the village \u003cfont color = \" />
+	<block key="help_infolink_pcstorage_1" korean="De-slot can be extended by paying the cost." />
+	<block key="help_infolink_collection" korean="Gathering" />
+	<block key="help_infolink_collection_tip" korean="Collected Description" />
+	<block key="help_infolink_collection_0" korean="1. placed throughout herbs, you can chaechip ore." />
+	<block key="help_infolink_collection_1" korean="2. Collected materials are \u003cfont color = \" />
+	<block key="help_infolink_collection_2" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_partyboard" korean="Party Board" />
+	<block key="help_infolink_partyboard_tip" korean="Party Board Description" />
+	<block key="help_infolink_partyboard_0" korean="\u003cFont color = \" />
+	<block key="help_infolink_partyboard_1" korean="1. You can search for posts in the party recruitment level, type and name." />
+	<block key="help_infolink_partyboard_2" korean="2. Click on the recruitment post, you can support the party." />
+	<block key="help_infolink_partyboard_3" korean="3. Register your posts You can recruit party members." />
+	<block key="help_infolink_partyauction" korean="Party Auction" />
+	<block key="help_infolink_partyauction_tip" korean="Party Auction Description" />
+	<block key="help_infolink_partyauction_0" korean="If you are a loot distribution rules at auction at a party, you acquire a given grade or more items can be acquired by auction among party members." />
+	<block key="help_infolink_partyauction_1" korean="The winner is the amount you bid will be distributed to all the party except for the highest bidder." />
+	<block key="help_infolink_vitality" korean="Vitality" />
+	<block key="help_infolink_vitality_tip" korean="Vitality System Description" />
+	<block key="help_infolink_vitality_0" korean="1. \u003cfont color = \- The normal playable timeout.\n  - If you run out of energy use are restricted to the content." />
+	<block key="help_infolink_vitality_1" korean="2. \u003cfont color = \- 1 day remaining time: 12 hours\n  - Weekly remaining time: 35 hours\n  - PC room bonus weeks remaining time: 15 hours" />
+	<block key="help_infolink_vitality_2" korean="3. \u003cfont color = \- The energy is consumed by play time.\n  - \u003cFont color = \" />
+	<block key="help_infolink_vitality_3" korean="4. \u003cfont color = \- A debuff that appears when you run out the remaining energy.\n  - Decrease in the energy state receives the content using the following constraints.\n    * Character / Fellow experience can not be acquired\n    * Guild Points can not be obtained\n    * No routing items\n    * Not Party\n    * Not Collected\n    * Accept and complete quest impossible" />
+	<block key="help_infolink_vitality_4" korean="5. \u003cfont color = \- 1 day remaining time: 04:00 daily\n  - Weekly remaining time: Every Wednesday 04:00\n  - PC room bonus weeks remaining time: Every Wednesday 04:00" />
+	<block key="help_infolink_vitality_5" korean="6. \u003cfont color = \- Granted the city's first daily vitality buff access.\n  - Will be paid upon vigor vitality buff box will be shut down.\n  - Energy box can hold up to three is in the bag." />
+	<block key="help_title_production" korean="Manufacture" />
+	<block key="help_infolink_productionhow" korean="How to Make" />
+	<block key="help_infolink_productionhow_tip" korean="How to Make" />
+	<block key="help_infolink_productionhow_0" korean="\u003cFont color = \- The object for the type you want to create \u003cfont color = \- Prepare the ingredients for the recipe for the item you want to make.\n  - Click the Publish button to publish the item." />
+	<block key="help_infolink_productionhow_1" korean="1. \u003cfont color = \- The item production types.\n  - All six as a weapon, armor, trinkets, Research Fellow, alchemy, and cooking." />
+	<block key="help_infolink_productionhow_2" korean="2. \u003cfont color = \- List of recipes learned.\n  - \u003cFont color = \" />
+	<block key="help_infolink_productionhow_3" korean="3. \u003cfont color = \- The information required for making items of material items." />
+	<block key="help_infolink_productionhow_4" korean="4. \u003cfont color = \- You can create and adjust the quantity.\n  - All the Publish button in production Maximum available quantity when clicked.\n  - General material twice to enable the use may increase the chance of the jackpot." />
+	<block key="help_infolink_productionitem" korean="Manufactured items" />
+	<block key="help_infolink_productionitem_tip" korean="Manufactured items" />
+	<block key="help_infolink_productionitem_0" korean="Items that can produce per field production are as follows." />
+	<block key="help_infolink_productionitem_1" korean="1. \u003cfont color = \- Weapons production materials\n  - Class Weapons\n  -Board weapons (crossbows, window)" />
+	<block key="help_infolink_productionitem_2" korean="2. \u003cfont color = \- Armorsmithing materials\n  - Class Armor\n  - Auxiliary Equipment" />
+	<block key="help_infolink_productionitem_3" korean="3. \u003cfont color = \- Jewelry making materials\n  - Ring\n  Necklaces" />
+	<block key="help_infolink_productionitem_4" korean="4. \u003cfont color = \- Fellow Research Materials\n  - Fellow equipment\n  - Taming signs" />
+	<block key="help_infolink_productionitem_5" korean="5. \u003cfont color = \- Life Recovery Elixir\n  - Mana Elixir\n  - Energy Recovery Elixir\n  - Strengthening leap stats\n  - Bandages\n  - Other consumable items" />
+	<block key="help_infolink_productionitem_6" korean="6. \u003cfont color = \- Restore vitality cuisine\n  - Mana cuisine" />
+	<block key="help_infolink_productiongrade" korean="Production stage Upgrades" />
+	<block key="help_infolink_productiongrade_tip" korean="Production stage Upgrades" />
+	<block key="help_infolink_productiongrade_0" korean="1. \u003cfont color = \- Production technician through each step can be push technology.\n  - Manufacturing engineers are located in large cities." />
+	<block key="help_infolink_productiongrade_1" korean="2. \u003cfont color = \- You need to master the skill of making two or more items in the current stage.\n  - Making skills of items will increase each time you create the item." />
+	<block key="help_infolink_productionperfect" korean="Production Jackpot" />
+	<block key="help_infolink_productionperfect_tip" korean="Production Jackpot" />
+	<block key="help_infolink_productionperfect_0" korean="1. \u003cfont color = \- The jackpot occurs when an item with a chance to produce.\n  - When the jackpot amount is increased or the quality increases." />
+	<block key="help_infolink_productionperfect_1" korean="2. \u003cfont color = \- The higher the skill level of the item you want to create a production probability increases.\n  - General stuff twice the chance to use will increase." />
+	<block key="help_infolink_productionweapon" korean="Arms" />
+	<block key="help_infolink_productionweapon_tip" korean="Weapons production" />
+	<block key="help_infolink_productionweapon_0" korean="For weapons production \u003cfont color = \" />
+	<block key="help_infolink_productionarmor" korean="Armor" />
+	<block key="help_infolink_productionarmor_tip" korean="Armorsmithing" />
+	<block key="help_infolink_productionarmor_0" korean="For Armorsmithing \u003cfont color = \" />
+	<block key="help_infolink_productionfellow" korean="Research Fellow" />
+	<block key="help_infolink_productionfellow_tip" korean="Research Fellow" />
+	<block key="help_infolink_productionfellow_0" korean="For research fellows \u003cfont color = \" />
+	<block key="help_infolink_productionfood" korean="Dish" />
+	<block key="help_infolink_productionfood_tip" korean="Food production" />
+	<block key="help_infolink_productionfood_0" korean="For food production \u003cfont color = \" />
+	<block key="help_infolink_productionfood_1" korean="\u003cFont color = \- Rising buff stats\n  - \u003cFont color = \" />
+	<block key="help_infolink_productionpotion" korean="Alchemy" />
+	<block key="help_infolink_productionpotion_tip" korean="Potion making" />
+	<block key="help_infolink_productionpotion_0" korean="For alchemy \u003cfont color = \" />
+	<block key="help_infolink_productionaccessory" korean="Accessories" />
+	<block key="help_infolink_productionaccessory_tip" korean="Jewelry making" />
+	<block key="help_infolink_productionaccessory_0" korean="For jewelry making \u003cfont color = \" />
+	<block key="help_title_fellow" korean="Fellow" />
+	<block key="help_infolink_fellowui" korean="Fellow Pane" />
+	<block key="help_infolink_fellowui_tip" korean="Fellow Pane" />
+	<block key="help_infolink_fellowui_0" korean="Click Fellow in the game menu, or, \u003cfont color = \" />
+	<block key="help_infolink_fellowui_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_fellowui_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_fellowui_3" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_fellowui_4" korean="4. \u003cfont color = \" />
+	<block key="help_infolink_fellowui_5" korean="5. \u003cfont color = \- Fellow name change has Elounda is consumed." />
+	<block key="help_infolink_fellowui_6" korean="6. \u003cfont color = \- \u003cFont color = \" />
+	<block key="help_infolink_fellowui_7" korean="7. \u003cfont color = \- The calendar costs will demand to release the fellow." />
+	<block key="help_infolink_fellowbook" korean="Fellow Book" />
+	<block key="help_infolink_fellowbook_tip" korean="Fellow Book" />
+	<block key="help_infolink_fellowbook_0" korean="In the game menu or click on the book, \u003cfont color = \" />
+	<block key="help_infolink_fellowbook_1" korean="Use more than one book after the acquisition can be opened." />
+	<block key="help_infolink_fellowsummon" korean="Fellow summons on / off" />
+	<block key="help_infolink_fellowsummon_tip" korean="Fellow summons on / off" />
+	<block key="help_infolink_fellowsummon_0" korean="1. Double-click the register Fellow in your library, right-click or \u003cfont color = \" />
+	<block key="help_infolink_fellowsummon_1" korean="2. In the upper-right corner of the \u003cfont color = \" />
+	<block key="help_infolink_fellowboard" korean="Fellow tame" />
+	<block key="help_infolink_fellowboard_tip" korean="Fellow tame" />
+	<block key="help_infolink_fellowboard_0" korean="Choose one of the tame as tame monsters like monster, \u003cfont color = \" />
+	<block key="help_infolink_fellowboard_1" korean="Preventing cognitive monster monster back into carefully approached \u003cfont color = \" />
+	<block key="help_infolink_fellowboard_2" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_fellowboard_3" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_fellowboard_4" korean="3. The higher the level of the fellow than the level of the character \u003cfont color = \" />
+	<block key="help_infolink_fellowwithme" korean="Pet" />
+	<block key="help_infolink_fellowwithme_tip" korean="Pet" />
+	<block key="help_infolink_fellowwithme_0" korean="1. Fellow of pets that can be changed to \u003cfont color = \" />
+	<block key="help_infolink_fellowwithme_1" korean="2. enemies with pets according to the instructions of the owner." />
+	<block key="help_infolink_fellowitem" korean="Fellow items" />
+	<block key="help_infolink_fellowitem_tip" korean="Fellow items" />
+	<block key="help_infolink_fellowitem_0" korean="Fellows may additionally raise the basic stats." />
+	<block key="help_infolink_fellowitem_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_fellowitem_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_fellowseal" korean="Fellow seal" />
+	<block key="help_infolink_fellowseal_tip" korean="Fellow seal" />
+	<block key="help_infolink_fellowseal_0" korean="1. goods stores or to obtain a drop \u003cfont color = \" />
+	<block key="help_infolink_fellowseal_1" korean="2. Sealed Fellow is available for the following purposes:" />
+	<block key="help_infolink_fellowseal_2" korean="- Attach a drag on the equipment slot \u003cfont color = \" />
+	<block key="help_infolink_fellowseal_3" korean="- \u003cFont color = \" />
+	<block key="help_infolink_fellowcompose" korean="Fellow growth" />
+	<block key="help_infolink_fellowcompose_tip" korean="Fellow growth" />
+	<block key="help_infolink_fellowcompose_0" korean="1. \u003cfont color = \- When placing summon a Fellow\n  - If you participate in a battle with fellow" />
+	<block key="help_infolink_fellowcompose_1" korean="2. \u003cfont color = \- The overall abilities of fellow rising.\n  - A fellow can learn new skills.\n  - Fellow learned this skill level can be increased." />
+	<block key="help_infolink_fellowcombat" korean="Boarding ground combat" />
+	<block key="help_infolink_fellowcombat_tip" korean="Boarding ground combat" />
+	<block key="help_infolink_fellowcombat_0" korean="On board the fellow, you can ride the battle." />
+	<block key="help_infolink_fellowcombat_1" korean="1. \u003cfont color = \" />
+	<block key="help_infolink_fellowcombat_2" korean="2. \u003cfont color = \" />
+	<block key="help_infolink_fellowcombat_3" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_fellowsky" korean="Combat flight boarding" />
+	<block key="help_infolink_fellowsky_tip" korean="Combat flight boarding" />
+	<block key="help_infolink_fellowsky_0" korean="\u003cFont color = \You can see the flight altitude can be high through UI. \u003c/ Font\u003e\n  - You can not climb higher than the regional ceiling height.\n  - You can not climb higher than the maximum flying height of Fellows.\n  - The 80% of the height as when rising from a warning." />
+	<block key="help_infolink_fellowsky_1" korean="\u003cFont color = \Fellow board the flight can be air combat and movement. \u003c/ Font\u003e\n  - Space: Back to rise.\n  - Shift + x: The vertical descent.\n  - Space + Space: The downhill rapidly.\n  - U: Press the u key when you run out to fellow board automatically." />
+	<block key="help_infolink_attributionclear" korean="Bind off items" />
+	<block key="help_infolink_attributionclear_tip" korean="Bind off items" />
+	<block key="help_infolink_attributionclear_0" korean="1. \u003cfont color = \- La Beanie silver shops, stores Elounda" />
+	<block key="help_infolink_attributionclear_1" korean="2. Bind off The rating of the target item and the order will be the same." />
+	<block key="help_infolink_attributionclear_2" korean="3. The release can be attributed to decrease the number of items belonging to terminate." />
+	<block key="help_infolink_itembreak" korean="Items decomposition" />
+	<block key="help_infolink_itembreak_tip" korean="Items decomposition" />
+	<block key="help_infolink_itembreak_0" korean="1. \u003cfont color = \- An elite hero: NPC goods store\n  - Legend: Elounda store" />
+	<block key="help_infolink_itembreak_1" korean="2. \u003cfont color = \- Degree of decomposition tools and items to decompose must be the same.\n  - Item is being mounted is not removable.\n  - You must have three or more empty slots in your bag." />
+	<block key="help_infolink_itembreak_2" korean="3. If you disassemble the items will be \u003cfont color = \- PVE item: La Beanie family silver, gold\n  - PVP items: Exergy grown coins, gold coins" />
+	<block key="help_infolink_guildalliance" korean="Guild Union" />
+	<block key="help_infolink_guildalliance_tip" korean="Guild Union" />
+	<block key="help_infolink_guildalliance_0" korean="1. \u003cfont color = \- Grade 3 or higher can be up to three guilds Union between the guild." />
+	<block key="help_infolink_guildalliance_1" korean="2. \u003cfont color = \- You can create a guild master Union through the NPC coalition.\n  - NPC Alliance Master and Canas capital castle - is located in the guild station.\n  - Guild Union can only be founded and join guilds or more 3 stars." />
+	<block key="help_infolink_guildalliance_2" korean="3. The name of the guild Guild Alliance Guild Mark \u003cfont color = \" />
+	<block key="help_infolink_militia" korean="Exergy grown militias" />
+	<block key="help_infolink_militia_tip" korean="Exergy grown militias" />
+	<block key="help_infolink_militia_0" korean="1. \u003cfont color = \2 guilds or individuals can be united with each other rating below." />
+	<block key="help_infolink_militia_1" korean="2. \u003cfont color = \- NPC can join the militia grown through the exciter article Leone.\n  - NPC article Leone exciter grown lawless - located at the gateway to the truth." />
+	<block key="help_infolink_militia_2" korean="3. \u003cfont color = \1 You can pay with silver and get buff militia.\n  - In the lawless militias are all friendly.\n  - You can use the militia chat." />
+	<block key="help_infolink_militia_3" korean="4. \u003cfont color = \- You can opt to pay 10 gold.\n  - If more than three belong guild, automatic withdrawal." />
+	<block key="help_infolink_alliancepk" korean="Union War" />
+	<block key="help_infolink_alliancepk_tip" korean="Union War" />
+	<block key="help_infolink_alliancepk_0" korean="1. \u003cfont color = \- Union chapter, you can apply to other United Nations war.\n  - Union 10 Gold will be required during the war with us." />
+	<block key="help_infolink_alliancepk_1" korean="2. The Union can not be a war being declared war." />
+	<block key="help_infolink_alliancepk_2" korean="3. declare war \u003cfont color = \" />
+	<block key="help_infolink_alliancepk_3" korean="4. \u003cfont color = \- \u003cFont color = \- \u003cFont color = \" />
+	<block key="help_infolink_alliancepk_4" korean="5. \u003cfont color = \" />
+	<block key="help_infolink_alliancepk_5" korean="6. \u003cfont color = \- You can check the current status and recent war war war into results through the United NPC located in each metropolitan area." />
+	<block key="help_infolink_uiediting" korean="Editing UI location" />
+	<block key="help_infolink_uiediting_tip" korean="Editing UI location" />
+	<block key="help_infolink_uiediting_0" korean="1. \u003cfont color = \- Game Menu - System - editing UI location" />
+	<block key="help_infolink_uiediting_1" korean="2. \u003cfont color = \- Drag the UI area and place them where you want them." />
+	<block key="help_infolink_uiediting_2" korean="3. \u003cfont color = \- \u003cFont color = \- \u003cFont color = \- \u003cFont color = \" />
+	<block key="help_infolink_fellowextraction" korean="Fellow bonginseok extraction" />
+	<block key="help_infolink_fellowextraction_tip" korean="Fellow bonginseok extraction" />
+	<block key="help_infolink_fellowextraction_0" korean="1. \u003cfont color = \- An elite hero: La Beanie silver shops\n  - Hero, Legend: Elounda store" />
+	<block key="help_infolink_fellowextraction_1" korean="2. Use the extraction rod bonginseok \u003cfont color = \" />
+	<block key="help_infolink_fellowextraction_2" korean="3. \u003cfont color = \" />
+	<block key="help_infolink_fellowextraction_3" korean="* Note: The extracted fellow is the fellow Archive \u003cfont color = \" />
+	<block key="help_infolink_fellowoptionchange" korean="Change seal options" />
+	<block key="help_infolink_fellowoptionchange_tip" korean="Change seal options" />
+	<block key="help_infolink_fellowoptionchange_0" korean="1. \u003cfont color = \- An elite hero: La Beanie silver shops\n  - Hero, Legend: Elounda store" />
+	<block key="help_infolink_fellowoptionchange_1" korean="2. \u003cfont color = \- For a fixed option value does not change." />
+	<block key="help_infolink_fellowoptionchange_2" korean="3. \u003cfont color = \- Sealed option to change tools and rating of the target bonginseok should be the same.\n  - Mounted on equipment items bonginseok is not available." />
+	<block key="help_infolink_fellowoptionchange_3" korean="4. \u003cfont color = \- Green Display options: than existing levels \u003cfont color = \- Red display option: value than the existing \u003cfont color = \-White display options: Same as previous figures" />
+</blocks>

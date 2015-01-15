@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="dialog_1420001_title" korean="" />
+	<block key="dialog_1420001_text0" korean="Ç$±\¸p­?" />
+	<block key="dialog_1420002_title" korean="È0Ì" />
+	<block key="dialog_1420002_text0" korean="DÅ!" />
+	<block key="dialog_1420003_title" korean="àÂá¸0®¬Àè² " />
+	<block key="dialog_1420003_text0" korean="TÅQ×È¹á¸ " />
+	<block key="dialog_1420004_title" korean="" />
+	<block key="dialog_1420004_text0" korean="°Æ¬¹”² " />
+	<block key="dialog_1420005_title" korean="àÂá¸0®¬Àè² " />
+	<block key="dialog_1420005_text0" korean="TÅQ×È¹á¸ " />
+	<block key="dialog_1420006_title" korean="àÂÈ " />
+	<block key="dialog_1420006_text0" korean="XÕtÎ˜°¤Â " />
+	<block key="dialog_1420007_title" korean="8ÖÇ0®¬À " />
+	<block key="dialog_1420007_text0" korean="tÇó¬DÇ " />
+	<block key="dialog_1420008_title" korean="8ÖÇ0®¬À " />
+	<block key="dialog_1420008_text0" korean="tÇó¬ " />
+	<block key="dialog_1420009_title" korean="àÂá¸0®¬Àè² " />
+	<block key="dialog_1420009_text0" korean="¼¬µÂÈ²ä²." />
+</blocks>

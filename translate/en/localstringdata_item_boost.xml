@@ -1,0 +1,62 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Bt_0_0000_NAME" korean="Boost test item 01" />
+	<block key="Bt_0_0000_Description" korean="Maximum HP 173, Maximum MP 173, Power 10, Agility 10" />
+	<block key="Bt_0_0001_NAME" korean="Boost test item 02" />
+	<block key="Bt_0_0001_Description" korean="Maximum HP 173, Maximum MP 173, 10 spirit, intelligence 10" />
+	<block key="EV_BO_00_0000_NAME" korean="100 days commemorating booster (5)" />
+	<block key="EV_BO_00_0001_NAME" korean="100 days commemorating booster (7)" />
+	<block key="EV_BO_00_0002_NAME" korean="100 days commemorating booster (15)" />
+	<block key="EV_BO_00_0003_NAME" korean="Invite to Event booster (30)" />
+	<block key="EV_BO_00_0004_NAME" korean="100 days commemorating booster (1 day)" />
+	<block key="CA_BO_00_0000_NAME" korean="Physical booster (7)" />
+	<block key="CA_BO_00_0000_Description" korean="\u003cR_Y\u003e Physical booster (7) can be used 7 days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0001_NAME" korean="Physical booster (30)" />
+	<block key="CA_BO_00_0001_Description" korean="\u003cR_Y\u003e Physical booster (30) is capable of 30-days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0002_NAME" korean="Magic Booster \\ (7)" />
+	<block key="CA_BO_00_0002_Description" korean="\u003cR_Y\u003e magic booster (7) can be used 7 days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0003_NAME" korean="Magic booster (30)" />
+	<block key="CA_BO_00_0003_Description" korean="\u003cR_Y\u003e magic booster (30) is capable of 30-days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0004_NAME" korean="Auxiliary booster (7)" />
+	<block key="CA_BO_00_0004_Description" korean="\u003cR_Y\u003e auxiliary booster (7) can be used 7 days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0005_NAME" korean="Auxiliary booster (30)" />
+	<block key="CA_BO_00_0005_Description" korean="\u003cR_Y\u003e auxiliary booster (30) is capable of 30-days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0006_NAME" korean="Defense Booster (7)" />
+	<block key="CA_BO_00_0006_Description" korean="\u003cR_Y\u003e Defense Booster (7) can be used 7 days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0007_NAME" korean="Defense Booster (30)" />
+	<block key="CA_BO_00_0007_Description" korean="\u003cR_Y\u003e Defense Booster (30) can be used 30 days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0000_NAME" korean="Artifacts - Damage" />
+	<block key="Bt_F06_0000_Description" korean="\u003cR_Y\u003e Artifacts - Damage can be used for 7 hours, then automatically disappears.\nArtifacts - Attack of time from the moment the incoming bags are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0001_NAME" korean="Artifacts - Critical Damage" />
+	<block key="Bt_F06_0001_Description" korean="\u003cR_Y\u003e Artifacts - critical damage can be used for 7 hours, then automatically disappears.\nArtifacts - critical damage is the time from the moment you come in bags are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0002_NAME" korean="Artifacts - Critical" />
+	<block key="Bt_F06_0002_Description" korean="\u003cR_Y\u003e Artifacts - Critical can be used for 7 hours, then automatically disappears.\nArtifacts - Critical is the time from the moment you come in bags are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0003_NAME" korean="Artifacts - Fellow experience" />
+	<block key="Bt_F06_0003_Description" korean="\u003cR_Y\u003e Artifacts - Fellow experience can be used for 7 hours, then will automatically disappear.\nArtifacts - Fellow experience this time coming from the moment the bag is consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0004_NAME" korean="Artifacts - Magic Defense" />
+	<block key="Bt_F06_0004_Description" korean="\u003cR_Y\u003e Artifacts - Magic Defense can be used for 7 hours, then automatically disappears.\nArtifacts - Magic Defense of time from the moment the incoming bags are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0005_NAME" korean="Artifacts - making a great success" />
+	<block key="Bt_F06_0005_Description" korean="\u003cR_Y\u003e Artifacts - making jackpots can be used for 7 hours, then automatically disappears.\nArtifacts - making the jackpot this time from the moment the incoming bags are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0006_NAME" korean="Artifacts - Enhanced" />
+	<block key="Bt_F06_0006_Description" korean="\u003cR_Y\u003e Artifacts - strengthening can be used for 7 h and then automatically disappears.\nArtifacts - this time from the moment comes to strengthening bags are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0007_NAME" korean="Artifacts - The Taming" />
+	<block key="Bt_F06_0007_Description" korean="\u003cR_Y\u003e Artifacts - Taming can be used for 7 hours, then automatically disappears.\nArtifacts - taming is the time from the moment you come in bags are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="Bt_F06_0008_NAME" korean="Artifacts - Reuse" />
+	<block key="Bt_F06_0008_Description" korean="\u003cR_Y\u003e Artifacts - can be re-used for 7 hours, then automatically disappears.\nArtifacts - this time from the moment of re-entering the bag are consumed.\nBooster item must carry a bag to apply the effect. \u003c/ R_Y\u003e" />
+	<block key="EV_BO_00_0005_NAME" korean="Saehaebok Happy (7)" />
+	<block key="EV_BO_00_0005_Description" korean="\u003cR_Y\u003e saehaebok can get a lot of use for (7) seven days, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e\n\nWe wish you a happy year 2015 with the Icarus." />
+	<block key="CA_BO_00_0008_NAME" korean="Hope booster (7)" />
+	<block key="CA_BO_00_0008_Description" korean="\u003cR_Y\u003e Hope booster (7) can be used 7 days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="CA_BO_00_0009_NAME" korean="Hope booster (30)" />
+	<block key="CA_BO_00_0009_Description" korean="\u003cR_Y\u003e Hope booster (30) is capable of 30-days from the moment comes in a bag, it will automatically disappear after.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="TS_BO_00_0000_NAME" korean="Hope Booster (5 minutes)" />
+	<block key="TS_BO_00_0000_Description" korean="\u003cR_Y\u003e Hope Booster (5 minutes) can be used 5 minutes from the moment you come into the bag, then automatically disappears.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+	<block key="TS_BO_00_0001_NAME" korean="Hope booster (10 minutes)" />
+	<block key="TS_BO_00_0001_Description" korean="\u003cR_Y\u003e Hope booster (10 minutes) can be used 10 minutes from the moment you come into the bag, then automatically disappears.\nBooster item must carry a bag to apply the effect.\nAvailable in possession count: 1 \u003c/ R_Y\u003e" />
+</blocks>

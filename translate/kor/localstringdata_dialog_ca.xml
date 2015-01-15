@@ -1,0 +1,208 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Dialog_4000000_Title" korean="ìÓ" />
+	<block key="Dialog_4000000_Text0" korean="¼ä²¬À˜°tÇ," />
+	<block key="Dialog_4000010_Title" korean="4»xÎ" />
+	<block key="Dialog_4000010_Text0" korean="ôÅÈ<Ç\¸ " />
+	<block key="Dialog_4000020_Title" korean="¬Àt¹" />
+	<block key="Dialog_4000020_Text0" korean="è²Âˆ× " />
+	<block key="Dialog_4000030_Title" korean="pÈµ" />
+	<block key="Dialog_4000030_Text0" korean="¨°Ç|·tº " />
+	<block key="Dialog_4000040_Title" korean="dÅµ" />
+	<block key="Dialog_4000040_Text0" korean="´ÅÈÄ³ " />
+	<block key="Dialog_4000050_Title" korean="\¸tÇ" />
+	<block key="Dialog_4000050_Text0" korean="ÐÅd¸Ø²DÇ " />
+	<block key="Dialog_4000060_Title" korean="$È˜°t¹" />
+	<block key="Dialog_4000060_Text0" korean="ìÅ0®L®ÀÉ " />
+	<block key="Dialog_4000070_Title" korean="ÐÅd¸" />
+	<block key="Dialog_4000070_Text0" korean="˜Ó" />
+	<block key="Dialog_4000080_Title" korean="Tºt¹àÏ¤Â" />
+	<block key="Dialog_4000080_Text0" korean="P»|Å," />
+	<block key="Dialog_4000090_Title" korean="¸tÇµ " />
+	<block key="Dialog_4000090_Text0" korean="tÇ " />
+	<block key="Dialog_4000100_Title" korean="¸Ò¬¹¤ÐDÅ" />
+	<block key="Dialog_4000100_Text0" korean="Ö¬Ç " />
+	<block key="Dialog_4000110_Title" korean="è¸Õ|·" />
+	<block key="Dialog_4000110_Text0" korean="ìÅ0®Á " />
+	<block key="Dialog_4000120_Title" korean="8ÖÕÌ¹" />
+	<block key="Dialog_4000120_Text0" korean="tÇô¼Œ¬." />
+	<block key="Dialog_4000120_answer_7_text" korean="õ¬íÅXÇ " />
+	<block key="Dialog_4000130_Title" korean="|·tÇÌÀT³" />
+	<block key="Dialog_4000130_Text0" korean="¼Åx¹ " />
+	<block key="Dialog_4000140_Title" korean="x±¬¹¤Â" />
+	<block key="Dialog_4000140_Text0" korean="´°" />
+	<block key="Dialog_4000140_answer_0_text" korean="0®¬À " />
+	<block key="Dialog_4000150_Title" korean="\¸¬" />
+	<block key="Dialog_4000150_Text0" korean="± " />
+	<block key="Dialog_4000150_answer_0_text" korean="0®¬À " />
+	<block key="Dialog_4000160_Title" korean="¸ ¼tÎ" />
+	<block key="Dialog_4000160_Text0" korean="´ÅÁ@Æ!" />
+	<block key="Dialog_4000160_Answer_0_Text" korean="4»0® " />
+	<block key="Dialog_4000170_Title" korean="¨º¸¤Â" />
+	<block key="Dialog_4000170_Text0" korean="ÇÇ," />
+	<block key="Dialog_4000170_Answer_0_Text" korean="¡ÇTÖ " />
+	<block key="Dialog_4000180_Title" korean="$Æ¤ÂtÎ" />
+	<block key="Dialog_4000180_Text0" korean="˜Ó" />
+	<block key="Dialog_4000190_Title" korean="¬À|Çð·" />
+	<block key="Dialog_4000190_Text0" korean="´° " />
+	<block key="Dialog_4000200_Title" korean="XÕðÒ" />
+	<block key="Dialog_4000200_Text0" korean="tÇ " />
+	<block key="Dialog_4000210_Title" korean="\¸H¾¨Â" />
+	<block key="Dialog_4000210_Text0" korean="œÌ¬À|·à¬ " />
+	<block key="Dialog_4000220_Title" korean="ÜÂDÅ¤Â" />
+	<block key="Dialog_4000220_Text0" korean="DÅ." />
+	<block key="Dialog_4000230_Title" korean="˜Ó­¹" />
+	<block key="Dialog_4000230_Text0" korean="È " />
+	<block key="Dialog_4000240_Title" korean="tÇ¬ÀlÐ" />
+	<block key="Dialog_4000240_Text0" korean="& & " />
+	<block key="Dialog_4000250_Title" korean="ÐÅ°ÆD¾ Î" />
+	<block key="Dialog_4000250_Text0" korean="DÅüÈ " />
+	<block key="Dialog_4000250_Answer_3_Text" korean="[¾XÇ " />
+	<block key="Dialog_4000250_Answer_4_Text" korean="Ù³ù¹XÇ " />
+	<block key="Dialog_4000260_Title" korean="¬À|Çð·" />
+	<block key="Dialog_4000260_Text0" korean="4® " />
+	<block key="Dialog_4000260_Answer_3_Text" korean="[¾XÇ " />
+	<block key="Dialog_4000270_Title" korean="ÈÖÐÅt¹" />
+	<block key="Dialog_4000270_Text0" korean="ø­ " />
+	<block key="Dialog_4000270_Answer_3_Text" korean="[¾XÇ " />
+	<block key="Dialog_4000280_Title" korean="|·|·" />
+	<block key="Dialog_4000280_Text0" korean="´Å|·?" />
+	<block key="Dialog_4000290_Title" korean="" />
+	<block key="Dialog_4000290_Text0" korean="´°" />
+	<block key="Dialog_4000290_Answer_1_Text" korean=")¼´Ål­ " />
+	<block key="Dialog_4000300_Title" korean="DÅt¹¤Ð" />
+	<block key="Dialog_4000300_Text0" korean="´ÅÁ$Æ8Á”Æ." />
+	<block key="Dialog_4000300_Answer_0_Text" korean=")¼´Ål­ " />
+	<block key="Dialog_4000310_Title" korean="È»	¸" />
+	<block key="Dialog_4000310_Text0" korean="´°" />
+	<block key="Dialog_4000320_Title" korean="àÏDÅx±È¹t¹" />
+	<block key="Dialog_4000320_Text0" korean="DÅtÇà¬ " />
+	<block key="Dialog_4000330_Title" korean="¨¼|·äÎ" />
+	<block key="Dialog_4000330_Text0" korean=" Ó\¸°Æ@Æ " />
+	<block key="Dialog_4000340_Title" korean="¸ø»±" />
+	<block key="Dialog_4000340_Text0" korean="p¬0® " />
+	<block key="Dialog_4000350_Title" korean="˜°¤Â" />
+	<block key="Dialog_4000350_Text0" korean="(Ì" />
+	<block key="Dialog_4000360_Title" korean="ˆÉTº°Æ" />
+	<block key="Dialog_4000360_Text0" korean="Ç$±”² " />
+	<block key="Dialog_4000370_Title" korean="0®¾¬¹" />
+	<block key="Dialog_4000370_Text0" korean="´ÅÁ$ÆíÂüÁ!" />
+	<block key="Dialog_4000380_Title" korean="ÐÅ¤ÂðÒ" />
+	<block key="Dialog_4000380_Text0" korean="P»|Å," />
+	<block key="Dialog_4000390_Title" korean="Èé¸¤Â" />
+	<block key="Dialog_4000390_Text0" korean=" °(Å " />
+	<block key="Dialog_4000390_Text0_attach_0" korean="´°" />
+	<block key="Dialog_4000390_Text0_attach_1" korean="ø­p¬|Å " />
+	<block key="Dialog_4000400_Title" korean="¬¹TÏ" />
+	<block key="Dialog_4000400_Text0" korean="HÅU±XÕàÂ" />
+	<block key="Dialog_4000410_Title" korean="4×7±" />
+	<block key="Dialog_4000410_Text0" korean="Â." />
+	<block key="Dialog_4000420_Title" korean="‰ÇlÐ" />
+	<block key="Dialog_4000420_Text0" korean="´Å²ÈÀ " />
+	<block key="Dialog_4000430_Title" korean="DÅèÏ" />
+	<block key="Dialog_4000430_Text0" korean="²l­Ð°!" />
+	<block key="Dialog_4000430_Text1" korean="ˆ½¬ÀXÇ " />
+	<block key="Dialog_4000440_Title" korean="XÏ|·Ü´" />
+	<block key="Dialog_4000440_Text0" korean="ÆÅ”²Œ¬ " />
+	<block key="Dialog_4000440_Answer_0_Text" korean="¡ÇTÖ " />
+	<block key="Dialog_4000450_Title" korean="È|·Ü´" />
+	<block key="Dialog_4000450_Text0" korean="\ÍÁÀXÇ " />
+	<block key="Dialog_4000450_Answer_0_Text" korean=")¼´Ål­ " />
+	<block key="Dialog_4000460_Title" korean="ØÅ¸˜°" />
+	<block key="Dialog_4000460_Text0" korean="\Õˆ¼ " />
+	<block key="Dialog_4000460_Answer_0_Text" korean="¡ÇTÖ " />
+	<block key="Dialog_4000470_Title" korean="ÈÈ²¤Â" />
+	<block key="Dialog_4000470_Text0" korean="øÂŒ¬øÂŒ¬ " />
+	<block key="Dialog_4000470_Answer_0_Text" korean="¡ÇTÖ " />
+	<block key="Dialog_4000480_Title" korean="È¹tÇ¤Â" />
+	<block key="Dialog_4000480_Text0" korean="ÁÀÈ " />
+	<block key="Dialog_4000480_Answer_0_Text" korean="4»0® " />
+	<block key="Dialog_3050813_Title" korean="øÒ¸¸Ò" />
+	<block key="Dialog_3050813_Text0" korean=" Á¥ÇØ²@Ç " />
+	<block key="dialog_3050813_answer_1_text" korean=" µ ° " />
+	<block key="dialog_3050813_answer_2_text" korean="XÕtÎ˜°¤Â " />
+	<block key="Dialog_4000490_Title" korean="tÎ" />
+	<block key="Dialog_4000490_Text0" korean=" Á¥Ç@Ç " />
+	<block key="Dialog_4000111_Title" korean="˜°t¹ðÒDÅ" />
+	<block key="Dialog_4000111_Text0" korean="ÑÅÇ€· " />
+	<block key="Dialog_4000112_Title" korean=" ¼´Åø­°¹¤Â" />
+	<block key="Dialog_4000112_Text0" korean="tÇ " />
+	<block key="Dialog_4000113_Title" korean="¸tÇµ " />
+	<block key="Dialog_4000113_Text0" korean="X» " />
+	<block key="Dialog_4000114_Title" korean="" />
+	<block key="Dialog_4000114_Text0" korean="$È˜°¬¹¤ÂXÇ " />
+	<block key="Dialog_4000115_Title" korean="=Ìõ¬XÇ " />
+	<block key="Dialog_4000115_Text0" korean="" />
+	<block key="Dialog_4000116_Title" korean="ìÅàÂXÇ " />
+	<block key="Dialog_4000116_Text0" korean="\Õ " />
+	<block key="Dialog_4000117_Title" korean="tÕHÅXÇ " />
+	<block key="Dialog_4000117_Text0" korean="õ¬íÅ@Ç " />
+	<block key="Dialog_4000118_Title" korean="	½xÇ´ " />
+	<block key="Dialog_4000118_Text0" korean="LÅDÅü¼ " />
+	<block key="Dialog_4000119_Title" korean="[¾XÇ " />
+	<block key="Dialog_4000119_Text0" korean="°Æ¬¹”² " />
+	<block key="Dialog_4000123_Title" korean="[¾XÇ " />
+	<block key="Dialog_4000123_Text0" korean="ÀÉ®@Ç " />
+	<block key="Dialog_4000123_Text0_attach_0" korean="<" />
+	<block key="Dialog_4000121_Title" korean="[¾XÇ " />
+	<block key="Dialog_4000121_Text0" korean="[¾XÇ " />
+	<block key="Dialog_4000122_Title" korean="[¾XÇ " />
+	<block key="Dialog_4000122_Text0" korean="`ÅÁXÕŒ¬Ä³ " />
+	<block key="Dialog_4000490_Answer_3_Text" korean="xºÝ¹XÇ " />
+	<block key="Dialog_4000500_Title" korean="xºÝ¹XÇ " />
+	<block key="Dialog_4000500_Text0" korean="9ÖÜÂ " />
+	<block key="Dialog_3040804_Title" korean="ìÓÈÐtÇÙ³¬À " />
+	<block key="Dialog_3040804_Text0" korean="xºÝ¹XÇ " />
+	<block key="Dialog_3040804_Answer_0_Text" korean="ìÓÈÐ " />
+	<block key="Dialog_3040805_Title" korean="ìÓÈÐtÇÙ³¬À " />
+	<block key="Dialog_3040805_Text0" korean="" />
+	<block key="Dialog_3040805_Answer_0_Text" korean="ìÓÈÐ " />
+	<block key="Dialog_2020400_Title" korean="×°ºDÅXÎ”² " />
+	<block key="Dialog_2020400_Text0" korean="Èù²\Õ " />
+	<block key="Dialog_2020401_Title" korean="ÐÐ•ÆXÇ " />
+	<block key="Dialog_2020401_Text0" korean="Èù²\Õ " />
+	<block key="Dialog_2020402_Title" korean="ìÅàÂXÇ " />
+	<block key="Dialog_2020402_Text0" korean="Èù²\Õ " />
+	<block key="Dialog_2020403_Title" korean="ÈtÇà´<" />
+	<block key="Dialog_2020403_Text0" korean="ÐÅd¸ " />
+	<block key="Dialog_2020404_Title" korean="\¸\Õ<" />
+	<block key="Dialog_2020404_Text0" korean="ˆ½¬Àp­è²ü¬ " />
+	<block key="Dialog_3600013_Title" korean="õ¬íÅXÇ " />
+	<block key="Dialog_3600013_Text0" korean="ìÅ‰ÕÇå°?" />
+	<block key="Dialog_3600013_Answer_0_Text" korean="|·D¾È² " />
+	<block key="Dialog_1430005_Title" korean="\¸tÇÜ´<" />
+	<block key="Dialog_1430005_Text0" korean="È " />
+	<block key="Dialog_1430006_Title" korean="È¹t¹tÎ<" />
+	<block key="Dialog_1430006_Text0" korean="ˆ½¬Àp­è² " />
+	<block key="Dialog_1430007_Title" korean="Ó¸Æ\¸<" />
+	<block key="Dialog_1430007_Text0" korean="ðÅ® Â@Ç " />
+	<block key="Dialog_2020345_Title" korean="TÅQ×á¸XÇ " />
+	<block key="Dialog_2020345_Text0" korean="Èù²\Õ " />
+	<block key="Dialog_1430008_Title" korean="àÂ¤Â " />
+	<block key="Dialog_1430008_Text0" korean="xºÝ¹XÇ " />
+	<block key="Dialog_1430009_Title" korean="D¾XÕxÇÜ´<" />
+	<block key="Dialog_1430009_Text0" korean="è²¥Ç<Ç\¸€½0Ñ " />
+	<block key="Dialog_9015594_Title" korean="õ¬íÅXÇ " />
+	<block key="Dialog_9015594_Text0" korean="ÁÀõ¬ " />
+	<block key="Dialog_4000511_Title" korean="]¸¨Ð" />
+	<block key="Dialog_4000511_Text0" korean="Â(¸XÇ " />
+	<block key="Dialog_4000511_Answer_0_Text" korean="4»0® " />
+	<block key="Dialog_2020346_Title" korean="Ó4­´ " />
+	<block key="Dialog_2020346_Text0" korean="Èù²\Õ " />
+	<block key="Dialog_4000512_Title" korean="´¹¬¹HÅ" />
+	<block key="Dialog_4000512_Text0" korean=",ÁDÇ " />
+	<block key="Dialog_4000513_Title" korean="¤ÂÓtÇlÐ" />
+	<block key="Dialog_4000513_Text0" korean="" />
+	<block key="Dialog_3600014_Title" korean="|·D¾È² " />
+	<block key="Dialog_3600014_Text0" korean="¼¬ù²!" />
+	<block key="Dialog_3600014_Answer_0_Text" korean="¡ÇTÖ " />
+	<block key="Dialog_3600015_Title" korean="|·D¾È² " />
+	<block key="Dialog_3600015_Text0" korean="¼¬ù²!" />
+	<block key="Dialog_3600015_Answer_0_Text" korean="¡ÇTÖ " />
+</blocks>

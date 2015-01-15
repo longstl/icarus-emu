@@ -1,0 +1,1270 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="wz_waterprotect_Name" korean="ô¼8ÖÂÉ¹" />
+	<block key="wz_waterprotect_description_1" korean="<" />
+	<block key="wz_waterprotect_description_2" korean="<" />
+	<block key="wz_waterprotect_description_3" korean="<" />
+	<block key="wz_waterprotect_description_4" korean="<" />
+	<block key="wz_waterprotect_description_5" korean="<" />
+	<block key="wz_waterprotect_description_6" korean="<" />
+	<block key="wz_waterprotect_description_7" korean="<" />
+	<block key="wz_waterprotect_description_8" korean="<" />
+	<block key="wz_waterprotect_description_9" korean="<" />
+	<block key="wz_waterprotect_description_10" korean="<" />
+	<block key="wz_judgeofspear_Name" korean="[¾XÇ " />
+	<block key="wz_judgeofspear_description_1" korean="[¾XÇ " />
+	<block key="wz_curseofreaper_Name" korean="¬ÀàÂXÇ " />
+	<block key="wz_curseofreaper_description_1" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_2" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_3" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_4" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_5" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_6" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_7" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_8" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_9" korean="´Å`´XÇ " />
+	<block key="wz_curseofreaper_description_10" korean="´Å`´XÇ " />
+	<block key="wz_burn_name" korean="ÀÐ$Æ„¹ " />
+	<block key="wz_burn_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_firemissilecl_Name" korean="TÖüÅ " />
+	<block key="wz_firemissilecl_description_1" korean="[" />
+	<block key="wz_firemissilecl_description_2" korean="[" />
+	<block key="wz_firemissilecl_description_3" korean="[" />
+	<block key="wz_firemissilecl_description_4" korean="[" />
+	<block key="wz_firemissilecl_description_5" korean="[" />
+	<block key="wz_firemissilecl_description_6" korean="[" />
+	<block key="wz_firemissilecl_description_7" korean="[" />
+	<block key="wz_firemissilecl_description_8" korean="[" />
+	<block key="wz_firemissilecl_description_9" korean="[" />
+	<block key="wz_firemissilecl_description_10" korean="[" />
+	<block key="wz_firemissilecl_description_11" korean="[" />
+	<block key="wz_firemissilecl_description_12" korean="[" />
+	<block key="wz_firemissilecl_description_13" korean="[" />
+	<block key="wz_firemissilecl_description_14" korean="[" />
+	<block key="wz_firemissilecm_Name" korean="TÖüÅ " />
+	<block key="wz_firemissilecm_description_1" korean="[" />
+	<block key="wz_firemissilecm_description_2" korean="[" />
+	<block key="wz_firemissilecm_description_3" korean="[" />
+	<block key="wz_firemissilecm_description_4" korean="[" />
+	<block key="wz_firemissilecm_description_5" korean="[" />
+	<block key="wz_firemissilecm_description_6" korean="[" />
+	<block key="wz_firemissilecm_description_7" korean="[" />
+	<block key="wz_firemissilecm_description_8" korean="[" />
+	<block key="wz_firemissilecm_description_9" korean="[" />
+	<block key="wz_firemissilecm_description_10" korean="[" />
+	<block key="wz_firemissilecm_description_11" korean="[" />
+	<block key="wz_firemissilecm_description_12" korean="[" />
+	<block key="wz_firemissilecm_description_13" korean="[" />
+	<block key="wz_firemissilecm_description_14" korean="[" />
+	<block key="poweratkcl_Name" korean="˜×Ï® ¼0®" />
+	<block key="poweratkcl_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="poweratkcm_Name" korean="˜×Ï® ¼0®" />
+	<block key="poweratkcm_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_fireexplosion_Name" korean="ˆ½C¯ " />
+	<block key="wz_fireexplosion_description_1" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_2" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_3" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_4" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_5" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_6" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_7" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_8" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_9" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_fireexplosion_description_10" korean="ˆ½C¯<Ç\¸ " />
+	<block key="wz_apillaroffire_Name" korean="ÀÉ%Æ " />
+	<block key="wz_apillaroffire_description_1" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_2" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_3" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_4" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_5" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_6" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_7" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_8" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_9" korean="ˆ½ " />
+	<block key="wz_apillaroffire_description_10" korean="ˆ½ " />
+	<block key="wz_teleport_Name" korean="[¾XÇ " />
+	<block key="wz_teleport_description_1" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_2" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_3" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_4" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_5" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_6" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_7" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_8" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_9" korean="È¹•¼XÇ " />
+	<block key="wz_teleport_description_10" korean="È¹•¼XÇ " />
+	<block key="wz_icearmor_Name" korean="É°0® " />
+	<block key="wz_icearmor_description_1" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_2" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_3" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_4" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_5" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_6" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_7" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_8" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_9" korean="ÇàÂDÇ " />
+	<block key="wz_icearmor_description_10" korean="ÇàÂDÇ " />
+	<block key="wz_bitingwind_Name" korean="|Î ° " />
+	<block key="wz_bitingwind_description_1" korean="" />
+	<block key="wz_bitingwind_description_2" korean="" />
+	<block key="wz_bitingwind_description_3" korean="" />
+	<block key="wz_bitingwind_description_4" korean="" />
+	<block key="wz_bitingwind_description_5" korean="" />
+	<block key="wz_bitingwind_description_6" korean="" />
+	<block key="wz_bitingwind_description_7" korean="" />
+	<block key="wz_bitingwind_description_8" korean="" />
+	<block key="wz_bitingwind_description_9" korean="" />
+	<block key="wz_bitingwind_description_10" korean="" />
+	<block key="wz_flare_name" korean="´ÀDÅœ° " />
+	<block key="wz_flare_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_cold_link_name" korean="\Õ0®" />
+	<block key="wz_cold_link_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_freezing_name" korean="Y¾°¬" />
+	<block key="wz_freezing_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_freezing1_Name" korean="Y¾°¬" />
+	<block key="apillaroffirelink_Name" korean="TÖüÅ0®e´" />
+	<block key="apillaroffirelink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="curseofreaperlink_name" korean="¬ÀàÂXÇ" />
+	<block key="curseofreaperlink_description_1" korean="ø»¬À©Æ" />
+	<block key="fogoffreezinglink_name" korean="Y¾°¬XÇHÅ¬" />
+	<block key="fogoffreezinglink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="hevryrainlink1_name" korean="ŒÁ˜°0®" />
+	<block key="hevryrainlink1_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="hevryrainlink1_description_2" korean="´°€½p³tÇ0Ñ" />
+	<block key="hevryrainlink2_name" korean="ŒÁ˜°0®" />
+	<block key="hevryrainlink2_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="hevryrainlink2_description_2" korean="´°€½p³tÇ0Ñ" />
+	<block key="judgeofspearlink_name" korean="ìÂÓXÇ=Ì" />
+	<block key="judgeofspearlink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="meteorlink_name" korean="TÖüÅ " />
+	<block key="meteorlink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="meteorlink_description_2" korean="´°€½p³tÇ0Ñ" />
+	<block key="meteorlink_description_3" korean="´°€½p³tÇ0Ñ" />
+	<block key="teleportlink_name" korean="[¾XÇtÇÙ³" />
+	<block key="teleportlink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="waterprotectlink_name" korean="ô¼8ÖÂÉ¹" />
+	<block key="waterprotectlink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="waterprotectlink1_Name" korean="ô¼8ÖÂÉ¹" />
+	<block key="calllightinglinkchan_name" korean="[¾XÇˆ¼¬" />
+	<block key="calllightinglinkchan_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_2" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_3" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_4" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_5" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_6" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_7" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_8" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglinkchan_description_9" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_name" korean="[¾XÇˆ¼¬" />
+	<block key="calllightinglink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_2" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_3" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_4" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_5" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_6" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_7" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_8" korean="´°€½p³tÇ0Ñ" />
+	<block key="calllightinglink_description_9" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_name" korean="¼ÅLÇ¡Áó¬" />
+	<block key="wz_icegimletchange1_name" korean="¼ÅLÇ¡Áó¬" />
+	<block key="wz_icegimletchange_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_2" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_3" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_4" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_5" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_6" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_7" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_8" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_9" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_icegimletchange_description_10" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_name" korean="ÀÐ$Æ„¹" />
+	<block key="wz_burn_link_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_2" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_3" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_4" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_5" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_6" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_7" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_8" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_9" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_10" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_burn_link_description_11" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_calllightingchang_name" korean="[¾XÇ " />
+	<block key="wz_calllightingchang_description_1" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_2" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_3" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_4" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_5" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_6" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_7" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_8" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_9" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_10" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_11" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_12" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_13" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_14" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_15" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_16" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_17" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_18" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_19" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllightingchang_description_20" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_sleepmushroom_Name" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_1" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_2" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_3" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_4" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_5" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_6" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_7" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_8" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_9" korean="Âtº " />
+	<block key="wz_sleepmushroom_description_10" korean="Âtº " />
+	<block key="wz_createpuppet_Name" korean="ÜÂ´Ì " />
+	<block key="wz_createpuppet_description_1" korean="¬ÀÝ¹\Õ " />
+	<block key="wz_puppetexplosion_Name" korean="ÜÂ´Ì " />
+	<block key="wz_puppetexplosion_description_1" korean="€½\ÖXÕìÅ " />
+	<block key="wz_normalattack_Name" korean="ÇÙ³ " />
+	<block key="wz_normalattack_description_1" korean="" />
+	<block key="wz_iceexplosion_Name" korean="¼ÅLÇ " />
+	<block key="wz_iceexplosion_description_1" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_2" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_3" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_4" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_5" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_6" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_7" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_8" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_9" korean="XÕ˜°XÇ " />
+	<block key="wz_iceexplosion_description_10" korean="XÕ˜°XÇ " />
+	<block key="wz_writhe_name" korean="¸º€½¼¹" />
+	<block key="wz_writhe_party_name" korean="à¬µÑXÇ " />
+	<block key="wz_writhe_gsparty_name" korean="à¬µÑXÇ " />
+	<block key="wz_writhe_description_1" korean="„¼Õ" />
+	<block key="wz_waterforce_name" korean="ô¼8ÖÂÉ¹" />
+	<block key="wz_waterforce_description_1" korean="„¼Õ" />
+	<block key="wz_waterforce2_name" korean="ô¼8ÖÂÉ¹" />
+	<block key="wz_waterforce2_description_1" korean="„¼Õ" />
+	<block key="wz_waterforce3_name" korean="ô¼8ÖÂÉ¹" />
+	<block key="wz_waterforce3_description_1" korean="„¼Õ" />
+	<block key="wz_pain_name" korean="à¬µÑ" />
+	<block key="wz_pain_description_1" korean="µ„¼Õ" />
+	<block key="wz_pain_description_2" korean="µ„¼Õ" />
+	<block key="wz_pain_description_3" korean="µ„¼Õ" />
+	<block key="wz_pain_description_4" korean="µ„¼Õ" />
+	<block key="wz_pain_description_5" korean="µ„¼Õ" />
+	<block key="wz_twinkle_name" korean="[¾4»¬¹" />
+	<block key="wz_twinkle_description_1" korean="„¼Õ" />
+	<block key="wz_twinkle_party_name" korean="[¾4»¬¹" />
+	<block key="wz_frontteleport2_name" korean="Â¬tÇÙ³" />
+	<block key="wz_frontteleport2_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_lightforce_name" korean="[¾XÇ0®´Æ" />
+	<block key="wz_lightforce_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_lightforce2_name" korean="[¾XÇ0®´Æ" />
+	<block key="wz_lightforce2_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_lightforce3_name" korean="[¾XÇ0®´Æ" />
+	<block key="wz_lightforce3_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_fireharpooncmlink_name" korean="TÖüÅ‘Ç´À" />
+	<block key="wz_fireharpooncmlink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_fireharpooncslink_name" korean="TÖüÅ‘Ç´À" />
+	<block key="wz_fireharpooncslink_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_frontteleport_name" korean="[¾XÇ " />
+	<block key="wz_frontteleport_description_1" korean="^Å<Ç\¸ " />
+	<block key="wz_backteleport_name" korean="[¾XÇ " />
+	<block key="wz_backteleport_description_1" korean="¤´\¸ " />
+	<block key="wz_backteleport2_name" korean="Â¬tÇÙ³" />
+	<block key="wz_backteleport2_description_1" korean="´°€½p³tÇ0Ñ" />
+	<block key="wz_darkforce_name" korean="´Å`´XÇ0®´Æ" />
+	<block key="wz_darkforce_description_1" korean="„¼Õ" />
+	<block key="wz_darkforce2_name" korean="´Å`´XÇ0®´Æ" />
+	<block key="wz_darkforce2_description_1" korean="„¼Õ" />
+	<block key="wz_darkforce3_name" korean="´Å`´XÇ0®´Æ" />
+	<block key="wz_darkforce3_description_1" korean="„¼Õ" />
+	<block key="wz_fireforce_name" korean="ˆ½XÇ0®´Æ" />
+	<block key="wz_fireforce_description_1" korean="„¼Õ" />
+	<block key="wz_fireforce2_name" korean="ˆ½XÇ0®´Æ" />
+	<block key="wz_fireforce2_description_1" korean="„¼Õ" />
+	<block key="wz_fireforce3_name" korean="ˆ½XÇ0®´Æ" />
+	<block key="wz_fireforce3_description_1" korean="„¼Õ" />
+	<block key="wz_2handstaff_Name" korean="‘ÅÁÀÉ!ÓtÇ " />
+	<block key="wz_2handstaff_description_1" korean="‘ÅÁÀÉ!ÓtÇ|¹ " />
+	<block key="wz_cloth_Name" korean="œÌ " />
+	<block key="wz_cloth_description_1" korean="œÌ " />
+	<block key="wz_firearrowchange_name" korean="ˆ½C¯ " />
+	<block key="wz_firearrowchange_description_1" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_1_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_2" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_2_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_3" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_3_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_4" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_4_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_5" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_5_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_6" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_6_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_7" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_7_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_8" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_8_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_9" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_9_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_10" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_10_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_11" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_11_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_12" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_12_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_13" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_13_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_14" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_14_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_15" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_15_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_16" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_16_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_17" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_17_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_18" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_18_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_19" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_19_attach_0" korean="
+" />
+	<block key="wz_firearrowchange_description_20" korean="ˆ½ " />
+	<block key="wz_firearrowchange_description_20_attach_0" korean="
+" />
+	<block key="wz_firearrowchange1_name" korean="ˆ½C¯ " />
+	<block key="wz_icegimlet_Name" korean="¼ÅLÇ " />
+	<block key="wz_icegimlet_description_1" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_1_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_2" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_2_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_3" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_3_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_4" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_4_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_5" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_5_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_6" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_6_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_7" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_7_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_8" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_8_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_9" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_9_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_10" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_10_attach_0" korean="
+" />
+	<block key="wz_icegimlet_description_11" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_description_11_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_12" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_12_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_13" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_13_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_14" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_14_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_15" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_15_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_16" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_16_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_17" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_17_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_18" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_18_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_19" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_19_attach_0" korean="
+" />
+	<block key="wz_icegimlet_Description_20" korean="É°0®XÇ " />
+	<block key="wz_icegimlet_Description_20_attach_0" korean="
+" />
+	<block key="wz_handoflight_Name" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_1" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_1_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_2" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_2_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_3" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_3_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_4" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_4_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_5" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_5_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_6" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_6_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_7" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_7_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_8" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_8_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_9" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_9_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_10" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_10_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_11" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_11_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_12" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_12_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_13" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_13_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_14" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_14_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_15" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_15_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_16" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_16_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_17" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_17_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_18" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_18_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_19" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_19_attach_0" korean="
+" />
+	<block key="wz_handoflight_description_20" korean="[¾XÇ " />
+	<block key="wz_handoflight_description_20_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_Name" korean="íÓôÅÄÐ" />
+	<block key="wz_fireharpooncs_description_1" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_1_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_2" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_2_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_3" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_3_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_4" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_4_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_5" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_5_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_6" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_6_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_7" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_7_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_8" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_8_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_9" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_9_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_10" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_10_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_11" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_11_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_12" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_12_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_13" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_13_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_14" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_14_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_15" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_15_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_16" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_16_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_17" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_17_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_18" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_18_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_19" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_19_attach_0" korean="
+" />
+	<block key="wz_fireharpooncs_description_20" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncs_description_20_attach_0" korean="
+" />
+	<block key="wz_fireharpooncl_Name" korean="íÓôÅÄÐ" />
+	<block key="wz_fireharpooncl_description_1" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_2" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_3" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_4" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_5" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_6" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_7" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_8" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_9" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_10" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_11" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_12" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_13" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_14" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_15" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_16" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_17" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_18" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_19" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncl_description_20" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_Name" korean="íÓôÅÄÐ" />
+	<block key="wz_fireharpooncm_description_1" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_2" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_3" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_4" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_5" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_6" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_7" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_8" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_9" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_10" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_11" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_12" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_13" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_14" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_15" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_16" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_17" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_18" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_19" korean="ˆ½XÇ " />
+	<block key="wz_fireharpooncm_description_20" korean="ˆ½XÇ " />
+	<block key="wz_painofdark_Name" korean="´Å`´XÇ " />
+	<block key="wz_painofdark_description_1" korean="" />
+	<block key="wz_painofdark_description_2" korean="" />
+	<block key="wz_painofdark_description_3" korean="" />
+	<block key="wz_painofdark_description_4" korean="" />
+	<block key="wz_painofdark_description_5" korean="" />
+	<block key="wz_painofdark_description_6" korean="" />
+	<block key="wz_painofdark_description_7" korean="" />
+	<block key="wz_painofdark_description_8" korean="" />
+	<block key="wz_painofdark_description_9" korean="" />
+	<block key="wz_painofdark_description_10" korean="" />
+	<block key="wz_painofdark_description_11" korean="" />
+	<block key="wz_painofdark_description_12" korean="" />
+	<block key="wz_painofdark_description_13" korean="" />
+	<block key="wz_painofdark_description_14" korean="" />
+	<block key="wz_painofdark_description_15" korean="" />
+	<block key="wz_painofdark_description_16" korean="" />
+	<block key="wz_painofdark_description_17" korean="" />
+	<block key="wz_painofdark_description_18" korean="" />
+	<block key="wz_painofdark_description_19" korean="" />
+	<block key="wz_painofdark_description_20" korean="" />
+	<block key="wz_calllighting_Name" korean="[¾XÇ " />
+	<block key="wz_calllighting_description_1" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_2" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_3" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_4" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_5" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_6" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_7" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_8" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_9" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_10" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_handofdeath_Name" korean="ýÈLÇXÇ " />
+	<block key="wz_handofdeath_description_1" korean="" />
+	<block key="wz_handofdeath_description_2" korean="" />
+	<block key="wz_handofdeath_description_3" korean="" />
+	<block key="wz_handofdeath_description_4" korean="" />
+	<block key="wz_handofdeath_description_5" korean="" />
+	<block key="wz_handofdeath_description_6" korean="" />
+	<block key="wz_handofdeath_description_7" korean="" />
+	<block key="wz_handofdeath_description_8" korean="" />
+	<block key="wz_handofdeath_description_9" korean="" />
+	<block key="wz_handofdeath_description_10" korean="" />
+	<block key="wz_firemissilecs_Name" korean="TÖüÅ " />
+	<block key="wz_firemissilecs_description_1" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_1_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_2" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_2_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_3" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_3_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_4" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_4_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_5" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_5_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_6" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_6_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_7" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_7_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_8" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_8_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_9" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_9_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_10" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_10_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_11" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_11_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_12" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_12_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_13" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_13_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_14" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_14_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_15" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_15_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_16" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_16_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_17" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_17_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_18" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_18_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_19" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_19_attach_0" korean="
+" />
+	<block key="wz_firemissilecs_description_20" korean="ˆ½ " />
+	<block key="wz_firemissilecs_description_20_attach_0" korean="
+" />
+	<block key="wz_fogoffreezing_Name" korean="Y¾°¬XÇ " />
+	<block key="wz_fogoffreezing_description_1" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_2" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_3" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_4" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_5" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_6" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_7" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_8" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_9" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_10" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_11" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_12" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_13" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_14" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_15" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_16" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_17" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_18" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_19" korean="ÇàÂDÇ " />
+	<block key="wz_fogoffreezing_description_20" korean="ÇàÂDÇ " />
+	<block key="wz_firearrow_Name" korean="ˆ½C¯ " />
+	<block key="wz_firearrow_description_1" korean="ˆ½ " />
+	<block key="wz_firearrow_description_1_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_2" korean="ˆ½ " />
+	<block key="wz_firearrow_description_2_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_3" korean="ˆ½ " />
+	<block key="wz_firearrow_description_3_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_4" korean="ˆ½ " />
+	<block key="wz_firearrow_description_4_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_5" korean="ˆ½ " />
+	<block key="wz_firearrow_description_5_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_6" korean="ˆ½ " />
+	<block key="wz_firearrow_description_6_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_7" korean="ˆ½ " />
+	<block key="wz_firearrow_description_7_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_8" korean="ˆ½ " />
+	<block key="wz_firearrow_description_8_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_9" korean="ˆ½ " />
+	<block key="wz_firearrow_description_9_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_10" korean="ˆ½ " />
+	<block key="wz_firearrow_description_10_attach_0" korean="
+" />
+	<block key="wz_firearrow_description_11" korean="ˆ½ " />
+	<block key="wz_firearrow_description_11_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_12" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_12_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_13" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_13_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_14" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_14_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_15" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_15_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_16" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_16_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_17" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_17_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_18" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_18_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_19" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_19_attach_0" korean="
+" />
+	<block key="wz_firearrow_Description_20" korean="ˆ½ " />
+	<block key="wz_firearrow_Description_20_attach_0" korean="
+" />
+	<block key="wz_hevryrain_Name" korean="ŒÁ˜°0®" />
+	<block key="wz_hevryrain_description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrain_description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_Name" korean="TÖüÅ " />
+	<block key="wz_meteorshower_description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshower_description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_contract_name" korean="Y¾°¬XÇ " />
+	<block key="wz_contract_Description_1" korean="ÇàÂÐÅŒ¬ " />
+	<block key="wz_shockwave_name" korean="©Í©¬XÇ " />
+	<block key="wz_shockwave_Description_1" korean="¼å²DÇ " />
+	<block key="wz_iceharpooncs_name" korean="É°ôÅÄÐ" />
+	<block key="wz_iceharpooncs_Description_1" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_1_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_2" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_2_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_3" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_3_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_4" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_4_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_5" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_5_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_6" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_6_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_7" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_7_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_8" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_8_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_9" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_9_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_10" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_10_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_11" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_11_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_12" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_12_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_13" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_13_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_14" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_14_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_15" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_15_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_16" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_16_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_17" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_17_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_18" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_18_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_19" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_19_attach_0" korean="
+" />
+	<block key="wz_iceharpooncs_Description_20" korean="<»XÇ " />
+	<block key="wz_iceharpooncs_Description_20_attach_0" korean="
+" />
+	<block key="wz_iceharpooncl_name" korean="É°ôÅÄÐ" />
+	<block key="wz_fireharpooncm_name" korean="íÓôÅÄÐ" />
+	<block key="wz_iceshower_name" korean="É°0® " />
+	<block key="wz_iceshowerlink_name" korean="É°0® " />
+	<block key="wz_iceshower_Description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshower_Description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_ice missilecl_name" korean="É°0® " />
+	<block key="wz_ice missilecm_name" korean="É°0® " />
+	<block key="wz_ice missilecs_name" korean="É°0® " />
+	<block key="wz_ice missilecs_Description_1" korean="<» " />
+	<block key="wz_ice missilecs_Description_1_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_2" korean="<» " />
+	<block key="wz_ice missilecs_Description_2_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_3" korean="<» " />
+	<block key="wz_ice missilecs_Description_3_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_4" korean="<» " />
+	<block key="wz_ice missilecs_Description_4_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_5" korean="<» " />
+	<block key="wz_ice missilecs_Description_5_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_6" korean="<» " />
+	<block key="wz_ice missilecs_Description_6_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_7" korean="<» " />
+	<block key="wz_ice missilecs_Description_7_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_8" korean="<» " />
+	<block key="wz_ice missilecs_Description_8_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_9" korean="<» " />
+	<block key="wz_ice missilecs_Description_9_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_10" korean="<» " />
+	<block key="wz_ice missilecs_Description_10_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_11" korean="<» " />
+	<block key="wz_ice missilecs_Description_11_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_12" korean="<» " />
+	<block key="wz_ice missilecs_Description_12_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_13" korean="<» " />
+	<block key="wz_ice missilecs_Description_13_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_14" korean="<» " />
+	<block key="wz_ice missilecs_Description_14_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_15" korean="<» " />
+	<block key="wz_ice missilecs_Description_15_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_16" korean="<» " />
+	<block key="wz_ice missilecs_Description_16_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_17" korean="<» " />
+	<block key="wz_ice missilecs_Description_17_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_18" korean="<» " />
+	<block key="wz_ice missilecs_Description_18_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_19" korean="<» " />
+	<block key="wz_ice missilecs_Description_19_attach_0" korean="
+" />
+	<block key="wz_ice missilecs_Description_20" korean="<» " />
+	<block key="wz_ice missilecs_Description_20_attach_0" korean="
+" />
+	<block key="wz_firerain_name" korean="ˆ½XÇ " />
+	<block key="wz_firerainlink1_name" korean="ˆ½XÇ " />
+	<block key="wz_firerainlink2_name" korean="ˆ½XÇ " />
+	<block key="wz_firerain_Description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerain_Description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_fogofblaze_name" korean="TÖüÅXÇ " />
+	<block key="wz_fogofblazelink_name" korean="TÖüÅXÇ " />
+	<block key="wz_fogofblaze_Description_1" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_2" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_3" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_4" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_5" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_6" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_7" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_8" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_9" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_10" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_11" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_12" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_13" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_14" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_15" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_16" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_17" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_18" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_19" korean="ÇàÂDÇ " />
+	<block key="wz_fogofblaze_Description_20" korean="ÇàÂDÇ " />
+	<block key="wz_fireblowup_Name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowup2_Name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowup3_Name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowup4_Name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowup5_Name" korean="TÖüÅíÓ¼" />
+	<block key="fireblowuplink_Name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowup_Description_1" korean="ˆ½XÇ " />
+	<block key="wz_iceblowup_Name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowup2_Name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowup3_Name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowup4_Name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowup5_Name" korean="É°0®íÓ¼" />
+	<block key="iceblowuplink_Name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowup_Description_1" korean="<»XÇ " />
+	<block key="wz_teleport2_name" korean="Â¬tÇÙ³" />
+	<block key="wz_teleport2_Description_1" korean="ÇàÂtÇ " />
+	<block key="wz_teleport3_name" korean="Â¬tÇÙ³" />
+	<block key="wz_teleport3_Description_1" korean="ÇàÂtÇ " />
+	<block key="wz_fireblowupatk_Name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatk_description_1" korean="ÈàÂDÇ " />
+	<block key="wz_iceblowupatk_Name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatk_description_1" korean="ÈàÂDÇ " />
+	<block key="wz_skillbook1_name" korean="È¹%¸ " />
+	<block key="wz_skillbook2_name" korean="ÈàÂ " />
+	<block key="wz_skillbook1_Description_1" korean="Ç" />
+	<block key="wz_skillbook2_Description_1" korean="Ç" />
+	<block key="wz_iceblowupatkbg_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkbg2_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkbg3_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkbg4_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkbg5_name" korean="É°0®íÓ¼" />
+	<block key="wz_fireblowupatkrb_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkrb2_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkrb3_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkrb4_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkrb5_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_iceblowupatkb_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkb2_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkb3_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkb4_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceblowupatkb5_name" korean="É°0®íÓ¼" />
+	<block key="wz_fireblowupatkg_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkg2_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkg3_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkr_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkr2_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkr3_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkr4_name" korean="TÖüÅíÓ¼" />
+	<block key="wz_fireblowupatkr5_name" korean="TÖüÅíÓ¼" />
+	<block key="fireblowupatklink_name" korean="TÖüÅíÓ¼" />
+	<block key="iceblowupatklink1_name" korean="É°0®íÓ¼" />
+	<block key="wz_iceharpooncm_Name" korean="É°ôÅÄÐ" />
+	<block key="firerainlink1_Name" korean="ˆ½XÇ " />
+	<block key="iceshowerlink_Name" korean="É°0®´ÆÁ" />
+	<block key="wz_boardbuffskill_Name" korean="[" />
+	<block key="wz_boardbuffskill_description_1" korean="ÑÐ¹Â " />
+	<block key="wz_hellfire_Name" korean="ÀÉ%Æˆ½8®" />
+	<block key="wz_hellfire1_name" korean="ÀÉ%Æˆ½8®" />
+	<block key="wz_hellfireb_Name" korean="ÀÉ%Æˆ½8®" />
+	<block key="wz_hellfirer_Name" korean="ÀÉ%Æˆ½8®" />
+	<block key="wz_hellfirerb_Name" korean="ÀÉ%Æˆ½8®" />
+	<block key="wz_hellice_Name" korean="ÀÉ%ÆÉ°0®" />
+	<block key="wz_helliceg_Name" korean="ÀÉ%ÆÉ°0®" />
+	<block key="wz_hellicegb_Name" korean="ÀÉ%ÆÉ°0®" />
+	<block key="wz_hellfire_description_1" korean="ˆ½XÇ " />
+	<block key="wz_hellice_description_1" korean="<»XÇ " />
+	<block key="wz_iceshowerlc_name" korean="[" />
+	<block key="wz_iceshowerlc_Description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_iceshowerlc_Description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_name" korean="[" />
+	<block key="wz_firerainlc_Description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_firerainlc_Description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_Name" korean="[" />
+	<block key="wz_hevryrainlc_description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_hevryrainlc_description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_painofdarklc_Name" korean="[" />
+	<block key="wz_painofdarklc_description_1" korean="" />
+	<block key="wz_painofdarklc_description_2" korean="" />
+	<block key="wz_painofdarklc_description_3" korean="" />
+	<block key="wz_painofdarklc_description_4" korean="" />
+	<block key="wz_painofdarklc_description_5" korean="" />
+	<block key="wz_painofdarklc_description_6" korean="" />
+	<block key="wz_painofdarklc_description_7" korean="" />
+	<block key="wz_painofdarklc_description_8" korean="" />
+	<block key="wz_painofdarklc_description_9" korean="" />
+	<block key="wz_painofdarklc_description_10" korean="" />
+	<block key="wz_painofdarklc_description_11" korean="" />
+	<block key="wz_painofdarklc_description_12" korean="" />
+	<block key="wz_painofdarklc_description_13" korean="" />
+	<block key="wz_painofdarklc_description_14" korean="" />
+	<block key="wz_painofdarklc_description_15" korean="" />
+	<block key="wz_painofdarklc_description_16" korean="" />
+	<block key="wz_painofdarklc_description_17" korean="" />
+	<block key="wz_painofdarklc_description_18" korean="" />
+	<block key="wz_painofdarklc_description_19" korean="" />
+	<block key="wz_painofdarklc_description_20" korean="" />
+	<block key="wz_handofdeathlc_Name" korean="[" />
+	<block key="wz_handofdeathlc_description_1" korean="" />
+	<block key="wz_handofdeathlc_description_2" korean="" />
+	<block key="wz_handofdeathlc_description_3" korean="" />
+	<block key="wz_handofdeathlc_description_4" korean="" />
+	<block key="wz_handofdeathlc_description_5" korean="" />
+	<block key="wz_handofdeathlc_description_6" korean="" />
+	<block key="wz_handofdeathlc_description_7" korean="" />
+	<block key="wz_handofdeathlc_description_8" korean="" />
+	<block key="wz_handofdeathlc_description_9" korean="" />
+	<block key="wz_handofdeathlc_description_10" korean="" />
+	<block key="wz_meteorshowerlc_Name" korean="[" />
+	<block key="wz_meteorshowerlc_description_1" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_2" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_3" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_4" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_5" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_6" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_7" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_8" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_9" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_10" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_11" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_12" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_13" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_14" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_15" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_16" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_17" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_18" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_19" korean=" ÁÝÐ\Õ " />
+	<block key="wz_meteorshowerlc_description_20" korean=" ÁÝÐ\Õ " />
+	<block key="wz_fogofblazelink1_name" korean="TÖüÅXÇ " />
+	<block key="wz_fogofblazelink2_name" korean="TÖüÅXÇ " />
+	<block key="wz_fogofblazelink3_name" korean="TÖüÅXÇ " />
+	<block key="wz_fogofblazelink4_name" korean="TÖüÅXÇ " />
+	<block key="wz_fogofblazelink5_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink1_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink2_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink3_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink4_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink5_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink6_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink7_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink8_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink9_name" korean="TÖüÅXÇ " />
+	<block key="fogofblazelink10_name" korean="TÖüÅXÇ " />
+	<block key="arfrozenroad_name" korean="Y¾Ó " />
+	<block key="wz_mpplus_name" korean="[" />
+	<block key="wz_mpplus_description_1" korean="[" />
+	<block key="wz_manashield_name" korean="È¹˜° " />
+	<block key="wz_manashield_description_1" korean="¼@Ç " />
+	<block key="wz_newbies01_Name" korean="ìÅàÂXÇ " />
+	<block key="wz_newbies01_Description_1" korean="ØÅ\¸|· " />
+	<block key="wz_skillbook3_name" korean="Á1ÁXÇ " />
+	<block key="wz_skillbook3_Description_1" korean="Ç" />
+	<block key="wz_blacklight_Name" korean="Q×­XÇ " />
+	<block key="wz_blacklight_description_1" korean="[¾ü¬ " />
+	<block key="wz_toneofmarblecs_Name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneofmarblecs_description_1" korean="Á1ÁXÇ " />
+	<block key="wz_calllighting_description_11" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_12" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_calllighting_description_13" korean="XÕ˜²ÐÅÁ " />
+	<block key="wz_toneoficecl_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficecs_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficecm_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficebcl_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_tondoficebcs_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficebcm_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficebgcl_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficebgcs_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficebgcm_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirecl_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirecs_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirecm_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffiregcl_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffiregcs_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffiregcm_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirercl_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirercs_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirercm_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirergcl_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirergcs_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoffirergcm_name" korean="ÁÀ1ÁXÇ " />
+	<block key="wz_toneoficecs_description_1" korean="<»ü¬ " />
+	<block key="wz_toneoffirecs_description_1" korean="ˆ½ü¬ " />
+	<block key="wz_baelike_name" korean="[¾XÇ " />
+	<block key="wz_baeliker_name" korean="[¾XÇ " />
+	<block key="wz_baelikerb_name" korean="[¾XÇ " />
+	<block key="wz_baelikerg_name" korean="[¾XÇ " />
+	<block key="wz_baelikergb_name" korean="[¾XÇ " />
+	<block key="wz_baelikeb_name" korean="[¾XÇ " />
+	<block key="wz_baelikeg_name" korean="[¾XÇ " />
+	<block key="wz_baelikegb_name" korean="[¾XÇ " />
+	<block key="wz_baelikelink_name" korean="[¾XÇ " />
+	<block key="wz_baelikelink1_name" korean="[¾XÇ " />
+	<block key="wz_baelike_description_1" korean="[¾XÇ " />
+	<block key="wz_glory_name" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_1" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_2" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_3" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_4" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_5" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_6" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_7" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_8" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_9" korean="ÇÇÜ´XÇ " />
+	<block key="wz_glory_description_10" korean="ÇÇÜ´XÇ " />
+</blocks>

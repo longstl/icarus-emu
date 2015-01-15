@@ -18,8 +18,8 @@ void SM_STARTGAME(PACKET* pck, int character_id)
 //	pck->writeD(0x001356e2);
 	pck->writeD(0xa146a5a6);
 	pck->PackSend(OPCODE_SM_STARTGAME);
-	Sleep(5000);
-	pck->Disconnect();
+//	Sleep(5000);
+//	pck->Disconnect();
 }
 #endif
 

@@ -1,0 +1,262 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="area_sp_s_0001_name" korean="Player registration and resurrection Position 1" />
+	<block key="area_sp_q_0001_name" korean="Head-to-Rex" />
+	<block key="area_sp_q_0002_name" korean="To craft" />
+	<block key="area_sp_r_0001_name" korean="Resurrection position 2" />
+	<block key="area_sp_q_0005_name" korean="Escape" />
+	<block key="area_f01_p_1001_name" korean="Shenron Knights Camp" />
+	<block key="area_f01_p_1002_name" korean="Historic ruins" />
+	<block key="area_f01_p_1003_name" korean="Brilliance forest camp" />
+	<block key="area_f01_p_0001_name" korean="Timberlake not felling" />
+	<block key="area_f01_p_0002_name" korean="Fire exit ruins swallowed" />
+	<block key="area_f01_p_0003_name" korean="Canas passage and exit" />
+	<block key="area_f01_q_0002_name" korean="Trees around the lake brilliance" />
+	<block key="area_f01_q_0003_name" korean="Context of the view that the truth potion" />
+	<block key="area_f01_q_0004_name" korean="The leakage escort Quest" />
+	<block key="area_f01_q_0005_name" korean="Not crashed around the pond" />
+	<block key="area_f01_q_0006_name" korean="Black Panther appeared place" />
+	<block key="area_f01_q_0011_name" korean="The leakage ambassador 1" />
+	<block key="area_f01_q_0012_name" korean="The leakage metabolism 2" />
+	<block key="area_f01_q_0013_name" korean="The leakage metabolism 3" />
+	<block key="area_f01_r_0001_name" korean="Shenron Knights camp resurrection point" />
+	<block key="area_f01_r_0002_name" korean="Historic ruins resurrection point" />
+	<block key="area_f01_r_0003_name" korean="Sparkly Tree camp resurrection point" />
+	<block key="area_f01_r_0004_name" korean="Resurrection point remains lit swallowed" />
+	<block key="area_f01_r_0005_name" korean="Resurrection point airship crash site" />
+	<block key="area_f01_warp_0001_name" korean="Fire swallowed ruins position" />
+	<block key="area_f01_warp_0002_name" korean="Canas passage and entrance" />
+	<block key="area_dc_p_0001_name" korean="Pitch-black cave" />
+	<block key="area_bd_p_0001_name" korean="Temple of the Dragon patron" />
+	<block key="area_dl_p_0001_name" korean="Lava underclass" />
+	<block key="area_hk_q_0001_name" korean="Young shepherds quest starts here" />
+	<block key="area_hk_q_0002_name" korean="Quest young shepherds end position" />
+	<block key="area_hk_q_0003_name" korean="Weary soldiers end position" />
+	<block key="area_hk_q_0004_name" korean="Confidence end position" />
+	<block key="area_hk_q_0005_name" korean="End position for the ladies" />
+	<block key="area_fr_q_0001_name" korean="Red spells seat use position" />
+	<block key="area_fr_q_0002_name" korean="Blue magic spells using three position" />
+	<block key="area_fr_q_0003_name" korean="Blue spells seat use position" />
+	<block key="area_fr_q_0004_name" korean="Yellow spell seat use position" />
+	<block key="area_fr_q_0005_name" korean="Using the location of the memory book" />
+	<block key="area_fr_q_0007_name" korean="Gender nine minutes using Quest" />
+	<block key="area_st_r_001_name" korean="Reed wind village gwihwanseok" />
+	<block key="area_st_r_002_name" korean="Garrison seriously gwihwanseok" />
+	<block key="area_st_r_003_name" korean="Pirates resurrection cattle" />
+	<block key="area_st_r_004_name" korean="Lake of Life temporary services ..." />
+	<block key="area_st_r_006_name" korean="Wailing Cliffs Village temporary services ..." />
+	<block key="area_st_r_007_name" korean="Blue Moonlight town gwihwanseok" />
+	<block key="area_sf_p_0002_name" korean="Shenron Templar garrison" />
+	<block key="area_sf_p_0004_name" korean="Ancient Ruins Convenience post" />
+	<block key="area_sf_p_0005_name" korean="Brilliance forest camp" />
+	<block key="area_st_p_0011_name" korean="Reed wind village" />
+	<block key="area_st_p_0012_name" korean="Garrison seriously" />
+	<block key="area_st_p_0013_name" korean="Lake of Life" />
+	<block key="area_st_p_0014_name" korean="Wailing Cliffs Village" />
+	<block key="area_st_p_0015_name" korean="Blue Moonlight town" />
+	<block key="area_c01_p_1001_name" korean="Plaza of Victory" />
+	<block key="area_c01_p_1002_name" korean="Ellora Sanctuary" />
+	<block key="area_c01_p_1003_name" korean="The quiet plains (East)" />
+	<block key="area_c01_p_1004_name" korean="Valley of the Forgotten Ruins" />
+	<block key="area_c01_p_1005_name" korean="Quiet of the plains (Southern)" />
+	<block key="area_c01_p_0001_name" korean="Canas capital castle gates and front door" />
+	<block key="area_c01_p_0002_name" korean="Canas capital castle gates and alumni" />
+	<block key="area_c01_p_0003_name" korean="Rugged adventurer harbor" />
+	<block key="area_c01_p_0004_name" korean="Plaza of Victory" />
+	<block key="area_c01_p_0005_name" korean="Valley of the Forgotten Ruins" />
+	<block key="area_c01_r_0001_name" korean="Plaza of Victory" />
+	<block key="area_c01_r_0002_name" korean="The quiet plains (East)" />
+	<block key="area_f02_p_1001_name" korean="Kell Woods Village" />
+	<block key="area_f02_p_1002_name" korean="Surf's mountain refuge camp" />
+	<block key="area_f02_p_1003_name" korean="Garrison Woods Roar" />
+	<block key="area_f02_p_0001_name" korean="Karl reang mansion entrance" />
+	<block key="area_f02_p_0002_name" korean="Frozen ruins entrance" />
+	<block key="area_f02_p_0003_name" korean="Canas capital castle gates and front door" />
+	<block key="area_f02_p_0004_name" korean="Canas capital castle gates and alumni" />
+	<block key="area_f02_r_0001_name" korean="Refugee camp" />
+	<block key="area_f02_r_0002_name" korean="Northern Guard Tower" />
+	<block key="area_f02_r_0003_name" korean="Kell Woods Village" />
+	<block key="area_f02_r_0004_name" korean="Garrison Woods Roar" />
+	<block key="area_f02_r_0005_name" korean="Land camp of turbulence" />
+	<block key="area_f02_r_0006_name" korean="Sleep is a refugee camp" />
+	<block key="area_d00_r_0001_name" korean="Peheo ruins entrance" />
+	<block key="area_d01_p_0001_name" korean="Castle entrance" />
+	<block key="area_fr_r_0001_name" korean="Frozen ruins entrance" />
+	<block key="area_c01_p_3001_name" korean="Plaza of Victory" />
+	<block key="area_c01_p_3002_name" korean="Canas and public marina" />
+	<block key="area_c01_p_3003_name" korean="Canas and front door" />
+	<block key="area_c01_p_3004_name" korean="Fellow Institute" />
+	<block key="area_c01_p_3005_name" korean="Water Castle Guard" />
+	<block key="area_f00_p_0001_name" korean="Noeok pain confinement room" />
+	<block key="area_f01_e01_r_001_name" korean="Scenario channel inlet" />
+	<block key="area_f01_e02_r_001_name" korean="Historic ruins North Entrance" />
+	<block key="area_f04_p_1002_name" korean="Turbulent sea" />
+	<block key="area_f04_p_1001_name" korean="Aerial scout camp" />
+	<block key="area_f04_p_1003_name" korean="Ellora giant stone statues" />
+	<block key="area_f04_r_0001_name" korean="Turbulent sea" />
+	<block key="area_f04_r_0002_name" korean="Canas and high-altitude reconnaissance camp" />
+	<block key="area_f04_r_0003_name" korean="Gargoyle credit Destroyed" />
+	<block key="area_f04_p_5001_name" korean="Airspace of destruction" />
+	<block key="area_c01_p_5001_name" korean="Canas and also sex" />
+	<block key="area_f02_p_0005_name" korean="Remains lit entrance swallowed" />
+	<block key="area_d00_p_0003_name" korean="Seongseok ruins light the fire swallowed" />
+	<block key="area_d01_p_0002_name" korean="Karl's mansion reang light seongseok" />
+	<block key="area_d02_p_0002_name" korean="Seongseok ruins of frozen light" />
+	<block key="area_f04_q_0001_name" korean="Sea Swirl" />
+	<block key="area_f04_q_0002_name" korean="Stone statue of the goddess" />
+	<block key="area_c01_p_1006_name" korean="Canas and public marina" />
+	<block key="area_f04_p_0001_name" korean="Turbulent sea" />
+	<block key="area_f04_p_0002_name" korean="Aerial scout camp" />
+	<block key="area_f04_p_0003_name" korean="Gargoyle credit Destroyed" />
+	<block key="area_c01_r_0003_name" korean="Blue flower essences through shops" />
+	<block key="area_f03_p_0001_name" korean="Reed wind village" />
+	<block key="area_f03_r_0001_name" korean="Ice castle entrance of Rondo" />
+	<block key="area_d04_ec_0001_name" korean="Ice Castle keotsin event of Rondo" />
+	<block key="area_f03_p_0002_name" korean="Garrison Garrison" />
+	<block key="area_f03_p_0003_name" korean="Wailing Cliffs Village" />
+	<block key="area_f03_p_0004_name" korean="The wave lakh estates" />
+	<block key="area_f03_p_0005_name" korean="Lake of Life" />
+	<block key="area_d02_p_0001_name" korean="Len ruins Mart entrance" />
+	<block key="area_f03_r_0002_name" korean="Reed wind village" />
+	<block key="area_f03_r_0003_name" korean="Lake of Life" />
+	<block key="area_f03_r_0004_name" korean="Guard base" />
+	<block key="area_f03_r_0005_name" korean="The wave lakh estates" />
+	<block key="area_f03_r_0006_name" korean="Wailing Cliffs Village" />
+	<block key="area_f03_ec_0001_name" korean="Pirate ship entrance" />
+	<block key="area_f03_01_q_0001_name" korean="Captain Encounter" />
+	<block key="area_f04_p_1004_name" korean="Temple lost light" />
+	<block key="area_f04_p_1005_name" korean="Forgotten Dragon Land" />
+	<block key="area_d11_s_0001_name" korean="Player registration and resurrection Position 1" />
+	<block key="area_d11_s_0002_name" korean="Ambush position 1" />
+	<block key="area_d11_s_0003_name" korean="Ambush position 2" />
+	<block key="area_d11_s_0004_name" korean="Ambush position 3" />
+	<block key="area_c01_warp_0004_name" korean="Canas and also sex" />
+	<block key="area_st_p_001_name" korean="Parque my land" />
+	<block key="area_f03_p_1001_name" korean="Wrapped in a veil cave entrance" />
+	<block key="area_d03_p_0001_name" korean="Cave Entrance" />
+	<block key="area_f03_ec_2002_name" korean="Blue Moonlight town" />
+	<block key="area_f03_p_0006_name" korean="Entrance to the fort wave lakh ice" />
+	<block key="area_d03_p_0003_name" korean="Temple entrance" />
+	<block key="area_d02_p_0003_name" korean="Blizzard hit mine road" />
+	<block key="area_f03_r_0007_name" korean="Pirates home to the coast" />
+	<block key="area_d04_p_0001_name" korean="Ice Citadel Entrance" />
+	<block key="area_f04_r_0004_name" korean="Temple lost light" />
+	<block key="area_f04_r_0005_name" korean="Forgotten Dragon Land" />
+	<block key="area_f09_r_0001_name" korean="Garrison Garrison" />
+	<block key="area_f09_r_0002_name" korean="Bar Fort Ellis" />
+	<block key="area_f09_r_0003_name" korean="Aerial Farm" />
+	<block key="area_f09_r_0004_name" korean="Scout is guard post" />
+	<block key="area_f09_p_0001_name" korean="Garrison Garrison" />
+	<block key="area_f09_p_0002_name" korean="Bar Fort Ellis" />
+	<block key="area_p01_p_1001_name" korean="Gateway to the Truth" />
+	<block key="area_d03_e_0001_name" korean="Cave Entrance" />
+	<block key="area_p01_p_001_name" korean="Gateway to the Truth" />
+	<block key="area_f15_r_0001_name" korean="Large wind Island" />
+	<block key="area_f15_p_1001_name" korean="Large wind Island" />
+	<block key="area_f16_p_1001_name" korean="Chains for inside" />
+	<block key="area_f09_p_1001_name" korean="God barriers" />
+	<block key="area_f09_p_1002_name" korean="Chains for external" />
+	<block key="area_f09_r_0005_name" korean="Blue Coral Island" />
+	<block key="area_c01_q_003_name" korean="Water St. North Gate" />
+	<block key="area_c01_nor_0002_name" korean="Ellora Sanctuary" />
+	<block key="area_c01_p_5005_name" korean="Exergy grown lawless entrance" />
+	<block key="area_c01_p_1007_name" korean="Canas and also gender alumni" />
+	<block key="area_c01_p_1008_name" korean="Canas and also St. North Gate" />
+	<block key="area_c01_p_1009_name" korean="Business District" />
+	<block key="area_c01_p_1010_name" korean="Industrial District" />
+	<block key="area_c01_p_1011_name" korean="Guild Management Office" />
+	<block key="area_f02_p_1004_name" korean="Forest Camp in abundance" />
+	<block key="area_f02_p_1005_name" korean="Sleep is a refugee camp" />
+	<block key="area_f02_p_1006_name" korean="Northern Guard Tower" />
+	<block key="area_f02_p_1007_name" korean="Land of turbulence" />
+	<block key="area_f09_p_0005_name" korean="Aerial Farm" />
+	<block key="area_f09_p_0006_name" korean="Rainbow Coral Reef" />
+	<block key="area_f03_p_0007_name" korean="Pirates home entrance" />
+	<block key="area_f03_p_0008_name" korean="Back entrance of the valley" />
+	<block key="area_f03_p_0009_name" korean="Pardo and floating island" />
+	<block key="area_f04_p_1006_name" korean="Sea of ​​Greed" />
+	<block key="area_p01_ReturnP_001_name" korean="Gateway to the Truth" />
+	<block key="area_p01_ReturnP_002_name" korean="Halo camp" />
+	<block key="area_p01_ReturnP_003_name" korean="Red shadow post" />
+	<block key="area_f04_p_1007_name" korean="Niche entrance of airspace" />
+	<block key="area_p01_p_002_name" korean="Red shadow post" />
+	<block key="area_p01_p_003_name" korean="Halo camp" />
+	<block key="area_p01_p_004_name" korean="Camp of turbulence" />
+	<block key="area_p01_ReturnP_004_name" korean="Camp of turbulence" />
+	<block key="area_d03_n_p_001_name" korean="Front undersea temple" />
+	<block key="area_d03_n_warp_0002_name" korean="Cave Entrance" />
+	<block key="area_f09_n_warp_0001_name" korean="And Canas for" />
+	<block key="area_f04_p_9001_name" korean="Clearance of airspace" />
+	<block key="area_f04_p_9002_name" korean="Airspace of destruction" />
+	<block key="area_d22_SafeWarp_01_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_02_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_03_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_04_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_05_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_06_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_07_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_11_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_12_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_13_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_14_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_15_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_16_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_17_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_51_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_52_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_61_name" korean="Secret passage" />
+	<block key="area_d22_SafeWarp_62_name" korean="Secret passage" />
+	<block key="area_d22_warp_013_name" korean="Secret passage" />
+	<block key="area_f98_p001_name" korean="East of the stands" />
+	<block key="area_f98_p002_name" korean="East of the waiting room" />
+	<block key="area_f98_p003_name" korean="East side of the stadium" />
+	<block key="area_f98_p004_name" korean="The west side of the stands" />
+	<block key="area_f98_p005_name" korean="The west side of the waiting room" />
+	<block key="area_f98_p006_name" korean="The west side of the stadium" />
+	<block key="area_f98_p007_name" korean="Cartel" />
+	<block key="area_f05_p_0001_name" korean="Al Gocek town" />
+	<block key="area_f05_p_0002_name" korean="Tears of Oasis" />
+	<block key="area_f05_p_0003_name" korean="Mine temporary camp" />
+	<block key="area_f05_p_0004_name" korean="Golden Peaks" />
+	<block key="area_f05_p_0005_name" korean="Temple dispatched camp" />
+	<block key="area_f05_p_0006_name" korean="Kuhn barracks Croix district" />
+	<block key="area_f05_p_0007_name" korean="Village of hermits" />
+	<block key="area_d02_b_po_02_name" korean="Santin's cellar" />
+	<block key="area_d13_p_1001_name" korean="Temple" />
+	<block key="area_d13_p_9999_name" korean="Scott sealed rasya" />
+	<block key="area_f05_warp_0001_name" korean="Ancient Temple" />
+	<block key="area_f05_p_9001_name" korean="Ancient Temple" />
+	<block key="area_f05_p_5001_name" korean="Desert of immortality" />
+	<block key="area_f05_warp_0002_name" korean="Immortal Legion fort entrance" />
+	<block key="area_f05_p_9101_name" korean="Immortal Legion fort entrance" />
+	<block key="area_d06_warp_0001_name" korean="Desert of immortality" />
+	<block key="area_d06_r_0001_name" korean="Immortal Legion fort resurrection" />
+	<block key="area_d06_p_0001_name" korean="Riding the lower zone" />
+	<block key="area_d06_p_9001_name" korean="Immortal Legion fort entrance area" />
+	<block key="area_d06_ec_0001_name" korean="Control Room zombies" />
+	<block key="area_d06_ec_0002_name" korean="Engine room Zombies" />
+	<block key="area_d06_ec_0003_name" korean="Summon Zombie Room" />
+	<block key="area_f06_start_01_name" korean="Peck Tura entrance" />
+	<block key="area_f06_start_L_01_name" korean="Cloister of steel defense" />
+	<block key="area_f06_start_R_01_name" korean="Cloister of elemental resistance" />
+	<block key="area_f06_end_L_01_name" korean="Cloister of steel defense" />
+	<block key="area_f06_end_R_01_name" korean="Cloister of elemental resistance" />
+	<block key="area_f06_end_01_name" korean="Peck Tura lower entrance" />
+	<block key="area_f06_MBoss_01_name" korean="Peck Tura design room entrance" />
+	<block key="area_f06_MBoss_Start_01_name" korean="Peck Tura design rooms of Vilma" />
+	<block key="area_f06_ug_01_name" korean="Peck et Natura bridge" />
+	<block key="area_f06_ug_start_01_name" korean="Death squads camp" />
+	<block key="area_f06_mboss_s_01_name" korean="Design room of Vilma" />
+	<block key="area_f06_boss_s_01_name" korean="Peck Tura top" />
+	<block key="area_f05_p_9201_name" korean="Peck Tura dungeon entrance" />
+	<block key="area_f06_ug_02_name" korean="Peck et Natura bridge entrance" />
+	<block key="area_f05_p_0008_name" korean="Not fortress" />
+	<block key="area_f05_p_0009_name" korean="Fort out" />
+	<block key="area_f06_poison_01_name" korean="Dock area" />
+</blocks>

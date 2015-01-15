@@ -1,0 +1,95 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="map_c01_enter_0" korean="Á€½ " />
+	<block key="map_c01_enter_1" korean="¹Â¬¹XÇ " />
+	<block key="map_c01_enter_2" korean="ÁÀÅÅ " />
+	<block key="map_c01_enter_3" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_forge_0" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_forge_1" korean="õ¬ÅÅ " />
+	<block key="map_c01_forge_2" korean="¹Â¬¹XÇ " />
+	<block key="map_c01_west_0" korean="¨°€½ " />
+	<block key="map_c01_west_1" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_west_2" korean=" Ó\¸°Æ " />
+	<block key="map_c01_fellow_0" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_fellow_1" korean=" Ó\¸°Æ " />
+	<block key="map_c01_fellow_2" korean="Á€½ " />
+	<block key="map_c01_road01_0" korean="Á€½ " />
+	<block key="map_c01_road01_1" korean="¹Â¬¹XÇ " />
+	<block key="map_c01_road01_2" korean="ÁÀÅÅ " />
+	<block key="map_c01_road01_3" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_square01_0" korean="Á€½ " />
+	<block key="map_c01_square01_1" korean="Æ­XÇ " />
+	<block key="map_c01_square02_0" korean="Æ­XÇ " />
+	<block key="map_c01_square02_1" korean="½¬D¾" />
+	<block key="map_c01_square03_0" korean="½¬ä¹¥Ç " />
+	<block key="map_c01_square03_1" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_square03_2" korean="½¬D¾" />
+	<block key="map_c01_square03_3" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_castle01_0" korean="¹Â¬¹XÇ " />
+	<block key="map_c01_castle01_1" korean="¼ØÅ|·¤Â " />
+	<block key="map_c01_castle01_2" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_castle02_0" korean="UÆm­ " />
+	<block key="map_c01_castle02_1" korean="ØÅ\¸|· " />
+	<block key="map_c01_castle02_2" korean="¼ØÅ|·¤Â " />
+	<block key="map_c01_castle02_3" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_castle03_0" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_castle03_1" korean="ØÅ\¸|· " />
+	<block key="map_c01_castle04_0" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_castle04_1" korean="UÆm­ " />
+	<block key="map_c01_castle04_2" korean="ØÅ\¸|· " />
+	<block key="map_c01_east01_0" korean="õ¬ÅÅ " />
+	<block key="map_c01_east01_1" korean="ÁÀÅÅ " />
+	<block key="map_c01_east01_2" korean="Ù³€½ " />
+	<block key="map_c01_east02_0" korean="ÁÀÅÅ " />
+	<block key="map_c01_east02_1" korean="½¬D¾" />
+	<block key="map_c01_east02_2" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_east02_3" korean="Ù³€½ " />
+	<block key="map_c01_plain01_0" korean="ÂÄ³1Á " />
+	<block key="map_c01_plain01_1" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_plain01_2" korean="p¬\Î " />
+	<block key="map_c01_plain02_0" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_plain02_1" korean="p¬\Î " />
+	<block key="map_c01_plain02_2" korean="ÂÄ³1Á " />
+	<block key="map_c01_plain03_0" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_plain03_1" korean="ØÅø­¸xÇ " />
+	<block key="map_c01_plain03_2" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_plain04_0" korean="ØÅø­¸xÇ " />
+	<block key="map_c01_plain04_1" korean="8®Ü´ " />
+	<block key="map_c01_plain04_2" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_plain05_0" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_plain05_1" korean="ØÅø­¸xÇ " />
+	<block key="map_c01_plain05_2" korean="8®Ü´ " />
+	<block key="map_c01_plain06_0" korean="Æ­XÇ " />
+	<block key="map_c01_plain06_1" korean="XÕtÎ˜°¤Â " />
+	<block key="map_c01_plain06_2" korean="8®Ü´ " />
+	<block key="map_f02_four_0" korean="Ï°ÆˆÉ " />
+	<block key="map_f02_four_1" korean="½€½ " />
+	<block key="map_f02_four_2" korean="Ï°ÆˆÉ " />
+	<block key="map_f02_two_0" korean="Ï°ÆˆÉ " />
+	<block key="map_f02_two_1" korean="Â8Ö " />
+	<block key="map_f03_first_0" korean="tÕÈè² " />
+	<block key="map_f03_first_1" korean="ÝÀ…ºXÇ " />
+	<block key="map_f03_first_2" korean="¬" />
+	<block key="map_f03_second_0" korean="À¼ÈÇXÇ " />
+	<block key="map_f03_second_1" korean="µÑá¬ " />
+	<block key="map_f03_second_2" korean="íÓìÓ " />
+	<block key="map_f03_three_0" korean="íÓìÓ " />
+	<block key="map_f03_three_1" korean="À¼ÈÇXÇ " />
+	<block key="map_f03_three_2" korean="µÑá¬ " />
+	<block key="map_f03_four_0" korean="íÓìÓ " />
+	<block key="map_f03_four_1" korean="Ó|¹|·lÐ " />
+	<block key="map_f03_four_2" korean="µÑá¬ " />
+	<block key="map_f03_five_0" korean="Ó|¹|·lÐ " />
+	<block key="map_f03_five_1" korean="xÔx¹ " />
+	<block key="map_f03_five_2" korean="íÓìÓ " />
+	<block key="map_f03_first01_0" korean="À¼ÈÇXÇ " />
+	<block key="map_f03_first01_1" korean="¬" />
+	<block key="map_f03_first01_2" korean="ÝÀ…ºXÇ " />
+	<block key="map_f03_first01_3" korean="µÑá¬ " />
+</blocks>

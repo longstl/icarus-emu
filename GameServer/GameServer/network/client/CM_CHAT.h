@@ -8,8 +8,6 @@
 inline void CM_CHAT(PACKET* pck)
 {	
 	char str[1024];
-	int8 cryptflag = pck->readW();
-	
 	uint32 unk2 = pck->readD();
 	uint32 unk3 = pck->readD();
 	uint32 unk4 = pck->readD();
@@ -21,24 +19,24 @@ inline void CM_CHAT(PACKET* pck)
 	uint32 unk10 = pck->readD();
 	uint32 unk11 = pck->readD();
 	uint16 unk12 = pck->readW();
-	int len = pck->read2Str(str);
+	int len = pck->read2Str(str);	
 
 	uint8 byte = str[0];
 	switch (byte)
 	{
 	case '1':
-		SM_UNK27(pck);
+		SM_UNK_3318(pck);
 		break;
 	case '2':
+		SM_SKILLS_PANEL(pck);
 		break;
 	case '3':
-		SM_UNK_400e(pck);
+		SM_SKILL_BUF(pck);
 		break;
 	case '4':
-		SM_UNK_2a0f(pck);
+		SM_SKILL_LIST(pck);
 		break;
 	case '5':
-		SM_UNK_4b0e(pck);
 		break;
 	case '6':
 		SM_UNK_4f0e(pck);
@@ -65,14 +63,13 @@ inline void CM_CHAT(PACKET* pck)
 		SM_UNK_033e(pck);
 		break;
 	case 'e':
-		SM_UNK_0310(pck);
 		break;
 	case 'f':
 		SM_UNK_0335(pck);
 		break;
 
 	}
-//	SM_CHAT(pck);
+	SM_CHAT(pck, str);
 }
 
 /*

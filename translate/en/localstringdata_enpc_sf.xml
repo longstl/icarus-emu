@@ -1,0 +1,327 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_01_0_0001_0000_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0001_0000_NameDetail" korean="" />
+	<block key="E_01_0_0002_0000_Name" korean="Rhino combat" />
+	<block key="E_01_0_0002_0000_NameDetail" korean="" />
+	<block key="E_02_1_0007_0000_Name" korean="Gray Wolf" />
+	<block key="E_02_1_0007_0000_NameDetail" korean="" />
+	<block key="E_02_1_0007_0001_Name" korean="Wild gray wolf" />
+	<block key="E_02_1_0007_0001_NameDetail" korean="" />
+	<block key="E_02_1_0007_0002_Name" korean="Wild gray wolf" />
+	<block key="E_02_1_0007_0002_NameDetail" korean="" />
+	<block key="E_02_4_0008_0000_Name" korean="Wood Nymph" />
+	<block key="E_02_4_0008_0000_NameDetail" korean="" />
+	<block key="E_02_1_0010_0000_Name" korean="Mane Boar" />
+	<block key="E_02_1_0010_0000_NameDetail" korean="" />
+	<block key="E_02_1_0010_0001_Name" korean="Mane Boar" />
+	<block key="E_02_1_0010_0001_NameDetail" korean="" />
+	<block key="E_02_1_0011_0000_Name" korean="Wild boar grind" />
+	<block key="E_02_1_0011_0000_NameDetail" korean="" />
+	<block key="E_02_1_0011_0001_Name" korean="Wild boar grind" />
+	<block key="E_02_1_0011_0001_NameDetail" korean="" />
+	<block key="E_02_1_0011_0002_Name" korean="Molar boar" />
+	<block key="E_02_1_0011_0002_NameDetail" korean="" />
+	<block key="E_02_0_0012_0000_Name" korean="Brage Scout" />
+	<block key="E_02_0_0012_0000_NameDetail" korean="" />
+	<block key="E_02_0_0016_0000_Name" korean="Brage workers" />
+	<block key="E_02_0_0016_0000_NameDetail" korean="" />
+	<block key="E_02_0_0017_0000_Name" korean="Brage combat" />
+	<block key="E_02_0_0017_0000_NameDetail" korean="" />
+	<block key="E_02_0_0018_0000_Name" korean="Brage home hunters" />
+	<block key="E_02_0_0018_0000_NameDetail" korean="" />
+	<block key="E_02_0_0021_0000_Name" korean="Brage home to Xiamen" />
+	<block key="E_02_0_0021_0000_NameDetail" korean="" />
+	<block key="E_02_1_0030_0000_Name" korean="Angry Boar" />
+	<block key="E_02_1_0030_0000_NameDetail" korean="" />
+	<block key="E_02_0_0032_0000_Name" korean="Brage Beast Trainer" />
+	<block key="E_02_0_0032_0000_NameDetail" korean="" />
+	<block key="E_01_0_0007_0000_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0000_NameDetail" korean="" />
+	<block key="E_01_0_0008_0000_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0008_0000_NameDetail" korean="" />
+	<block key="E_01_0_0009_0000_Name" korean="Rhino combat" />
+	<block key="E_01_0_0009_0000_NameDetail" korean="" />
+	<block key="E_02_0_0036_0000_Name" korean="Brage workers" />
+	<block key="E_02_0_0036_0000_NameDetail" korean="" />
+	<block key="E_02_0_0037_0000_Name" korean="Brage workers" />
+	<block key="E_02_0_0037_0000_NameDetail" korean="" />
+	<block key="E_02_0_0040_0000_Name" korean="Brage predatory warrior" />
+	<block key="E_02_0_0040_0000_NameDetail" korean="" />
+	<block key="E_02_0_0041_0000_Name" korean="Brage senior home Xiamen" />
+	<block key="E_02_0_0041_0000_NameDetail" korean="" />
+	<block key="E_02_0_0042_0000_Name" korean="Brage veterans home" />
+	<block key="E_02_0_0042_0000_NameDetail" korean="" />
+	<block key="E_02_0_0043_0000_Name" korean="Brage workers" />
+	<block key="E_02_0_0043_0000_NameDetail" korean="" />
+	<block key="E_02_0_0044_0000_Name" korean="Brage workers" />
+	<block key="E_02_0_0044_0000_NameDetail" korean="" />
+	<block key="E_02_0_0045_0000_Name" korean="Brage workers" />
+	<block key="E_02_0_0045_0000_NameDetail" korean="" />
+	<block key="E_02_0_0046_0000_Name" korean="Brage combat" />
+	<block key="E_02_0_0046_0000_NameDetail" korean="" />
+	<block key="E_02_0_0016_0001_Name" korean="Brage workers" />
+	<block key="E_02_0_0016_0001_NameDetail" korean="" />
+	<block key="E_01_4_0637_0000_Name" korean="Head-to-Rex" />
+	<block key="E_01_4_0637_0000_NameDetail" korean="" />
+	<block key="E_02_0_1022_0000_Name" korean="Brage supervisor" />
+	<block key="E_02_0_1022_0000_NameDetail" korean="" />
+	<block key="E_02_0_0644_0000_Name" korean="Ancient ruins ghost" />
+	<block key="E_02_0_0644_0000_NameDetail" korean="" />
+	<block key="E_02_0_0012_0001_Name" korean="Brage Scout" />
+	<block key="E_02_0_0012_0001_NameDetail" korean="" />
+	<block key="E_02_0_0661_0000_Name" korean="Brage promotes penetration" />
+	<block key="E_02_0_0661_0000_NameDetail" korean="" />
+	<block key="E_02_0_0017_0002_Name" korean="Brage combat" />
+	<block key="E_02_0_0017_0002_NameDetail" korean="" />
+	<block key="E_02_0_0653_0000_Name" korean="Absorption seconds" />
+	<block key="E_02_0_0653_0000_NameDetail" korean="" />
+	<block key="E_02_0_0654_0000_Name" korean="Sheen wood nymph" />
+	<block key="E_02_0_0654_0000_NameDetail" korean="" />
+	<block key="E_02_0_0654_0001_Name" korean="Sheen wood nymph" />
+	<block key="E_02_0_0654_0001_NameDetail" korean="" />
+	<block key="E_02_0_0655_0000_Name" korean="Fairy Queen elkwineseu" />
+	<block key="E_02_0_0655_0000_NameDetail" korean="" />
+	<block key="E_02_0_0656_0000_Name" korean="Ancient ruins manager" />
+	<block key="E_02_0_0656_0000_NameDetail" korean="" />
+	<block key="E_02_0_0657_0000_Name" korean="Brage collected drinkers" />
+	<block key="E_02_0_0657_0000_NameDetail" korean="" />
+	<block key="E_02_0_0658_0000_Name" korean="Brage combat troops home" />
+	<block key="E_02_0_0658_0000_NameDetail" korean="" />
+	<block key="E_02_0_0658_0001_Name" korean="Brage combat troops home" />
+	<block key="E_02_0_0658_0001_NameDetail" korean="" />
+	<block key="E_02_0_0659_0000_Name" korean="Brage chiefs" />
+	<block key="E_02_0_0659_0000_NameDetail" korean="" />
+	<block key="E_02_0_0660_0000_Name" korean="The spirit of the cold crystal" />
+	<block key="E_02_0_0660_0000_NameDetail" korean="" />
+	<block key="E_02_1_0007_0003_Name" korean="Gray wolf sites" />
+	<block key="E_02_1_0007_0003_NameDetail" korean="" />
+	<block key="E_02_0_0021_0001_Name" korean="Brage Xiamen" />
+	<block key="E_02_0_0021_0001_NameDetail" korean="" />
+	<block key="E_02_0_0661_0001_Name" korean="Brage penetration disease" />
+	<block key="E_02_0_0661_0001_NameDetail" korean="" />
+	<block key="E_02_0_0662_0000_Name" korean="Brage home to collect the sportsman" />
+	<block key="E_02_0_0662_0000_NameDetail" korean="" />
+	<block key="E_02_1_0344_0000_Name" korean="Sites brown fox" />
+	<block key="E_02_1_0344_0000_NameDetail" korean="" />
+	<block key="E_02_0_0033_0001_Name" korean="Brage workers" />
+	<block key="E_02_0_0033_0001_NameDetail" korean="" />
+	<block key="E_02_0_0036_0001_Name" korean="Brage workers" />
+	<block key="E_02_0_0036_0001_NameDetail" korean="" />
+	<block key="E_02_0_0037_0001_Name" korean="Brage workers" />
+	<block key="E_02_0_0037_0001_NameDetail" korean="" />
+	<block key="E_02_0_0045_0001_Name" korean="Brage workers" />
+	<block key="E_02_0_0045_0001_NameDetail" korean="" />
+	<block key="E_02_0_0607_0000_Name" korean="Young wild boar" />
+	<block key="E_02_0_0607_0000_NameDetail" korean="" />
+	<block key="E_02_0_0012_0002_Name" korean="Brage Scout" />
+	<block key="E_02_0_0012_0002_NameDetail" korean="" />
+	<block key="E_02_5_0001_0002_Name" korean="Brage crossbow" />
+	<block key="E_02_5_0001_0002_NameDetail" korean="" />
+	<block key="E_02_0_0043_0001_Name" korean="Brage crossbow disease management" />
+	<block key="E_02_0_0043_0001_NameDetail" korean="" />
+	<block key="E_02_0_0654_0002_Name" korean="Wild wood nymph" />
+	<block key="E_02_0_0654_0002_NameDetail" korean="" />
+	<block key="E_02_0_0045_0002_Name" korean="Brage home workers" />
+	<block key="E_02_0_0045_0002_NameDetail" korean="" />
+	<block key="E_02_0_0662_0001_Name" korean="Brage home to collect the sportsman" />
+	<block key="E_02_0_0662_0001_NameDetail" korean="" />
+	<block key="E_02_0_0044_0001_Name" korean="Brage home workers" />
+	<block key="E_02_0_0044_0001_NameDetail" korean="" />
+	<block key="E_02_0_0043_0002_Name" korean="Brage home workers" />
+	<block key="E_02_0_0043_0002_NameDetail" korean="" />
+	<block key="E_02_0_0658_0002_Name" korean="Brage Paladin bottle" />
+	<block key="E_02_0_0658_0002_NameDetail" korean="" />
+	<block key="E_50_0_0666_0000_Name" korean="Smoldering Skeleton Soldier" />
+	<block key="E_50_0_0666_0000_NameDetail" korean="" />
+	<block key="E_50_0_0666_0001_Name" korean="Smoldering Skeleton Soldier" />
+	<block key="E_50_0_0666_0001_NameDetail" korean="" />
+	<block key="E_50_0_0667_0000_Name" korean="Smoldering Skull Knight" />
+	<block key="E_50_0_0667_0000_NameDetail" korean="" />
+	<block key="E_50_0_0667_0001_Name" korean="Smoldering Skull Knight" />
+	<block key="E_50_0_0667_0001_NameDetail" korean="" />
+	<block key="E_50_0_0718_0000_Name" korean="Smoldering Skull gungbyeong" />
+	<block key="E_50_0_0718_0000_NameDetail" korean="" />
+	<block key="E_50_0_0613_0000_Name" korean="Fire Rock Guard" />
+	<block key="E_50_0_0613_0000_NameDetail" korean="" />
+	<block key="E_50_0_0650_0000_Name" korean="Fire Bomb Rocks" />
+	<block key="E_50_0_0650_0000_NameDetail" korean="" />
+	<block key="E_50_0_0648_0000_Name" korean="Ancient Fire Golem" />
+	<block key="E_50_0_0648_0000_NameDetail" korean="" />
+	<block key="E_02_1_0344_0001_Name" korean="Red Fox" />
+	<block key="E_02_1_0344_0001_NameDetail" korean="" />
+	<block key="E_02_0_0309_0000_Name" korean="Man-eating wolf frit Shah" />
+	<block key="E_02_0_0309_0000_NameDetail" korean="" />
+	<block key="E_02_0_0309_0001_Name" korean="Female profile Nisha" />
+	<block key="E_02_0_0309_0001_NameDetail" korean="Wolves boss" />
+	<block key="E_02_0_0309_0002_Name" korean="Gray wolf head" />
+	<block key="E_02_0_0309_0002_NameDetail" korean="" />
+	<block key="E_02_0_0676_0000_Name" korean="Ghost spider" />
+	<block key="E_02_0_0676_0000_NameDetail" korean="" />
+	<block key="E_02_0_0676_0001_Name" korean="Giant Spider taseulran" />
+	<block key="E_02_0_0676_0001_NameDetail" korean="" />
+	<block key="E_02_0_0676_0002_Name" korean="Tarantula sites" />
+	<block key="E_02_0_0676_0002_NameDetail" korean="" />
+	<block key="E_01_5_0001_0000_Name" korean="Head-to-dominated seats" />
+	<block key="E_01_5_0001_0000_NameDetail" korean="" />
+	<block key="E_02_1_0606_0000_Name" korean="A wide boar" />
+	<block key="E_02_1_0606_0000_NameDetail" korean="" />
+	<block key="E_02_1_0344_0002_Name" korean="Angry Red Fox" />
+	<block key="E_02_1_0344_0002_NameDetail" korean="" />
+	<block key="E_02_0_0718_0000_Name" korean="The Phantom of the ancient religious" />
+	<block key="E_02_0_0718_0000_NameDetail" korean="" />
+	<block key="E_02_0_0013_0001_Name" korean="Sparkly Tree Wisp" />
+	<block key="E_02_0_0013_0001_NameDetail" korean="" />
+	<block key="E_50_0_0667_0002_Name" korean="Smoldering Skull Knight-Commander" />
+	<block key="E_50_0_0667_0002_NameDetail" korean="" />
+	<block key="E_50_0_0666_0003_Name" korean="Sleeping Skeleton Soldier" />
+	<block key="E_50_0_0666_0003_NameDetail" korean="" />
+	<block key="E_02_0_0676_0003_Name" korean="Cannibalistic spider Arachne" />
+	<block key="E_02_0_0676_0003_NameDetail" korean="" />
+	<block key="E_02_0_0676_0004_Name" korean="Young spiders taseulran" />
+	<block key="E_02_0_0676_0004_NameDetail" korean="" />
+	<block key="E_02_0_0013_0002_Name" korean="Wandering ghost" />
+	<block key="E_02_0_0013_0002_NameDetail" korean="" />
+	<block key="E_02_1_0007_0004_Name" korean="Wild Wolf" />
+	<block key="E_02_1_0007_0004_NameDetail" korean="" />
+	<block key="E_02_1_0606_0001_Name" korean="Boar of Commissioners" />
+	<block key="E_02_1_0606_0001_NameDetail" korean="" />
+	<block key="E_02_1_0606_0002_Name" korean="Frost molar Porch" />
+	<block key="E_02_1_0606_0002_NameDetail" korean="" />
+	<block key="E_02_1_0606_0003_Name" korean="The breeding boar" />
+	<block key="E_02_1_0606_0003_NameDetail" korean="" />
+	<block key="E_02_1_0309_0000_Name" korean="Black Wolf" />
+	<block key="E_02_1_0309_0000_NameDetail" korean="" />
+	<block key="E_50_0_0245_0000_Name" korean="Magma Hound" />
+	<block key="E_50_0_0245_0000_NameDetail" korean="" />
+	<block key="E_02_1_0606_0004_Name" korean="The breeding boar" />
+	<block key="E_02_1_0606_0004_NameDetail" korean="" />
+	<block key="E_02_0_0245_0000_Name" korean="Black Panther in the dark" />
+	<block key="E_02_0_0245_0000_NameDetail" korean="" />
+	<block key="E_02_0_0040_0001_Name" korean="Looting warriors of Commissioners" />
+	<block key="E_02_0_0040_0001_NameDetail" korean="" />
+	<block key="E_02_0_0032_0001_Name" korean="Commissioner of the Beast Trainer" />
+	<block key="E_02_0_0032_0001_NameDetail" korean="" />
+	<block key="E_02_0_0017_0003_Name" korean="Escort fighters of Commissioners" />
+	<block key="E_02_0_0017_0003_NameDetail" korean="" />
+	<block key="E_02_0_0602_0000_Name" korean="Brage home sunchalbyeong" />
+	<block key="E_02_0_0602_0000_NameDetail" korean="" />
+	<block key="E_02_5_0001_0000_Name" korean="Contaminated sheen wood" />
+	<block key="E_02_5_0001_0000_NameDetail" korean="" />
+	<block key="E_02_0_0676_0005_Name" korean="Young spiders" />
+	<block key="E_02_0_0676_0005_NameDetail" korean="" />
+	<block key="E_02_0_0012_9999_Name" korean="Brage combatant home" />
+	<block key="E_02_0_0012_9999_NameDetail" korean="" />
+	<block key="E_01_0_0001_0002_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0001_0002_NameDetail" korean="" />
+	<block key="E_01_0_0010_0000_Name" korean="Rhino TEST_ fighters (Test HP)" />
+	<block key="E_01_0_0010_0000_NameDetail" korean="" />
+	<block key="E_01_0_0011_0000_Name" korean="Rhino TEST_ fighters (test MOVE)" />
+	<block key="E_01_0_0011_0000_NameDetail" korean="" />
+	<block key="E_02_4_0008_0001_Name" korean="Little wood nymph" />
+	<block key="E_02_4_0008_0001_NameDetail" korean="" />
+	<block key="E_02_0_0013_0003_Name" korean="Small brilliance Wisp" />
+	<block key="E_02_0_0013_0003_NameDetail" korean="" />
+	<block key="E_01_0_0001_0001_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0001_0001_NameDetail" korean="" />
+	<block key="E_01_0_0002_0001_Name" korean="Rhino combat" />
+	<block key="E_01_0_0002_0001_NameDetail" korean="" />
+	<block key="E_01_0_0007_0001_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0001_NameDetail" korean="" />
+	<block key="E_01_0_0008_0001_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0008_0001_NameDetail" korean="" />
+	<block key="E_01_0_0009_0001_Name" korean="Rhino combat" />
+	<block key="E_01_0_0009_0001_NameDetail" korean="" />
+	<block key="E_01_4_0637_0001_Name" korean="Head-to-Rex" />
+	<block key="E_01_4_0637_0001_NameDetail" korean="" />
+	<block key="E_01_5_0001_0001_Name" korean="Head-to-dominated seats" />
+	<block key="E_01_5_0001_0001_NameDetail" korean="" />
+	<block key="E_01_0_0001_0003_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0001_0003_NameDetail" korean="" />
+	<block key="E_03_0_0708_7004_Name" korean="Zealot" />
+	<block key="E_03_0_0708_7004_NameDetail" korean="Cobb being followers" />
+	<block key="E_01_0_0009_0002_Name" korean="Rhino combat" />
+	<block key="E_01_0_0009_0002_NameDetail" korean="" />
+	<block key="E_01_0_0009_0003_Name" korean="Rhino combat" />
+	<block key="E_01_0_0009_0003_NameDetail" korean="" />
+	<block key="E_01_0_0010_0001_Name" korean="A pile of boxes" />
+	<block key="E_01_0_0010_0001_NameDetail" korean="" />
+	<block key="E_01_0_0007_0002_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0002_NameDetail" korean="" />
+	<block key="E_01_0_0007_0003_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0003_NameDetail" korean="" />
+	<block key="E_01_0_0007_0004_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0004_NameDetail" korean="" />
+	<block key="E_01_0_0007_0005_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0005_NameDetail" korean="" />
+	<block key="E_01_0_0007_0006_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0006_NameDetail" korean="" />
+	<block key="E_01_0_0007_0007_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0007_NameDetail" korean="" />
+	<block key="E_01_0_0007_0008_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0008_NameDetail" korean="" />
+	<block key="E_01_0_0007_0009_Name" korean="Rhino Guard" />
+	<block key="E_01_0_0007_0009_NameDetail" korean="" />
+	<block key="e_f01_GhosA_0000_Name" korean="Ancient ruins Guardian" />
+	<block key="e_f01_GhosA_0000_NameDetail" korean="" />
+	<block key="E_f01_FanaDawiz_001_Name" korean="Cobb Im Wizard" />
+	<block key="E_f01_FanaDawiz_001_NameDetail" korean="" />
+	<block key="E_f01_SpidBlzza_001_Name" korean="Ghost spider" />
+	<block key="E_f01_SpidBlzza_001_NameDetail" korean="" />
+	<block key="E_f01_FanaDevco_001_Name" korean="Cobb lease Wizard" />
+	<block key="E_f01_FanaDevco_001_NameDetail" korean="" />
+	<block key="E_02_5_0001_0003_Name" korean="Brage crossbow" />
+	<block key="E_02_5_0001_0003_NameDetail" korean="" />
+	<block key="E_02_5_0001_0004_Name" korean="Brage crossbow" />
+	<block key="E_02_5_0001_0004_NameDetail" korean="" />
+	<block key="E_02_5_0001_0005_Name" korean="Brage crossbow" />
+	<block key="E_02_5_0001_0005_NameDetail" korean="" />
+	<block key="E_02_5_0001_0006_Name" korean="Brage crossbow" />
+	<block key="E_02_5_0001_0006_NameDetail" korean="" />
+	<block key="E_02_0_0043_0003_Name" korean="Brage crossbow disease management" />
+	<block key="E_02_0_0043_0003_NameDetail" korean="" />
+	<block key="E_02_0_0043_0004_Name" korean="Brage crossbow disease management" />
+	<block key="E_02_0_0043_0004_NameDetail" korean="" />
+	<block key="E_02_0_0043_0005_Name" korean="Brage crossbow disease management" />
+	<block key="E_02_0_0043_0005_NameDetail" korean="" />
+	<block key="E_02_0_0043_0006_Name" korean="Brage crossbow disease management" />
+	<block key="E_02_0_0043_0006_NameDetail" korean="" />
+	<block key="E_01_0_0002_0007_Name" korean="Rhino combat" />
+	<block key="E_01_0_0002_0007_NameDetail" korean="" />
+	<block key="a00_CM_ham_0007_Name" korean="The ancient ruin" />
+	<block key="a00_CM_ham_0007_NameDetail" korean="" />
+	<block key="E_03_barricade_0004_Name" korean="Brage barrier" />
+	<block key="E_03_barricade_0004_NameDetail" korean="" />
+	<block key="E_02_BragCapeH1_0001_Name" korean="Brage yeonrakbyeong" />
+	<block key="E_02_BragCapeH1_0001_NameDetail" korean="" />
+	<block key="f01_sf_bomb_0000_Name" korean="Brage explosives" />
+	<block key="f01_sf_bomb_0000_NameDetail" korean="" />
+	<block key="E_F01_BraHunter_0000_Name" korean="Brage Watchtower bottle" />
+	<block key="E_F01_BraHunter_0000_NameDetail" korean="" />
+	<block key="E_f01_hufpub_g_001_Name" korean="Mother of evil" />
+	<block key="E_f01_hufpub_g_001_NameDetail" korean="" />
+	<block key="E_f01_HuMSol01_001_Name" korean="Elsa" />
+	<block key="E_f01_HuMSol01_001_NameDetail" korean="Recruit" />
+	<block key="E_50_0_0648_0001_Name" korean="Ancient Fire Golem" />
+	<block key="E_50_0_0648_0001_NameDetail" korean="" />
+	<block key="E_50_0_0648_0002_Name" korean="Ancient Fire Golem" />
+	<block key="E_50_0_0648_0002_NameDetail" korean="" />
+	<block key="E_50_0_0667_0003_Name" korean="Smoldering Skull Knight-Commander" />
+	<block key="E_50_0_0667_0003_NameDetail" korean="" />
+	<block key="E_50_0_0667_0004_Name" korean="Other sites Moose Skull Knight" />
+	<block key="E_50_0_0667_0004_NameDetail" korean="" />
+	<block key="E_50_0_0666_0004_Name" korean="Sleeping Skeleton Soldier" />
+	<block key="E_50_0_0666_0004_NameDetail" korean="" />
+	<block key="E_f01_WolfDC_0000_Name" korean="The evil dwells Wolf" />
+	<block key="E_f01_WolfDC_0000_NameDetail" korean="" />
+	<block key="E_50_0_0667_0005_Name" korean="Smoldering Skull Knight-Commander" />
+	<block key="E_50_0_0667_0005_NameDetail" korean="" />
+	<block key="E_50_0_0648_0003_Name" korean="Ancient Fire Golem" />
+	<block key="E_50_0_0648_0003_NameDetail" korean="" />
+</blocks>

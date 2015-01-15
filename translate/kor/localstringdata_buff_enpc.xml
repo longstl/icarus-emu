@@ -1,0 +1,167 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="mobulls02_aura_1_name" korean="¬¹ü¼¸ÒXÇ " />
+	<block key="mobulls02_aura_1_description_1" korean="¼€·XÇ " />
+	<block key="mobulls03_aura_1_name" korean="D¾¸Ò¸tÇXÇ " />
+	<block key="mobulls03_aura_1_description_1" korean="0¼àÂXÇ " />
+	<block key="morzt1_buff_1_name" korean="œÍÖ" />
+	<block key="morzt1_buff_1_description_1" korean="|·Ç¸ÒXÇ " />
+	<block key="morzt3_buff_1_name" korean="ˆ½XÇ " />
+	<block key="morzt3_buff_1_description_1" korean="ˆ½XÇ " />
+	<block key="momupa2_buff_1_name" korean="¬\Õ " />
+	<block key="momupa2_buff_1_description_1" korean="¬\Õ " />
+	<block key="momupa3_buff_1_name" korean="¬\Õ " />
+	<block key="momupa3_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="momupa4_buff_1_name" korean="\ÍÄÖXÇ " />
+	<block key="momupa4_buff_1_description_1" korean="È,ÒÐÅ " />
+	<block key="momupar1_buff_1_name" korean="¬\Õ " />
+	<block key="momupar1_buff_1_description_1" korean="¬%¸\Õ " />
+	<block key="mohama3_buff_1_name" korean="´ÅÀÉì·ÀÆ" />
+	<block key="mohama3_buff_1_description_1" korean="T´0®ÐÅ " />
+	<block key="mohama4_buff_1_name" korean="\ÍÄÖXÇ " />
+	<block key="mohama4_buff_1_description_1" korean="È,ÒÐÅ " />
+	<block key="mokas3_buff_1_name" korean="" />
+	<block key="mokas3_buff_1_description_1" korean="„½x±ÐÅ " />
+	<block key="morg6_buff_1_name" korean=")¼´Å " />
+	<block key="morg6_buff_1_description_1" korean="È,ÒÐÅ " />
+	<block key="momnc2_buff_1_name" korean="àÂÈXÇ " />
+	<block key="momnc2_buff_1_description_1" korean="È¹˜° Î" />
+	<block key="momnc3_buff_1_name" korean="™°xÇ" />
+	<block key="momnc3_buff_1_description_1" korean="ÕÉŒ¼XÇ " />
+	<block key="momnc4_buff_1_name" korean="ˆ½" />
+	<block key="momnc4_buff_1_description_1" korean="È¹˜° ÎXÇ " />
+	<block key="momjm1_buff_1_name" korean="¼TÖ" />
+	<block key="momjm1_buff_1_description_1" korean="´ÆÁXÇ " />
+	<block key="momip1_buff_1_name" korean="Ù³°¬" />
+	<block key="momip1_buff_1_description_1" korean="¼ÅLÇ " />
+	<block key="momta1_aura_1_name" korean="(Ì" />
+	<block key="momta1_aura_1_description_1" korean="¼ÅLÇ " />
+	<block key="mobm1_buff_1_name" korean="0®È" />
+	<block key="mobm1_buff_1_description_1" korean="5»ÁÉ\Õ " />
+	<block key="mobm2_buff_1_name" korean="ˆ½¸Ó\Õ " />
+	<block key="mobm2_buff_1_description_1" korean="Õ|·¤ÂlÐÐÅÁ " />
+	<block key="moshm2_buff_1_name" korean="èÍ0®" />
+	<block key="moshm2_buff_1_description_1" korean="Èù²\Õ " />
+	<block key="moyrs1_buff_1_name" korean=")¼´Ål­ " />
+	<block key="moyrs1_buff_1_description_1" korean="œ°Ä³ÈÉ\¸ " />
+	<block key="moyrs3_buff_1_name" korean="hÎ)Ì\Õ " />
+	<block key="moyrs3_buff_1_description_1" korean="Æ¬¹ Î" />
+	<block key="moyrs8_buff_1_name" korean="©Í©¬" />
+	<block key="moyrs8_buff_1_description_1" korean="¬\Õ " />
+	<block key="moruinbow1_buff_1_name" korean="¨º˜· " />
+	<block key="moruinbow1_buff_1_description_1" korean="ÂÁÀ\Õ " />
+	<block key="mosin1_buff_1_name" korean="ýÈLÇXÇ " />
+	<block key="mosin1_buff_1_description_1" korean="àÂÜÂDÅ”² " />
+	<block key="mosin1_buff_1_description_2" korean="àÂÜÂDÅ”² " />
+	<block key="mosin6_buff_1_name" korean="¬\Õ " />
+	<block key="mosin6_buff_1_description_1" korean="¬\Õ " />
+	<block key="mosin6_buff_1_description_2" korean="¬\Õ " />
+	<block key="mosin7_buff_1_name" korean="ÑÉÉ" />
+	<block key="mosin7_buff_1_description_1" korean="ÑÉÉ%¸XÇ " />
+	<block key="mosins1_aura_1_name" korean="ä¹´Æ " />
+	<block key="mosins1_aura_1_description_1" korean="ä¹´Æ " />
+	<block key="mojas1_buff_1_name" korean="ôÅ0®" />
+	<block key="mojas1_buff_1_description_1" korean="TÖüÅl­XÇ " />
+	<block key="mojas1_buff_1_description_2" korean="TÖüÅl­XÇ " />
+	<block key="mojas1_buff_1_description_3" korean="TÖüÅl­XÇ " />
+	<block key="mojas1_buff_1_description_4" korean="TÖüÅl­XÇ " />
+	<block key="mojas3_buff_1_name" korean="É°0®" />
+	<block key="mojas3_buff_1_description_1" korean="°À¬ÀÜÐXÇ " />
+	<block key="mojas3_buff_1_description_2" korean="°À¬ÀÜÐXÇ " />
+	<block key="mojas3_buff_1_description_3" korean="°À¬ÀÜÐXÇ " />
+	<block key="mojas3_buff_1_description_4" korean="°À¬ÀÜÐXÇ " />
+	<block key="mojas4_buff_1_name" korean="Ù³ÁÀ" />
+	<block key="mojas4_buff_1_description_1" korean="È" />
+	<block key="mojas4_buff_1_description_2" korean="È" />
+	<block key="mojas4_buff_1_description_3" korean="È" />
+	<block key="mojasa3_buff_2_name" korean="J®@Ç " />
+	<block key="mojasa3_buff_2_description_1" korean="J®@Ç " />
+	<block key="mojasa3_aura_2_name" korean="J®@Ç " />
+	<block key="mojasa3_aura_2_description_1" korean="J®@Ç " />
+	<block key="modw1_buff_1_name" korean="ÓxºXÇ " />
+	<block key="modw1_buff_1_description_1" korean="ÓxºXÇ " />
+	<block key="modw2_buff_1_name" korean="ÓxºXÇ " />
+	<block key="modw2_buff_1_description_1" korean="ÓxºXÇ " />
+	<block key="modw3_buff_1_name" korean="ÓxºXÇ " />
+	<block key="modw3_buff_1_description_1" korean="ÓxºXÇ " />
+	<block key="modw4_buff_1_name" korean="ÓxºXÇ " />
+	<block key="modw4_buff_1_description_1" korean="ÓxºXÇ " />
+	<block key="momc4_1_name" korean="¬\Õ " />
+	<block key="momc4_buff_1_description_1" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc4_buff_1_description_2" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc4_buff_1_description_3" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc4_buff_1_description_4" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc4f_1_name" korean="¬\Õ " />
+	<block key="momc4f_buff_1_description_1" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc4f_buff_1_description_2" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc4f_buff_1_description_3" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc4f_buff_1_description_4" korean="8ºPÐ¬¹¤ÂXÇ " />
+	<block key="momc5_1_name" korean="ÀÐ$Æt¹”² " />
+	<block key="momc5_buff_1_description_1" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momc5_buff_1_description_2" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momc5_buff_1_description_3" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momc5_buff_1_description_4" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf4_1_name" korean="ÀÐ$Æt¹”² " />
+	<block key="momcf4_buff_1_description_1" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf4_buff_1_description_2" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf4_buff_1_description_3" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf4_buff_1_description_4" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf5_1_name" korean="ÀÐ$Æt¹”² " />
+	<block key="momcf5_buff_1_description_1" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf5_buff_1_description_2" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf5_buff_1_description_3" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momcf5_buff_1_description_4" korean="TÖÁÀ<Ç\¸ " />
+	<block key="momc6_1_name" korean="hÎ5»XÇ " />
+	<block key="momc6_buff_1_description_1" korean="hÎ5»XÇ " />
+	<block key="momc6_buff_1_description_2" korean="hÎ5»XÇ " />
+	<block key="momc6_buff_1_description_3" korean="hÎ5»XÇ " />
+	<block key="momc6_buff_1_description_4" korean="hÎ5»XÇ " />
+	<block key="momc7_buff_1_name" korean="€¬@Ç " />
+	<block key="momc7_buff_1_description_1" korean="€¬@Ç " />
+	<block key="momc8_buff_1_name" korean="5ÇiÕ´ " />
+	<block key="momc8_buff_1_description_1" korean="€¬@Ç " />
+	<block key="momadness00_buff_1_name" korean="­0®XÇ " />
+	<block key="momadness00_buff_1_description_1" korean="ÈÐ\¸¤Â" />
+	<block key="momadness00_buff_1_description_2" korean="ÈÐ\¸¤Â" />
+	<block key="momadness00_buff_1_description_3" korean="ÈÐ\¸¤Â" />
+	<block key="moindarkmo00_buff_1_name" korean="´Å`´ÁXÇ " />
+	<block key="moindarkmo00_buff_1_description_1" korean="¨ºt¹¬tÇ " />
+	<block key="moindarkmo00_buff_1_description_2" korean="¨ºt¹¬tÇ " />
+	<block key="moindarkmo00_buff_1_description_3" korean="¨ºt¹¬tÇ " />
+	<block key="mobulls13_aura_1_name" korean="|·äÕt¹XÇ " />
+	<block key="mobulls13_aura_1_description_1" korean="$¼DÇ " />
+	<block key="mobloodyb01_buff_1_name" korean="<Õ,Ò1ÁtÇ" />
+	<block key="mobloodyb01_buff_1_description_1" korean="ü¬ä²œÍÖ " />
+	<block key="mobloodyb01_buff_1_description_2" korean="ü¬ä²œÍÖ " />
+	<block key="mobloodyb01_buff_1_description_3" korean="ü¬ä²œÍÖ " />
+	<block key="modarkshadow01_aura_1_name" korean="ýÈLÇXÇ " />
+	<block key="modarkshadow01_aura_1_description_1" korean="¨ºt¹¬XÇ " />
+	<block key="modarkshadow01_aura_1_description_2" korean="¨ºt¹¬XÇ " />
+	<block key="modarkshadow01_aura_1_description_3" korean="¨ºt¹¬XÇ " />
+	<block key="mopollutiona00_aura_1_name" korean="$ÆüÅ´ " />
+	<block key="mopollutiona00_aura_1_description_1" korean="ÈÐ\¸¤ÂXÇ " />
+	<block key="mopollutiona00_aura_1_description_2" korean="ÈÐ\¸¤ÂXÇ " />
+	<block key="mopollutiona00_aura_1_description_3" korean="ÈÐ\¸¤ÂXÇ " />
+	<block key="mobulls04_aura_1_name" korean="¬¹ü¼¸ÒXÇ " />
+	<block key="mobulls04_aura_1_description_1" korean="ü­˜Ì " />
+	<block key="mobulls05_aura_1_name" korean="D¾¸Ò¸tÇXÇ " />
+	<block key="mobulls05_aura_1_description_1" korean="ü­˜Ì " />
+	<block key="mobulls15_aura_1_name" korean="|·äÕt¹XÇ " />
+	<block key="mobulls15_aura_1_description_1" korean="ü­˜Ì " />
+	<block key="mojeranin02_buff_1_name" korean="œÍÖ " />
+	<block key="mojeranin02_buff_1_description_1" korean="ü¬ä²œÍÖ " />
+	<block key="modarkarrows00_buff_1_name" korean="tÕ)¼´ " />
+	<block key="modarkarrows00_buff_1_description_1" korean="tÇÙ³ÁÄ³" />
+	<block key="modarkarrows00_buff_1_description_2" korean="tÇÙ³ÁÄ³" />
+	<block key="modarkarrows00_buff_1_description_3" korean="tÕ)¼´ " />
+	<block key="moindarkremove00_buff_1_name" korean="TÅQ× " />
+	<block key="moindarkremove00_buff_1_description_1" korean="tÇÙ³ÁÄ³" />
+	<block key="moindarkremove00_buff_1_description_2" korean="tÇÙ³ÁÄ³" />
+	<block key="moindarkremove00_buff_1_description_3" korean="tÇÙ³ÁÄ³" />
+</blocks>

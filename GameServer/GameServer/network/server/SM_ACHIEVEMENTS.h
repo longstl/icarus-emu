@@ -8,7 +8,6 @@
 inline void SM_ACHIEVEMENTS(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeW(0);
 	pck->writeB(0);

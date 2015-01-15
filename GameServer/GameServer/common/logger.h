@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <time.h>
 
-namespace log
+namespace lg
 {
    inline FILE* Init()
    {

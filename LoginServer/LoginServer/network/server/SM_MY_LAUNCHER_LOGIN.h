@@ -7,7 +7,6 @@
 void SM_MY_LAUNCHER_LOGIN(PACKET* pck, char* hash)
 {
 	pck->CreateBufForSend();
-//	pck->writeW(0);
 	pck->writeTstr(hash);
 	pck->PackSend(OPCODE_SM_MY_LAUNCHER_LOGIN);
 }

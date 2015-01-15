@@ -1,0 +1,208 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Dialog_4000000_Title" korean="Artillery" />
+	<block key="Dialog_4000000_Text0" korean="Sea man, frustrated at the amount Sonya trial!\nYes! I Ishida just wonderful captain ponim!" />
+	<block key="Dialog_4000010_Title" korean="Mukan" />
+	<block key="Dialog_4000010_Text0" korean="Did it be great if all is solved with a passion.\nEvery day there is a procedure and principles, provided that it be able to." />
+	<block key="Dialog_4000020_Title" korean="Sar plasticized" />
+	<block key="Dialog_4000020_Text0" korean="I'm not just sell! It's my all carefully selected. \u003cbr\u003e Magic weapons are going to be hard to watch where I go to sell." />
+	<block key="Dialog_4000030_Title" korean="Jodi" />
+	<block key="Dialog_4000030_Text0" korean="If a man eungdang how to respond to the call of the weak!\nIt is reported past injustice doejiyo not to do a man." />
+	<block key="Dialog_4000040_Title" korean="Andy" />
+	<block key="Dialog_4000040_Text0" korean="Yesterday and ran, ran today ... to follow the physical training of Jody ryeoni really hard. That guy is not human!" />
+	<block key="Dialog_4000050_Title" korean="Roy" />
+	<block key="Dialog_4000050_Text0" korean="Errol Have you ever seen a response? It's really nice time. And those baggy charisma and charming eyes. Do not get me wrong. I like a woman." />
+	<block key="Dialog_4000060_Title" korean="Gel carry" />
+	<block key="Dialog_4000060_Text0" korean="Find're here to here, you do not truly yiguna guy.\nEllora reclaim the grace of Goddess stoked wait in silence on the other end.\nOr, naedeonga money." />
+	<block key="Dialog_4000070_Title" korean="Errol" />
+	<block key="Dialog_4000070_Text0" korean="Pegasus Knight-Commander position is not something that can be easily obtained. Only the strong survived the airspace can not get the right person to lead the Pegasus Knights. What I do to be a balance of airspace by the immortal legions destroyed by Knight-Commander'll never EVER!" />
+	<block key="Dialog_4000080_Title" korean="Mer Syracuse" />
+	<block key="Dialog_4000080_Text0" korean="What, What, What, What! You fast? Huh? Did you want to fight me? Huh? Fast fast fast fast ~" />
+	<block key="Dialog_4000090_Title" korean="Lady Olivier" />
+	<block key="Dialog_4000090_Text0" korean="This is where I come is not only delicious ... just to know, then just come from the airspace of the destruction to find himself.\n Would You got a problem with something?" />
+	<block key="Dialog_4000100_Title" korean="Kia tree" />
+	<block key="Dialog_4000100_Text0" korean="Keep the secrets of the days of the war grew light exciter current and Canas area is almost the only place you are.\nThe archaeological heritage ruins created by the war gotta say ... Is not ironic?" />
+	<block key="Dialog_4000110_Title" korean="Lou Plata" />
+	<block key="Dialog_4000110_Text0" korean="Here I'm on a mission of Errol danjangnim. See you knight!" />
+	<block key="Dialog_4000120_Title" korean="Hoffman" />
+	<block key="Dialog_4000120_Text0" korean="Come on. I have not spent two years here ... really Ellora Goddess, why leave this area you have any questions atneunji costs. Break the Dragon opting this time really made rea means of Ellora Goddess?" />
+	<block key="Dialog_4000120_answer_7_text" korean="Getting to a fraction of the airspace" />
+	<block key="Dialog_4000130_Title" korean="Rayisaendeo" />
+	<block key="Dialog_4000130_Text0" korean="Come on I want to go home. Pegasus and Unicorn, and I do not have anything that means nothing." />
+	<block key="Dialog_4000140_Title" korean="Norris" />
+	<block key="Dialog_4000140_Text0" korean="I checked it with the best power Norris Pegasus Knights. Day last week, holding a giant stingray beat Bo dont friggin busy it's been sober." />
+	<block key="Dialog_4000140_answer_0_text" korean="Articles to prove" />
+	<block key="Dialog_4000150_Title" korean="Rogal" />
+	<block key="Dialog_4000150_Text0" korean="You got some qualifications to be a hero. But enough to add to my collection, I do not think would be a great hero. Now I said Errol doll wanna have more than you ..." />
+	<block key="Dialog_4000150_answer_0_text" korean="Articles to prove" />
+	<block key="Dialog_4000160_Title" korean="Rebecca" />
+	<block key="Dialog_4000160_Text0" korean="Come on! I'm looking for things to beat the Immortal Legion catch? Good to see you then! Slowly take your pick." />
+	<block key="Dialog_4000160_Answer_0_Text" korean="Weapons Stores" />
+	<block key="Dialog_4000170_Title" korean="Moresby" />
+	<block key="Dialog_4000170_Text0" korean="Now, I only! Tremendous chance! Colossal items are suitable to wear fancy you today! If you regret Come buy!" />
+	<block key="Dialog_4000170_Answer_0_Text" korean="Grocery store" />
+	<block key="Dialog_4000180_Title" korean="Oscars" />
+	<block key="Dialog_4000180_Text0" korean="Pegasus Knights are said to get rid of the Immortal Legion presence in airspace where destruction. We thus destroy them. Now just think of nothing else." />
+	<block key="Dialog_4000190_Title" korean="Cylon" />
+	<block key="Dialog_4000190_Text0" korean="Got my blood boiling. Revenge, revenge him! Our ancestors fought and died broken Earl bit light in the end of time! And my colleagues. This \u003cbr\u003e Ana Fuck my mind? ... I'm gonna smash everything in the immortal legions!" />
+	<block key="Dialog_4000200_Title" korean="Guwahati" />
+	<block key="Dialog_4000200_Text0" korean="This is where I'm a little confused. In writing a vulgar person did not have a horse my house, I had no man stained with blood. I just wanted to ride Pegasus, I do not understand well'd entered the Templars." />
+	<block key="Dialog_4000210_Title" korean="Robinson" />
+	<block key="Dialog_4000210_Text0" korean="Angels usually refers to the stage of God who created the four, if that. But strangely I do not feed the displaced almost left. You may have been just a stage is not. I also came here to check it." />
+	<block key="Dialog_4000220_Title" korean="Sears" />
+	<block key="Dialog_4000220_Text0" korean="Oh Errol's. Errol want cuddled even once in response to product. Errol've wanted to see this place here. Errol's is also famous handsome and Canas in St. Friar." />
+	<block key="Dialog_4000230_Title" korean="Ferric" />
+	<block key="Dialog_4000230_Text0" korean="Former seems to be really lucky! Being able to go out and learn combat veterans with this article nimdeul!" />
+	<block key="Dialog_4000240_Title" korean="Moving large" />
+	<block key="Dialog_4000240_Text0" korean="......" />
+	<block key="Dialog_4000250_Title" korean="Ewoo Witz" />
+	<block key="Dialog_4000250_Text0" korean="Quite a long time, the elves've tried to keep the light. But the law is followed in the shadow of the light. In order to ensure that it is also observed with a light shadow is my opinion." />
+	<block key="Dialog_4000250_Answer_3_Text" korean="Alliance of Light" />
+	<block key="Dialog_4000250_Answer_4_Text" korean="Secrets of the Union" />
+	<block key="Dialog_4000260_Title" korean="Cylon" />
+	<block key="Dialog_4000260_Text0" korean="I have fought for a long time and that evil Immortal Legion. To give in to evil and to changing faded handle tears of fellow I what does that do to defend." />
+	<block key="Dialog_4000260_Answer_3_Text" korean="Alliance of Light" />
+	<block key="Dialog_4000270_Title" korean="Hun, El" />
+	<block key="Dialog_4000270_Text0" korean="Do you remember the fierce battle? Used to be you'd come tomorrow starts a new life. I am still standing on the battlefield, you did not come tomorrow!" />
+	<block key="Dialog_4000270_Answer_3_Text" korean="Alliance of Light" />
+	<block key="Dialog_4000280_Title" korean="Lara" />
+	<block key="Dialog_4000280_Text0" korean="Huh? We're here for the ring gap eotdi time? Alliance of Light is still firm can do Shearing Sui enemy to defeat if you'll help me. Huh \u003cbr\u003e? I look human? Huh?" />
+	<block key="Dialog_4000290_Title" korean="Smack That" />
+	<block key="Dialog_4000290_Text0" korean="I mean there was a Pegasus Knights of yesteryear .. now mean so wonak heavy body. Zero mean just tough. You mean so hangeo bogeupdae resources." />
+	<block key="Dialog_4000290_Answer_1_Text" korean="Armor shop" />
+	<block key="Dialog_4000300_Title" korean="Are key" />
+	<block key="Dialog_4000300_Text0" korean="May I help you Only the necessary things to see and go slowly've put him in. I'll take you at a great price!" />
+	<block key="Dialog_4000300_Answer_0_Text" korean="Armor shop" />
+	<block key="Dialog_4000310_Title" korean="Meulrek" />
+	<block key="Dialog_4000310_Text0" korean="I can write crisp yet come into the spirit and magic, even if you busting my age. This place winner in this place, I did hear the information directly supported. To control far far along they are still young!" />
+	<block key="Dialog_4000320_Title" korean="Kuah No-Mar" />
+	<block key="Dialog_4000320_Text0" korean="Oh Dear. Oh, I'll love Fellow week. Among require huge fellow. They're really a Fellow of value ... not worth it." />
+	<block key="Dialog_4000330_Title" korean="Bella Kerr" />
+	<block key="Dialog_4000330_Text0" korean="You can create a living world with fellow. Fellows are simple vehicles, not living with me as well. Please look at them not like this is a wonderful idea?" />
+	<block key="Dialog_4000340_Title" korean="Remy You" />
+	<block key="Dialog_4000340_Text0" korean="What is it? Fellows are going to attend this neighborhood because the injury carefully. You also get the kids from the Fellow will not tell the difference between what's good guys and bad guys." />
+	<block key="Dialog_4000350_Title" korean="Nas" />
+	<block key="Dialog_4000350_Text0" korean="Neukkyeojineunga cold breath of death? Embroidering the heart's song of the black sickle drill." />
+	<block key="Dialog_4000360_Title" korean="Hills fill" />
+	<block key="Dialog_4000360_Text0" korean="Your article applies escort the princess. Yeosindo departed from the earth drank four, I had kept a place for a long time." />
+	<block key="Dialog_4000370_Title" korean="Based assembly" />
+	<block key="Dialog_4000370_Text0" korean="Come in. Come on! Wow, You're a nice clothes. Also great for minutes doin 'what weapon is different different. But you know, would you like a side weapons at once?" />
+	<block key="Dialog_4000380_Title" korean="Estee" />
+	<block key="Dialog_4000380_Text0" korean="What, are you? Can money and buy my stuff? Whatever that thing caliber gun damage, but I need you to touch. Does this stuff falling value." />
+	<block key="Dialog_4000390_Title" korean="Article Lux" />
+	<block key="Dialog_4000390_Text0" korean="Good weather. Red and blue's weather. The world is wide, and indeed the public. The treasure. My name is my lux. No intent to try to join my adventures? I think I saw my name did not surface for high potential so far and got very bored living a boring life angels." />
+	<block key="Dialog_4000390_Text0_attach_0" korean="I even traveled to Canas also gotman sex, Parque my land, Ellora sanctuary, Black Hand Gorge, magma Fora, to rimran Valley, arc lats grassland, desert and Canas to all areas of the immortal oh come even went as well as I almost Commandment . What I said, I am going to Commandment?" />
+	<block key="Dialog_4000390_Text0_attach_1" korean="That Would not gel with the guardian dragon Naris. Eopdagu never met a gel Naris? So ... long story sucks their hands full. So I see participated in my adventure, I not?" />
+	<block key="Dialog_4000400_Title" korean="Rico" />
+	<block key="Dialog_4000400_Text0" korean="Hello. Have you met our adventure king? ... Not pleasant, cheerful and jolly person ... Damn, what no other good thing is?" />
+	<block key="Dialog_4000410_Title" korean="Hyunet" />
+	<block key="Dialog_4000410_Text0" korean="Sh. Man I ever take the neck of the lux. The Great Adventure King hyunet. Lux had never notifies the fact my no." />
+	<block key="Dialog_4000420_Title" korean="Ink" />
+	<block key="Dialog_4000420_Text0" korean="Bonnet watna suddenly find listening to the news! Yeah, it's your body. The body Ishida world's best chefs ink. Iteotdamyeon looking for a good meal you really come right!" />
+	<block key="Dialog_4000430_Title" korean="Ahkul" />
+	<block key="Dialog_4000430_Text0" korean="Who? Let there be light congestion." />
+	<block key="Dialog_4000430_Text1" korean="This message has been immortalized in the desert of dwaetdaneun found traces of the princess. Can not be too much longer now days she saved the princess! \u003cbr\u003e You've clues until you determine the exact content you are tracking helps to stabilize the conjugate, people were asked to wait down here. When the news arrived not call again." />
+	<block key="Dialog_4000440_Title" korean="Conrad" />
+	<block key="Dialog_4000440_Text0" korean="Except what not!" />
+	<block key="Dialog_4000440_Answer_0_Text" korean="Grocery store" />
+	<block key="Dialog_4000450_Title" korean="Gerard" />
+	<block key="Dialog_4000450_Text0" korean="You have the best armor." />
+	<block key="Dialog_4000450_Answer_0_Text" korean="Armor shop" />
+	<block key="Dialog_4000460_Title" korean="Elena" />
+	<block key="Dialog_4000460_Text0" korean="Go to see again. You'd need this stuff?" />
+	<block key="Dialog_4000460_Answer_0_Text" korean="Grocery store" />
+	<block key="Dialog_4000470_Title" korean="Janice" />
+	<block key="Dialog_4000470_Text0" korean="I'll give you cheap cheap!" />
+	<block key="Dialog_4000470_Answer_0_Text" korean="Grocery store" />
+	<block key="Dialog_4000480_Title" korean="Mouses" />
+	<block key="Dialog_4000480_Text0" korean="The liver stores keunko concludes that the wo ignore stuff!" />
+	<block key="Dialog_4000480_Answer_0_Text" korean="Weapons Stores" />
+	<block key="Dialog_3050813_Title" korean="Teal Inlet" />
+	<block key="Dialog_3050813_Text0" korean="Captain. We can also send a surname when you ask me I'll be busy." />
+	<block key="dialog_3050813_answer_1_text" korean="Ready to leave." />
+	<block key="dialog_3050813_answer_2_text" korean="Canas and may leave the castle" />
+	<block key="Dialog_4000490_Title" korean="Car" />
+	<block key="Dialog_4000490_Text0" korean="The captain put yireonde send me afraid. You're a rather obtain to bring ehyu. But ... I do not think things are swirling easier frequent?" />
+	<block key="Dialog_4000111_Title" korean="Carry Tia" />
+	<block key="Dialog_4000111_Text0" korean="Tia's chief researcher carrying dispatched to interpret the archaic era of the exciter grown. Nice to meet you." />
+	<block key="Dialog_4000112_Title" korean="Bear Greensboro" />
+	<block key="Dialog_4000112_Text0" korean="Bird of the high in the region ... It's a very important source of protein. You had not run away." />
+	<block key="Dialog_4000113_Title" korean="Lady Olivier" />
+	<block key="Dialog_4000113_Text0" korean="So what do you surprised? Would welcome any of this? \u003cbr\u003e\nI think I've forgotten that the wizard. I mayest be easily moved anywhere. Ho-ho-ho!" />
+	<block key="Dialog_4000114_Title" korean="Remember piece of Land" />
+	<block key="Dialog_4000114_Text0" korean="Dragon stood on the side of the gel Naris have tried to show off the power of the river, the power of Ellora and the strength of the gel Naris find people hideon air moment - \u003cbr\u003e\nDid not go up forever buried in the earth to fly again. \u003cbr\u003e\nResonance of horsepower are to be retained. This resonance shaken, the Dragon will spread the wings back." />
+	<block key="Dialog_4000115_Title" korean="Remember piece of blue sky" />
+	<block key="Dialog_4000115_Text0" korean="Did the spirit of that black and dwideopeun gel Naris sky? \u003cbr\u003e\nDo not go into the area of ​​the gel Naris. Naris strength of the gel will make your fellow ablaze. \u003cbr\u003e\nNo one knows what itneunjineun thereon. No one could enter the area of ​​the gel Naris. \u003cbr\u003e\nNor ever wonder about the area of ​​the gel Naris, do not even want to know. \u003cbr\u003e" />
+	<block key="Dialog_4000116_Title" korean="Remember sculpture of a goddess" />
+	<block key="Dialog_4000116_Text0" korean="Earl was a bit light when the temple of the great goddess Ellora were destroyed thoroughly. \u003cbr\u003e\nEllora Ellora is the last breath of the Goddess bless the airspace of the destruction left behind. \u003cbr\u003e\nIf you ignore the power of Ellora, shall be able to survive intact in the airspace." />
+	<block key="Dialog_4000117_Title" korean="Remember piece of coast" />
+	<block key="Dialog_4000117_Text0" korean="Airspace is turned held up by two forces is very unstable and where the land was originally the people doeni the sea became known as Freya to the rough seas. \u003cbr\u003e\nFreya it was completely contaminated by the dead bodies of the Alliance and the evil light when large resonance. You will lose your life in an instant if you fell into the sea. \u003cbr\u003e\nWhy do you cut into the dangerous waters?" />
+	<block key="Dialog_4000118_Title" korean="Sealed storage pieces" />
+	<block key="Dialog_4000118_Text0" korean="Can not recognize letters are engraved. I can not see what I mean. \u003cbr\u003e" />
+	<block key="Dialog_4000119_Title" korean="Alliance of Light" />
+	<block key="Dialog_4000119_Text0" korean="Earl bit light when we come up to the sky hyeotji trapped in this world. Colleagues remained fighting comrades as they do not remain. Kuhn, they're human and croissants here!" />
+	<block key="Dialog_4000123_Title" korean="Alliance of Light" />
+	<block key="Dialog_4000123_Text0" korean="Now yireotji bit light but Earl was a beautiful city. I was the instructor of upholding the good and to punish the evil blue tri education only. Punish those who had lost the immortal soul to the devil flew in the sky in the name of God." />
+	<block key="Dialog_4000123_Text0_attach_0" korean="\u003cbr\u003e Why does Heaven is always taking good first cut. The alliance tree beautiful city of light on the light when I was beautiful Earl gathered. Now the alliance is to keep the tree lights remain frozen so lucky name only a few million and counting." />
+	<block key="Dialog_4000121_Title" korean="Secrets of the Alliance of Light" />
+	<block key="Dialog_4000121_Text0" korean="The cow had a secret alliance of light. They had fallen to a very small order also had no system. People are aware of the Alliance of Light by Magna complete group, but did not. \u003cbr\u003e\nI spent a long time in the darkness where light is also the fact that Dao thought it might have been the one kinds." />
+	<block key="Dialog_4000122_Title" korean="Alliance of Light" />
+	<block key="Dialog_4000122_Text0" korean="Unfortunately agent Earl Wright hit Ellora match the aura of the goddess of time and energy gels Naris many people I have been corrupted. Maybe now I ..." />
+	<block key="Dialog_4000490_Answer_3_Text" korean="Predator's destruction fill" />
+	<block key="Dialog_4000500_Title" korean="Predator's destruction fill" />
+	<block key="Dialog_4000500_Text0" korean="Have you ever? As a big huge guy with a horse's fill! It's life in the airspace of the destruction is swallowing up random guys. Alone does not begin, I'd like one of them would not have come back together opponent! Although Godzilla Guy Who will challenge me." />
+	<block key="Dialog_3040804_Title" korean="Luke Bella portal company" />
+	<block key="Dialog_3040804_Text0" korean="You should take advantage of the fall of the airspace because of the wonak wide portal. The more itdapnida this place can be so rewarding our portal go buy more. Can send you going?" />
+	<block key="Dialog_3040804_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3040805_Title" korean="The company portals Azur" />
+	<block key="Dialog_3040805_Text0" korean="We reward in addition to the portal verbs itdapnida this amazing ability to move quickly to more remote places sikyeojul. Of course, the stronger horsepower required to do so, but horse. And also did not have many numbers itjiyo placed great base for one person only. The conjugate of destruction would be able to meet the high-altitude reconnaissance go camping." />
+	<block key="Dialog_3040805_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_2020400_Title" korean="Turbulent sea Bulletin" />
+	<block key="Dialog_2020400_Text0" korean="When damaged or demolished in the name of King Ron plane took Posts 3 years without a good reason, you can be punished by royalty and Canas." />
+	<block key="Dialog_2020401_Title" korean="Sea Bulletin of greed" />
+	<block key="Dialog_2020401_Text0" korean="When damaged or demolished in the name of King Ron plane took Posts 3 years without a good reason, you can be punished by royalty and Canas." />
+	<block key="Dialog_2020402_Title" korean="A stone statue of the goddess Board" />
+	<block key="Dialog_2020402_Text0" korean="When damaged or demolished in the name of King Ron plane took Posts 3 years without a good reason, you can be punished by royalty and Canas." />
+	<block key="Dialog_2020403_Title" korean="Jayden \u003cPegasus articles section\u003e" />
+	<block key="Dialog_2020403_Text0" korean="Look at the behest of Errol danjangnim has a multiple of the resting place of the female Black Dragon battle situation. Immortal Legion by surprise and frost Corps paejanbyeong, but Lohan dispatch of the Pegasus Knights survived deogun here ... \u003cbr\u003e's a shame ... but he Errol danjangnim honor of Pegasus Knights, be bloody revenge on them gonna give me a!" />
+	<block key="Dialog_2020404_Title" korean="Lohan \u003cPegasus articles section\u003e" />
+	<block key="Dialog_2020404_Text0" korean="Frost Legion Immortal Legion and associated paejanbyeong I lost to fellow ... \u003cbr\u003e Frost Legion them! I must however make us one, has also prevent cancer live beyond the rest of the Black Dragon ...!" />
+	<block key="Dialog_3600013_Title" korean="Vinny D airspace clearance of vanilla" />
+	<block key="Dialog_3600013_Text0" korean="Nyan traveler? We are top crescent dispatched to each region itdang supply the goods needed by travelers. \u003cbr\u003e I want to deal with me \u003cbr\u003e \u003cbr\u003e. Per common things that do not deal with special needs hadang coins. \u003cbr\u003e That If you encounter a ditch coins come at any day! \u003cbr\u003e good things and exchange it getdang!" />
+	<block key="Dialog_3600013_Answer_0_Text" korean="La Beanie shop" />
+	<block key="Dialog_1430005_Title" korean="Lloyd \u003cPegasus articles section\u003e" />
+	<block key="Dialog_1430005_Text0" korean="My mission is to be a challenge to embellish rise Hora and he revived immortal army to conduct surveillance if they grab something from here. \u003cbr\u003e \u003cbr\u003e They are only afraid afraid hammered by Pegasus Knight pride pounce any minute lesson You can." />
+	<block key="Dialog_1430006_Title" korean="Marca \u003cPegasus articles section\u003e" />
+	<block key="Dialog_1430006_Text0" korean="Immortal Legion guys are strong, strong fingers together in that way, and when our opponent and you do it in front of the Pegasus knights? \u003cbr\u003e Immortal and indestructible army corps, and only appears when kwak the shot! The end! Do you get what I mean?" />
+	<block key="Dialog_1430007_Title" korean="Paulo \u003cAlchemist\u003e" />
+	<block key="Dialog_1430007_Text0" korean="Alchemy is not something that creates out of nothing. Alchemy es, the combination of the various elements that make up the world's first emits a stronger performance going to convert to the new material! \u003cbr\u003e \u003cbr\u003e Free in that you can create an organic thing I'm not a god realm?" />
+	<block key="Dialog_2020345_Title" korean="Bulletin of the arm rest Heilongjiang" />
+	<block key="Dialog_2020345_Text0" korean="When damaged or demolished in the name of King Ron plane took Posts 3 years without a good reason, you can be punished by royalty and Canas." />
+	<block key="Dialog_1430008_Title" korean="Synth Meyer \u003cairspace of destruction\u003e" />
+	<block key="Dialog_1430008_Text0" korean="Airspace destruction is the main task of the current field is not the shadow clan. It's like the place, but that can not be neglected. \u003cbr\u003e \u003cbr\u003e Selectively gather information from all over the world is it to remove the factors that threaten the future of the kingdom of words is what we have to do." />
+	<block key="Dialog_1430009_Title" korean="Behind \u003cairspace of destruction\u003e" />
+	<block key="Dialog_1430009_Text0" korean="GM has received special instruction from the atmosphere here. \u003cbr\u003e \u003cbr\u003e Not bar you do not know about your achievements. But I can not tell you about the command from the captain." />
+	<block key="Dialog_9015594_Title" korean="Getting to a fraction of the airspace" />
+	<block key="Dialog_9015594_Text0" korean="In order to the top of the airspace over the cracks in the 1000m near stocked three ways. \u003cbr\u003e Way to go first as a fellow hero capable of flying at high altitude or in class, the Dine aboard that can tame the emptiness ride Leto other Asian . \u003cbr\u003e the second is. Getting through the movement orders that are available \u003cbr\u003e third mission is not the way to go through the portal in the 750m over mobile devices. I guess I'll leave it to the judges going to be good fraction of the airspace through any means." />
+	<block key="Dialog_4000511_Title" korean="Rokkin" />
+	<block key="Dialog_4000511_Text0" korean="수련의 첫번째는 자신에게 맞는 좋은 무기를 사는 거지.\u003cbr\u003e무기는 많이 있으니 한번 천천히 골라보라구." />
+	<block key="Dialog_4000511_Answer_0_Text" korean="Weapons Stores" />
+	<block key="Dialog_2020346_Title" korean="The destruction of coastal board" />
+	<block key="Dialog_2020346_Text0" korean="When damaged or demolished in the name of King Ron plane took Posts 3 years without a good reason, you can be punished by royalty and Canas." />
+	<block key="Dialog_4000512_Title" korean="Lillian" />
+	<block key="Dialog_4000512_Text0" korean="Did you hear the cries of souls wandering the island? Naris to fall in strength of the gel before they, too, It was completely innocent man." />
+	<block key="Dialog_4000513_Title" korean="Spike" />
+	<block key="Dialog_4000513_Text0" korean="I am an elite crew of Pegasus Knights! Geomman lost ... It's gonna throw away even if you have lost ghost to kill spiders in the all dankal that disgusting bastards!" />
+	<block key="Dialog_3600014_Title" korean="Dining in LA Beanie" />
+	<block key="Dialog_3600014_Text0" korean="Per meet you! We are top crescent dispatched to each region itdang supply the goods needed by travelers. \u003cbr\u003e I should change the jugido specifically called Vinny assimilated into silver if you have a lot of fairy tales Nyan \u003cbr\u003e me and brought me! \u003cbr\u003e I change and Silver State getdang!" />
+	<block key="Dialog_3600014_Answer_0_Text" korean="Grocery store" />
+	<block key="Dialog_3600015_Title" korean="La Beanie furosemide ring" />
+	<block key="Dialog_3600015_Text0" korean="Per meet you! My name is called Beanie furosemide ring disaccharide! Jujuy, I called Vinnie different from those jundang store other items. When you import a \u003cbr\u003e and coins belonging to seal off the item and exchange getdang me to extract items! If you want to deal with me at any time, bring a la Vinnie \u003cbr\u003e silver ditch!" />
+	<block key="Dialog_3600015_Answer_0_Text" korean="Grocery store" />
+</blocks>

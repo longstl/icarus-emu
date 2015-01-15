@@ -1,0 +1,1723 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="eNetFailure_packeterror1" korean="(Ó·Ð " />
+	<block key="eNetFailure_packeterror2" korean="(Ó·Ð " />
+	<block key="eNetSuccess_Party_2" korean="[" />
+	<block key="eNetSuccess_Party_6" korean="[" />
+	<block key="eNetSuccess_Party_9" korean="[" />
+	<block key="eNetSuccess_Party_11" korean="[" />
+	<block key="eNetSuccess_Party_14" korean="[" />
+	<block key="eNetSuccess_Party_17" korean="ÓðÒè¸Óð¸tÇ " />
+	<block key="eNetSuccess_Quest_32" korean="[" />
+	<block key="eNetSuccess_Quest_42" korean="[" />
+	<block key="eNetSuccess_Quest_52" korean="[" />
+	<block key="eNetSuccess_Action" korean="e" />
+	<block key="eNetFailure_Action_NotLearnedSkill" korean="0¼´Æ " />
+	<block key="eNetFailure_Action_NoSerachableTarget" korean="" />
+	<block key="eNetFailure_Action_IsNotActableState" korean="aÅXÁtÇ " />
+	<block key="eNetFailure_Action_NotRegistedSkill" korean="ñ´]¸´ " />
+	<block key="eNetFailure_Action_NotOverActableTime" korean="¬Ç¬À©Æ " />
+	<block key="eNetFailure_Action_NotEnabled" korean="tÕù² " />
+	<block key="eNetFailure_Action_FarDistantThanActionRange" korean="¬ÀÈp¬¬¹ô¼ä² " />
+	<block key="eNetFailure_Action_WithinMinActableRange" korean="\ÍŒÁ " />
+	<block key="eNetFailure_Action_IsNotDamagableTarget" korean="" />
+	<block key="eNetFailure_Action_GuageLow" korean="M" />
+	<block key="eNetFailure_Action_WrongTarget" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Action_CannotActCastingSkillOnSilenceState" korean="hÎ5»ÁÀÜÐÐÅÁ”² " />
+	<block key="eNetFailure_Action_NotCastingState" korean="¤Â¬Ð " />
+	<block key="eNetFailure_Action_WhileActingLinkedSkill" korean="dÏô¼ " />
+	<block key="eNetFailure_Action_DeadState" korean="¬ÀÝ¹ " />
+	<block key="eNetFailure_Action_ChangingMapState" korean="õ¹DÇ " />
+	<block key="eNetFailure_Action_CastingForSkillState" korean="ÜÂÈ " />
+	<block key="eNetFailure_Action_KeepingMotionForSkillState" korean="tÇ " />
+	<block key="eNetFailure_Action_FearingState" korean="õ¬ìÓ " />
+	<block key="eNetFailure_Action_StuningState" korean="0®È " />
+	<block key="eNetFailure_Action_RoaredState" korean="¬ÀÇÄÖ " />
+	<block key="eNetFailure_Action_SleepState" korean="Âtº " />
+	<block key="eNetFailure_Action_SkillMovingState" korean="¤Â¬Ð " />
+	<block key="eNetFailure_Action_ParriedState" korean="¼DÅXÎ0®ÐÅ " />
+	<block key="eNetFailure_Action_RisingState" korean="õ¬É€½‘Å " />
+	<block key="eNetFailure_Action_StealthBlockState" korean=",Ò…ºTÖ " />
+	<block key="eNetFailure_Action_AnimatingState" korean="¤Â¬Ð " />
+	<block key="eNetFailure_Action_ActionAnimatingState" korean="ÀÉ®@Ç " />
+	<block key="eNetFailure_Action_CannotControlState" korean="Î­¹0Ñ|¹ " />
+	<block key="eNetFailure_Action_NeedItem" korean="¤Â¬Ð " />
+	<block key="eNetFailure_Action_NeedQuest" korean="Ð¤Â¸Ò" />
+	<block key="eNetFailure_Action_AuraBuff" korean="$Æ|·„¼Õ”² " />
+	<block key="eNetFailure_Action_NotExistBuff" korean="x¬$¸ˆÇÀÉ " />
+	<block key="eNetFailure_Action_CannotDetachDebuff" korean="µ„¼Õ”² " />
+	<block key="eNetFailure_Action_NoReturnArea" korean="À­XÖÀÉíÅtÇ " />
+	<block key="eNetFailure_Action_MonsterNotRegistered" korean="¬º¤Â0Ñ " />
+	<block key="eNetFailure_Action_NotCapturableHP" korean="¬º¤Â0ÑXÇ " />
+	<block key="eNetFailure_Action_InavlidActorType" korean="ÜÂÈÇ " />
+	<block key="eNetFailure_Action_NoReturnStone" korean="À­XÖÁDÇ " />
+	<block key="eNetFailure_Action_PacketError" korean="(Ó·Ð " />
+	<block key="eNetFailure_Action_NotOverGlobalCoolTime" korean="ÈíÅ " />
+	<block key="eNetFailure_Action_Untamabile" korean="8®ä´|Ç " />
+	<block key="eNetFailure_Action_TaminingFail" korean="8®ä´tÇ0® " />
+	<block key="eNetFailure_Action_NotEnoughSpaceforCreatureItem" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Action_NotEnoughSpaceforSoulStone" korean="xÇ¤¼ Ñ¬¹" />
+	<block key="eNetFailure_Action_InvalidBoardState" korean="ÑÐ¹Â " />
+	<block key="eNetFailure_Action_SoulAbsorptionFail" korean="Æ<Ö " />
+	<block key="eNetFailure_Action_NotOn_SeazeMode" korean="8®ä´tÇ0® " />
+	<block key="eNetFailure_Action_ToggledSkill" korean="¤Â¬ÐtÇ " />
+	<block key="eNetFailure_Action_NotJumpingSkill" korean="ÈÕ " />
+	<block key="eNetFailure_Action_NotBoardingSkill" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Action_NotTamable" korean="tÕù² " />
+	<block key="eNetFailure_Action_NoMatchingCreature" korean="tÕù²´”² " />
+	<block key="eNetFailure_Action_NotEnoughSpaceforCreature" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Action_MagicstonConvFailInvalidCreature" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Action_MagicstonConvFailWrongActionLevel" korean=" Ó\¸°ÆXÇ " />
+	<block key="eNetFailure_Action_MagicstonConvFailITObjectNotExist" korean="$ÁÈ´ " />
+	<block key="eNetFailure_Action_MagicstonConvMagicStoneNotExist" korean="$ÁÈ´ " />
+	<block key="eNetFailure_Action_MagicstonConvInvalidSkill" korean="Æ<ÖÁ " />
+	<block key="eNetFailure_Action_MagicstonConvNotAllowObserverState" korean="5Æ" />
+	<block key="eNetFailure_Action_MagicstonConvAction" korean="Æ<ÖÁ " />
+	<block key="eNetFailure_Action_MagicstonConvFailOnBoarding" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Action_NotTamableOnCombat" korean="È,Ò " />
+	<block key="eNetSuccess_Agreement" korean="”Æ­Ì " />
+	<block key="eNetFailure_Agreement_InvalidAgreementType" korean="Â}· " />
+	<block key="eNetFailure_Agreement_NotExistProposer" korean="ÈHÅXÕ”² " />
+	<block key="eNetFailure_Agreement_NotExistProposee" korean="ÈHÅ¼”² " />
+	<block key="eNetFailure_Agreement_CannotPropseMe" korean="ÇàÂ\ÕLÑ " />
+	<block key="eNetFailure_Agreement_ProposedAlready" korean="tÇø» " />
+	<block key="eNetFailure_Agreement_MyCutoff" korean="(Ìè²©º]¸ÐÅ " />
+	<block key="eNetFailure_Agreement_HisCutoff" korean="ÁÀ" />
+	<block key="eNetFailure_Agreement_Timeout" korean="ÜÂ¬tÇ " />
+	<block key="eNetFailure_Agreement_PacketError" korean="(Ó·Ð " />
+	<block key="eNetFailure_Agreement_MyFriendAlready" korean="\Îl­\¸ " />
+	<block key="eNetFailure_Agreement_HisFriendAlready" korean="ÁÀ" />
+	<block key="eNetFailure_Agreement_MyFriendSlotFull" korean="\Îl­©º]¸tÇ " />
+	<block key="eNetFailure_Agreement_HisFriendSlotFull" korean="ÁÀ" />
+	<block key="eNetFailure_Agreement_NotFriend" korean="\Îl­\¸ " />
+	<block key="eNetFailure_Agreement_MyBestFriendSlotFull" korean=" ¼¤Â¸Ò " />
+	<block key="eNetFailure_Agreement_HisBestFriendSlotFull" korean="ÁÀ" />
+	<block key="eNetFailure_Agreement_AlreadyParty" korean="tÇø» " />
+	<block key="eNetFailure_Agreement_NotMaster" korean="ÓðÒ¥ÇtÇ " />
+	<block key="eNetFailure_Agreement_MapInstance" korean="xÇX³ÐÅÁ”² " />
+	<block key="eNetFailure_Agreement_CannotTrade" korean="p¬˜·`Õ " />
+	<block key="eNetFailure_Agreement_NotPartyMasterMe" korean="ÓðÒ¥ÇtÇ " />
+	<block key="eNetFailure_Agreement_NotPartyMasterTarget" korean="ÁÀ" />
+	<block key="eNetFailure_Agreement_NotPartyMe" korean="ÓðÒÁÀÜÐ" />
+	<block key="eNetFailure_Agreement_NotPartyTarget" korean="ÁÀ" />
+	<block key="eNetFailure_Agreement_StateDuelMe" korean="°¬,Ò " />
+	<block key="eNetFailure_Agreement_StateDuelTarget" korean="ÁÀ" />
+	<block key="eNetFailure_Agreement_NoDuelRemain" korean="Á„¼XÇ " />
+	<block key="eNetFailure_Agreement_LevelNotMatch" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Agreement_MenteeFull" korean="ÈÇ " />
+	<block key="eNetFailure_Agreement_MentorExist" korean="tÇø» " />
+	<block key="eNetFailure_Agreement_NotGuild" korean="8®Ü´ÐÅ " />
+	<block key="eNetFailure_Agreement_AlreadyGuild" korean="tÇø» " />
+	<block key="eNetFailure_Agreement_NoInvitation" korean="8®Ü´ " />
+	<block key="eNetFailure_Agreement_GuildMemberFull" korean="\Í" />
+	<block key="eNetFailure_Agreement_CantBoarding" korean="ÑÐ¹Â`Õ " />
+	<block key="eNetFailure_Agreement_AlreadyBoarding" korean="tÇø» " />
+	<block key="eNetFailure_Agreement_NoBoardRequest" korean="ÑÐ¹Â " />
+	<block key="eNetFailure_Agreement_BoardingMemberFull" korean="tÇø» " />
+	<block key="eNetSuccess_auction" korean="e" />
+	<block key="eNetSuccess_auction_server_not_ready" korean="½¬ä¹¥Ç " />
+	<block key="eNetfailure_auction_npc_not_found" korean="tÕù² " />
+	<block key="eNetfailure_auction_too_far" korean="tÕù² " />
+	<block key="eNetfailure_auction_invalid_npc" korean="˜Ç»º´ " />
+	<block key="eNetfailure_auction_player_invalid_state" korean="ÁÀÈDÇ " />
+	<block key="eNetfailure_auction_invalid_page" korean="˜Ç»º´ " />
+	<block key="eNetfailure_auction_short_keyword" korean="€¬ÉÀ " />
+	<block key="eNetfailure_auction_item_not_found" korean="tÕù² " />
+	<block key="eNetfailure_auction_not_enough_money" korean="ŒÁÀÉ®tÇ " />
+	<block key="eNetfailure_auction_not_enough_space" korean="" />
+	<block key="eNetfailure_auction_cannot_buy_my_item" korean="ÇàÂtÇ " />
+	<block key="eNetfailure_auction_not_enough_seller_space" korean="Óä¹ " />
+	<block key="eNetfailure_auction_register_min_sellprice_limit" korean="Óä¹ " />
+	<block key="eNetfailure_auction_register_isnot_max_durability" korean="´°l­Ä³" />
+	<block key="eNetfailure_auction_register_my_limit_access" korean="\Í" />
+	<block key="eNetfailure_auction_register_system_limit_access" korean="Óä¹ " />
+	<block key="eNetfailure_auction_cannot_cancel_other_item" korean="ä²x¹ " />
+	<block key="eNetfailure_auction_item_for_account_not_exist" korean="È°À`Õ " />
+	<block key="eNetfailure_auction_register_invalid_item_type" korean="Óä¹ " />
+	<block key="eNetSuccess_Capture" korean="¤ÂlÐ°¹÷À " />
+	<block key="eNetFailure_Capture_EmptySkill" korean="8®ä´tÇ0® " />
+	<block key="eNetFailure_Capture_SkillFail" korean="8®ä´tÇ0® " />
+	<block key="eNetFailure_Capture_NoTarget" korean="8®ä´|Ç " />
+	<block key="eNetFailure_Capture_TargetIsNotMonster" korean="8®ä´|Ç " />
+	<block key="eNetFailure_Capture_MonsterSheetNotExist" korean="¬º¤Â0Ñ " />
+	<block key="eNetFailure_Capture_InvalidMonsterSheet" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Capture_RegisterdSheetAlready" korean="tÇø» " />
+	<block key="eNetFailure_Capture_MonsterSheetSlotisFull" korean="¬º¤Â0Ñ " />
+	<block key="eNetFailure_Capture_MonsterNotRegistered" korean="¬º¤Â0Ñ " />
+	<block key="eNetFailure_Caputre_NotCapturableHP" korean="8®ä´tÇ0®" />
+	<block key="eNetFailure_Capture_EmptyMagicStone_no_item" korean="D¾´ÅˆÇ”² " />
+	<block key="eNetFailure_Capture_MagicStone_no_item" korean="Æ<ÖÁ " />
+	<block key="eNetFailure_Capture_not_EmptyMagicStoneItem" korean="D¾´ÅˆÇ”² " />
+	<block key="eNetFailure_Capture_not_CaptureStateCaptured" korean="8®ä´ìÅÄÉ " />
+	<block key="eNetFailure_Capture_not_same_CreatureGrade" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Capture_FailtoCreateITObject" korean="Æ<ÖÁ " />
+	<block key="eNetSuccess_Changgo" korean="e" />
+	<block key="eNetFailure_Changgo_NotHave" korean="ŒÁ ÇXÕà¬ " />
+	<block key="eNetFailure_Changgo_StorageIncorrect" korean="=Ìà¬" />
+	<block key="eNetFailure_Changgo_InvenFull" korean="=Ìà¬ÐÅ " />
+	<block key="eNetFailure_Changgo_InsufficientMoney" korean="ŒÁ Ç\Õ " />
+	<block key="eNetFailure_Changgo_NotEqualItem" korean="¬@Ç " />
+	<block key="eNetFailure_Changgo_NotCountableItem" korean="ÂÉ· " />
+	<block key="eNetFailure_Changgo_AmountOver" korean="DÅtÇ\ÑXÇ " />
+	<block key="eNetFailure_Changgo_MaxAmountOver" korean="=Ìà¬" />
+	<block key="eNetFailure_Changgo_NotExistCharacter" korean="ŒÁ ÇXÕÀÉ " />
+	<block key="eNetFailure_Changgo_MaxCharacterCount" korean="Ä¬Èù² " />
+	<block key="eNetFailure_Changgo_CannotFindNpc" korean="=Ìà¬ " />
+	<block key="eNetFailure_Changgo_MoveImpossible" korean="=Ìà¬\¸ " />
+	<block key="eNetFailure_Changgo_DivideCountTooMuch" korean="˜°²$¸”² " />
+	<block key="eNetFailure_Changgo_DataError" korean="=Ìà¬ " />
+	<block key="eNetFailure_Changgo_PacketError" korean="=Ìà¬ " />
+	<block key="eNetSuccess_Chat" korean="e" />
+	<block key="eNetfailure_Chat_target_not_found" korean="Ó­Ð¹" />
+	<block key="eNetfailure_Chat_not_send_myself" korean="ÇàÂÐÅŒ¬ " />
+	<block key="eNetfailure_Chat_not_cooltime_of_shout" korean="xÆXÎ0®”² " />
+	<block key="eNetfailure_Chat_not_join_party" korean="ÓðÒÐÅ " />
+	<block key="eNetfailure_Chat_mycutoff" korean="´° " />
+	<block key="eNetfailure_Chat_hiscutoff" korean="ÁÀ" />
+	<block key="eNetfailure_Chat_not_guild" korean="8®Ü´ÐÅ " />
+	<block key="eNetFailure_Chat_PacketError" korean="DÌÓ " />
+	<block key="eNetSuccess_Customize" korean="e" />
+	<block key="eNetFailure_Customize_UnknownSerial" korean="DÌ± " />
+	<block key="eNetFailure_Customize_SystemError" korean="äÎ¤Â0ÑÈ¹tÇÕÉ " />
+	<block key="eNetFailure_Customize_PacketError" korean="äÎ¤Â0ÑÈ¹tÇÕÉ " />
+	<block key="eNetSuccess_Duel" korean="e" />
+	<block key="eNetFailure_Duel_RequestFail" korean="°¬,Ò " />
+	<block key="eNetFailure_Duel_SequenceError" korean="°¬,Ò " />
+	<block key="eNetFailure_Duel_MyCutoff" korean="ÁÀ" />
+	<block key="eNetFailure_Duel_HisCutoff" korean="´°" />
+	<block key="eNetFailure_Duel_SystemError" korean="°¬,Ò " />
+	<block key="eNetFailure_Duel_PacketError" korean="°¬,Ò " />
+	<block key="eNetSuccess_Enchant" korean="e" />
+	<block key="eNetFailure_Enchant_no_item" korean="¬TÖXÕ$¸”² " />
+	<block key="eNetFailure_Enchant_invalid_item" korean="¬TÖ " />
+	<block key="eNetFailure_Enchant_magicstone_needed" korean="¬TÖÐÅ " />
+	<block key="eNetFailure_Enchant_not_magicstone" korean="Æ<ÖÁtÇ " />
+	<block key="eNetFailure_Enchant_broken_item" korean="€½ÁÄÉ " />
+	<block key="eNetFailure_Enchant_invalid_slot_index" korean="ÈiÕ\Õ " />
+	<block key="eNetFailure_Enchant_invalid_npc" korean="¬TÖ " />
+	<block key="eNetFailure_Enchant_npc_too_far" korean="¬TÖ " />
+	<block key="enetfailure_enchant_not_monsterforce" korean="¬º¤Â0Ñ " />
+	<block key="eNetFailure_Enchant_InvalidSkill" korean="¬TÖ " />
+	<block key="eNetFailure_Enchant_Cannot_MagicStone_Addon" korean="Æ<ÖÁDÇ " />
+	<block key="eNetFailure_Enchant_StorageFull" korean="" />
+	<block key="eNetFailure_Enchant_not_enough_money" korean="ŒÁÀÉ®tÇ " />
+	<block key="eNetFailure_Enchant_repair_magicstone_needed" korean="Â¬¹ÐÅ " />
+	<block key="eNetFailure_Enchant_repair_magicstone_max_durability" korean="Æ<ÖÁXÇ " />
+	<block key="eNetFailure_Enchant_repair_magicstone_low_level" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Enchant_not_exist_conversion_magicstone" korean="À¼XÖÜÂ¬Ð " />
+	<block key="eNetFailure_Enchant_Cannot_MagicStone_Conversion" korean="Æ<ÖÁ<Ç\¸ " />
+	<block key="eNetFailure_Enchant_NotAllowObserverState" korean="5Æ" />
+	<block key="eNetSuccess_Extraction" korean="e" />
+	<block key="eNetSuccess_Guild" korean="e" />
+	<block key="eNetFailure_Guild_PacketError" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_DBError" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_UnknownDBKey" korean="LÅ " />
+	<block key="eNetFailure_Guild_SendAlready" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_NameOccupied" korean="¬À©Æ " />
+	<block key="eNetFailure_Guild_NameLengthOver" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_NameIncludedWordBaned" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_NotCreateTimeLimitYet" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_Already" korean="tÇø» " />
+	<block key="eNetFailure_Guild_Not" korean="8®Ü´ÐÅ " />
+	<block key="eNetFailure_Guild_InvalidGuildMember" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_Not_Allow" korean="Œ­\ÕtÇ " />
+	<block key="eNetFailure_Guild_gold_needed" korean="DÕ”Æ " />
+	<block key="eNetFailure_Guild_Already_GuildOfficer" korean="tÇø» " />
+	<block key="eNetFailure_Guild_Not_GuildOfficer" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_invalid_npc" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_npc_too_far" korean="8®Ü´ " />
+	<block key="eNetSuccess_Interaction" korean="e" />
+	<block key="eNetFailure_Interaction_Test_Quest_No_Match" korean="DÕ”ÆÐ¤Â¸Ò" />
+	<block key="eNetFailure_Interaction_Test_No_Item" korean="DÕ”Æ\Õ " />
+	<block key="eNetFailure_Interaction" korean="xÇ0Ñ	¸XÁtÇ " />
+	<block key="eNetFailure_Interaction_NotOnInteractive" korean="Œ­\ÕtÇ " />
+	<block key="eNetFailure_Interaction_CollectingGrade" korean="DÌÑÉ " />
+	<block key="eNetFailure_Interaction_CollectingExp" korean="DÌÑÉ " />
+	<block key="eNetFailure_Interaction_Invalid_Interacter" korean="Èù²XÕÀÉ " />
+	<block key="eNetFailure_Interaction_TooFast" korean="Î¤ÂÓ " />
+	<block key="eNetFailure_Interaction_NeedCasting" korean="Î¤ÂÓtÇ " />
+	<block key="eNetFailure_Interaction_Invalid_CastingTarget" korean="Î¤ÂÓ\Õ " />
+	<block key="eNetFailure_Interaction_TooFar" korean="p¬¬¹" />
+	<block key="eNetFailure_Interaction_Invalid_itobject" korean="xÇ0Ñ	¸XÁ " />
+	<block key="eNetFailure_Interaction_Pass" korean="xÇ0Ñ	¸XÁDÇ " />
+	<block key="eNetFailure_Interaction_Moving" korean="tÇÙ³ " />
+	<block key="eNetSuccess_Item" korean="e" />
+	<block key="eNetFailure_Item_NotHave" korean="ŒÁ ÇXÕà¬ " />
+	<block key="eNetFailure_Item_StorageIncorrect" korean="" />
+	<block key="eNetFailure_Item_StorageFull" korean="" />
+	<block key="eNetFailure_Item_AmountIncorrect" korean="DÅtÇ\ÑXÇ " />
+	<block key="eNetFailure_Item_AmountOver" korean="DÅtÇ\ÑXÇ " />
+	<block key="eNetFailure_Item_NotEqualItem" korean="¬@Ç " />
+	<block key="eNetFailure_Item_NotCountableItem" korean="¤ÂÝÐ " />
+	<block key="eNetFailure_Item_MaxAmountOver" korean="\Í" />
+	<block key="eNetFailure_Item_EquipedEqualPart" korean="¬@Ç " />
+	<block key="eNetFailure_Item_InvenExt_Money" korean="" />
+	<block key="eNetFailure_Item_InvenExt_Level" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Item_InvenExt_ReachMax" korean="T³ " />
+	<block key="eNetFailure_Item_BelowItemLevel" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Item_DifferentItemClass" korean="ÁÉÅÅtÇ " />
+	<block key="eNetFailure_Item_InsufficientMoney" korean="ŒÁÀÉ®tÇ " />
+	<block key="eNetFailure_Item_StorageExt_ReachMax" korean="=Ìà¬|¹ " />
+	<block key="eNetFailure_Item_MoveImpossible" korean="" />
+	<block key="eNetFailure_Item_MoveImpossibleBag" korean="¼¸¯$¸”² " />
+	<block key="eNetFailure_Item_DivideCountTooMuch" korean="˜°²$¸”² " />
+	<block key="eNetFailure_Item_NotDyeingItem" korean="üÅÉÀ}Å " />
+	<block key="eNetFailure_Item_DiffrentDyeingType" korean="DÅtÇ\Ñ©Æ " />
+	<block key="eNetFailure_Item_DyeingImpossible" korean="üÅÉÀtÇ " />
+	<block key="eNetFailure_Item_InvalidNpc" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="eNetFailure_Item_npc_too_far" korean="N" />
+	<block key="eNetFailure_item_NotCustomizeInfo" korean="äÎ¤Â0ÑÈ¹tÇˆÉ " />
+	<block key="eNetFailure_Item_BelongingImpossible" korean="À­ÁtÕÈ" />
+	<block key="eNetFailure_Item_AbandonImpossible" korean="Ó4­`Õ " />
+	<block key="eNetFailure_Item_DyeingfailServerError" korean="Á„¼ " />
+	<block key="eNetFailure_Item_reinforcestone_needed" korean="DÕ”Æ\Õ " />
+	<block key="eNetFailure_Item_reinforce_no_target_item" korean="¬TÖXÕ$¸”² " />
+	<block key="eNetFailure_Item_reinforce_invalid_item" korean="pÈt¬ÐÅ " />
+	<block key="eNetFailure_Item_reinforce_broken_item" korean="€½ÁÄÉ " />
+	<block key="eNetFailure_Item_reinforceLevel_ReachMax" korean="¬TÖXÎ" />
+	<block key="eNetFailure_Item_extraction_tool_needed" korean="”ÍœÍÄ³l­ " />
+	<block key="eNetFailure_Item_extraction_no_target_item" korean="”ÍœÍXÕ$¸”² " />
+	<block key="eNetFailure_Item_extraction_invalid_item" korean="pÈt¬ÐÅ " />
+	<block key="eNetFailure_Item_extraction_broken_item" korean="€½ÁÄÉ " />
+	<block key="enetfailure_item_extraction_item_too_high" korean="”ÍœÍXÕ$¸”² " />
+	<block key="eNetFailure_Item_NotDropOwner" korean="è¸Ó " />
+	<block key="eNetFailure_Item_DeadPicker" korean="¬ÀÝ¹ " />
+	<block key="eNetFailure_Item_InvalidDropper" korean="è¸Ó " />
+	<block key="eNetFailure_Item_InvalidDropItem" korean="è¸Ó`Õ " />
+	<block key="eNetFailure_Item_OnDropGame" korean="tÕù² " />
+	<block key="eNetFailure_Item_CannotDropGame" korean="üÈ¬ÀÇ " />
+	<block key="eNetFailure_Item_NotUsable" korean="DÅtÇ\ÑtÇ " />
+	<block key="eNetFailure_Item_InvalidTarget" korean="" />
+	<block key="eNetFailure_Item_NotDamagableTarget" korean="ÁÁÀ´ " />
+	<block key="eNetFailure_Item_ScenarioPlaying" korean="ä²x¹ " />
+	<block key="eNetFailure_Item_InvalidNeedArea" korean="tÕù² " />
+	<block key="eNetFailure_Item_NotOverUsableTime" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Item_InvalidTargetType" korean="" />
+	<block key="eNetFailure_Item_InvalidItemSkill" korean="tÕù² " />
+	<block key="eNetFailure_Item_CannotUseNow" korean="DÅtÇ\ÑDÇ " />
+	<block key="eNetFailure_Item_ScenarioNotExist" korean="¬À©Æ`Õ " />
+	<block key="eNetFailure_Item_PacketError" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Item_NotBoxItem" korean=" Á<»ÁÀÇ " />
+	<block key="eNetFailure_Item_CloseBoxItem" korean=" Á<»ÁÀÇ " />
+	<block key="eNetFailure_Item_InvalidBoxInItem" korean=" Á<»ÁÀÇ " />
+	<block key="eNetFailure_Item_IsNotToggleItem" korean=" Ñ" />
+	<block key="eNetFailure_Item_IsToggleItem" korean=" Ñ" />
+	<block key="eNetFailure_Item_ImpossibleChangeEquip" korean="Ù³‘ÇtÇ " />
+	<block key="eNetFailure_Item_NotAllowObserverState" korean="5Æ" />
+	<block key="eNetFailure_Item_DifferentDyeingType" korean="DÅtÇ\Ñ©Æ " />
+	<block key="eNetFailure_Item_dyeing_needed" korean="DÕ”Æ\Õ " />
+	<block key="eNetFailure_Item_dyeing_no_target_item" korean="üÅÉÀXÕ$¸”² " />
+	<block key="eNetFailure_Item_DivideCountIncorrect" korean="˜°²$¸”² " />
+	<block key="eNetFailure_Item_NotEqualStorage" korean="¬@Ç " />
+	<block key="eNetFailure_Item_DivideMergeNotHave" korean="˜°²$¸”² " />
+	<block key="eNetFailure_Item_CannotUseItemOnRide" korean="ÑÐ¹Â " />
+	<block key="eNetSuccess_LearnSkill" korean="e" />
+	<block key="eNetFailure_LearnSkill_NoSkillBook" korean="" />
+	<block key="eNetFailure_LearnSkill_InvalidSkillBook" korean="¤Â¬Ð½tÇ " />
+	<block key="eNetFailure_LearnSkill_InvalidSkill" korean="˜Ç»º´ " />
+	<block key="eNetFailure_LearnSkill_UserLevelRequired" korean="Î­¹0Ñ " />
+	<block key="eNetFailure_LearnSkill_SkillPointRequired" korean="¤Â¬Ð " />
+	<block key="eNetFailure_LearnSkill_PreskillRequired" korean=" Á‰Õ " />
+	<block key="eNetFailure_LearnSkill_PreskillLvRequired" korean=" Á‰Õ " />
+	<block key="eNetFailure_LearnSkill_TabpointRequired" korean="tÕù² " />
+	<block key="eNetFailure_LearnSkill_SlotisFull" korean="¤Â¬ÐDÇ " />
+	<block key="eNetFailure_Learnskill_AlreadyHave" korean="tÇø» " />
+	<block key="eNetFailure_Learnskill_InvalidClass" korean="ÁÉÅÅtÇ " />
+	<block key="eNetFailure_LearnSkill_return_PreskillcannotErase" korean=" Á‰Õ " />
+	<block key="eNetFailure_LearnSkill_return_notfound" korean="0¼°ÆÀÉ " />
+	<block key="eNetFailure_LearnSkill_return_Tabpoint_required" korean="íÐ " />
+	<block key="eNetFailure_LearnSkill_Return_mission_required" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_LearnSkill_NotEnough_Money" korean="È³tÇ " />
+	<block key="eNetSuccess_Mail" korean="e" />
+	<block key="eNetFailure_Mail_DBError" korean="Tº|Ç " />
+	<block key="eNetFailure_Mail_receiver_not_exist" korean="¸ÓÀÉ|¹ " />
+	<block key="eNetFailure_Mail_title_not_exist" korean="È©ºDÇ " />
+	<block key="eNetFailure_Mail_target_not_found" korean="¸ÓÀÉ|¹ " />
+	<block key="eNetFailure_Mail_dbkey_not_exist" korean="p³tÇ0Ñ " />
+	<block key="eNetFailure_Mail_receiver_mail_is_full" korean="¸ÓÀÉ|¹ " />
+	<block key="eNetFailure_Mail_already_get_money" korean="¨Ì€½´ " />
+	<block key="eNetFailure_Mail_already_get_mail" korean="tÕù² " />
+	<block key="eNetFailure_Mail_already_get_item" korean="tÕù² " />
+	<block key="eNetFailure_Mail_not_enough_money" korean="¸ÓÀÉ|¹ " />
+	<block key="eNetFailure_Mail_title_length_too_long" korean="¸ÓÀÉ " />
+	<block key="eNetFailure_Mail_letter_length_too_long" korean="¸ÓÀÉ " />
+	<block key="eNetFailure_Mail_target_length_too_long" korean="" />
+	<block key="eNetFailure_Mail_no_have_send_item" korean="È¡ÁDÅtÇ\ÑDÇ " />
+	<block key="eNetFailure_Mail_item_record_not_found" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Mail_item_db_create_failed" korean="DÅtÇ\ÑDÇ " />
+	<block key="eNetFailure_Mail_have_not_item" korean="tÕù² " />
+	<block key="eNetFailure_Mail_invalid_item_dbkey" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Mail_passed_expiration_date" korean="Tº|Ç " />
+	<block key="eNetFailure_Mail_not_take_time_limit_yet" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Mail_trade_impossible" korean="¨Ì€½`Õ " />
+	<block key="eNetFailure_Mail_not_mail_object" korean="¸ÓÀÉ " />
+	<block key="eNetFailure_Mail_DataError" korean="Tº|Ç " />
+	<block key="eNetFailure_Mail_PacketError" korean="Tº|Ç " />
+	<block key="eNetFailure_Mail_money_too_much" korean="¸ÓÀÉ\¸ " />
+	<block key="eNetFailure_Mail_bag_storage_full" korean="" />
+	<block key="eNetSuccess_Move" korean="e" />
+	<block key="eNetFailure_Move_IsNotOnTheMap" korean="õ¹ " />
+	<block key="eNetFailure_Move_InvalidPortal" korean=" Ç¨ÖXÕÀÉ " />
+	<block key="eNetFailure_Move_OutOfRangeFromPortal" korean="ìÓÈÐ\¸€½0Ñ " />
+	<block key="eNetFailure_Move_NotEnoughMoneyForPortal" korean="ìÓÈÐ " />
+	<block key="eNetFailure_Move_Access_MaxLayer" korean="xÇX³ " />
+	<block key="eNetFailure_Move_Different_DungeonKey" korean="Î­¹0Ñ" />
+	<block key="eNetFailure_Move_Different_Party_Play" korean="ä²x¹ " />
+	<block key="eNetFailure_Move_Low_Level" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Move_IsNot_Finished_Quest" korean="…Ç¥ÇÐÅ " />
+	<block key="eNetFailure_Move_DoNot_Have_Item" korean="…Ç¥ÇÐÅ " />
+	<block key="eNetFailure_Move_Invalid_Faction" korean="1Á¥ÕtÇ " />
+	<block key="eNetFailure_Move_IsNot_Party" korean="ÓðÒÐÅ " />
+	<block key="eNetFailure_Move_InvalidRegion" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Move_DuplicatedRegion" korean="tÇø» " />
+	<block key="eNetFailure_Move_NotDead" korean="¬ÀÝ¹ " />
+	<block key="eNetFailure_Move_PacketError" korean="tÇÙ³ " />
+	<block key="eNetSuccess_Param" korean="e" />
+	<block key="eNetFailure_Param_PacketError" korean="P" />
+	<block key="eNetSuccess_Party" korean="e" />
+	<block key="eNetFailure_Party_PacketError" korean="ÓðÒ " />
+	<block key="eNetFailure_Party_Not" korean="ÓðÒÐÅ " />
+	<block key="eNetFailure_Party_Already" korean="tÇø» " />
+	<block key="eNetFailure_Party_NotFound" korean="tÕù² " />
+	<block key="eNetFailure_Party_Full" korean="ÓðÒÐÅ " />
+	<block key="eNetFailure_Party_NotMaster" korean="Œ­\ÕtÇ " />
+	<block key="eNetFailure_Party_TimeDelay" korean="Í­Ì " />
+	<block key="eNetFailure_Party_NoInvite" korean="Í" />
+	<block key="eNetFailure_Party_MapInstance" korean="ä²x¹ " />
+	<block key="eNetFailure_Party_MyCutoff" korean="´° " />
+	<block key="eNetFailure_Party_HisCutoff" korean="ÁÀ" />
+	<block key="eNetSuccess_Quest" korean="e" />
+	<block key="eNetFailure_Quest_TheNpcCannotOpenDialog" korean="n" />
+	<block key="eNetFailure_Quest_TheNpcNotHavingTheQuest" korean="tÕù² " />
+	<block key="eNetFailure_Quest_TheItemNotHavingTheQuest" korean="tÕù² " />
+	<block key="eNetFailure_Quest_MyLevelBelowQuestLevel" korean="tÕù² " />
+	<block key="eNetFailure_Quest_HaveNoItemStartingTheQuest" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_MyClassDifferentQuest" korean="Ö¬ÇXÇ " />
+	<block key="eNetFailure_Quest_NotDonePrevQuest" korean=" Á‰ÕÐ¤Â¸Ò|¹ " />
+	<block key="eNetFailure_Quest_DoneEqualQuest" korean="[" />
+	<block key="eNetFailure_Quest_DoingQuest" korean="Ö¬Ç " />
+	<block key="eNetFailure_Quest_NotDoingQuest" korean="Ö¬Ç " />
+	<block key="eNetFailure_Quest_QuestFull" korean="T³ " />
+	<block key="eNetFailure_Quest_TheNpcNotFinishTheQuest" korean="tÕù² " />
+	<block key="eNetFailure_Quest_RewardItemSelectionError" korean="ô¼ÁÀDÅtÇ\Ñ " />
+	<block key="eNetFailure_Quest_InventoryFull" korean="" />
+	<block key="eNetFailure_Quest_NotFinishedQuest" korean="DÆÌ¸´ " />
+	<block key="eNetFailure_Quest_HaveNoItemToReturn" korean="¼©°tÕ|Å`Õ " />
+	<block key="eNetFailure_Quest_NotQuestItem" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_QuestItem" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_CannotJointInParty" korean="ÓðÒ " />
+	<block key="eNetFailure_Quest_CannotFindNpc" korean="tÕù² " />
+	<block key="eNetFailure_Quest_LongDistanceWithTheNpc" korean="tÕù² " />
+	<block key="eNetFailure_Quest_NoGivingUp" korean="ìÓ0®" />
+	<block key="eNetFailure_Quest_OnEscortGoing" korean="ä²x¹ " />
+	<block key="eNetFailure_Quest_CannotJoinEscort" korean="tÇ¤¼¸Ò " />
+	<block key="eNetFailure_Quest_InvalidMapId" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Quest_InvalidAreaId" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Quest_InvalidSkillId" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Quest_InvalidScenarioId" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Quest_NotFoundEndTalkNpc" korean="N" />
+	<block key="eNetFailure_Quest_LimitTimeOver" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_OverRepeatCount" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_DataError" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_PacketError" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_NotJointInParty" korean="ÓðÒÐÅ " />
+	<block key="eNetFailure_Quest_RefuseShareQuest" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Quest_AlreadyOnShareQuest" korean="tÇø» " />
+	<block key="eNetFailure_Quest_LogOffPlayer" korean="tÕù² " />
+	<block key="eNetFailure_Quest_MyLevelBelowQuestFinishLv" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Quest_AlreadyHave" korean="tÇø» " />
+	<block key="eNetFailure_Quest_SlotisFull" korean="¤Â¬ÐDÇ " />
+	<block key="eNetFailure_Quest_PreskillRequired" korean=" Á‰Õ " />
+	<block key="eNetFailure_Quest_PreskillLvRequired" korean=" Á‰Õ " />
+	<block key="eNetSuccess_Relation" korean="e" />
+	<block key="eNetFailure_Relation_SendAlready" korean="¬¹¤Â¸Ò|¹ " />
+	<block key="eNetFailure_Relation_InvalidRelation" korean="\Îl­©º]¸ÐÅ " />
+	<block key="eNetFaulure_Relation_NotExist" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="eNetFaulure_Relation_AlreadyCutoff" korean="tÇø» " />
+	<block key="eNetFaulure_Relation_NotCutoff" korean="(Ìè² " />
+	<block key="eNetFaulure_Relation_CannotCutoffMe" korean="ÇàÂDÇ " />
+	<block key="eNetFaulure_Relation_CutoffFull" korean="(Ìè² " />
+	<block key="eNetFaulure_Relation_CommentLengthOver" korean="$Æ˜²XÇ " />
+	<block key="eNetFaulure_Relation_InvalidFriendState" korean="\Îl­XÇ " />
+	<block key="eNetFaulure_Relation_CutoffMemotLengthOver" korean="(Ìè² " />
+	<block key="eNetFailure_Relation_DBError" korean="xÇå¹ " />
+	<block key="eNetFailure_Relation_PacketError" korean="xÇå¹ " />
+	<block key="eNetSuccess_SCEvent" korean="e" />
+	<block key="eNetsuccess_store" korean="e" />
+	<block key="eNetfailure_store_npc_not_found" korean="tÕù² " />
+	<block key="eNetfailure_store_invalid_npc" korean="ÁÀÈ " />
+	<block key="eNetfailure_store_item_not_found" korean="ÁÀÈÐÅ " />
+	<block key="eNetfailure_store_item_count_not_match" korean="DÅtÇ\Ñ " />
+	<block key="eNetfailure_store_not_enough_money" korean="ŒÁÀÉ®tÇ " />
+	<block key="eNetfailure_store_npc_has_no_store" korean="tÇ " />
+	<block key="eNetfailure_store_wrong_price" korean="l­…Ç(" />
+	<block key="eNetfailure_store_inven_error" korean="" />
+	<block key="eNetfailure_store_item_slot_empty" korean="Óä¹XÕ$¸”² " />
+	<block key="eNetfailure_store_rebuy_not_match" korean="”Æ­Ì\Õ " />
+	<block key="eNetfailure_store_rebuy_item_not_exist" korean="¬Çl­ä¹XÕ$¸”² " />
+	<block key="eNetfailure_store_sell_impossible_item" korean="Óä¹`Õ " />
+	<block key="eNetfailure_store_too_far" korean="ÁÀÈ " />
+	<block key="eNetfailure_store_storage_full" korean="" />
+	<block key="eNetfailure_store_invalid_item_count" korean="l­ä¹XÕ$¸”² " />
+	<block key="eNetfailure_store_refund_time_over" korean="XÖˆ½ " />
+	<block key="eNetSuccess_trade" korean="e" />
+	<block key="eNetfailure_trade_im_ontrade" korean="tÇø» " />
+	<block key="eNetfailure_trade_target_is_ontrade" korean="ÁÀ" />
+	<block key="eNetfailure_trade_target_not_found" korean="p¬˜· " />
+	<block key="eNetfailure_trade_item_not_found" korean="" />
+	<block key="eNetfailure_trade_item_is_not_on_trade" korean="DÅtÇ\ÑtÇ " />
+	<block key="eNetfailure_trade_no_empty_slot" korean="p¬˜·=ÌÐÅ " />
+	<block key="eNetfailure_trade_not_enough_money" korean="ŒÁÀÉ®tÇ " />
+	<block key="eNetfailure_trade_not_ready" korean="p¬˜· " />
+	<block key="eNetfailure_trade_not_enough_space" korean="" />
+	<block key="eNetfailure_trade_not_open" korean="tÇø» " />
+	<block key="eNetfailure_trade_item_is_already_on_trade" korean="tÇø» " />
+	<block key="eNetfailure_trade_user_cancel" korean="p¬˜·|¹ " />
+	<block key="eNetfailure_trade_impossible_item" korean="p¬˜·" />
+	<block key="eNetfailure_trade_already_decided" korean="ÁÀ" />
+	<block key="eNetfailure_trade_already_ready" korean="tÇø» " />
+	<block key="eNetSuccess_User" korean="e" />
+	<block key="eNetFailure_User_FailEntrance" korean="DÌ± " />
+	<block key="eNetFailure_User_SequenceError" korean="ÂÁÁÀ " />
+	<block key="eNetFailure_User_DBError" korean="p³tÇ0Ñ ¼tÇ¤Â " />
+	<block key="eNetFailure_User_MadeCharFull" korean="Î­¹0Ñ|¹ " />
+	<block key="eNetFailure_User_UnknownDBKey" korean="LÅÂÆÅ”² " />
+	<block key="eNetFailure_User_NameLengthOver" korean="Î­¹0Ñ " />
+	<block key="eNetFailure_User_NameOccupied" korean="¬À©Æ " />
+	<block key="eNetFailure_User_NameIncludedWordBaned" korean="¬À©Æ " />
+	<block key="eNetFailure_User_TryToDownloadTwice" korean="P´ " />
+	<block key="eNetFailure_User_NotRegistedWorld" korean="ñ´]¸´ " />
+	<block key="eNetFailure_User_NotOperatingWorld" korean="‘ÇÙ³ " />
+	<block key="eNetFailure_User_SelectingEqualWorld" korean="¬@Ç " />
+	<block key="eNetFailure_User_OverMaxUserSelectedWorld" korean=" ÁÝÐ\Õ " />
+	<block key="eNetFailure_User_Invalid_Channel" korean="˜Ç»º´ " />
+	<block key="enetfailure_user_namelengthshot" korean="2" />
+	<block key="eNetFailure_User_BlockedID" korean="¾í·´ " />
+	<block key="eNetFailure_User_CannotFindNpc" korean="tÕù² " />
+	<block key="eNetFailure_User_NotDeleteGuildMaster" korean="8®Ü´¥ÇxÇ " />
+	<block key="eNetFailure_User_SystemError" korean="U" />
+	<block key="eNetFailure_User_PacketError" korean="U" />
+	<block key="eNetFailure_User_Npc_too_far" korean="N" />
+	<block key="eNetSuccess_GMSVAgent" korean="e" />
+	<block key="eNetFailure_GMSVAgent_FileNotFound" korean="äÂ‰Õ " />
+	<block key="eNetFailure_GMSVAgent_AlreadyRunning" korean="tÇø» " />
+	<block key="eNetFailure_GMSVAgent_UnknownError" korean="LÅ " />
+	<block key="eNetSuccess_GMSVGameServers" korean="”Æ­Ì " />
+	<block key="eNetFailure_GMSVGameServers_OperatingWorldSomewhere" korean="ÔÆÜ´ " />
+	<block key="eNetFailure_GMSVGameServers_InvalidWorld" korean="˜Ç»º´ " />
+	<block key="eNetSuccess_GMSVManager" korean="”Æ­Ì " />
+	<block key="eNetFailure_GMSVManager_NotExistedID" korean="tÕù² " />
+	<block key="eNetFailure_GMSVManager_WrongPassword" korean="(Ó¤ÂÌÆÜ´" />
+	<block key="eNetFailure_GMSVManager_DBQueryError" korean="D" />
+	<block key="eNetFailure_GMSVManager_SuspiciousPacket" korean="˜Ç»º´ " />
+	<block key="eNetFailure_GMSVManager_InvalidWorld" korean="˜Ç»º´ " />
+	<block key="eNetFailure_GMSVManager_EventNotificationFull" korean="tÇ¤¼¸Ò " />
+	<block key="eNetFailure_GMSVManager_WorldisRunning" korean="ÔÆÜ´" />
+	<block key="eNetFailure_GMSVManager_WorldisStopped" korean="ÔÆÜ´" />
+	<block key="eNetSuccess_Entry" korean="…Ç¥Ç " />
+	<block key="eNetFailure_Entry_SequenceError" korean="Œ¬„Ç " />
+	<block key="eNetFailure_Entry_NotExistedID" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="eNetFailure_Entry_WrongPassword" korean="(Ó¤ÂÌÆÜ´" />
+	<block key="eNetFailure_Entry_BlockedIP" korean="tÇ©ÆtÇ " />
+	<block key="eNetFailure_Entry_BlockedID" korean="tÇ©ÆtÇ " />
+	<block key="eNetFailure_Entry_NotUserForGame" korean="Œ¬„Ç " />
+	<block key="eNetFailure_Entry_EqualAccountConnected" korean="ä²x¹ " />
+	<block key="eNetFailure_Entry_DBQueryError" korean="D" />
+	<block key="eNetFailure_Entry_AccountFull" korean="Ä¬È " />
+	<block key="eNetFailure_Entry_UnlinkedWithMainServer" korean="TºxÇ " />
+	<block key="eNetFailure_Entry_NotRegistedWorld" korean="ñ´]¸´ " />
+	<block key="eNetFailure_Entry_NotOperatingWorld" korean="‘ÇÙ³ÉxÇ " />
+	<block key="eNetFailure_Entry_OverMaxUser" korean="Ö¬Ç " />
+	<block key="eNetFailure_Entry_SuspiciousPacket" korean="LÅ " />
+	<block key="eNetFailure_Entry" korean="ìÓ­ÈxÇ " />
+	<block key="eNetSuccess_Channel" korean="DÌ± " />
+	<block key="eNetFailure_Channel_NotRegistedWorld" korean="ñ´]¸´ " />
+	<block key="eNetFailure_Channel_NotOperatingWorld" korean="‘ÇÙ³ÉxÇ " />
+	<block key="eNetFailure_Channel_OperatingWorldSomewhere" korean="tÇø» " />
+	<block key="eNetFailure_Channel_AccountNotConnected" korean="ÈÁÉxÇ " />
+	<block key="eNetFailure_Channel_PacketError" korean="DÌ± " />
+	<block key="eNetSuccess_Login" korean="\¸ø­xÇ" />
+	<block key="eNetFailure_Login_EqualAccountConnected" korean="¬@Ç " />
+	<block key="eNetFailure_Login_DBQueryError" korean="p³tÇ0Ñ ¼tÇ¤ÂüÏ¬¹ " />
+	<block key="eNetFailure_Login_AccountFull" korean="ÈÁ " />
+	<block key="eNetFailure_Login_AccountNotConnected" korean="ÈÁ " />
+	<block key="eNetFailure_Login_WorldNotRegisted" korean="ñ´]¸´ " />
+	<block key="eNetFailure_Login_NotOperatingWorld" korean="‘ÇÙ³ÉxÇ " />
+	<block key="eNetSuccess_StressTest" korean="¤Â¸Ò¸¤Â " />
+	<block key="eNetSuccess_Creature" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Creature_Empty" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Creature_NotBoarding" korean=" Ó\¸°ÆÐÅ " />
+	<block key="eNetFailure_Creature_Boarding" korean="tÇø» " />
+	<block key="eNetFailure_Creature_NotLearnedSkill" korean="0¼°ÆÀÉ " />
+	<block key="eNetFailure_Creature_NoSerachableTarget" korean="ÀÐŸ¬DÇ " />
+	<block key="eNetFailure_Creature_IsNotActableState" korean="‰ÕÙ³tÇ " />
+	<block key="eNetFailure_Creature_NotRegistedSkill" korean="ñ´]¸´ " />
+	<block key="eNetFailure_Creature_NotOverActableTime" korean="DÅÁÉ " />
+	<block key="eNetFailure_Creature_NotEnabled" korean="\Ö1ÁTÖ " />
+	<block key="eNetFailure_Creature_FarDistantThanActionRange" korean="¬ÀÈp¬¬¹ô¼ä² " />
+	<block key="eNetFailure_Creature_WithinMinActableRange" korean="±4» " />
+	<block key="eNetFailure_Creature_IsNotDamagableTarget" korean="õ¬©¬`Õ " />
+	<block key="eNetFailure_Creature_GaugeLow" korean="Œ¬tÇÀÉ" />
+	<block key="eNetFailure_Creature_WrongTarget" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Creature_CannotActCastingSkillOnSilenceState" korean="hÎ5» " />
+	<block key="eNetFailure_Creature_NotCastingState" korean="Î¤ÂÓ " />
+	<block key="eNetFailure_Creature_WhileActingLinkedSkill" korean="Á¹lÐ " />
+	<block key="eNetFailure_Creature_NotOverGlobalCoolTime" korean="ÈíÅ " />
+	<block key="eNetFailure_Creature_ToggledSkill" korean="¤Â¬ÐtÇ " />
+	<block key="eNetFailure_Creature_NeedQuest" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Creature_NeedItem" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Creature_MagicstonConvFailInvalidCreature" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Creature_MagicstonConvFailWrongCreatureLevel" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Creature_MagicstonConvFailITObjectNotExist" korean="Æ<ÖÁ " />
+	<block key="eNetFailure_Creature_MagicstonConvMagicStoneNotExist" korean="$ÁÈ´ " />
+	<block key="eNetFailure_Creature_MagicstonConvInvalidSkill" korean="Æ<ÖÁ " />
+	<block key="eNetFailure_Creature_MagicstonConvNotAllowObserverState" korean="5Æ" />
+	<block key="eNetFailure_Creature_MagicstonConvAction" korean="Æ<ÖÁ " />
+	<block key="eNetFailure_Item_ImpossibleChangeEquip2" korean=" Ó\¸°Æ " />
+	<block key="ServerNotice_0002" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_User_ForceKick_GM" korean="Á„¼" />
+	<block key="eNetFailure_User_ForceKick_Error" korean="XÎ…ºÈxÇ " />
+	<block key="eNetFailure_User_ForceKick_DBError" korean="D" />
+	<block key="eNetFailure_User_ForceKick_Timeout" korean="¥ÇÜÂ¬ " />
+	<block key="eNetFailure_User_ForceKick_Etc" korean="Á„¼" />
+	<block key="enetfailure_item_gatheringfinished" korean="Ð¤Â¸Ò " />
+	<block key="eNetFailure_Entry_ForceKick_Push" korean="ä²x¹ " />
+	<block key="eNetFailure_Entry_ForceKick_GM" korean="ÁD¾¤Â´ÆÆÐÅ " />
+	<block key="eNetFailure_Entry_ForceKick_Error" korean="Õ\¸ø­¨· " />
+	<block key="eNetFailure_Entry_ForceKick_DBError" korean="D" />
+	<block key="eNetFailure_Entry_ForceKick_Timeout" korean="¥Ç0®¬ " />
+	<block key="eNetFailure_Entry_ForceKick_Etc" korean="0®ÀÐ " />
+	<block key="eNetFailure_User_DiffrenceProtocolVersion" korean="„¼ÈtÇ " />
+	<block key="enetfailure_action_boardingskill" korean="ÑÐ¹ÂÉÐÅÌ¹ " />
+	<block key="enetfailure_action_frozenstate" korean="Ù³ÁÀÁÀÜÐ " />
+	<block key="enetfailure_action_gaugelow" korean="ŒÁ¨ºÂXÎ" />
+	<block key="enetfailure_action_removeresurrectionpenaltydataerror" korean="p³tÇ0Ñ " />
+	<block key="enetfailure_action_removeresurrectionpenaltyinvalidnpc" korean="€½\Ö " />
+	<block key="enetfailure_action_removeresurrectionpenaltynopenalty" korean="€½\Ö " />
+	<block key="enetfailure_action_removeresurrectionpenaltynotenoughmoney" korean="ŒÁÀÉ®tÇ " />
+	<block key="enetfailure_action_ridefail" korean=",Æ|·ÀÐ0®|¹ " />
+	<block key="enetfailure_action_NeedBagItemSlot" korean="" />
+	<block key="enetfailure_action_invalidtargetstate" korean="" />
+	<block key="enetfailure_changgo_trade_on" korean="¬xÇ " />
+	<block key="enetfailure_creature_magicstonconvequipeditem" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_enchant_trade_on" korean="¬xÇ " />
+	<block key="enetfailure_entry_certfail" korean="xÇÉ " />
+	<block key="enetfailure_entry_certlocalerror" korean="\¸ìÎ " />
+	<block key="enetfailure_entry_certsystemerror" korean="ÈXÇ´ÀÉ " />
+	<block key="enetfailure_entry_certtimeout" korean="ÜÂ¬tÇ " />
+	<block key="enetfailure_item_changgofull" korean="=Ìà¬" />
+	<block key="enetfailure_item_dyeing_wrong_start_pos" korean="œ·d³ " />
+	<block key="enetfailure_item_notcombineconsumeitem" korean="°¬iÕ`Õ " />
+	<block key="enetfailure_item_notenoughingredient" korean="¬ÇÌ¸ " />
+	<block key="enetfailure_item_trade_on" korean="¬xÇ " />
+	<block key="enetfailure_learnskill_skillbook_trade_on" korean="¬xÇ " />
+	<block key="enetfailure_party_money" korean="DÕ”Æ\Õ " />
+	<block key="enetfailure_user_cannotchangequickslot" korean="è²•Í=ÌDÇ " />
+	<block key="enetfailure_user_forcekick_push" korean="ä²x¹ " />
+	<block key="enetsuccess_mentor" korean="M" />
+	<block key="enetfailure_creature_nameincludedwordbaned" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_creature_itemnothave" korean="ŒÁ ÇXÕà¬ " />
+	<block key="enetfailure_creature_itemnotbagstorage" korean="" />
+	<block key="enetfailure_creature_itemtradeon" korean="¬xÇ " />
+	<block key="enetfailure_creature_itemstorageincorrect" korean="" />
+	<block key="enetfailure_creature_itemnotallowfellow" korean=" Ó\¸°Æ©Æ " />
+	<block key="enetfailure_item_notallowfellow" korean=" Ó\¸°Æ©Æ " />
+	<block key="enetfailure_creature_itemnotequalfellowrace" korean="tÕù² " />
+	<block key="enetfailure_item_equipimpossiblepart" korean="tÕù² " />
+	<block key="enetfailure_item_creature_empty" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_item_notequalfellowrace" korean="tÕù² " />
+	<block key="enetfailure_action_knockdownstate" korean="	±ä²´ÆÁÀÜÐ…ÇÈ²ä²." />
+	<block key="enetfailure_action_oncombatskill" korean="È,Ò " />
+	<block key="enetfailure_action_notoncombatskill" korean="D¾È,Ò " />
+	<block key="enetfailure_creature_soulstoneconvfailinvalidcreature" korean="Æ<ÖÁ<Ç\¸ " />
+	<block key="enetfailure_creature_soulstoneconvfailwrongcreaturelevel" korean="Æ<Ö°¬Áè²Ä¬" />
+	<block key="enetfailure_creature_soulstoneconvfailitobjectnotexist" korean="ðÅ°¬´ " />
+	<block key="enetfailure_creature_soulstoneconvsoulstonenotexist" korean="ðÅ°¬´ " />
+	<block key="enetfailure_creature_soulstoneconvinvalidskill" korean="¤Â¬ÐtÇ " />
+	<block key="enetfailure_creature_soulstoneconvnotallowobserverstate" korean="ø­ " />
+	<block key="enetfailure_creature_soulstoneconvaction" korean="aÅXÁtÇ " />
+	<block key="enetfailure_creature_soulstoneconvequipeditem" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_creature_change_name_item_nothave" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_enchant_soul_stone_needed" korean="DÕ”Æ\Õ " />
+	<block key="enetfailure_enchant_not_exist_conversion_soul_stone" korean="À¼XÖÜÂ¬Ð " />
+	<block key="enetfailure_enchant_cannot_soul_stone_conversion" korean="Æ<ÖÁ<Ç\¸ " />
+	<block key="enetfailure_enchant_repair_soul_stone_needed" korean="Â¬¹ÐÅ " />
+	<block key="enetfailure_enchant_repair_soul_stone_max_durability" korean="Æ<ÖÁXÇ " />
+	<block key="enetfailure_enchant_repair_soul_stone_low_level" korean="¸¨¼tÇ " />
+	<block key="enetfailure_item_notexistpassiveequipment" korean="tÕù² " />
+	<block key="enetfailure_item_notenoughfellowhp" korean=" Ó\¸°ÆXÇ " />
+	<block key="eNetFailure_Item_NotEnoughFellowEP" korean=" Ó\¸°ÆXÇ " />
+	<block key="enetfailure_quest_mygenderdifferentquest" korean="Ð¤Â¸Ò|¹ " />
+	<block key="enetfailure_quest_donesiblingquest" korean="Â‰ÕDÆÌ¸\Õ " />
+	<block key="enetfailure_quest_doingsiblingquest" korean="ÄÉ‰ÕÉxÇ " />
+	<block key="enetfailure_gmsvgameservers_player_not_found" korean="LÅÂ " />
+	<block key="enetsuccess_managerchracter" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_gameservernotfound" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_queryisonprogress" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_dberror" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_wrongindex" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_noresult" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_notconnected" korean="LÅÂ " />
+	<block key="enetsuccess_managerfellow" korean="LÅÂ " />
+	<block key="enetsuccess_manageritem" korean="LÅÂ " />
+	<block key="enetfailure_manageritem_gameservernotfound" korean="LÅÂ " />
+	<block key="enetfailure_manageritem_characternotfound" korean="LÅÂ " />
+	<block key="enetfailure_manageritem_keynotfound" korean="LÅÂ " />
+	<block key="enetfailure_manageritem_datainvalid" korean="LÅÂ " />
+	<block key="enetfailure_manageritem_queryisonprogress" korean="LÅÂ " />
+	<block key="enetfailure_manageritem_dberror" korean="LÅÂ " />
+	<block key="enetsuccess_managerquest" korean="LÅÂ " />
+	<block key="enetsuccess_managerskill" korean="LÅÂ " />
+	<block key="enetfailure_creature_soulstoneconvfailnotallowgrowthstage" korean="1Á¥Çè²Ä¬" />
+	<block key="enetfailure_creature_soulstoneconvfailnotallowsoulbandstage" korean="Æ<Ö°¬Áè²Ä¬" />
+	<block key="enetfailure_creature_invalid_fellowmaster" korean="|ÅÂ " />
+	<block key="enetfailure_creature_fellowmaster_too_far" korean="|ÅÂ " />
+	<block key="enetfailure_creature_fellownotinmap" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_creature_notallowgrowthstage" korean="ÈÕ©Æ´ÀÉ " />
+	<block key="enetfailure_creature_notallowsoulbandstage" korean="Æ<Ö°¬Á " />
+	<block key="enetfailure_item_existsummonfellow" korean="ŒÁXÖ´ " />
+	<block key="enetfailure_quest_alreadyfinishedmission" korean="tÇø» " />
+	<block key="enetfailure_quest_notfinishpremission" korean=" Á‰Õ " />
+	<block key="enetfailure_quest_dissatisfiedsubemission" korean="XÕÇø»XÁtÇ " />
+	<block key="enetfailure_learnskill_masteryskill_need" korean="È¹¤Â0Ñ¬¹ " />
+	<block key="enetfailure_managercharacter_gameservernotoperating" korean="g" />
+	<block key="eNetFailure_Action_FireStartingForSkillState" korean="¤Â¬Ð " />
+	<block key="eNetFailure_Agreement_DistanceError" korean="p¬¬¹" />
+	<block key="eNetFailure_Agreement_MapError" korean="Á\¸ " />
+	<block key="eNetFailure_Creature_Already_Summon" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Creature_NoItem" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_GMSVMainServers_GameServerNotFound" korean="Á„¼|¹ " />
+	<block key="eNetFailure_GMSVMainServers_GameServerNotOperating" korean="Á„¼|¹ " />
+	<block key="eNetFailure_GMSVMainServers_NotConnected" korean="Á„¼ÐÅ " />
+	<block key="eNetFailure_Item_broken_item" korean="€½ÁÄÉ " />
+	<block key="eNetFailure_Item_FellowNotSummon" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Item_Fellowalreadystrong" korean="Æ<Ö " />
+	<block key="eNetFailure_Item_NotEnoughLevel" korean="¬À©Æ " />
+	<block key="eNetFailure_Mail_cant_send_to_me" korean="ÇàÂÐÅŒ¬ " />
+	<block key="eNetFailure_ManagerItem_NoResult" korean="M" />
+	<block key="eNetSuccess_GMSVMainServers" korean="e" />
+	<block key="eNetFailure_Action_InvalidTamingState" korean="ÈiÕ\Õ " />
+	<block key="eNetFailure_Action_masternotmonster" korean="È¹¤Â0Ñ" />
+	<block key="eNetFailure_Action_masternotplayer" korean="È¹¤Â0Ñ" />
+	<block key="eNetFailure_Action_notregistedcomboskill" korean="ñ´]¸´ " />
+	<block key="eNetFailure_Action_skillairbornemovingstate" korean="¤Â¬Ðõ¬ÉtÇÙ³ " />
+	<block key="eNetFailure_Action_stiffstate" korean="½¬ÁÉÁÀÜÐ " />
+	<block key="eNetFailure_agreement_alliancequalify" korean="8Á%¸ " />
+	<block key="eNetFailure_agreement_alliancecreateabort" korean="8Á%¸ " />
+	<block key="eNetFailure_agreement_alreadyjoinalliance" korean="tÇø» " />
+	<block key="eNetFailure_agreement_duelattackercooltime" korean="°¬,Ò " />
+	<block key="eNetFailure_agreement_duelattackerdead" korean="¬ÀÝ¹ " />
+	<block key="eNetFailure_agreement_dueldefendercooltime" korean="°¬,Ò " />
+	<block key="eNetFailure_agreement_dueldefenderdead" korean="¬ÀÝ¹\Õ " />
+	<block key="eNetFailure_agreement_notalliancemaster" korean="8Á%¸ " />
+	<block key="eNetFailure_agreement_notguildmaster" korean="8®Ü´¥ÇtÇ " />
+	<block key="eNetFailure_alliance_alliance_master_qualify" korean="8Á%¸ " />
+	<block key="eNetFailure_alliance_dberror" korean="p³tÇ0Ñ " />
+	<block key="eNetFailure_alliance_guild_master_offline" korean="8®Ü´¥ÇtÇ " />
+	<block key="eNetFailure_alliance_guild_master_qualify" korean="8®Ü´¥ÇtÇ " />
+	<block key="eNetFailure_alliance_guild_not_found" korean="8®Ü´|¹ " />
+	<block key="eNetFailure_alliance_invalid_npc" korean="˜Ç»º´ " />
+	<block key="eNetFailure_alliance_nameincludedwordbaned" korean="¬À©Æ®ÀÉ " />
+	<block key="eNetFailure_alliance_nameoccupied" korean="Ù³|Ç\Õ " />
+	<block key="eNetFailure_alliance_not_found" korean="8Á%¸DÇ " />
+	<block key="eNetFailure_alliance_npc_too_far" korean="n" />
+	<block key="eNetFailure_alliance_packeterror" korean="8Á%¸ " />
+	<block key="eNetFailure_channel_notallowedgrade" korean="tÕù² " />
+	<block key="eNetFailure_channel_notallowexternal" korean="xÆ€½ " />
+	<block key="enetfailure_farm_already_reclamation" korean="ÐÅì· " />
+	<block key="enetfailure_farm_have_not_toolitem" korean="Ä³l­ " />
+	<block key="enetfailure_farm_invalid_reclamation" korean="ÐÅì· " />
+	<block key="enetfailure_farm_not_exist" korean="±¥ÇtÇ " />
+	<block key="enetfailure_farm_not_farmowner" korean="±¥Ç " />
+	<block key="enetfailure_farm_not_mine" korean="ÇàÂ " />
+	<block key="enetfailure_farm_not_use" korean="ÐÅì· " />
+	<block key="enetfailure_farm_not_use_cultivation" korean="ÐÅì· " />
+	<block key="enetfailure_farm_packeterror" korean="(Ó·Ð " />
+	<block key="enetfailure_farm_wrong_cultivatetype" korean="ÐÅì· " />
+	<block key="enetfailure_farm_wrong_location" korean="ÐÅì· " />
+	<block key="enetfailure_gmsvgameservers_cheatfailed" korean="g" />
+	<block key="enetfailure_gmsvmanager_toolongpassword" korean="(Ó¤ÂÌÆÜ´" />
+	<block key="enetfailure_login_notallowedgrade" korean="ÈÁtÇ " />
+	<block key="enetfailure_login_notallowexternal" korean="xÆ€½ÈÁtÇ " />
+	<block key="enetfailure_managercharacter_packeterror" korean="Î­¹0Ñ " />
+	<block key="enetfailure_production_belowitemlevel" korean="ÇàÂXÇ " />
+	<block key="enetfailure_production_dataerror" korean="p³tÇ0Ñ " />
+	<block key="enetfailure_production_invalid_item" korean="˜Ç»º´ " />
+	<block key="enetfailure_production_invalid_npc" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="enetfailure_production_low_level" korean="¸¨¼tÇ " />
+	<block key="enetfailure_production_low_mastery" korean="Â(¸Ä³" />
+	<block key="enetfailure_production_no_have_item" korean="¬ÇÌ¸ " />
+	<block key="enetfailure_production_no_have_toolitem" korean="Ä³l­" />
+	<block key="enetfailure_production_no_learn_technique" korean="0® ÂDÇ " />
+	<block key="enetfailure_production_not_enough_money" korean="È³tÇ " />
+	<block key="enetfailure_production_registerdrecipealready" korean="tÇø» " />
+	<block key="enetfailure_production_storagefull" korean="xÇ¤¼ Ñ¬¹" />
+	<block key="enetfailure_production_target_too_far" korean="" />
+	<block key="enetsuccess_alliance" korean="8Á%¸ " />
+	<block key="enetsuccess_farm" korean="±¥Ç " />
+	<block key="enetsuccess_production" korean="È‘Ç " />
+	<block key="enetfailure_farm_dberror" korean="±¥Ç " />
+	<block key="enetfailure_action_notskyskill" korean="õ¬ÉÐÅÁ " />
+	<block key="enetfailure_action_notgroundskill" korean="ÀÉtºÐÅÁ " />
+	<block key="enetfailure_action_forbidoverlaprange" korean="Á1ÁÀÉíÅtÇ " />
+	<block key="enetfailure_farm_systemerror" korean="±¥Ç " />
+	<block key="enetfailure_farm_invalid_extend_days" korean=" ÇÀÉ" />
+	<block key="enetfailure_farm_not_enough_money" korean="ŒÁÀÉ® " />
+	<block key="enetfailure_item_notfarmowner" korean="ŒÁ Ç\Õ " />
+	<block key="enetfailure_item_notexistcropobject" korean="ìÂ<Ç$¸”² " />
+	<block key="enetfailure_item_invalidpos" korean="½¬‘ÇÀÉ " />
+	<block key="enetfailure_item_notusablecultivation" korean="¬À©Æ " />
+	<block key="enetfailure_item_invalidcultivatetype" korean="½¬‘ÇÀÉ " />
+	<block key="enetfailure_item_invalidfarmmap" korean="¬À©Æ " />
+	<block key="enetfailure_item_notenoughfarmlevel" korean="¬À©Æ " />
+	<block key="enetfailure_move_donotcreatenormalgrade" korean="|Ç¼ " />
+	<block key="enetfailure_move_dungeonlimitnum" korean="xÇX³ " />
+	<block key="enetfailure_move_normaldungeonlimitcount" korean="1" />
+	<block key="enetfailure_move_invaliddungeongrade" korean=",Æ¼t¹ÀÉ " />
+	<block key="enetfailure_move_invalidplayerstate" korean="tÇÙ³`Õ " />
+	<block key="enetfailure_move_dungeonnextentertimelimit" korean="¬Ç…Ç¥Ç " />
+	<block key="enetfailure_quest_canmissionfinishinvenfull" korean="xÇ¤¼ Ñ¬¹" />
+	<block key="enetfailure_quest_invaliditemid" korean="˜Ç»º´ " />
+	<block key="enetsuccess_soultalents" korean="1Áõ¬XÕ" />
+	<block key="enetfailure_soultalents_not_enough_money" korean="ŒÁÀÉ®tÇ " />
+	<block key="enetfailure_soultalents_not_enough_point" korean="Æ<Ö%¸tÇ " />
+	<block key="enetfailure_soultalents_low_mastery" korean="Â(¸Ä³" />
+	<block key="enetfailure_soultalents_target_too_far" korean="" />
+	<block key="enetfailure_soultalents_notsoulstoneitem" korean="Æ<ÖÁtÇ " />
+	<block key="enetfailure_soultalents_impossibleawakenpart" korean="¬1Á " />
+	<block key="enetfailure_soultalents_alreadyawakenpart" korean="tÕù² " />
+	<block key="enetfailure_soultalents_notopenpart" korean="tÕù² " />
+	<block key="enetfailure_soultalents_impossibleawakencolorslot" korean="¬1Á " />
+	<block key="enetfailure_soultalents_impossibleskillfulgrow" korean="Â(¸Ä³ " />
+	<block key="enetfailure_soultalents_dataerror" korean="p³tÇ0Ñ " />
+	<block key="enetsuccess_technique" korean="1Áõ¬XÕ" />
+	<block key="enetfailure_technique_not_enough_money" korean="®aÅtÇ " />
+	<block key="enetfailure_technique_low_mastery" korean="Â(¸Ä³" />
+	<block key="enetfailure_technique_target_too_far" korean="" />
+	<block key="enetfailure_technique_invalid_type" korean="˜Ç»º´ " />
+	<block key="enetfailure_technique_invalid_grade" korean="˜Ç»º´ " />
+	<block key="enetfailure_technique_invalid_npc" korean="˜Ç»º´ " />
+	<block key="enetfailure_technique_already_learned_tech" korean="tÇø» " />
+	<block key="enetfailure_technique_not_learn_tech" korean="0¼°ÆÀÉ " />
+	<block key="enetfailure_technique_dataerror" korean="p³tÇ0Ñ " />
+	<block key="enetfailure_item_reinforce_limit_level" korean="T³ " />
+	<block key="enetfailure_action_invalidcaster" korean="ÜÂÈÇ" />
+	<block key="enetfailure_action_actionblockstate" korean="‰ÕÙ³ˆ½" />
+	<block key="enetfailure_action_notchargeskill" korean="`ÌÀÉ " />
+	<block key="enetfailure_action_cannotchargestate" korean="`ÌÀÉ " />
+	<block key="enetfailure_action_withinminheightfromground" korean="\ÍŒÁaÅXÁ" />
+	<block key="enetfailure_action_masternotexist" korean="È¹¤Â0Ñ" />
+	<block key="enetfailure_chat_target_away" korean="" />
+	<block key="enetfailure_creature_expandslot_exceed" korean="T³tÇÁÀ " />
+	<block key="enetfailure_creature_expandslot_max_bytamer" korean="pÈ(¸¬ÀÐÅŒ¬ " />
+	<block key="enetfailure_creature_expandslot_requiredlevel" korean="”Æl­ " />
+	<block key="enetfailure_creature_expandslot_cost" korean="ŒÁÀÉ® " />
+	<block key="enetfailure_interaction_collectingmastery" korean="DÌÑÉ " />
+	<block key="enetfailure_interaction_not_farm_owner" korean="ŒÁ Ç\Õ " />
+	<block key="enetfailure_interaction_invalid_cultivaiton" korean="xÇ0Ñ™·XÁ " />
+	<block key="enetfailure_interaction_not_enough_growth" korean="‘Ç<» " />
+	<block key="enetfaulure_interaction_error_yield_data" korean="ÂUÖÉ· " />
+	<block key="enetfailure_move_systemerror" korean="LÅ " />
+	<block key="enetfailure_move_dungeongradeselectrequest" korean="X³È " />
+	<block key="enetfailure_move_partymemberalreadydungeon" korean="ÓðÒÐÆ " />
+	<block key="enetfailure_move_notinstancedungeon" korean="xÇ¤Â4Ñ¤Â " />
+	<block key="enetfailure_move_donotgradereservation" korean="ñ´	® " />
+	<block key="enetfailure_move_gradeselecttimelimit" korean="xÇX³ " />
+	<block key="enetfailure_move_alreadydungeoncreated" korean="tÇø» " />
+	<block key="enetfailure_move_notpartymaster" korean="ÓðÒ¥ÇtÇ " />
+	<block key="enetfailure_quest_developitem" korean="¬¼©Æ " />
+	<block key="enetfailure_soultalents_low_level" korean="¸¨¼tÇ " />
+	<block key="enetfailure_soultalents_notawakenpart" korean="tÕù² " />
+	<block key="enetfailure_user_invalidslotbutton" korean="¬Âo¸ÐÅ " />
+	<block key="enetfailure_user_overslotindexcount" korean="5Ð¬Âo¸ÐÅ " />
+	<block key="enetfailure_user_invalidslotbuttonrecord" korean="5Ð„¼¼ÒXÇ " />
+	<block key="eNetFailure_User_ChangeChannelInvalidState" korean="DÌ± " />
+	<block key="enetfailure_managerquest_gameservernotfound" korean="Œ¬„ÇÁ„¼|¹ " />
+	<block key="enetfailure_managerquest_gameservernotoperating" korean="Œ¬„ÇÁ„¼|¹ " />
+	<block key="enetfailure_managerquest_notconnected" korean="ðÅ°¬´´Å " />
+	<block key="eNetFailure_Item_FellowBook_RegisterdAlready" korean="tÇø» " />
+	<block key="eNetFailure_Fellow_Empty" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Action_GaugeLow_HP" korean="ÝÀ…º%¸tÇ " />
+	<block key="eNetFailure_Action_GaugeLow_MP" korean="È¹˜°" />
+	<block key="eNetFailure_Action_GaugeLow_EP" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Action_GaugeLow_SP" korean="[¾XÇ " />
+	<block key="eNetFailure_Action_GaugeLow_FP" korean="„½x±" />
+	<block key="eNetFailure_Action_GaugeLow_TP" korean="¤ÂÜÐø»±" />
+	<block key="eNetFailure_Action_GaugeLow_EP_NotSummonFellow" korean="D¾ÑÐ¹ÂÁÀÜÐÐÅÁ”² " />
+	<block key="enetsuccess_community" korean="”Æ­Ì1Áõ¬XÕ" />
+	<block key="enetfailure_community_failentrance" korean="Á„¼ " />
+	<block key="enetfailure_community_diffrenceprotocolversion" korean="Á„¼@Æ " />
+	<block key="enetfailure_community_not_join_party" korean="ÓðÒÐÅ " />
+	<block key="enetfailure_community_not_join_guild" korean="8®Ü´ÐÅ " />
+	<block key="enetfailure_community_target_not_found" korean="" />
+	<block key="enetfailure_community_not_send_myself" korean="Ó­Ð¹DÇ " />
+	<block key="enetfailure_community_not_cooltime_of_shout" korean="xÆXÎ0®”² " />
+	<block key="enetfailure_community_mycutoff" korean="˜°XÇ " />
+	<block key="enetfailure_community_hiscutoff" korean="´°" />
+	<block key="enetfailure_community_wrong_channel_type" korean="˜Ç»º´ " />
+	<block key="enetfailure_community_not_found_user" korean="tÕù² " />
+	<block key="enetfailure_community_forcekick_push" korean="¬@ÇÄ¬ÈXÇ " />
+	<block key="enetfailure_community_forcekick_gm" korean="ÁD¾¤Â´ÆÆÐÅ " />
+	<block key="enetfailure_community_forcekick_timeout" korean="¥Ç0®¬ " />
+	<block key="enetfailure_community_forcekick_etc" korean="0®ÀÐ¬À ÇÐÅ " />
+	<block key="enetfailure_community_forcekick_error" korean="Õ\¸ø­¨· " />
+	<block key="enetfailure_action_notallowstdattackanimaionindex" korean="ÈÕ©Æ´ÀÉ " />
+	<block key="enetfailure_action_needweaponitem" korean="üÈ¥ÇD¾ " />
+	<block key="enetfailure_action_needsubitem" korean="ô¼pÈ¥ÇD¾ " />
+	<block key="enetfailure_action_needaccessoryitem" korean="EÅ8Á¬À¬¹ " />
+	<block key="enetfailure_action_nomatchingfellow" korean="tÕù²XÕ”² " />
+	<block key="enetfailure_action_notenoughspaceforfellow" korean=" Ó\¸°Æ|¹ " />
+	<block key="enetfailure_action_invalidtamingresultfellow" korean="LÑtÇ¼ " />
+	<block key="enetfailure_agreement_agreementlocked" korean="Ö¬Ç " />
+	<block key="enetfailure_agreement_guild_master_offline" korean="8®Ü´¥ÇtÇ " />
+	<block key="enetfailure_agreement_alliancemembergull" korean="8Á%¸ÐÅ " />
+	<block key="enetfailure_alliance_gulid_prev_add" korean="0®tÈ " />
+	<block key="enetfailure_alliance_not_found_next_master" korean="ä²LÇ " />
+	<block key="enetfailure_capture_not_same_fellowgrade" korean=" Ó\¸°Æñ´	®tÇ " />
+	<block key="enetfailure_enchant_reinforcestone_needed" korean="DÕ”Æ\Õ " />
+	<block key="enetfailure_enchant_not_enough_needed_support_item" korean="¬TÖô¼pÈÈ " />
+	<block key="enetfailure_enchant_no_target_item" korean="¬TÖ " />
+	<block key="enetfailure_enchant_level_reachmax" korean="¬TÖÁ " />
+	<block key="enetfailure_enchant_limit_level" korean="¬TÖÈ\Õ¸¨¼…ÇÈ²ä²." />
+	<block key="enetfailure_enchant_invalid_reinforce_rate" korean="¬TÖ " />
+	<block key="enetsuccess_fellow" korean="”Æ­Ì " />
+	<block key="enetfailure_fellow_notlearnedskill" korean="0¼´Æ " />
+	<block key="enetfailure_fellow_noserachabletarget" korean=">ÌDÇÂÆÅ”² " />
+	<block key="enetfailure_fellow_isnotactablestate" korean="aÅXÁtÇ " />
+	<block key="enetfailure_fellow_notregistedskill" korean="ñ´]¸´ " />
+	<block key="enetfailure_fellow_notoveractabletime" korean="aÅXÁ" />
+	<block key="enetfailure_fellow_notenabled" korean="Ö¬Ç " />
+	<block key="enetfailure_fellow_fardistantthanactionrange" korean="¬ÀÈp¬¬¹ô¼ä² " />
+	<block key="enetfailure_fellow_withinminactablerange" korean="\ÍŒÁaÅXÁ" />
+	<block key="enetfailure_fellow_gaugelow" korean="Œ¬tÇÀÉ" />
+	<block key="enetfailure_fellow_wrongtarget" korean="ÀÐŸ¬ÓtÇ " />
+	<block key="enetfailure_fellow_cannotactcastingskillonsilencestate" korean="hÎ5»ÁÀÜÐÐÅÁ”² " />
+	<block key="enetfailure_fellow_notcastingstate" korean="Î¤ÂÓÉtÇ " />
+	<block key="enetfailure_fellow_whileactinglinkedskill" korean="Á¹lÐ¤Â¬ÐaÅXÁÉ…ÇÈ²ä²." />
+	<block key="enetfailure_fellow_notoverglobalcooltime" korean="" />
+	<block key="enetfailure_fellow_toggledskill" korean="¤Â¬ÐtÇ " />
+	<block key="enetfailure_do_not_ride_type_fellow" korean="ÑÐ¹Â`Õ " />
+	<block key="enetfailure_fellow_notboarding" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_boarding" korean=" Ó\¸°ÆÐÅ " />
+	<block key="enetfailure_fellow_needquest" korean="Ð¤Â¸Ò" />
+	<block key="enetfailure_fellow_needitem" korean="DÅtÇ\ÑtÇ " />
+	<block key="enetfailure_fellow_already_summon" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_fellow_noitem" korean="ŒÁXÖÐÅ " />
+	<block key="enetfailure_fellow_quickslot_not_allow_slotbuttontype" korean="ÈÕ©Æ´ÀÉ " />
+	<block key="enetfailure_fellow_quickslot_not_allow_quickslotdlgtype" korean="ÈÕ©Æ´ÀÉ " />
+	<block key="enetfailure_fellow_quickslot_invalid_clientslot" korean="5Ð¬Âo¸XÇ " />
+	<block key="enetfailure_fellow_quickslot_overslotindexcount" korean="5Ð¬Âo¸ÐÅ " />
+	<block key="enetfailure_fellow_quickslot_invalidslotbuttonrecord" korean="5Ð„¼¼ÒXÇ " />
+	<block key="enetfailure_fellow_soulstoneconvfailinvalidfellow" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvfailnotallowgrowthstage" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvfailitobjectnotexist" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvsoulstonenotexist" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvinvalidskill" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvnotallowobserverstate" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvaction" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvequipeditem" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="enetfailure_fellow_soulstoneconvfailnotallowsoulbandstage" korean="Æ<ÖÁÀ¼XÖ " />
+	<block key="eNetFailure_Fellow_NotEnoughFellowEP" korean=" Ó\¸°ÆXÇ " />
+	<block key="enetfailure_fellow_nameincludedwordbaned" korean="tÇ„¹ÐÅ " />
+	<block key="enetfailure_fellow_change_name_item_nothave" korean="tÇ„¹À¼½¬ " />
+	<block key="enetfailure_fellow_itemnothave" korean="ŒÁ ÇXÕà¬ " />
+	<block key="enetfailure_fellow_itemnotbagstorage" korean="" />
+	<block key="enetfailure_fellow_itemtradeon" korean="¬xÇp¬˜·ÉxÇ " />
+	<block key="enetfailure_fellow_itemstorageincorrect" korean="¤Â Ñ¬¹ÀÉ" />
+	<block key="enetfailure_fellow_itemnotallowfellow" korean=" Ó\¸°Æ©Æ " />
+	<block key="enetfailure_fellow_itemnotequalfellowrace" korean=" Ó\¸°ÆXÇ " />
+	<block key="enetfailure_fellow_transform_servererror" korean="ÄÉ‰ÕÉxÇ " />
+	<block key="enetfailure_fellow_transform_itemnothave" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_transform_iteminvalid" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_transform_invalidtransforminfo" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_transform_notallowfellowlevel" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_transform_notallowfellowgrade" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_transform_notallowobserverstate" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_synthesis_servererror" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_synthesis_equalfellow" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_synthesis_different_fellow" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_synthesis_notallowgrowthstage" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_synthesis_notallowobserverstate" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_invalid_fellowmaster" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_fellowmaster_too_far" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_fellownotinmap" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_fellow_notallowgrowthstage" korean="ÈÕ©Æ´ÀÉ " />
+	<block key="enetfailure_fellow_notallowsoulbandstage" korean="ÈÕ©Æ´ÀÉ " />
+	<block key="enetfailure_fellow_expandslot_exceed" korean="T³tÇÁÀ " />
+	<block key="enetfailure_fellow_expandslot_max_bytamer" korean="pÈ(¸¬ÀÐÅŒ¬ " />
+	<block key="enetfailure_fellow_expandslot_requiredlevel" korean="”Æl­ " />
+	<block key="enetfailure_fellow_expandslot_cost" korean="D¾©Æ " />
+	<block key="eNetFailure_Fellow_NotSummon" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Fellow_Ride_Master_DeadState" korean="¬ÀÝ¹ " />
+	<block key="eNetFailure_Fellow_seal_inventoryfull" korean="" />
+	<block key="eNetFailure_Fellow_seal_notsealsummonfellow" korean="ŒÁXÖÁÀÜÐÐÅÁ”² " />
+	<block key="enetsuccess_internal" korean="”Æ­Ì1Áõ¬XÕ" />
+	<block key="enetfailure_internal_packeterror" korean="(Ó·Ð$ÆX¹" />
+	<block key="enetfailure_interaction_no_cultivation" korean="xÇ0Ñ™·XÁ " />
+	<block key="enetfailure_item_fellow_empty" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_item_fellownotinmap" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_item_fellowisdead" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_item_fellowhasgrowth" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_item_fellownotsoulbanditem" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_item_fellowbook_invaliditem" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_item_fellowbook_notemptyslot" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_move_notstartportal" korean="ÜÂ‘Ç " />
+	<block key="enetfailure_move_notdestportal" korean="Ä³)Ì " />
+	<block key="enetfailure_move_portalcountfull" korean="ñ´]¸´ " />
+	<block key="enetfailure_move_duplicatedportal" korean="tÇø» " />
+	<block key="enetfailure_move_invalideventarea" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="enetfailure_move_notdestmap" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="enetfailure_move_invalidenterpos" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="enetfailure_move_noteventinstance" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="enetfailure_move_donotexistexitarea" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="enetfailure_party_invalidpartyloot" korean="4»¨Ö\Õ " />
+	<block key="enetfailure_party_invalidpartylootjoblimit" korean="4»¨Ö\Õ " />
+	<block key="enetfailure_soultalents_not_enough_powder" korean="Æ<Ö " />
+	<block key="enetfailure_soultalents_notsoulpowderitem" korean="Æ<Ö" />
+	<block key="enetfailure_soultalents_impossibleclass" korean="¬1Á " />
+	<block key="enetfailure_soultalents_notenoughactivelevel" korean="\Ö1ÁTÖ " />
+	<block key="enetfailure_soultalents_nohaveskill" korean="¤Â¬Ð " />
+	<block key="enetfailure_technique_not_learn_pre_grade" korean=" Á‰Õ " />
+	<block key="enetfailure_technique_invalid_technique" korean="˜Ç»º´ " />
+	<block key="enetfailure_technique_add_tech" korean="ÈÀ\¸´Æ " />
+	<block key="enetfailure_technique_upgrade_grade" korean="0® Âè²Ä¬ " />
+	<block key="enetsuccess_token" korean="”Æ­Ì1Áõ¬XÕ" />
+	<block key="enetfailure_token_deadstate" korean="¬ÀÝ¹ " />
+	<block key="enetfailure_token_noserachabletarget" korean=">ÌDÇÂ " />
+	<block key="enetfailure_token_wrongtarget" korean="ÀÐŸ¬ÓtÇ " />
+	<block key="enetfailure_token_notparty" korean="ÓðÒ " />
+	<block key="enetfailure_token_notpartymaster" korean="ÓðÒ¥ÇtÇ " />
+	<block key="enetfailure_token_overlaptargettoken" korean="ÕÉ\Ô" />
+	<block key="enetfailure_user_invalidoptiondata" korean="5ÆXÁÈô¼" />
+	<block key="enetfailure_user_sameoptiondataversion" korean="5ÆXÁÈô¼XÇ " />
+	<block key="enetfailure_user_invalidoptiondataversion" korean="5ÆXÁÈô¼XÇ " />
+	<block key="enetfailure_user_invalidoptiondatasize" korean="5ÆXÁÈô¼XÇ " />
+	<block key="enetfailure_user_charbase" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charitem" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charregion" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charquest" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charquesthistory" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charskill" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charbuff" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charcutoff" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charfriend" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charmail" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charmailsent" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_chardungeon" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charindex" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charmyauction" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charcustomize" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charfellowbook" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charfellow" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charitemskillcolltime" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_chartechnique" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charoption" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charparam" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charrecipe" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_charsoultalents" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_user_forcekick_shutdowntime" korean="gÁä²´Æ " />
+	<block key="enetfailure_user_playeriscombating" korean="È,ÒÉÐÅ”² " />
+	<block key="enetsuccess_gmsvworldservers" korean="LÅÂ " />
+	<block key="enetfailure_gmsvworldservers_operatingworldsomewhere" korean="LÅÂ " />
+	<block key="enetfailure_gmsvworldservers_invalidworld" korean="LÅÂ " />
+	<block key="enetfailure_gmsvworldservers_player_not_found" korean="LÅÂ " />
+	<block key="enetfailure_gmsvworldservers_cheatfailed" korean="LÅÂ " />
+	<block key="enetfailure_gmsvmainservers_worldservernotfound" korean="LÅÂ " />
+	<block key="enetfailure_gmsvmainservers_worldservernotoperating" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_worldservernotfound" korean="LÅÂ " />
+	<block key="enetfailure_managercharacter_worldservernotoperating" korean="LÅÂ " />
+	<block key="enetfailure_manageritem_worldservernotfound" korean="LÅÂ " />
+	<block key="enetfailure_managerquest_worldservernotfound" korean="LÅÂ " />
+	<block key="enetfailure_managerquest_worldservernotoperating" korean="LÅÂ " />
+	<block key="enetfailure_entry_forcekick_limitage" korean="gÁä²´Æ " />
+	<block key="eNetFailure_Move_IsNotUsePortalActableState" korean="ä²x¹ " />
+	<block key="eNetFailure_Item_NotAllowClass" korean="Œ¬tÇÀÉ" />
+	<block key="eNetFailure_Guild_ValidPermissionName" korean="¬@Ç " />
+	<block key="eNetFailure_Guild_Valid_Count_GuildMember" korean="8®Ü´ÐÅ " />
+	<block key="eNetFailure_Agreement_GuildMemberCancel" korean="ÁÀ" />
+	<block key="eNetFailure_Guild_Count_Permission_Over_Create" korean="T³ " />
+	<block key="eNetFailure_Guild_NameIncludedPermission" korean="¬À©Æ`Õ " />
+	<block key="eNetFailure_Fellow_Transform_NotOnCombatSkill" korean="Ö¬Ç " />
+	<block key="eNetFailure_Party_Board_NotExistBoard" korean="tÇø» " />
+	<block key="enetfailure_fellow_transform_notgroundstate" korean="Ö¬Ç " />
+	<block key="enetfailure_agreement_talknpcme" korean="ÀÉ®@Ç " />
+	<block key="enetfailure_agreement_talknpctarget" korean="" />
+	<block key="eNetfailure_auction_register_invalid_item_trade" korean="¬xÇ " />
+	<block key="eNetfailure_auction_register_invalid_item_belonging" korean="À­Á´ " />
+	<block key="eNetSuccess_LobbyUser" korean="”Æ­Ì1Áõ¬XÕ" />
+	<block key="eNetFailure_LobbyUser_DiffrenceProtocolVersion" korean="Á„¼@Æ " />
+	<block key="eNetFailure_LobbyUser_FailEntrance" korean="DÌ± " />
+	<block key="eNetFailure_LobbyUser_SequenceError" korean="ÂÁÁÀ " />
+	<block key="eNetFailure_LobbyUser_DBError" korean="p³tÇ0Ñ ¼tÇ¤Â " />
+	<block key="eNetFailure_LobbyUser_MadeCharFull" korean="Î­¹0Ñ|¹ " />
+	<block key="eNetFailure_LobbyUser_UnknownDBKey" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="eNetFailure_LobbyUser_NameLengthOver" korean="tÇ„¹XÇ " />
+	<block key="eNetFailure_LobbyUser_NameLengthShot" korean="\ÍŒÁ " />
+	<block key="eNetFailure_LobbyUser_NameIncludedWordBlank" korean="tÇ„¹ÐÅ " />
+	<block key="eNetFailure_LobbyUser_NameOccupied" korean="tÇø» " />
+	<block key="eNetFailure_LobbyUser_NameIncludedWordBaned" korean="¨ºP´ " />
+	<block key="eNetFailure_LobbyUser_TryToDownloadTwice" korean="P´ˆ¼øÉ " />
+	<block key="eNetFailure_LobbyUser_NotRegistedWorld" korean="ñ´]¸´ " />
+	<block key="eNetFailure_LobbyUser_NotOperatingWorld" korean="‘ÇÙ³ÉxÇ " />
+	<block key="eNetFailure_LobbyUser_SelectingEqualWorld" korean="¬@Ç " />
+	<block key="eNetFailure_LobbyUser_OverMaxUserSelectedWorld" korean=" ÁÝÐ\Õ " />
+	<block key="eNetFailure_LobbyUser_BlockedID" korean="¾í·´ " />
+	<block key="eNetFailure_LobbyUser_ForceKick_Push" korean="¬@Ç " />
+	<block key="eNetFailure_LobbyUser_ForceKick_GM" korean="ÁD¾¤Â´ÆÆÐÅ " />
+	<block key="eNetFailure_LobbyUser_ForceKick_Error" korean="Õ\¸ø­¨· " />
+	<block key="eNetFailure_LobbyUser_ForceKick_DBError" korean="D" />
+	<block key="eNetFailure_LobbyUser_ForceKick_Timeout" korean="¥Ç0®¬ " />
+	<block key="eNetFailure_LobbyUser_ForceKick_Etc" korean="0®ÀÐ¬À ÇÐÅ " />
+	<block key="eNetFailure_LobbyUser_ForceKick_ShutdownTime" korean="gÁä²´Æ " />
+	<block key="eNetFailure_LobbyUser_PlayerIsCombating" korean="È,ÒÉÐÅ”² " />
+	<block key="eNetFailure_LobbyUser_SystemError" korean="ÜÂ¤Â\ÑÈxÇ " />
+	<block key="eNetFailure_LobbyUser_PacketError" korean="(Ó·Ð$ÆX¹" />
+	<block key="enetfailure_move_cancelgradeselect" korean="xÇ¤Â4Ñ¤Â " />
+	<block key="enetfailure_move_not_portal_playerpos_area" korean="…Ç¥Ç " />
+	<block key="eNetFailure_Technique_below_item_level" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Technique_invalid_item" korean="0®ø¼ " />
+	<block key="eNetFailure_Technique_already_register_item" korean="tÇø» " />
+	<block key="eNetFailure_Relation_NameIncludedWordBaned" korean="¬À©Æ®ÀÉ " />
+	<block key="eNetFailure_Agreement_Otherproposestatedest" korean="ä²x¹ " />
+	<block key="eNetFailure_Agreement_Otherproposestateme" korean="¼@Ç " />
+	<block key="eNetFailure_Move_ClearedGradeIsLower" korean="ÈÆ " />
+	<block key="eNetFailure_LobbyUser_NotDeleteGuildMaster" korean="8®Ü´¥ÇxÇ " />
+	<block key="eNetFailure_Agreement_BattleState" korean="È,Ò " />
+	<block key="eNetFailure_LobbyUser_NotFoundChannel" korean="Œ¬„ÇÁ„¼" />
+	<block key="eNetFailure_Relation_AlreadyFriend" korean="tÇø» " />
+	<block key="eNetFailure_Fellow_Seal_InvalidSealedItemLv" korean="	½xÇÁ " />
+	<block key="eNetFailure_Fellow_Seal_NotEnoughPlayerLv" korean="Õ¸tÇ´Å " />
+	<block key="eNetFailure_Fellow_Seal_UnsealNotEnoughPlayerLv" korean="Õ¸tÇ´Å " />
+	<block key="eNetFailure_Move_IsDuel" korean="°¬,ÒÉÐÅ”² " />
+	<block key="eNetFailure_Item_FellowNotMine" korean="ŒÁ ÇXÕÀÉ " />
+	<block key="eNetFailure_fellow_seal_fellowlistfull" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_guild_not_level_create" korean="8®Ü´|¹ " />
+	<block key="eNetFailure_Enchant_CannotUseSkillPlayerState" korean="È,ÒÉÐÅ”² " />
+	<block key="eNetFailure_fellow_seal_CannotUseSkillPlayerState" korean="È,ÒÉÐÅ”² " />
+	<block key="enetfailure_talents_notopenpart" korean="¹Ò1Á " />
+	<block key="eNetFailure_Item_DropGaming" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Item_PartyDropGaming" korean="ÓðÒÐÆtÇ " />
+	<block key="eNetFailure_Item_SystemError" korean="ÜÂ¤Â\Ñ " />
+	<block key="eNetFailure_Item_AlreadyJoin" korean="tÇø» " />
+	<block key="eNetFailure_Item_LowThanStorePrice" korean="Ö¬Ç " />
+	<block key="eNetFailure_Item_LowPriceThanHigher" korean="Ö¬Ç " />
+	<block key="eNetFailure_Enchant_AboveEquipItemLevel" korean="¬À©Æ " />
+	<block key="eNetFailure_Fellow_AboveEquipItemLevel" korean="¬À©Æ " />
+	<block key="eNetFailure_Item_AboveUseItemLevel" korean="¬À©Æ " />
+	<block key="eNetFailure_Item_AboveEquipItemLevel" korean=")Ì©Æ " />
+	<block key="eNetFailure_Item_AboveFellowEquipItemLevel" korean=")Ì©Æ " />
+	<block key="eNetFailure_duel_notduel" korean="°¬,Ò " />
+	<block key="eNetFailure_Move_NotAllow_LevelCondition" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Agreement_NotAllowDuelArea" korean="tÇ " />
+	<block key="enetfailure_fellow_fearingstate" korean=" Ó\¸°Æ|¹ " />
+	<block key="eNetFailure_Agreement_NotAllowDuelByCombatMe" korean="È,Ò " />
+	<block key="eNetFailure_Agreement_NotAllowDuelByCombatTarget" korean="" />
+	<block key="eNetFailure_Action_NoPKExp" korean="\Íü­ÐÅ " />
+	<block key="eNetFailure_Action_NoQuestPKCount" korean="\Íü­ÐÅ " />
+	<block key="eNetFailure_Action_MapChangeTarget" korean="õ¹ " />
+	<block key="eNetFailure_Action_RewindingTarget" korean="¬º¤Â0Ñ" />
+	<block key="eNetFailure_Action_NoControlTarget" korean="" />
+	<block key="eNetFailure_Action_ResurrectAnimatingTarget" korean="€½\Ö " />
+	<block key="eNetFailure_Action_NoDeadTarget" korean="" />
+	<block key="eNetFailure_Action_DeadTarget" korean="" />
+	<block key="eNetFailure_Action_SkillObjectTarget" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Action_IsNotDamagableMe" korean="HÅÈÀÉíÅÐÅÁ”² " />
+	<block key="eNetFailure_Move_AlreadyGradeSelecting" korean="œ°tÇÄ³|¹ " />
+	<block key="enetfailure_agreement_alreadyattackbattalion" korean="õ¬©¬" />
+	<block key="enetfailure_guild_exp_needed" korean="8®Ü´ " />
+	<block key="enetfailure_move_doing_exit_fail_quest" korean="tÇ¤¼¸Ò " />
+	<block key="enetfailure_agreement_tradedistanceerror" korean="" />
+	<block key="enetfailure_agreement_cannottrademe" korean="tÇø» " />
+	<block key="enetfailure_agreement_destisbattlestate" korean="È,ÒÉxÇ " />
+	<block key="enetfailure_party_notfoundparty" korean="ÓðÒ|¹ " />
+	<block key="enetfailure_party_board_notmaster" korean="ÓðÒ¥ÇtÇ " />
+	<block key="enetfailure_guild_not_out_guildmaster" korean="8®Ü´¥Ç@Ç " />
+	<block key="eNetFailure_User_StateDead" korean="ýÈ@Ç " />
+	<block key="eNetFailure_User_StateFalling" korean="õ¬ÉÐÅÁ " />
+	<block key="eNetFailure_User_StateCombating" korean="È,ÒÉÐÅ”² " />
+	<block key="eNetFailure_User_StateEpisode" korean="tÇ¤¼¸Ò " />
+	<block key="eNetFailure_User_StateTradeing" korean="p¬˜·É|Ç " />
+	<block key="eNetFailure_User_StateUseSkill" korean="¤Â¬Ð " />
+	<block key="eNetFailure_User_StateInteractCasting" korean="¬À<»DÇ " />
+	<block key="eNetFailure_User_StateAgreementParty" korean="ÓðÒ " />
+	<block key="eNetFailure_User_StateTaiming" korean=" Ó\¸°Æ|¹ " />
+	<block key="enetfailure_move_invalidportal_area" korean="…Ç¥Ç " />
+	<block key="eNetFailure_Item_NotExpirationPeriod" korean="0®¬È " />
+	<block key="eNetFailure_Item_NotTargetExpirationPeriod" korean="0®¬È " />
+	<block key="eNetFailure_Item_LimitTargetExpirationPeriod" korean="0®¬tÇ " />
+	<block key="enetfailure_fellow_notenoughfellowhp" korean=" Ó\¸°ÆXÇ " />
+	<block key="enetfailure_item_userisdead" korean="ýÈ@Ç " />
+	<block key="eNetFailure_LobbyUser_NotDeleteGuildMember" korean="Î­¹0Ñ" />
+	<block key="eNetFailure_User_StatePassenger" korean="ä²x¹ " />
+	<block key="eNetFailure_Enchant_StatePassenger" korean="ä²x¹ " />
+	<block key="eNetFailure_Enchant_invalid_reinforce_lv_data" korean="ØÅì¸DÇ " />
+	<block key="eNetFailure_Enchant_Insufficient_Ruby" korean="ØÅì¸tÇ " />
+	<block key="eNetFailure_Item_StorageFullPackge" korean="(Ó¤ÐÀÉ " />
+	<block key="eNetFailure_Entry_CheckingWorld" korean="Ö¬Ç " />
+	<block key="eNetFailure_Production_no_learn_Gather" korean="DÌÑÉ " />
+	<block key="eNetFailure_Production_no_learn_WeaponCraft" korean="4»0®È‘Ç " />
+	<block key="eNetFailure_Production_no_learn_ArmorCraft" korean=")¼´Ål­È‘Ç " />
+	<block key="eNetFailure_Production_no_learn_AccessoryCraft" korean="¥ÇàÂl­È‘Ç " />
+	<block key="eNetFailure_Production_no_learn_FellowEquip" korean=" Ó\¸°ÆðÅl­ " />
+	<block key="eNetFailure_Production_no_learn_Cooking" korean="”Æ¬¹ " />
+	<block key="eNetFailure_Production_no_learn_Alchemy" korean="ðÅ® Â " />
+	<block key="eNetFailure_Production_low_mastery_Gather" korean="DÌÑÉ " />
+	<block key="eNetFailure_Production_low_mastery_WeaponCraft" korean="4»0®È‘Ç " />
+	<block key="eNetFailure_Production_low_mastery_ArmorCraft" korean=")¼´Ål­È‘Ç " />
+	<block key="eNetFailure_Production_low_mastery_AccessoryCraft" korean="¥ÇàÂl­È‘Ç " />
+	<block key="eNetFailure_Production_low_mastery_FellowEquip" korean=" Ó\¸°ÆðÅl­ " />
+	<block key="eNetFailure_Production_low_mastery_Cooking" korean="”Æ¬¹ " />
+	<block key="eNetFailure_Production_low_mastery_Alchemy" korean="ðÅ® Â " />
+	<block key="eNetFaulure_Relation_LogOff" korean="Ö¬Ç " />
+	<block key="eNetFailure_agreement_CanNotUseCommandState" korean="…º9¸´Å|¹ " />
+	<block key="enetfailure_party_notattackbattalion" korean="õ¬©¬" />
+	<block key="enetfailure_party_board_alreadyparty" korean="tÇø» " />
+	<block key="eNetFailure_User_ChannelLimitNum" korean="tÇÙ³`Õ " />
+	<block key="enetfailure_dungeon_init_existplayer" korean="X³È " />
+	<block key="A. eNetFailure_Fellow_InsufficientRuby" korean="ØÅì¸tÇ " />
+	<block key="B. eNetFailure_Fellow_InvalidRubyData" korean="tÇ„¹ " />
+	<block key="eNetFailure_Dungeon_InsufficientRuby" korean="ØÅì¸tÇ " />
+	<block key="eNetFailure_Dungeon_InvalidRubyData" korean="tÕù² " />
+	<block key="eNetFailure_Billing_CheckMoney" korean="ÎÜÂ " />
+	<block key="eNetFailure_Billing_BuyItem" korean="ÎÜÂ " />
+	<block key="eNetFailure_Billing_CheckRetractMoney" korean="­Ì}Å " />
+	<block key="eNetFailure_Billing_Retract" korean="­Ì}Å " />
+	<block key="eNetFailure_Billing_MoveInven" korean="ÎÜÂ " />
+	<block key="eNetFailure_Billing_ChargeCash" korean="ÎÜÂ©ÍÈ " />
+	<block key="eNetFailure_Billing_CashShop_invalid_category" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Billing_not_found_cashshop_list" korean="tÕù² " />
+	<block key="eNetFailure_Billing_not_found_link_cashitem" korean="ÁÀÈ " />
+	<block key="eNetFailure_Billing_not_found_cashitem" korean="tÕù² " />
+	<block key="eNetFailure_Billing_cant_buy_item_by_cash" korean="ÎÜÂ\¸ " />
+	<block key="eNetFailure_Billing_cant_buy_item_by_ruby" korean="ØÅì¸<Ç\¸ " />
+	<block key="eNetFailure_Billing_not_enough_cash" korean="ÎÜÂ" />
+	<block key="eNetFailure_Billing_not_enough_ruby" korean="ØÅì¸tÇ " />
+	<block key="eNetFailure_Billing_not_enough_inven_space" korean="" />
+	<block key="eNetFailure_Billing_create_failed_to_inven" korean="" />
+	<block key="eNetFailure_Billing_can_not_move_item_map" korean="" />
+	<block key="eNetFailure_Billing_invalid_map_data" korean="õ¹ " />
+	<block key="eNetFailure_Billing_TooLongURL" korean="U" />
+	<block key="eNetFailure_Billing_DataError" korean="D" />
+	<block key="eNetFailure_Billing_DBError" korean="D" />
+	<block key="eNetFailure_Agreement_NotAllowInstanceMapMe" korean="ŒÁXÖtÇ " />
+	<block key="eNetFailure_Agreement_NotAllowSkyMe" korean="õ¬ÉÐÅÁ”² " />
+	<block key="eNetFailure_Agreement_NotAllowWaterMe" korean="<»ÐÅÁ”² " />
+	<block key="eNetFailure_Agreement_NotAllowCombatMe" korean="È,ÒÁÀÜÐÐÅÁ”² " />
+	<block key="eNetFailure_Agreement_NotAllowDeadMe" korean="ýÈ@Ç " />
+	<block key="eNetFailure_Agreement_NotAllowCombatTarget" korean="" />
+	<block key="eNetFailure_Agreement_NotAllowDeadTarget" korean="" />
+	<block key="eNetFailure_Agreement_NotAllowInstanceMapTarget" korean="" />
+	<block key="eNetFailure_Agreement_InvalidCostData" korean="D¾©Æ " />
+	<block key="eNetFailure_Agreement_Insufficient_Ruby" korean="ØÅì¸tÇ " />
+	<block key="eNetFailure_Fellow_Transform_SummonFellow" korean="ŒÁXÖÁÀÜÐÐÅÁ”² " />
+	<block key="eNetFailure_Item_SummonFellow" korean="ŒÁXÖÁÀÜÐÐÅÁ”² " />
+	<block key="enetsuccess_agreement_guilinvitation" korean="8®Ü´ÐÅ " />
+	<block key="eNetfailure_Chat_clear_auto_msg" korean="…Ç%¸\Õ " />
+	<block key="eNetfailure_Chat_aready_judge" korean="tÇø» " />
+	<block key="eNetfailure_Chat_wrong_auto_msg" korean="TºÜÂÀÉ " />
+	<block key="eNetfailure_Chat_prohibit_word" korean="®ÀÉ´Å" />
+	<block key="eNetfailure_Chat_can_not_check_map" korean="€¬¬À|¹ " />
+	<block key="eNetFailure_User_AutoChecking" korean="$Æ Ñ " />
+	<block key="enefailure_move_not_portal_area" korean="Ö¬Ç " />
+	<block key="enetfailure_dungeon_ininstancedungeon" korean="Í0®TÖ " />
+	<block key="enetfailure_dungeon_inin_reenterpossible" korean="tÇø» " />
+	<block key="eNetFailure_Quest_AlreadyTitle" korean="tÇø» " />
+	<block key="eNetFailure_User_CharAchievements" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CharAchievement_Condition" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CharTitle" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_LobbyUser_MaxPopulation" korean="Î­¹0Ñ " />
+	<block key="enetfailure_store_not_exist_currency_item" korean="l­ä¹ÐÅ " />
+	<block key="eNetfailure_store_not_enough_currency_item" korean="l­ä¹ÐÅ " />
+	<block key="enetfailure_agreement_fullparty" korean="ÓðÒ " />
+	<block key="eNetFailure_Party_PartyMemberIsInInstanceMap" korean="xÇX³ÐÅ " />
+	<block key="eNetFailure_Move_DoNotEnterAttackBattalion" korean="õ¬©¬" />
+	<block key="enefailure_agreement_notattackbattalionme" korean="õ¬©¬" />
+	<block key="eNetFailure_LobbyUser_SecPw_CertResponseFail" korean="2" />
+	<block key="eNetFailure_LobbyUser_SecPw_WrongPassword" korean="2" />
+	<block key="eNetFailure_LobbyUser_SecPw_FailedLock" korean="2" />
+	<block key="eNetFailure_LobbyUser_SecPw_RegisterFail" korean="2" />
+	<block key="eNetFailure_LobbyUser_SecPw_SameAccountPassword" korean="Ä¬È " />
+	<block key="eNetFailure_LobbyUser_SecPw_ExceptionError" korean="2" />
+	<block key="eNetFailure_LobbyUser_SecPw_InvalidRequestType" korean="tÕù² " />
+	<block key="eNetFailure_Action_invalid_Ruby_data" korean="ØÅì¸(" />
+	<block key="eNetFailure_Action_insufficient_ruby" korean="è¸D¾" />
+	<block key="eNetFailure_LobbyUser_AreadyDeleteing" korean="tÇø» " />
+	<block key="eNetFailure_Action_NotEnoughAp" korean="8®ä´tÇ0® " />
+	<block key="eNetFailure_Action_NotRecoveryAP" korean="8®ä´tÇ0® " />
+	<block key="eNetFailure_Title_Invalid_TitleItem" korean="mÎ8Ö " />
+	<block key="eNetFailure_Title_TitleItem_Trade_On" korean="mÎ8Ö " />
+	<block key="eNetFailure_Title_TitleItem_NotExistTitle" korean="mÎ8Ö " />
+	<block key="eNetFailure_Title_TitleItem_AlreadyTitle" korean="mÎ8Ö " />
+	<block key="eNetFailure_Agreement_NotAllowRegion" korean="ŒÁXÖ " />
+	<block key="eNetfailure_Chat_can_not_state" korean="$Æ Ñ " />
+	<block key="eNetFailure_LobbyUser_SecPw_PassLengthShort" korean="2" />
+	<block key="eNetFailure_LobbyUser_SecPw_NotCorrectFormat" korean="2" />
+	<block key="eNetFailure_move_not_event_player_map" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="eNetFailure_Quest_RecvErrorYellowTime" korean="\Ö%¸ " />
+	<block key="eNetFailure_Quest_FinishErrorYellowTime" korean="\Ö%¸ " />
+	<block key="eNetFailure_Agreement_MyPartyErrorYellowTime" korean="\Ö%¸ " />
+	<block key="eNetFailure_Agreement_HisPartyErrorYellowTime" korean="" />
+	<block key="eNetFailure_Interaction_CollectErrorYellowTime" korean="\Ö%¸ " />
+	<block key="eNetFailure_Move_Auto_User_Checking" korean="$Æ Ñ " />
+	<block key="eNetFailure_Agreement_NotAttackBattalionMe" korean="õ¬©¬" />
+	<block key="eNetFailure_Agreement_NotAttackBattalionTarget" korean="" />
+	<block key="eNetFailure_Action_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Agreement_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_auction_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Billing_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Dungeon_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Enchant_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Fellow_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_FootHold_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Item_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Move_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Move_InvalidRubyData" korean="DÅÁÉ " />
+	<block key="eNetFailure_Quest_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Talents_CannotOpenedContents" korean="DÅÁÉ " />
+	<block key="eNetFailure_Fellow_FellowActingState" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Action_SkillRisingBodyState" korean="¤Â¬Ðõ¬ÉtÇÙ³ÉxÇÁÀÜÐ…ÇÈ²ä²(" />
+	<block key="eNetFailure_Production_invalid_Recipe_Record" korean="¸ÜÂ<Õ " />
+	<block key="eNetFailure_Production_invalid_Data" korean="È‘Ç`Õ " />
+	<block key="eNetFailure_Production_count_have_item" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_Production_low_grade" korean="ñ´	®tÇ " />
+	<block key="eNetFailure_Production_invalid_RegisterdRecipeAlready" korean="ñ´]¸´ " />
+	<block key="eNetFailure_Production_low_grade_Gather" korean="DÌÑÉ " />
+	<block key="eNetFailure_Production_low_grade_WeaponCraft" korean="4»0®È‘Ç " />
+	<block key="eNetFailure_Production_low_grade_ArmorCraft" korean=")¼´Ål­È‘Ç " />
+	<block key="eNetFailure_Production_low_grade_AccessoryCraft" korean="¥ÇàÂl­È‘Ç " />
+	<block key="eNetFailure_Production_low_grade_FellowEquip" korean=" Ó\¸°ÆðÅl­ " />
+	<block key="eNetFailure_Production_low_grade_Cooking" korean="”Æ¬¹ " />
+	<block key="eNetFailure_Production_low_grade_Alchemy" korean="ðÅ® Â " />
+	<block key="eNetFailure_achievements_storagefull" korean="" />
+	<block key="eNetFailure_Action_NotPcCafeUser" korean="P" />
+	<block key="eNetFailure_Action_AlreadyUsePcCafeBuff" korean="tÇø» " />
+	<block key="eNetFailure_Item_NotSummonFellow" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Item_NotFellowExpItem" korean=" Ó\¸°Æ " />
+	<block key="eNetSuccess_YellowTime" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_YellowTime_FullHaveItemCount" korean="ŒÁÀÉ " />
+	<block key="eNetFailure_YellowTime_InventoryFully" korean="" />
+	<block key="eNetFailure_Dungeon_InvalidMapKey" korean="xÇX³ " />
+	<block key="enetfailure_move_not_eventchannel" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="eNetFailure_AttackBattalion_Full" korean="õ¬©¬" />
+	<block key="eNetFailure_Dungeon_InitializeNothing" korean="Í0®TÖ " />
+	<block key="eNetFailure_Dungeon_NotPartyMaster" korean="ÓðÒ¥ÇÌ¹ " />
+	<block key="eNetFailure_Item_RemoveDeathpenaltyNoPenalty" korean="€½\ÖÄÖ ÇÉtÇ " />
+	<block key="eNetFailure_Party_PartyDropGaming" korean="üÈ¬ÀÇ" />
+	<block key="eNetFailure_Move_Doing_ExitFailTimeQuest" korean="ÜÂ¬È\Õ " />
+	<block key="eNetFailure_Billing_AlreadyRequestSequence" korean="”Æ­ÌtÇ " />
+	<block key="eNetFailure_Billing_CannotBuyAnymore" korean="T³ " />
+	<block key="enetfailure_agreement_cannottradetarget" korean="tÇø» " />
+	<block key="enetfailure_lobbyuser_checkingworld" korean="Ö¬Ç " />
+	<block key="enetfailure_agreement_notalloweventinstancetarget" korean="" />
+	<block key="enetfailure_achievements_alreadyreward" korean="tÇø» " />
+	<block key="eNetFailure_Talents_not_enough_ruby" korean="ØÅì¸tÇ " />
+	<block key="enetfailure_fellow_seal_notlinksealfellowitem" korean="	½xÇtÇ " />
+	<block key="enetfailure_trade_external_problem" korean="ä²x¹ " />
+	<block key="enetfailure_talents_alreadyawakenpart" korean="tÇø» " />
+	<block key="eNetfailure_Chat_not_join_attack_battalion" korean="õ¬©¬" />
+	<block key="eNetFailure_agreement_fullattackbattalion" korean="õ¬©¬" />
+	<block key="eNetFailure_Party_Board_YellowRestrictState" korean="\Ö%¸ " />
+	<block key="eNetFailure_Relation_FriendNotCutoff" korean="\Îl­\¸ " />
+	<block key="eNetFailure_Relation_CannotFriendCutoff" korean="(Ìè²©º]¸ÐÅ " />
+	<block key="eNetFailure_Enchant_not_allow_require_level_target_item" korean="Õ¸tÇ´Å " />
+	<block key="eNetFailure_Mail_not_yet_send_cooltime" korean="È¡Á " />
+	<block key="eNetfailure_auction_not_exist_cancel_expired_item" korean="0®¬ " />
+	<block key="eNetfailure_auction_already_sold_item" korean="tÇø» " />
+	<block key="eNetFailure_Agreement_Response_MapInstance" korean="" />
+	<block key="eNetFailure_Chat_Blocking" korean="G" />
+	<block key="eNetFailure_Agreement_MyAttackBattalionErrorYellowTime" korean="\Ö%¸ " />
+	<block key="eNetFailure_Agreement_HisAttackBattalionErrorYellowTime" korean="" />
+	<block key="eNetFailure_Billing_not_enough_require_level" korean="¬À©Æ " />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughFellowLv" korean=" Ó\¸°Æ " />
+	<block key="eNetfailure_Talents_invalid_Ruby_data" korean="ØÅì¸(" />
+	<block key="eNetFailure_Fellow_Reinforce_NotFoundSealedItem" korean="	½xÇ Ó\¸°Æ|¹ " />
+	<block key="eNetFailure_Fellow_Reinforce_CannotUseSkillPlayerState" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughSealedItemLv" korean="	½xÇ´ " />
+	<block key="eNetFailure_Fellow_Reinforce_ReachMax" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_store_not_enough_require_level" korean="¬À©Æ " />
+	<block key="enetfailure_item_notexistpackageitem" korean="(Ó¤ÐÀÉ " />
+	<block key="eNetFailure_Party_Board_FullParty" korean="€Ô " />
+	<block key="eNetFailure_Party_Board_MapInstance" korean="xÇX³ " />
+	<block key="eNetFailure_Fellow_Reinforce_ImpossibleToReinforce" korean="¬TÖ|¹ " />
+	<block key="enetfailure_agreement_passengerfull" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_agreement_cantboardingplayer" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughNeedItemCount" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidNeedItem" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Move_TakeOnPassengers" korean="ÑÐ¹Â¬tÇ " />
+	<block key="eNetFailure_Fellow_Reinforce_SealedLvSmallerThanFellowLv" korean="	½xÇ´ " />
+	<block key="eNetFailure_Fellow_IsNotDamagableMe" korean="HÅÈÀÉíÅÐÅÁ”² " />
+	<block key="enetfailure_user_stateakeonpassenger" korean="ÑÐ¹Â " />
+	<block key="eNetFailure_Move_NotSkipMap" korean="ìÓ0®`Õ " />
+	<block key="eNetFailure_Move_NotConditionSkip" korean="ìÓ0® " />
+	<block key="eNetFailure_Agreement_NotAllowTakePassenger" korean="ä²xÇ " />
+	<block key="eNetFailure_Action_NotOnNavi" korean="¤Â¬ÐDÇ " />
+	<block key="eNetFailure_Fellow_Reinforce_WrongSealedFellow" korean="¬TÖ´ " />
+	<block key="eNetFailure_User_StateTakeOnPassenger" korean="ä²xÇ " />
+	<block key="enetfailure_move_not_portal_destarea" korean="Ä³)Ì`Õ " />
+	<block key="eNetFailure_Quest_FinishedDailyQuestMax" korean="|Ç|Ç " />
+	<block key="eNetFailure_Technique_not_enough_level" korean="¸¨¼tÇ " />
+	<block key="eNetFailure_Fellow_Seal_NotFoundSealItem" korean="	½xÇÁDÇ " />
+	<block key="eNetFailure_Fellow_Seal_NotFoundSealedFellow" korean="	½xÇ Ó\¸°Æ " />
+	<block key="eNetFailure_Fellow_seal_NotEnoughItemGrade" korean="	½xÇÁXÇ " />
+	<block key="eNetFailure_Fellow_Seal_AlreadySealFellow" korean="tÇø» " />
+	<block key="eNetFailure_Fellow_Seal_NotSealedFellow" korean="	½xÇ´ÀÉ " />
+	<block key="eNetFailure_Fellow_Seal_NotFoundItemFromInven" korean="" />
+	<block key="eNetFailure_Fellow_Seal_FellowEquipedItem" korean="DÅtÇ\ÑDÇ " />
+	<block key="eNetFailure_Fellow_Seal_NotSealOwnershipPeriod" korean="0®¬È " />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidFellowGrade" korean="˜Ç»º´ " />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidFellowReinforceData" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Fellow_IsNotDamagableTarget" korean="" />
+	<block key="eNetFailure_Fellow_Seal_NotFoundUnSealItem" korean="	½xÇtÕÈ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotEnoughItemGrade" korean="”ÍœÍ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_ExtractionToolNeeded" korean="	½xÇ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_TargetItem" korean="	½xÇ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_ImpossibleTargetItem" korean="	½xÇ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFountSlot" korean="	½xÇ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFountSealedFellow" korean="”ÍœÍtÇ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFoundItemFromInven" korean="	½xÇ " />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_FellowListFull" korean=" Ó\¸°Æ " />
+	<block key="eNetFailure_Item_CheckLevel" korean="À­ÁtÕÈ " />
+	<block key="eNetFailure_Item_checkGrade" korean="À­ÁtÕÈ " />
+	<block key="eNetFailure_Item_MaxRemoveBelongingCount" korean="T³ " />
+	<block key="eNetFailure_Item_CannotBelongingType" korean=")Ì©Æ " />
+	<block key="eNetFailure_Item_AlreadyRest" korean="tÇø» " />
+	<block key="eNetFailure_User_Wrong_MapData" korean="Î­¹0ÑÈô¼ " />
+	<block key="enetfailure_achievements_invalid_achievement_recordid" korean=" Ç¨ÖXÕÀÉ " />
+	<block key="enetfailure_achievements_invalid_achievement_condition_recordid" korean=" Ç¨ÖXÕÀÉ " />
+	<block key="enetfailure_achievements_notcomplete" korean="DÆÌ¸XÕÀÉ " />
+	<block key="enetfailure_achievements_notexistreward" korean="ô¼ÁÀtÇ " />
+	<block key="enetfailure_achievements_alreadytitle" korean="tÇø» " />
+	<block key="enetfailure_action_needlearnedskill" korean=" Á‰Õ " />
+	<block key="enetfailure_action_notfallordescentskill" korean="”Í}· " />
+	<block key="enetfailure_action_tamingstate" korean="8®ä´tÇà¬ " />
+	<block key="enetfailure_action_tamingconditionneedtem" korean="8®ä´tÇ0® " />
+	<block key="enetfailure_action_tamingconditionnotenoughhp" korean="ÝÀ…º%¸tÇ " />
+	<block key="enetfailure_action_validmastertaming" korean="8®ä´ìÅÄÉ " />
+	<block key="enetfailure_action_invalidconversionrecord" korean="DÅtÇ\ÑDÇ " />
+	<block key="enetfailure_action_invalidportalnpc" korean="ìÓÈÐ " />
+	<block key="enetfailure_agreement_notsamelayer" korean="" />
+	<block key="enetfailure_agreement_dueldistanceerror" korean="p¬¬¹" />
+	<block key="enetfailure_agreement_notalloweventinstancemap" korean="ÜÂ˜°¬¹$Æ " />
+	<block key="enetfailure_agreement_disagree" korean="8®Ü´ " />
+	<block key="enetfailure_agreement_guidunion_notguild" korean="8®Ü´ÐÅ " />
+	<block key="enetfailure_agreement_guidunion_notguildmaster" korean="8®Ü´¥ÇÌ¹ " />
+	<block key="enetfailure_agreement_guidunion_destplayernotguild" korean="" />
+	<block key="enetfailure_agreement_guidunion_destplayernotguildmaster" korean="" />
+	<block key="enetfailure_agreement_guidunion_lowguildgrade" korean="8®Ü´ " />
+	<block key="enetfailure_agreement_guidunion_overmaxguildunionmember" korean="Í" />
+	<block key="enetfailure_agreement_guidunion_alreadyguildunionmember" korean="tÇø» " />
+	<block key="enetfailure_agreement_systemerror" korean="ÜÂ¤Â\Ñ " />
+	<block key="enetfailure_auction_invalid_ruby_data" korean="ØÅì¸DÇ " />
+	<block key="enetfailure_auction_insufficient_ruby" korean="ØÅì¸tÇ " />
+	<block key="enetfailure_auction_invalid_char_data" korean="Î­¹0Ñ " />
+	<block key="enetfailure_auction_expand_full_slot" korean="¬Âo¸DÇ " />
+	<block key="enetfailure_auction_systemerror" korean="Óä¹" />
+	<block key="enetfailure_auction_dataerror" korean="Óä¹" />
+	<block key="enetfailure_billing_not_ready_channeling_server" korean="L¾Á¹ " />
+	<block key="enetfailure_billing_duplicate_purchase_id" korean="p¬˜· " />
+	<block key="enetfailure_billing_saveitem_dberror" korean="l­…Ç\Õ " />
+	<block key="enetfailure_billing_packeterror" korean="L¾Á¹ " />
+	<block key="enetfailure_billing_systemerror" korean="L¾Á¹ " />
+	<block key="enetfailure_chat_not_attack_battalion_master" korean="õ¬©¬" />
+	<block key="enetfailure_chat_item_link_internal_packet" korean="DÅtÇ\Ñ " />
+	<block key="enetfailure_chat_can_not_use_item" korean="DÅtÇ\ÑDÇ " />
+	<block key="enetfailure_chat_not_guild_union_member" korean="8®Ü´ " />
+	<block key="enetfailure_chat_not_militia_member" korean="ÑÅÇ€· " />
+	<block key="enetfailure_dungeon_isnotonthemap" korean="õ¹ÐÅ " />
+	<block key="enetfailure_dungeon_init_invalidmapkey" korean="X³È " />
+	<block key="enetfailure_dungeon_init_invalidgrade" korean="œ°tÇÄ³ " />
+	<block key="enetfailure_dungeon_init_invaliddungeon" korean="X³È " />
+	<block key="enetfailure_dungeon_init_reenterpossible" korean="Ö¬Ç " />
+	<block key="enetfailure_dungeon_init_isnotinstance" korean="X³ÈtÇ " />
+	<block key="enetfailure_dungeon_systemerror" korean="X³È " />
+	<block key="enetfailure_dungeon_packeterror" korean="X³È " />
+	<block key="enetfailure_enchant_invalid_uselimit" korean="0®¬È " />
+	<block key="enetfailure_enchant_invalid_box" korean="¬TÖ©Æ " />
+	<block key="enetfailure_enchant_invalid_soulstone_item" korean="Æ<ÖÁ " />
+	<block key="enetfailure_enchant_reinforce_lvupstone_needed" korean="¬TÖÁ " />
+	<block key="enetfailure_enchant_reinforce_blessstone_needed" korean="•Íõ¼¼@Ç " />
+	<block key="enetfailure_enchant_reinforce_random_stone_needed" korean="œ·d³ " />
+	<block key="enetfailure_enchant_reinforce_lvupstone_over_needed" korean="¬TÖÁDÇ " />
+	<block key="enetfailure_enchant_invalid_reinforce_lvup_rate" korean="¬TÖÁ " />
+	<block key="enetfailure_enchant_invalid_reinforce_random_rate" korean="œ·d³ " />
+	<block key="enetfailure_enchant_invalid_reinforce_random_itemgrade" korean="”Æl­ " />
+	<block key="enetfailure_enchant_invalid_reinforce_random_equipparts" korean="¬TÖ " />
+	<block key="enetfailure_enchant_fellowtoitem_notfoundtargetitem" korean="DÅtÇ\ÑDÇ " />
+	<block key="enetfailure_enchant_fellowtoitem_notfoundsealeditem" korean="	½xÇ " />
+	<block key="enetfailure_enchant_fellowtoitem_impossiblesynthesize" korean="iÕ1ÁtÇ " />
+	<block key="enetfailure_enchant_fellowtoitem_notfounditemfrominven" korean="" />
+	<block key="enetfailure_enchant_fellowtoitem_trade_on" korean="p¬˜·ÉxÇ " />
+	<block key="enetfailure_enchant_fellowfromitem_notfoundtargetitem" korean="DÅtÇ\ÑDÇ " />
+	<block key="enetfailure_enchant_fellowfromitem_notfoundsealeditem" korean="¥Ç)Ì´ " />
+	<block key="enetfailure_enchant_fellowfromitem_notfounditemfrominven" korean="" />
+	<block key="enetfailure_enchant_dataerror" korean="¬TÖ " />
+	<block key="enetfailure_enchant_packeterror" korean="¬TÖ " />
+	<block key="enetfailure_fellow_ride_slave_deadstate" korean="ÑÐ¹Â " />
+	<block key="enetfailure_fellow_notmaster" korean="ÇàÂXÇ " />
+	<block key="enetfailure_fellow_donotforcegetoffmaster" korean="È¹¤Â0Ñ”² " />
+	<block key="enetfailure_fellow_notallowobserverstate" korean=",Ò…ºTÖ " />
+	<block key="enetfailure_fellow_chaosstate" korean="<Ö€· " />
+	<block key="enetfailure_fellow_insufficientruby" korean="ØÅì¸tÇ " />
+	<block key="enetfailure_fellow_invalidrubydata" korean="tÇ„¹ " />
+	<block key="enetfailure_fellow_notfounditemfrominven" korean="" />
+	<block key="enetfailure_fellow_transform_notexisttransformskilldata" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_transform_notallowfellowkindbattle" korean="«ÓDÇ " />
+	<block key="enetfailure_fellow_transform_notallowfellowkindride" korean=" Ó\¸°Æ|¹ " />
+	<block key="enetfailure_fellow_dataerror" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_fellow_servererror" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_foothold_notapplicationperiodoffoothold" korean="p¬ÈÈ " />
+	<block key="enetfailure_foothold_noserachabletarget" korean=">ÌDÇ " />
+	<block key="enetfailure_foothold_invalidfootholdnpc" korean="p¬ÈÈ " />
+	<block key="enetfailure_foothold_invalid_map_info" korean="˜Ç»º´ " />
+	<block key="enetfailure_foothold_notguildmaster" korean="8®Ü´¥ÇtÇ " />
+	<block key="enetfailure_foothold_alreadypendinginotherregion" korean="p¬ÈÈDÇ " />
+	<block key="enetfailure_foothold_partyleaderisnotguildmaster" korean="ÓðÒ¥ÇtÇ " />
+	<block key="enetfailure_foothold_partymembersaernotinthesameguild" korean="ÓðÒÐÆtÇ " />
+	<block key="enetfailure_foothold_attacksquadhasalreadeyjoined" korean="õ¬©¬" />
+	<block key="enetfailure_foothold_notparticipationperiodoffoothold" korean="p¬ÈÈ " />
+	<block key="enetfailure_foothold_notprepareregisterguild" korean="p¬ÈÈ " />
+	<block key="enetfailure_foothold_invalidrankingguild" korean=" Ç¨Ö\Õ " />
+	<block key="enetfailure_foothold_notattacksquad" korean="õ¬©¬" />
+	<block key="enetfailure_foothold_notwinnerguild" korean="¹Â¬¹ " />
+	<block key="enetfailure_foothold_notwinnerguildmaster" korean="¹Â¬¹ " />
+	<block key="enetfailure_foothold_invalidtaxrate" korean=" Ç¨Ö\Õ " />
+	<block key="enetfailure_foothold_nottaxrateappliedstore" korean="8Á(Ç " />
+	<block key="enetfailure_foothold_nottaxrateappliedmap" korean="8Á(Ç " />
+	<block key="enetfailure_foothold_systemerror" korean="p¬ÈÈ " />
+	<block key="enetfailure_foothold_packeterror" korean="p¬ÈÈ " />
+	<block key="enetfailure_guild_not_guildmaster" korean="8®Ü´¥ÇtÇ " />
+	<block key="enetfailure_guild_invalidpermission" korean="8®Ü´ " />
+	<block key="enetfailure_guild_not_join_guildmember" korean="8®Ü´ÐÆtÇ " />
+	<block key="enetfailure_guild_not_kick_guildmember" korean="Ç0® " />
+	<block key="enetfailure_guild_not_change_onesafe_guildmember" korean="ÇàÂÐÅŒ¬ " />
+	<block key="enetfailure_guild_invalid_guildmarkid" korean="8®Ü´ " />
+	<block key="enetfailure_interaction_not_player" korean="ÖÝ´ " />
+	<block key="enetfailure_item_not_record" korean="˜Ç»º´ " />
+	<block key="enetfailure_item_notstorable" korean="" />
+	<block key="enetfailure_item_falseexchange" korean="tÇÙ³ " />
+	<block key="enetfailure_item_not_dividestorage" korean="˜°²$¸”² " />
+	<block key="enetfailure_item_not_combinestorage" korean="iÕXÎ$¸”² " />
+	<block key="enetfailure_item_invalidnpcrecord" korean=",Æ¼x¹ " />
+	<block key="enetfailure_item_invalidshoptypenpc" korean="˜Ç»º´ " />
+	<block key="enetfailure_item_fellowequipeditem" korean=" Ó\¸°Æ" />
+	<block key="enetfailure_item_repair_not_item" korean="Â¬¹" />
+	<block key="enetfailure_item_cannotdropauctiongame" korean="½¬ä¹ÐÅ " />
+	<block key="enetfailure_item_invalidarearecord" korean="õ¹ " />
+	<block key="enetfailure_item_notexistrandombox" korean="œ·d³¼¤Â " />
+	<block key="enetfailure_item_notrandombox" korean="œ·d³¼¤Â " />
+	<block key="enetfailure_item_notpackageitem" korean="¼¤Â " />
+	<block key="enetfailure_item_insufficientruby" korean="ØÅì¸tÇ " />
+	<block key="enetfailure_item_dberror" korean="D" />
+	<block key="enetfailure_mail_not_mail_data" korean="°Æ¸ÓDÇ " />
+	<block key="enetfailure_mail_item_invalid_bag" korean="DÅtÇ\ÑtÇ " />
+	<block key="enetfailure_mail_pending" korean=" ÇÜÂ " />
+	<block key="enetfailure_militia_guildranktoohigh" korean="3" />
+	<block key="enetfailure_militia_notmember" korean="ÑÅÇ€· " />
+	<block key="enetfailure_militia_alreadymember" korean="tÇø» " />
+	<block key="enetfailure_militia_invalid_npc" korean="˜Ç»º´ " />
+	<block key="enetfailure_militia_shotmoney" korean="ŒÁÀÉ®tÇ " />
+	<block key="enetfailure_move_notfoundchannel" korean="tÕù² " />
+	<block key="enetfailure_move_not_portal_area" korean="ìÓÈÐ " />
+	<block key="enetfailure_move_not_portal_player_map" korean="ìÓÈÐ " />
+	<block key="enetfailure_move_not_portal_startarea" korean="œÍ¼`Õ " />
+	<block key="enetfailure_move_not_portal_destarea_random" korean="Ä³)Ì`Õ " />
+	<block key="enetfailure_move_invalidportal_npc" korean="ìÓÈÐ " />
+	<block key="enetfailure_move_invalidportal_record" korean="ìÓÈÐ " />
+	<block key="enetfailure_move_invalidportal_data" korean="ìÓÈÐ " />
+	<block key="enetfailure_move_cannotselectgrade" korean=" ÁÝÐ`Õ " />
+	<block key="enetfailure_move_cannotfoundcreatedinstance" korean="ÝÀ1Á´ " />
+	<block key="enetfailure_move_donotexistgradereserveinfo" korean="X³È " />
+	<block key="enetfailure_move_legenddungeoncondition" korean="ÆÅÆ " />
+	<block key="enetfailure_move_legenditemcondition" korean="…Ç¥Ç " />
+	<block key="enetfailure_move_eventinvalidresurrectarea" korean="tÇ¤¼¸Ò " />
+	<block key="enetfailure_move_eventinvalidcutoffarea" korean="tÇ¤¼¸Ò " />
+	<block key="enetfailure_move_eventinvalidarearandompos" korean="tÇ¤¼¸Ò " />
+	<block key="enetfailure_move_donothavequest" korean="tÇ¤¼¸Ò " />
+	<block key="enetfailure_move_invalidregionrecord" korean="ÀÉíÅ " />
+	<block key="enetfailure_move_invalidskill" korean="¤Â¬ÐtÇ " />
+	<block key="enetfailure_move_invalid_map_info" korean="õ¹ " />
+	<block key="enetfailure_move_insufficientruby" korean="ØÅì¸tÇ " />
+	<block key="enetfailure_move_invalid_resurrecttype" korean="˜Ç»º´ " />
+	<block key="enetfailure_move_error_rubysystem" korean="ØÅì¸ " />
+	<block key="enetfailure_party_notmaster_kick" korean="ÓðÒÐÆ " />
+	<block key="enetfailure_party_notmaster_changemaster" korean="ÓðÒ¥Ç " />
+	<block key="enetfailure_party_notmaster_changeloot" korean="ÓðÒ " />
+	<block key="enetfailure_party_notmaster_createbattalion" korean="õ¬©¬" />
+	<block key="enetfailure_party_notmember" korean="ÓðÒ" />
+	<block key="enetfailure_party_notmaster_moneyshare" korean="ÓðÒ¥ÇÌ¹ " />
+	<block key="enetfailure_party_moneyshare_few" korean="®aÅtÇ " />
+	<block key="enetfailure_party_invalidrequestselfcommand" korean="Ç0® " />
+	<block key="enetfailure_party_invalidpartylootgradecheck" korean="ñ´	® " />
+	<block key="enetfailure_party_board_titlenotexist" korean="Œ¬ÜÂÓ " />
+	<block key="enetfailure_party_board_invalid_page" korean="˜Ç»º´ " />
+	<block key="enetfailure_party_board_min_more_than_max" korean="\ÍŒÁ " />
+	<block key="enetfailure_party_board_invalid_type" korean="˜Ç»º´ " />
+	<block key="enetfailure_party_matching_dungeonlimitnum" korean="X³È " />
+	<block key="enetfailure_party_matching_dungeonnextentertimelimit" korean="tÕù² " />
+	<block key="enetfailure_party_matching_normaldungeonlimitcount" korean="|Ç¼ " />
+	<block key="enetfailure_party_matching_impossibleapplyclass" korean="ÀÉÐÆ " />
+	<block key="enetfailure_party_matching_invalidmap" korean="˜Ç»º´ " />
+	<block key="enetfailure_party_matching_cannotselectgrade" korean=" ÁÝÐ`Õ " />
+	<block key="enetfailure_party_matching_alreadyapply" korean="tÇø» " />
+	<block key="enetfailure_party_matching_alreayinstancemap" korean="xÇX³ÐÅÁ”² " />
+	<block key="enetfailure_party_matching_notmaster" korean="ÓðÒ¥ÇtÇ " />
+	<block key="enetfailure_party_matching_notyetwaittime" korean="ä¹mÎ " />
+	<block key="enetfailure_quest_invalidnpctype" korean=",Æ¼x¹ " />
+	<block key="enetfailure_quest_invalidnpcrecord" korean="N" />
+	<block key="enetfailure_quest_alreadydoingquestnpc" korean="tÇø» " />
+	<block key="enetfailure_quest_mylevelbelowskillevel" korean="¤Â¬Ð½XÇ " />
+	<block key="enetfailure_quest_notquestrecord" korean="Ð¤Â¸Ò " />
+	<block key="enetfailure_quest_notinarea" korean="ø»XÁ " />
+	<block key="enetfailure_quest_myleveloverquestlevel" korean="Ð¤Â¸Ò " />
+	<block key="enetfailure_quest_invalidneeditem" korean="Â}· " />
+	<block key="enetfailure_quest_notenoughneeditem" korean="Â}· " />
+	<block key="enetfailure_relation_namelengthover" korean="tÇ„¹ " />
+	<block key="enetfailure_relation_self" korean="ÇàÂ@Ç " />
+	<block key="enetfailure_relation_systemerror" korean="\Îl­ " />
+	<block key="enetfailure_store_not_item_destroy_time" korean="DÅtÇ\Ñ " />
+	<block key="enetfailure_store_invalid_item_record" korean="DÅtÇ\Ñ " />
+	<block key="enetfailure_talents_not_enough_point" korean="Æ<Ö%¸tÇ " />
+	<block key="enetfailure_talents_not_enough_powder" korean="Æ<Ö " />
+	<block key="enetfailure_talents_max_point_already_full" korean="tÇø» " />
+	<block key="enetfailure_talents_low_level" korean="¸¨¼tÇ " />
+	<block key="enetfailure_talents_low_mastery" korean="Â(¸Ä³" />
+	<block key="enetfailure_talents_target_too_far" korean="" />
+	<block key="enetfailure_talents_notsoulstoneitem" korean="Æ<ÖÁtÇ " />
+	<block key="enetfailure_talents_notsoulpowderitem" korean="Æ<Ö " />
+	<block key="enetfailure_talents_impossibleawakenpart" korean="¬1Á " />
+	<block key="enetfailure_talents_impossibleclass" korean="¬1Á " />
+	<block key="enetfailure_talents_notenoughactivelevel" korean="\Ö1ÁTÖ " />
+	<block key="enetfailure_talents_notawakenpart" korean="tÕù² " />
+	<block key="enetfailure_talents_nohaveskill" korean="¤Â¬ÐtÇ " />
+	<block key="enetfailure_talents_not_found_item" korean="DÅtÇ\ÑDÇ " />
+	<block key="enetfailure_talents_not_sealed_fellow_item" korean=" Ó\¸°Æ " />
+	<block key="enetfailure_title_invalid_title" korean="mÎ8Ö " />
+	<block key="enetfailure_title_not_have_title" korean="ÖÝ´XÕÀÉ " />
+	<block key="enetfailure_trade_invalid_trade_slot" korean="ÈÕ©Æ´ " />
+	<block key="enetfailure_tarde_not_decided" korean="p¬˜·" />
+	<block key="enetfailure_user_notallowreqchannellistmap" korean="DÌ± " />
+	<block key="enetfailure_user_notallowreqchangechannelmap" korean="DÌ± " />
+	<block key="enetfailure_gmsvmanager_equalaccountconnected" korean="¬@Ç " />
+	<block key="enetfailure_managerskill_alreadylearnskill" korean="tÇø» " />
+	<block key="enetfailure_managerskill_invalidskill" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="eNetFailure_Move_NotAllowResurrectType" korean="tÇ " />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaMapTrade" korean="tÇ " />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaMap" korean="tÇ " />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaTarget" korean="" />
+	<block key="eNetFailure_Militia_UnableContents" korean="ÀÉ®@Ç " />
+	<block key="eNetFailure_Militia_UnknownDBKey" korean="8®Ü´|¹ " />
+	<block key="eNetFailure_Militia_NoRecordData" korean="˜Ç»º´ " />
+	<block key="eNetFailure_GuildUnion_UnknownGuildDBKey" korean="8®Ü´|¹ " />
+	<block key="eNetFailure_GuildUnion_UnknownPlayerDBKey" korean="" />
+	<block key="eNetFailure_GuildUnion_NotGuildUnionMaster" korean="8®Ü´¥ÇtÇ " />
+	<block key="eNetFailure_GuildUnion_NotGuildMaster" korean="8®Ü´ " />
+	<block key="eNetFailure_GuildUnion_Invalid_NPC" korean="˜Ç»º´ " />
+	<block key="eNetFailure_GuildUnion_ShortGold" korean="ŒÁÀÉ®tÇ " />
+	<block key="eNetFailure_GuildUnion_LowRank" korean="3" />
+	<block key="eNetFailure_GuildUnion_GuildNotFound" korean="8®Ü´|¹ " />
+	<block key="eNetFailure_GuildUnion_UnknownGuildUnionDBKey" korean="˜Ç»º´ " />
+	<block key="eNetFailure_GuildUnion_NotExistGuildName" korean="ðÅiÕÐÅ " />
+	<block key="eNetFailure_GuildUnion_NotEnoughGuildRank" korean="3" />
+	<block key="eNetFailure_GuildUnion_AlreadyGuildUnionMember" korean="ðÅiÕtÇ " />
+	<block key="eNetFailure_GuildUnion_GuildMasterOffline" korean="ðÅiÕ`Õ " />
+	<block key="eNetFailure_GuildUnion_OfferRefused" korean="" />
+	<block key="eNetFailure_GuildUnion_SameGuildUnionName" korean="Ù³|Ç\Õ " />
+	<block key="eNetFailure_GuildUnion_ExistGuildName" korean="ä²x¹ " />
+	<block key="eNetFailure_GuildUnion_ExistGuildUnionName" korean="tÇø» " />
+	<block key="eNetFailure_GuildUnion_ShortRuby" korean="ØÅì¸tÇ " />
+	<block key="eNetFailure_GuildUnion_NotGuildMember" korean="" />
+	<block key="eNetFailure_GuildUnion_NotGuildUnionMember" korean="" />
+	<block key="eNetFailure_GuildUnion_DifferentGuildUnion" korean="8®Ü´ " />
+	<block key="eNetFailure_GuildUnion_MasterGuildCantLeaveUnion" korean="ðÅiÕDÇ " />
+	<block key="eNetFailure_GuildUnion_NameLengthOver" korean="ðÅiÕ " />
+	<block key="eNetFailure_GuildUnion_NameIncludedWordBaned" korean="ðÅiÕ " />
+	<block key="eNetFailure_Item_CancelSkill" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_agreement_guidunion_disagree" korean="ðÅiÕ " />
+	<block key="eNetFailure_agreement_guidunion_notexistguild" korean="Í" />
+	<block key="eNetFailure_Action_NotTamAbleonCasting" korean="¬º¤Â0Ñ" />
+	<block key="eNetFailure_Item_CannotUseInstanceMap" korean="DÅtÇ\ÑDÇ " />
+	<block key="eNetFailure_Guild_TimePenaltyWithdrawalGuild" korean="8®Ü´ " />
+	<block key="eNetFailure_Guild_NotCertifiedAbsentDay" korean="8®Ü´¥Ç " />
+	<block key="eNetFailure_Guild_ImpossibleDismissal" korean="8®Ü´¥Ç " />
+	<block key="eNetFailure_Agreement_TimePenaltyWithdrawalGuild" korean="8®Ü´ " />
+	<block key="eNetFailure_Agreement_GuidUnion_NotEnoughGold" korean="ðÅiÕÐÅ " />
+	<block key="eNetFailure_Agreement_GuidUnion_MasterNotConnected" korean="Í" />
+	<block key="eNetFailure_Chat_not_militarized_zone" korean="ü»Ñ¼" />
+	<block key="eNetFailure_Guild_DismissalInProgress" korean="8®Ü´¥Ç " />
+	<block key="eNetFailure_Move_LegendAchievementCondition" korean="È$Á " />
+	<block key="eNetFailure_User_MoneyCheckSumError" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_Fellow_BlockSummonFellow" korean=" Ó\¸°Æ|¹ " />
+	<block key="eNetFailure_Fellow_NotAllowAltitude" korean="Ö¬Ç " />
+	<block key="eNetFailure_Agreement_Taming" korean="8®ä´tÇ0® " />
+	<block key="eNetFailure_User_CharHelpTopic" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CharShowActorItem" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CharPKList" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CharTimeEvent" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CharTransaction" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CheckFellowListFail" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_CharGeneral" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_YellowTime" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_User_YellowBox" korean="Î­¹0ÑÈô¼ " />
+	<block key="eNetFailure_GuildUnion_TimePenaltyWithdrawal" korean="ðÅiÕ " />
+	<block key="eNetFailure_Agreement_GuidUnion_TimePenaltyWithdrawal" korean="ðÅiÕ " />
+	<block key="enetfailure_move_legendachivementcondition" korean="È$Á " />
+	<block key="eNetFailure_Action_IsNotComboSequence" korean="dÏô¼¤Â¬ÐtÇ " />
+	<block key="eNetFailure_Action_InvalidComboSkill" korean="ÜÂ‘Ç\Õ " />
+	<block key="eNetFailure_Action_InvalidComboSkillSequence" korean="dÏô¼¤Â¬Ð " />
+	<block key="eNetFailure_GuildUnion_Warfare_InvalidGuionUnionDBKey" korean="8®Ü´ " />
+	<block key="eNetFailure_GuildUnion_Warfare_NotExistGuionUnion" korean="8®Ü´ " />
+	<block key="eNetFailure_GuildUnion_Warfare_NotGuionUnionMaster" korean="8®Ü´ " />
+	<block key="eNetFailure_GuildUnion_Warfare_NotEnoughRequestGold" korean="ÈÁÇ " />
+	<block key="eNetFailure_GuildUnion_Warfare_WarfareState" korean="ÈÁÇ " />
+	<block key="eNetFailure_GuildUnion_Warfare_NotWarfareState" korean="ÀÉ®@Ç " />
+	<block key="eNetFailure_GuildUnion_Warfare_ResponseTimeOut" korean="ÈÁÇ " />
+	<block key="eNetFailure_GuildUnion_Warfare_NotExistStateWarfare" korean="ÈÁÇ " />
+	<block key="eNetFailure_GuildUnion_Warfare_WarfareStateNotReqeust" korean="ÈÁÇ " />
+	<block key="eNetFailure_GuildUnion_Warfare_Invalid_NPC" korean="˜Ç»º´ " />
+	<block key="eNetFailure_GuildUnion_Warfare_LongDistanceWithTheNpc" korean="N" />
+	<block key="eNetFailure_GuildUnion_Warfare_CanNotRequestMyUnion" korean="ÇàÂXÇ " />
+	<block key="eNetFailure_item_ChangeOptionNotFoundSealedItem" korean="	½xÇ " />
+	<block key="eNetFailure_item_ChangeOptionNotExistInInven" korean="DÅtÇ\ÑtÇ " />
+	<block key="eNetFailure_Item_ChangeOptionNotEnoughItemGrade" korean="ñ´	® " />
+	<block key="eNetFailure_Enchant_decomposition_no_item" korean="„½tÕ`Õ " />
+	<block key="eNetFailure_Enchant_decomposition_InvalidData" korean="„½tÕ " />
+	<block key="eNetFailure_Enchant_Level" korean="DÅtÇ\Ñ " />
+	<block key="eNetFailure_User_ForceKick_AbuseMovingCheck" korean="D¾ÈÁÀÈ " />
+	<block key="eNetFailure_Fellow_NeutralZoneTarget" korean="É½¹ " />
+	<block key="eNetFailure_Agreement_NotAllowDuelByUnionWarfare" korean="ðÅiÕ " />
+	<block key="eNetFailure_Action_NotAllowedNeuralZone" korean="É½¹ " />
+	<block key="eNetFailure_GuildUnion_Warfare_DisbandFailed" korean="ðÅiÕ " />
+	<block key="eNetFailure_Enchant_decomposition_not_enough_slot" korean="„½tÕ|¹ " />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundBracelet" korean="ÓÌ " />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundGem" korean="ô¼Á " />
+	<block key="eNetFailure_Enchant_Bracelet_DeactivationGemSlot" korean="ô¼Á " />
+	<block key="eNetFailure_Enchant_Bracelet_InvalidGemSlot" korean="ô¼Á " />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundGemSlotItem" korean="ô¼Á " />
+	<block key="eNetFailure_Enchant_Bracelet_NotEnoughGoldEtractionGem" korean="ô¼Á " />
+	<block key="eNetfailure_store_invalid_state" korean="ÁÀÈ " />
+	<block key="eNetFailure_GuildUnion_Warfare_NotRequestUnion" korean="ðÅiÕ " />
+	<block key="eNetFailure_Item_LoginEvent_FullInventory" korean="xÇ¤¼ Ñ¬¹" />
+	<block key="eNetFailure_Item_LoginEvent_NoPrize" korean="¼DÇ " />
+	<block key="eNetFailure_Item_LoginEvent_WrongItemCount" korean="ÀÉ	® " />
+	<block key="eNetfailure_Item_Keeping_npc_not_found" korean="=Ìà¬ " />
+	<block key="eNetfailure_Item_Keeping_too_far" korean="=Ìà¬ " />
+	<block key="eNetFailure_auction_exceed_buy_item_maximum_limit" korean="l­…ÇXÕ$¸”² " />
+	<block key="eNetFailure_auction_exceed_cancel_item_maximum_limit" korean="Óä¹ " />
+	<block key="eNetFailure_Billing_ExceedItemMaximumLimit" korean="¼<Ç$¸”² " />
+	<block key="eNetFailure_Item_ExceedItemMaximumLimit" korean="DÅtÇ\ÑXÇ " />
+	<block key="eNetFailure_Mail_exceed_item_maximum_limit" korean="¼<Ç$¸”² " />
+	<block key="eNetFailure_store_exceed_buy_item_maximum_limit" korean="l­…ÇXÕ$¸”² " />
+	<block key="eNetFailure_store_exceed_rebuy_item_maximum_limit" korean="¬Çl­…ÇXÕ$¸”² " />
+	<block key="eNetFailure_trade_exceed_item_maximum_limit" korean="DÅtÇ\ÑXÇ " />
+	<block key="eNetFailure_Fellow_BlockNotAllowSummonTakePassenger" korean="xÇX³ÐÅÁ”² " />
+	<block key="eNetFailure_Item_FellowMaxGrowthLevel" korean=" Ó\¸°Æ" />
+	<block key="eNetFailure_Action_LowLevelBuff" korean="T³ " />
+	<block key="eNetFailure_Production_NotAllowDoubleMaterial" korean="|Ç¼¬ÇÌ¸ " />
+	<block key="eNetFailure_Enchant_Bracelet_FoundGemSlotItem" korean="ô¼ÁtÇ " />
+</blocks>

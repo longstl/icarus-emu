@@ -58,7 +58,7 @@ private:
 
 bool LoadSettings(SETTINGS* settings)
 {
-	setlocale(LC_ALL, "");
+//	setlocale(LC_ALL, "");
 	Configuration* cfg = settings->Init();
 	if (cfg == NULL)
 		return false;

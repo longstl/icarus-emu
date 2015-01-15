@@ -1,0 +1,34 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SP0_0_0000_NAME" korean="ìÓ ÇÄ¬ " />
+	<block key="SP0_0_0001_NAME" korean=" ÇuÇÄ¬ " />
+	<block key="SP0_0_0002_NAME" korean="Ó©ÍÄ¬ " />
+	<block key="SP0_0_0003_NAME" korean="ä¬©ÍÄ¬ " />
+	<block key="SP0_0_0004_NAME" korean="È9¸Ä¬ " />
+	<block key="EG0_0_0001_NAME" korean="ìÓ ÇÄ¬ " />
+	<block key="EG0_1_0001_NAME" korean="ìÓ ÇÄ¬ " />
+	<block key="EG0_2_0001_NAME" korean="ìÓ ÇÄ¬ " />
+	<block key="EG0_3_0001_NAME" korean="ìÓ ÇÄ¬ " />
+	<block key="EG0_0_0002_NAME" korean=" ÇuÇÄ¬ " />
+	<block key="EG0_1_0002_NAME" korean=" ÇuÇÄ¬ " />
+	<block key="EG0_2_0002_NAME" korean=" ÇuÇÄ¬ " />
+	<block key="EG0_3_0002_NAME" korean=" ÇuÇÄ¬ " />
+	<block key="EG0_0_0003_NAME" korean="Ó©ÍÄ¬ " />
+	<block key="EG0_1_0003_NAME" korean="Ó©ÍÄ¬ " />
+	<block key="EG0_2_0003_NAME" korean="Ó©ÍÄ¬ " />
+	<block key="EG0_3_0003_NAME" korean="Ó©ÍÄ¬ " />
+	<block key="EG0_0_0004_NAME" korean="ä¬©ÍÄ¬ " />
+	<block key="EG0_1_0004_NAME" korean="ä¬©ÍÄ¬ " />
+	<block key="EG0_2_0004_NAME" korean="ä¬©ÍÄ¬ " />
+	<block key="EG0_3_0004_NAME" korean="ä¬©ÍÄ¬ " />
+	<block key="EG0_0_0005_NAME" korean="È9¸Ä¬ " />
+	<block key="EG0_1_0005_NAME" korean="È9¸Ä¬ " />
+	<block key="EG0_2_0005_NAME" korean="È9¸Ä¬ " />
+	<block key="EG0_3_0005_NAME" korean="È9¸Ä¬ " />
+</blocks>

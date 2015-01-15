@@ -8,7 +8,6 @@
 inline void SM_QUESTLIST(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(1);
 	pck->writeD(0x6d);
@@ -16,7 +15,6 @@ inline void SM_QUESTLIST(PACKET* pck)
 	pck->writeD(0x403b2b00);
 	pck->writeD(0x01000001);
 	pck->writeD(0);
-
 	pck->PackSend(OPCODE_SM_QUESTLIST);
 
 

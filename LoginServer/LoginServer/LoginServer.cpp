@@ -17,6 +17,7 @@
 //
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
+	int tick = 0;
 	EnterCriticalSection(&gCS);
 	THREAD_STRUCT* th_struct = (THREAD_STRUCT*)Param;
 	PACKET* pck = new PACKET(th_struct);
@@ -26,9 +27,15 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	while (pck->isconnected)
 	{
 		EnterCriticalSection(&gCS);
+		if (tick > 50)
+		{
+			tick = 0;
+			SM_UPDATESERVERINFO(pck);
+		}
+
 		if (pck->PackRecv())
 		{
-/*			// DEBUG
+			/*// DEBUG
 			char bindbg[2];
 			memset(bindbg, 0, 2);
 
@@ -57,6 +64,7 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 		}
 		LeaveCriticalSection(&gCS);
 		Sleep(100);
+		++tick;
 	}
 	
 	if (strlen(pck->sockstruct->account_name) != 0)
@@ -70,44 +78,6 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	return 0;
 }
 
-//====================================================================================
-// Inner connections
-//
-DWORD WINAPI InnerConnection(LPVOID Param)
-{
-	int* param = (int*)Param;
-	SOCKET sinner_accept = (SOCKET)param[0];
-	int packet_len;
-	char buf[PACKET_LEN];
-	GAMESERVERS gs;
-	memset(&gs, 0, sizeof(GAMESERVERS));
-
-	while (true)	
-	{
-		if ((packet_len = recv(sinner_accept, buf, PACKET_LEN, 0)) == 0)
-		{
-//			log::Info(fg, "InnerLS: Disconnect [%s].\n", inet_ntoa(from_ls.sin_addr));
-			closesocket(sinner_accept);
-			return 0;
-		}
-
-		uint8 opcode = *(reinterpret_cast<uint8*>(&buf[0]));
-		switch (opcode)
-		{
-			// информация о сервере
-		case 1:
-			memcpy(&gs, buf + 2, sizeof(GAMESERVERS));
-			memcpy(&gameservers_info[gs.id-1], &gs, sizeof(GAMESERVERS));
-
-			break;
-		default:
-		case 0:
-			break;
-		}
-		Sleep(100);
-	}
-
-}
 DWORD WINAPI InnerThread(LPVOID Param)
 {
 	int tmp = 0;
@@ -116,26 +86,33 @@ DWORD WINAPI InnerThread(LPVOID Param)
 	time_t rawTime;
 	LPHOSTENT hostEnt;
 
+	if (lsinnerSock != NULL)
+	{
+		closesocket(lsinnerSock);
+		lsinnerSock = NULL;
+		Sleep(5000);
+	}
+
 	hostEnt = gethostbyname(inner_ip);
-	SOCKET lsSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
-	if (lsSock == SOCKET_ERROR)
+	lsinnerSock = socket(PF_INET, SOCK_STREAM, IPPROTO_TCP);
+	if (lsinnerSock == SOCKET_ERROR)
 	{
 		log::Error(fg, "InnerThread: Unable to create socket.\n");
-		return false;
+		InnerThread(NULL);
+		return 0;
 	}
 
 	SOCKADDR_IN serverInfo;
 	serverInfo.sin_family = PF_INET;
 	serverInfo.sin_addr = *((LPIN_ADDR)*hostEnt->h_addr_list);
 	serverInfo.sin_port = htons(inner_port);
-	retVal = connect(lsSock, (LPSOCKADDR)&serverInfo, sizeof(serverInfo));
+	retVal = connect(lsinnerSock, (LPSOCKADDR)&serverInfo, sizeof(serverInfo));
 	if (retVal == SOCKET_ERROR)
 	{
 		log::Error(fg, "InnerThread: Unable to connect\n");
-		closesocket(lsSock);
-		Sleep(5000);
+		closesocket(lsinnerSock);
 		InnerThread(NULL);
-		return false;
+		return 0;
 	}
 
 	SetConsoleTextAttribute(hConsole, (WORD)FOREGROUND_GREEN | FOREGROUND_INTENSITY);
@@ -146,56 +123,81 @@ DWORD WINAPI InnerThread(LPVOID Param)
 
 	while (true)
 	{
+		if (lsinnerSock == NULL)
+			break;
 		switch (status)
 		{
 		case 0:
+		{
 			packet[0] = 1;
 			packet[1] = 0x11;
-			retVal = send(lsSock, packet, 2, 0);
+			retVal = send(lsinnerSock, packet, 2, 0);
 			if (retVal == SOCKET_ERROR) {
 				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
-				closesocket(lsSock);
-				Sleep(5000);
+				closesocket(lsinnerSock);
 				InnerThread(NULL);
 				return 0;
 			}
 			else
 				log::Info(fg, "InnerThread: Connected.\n");
 			status = 1;
+		}
 			break;
 
 		case 1:
+		{
 			packet[0] = 1;
 			packet[1] = 0x21;
-			retVal = send(lsSock, packet, 2, 0);
+			retVal = send(lsinnerSock, packet, 2, 0);
 			if (retVal == SOCKET_ERROR) {
 				log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
-				closesocket(lsSock);
-				Sleep(5000);
+				closesocket(lsinnerSock);
 				InnerThread(NULL);
 				return 0;
 			}
 			status = 2;
+		}
 			break;
 
 		case 2:
-			if ((retVal = recv(lsSock, packet, PACKET_LEN, NULL) != -1))
+		{
+			retVal = recv(lsinnerSock, packet, PACKET_LEN, NULL);
+			if (retVal == SOCKET_ERROR) {
+					log::Error(fg, "InnerThread: Disconnect.\n", WSAGetLastError());
+					closesocket(lsinnerSock);
+					InnerThread(NULL);
+					return 0;
+				}
+			else
 			{
 				if (packet[0] == 0x22)
 				{
 					step = 2;
-					for (int i = 0; i < packet[1]; i++)
+/*					for (int i = 0; i < packet[1]; i++)
 					{
 						memcpy(&gameservers_info[packet[step]], &packet[step], sizeof(GAMESERVERS));
+						step += sizeof(GAMESERVERS);
+					}*/
+
+					for (int i = 0; i < 12; i++)
+					{
+						if (packet[step] == -1)
+						{
+							gameservers_info[i].id = -1;
+						}
+						else
+						{
+							memcpy(&gameservers_info[i], &packet[step], sizeof(GAMESERVERS));
+						}
 						step += sizeof(GAMESERVERS);
 					}
 				}
 				status = 1;
 			}
-			
+		}
 			break;
 		}
-		Sleep(2500);
+		Sleep(5000);
 	}
 
 	return 0;
@@ -211,11 +213,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	SOCKET s;
 	SOCKET sock_accept;
 	struct sockaddr_in sin;
-	/*
-	for (int i = 0; i < 12; i++)
-	{
-		gameservers_info[i].id = -1;
-	}*/
+	lsinnerSock = NULL;
 
 	wVersionRequested = MAKEWORD(2, 2);
 	WSAStartup(wVersionRequested, &wsaData);
@@ -226,9 +224,9 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
-	log::Notify(fg, "# Login Server v0.80            #\n");
-	log::Notify(fg, "# Client version: 1.5.49        #\n");
-	log::Notify(fg, "# Client time: 12:00 31.12.2014 #\n");
+	log::Notify(fg, "# Login Server v0.93            #\n");
+	log::Notify(fg, "# Client version: 1.5.55        #\n");
+	log::Notify(fg, "# Client time: 2015-01-12 23:15 #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////
@@ -271,16 +269,12 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	COLOR_GL
 	log::Notify(fg, "Succesful\n");
-
-	Sleep(100);
-	// inner server
-
-	HANDLE hthInner = CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)InnerThread, NULL, NULL, NULL);
-
-	COLOR_GL
 	log::Notify(fg, "\nServer is running. (%s:%d)\n", launcher_ip, launcher_port);
 	COLOR_RGBL
 	Sleep(500);
+
+	// inner server
+	HANDLE hthInner = CreateThread(NULL, NULL, (LPTHREAD_START_ROUTINE)InnerThread, NULL, NULL, NULL);
 
 	InitializeCriticalSection(&gCS);
 

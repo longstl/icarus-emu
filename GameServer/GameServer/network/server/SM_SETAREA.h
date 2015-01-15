@@ -14,7 +14,6 @@ inline void SM_SETAREA(PACKET* pck)
 	strcpy(tmp_area, area);
 
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeUD(pck->me->id & 0xfffffff);
 //	pck->writeA("5400610068006F006D0061003200000000000000000000000000000000000000000000000100050100F51F310000000000000000030000007A020000000000000D0000000000000014CC3A44437627449E72D9410000B0421800000000000000000000000000000000000000000000000000000000000000000000000000000000000000FFFFFFFF0000000000000000C4C4343F010000008047A43F01000000D49C343F0100000008A01E3401000000D8719A5001000000617265615F6630315F705F303030310000000000000000000000003F01000000");
@@ -27,7 +26,7 @@ inline void SM_SETAREA(PACKET* pck)
 	pck->writeD(0);
 	pck->writeB(0);
 	pck->writeB(0);
-	pck->writeB(pck->me->cls);
+	pck->writeB(2);// pck->me->cls);
 	pck->writeB(pck->me->sex);
 	pck->writeD(0x3bd70900);
 	pck->writeD(0);
@@ -42,14 +41,14 @@ inline void SM_SETAREA(PACKET* pck)
 	pck->writeB(0);
 	pck->writeW(0);
 	pck->writeD(0);
-//	pck->writeF(pck->me->pos_x);
-//	pck->writeF(pck->me->pos_y);
-//	pck->writeF(pck->me->pos_z);
-//	pck->writeF(pck->me->rotate);
-	pck->writeD(0x443e0b61);		// pos_x
-	pck->writeD(0x4460cb05);		// pos_y
-	pck->writeD(0x420032bc);		// pos_z
-	pck->writeD(0x43070000);		// rotate
+	pck->writeF(pck->me->pos_x);
+	pck->writeF(pck->me->pos_y);
+	pck->writeF(pck->me->pos_z);
+	pck->writeF(pck->me->rotate);
+//	pck->writeD(0x443e0b61);		// pos_x
+//	pck->writeD(0x4460cb05);		// pos_y
+//	pck->writeD(0x420032bc);		// pos_z
+//	pck->writeD(0x43070000);		// rotate
 	pck->writeD(0x18);
 	pck->writeD(0);
 	pck->writeD(0);

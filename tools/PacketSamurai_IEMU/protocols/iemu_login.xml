@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <protocol checksumSize="0" crypt="AionGame" name="iemu_login" packetbuffer="DefaultPacketBuffer" port="5694" sizebytes="2" strictlength="true">
 	<packetfamilly switchtype="h" way="ServerPackets">
-		<packet id="0x0165" name="SM_PING">
+		<packet id="0x0165" name="SM_PONG">
 			<part name="crypt_flag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
@@ -48,7 +48,7 @@
 	</packetfamilly>
 
 	<packetfamilly switchtype="h" way="ClientPackets">
-		<packet id="0x0165" name="CM_PONG">
+		<packet id="0x0165" name="CM_PING">
 			<part name="crypt_flag" type="h"/>
 			<part name="unk1" type="c"/>
 		</packet>
@@ -60,6 +60,10 @@
 		</packet>
 		<packet id="0x140b" name="CM_SELECTSERVER">
 			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
 		</packet>
 	</packetfamilly>
 </protocol>

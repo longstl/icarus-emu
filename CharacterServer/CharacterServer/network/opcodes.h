@@ -26,13 +26,14 @@
 #define OPCODE_SM_CREATECHARACTER				0x1305		//
 #define OPCODE_CM_DELETECHARACTER				0x0e05		//
 #define OPCODE_SM_DELETECHARACTER				0x1605		//
+#define OPCODE_SM_DELETE_S						0x1705		//
 #define OPCODE_SM_GETPIN						0x0305		//
 #define OPCODE_CM_PIN							0x0405		//
 #define OPCODE_SM_PIN							0x0505		//
 #define OPCODE_CM_STARTGAME						0x2005		//
 #define OPCODE_SM_STARTGAME						0x2105		//
-#define OPCODE_CM_UNK1							0x1d05		//
-#define OPCODE_SM_UNK1							0x1d05		//
+#define OPCODE_CM_UNK1							0x1a05		//
+#define OPCODE_SM_UPDATE_CHARACTER_INFO			0x1d05		//
 #define OPCODE_CM_UNK2							0x1e13		//
 
 //////////////////////////////////////////////////////////////////////

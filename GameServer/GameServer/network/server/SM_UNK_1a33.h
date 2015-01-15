@@ -8,7 +8,7 @@
 inline void SM_UNK_1a33(PACKET* pck, int unk)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
+
 	switch (unk)
 	{
 	case 0:

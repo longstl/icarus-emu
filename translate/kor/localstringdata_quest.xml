@@ -1,0 +1,1879 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="SP_0_1_0000_Title" korea_korean="|ÇtÇ¼À¬À$Æ!Ç`ÎÓl­íÂ|ÇtÇ¼À¬À$Æ!Ç`ÎÓl­íÂ|ÇtÇ¼À¬À" />
+	<block key="SP_0_1_0001_Title" korea_korean="4»¥ÇXÕ0®" />
+	<block key="SP_0_1_0001_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="SP_0_1_0001_Request_Text" korea_korean="Èü¬ " />
+	<block key="SP_0_1_0001_Accepted_Text" korea_korean="" />
+	<block key="SP_0_1_0001_Ongoing_Text" korea_korean="ìÅ0® " />
+	<block key="SP_0_1_0001_Complete_Text" korea_korean="¼®¸° " />
+	<block key="SP_0_1_0002_Title" korea_korean="TÖüÅ " />
+	<block key="SP_0_1_0002_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="SP_0_1_0002_Request_Text" korea_korean="xÔx¹ " />
+	<block key="SP_0_1_0002_Accepted_Text" korea_korean="xÔx¹ " />
+	<block key="SP_0_1_0002_Ongoing_Text" korea_korean=" Ç4® " />
+	<block key="SP_0_1_0002_Complete_Text" korea_korean="‹ÈDÅ," />
+	<block key="SP_0_1_0003_Title" korea_korean="D¾‰Õ ÁtÇ " />
+	<block key="SP_0_1_0003_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="SP_0_1_0003_Request_Text" korea_korean="" />
+	<block key="SP_0_1_0003_Accepted_Text" korea_korean="" />
+	<block key="SP_0_1_0003_Ongoing_Text" korea_korean="1Á " />
+	<block key="SP_0_1_0003_Complete_Text" korea_korean="1Áõ¬È<Ç\¸ " />
+	<block key="SP_0_1_0004_Title" korea_korean="4»¥ÇXÕ0®" />
+	<block key="SP_0_1_0004_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="SP_0_1_0004_Request_Text" korea_korean="Èü¬ " />
+	<block key="SP_0_1_0004_Accepted_Text" korea_korean="Èü¬ " />
+	<block key="SP_0_1_0004_Ongoing_Text" korea_korean="ìÅ0® " />
+	<block key="SP_0_1_0004_Complete_Text" korea_korean="¼®¸° " />
+	<block key="SP_0_1_0005_Title" korea_korean="¬À€·¸ÒXÇ " />
+	<block key="SP_0_1_0005_RewarderDesc" korea_korean=" Á¥Ç " />
+	<block key="SP_0_1_0005_Request_Text" korea_korean="lÐ\¸°Æ|¹ " />
+	<block key="SP_0_1_0005_Accepted_Text" korea_korean="lÐ\¸°Æ|¹ " />
+	<block key="SP_0_1_0005_Ongoing_Text" korea_korean="tÇÈ " />
+	<block key="SP_0_1_0005_Complete_Text" korea_korean="tÇÈ " />
+	<block key="SF_0_1_0001_Title" korea_korean="D¾‰Õ Á " />
+	<block key="SF_0_1_0001_RewarderDesc" korea_korean="D¾‰Õ Á " />
+	<block key="SF_0_1_0001_Request_Text" korea_korean="ÈàÂDÇ " />
+	<block key="SF_0_1_0001_Accepted_Text" korea_korean="´ÅÁ " />
+	<block key="SF_0_1_0001_Ongoing_Text" korea_korean="´ÅÁ " />
+	<block key="SF_0_1_0001_Complete_Text" korea_korean="tÇÈ " />
+	<block key="SF_0_1_0001_1_Title" korea_korean="ÁÀiÖ " />
+	<block key="SF_0_1_0001_1_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0001_1_Request_Text" korea_korean="|Çè² " />
+	<block key="SF_0_1_0001_1_Accepted_Text" korea_korean="tÇÌ¹XÕ8® " />
+	<block key="SF_0_1_0001_1_Ongoing_Text" korea_korean="|Ç´Å¬°p­”Æ." />
+	<block key="SF_0_1_0001_1_Complete_Text" korea_korean="|Ç´Å¬°p­”Æ." />
+	<block key="SF_0_1_0002_Title" korea_korean="gºü³ÀÉXÇ " />
+	<block key="SF_0_1_0002_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0002_Request_Text" korea_korean="`Õ " />
+	<block key="SF_0_1_0002_Accepted_Text" korea_korean="ìÅì·„½~" />
+	<block key="SF_0_1_0002_Ongoing_Text" korea_korean="ä²ä´ " />
+	<block key="SF_0_1_0002_Complete_Text" korea_korean="à¬ÝÀ " />
+	<block key="SF_0_1_0003_Title" korea_korean="" />
+	<block key="SF_0_1_0003_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0003_Request_Text" korea_korean="tÇð·& Ä¼\¸ " />
+	<block key="SF_0_1_0003_Accepted_Text" korea_korean="8®DÇ " />
+	<block key="SF_0_1_0003_Ongoing_Text" korea_korean="DÅ," />
+	<block key="SF_0_1_0003_Complete_Text" korea_korean="DÅ," />
+	<block key="SF_0_1_0004_Title" korea_korean="QÇ	® " />
+	<block key="SF_0_1_0004_RewarderDesc" korea_korean="ìÅÇ " />
+	<block key="SF_0_1_0004_Request_Text" korea_korean="ÝÂÉ·@Ç " />
+	<block key="SF_0_1_0004_Accepted_Text" korea_korean="h¾¬¹ " />
+	<block key="SF_0_1_0004_Ongoing_Text" korea_korean="}ÅÑ¼tÇ " />
+	<block key="SF_0_1_0004_Complete_Text" korea_korean="´Å8º," />
+	<block key="SF_0_1_0004_1_Title" korea_korean="Í	® " />
+	<block key="SF_0_1_0004_1_RewarderDesc" korea_korean="Í	® " />
+	<block key="SF_0_1_0004_1_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0004_1_Accepted_Text" korea_korean="¨Öü¬ÈxÇ " />
+	<block key="SF_0_1_0004_1_Ongoing_Text" korea_korean="¨Öü¬ÈxÇ " />
+	<block key="SF_0_1_0004_1_Complete_Text" korea_korean="Ç$±”² " />
+	<block key="SF_0_1_0004_11_Title" korea_korean="ÁÀÈ " />
+	<block key="SF_0_1_0004_11_RewarderDesc" korea_korean="¡ÇTÖ " />
+	<block key="SF_0_1_0004_11_Request_Text" korea_korean="DÅ4»¬¹ " />
+	<block key="SF_0_1_0004_11_Accepted_Text" korea_korean="DÕ”Æ\Õ " />
+	<block key="SF_0_1_0004_11_Ongoing_Text" korea_korean="È¹hÎ " />
+	<block key="SF_0_1_0004_11_Complete_Text" korea_korean="È¹hÎ " />
+	<block key="SF_0_1_0004_12_Title" korea_korean="Í	® " />
+	<block key="SF_0_1_0004_12_RewarderDesc" korea_korean="Í	® " />
+	<block key="SF_0_1_0004_12_Request_Text" korea_korean="Ç$±" />
+	<block key="SF_0_1_0004_12_Accepted_Text" korea_korean="¤Â¬ÐDÇ " />
+	<block key="SF_0_1_0004_12_Ongoing_Text" korea_korean="Ç$±”² " />
+	<block key="SF_0_1_0004_12_Complete_Text" korea_korean="ÇàÂDÇ " />
+	<block key="SF_0_1_0004_2_Title" korea_korean="‰½@Ç " />
+	<block key="SF_0_1_0004_2_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0004_2_Request_Text" korea_korean="È¹LÇ " />
+	<block key="SF_0_1_0004_2_Accepted_Text" korea_korean="€½ÁÐ " />
+	<block key="SF_0_1_0004_2_Ongoing_Text" korea_korean="xÇ¬tÇ " />
+	<block key="SF_0_1_0004_2_Complete_Text" korea_korean="Âà¬XÕhÁµÂÈ²ä²." />
+	<block key="SF_0_1_0004_3_Title" korea_korean="XÎÌ¸ÁÀiÖ " />
+	<block key="SF_0_1_0004_3_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0004_3_Request_Text" korea_korean="" />
+	<block key="SF_0_1_0004_3_Accepted_Text" korea_korean="ìÅì·„½ " />
+	<block key="SF_0_1_0004_3_Ongoing_Text" korea_korean="DÅÁÉ " />
+	<block key="SF_0_1_0004_3_Complete_Text" korea_korean="DÅÁÉ " />
+	<block key="SF_0_1_0005_Title" korea_korean="‘²" />
+	<block key="SF_0_1_0005_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0005_Request_Text" korea_korean="tÇÈ " />
+	<block key="SF_0_1_0005_Accepted_Text" korea_korean="‘²" />
+	<block key="SF_0_1_0005_Ongoing_Text" korea_korean="‘²" />
+	<block key="SF_0_1_0005_Complete_Text" korea_korean="Âà¬XÕhÁ´Å”Æ!" />
+	<block key="SF_0_1_0006_Title" korea_korean="°ÆP´8º¬¹ " />
+	<block key="SF_0_1_0006_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0006_Request_Text" korea_korean="" />
+	<block key="SF_0_1_0006_Accepted_Text" korea_korean="°ÆP´8º¬¹ " />
+	<block key="SF_0_1_0006_Ongoing_Text" korea_korean="°ÆP´8º¬¹ " />
+	<block key="SF_0_1_0006_Complete_Text" korea_korean="°ÆP´8º¬¹ " />
+	<block key="SF_0_1_0007_Title" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0007_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0007_Request_Text" korea_korean="È9¸XÇ " />
+	<block key="SF_0_1_0007_Accepted_Text" korea_korean="2Â<Ç\¸ " />
+	<block key="SF_0_1_0007_Ongoing_Text" korea_korean="lÐ\¸°Æ|¹ " />
+	<block key="SF_0_1_0007_Complete_Text" korea_korean="lÐ\¸°Æ|¹ " />
+	<block key="SF_0_1_0007_1_Title" korea_korean="gºü³ÀÉXÇ " />
+	<block key="SF_0_1_0007_1_RewarderDesc" korea_korean="ÈÀÄ³°Æ " />
+	<block key="SF_0_1_0007_1_Request_Text" korea_korean="tÇó¬<Ç\¸ " />
+	<block key="SF_0_1_0007_1_Accepted_Text" korea_korean="¬0® " />
+	<block key="SF_0_1_0007_1_Ongoing_Text" korea_korean="gºü³ÀÉ”² " />
+	<block key="SF_0_1_0007_1_Complete_Text" korea_korean="ÈÐ¹ " />
+	<block key="SF_0_1_0008_Title" korea_korean="ƒÇ´Å„¼°¹ " />
+	<block key="SF_0_1_0008_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0008_Request_Text" korea_korean="°Æ¬¹" />
+	<block key="SF_0_1_0008_Accepted_Text" korea_korean="íÓ}ÅDÇ " />
+	<block key="SF_0_1_0008_Ongoing_Text" korea_korean="°ÆP´8º¬¹ " />
+	<block key="SF_0_1_0008_Complete_Text" korea_korean="ÈÐ¹ " />
+	<block key="SF_0_1_0009_Title" korea_korean="XÕtÎ˜°¤Â " />
+	<block key="SF_0_1_0009_RewarderDesc" korea_korean="XÕtÎ˜°¤Â " />
+	<block key="SF_0_1_0009_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0009_Accepted_Text" korea_korean="-¯ " />
+	<block key="SF_0_1_0009_Ongoing_Text" korea_korean="-¯ " />
+	<block key="SF_0_1_0009_Complete_Text" korea_korean="”ÍÄÖ" />
+	<block key="SF_0_1_0010_Title" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0010_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0010_Request_Text" korea_korean="°Æ¬¹" />
+	<block key="SF_0_1_0010_Accepted_Text" korea_korean="pÈìÂXÕŒ¬˜°." />
+	<block key="SF_0_1_0010_Ongoing_Text" korea_korean="Á­DÇ " />
+	<block key="SF_0_1_0010_Complete_Text" korea_korean="ÈÐ¹ " />
+	<block key="SF_0_1_0011_Title" korea_korean="ðÅ}·tÇ " />
+	<block key="SF_0_1_0011_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0011_Request_Text" korea_korean="p¬" />
+	<block key="SF_0_1_0011_Accepted_Text" korea_korean="" />
+	<block key="SF_0_1_0011_Ongoing_Text" korea_korean="" />
+	<block key="SF_0_1_0011_Complete_Text" korea_korean="4»¨Â " />
+	<block key="SF_0_1_0012_Title" korea_korean="ƒÇ´Å„¼°¹ " />
+	<block key="SF_0_1_0012_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0012_Request_Text" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0012_Accepted_Text" korea_korean="‰Õ´ÆtÇ " />
+	<block key="SF_0_1_0012_Ongoing_Text" korea_korean="´° " />
+	<block key="SF_0_1_0012_Complete_Text" korea_korean="<ÇXÕXÕXÕ!" />
+	<block key="SF_0_1_0013_Title" korea_korean="}ÅÈÐ ÎÕ " />
+	<block key="SF_0_1_0013_RewarderDesc" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0013_Request_Text" korea_korean="°Æ¬¹ " />
+	<block key="SF_0_1_0013_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0013_Ongoing_Text" korea_korean="Ç$±˜Ìü· " />
+	<block key="SF_0_1_0013_Complete_Text" korea_korean="Œ¼hÃ " />
+	<block key="SF_0_1_0013_1_Title" korea_korean="pÐ " />
+	<block key="SF_0_1_0013_1_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0013_1_Request_Text" korea_korean="ù²àÂÐÅŒ¬ " />
+	<block key="SF_0_1_0013_1_Accepted_Text" korea_korean="°Æ¬¹|¹ " />
+	<block key="SF_0_1_0013_1_Ongoing_Text" korea_korean="°Æ¬¹|¹ " />
+	<block key="SF_0_1_0013_1_Complete_Text" korea_korean="pÐ " />
+	<block key="SF_0_1_0014_Title" korea_korean="" />
+	<block key="SF_0_1_0014_RewarderDesc" korea_korean="¡ÇTÖ " />
+	<block key="SF_0_1_0014_Request_Text" korea_korean="" />
+	<block key="SF_0_1_0014_Accepted_Text" korea_korean="¬¬ÀiÕÈ²ä²." />
+	<block key="SF_0_1_0014_Ongoing_Text" korea_korean="à¬Ù¹µÂÈ²ä²." />
+	<block key="SF_0_1_0014_Complete_Text" korea_korean="$Æ." />
+	<block key="SF_0_1_0015_Title" korea_korean="DÌÑÉ " />
+	<block key="SF_0_1_0015_RewarderDesc" korea_korean="¡ÇTÖ " />
+	<block key="SF_0_1_0015_Request_Text" korea_korean="2ÂÐÅ”² " />
+	<block key="SF_0_1_0015_Accepted_Text" korea_korean="" />
+	<block key="SF_0_1_0015_Ongoing_Text" korea_korean="" />
+	<block key="SF_0_1_0015_Complete_Text" korea_korean="" />
+	<block key="SF_0_1_0016_Title" korea_korean="\Õ0® " />
+	<block key="SF_0_1_0016_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0016_Request_Text" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0016_Accepted_Text" korea_korean="Ç8Á\Õ " />
+	<block key="SF_0_1_0016_Ongoing_Text" korea_korean="\Õ0® " />
+	<block key="SF_0_1_0016_Complete_Text" korea_korean="\Õ0® " />
+	<block key="SF_0_1_0016_1_Title" korea_korean="à¬" />
+	<block key="SF_0_1_0016_1_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0016_1_Request_Text" korea_korean="ù²àÂDÇ " />
+	<block key="SF_0_1_0016_1_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="SF_0_1_0016_1_Ongoing_Text" korea_korean=" Ç9¸@Ç " />
+	<block key="SF_0_1_0016_1_Complete_Text" korea_korean=" Ç9¸DÇ " />
+	<block key="SF_0_1_0017_Title" korea_korean="1ÁÀÉ " />
+	<block key="SF_0_1_0017_RewarderDesc" korea_korean="È0Ì " />
+	<block key="SF_0_1_0017_Request_Text" korea_korean="à¬" />
+	<block key="SF_0_1_0017_Accepted_Text" korea_korean="È0Ì" />
+	<block key="SF_0_1_0017_Ongoing_Text" korea_korean="È0Ì" />
+	<block key="SF_0_1_0017_Complete_Text" korea_korean="°Æ¬¹" />
+	<block key="SF_0_1_0018_Title" korea_korean="1ÁÀÉ " />
+	<block key="SF_0_1_0018_RewarderDesc" korea_korean="È0Ì " />
+	<block key="SF_0_1_0018_Request_Text" korea_korean="1ÁÀÉ " />
+	<block key="SF_0_1_0018_Accepted_Text" korea_korean="¬ÇÌ¸|¹ " />
+	<block key="SF_0_1_0018_Ongoing_Text" korea_korean="¨ºà´ " />
+	<block key="SF_0_1_0018_Complete_Text" korea_korean="2" />
+	<block key="SF_0_1_0019_Title" korea_korean="" />
+	<block key="SF_0_1_0019_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0019_Request_Text" korea_korean="\Õ " />
+	<block key="SF_0_1_0019_Accepted_Text" korea_korean="Ä³ÀÆtÇ " />
+	<block key="SF_0_1_0019_Ongoing_Text" korea_korean="€½" />
+	<block key="SF_0_1_0019_Complete_Text" korea_korean="ÄÉäÂ´ " />
+	<block key="SF_0_1_0020_Title" korea_korean="­DÌ " />
+	<block key="SF_0_1_0020_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0020_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0020_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0020_Ongoing_Text" korea_korean="[¾˜°”² " />
+	<block key="SF_0_1_0020_Complete_Text" korea_korean="ÈÐ¹ " />
+	<block key="SF_0_1_0020_1_Title" korea_korean="¬À˜°´Æ " />
+	<block key="SF_0_1_0020_1_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0020_1_Request_Text" korea_korean="­DÌ˜°4» " />
+	<block key="SF_0_1_0020_1_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0020_1_Ongoing_Text" korea_korean="ØÅ4Ð$±¤Â”² " />
+	<block key="SF_0_1_0020_1_Complete_Text" korea_korean="tÇÈ " />
+	<block key="SF_0_1_0021_Title" korea_korean="­DÌ˜°4» " />
+	<block key="SF_0_1_0021_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0021_Request_Text" korea_korean="”ÆÈä´tÇ " />
+	<block key="SF_0_1_0021_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0021_Ongoing_Text" korea_korean="¬ÀEÅ\Õ " />
+	<block key="SF_0_1_0021_Complete_Text" korea_korean="ÈÐ¹ " />
+	<block key="SF_0_1_0021_1_Title" korea_korean="­DÌ˜°4» " />
+	<block key="SF_0_1_0021_1_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0021_1_Request_Text" korea_korean="”ÆÈä´@Ç " />
+	<block key="SF_0_1_0021_1_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0021_1_Ongoing_Text" korea_korean="¬ÀEÅ\Õ " />
+	<block key="SF_0_1_0021_1_Complete_Text" korea_korean="ÈÐ¹ " />
+	<block key="SF_0_1_0022_Title" korea_korean="a×­Í" />
+	<block key="SF_0_1_0022_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0022_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0022_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0022_Ongoing_Text" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0022_Complete_Text" korea_korean="a×­Í|¹ " />
+	<block key="SF_0_1_0022_1_Title" korea_korean="a×­Í" />
+	<block key="SF_0_1_0022_1_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0022_1_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0022_1_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0022_1_Ongoing_Text" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0022_1_Complete_Text" korea_korean="a×­Í|¹ " />
+	<block key="SF_0_1_0023_Title" korea_korean="1ÁÀÉ " />
+	<block key="SF_0_1_0023_RewarderDesc" korea_korean="0®¬Àè² " />
+	<block key="SF_0_1_0023_Request_Text" korea_korean="ÄÉäÂ´ " />
+	<block key="SF_0_1_0023_Accepted_Text" korea_korean="t¬,Ò|¹ " />
+	<block key="SF_0_1_0023_Ongoing_Text" korea_korean="à¬" />
+	<block key="SF_0_1_0023_Complete_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0024_Title" korea_korean="1ÁÀÉ " />
+	<block key="SF_0_1_0024_RewarderDesc" korea_korean="0®¬Àè² " />
+	<block key="SF_0_1_0024_Request_Text" korea_korean="ÄÉäÂ´ " />
+	<block key="SF_0_1_0024_Accepted_Text" korea_korean="t¬,Ò|¹ " />
+	<block key="SF_0_1_0024_Ongoing_Text" korea_korean="ÐÓÈÕ" />
+	<block key="SF_0_1_0024_Complete_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0025_Title" korea_korean="" />
+	<block key="SF_0_1_0025_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0025_Request_Text" korea_korean="" />
+	<block key="SF_0_1_0025_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="SF_0_1_0025_Ongoing_Text" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0025_Complete_Text" korea_korean="\Õ0® " />
+	<block key="SF_0_1_0026_Title" korea_korean="àÂD¾\¸´Æ " />
+	<block key="SF_0_1_0026_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0026_Request_Text" korea_korean="tÇƒ¬@Ç " />
+	<block key="SF_0_1_0026_Accepted_Text" korea_korean="<»t¬ä´DÇ " />
+	<block key="SF_0_1_0026_Ongoing_Text" korea_korean=" ÇÈÀÉ " />
+	<block key="SF_0_1_0026_Complete_Text" korea_korean="¬¬ÀXÕ$Æ." />
+	<block key="SF_0_1_0026_1_Title" korea_korean="àÂD¾\¸´Æ " />
+	<block key="SF_0_1_0026_1_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0026_1_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0026_1_Accepted_Text" korea_korean="<»t¬ä´DÇ " />
+	<block key="SF_0_1_0026_1_Ongoing_Text" korea_korean="è²è²\Õ " />
+	<block key="SF_0_1_0026_1_Complete_Text" korea_korean="DÅ!" />
+	<block key="SF_0_1_0027_Title" korea_korean="È0Ì" />
+	<block key="SF_0_1_0027_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0027_Request_Text" korea_korean="TÖüÅÙ³t­ " />
+	<block key="SF_0_1_0027_Accepted_Text" korea_korean="tÇø» " />
+	<block key="SF_0_1_0027_Ongoing_Text" korea_korean="­DÌ˜°4» " />
+	<block key="SF_0_1_0027_Complete_Text" korea_korean="ä²ÜÂ " />
+	<block key="SF_0_1_0027_1_Title" korea_korean="ÀÐ¬Â€·XÇ " />
+	<block key="SF_0_1_0027_1_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0027_1_Request_Text" korea_korean="¼ÅLÇ " />
+	<block key="SF_0_1_0027_1_Accepted_Text" korea_korean="ÀÐ¬Â€·XÇ " />
+	<block key="SF_0_1_0027_1_Ongoing_Text" korea_korean="Á½ÊÐÅ " />
+	<block key="SF_0_1_0027_1_Complete_Text" korea_korean="ÀÐ¬Â€·XÇ " />
+	<block key="SF_0_1_0028_Title" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0028_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0028_Request_Text" korea_korean="ä²LÇ<Ç\¸ " />
+	<block key="SF_0_1_0028_Accepted_Text" korea_korean="h¾¬¹ " />
+	<block key="SF_0_1_0028_Ongoing_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0028_Complete_Text" korea_korean="DÕ”Æ\Õ " />
+	<block key="SF_0_1_0029_Title" korea_korean="¼ÅLÇ " />
+	<block key="SF_0_1_0029_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0029_Request_Text" korea_korean="È¹ÀÉÉ¹<Ç\¸ " />
+	<block key="SF_0_1_0029_Accepted_Text" korea_korean="|ÇtÇ " />
+	<block key="SF_0_1_0029_Ongoing_Text" korea_korean="¾|·0®XÇ " />
+	<block key="SF_0_1_0029_Complete_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0030_Title" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0030_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0030_Request_Text" korea_korean="ÇàÂtÇ " />
+	<block key="SF_0_1_0030_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="SF_0_1_0030_Ongoing_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0030_Complete_Text" korea_korean="ÁÀù²\Õ " />
+	<block key="SF_0_1_0030_11_Title" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0030_11_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0030_11_Request_Text" korea_korean="ÇàÂtÇ " />
+	<block key="SF_0_1_0030_11_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="SF_0_1_0030_11_Ongoing_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0030_11_Complete_Text" korea_korean="ÁÀù²\Õ " />
+	<block key="SF_0_1_0030_0_Title" korea_korean="à¬" />
+	<block key="SF_0_1_0030_0_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0030_0_Request_Text" korea_korean="à¬" />
+	<block key="SF_0_1_0030_0_Accepted_Text" korea_korean="t¬,Ò|¹ " />
+	<block key="SF_0_1_0030_0_Ongoing_Text" korea_korean="à¬" />
+	<block key="SF_0_1_0030_0_Complete_Text" korea_korean="¬ÇüÈ" />
+	<block key="SF_0_1_0030_1_Title" korea_korean=" ÇÈÀÉ " />
+	<block key="SF_0_1_0030_1_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0030_1_Request_Text" korea_korean="Á½ÊÐÅ " />
+	<block key="SF_0_1_0030_1_Accepted_Text" korea_korean=" ÇÈÀÉ " />
+	<block key="SF_0_1_0030_1_Ongoing_Text" korea_korean=" ÇÈÀÉ " />
+	<block key="SF_0_1_0030_1_Complete_Text" korea_korean="p¬ø»ä´DÇ " />
+	<block key="SF_0_1_0030_2_Title" korea_korean="ÀÐ€·4Ò|·XÇ " />
+	<block key="SF_0_1_0030_2_RewarderDesc" korea_korean="¡ÇTÖÁÀxÇ " />
+	<block key="SF_0_1_0030_2_Request_Text" korea_korean="à¬" />
+	<block key="SF_0_1_0030_2_Accepted_Text" korea_korean="ÀÐ€·4Ò|·XÇ " />
+	<block key="SF_0_1_0030_2_Ongoing_Text" korea_korean="DÕ”Æ\Õ " />
+	<block key="SF_0_1_0030_2_Complete_Text" korea_korean="ÀÐ€·4Ò|·XÇ " />
+	<block key="SF_0_1_0030_3_Title" korea_korean="$Æ˜·´ " />
+	<block key="SF_0_1_0030_3_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0030_3_Request_Text" korea_korean="[¾XÇ " />
+	<block key="SF_0_1_0030_3_Accepted_Text" korea_korean="˜Ç " />
+	<block key="SF_0_1_0030_3_Ongoing_Text" korea_korean="à¬" />
+	<block key="SF_0_1_0030_3_Complete_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0031_Title" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0031_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0031_Request_Text" korea_korean="ÀÉ®@Ç " />
+	<block key="SF_0_1_0031_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0031_Ongoing_Text" korea_korean="´ÀDÅˆÇ”² " />
+	<block key="SF_0_1_0031_Complete_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0031_1_Title" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0031_1_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0031_1_Request_Text" korea_korean="2ÂDÇ " />
+	<block key="SF_0_1_0031_1_Accepted_Text" korea_korean="ØÅ\¸|·XÇ " />
+	<block key="SF_0_1_0031_1_Ongoing_Text" korea_korean="2ÂDÇ " />
+	<block key="SF_0_1_0031_1_Complete_Text" korea_korean="7ÆÐÅ " />
+	<block key="SF_0_1_0031_2_Title" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0031_2_RewarderDesc" korea_korean="¡ÇTÖÁÀxÇ " />
+	<block key="SF_0_1_0031_2_Request_Text" korea_korean="ø­" />
+	<block key="SF_0_1_0031_2_Accepted_Text" korea_korean="¾|·0®XÇ " />
+	<block key="SF_0_1_0031_2_Ongoing_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0031_2_Complete_Text" korea_korean="@ÆDÅ!" />
+	<block key="SF_0_1_0031_3_Title" korea_korean="DÌÑÉ¼¯ " />
+	<block key="SF_0_1_0031_3_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0031_3_Request_Text" korea_korean="lÐ‰¹!" />
+	<block key="SF_0_1_0031_3_Accepted_Text" korea_korean="lÐ‰¹!" />
+	<block key="SF_0_1_0031_3_Ongoing_Text" korea_korean="tÇ²0®”² " />
+	<block key="SF_0_1_0031_3_Complete_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0032_Title" korea_korean="TÖüÅè¬¸DÇ " />
+	<block key="SF_0_1_0032_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0032_Request_Text" korea_korean="ÀÉXÕµÑ\¸ÐÅÁ " />
+	<block key="SF_0_1_0032_Accepted_Text" korea_korean="ÀÉXÕµÑ\¸ÐÅÁ " />
+	<block key="SF_0_1_0032_Ongoing_Text" korea_korean="ÀÉXÕµÑ\¸ÐÅÁ " />
+	<block key="SF_0_1_0032_Complete_Text" korea_korean="ÀÉXÕµÑ\¸ÐÅÁ " />
+	<block key="SF_0_1_0033_Title" korea_korean="à¬" />
+	<block key="SF_0_1_0033_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0033_Request_Text" korea_korean="Ç$±ÐÅŒ¬ " />
+	<block key="SF_0_1_0033_Accepted_Text" korea_korean="t¬,Ò|¹ " />
+	<block key="SF_0_1_0033_Ongoing_Text" korea_korean="ä²ÜÂ " />
+	<block key="SF_0_1_0033_Complete_Text" korea_korean="ø­˜·." />
+	<block key="SF_0_1_0034_Title" korea_korean="4®	® " />
+	<block key="SF_0_1_0034_RewarderDesc" korea_korean="ìÅÇ " />
+	<block key="SF_0_1_0034_Request_Text" korea_korean="D¾‰Õ Á " />
+	<block key="SF_0_1_0034_Accepted_Text" korea_korean="´ÅÁ " />
+	<block key="SF_0_1_0034_Ongoing_Text" korea_korean="¦²ÀÉ " />
+	<block key="SF_0_1_0034_Complete_Text" korea_korean="$Æ!" />
+	<block key="SF_0_1_0034_1_Title" korea_korean="á¹¨¬T´ " />
+	<block key="SF_0_1_0034_1_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0034_1_Request_Text" korea_korean="ÈÐ¹ " />
+	<block key="SF_0_1_0034_1_Accepted_Text" korea_korean="ÀÉ® " />
+	<block key="SF_0_1_0034_1_Ongoing_Text" korea_korean="XÇ}ÅˆÔ " />
+	<block key="SF_0_1_0034_1_Complete_Text" korea_korean="DÅ!" />
+	<block key="SF_0_1_0035_Title" korea_korean="DÕ”Æ " />
+	<block key="SF_0_1_0035_RewarderDesc" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0035_Request_Text" korea_korean="ìÅÇ " />
+	<block key="SF_0_1_0035_Accepted_Text" korea_korean="ø­ü·." />
+	<block key="SF_0_1_0035_Ongoing_Text" korea_korean="XÇ}ÅˆÔ@Ç " />
+	<block key="SF_0_1_0035_Complete_Text" korea_korean="XÇ}ÅˆÔ@Ç " />
+	<block key="SF_0_1_0036_Title" korea_korean="¸$ÆXÇ " />
+	<block key="SF_0_1_0036_RewarderDesc" korea_korean="”ÍÄÖ " />
+	<block key="SF_0_1_0036_Request_Text" korea_korean="”ÍÄÖ " />
+	<block key="SF_0_1_0036_Accepted_Text" korea_korean="”ÍÄÖ " />
+	<block key="SF_0_1_0036_Ongoing_Text" korea_korean="”ÍÄÖ " />
+	<block key="SF_0_1_0036_Complete_Text" korea_korean="”ÍÄÖ " />
+	<block key="SF_0_1_0037_1_Title" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0037_1_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0037_1_Request_Text" korea_korean="tÇÈ " />
+	<block key="SF_0_1_0037_1_Accepted_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0037_1_Ongoing_Text" korea_korean="ù²àÂtÇ " />
+	<block key="SF_0_1_0037_1_Complete_Text" korea_korean="ÀÐ¬Â€·XÇ " />
+	<block key="SF_0_1_0037_Title" korea_korean="‰Õ)¼ˆ½…º´ " />
+	<block key="SF_0_1_0037_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0037_Request_Text" korea_korean="DÅ4»Ä³ " />
+	<block key="SF_0_1_0037_Accepted_Text" korea_korean="ÝÀtÈÇ|¹ " />
+	<block key="SF_0_1_0037_Ongoing_Text" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0037_Complete_Text" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0037_2_Title" korea_korean="Ä³ÀÆ " />
+	<block key="SF_0_1_0037_2_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0037_2_Request_Text" korea_korean="[" />
+	<block key="SF_0_1_0037_2_Accepted_Text" korea_korean="€½ÁÐ& ." />
+	<block key="SF_0_1_0037_2_Ongoing_Text" korea_korean="tÇô· " />
+	<block key="SF_0_1_0037_2_Complete_Text" korea_korean="tÇô· " />
+	<block key="SF_0_1_0037_3_Title" korea_korean="ÁÀ˜Ì " />
+	<block key="SF_0_1_0037_3_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0037_3_Request_Text" korea_korean="@Ö\¸ " />
+	<block key="SF_0_1_0037_3_Accepted_Text" korea_korean="È0Ì" />
+	<block key="SF_0_1_0037_3_Ongoing_Text" korea_korean="XÎÌ¸& ©ÆˆÔtÇ " />
+	<block key="SF_0_1_0037_3_Complete_Text" korea_korean="ÈÐ¹& à¬Ù¹ŒÁ." />
+	<block key="SF_0_1_0038_Title" korea_korean="lÐ\¸°Æ " />
+	<block key="SF_0_1_0038_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0038_Request_Text" korea_korean="ø­ì·à¬ " />
+	<block key="SF_0_1_0038_Accepted_Text" korea_korean="lÐ\¸°ÆØ²DÇ " />
+	<block key="SF_0_1_0038_Ongoing_Text" korea_korean="4»¬Àˆ× " />
+	<block key="SF_0_1_0038_Complete_Text" korea_korean="4»¬Àˆ× " />
+	<block key="SF_0_1_0039_Title" korea_korean="È¹ø­¸ÐÅŒ¬ " />
+	<block key="SF_0_1_0039_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="SF_0_1_0039_Request_Text" korea_korean="ìÅ0® " />
+	<block key="SF_0_1_0039_Accepted_Text" korea_korean="Â@¸Ç " />
+	<block key="SF_0_1_0039_Ongoing_Text" korea_korean="ø­" />
+	<block key="SF_0_1_0039_Complete_Text" korea_korean="ø­" />
+	<block key="SF_0_1_0040_Title" korea_korean="$Æ˜·´ " />
+	<block key="SF_0_1_0040_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="SF_0_1_0040_Request_Text" korea_korean="" />
+	<block key="SF_0_1_0040_Accepted_Text" korea_korean="" />
+	<block key="SF_0_1_0040_Ongoing_Text" korea_korean="$Æ˜·´ " />
+	<block key="SF_0_1_0040_Complete_Text" korea_korean="4»¥ÇtÇ " />
+	<block key="SF_0_1_0041_Title" korea_korean="Â(¸©Æ " />
+	<block key="SF_0_1_0041_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="SF_0_1_0041_Request_Text" korea_korean="" />
+	<block key="SF_0_1_0041_Accepted_Text" korea_korean="" />
+	<block key="SF_0_1_0041_Ongoing_Text" korea_korean="Â(¸©Æ " />
+	<block key="SF_0_1_0041_Complete_Text" korea_korean="4»¥ÇtÇ " />
+	<block key="SF_0_1_0042_Title" korea_korean="ÁÓXÇ " />
+	<block key="SF_0_1_0042_RewarderDesc" korea_korean=" ÇÈ " />
+	<block key="SF_0_1_0042_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0042_Accepted_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0042_Ongoing_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0042_Complete_Text" korea_korean="$Æ!" />
+	<block key="SF_0_1_0043_Title" korea_korean=" ÇÈ " />
+	<block key="SF_0_1_0043_RewarderDesc" korea_korean=" ÇÈ " />
+	<block key="SF_0_1_0043_Request_Text" korea_korean="ù²àÂtÇ " />
+	<block key="SF_0_1_0043_Accepted_Text" korea_korean=" ÇÈ " />
+	<block key="SF_0_1_0043_Ongoing_Text" korea_korean=" ÇÈ " />
+	<block key="SF_0_1_0043_Complete_Text" korea_korean="ù²àÂ@Ç " />
+	<block key="SF_0_1_0044_Title" korea_korean="¼Å´Å™½@Ç " />
+	<block key="SF_0_1_0044_RewarderDesc" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0044_Request_Text" korea_korean="¼Å´Å™½@Ç " />
+	<block key="SF_0_1_0044_Accepted_Text" korea_korean="" />
+	<block key="SF_0_1_0044_Ongoing_Text" korea_korean="¼Å´Å™½@Ç " />
+	<block key="SF_0_1_0044_Complete_Text" korea_korean="˜Ç " />
+	<block key="SF_0_1_0045_Title" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0045_RewarderDesc" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0045_Request_Text" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0045_Accepted_Text" korea_korean="" />
+	<block key="SF_0_1_0045_Ongoing_Text" korea_korean="ˆ½tÇ " />
+	<block key="SF_0_1_0045_Complete_Text" korea_korean="˜Ç " />
+	<block key="SF_0_1_0046_Title" korea_korean="ô¼ÁÐÅ " />
+	<block key="SF_0_1_0046_RewarderDesc" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0046_Request_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0046_Accepted_Text" korea_korean="" />
+	<block key="SF_0_1_0046_Ongoing_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0046_Complete_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0047_Title" korea_korean="ÇÖÈxÇ " />
+	<block key="SF_0_1_0047_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="SF_0_1_0047_Request_Text" korea_korean="¨ºà´ " />
+	<block key="SF_0_1_0047_Accepted_Text" korea_korean="tÇó¬ " />
+	<block key="SF_0_1_0047_Ongoing_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0047_Complete_Text" korea_korean="Âà¬ˆÕŒÁ!" />
+	<block key="SF_0_1_0048_1_Title" korea_korean="¤Â¬Ð " />
+	<block key="SF_0_1_0048_1_RewarderDesc" korea_korean="È¬À " />
+	<block key="SF_0_1_0048_1_Request_Text" korea_korean="DÅÁÉ " />
+	<block key="SF_0_1_0048_1_Accepted_Text" korea_korean="‹ÈDÅ," />
+	<block key="SF_0_1_0048_1_Ongoing_Text" korea_korean="X» " />
+	<block key="SF_0_1_0048_1_Complete_Text" korea_korean="tÇx¬\¸ " />
+	<block key="SF_0_1_0048_2_Title" korea_korean="¤Â¬Ð " />
+	<block key="SF_0_1_0048_2_RewarderDesc" korea_korean="¬ÀÈ " />
+	<block key="SF_0_1_0048_2_Request_Text" korea_korean="ÇàÂXÇ " />
+	<block key="SF_0_1_0048_2_Accepted_Text" korea_korean="0®\À " />
+	<block key="SF_0_1_0048_2_Ongoing_Text" korea_korean="DÅÁÉ " />
+	<block key="SF_0_1_0048_2_Complete_Text" korea_korean="T×ä´¬¹T³|·Ä³ " />
+	<block key="SF_0_1_0048_3_Title" korea_korean="¤Â¬Ð " />
+	<block key="SF_0_1_0048_3_RewarderDesc" korea_korean="TÅ´ÀÇ " />
+	<block key="SF_0_1_0048_3_Request_Text" korea_korean="È¬À”² " />
+	<block key="SF_0_1_0048_3_Accepted_Text" korea_korean="ÄÖŒÖXÕÀÉ " />
+	<block key="SF_0_1_0048_3_Ongoing_Text" korea_korean="´ÅÈÕ," />
+	<block key="SF_0_1_0048_3_Complete_Text" korea_korean="ø­Ì¹XÕtº " />
+	<block key="SF_0_1_0048_4_Title" korea_korean="¤Â¬Ð " />
+	<block key="SF_0_1_0048_4_RewarderDesc" korea_korean="È¹•¼¬À " />
+	<block key="SF_0_1_0048_4_Request_Text" korea_korean="È¹•¼¬À|·”² " />
+	<block key="SF_0_1_0048_4_Accepted_Text" korea_korean="ä²LÇ@Ç " />
+	<block key="SF_0_1_0048_4_Ongoing_Text" korea_korean="P»|Å," />
+	<block key="SF_0_1_0048_4_Complete_Text" korea_korean="DÅÁÉÄ³ " />
+	<block key="SF_0_1_0048_5_Title" korea_korean="¤Â¬Ð " />
+	<block key="SF_0_1_0048_5_RewarderDesc" korea_korean="$±tÇ˜Ì " />
+	<block key="SF_0_1_0048_5_Request_Text" korea_korean="ÐÆXÕ”² " />
+	<block key="SF_0_1_0048_5_Accepted_Text" korea_korean="DÕ”Æ" />
+	<block key="SF_0_1_0048_5_Ongoing_Text" korea_korean="´Ì³DÅ" />
+	<block key="SF_0_1_0048_5_Complete_Text" korea_korean="°Æ¬¹XÇ " />
+	<block key="SF_0_1_0049_Title" korea_korean="LÅ " />
+	<block key="SF_0_1_0049_RewarderDesc" korea_korean="<»}Å " />
+	<block key="SF_0_1_0049_Request_Text" korea_korean="ÁØ²," />
+	<block key="SF_0_1_0049_Accepted_Text" korea_korean="ÆtÇ," />
+	<block key="SF_0_1_0049_Ongoing_Text" korea_korean="˜Ç " />
+	<block key="SF_0_1_0049_Complete_Text" korea_korean="4»¬ÀXÕhÁp­”Æ!" />
+	<block key="SF_0_1_0050_Title" korea_korean="î²@Ç " />
+	<block key="SF_0_1_0050_RewarderDesc" korea_korean="¡ÇTÖ&" />
+	<block key="SF_0_1_0050_Request_Text" korea_korean="´Å8º," />
+	<block key="SF_0_1_0050_Accepted_Text" korea_korean="ä´¤ÐÀÉ " />
+	<block key="SF_0_1_0050_Ongoing_Text" korea_korean="DÅÁÉ " />
+	<block key="SF_0_1_0050_Complete_Text" korea_korean="¶ " />
+	<block key="SF_0_1_0052_Title" korea_korean="ÉÀä²x¹ " />
+	<block key="SF_0_1_0052_RewarderDesc" korea_korean="2ÂXÇ " />
+	<block key="SF_0_1_0052_Request_Text" korea_korean="tÇó¬ÐÅ " />
+	<block key="SF_0_1_0052_Accepted_Text" korea_korean="äÎØÕ," />
+	<block key="SF_0_1_0052_Ongoing_Text" korea_korean="ä¬€·\Õ " />
+	<block key="SF_0_1_0052_Complete_Text" korea_korean="ä¬€·\Õ " />
+	<block key="SF_0_1_0053_Title" korea_korean="ØÅÕXÇ " />
+	<block key="SF_0_1_0053_RewarderDesc" korea_korean="È0Ì" />
+	<block key="SF_0_1_0053_Request_Text" korea_korean="ØÅÕXÇ " />
+	<block key="SF_0_1_0053_Accepted_Text" korea_korean="<»`¸ " />
+	<block key="SF_0_1_0053_Ongoing_Text" korea_korean="" />
+	<block key="SF_0_1_0053_Complete_Text" korea_korean="ô¼0®ÐÅ”² " />
+	<block key="SF_0_1_0054_Title" korea_korean="™°ÈÝÀ" />
+	<block key="SF_0_1_0054_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0054_Request_Text" korea_korean="LÅà¬ " />
+	<block key="SF_0_1_0054_Accepted_Text" korea_korean="¥Çœ°¬ " />
+	<block key="SF_0_1_0054_Ongoing_Text" korea_korean="DÅÐ¹€· " />
+	<block key="SF_0_1_0054_Complete_Text" korea_korean="DÅÐ¹€· " />
+	<block key="SF_0_1_0055_Title" korea_korean="" />
+	<block key="SF_0_1_0055_RewarderDesc" korea_korean="" />
+	<block key="SF_0_1_0055_Request_Text" korea_korean="DÅÐ¹€· " />
+	<block key="SF_0_1_0055_Accepted_Text" korea_korean="DÅtÇà¬ " />
+	<block key="SF_0_1_0055_Ongoing_Text" korea_korean="àÏ`Õ€· " />
+	<block key="SF_0_1_0055_Complete_Text" korea_korean="tÇ " />
+	<block key="SF_0_1_0056_Title" korea_korean="¥Çœ°¬ " />
+	<block key="SF_0_1_0056_RewarderDesc" korea_korean=")¼´Ål­ " />
+	<block key="SF_0_1_0056_Request_Text" korea_korean="Ç," />
+	<block key="SF_0_1_0056_Accepted_Text" korea_korean="¶ " />
+	<block key="SF_0_1_0056_Ongoing_Text" korea_korean="ø­¸Œ¬ " />
+	<block key="SF_0_1_0056_Complete_Text" korea_korean="tÇ," />
+	<block key="SF_0_1_0057_Title" korea_korean="Á¬ÇüÈ " />
+	<block key="SF_0_1_0057_RewarderDesc" korea_korean=")¼´Ål­ " />
+	<block key="SF_0_1_0057_Request_Text" korea_korean="”Æ˜É@Ç " />
+	<block key="SF_0_1_0057_Accepted_Text" korea_korean="ðÅ®8®Ü´ÐÅ " />
+	<block key="SF_0_1_0057_Ongoing_Text" korea_korean="°Æ¬¹ " />
+	<block key="SF_0_1_0057_Complete_Text" korea_korean="DÅÈ²," />
+	<block key="SF_0_1_0059_Title" korea_korean="­\Õ " />
+	<block key="SF_0_1_0059_RewarderDesc" korea_korean="¡ÇTÖ&" />
+	<block key="SF_0_1_0059_Request_Text" korea_korean="T»" />
+	<block key="SF_0_1_0059_Accepted_Text" korea_korean="DÅÁÉÄ³ " />
+	<block key="SF_0_1_0059_Ongoing_Text" korea_korean="€½ÁÐ " />
+	<block key="SF_0_1_0059_Complete_Text" korea_korean="ä´0Ïè² " />
+	<block key="SF_0_1_0001_01_Title" korea_korean="ØÕœ°\Õ " />
+	<block key="SF_0_1_0001_01_RewarderDesc" korea_korean="|ÅÂ " />
+	<block key="SF_0_1_0001_01_Request_Text" korea_korean="ð¶´ÅÁ " />
+	<block key="SF_0_1_0001_01_Accepted_Text" korea_korean="‹ÈDÅ," />
+	<block key="SF_0_1_0001_01_Ongoing_Text" korea_korean="tÎt¹‰¹?" />
+	<block key="SF_0_1_0001_01_Complete_Text" korea_korean="tÎt¹‰¹?" />
+	<block key="SF_0_1_0001_02_Title" korea_korean="|ÅÂ|¹ " />
+	<block key="SF_0_1_0001_02_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0001_02_Request_Text" korea_korean="ø­," />
+	<block key="SF_0_1_0001_02_Accepted_Text" korea_korean="´Å," />
+	<block key="SF_0_1_0001_02_Ongoing_Text" korea_korean="0¼," />
+	<block key="SF_0_1_0001_02_Complete_Text" korea_korean="DÅ4»¬¹ " />
+	<block key="SF_0_1_0001_03_Title" korea_korean="8®ä´tÇ0®|¹ " />
+	<block key="SF_0_1_0001_03_RewarderDesc" korea_korean="|ÅÂ " />
+	<block key="SF_0_1_0001_03_Request_Text" korea_korean="ø­ì·à¬ " />
+	<block key="SF_0_1_0001_03_Accepted_Text" korea_korean="¸ÅÈ˜° " />
+	<block key="SF_0_1_0001_03_Ongoing_Text" korea_korean="´Å& \Æ," />
+	<block key="SF_0_1_0001_03_Complete_Text" korea_korean="DÅ," />
+	<block key="SF_0_1_0001_04_Title" korea_korean="|ÅÂ|¹ " />
+	<block key="SF_0_1_0001_04_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0001_04_Request_Text" korea_korean="ø­," />
+	<block key="SF_0_1_0001_04_Accepted_Text" korea_korean="pÈ& ‹ÈDÅ!" />
+	<block key="SF_0_1_0001_04_Ongoing_Text" korea_korean="0¼," />
+	<block key="SF_0_1_0001_04_Complete_Text" korea_korean="ü¬ðÅ," />
+	<block key="SF_0_1_0001_05_Title" korea_korean="|ÅÂ|¹ " />
+	<block key="SF_0_1_0001_05_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="SF_0_1_0001_05_Request_Text" korea_korean="ø­," />
+	<block key="SF_0_1_0001_05_Accepted_Text" korea_korean="pÈ& ‹ÈDÅ!" />
+	<block key="SF_0_1_0001_05_Ongoing_Text" korea_korean="0¼," />
+	<block key="SF_0_1_0001_05_Complete_Text" korea_korean="ü¬ðÅ," />
+	<block key="BC_0_1_0001_Title" korea_korean="TÖüÅXÇ " />
+	<block key="BC_0_1_0001_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="BC_0_1_0001_Request_Text" korea_korean="9ÖÜÂ " />
+	<block key="BC_0_1_0001_Accepted_Text" korea_korean="ˆ½tÇ " />
+	<block key="BC_0_1_0001_Ongoing_Text" korea_korean="TÖüÅXÇ " />
+	<block key="BC_0_1_0001_Complete_Text" korea_korean="Âà¬ˆÕ$±!" />
+	<block key="BC_0_1_0001_1_Title" korea_korean="TÖüÅXÇ " />
+	<block key="BC_0_1_0001_1_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="BC_0_1_0001_1_Request_Text" korea_korean="9ÖÜÂ " />
+	<block key="BC_0_1_0001_1_Accepted_Text" korea_korean="ˆ½tÇ " />
+	<block key="BC_0_1_0001_1_Ongoing_Text" korea_korean="TÖüÅXÇ " />
+	<block key="BC_0_1_0001_1_Complete_Text" korea_korean="Âà¬ˆÕ$±!" />
+	<block key="BC_0_1_0002_Title" korea_korean="à¬" />
+	<block key="BC_0_1_0002_RewarderDesc" korea_korean="¬ÀÈ " />
+	<block key="BC_0_1_0002_Request_Text" korea_korean="à¬È¹ÌÆ”Æ!" />
+	<block key="BC_0_1_0002_Accepted_Text" korea_korean="¸ºtÇ " />
+	<block key="BC_0_1_0002_Ongoing_Text" korea_korean="TÖüÅ " />
+	<block key="BC_0_1_0002_Complete_Text" korea_korean="TÖüÅè¬¸DÇ " />
+	<block key="BC_0_1_0002_1_Title" korea_korean="È0Ì" />
+	<block key="BC_0_1_0002_1_RewarderDesc" korea_korean="È0Ì" />
+	<block key="BC_0_1_0002_1_Request_Text" korea_korean="˜°”² " />
+	<block key="BC_0_1_0002_1_Accepted_Text" korea_korean="xÇðÅtÇ " />
+	<block key="BC_0_1_0002_1_Ongoing_Text" korea_korean="¬ÀÈ " />
+	<block key="BC_0_1_0002_1_Complete_Text" korea_korean="¬ÀÈ " />
+	<block key="BC_0_1_0002_2_Title" korea_korean="à¬" />
+	<block key="BC_0_1_0002_2_RewarderDesc" korea_korean="¬ÀÈ " />
+	<block key="BC_0_1_0002_2_Request_Text" korea_korean="TÖüÅ " />
+	<block key="BC_0_1_0002_2_Accepted_Text" korea_korean="‡º " />
+	<block key="BC_0_1_0002_2_Ongoing_Text" korea_korean="TÖüÅ " />
+	<block key="BC_0_1_0002_2_Complete_Text" korea_korean="TÖüÅè¬¸DÇ " />
+	<block key="BC_0_1_0003_Title" korea_korean="´Å`´XÇ " />
+	<block key="BC_0_1_0003_RewarderDesc" korea_korean="È0Ì" />
+	<block key="BC_0_1_0003_Request_Text" korea_korean="ˆ½tÇ " />
+	<block key="BC_0_1_0003_Accepted_Text" korea_korean="-¯ " />
+	<block key="BC_0_1_0003_Ongoing_Text" korea_korean="ˆ½tÇ " />
+	<block key="BC_0_1_0003_Complete_Text" korea_korean="´Å`´XÇ " />
+	<block key="BC_0_1_0003_1_Title" korea_korean="´Å`´XÇ " />
+	<block key="BC_0_1_0003_1_RewarderDesc" korea_korean="È0Ì" />
+	<block key="BC_0_1_0003_1_Request_Text" korea_korean="ˆ½tÇ " />
+	<block key="BC_0_1_0003_1_Accepted_Text" korea_korean="-¯ " />
+	<block key="BC_0_1_0003_1_Ongoing_Text" korea_korean="ˆ½tÇ " />
+	<block key="BC_0_1_0003_1_Complete_Text" korea_korean="´Å`´XÇ " />
+	<block key="BC_0_1_0004_Title" korea_korean="" />
+	<block key="BC_0_1_0004_RewarderDesc" korea_korean="¬ÀÈ " />
+	<block key="BC_0_1_0004_Request_Text" korea_korean="" />
+	<block key="BC_0_1_0004_Accepted_Text" korea_korean="¬ÀÈ " />
+	<block key="BC_0_1_0004_Ongoing_Text" korea_korean="<»& ." />
+	<block key="BC_0_1_0004_Complete_Text" korea_korean="È0Ì" />
+	<block key="BC_0_1_0005_Title" korea_korean="ˆ½ÀÐ”² " />
+	<block key="BC_0_1_0005_RewarderDesc" korea_korean="¬ÀÈ " />
+	<block key="BC_0_1_0005_Request_Text" korea_korean="°Æ Á&  " />
+	<block key="BC_0_1_0005_Accepted_Text" korea_korean="<»DÇ&  " />
+	<block key="BC_0_1_0005_Ongoing_Text" korea_korean="<»& ." />
+	<block key="BC_0_1_0005_Complete_Text" korea_korean="DÅ." />
+	<block key="hk_0_1_0001_Title" korea_korean="m­UÆLÅÖ" />
+	<block key="hk_0_1_0001_RewarderDesc" korea_korean="m­UÆ " />
+	<block key="hk_0_1_0001_Request_Text" korea_korean="°¬m­ " />
+	<block key="hk_0_1_0001_Accepted_Text" korea_korean="\ÕÜÂ|·Ä³ " />
+	<block key="hk_0_1_0001_Ongoing_Text" korea_korean="´ÅÁ " />
+	<block key="hk_0_1_0001_Complete_Text" korea_korean="ø­" />
+	<block key="hk_0_1_0001_Title_F" korea_korean="m­UÆLÅÖ" />
+	<block key="hk_0_1_0001_RewarderDesc_F" korea_korean="m­UÆ " />
+	<block key="hk_0_1_0001_Request_Text_F" korea_korean="°¬m­ " />
+	<block key="hk_0_1_0001_Accepted_Text_F" korea_korean="\ÕÜÂ|·Ä³ " />
+	<block key="hk_0_1_0001_Ongoing_Text_F" korea_korean="´ÅÁ " />
+	<block key="hk_0_1_0001_Complete_Text_F" korea_korean="ø­" />
+	<block key="hk_0_1_0002_Title" korea_korean="m­UÆXÇ " />
+	<block key="hk_0_1_0002_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0002_Request_Text" korea_korean="õ¬üÈXÇ " />
+	<block key="hk_0_1_0002_Accepted_Text" korea_korean="ø­¸Œ¬ " />
+	<block key="hk_0_1_0002_Ongoing_Text" korea_korean="$Æ$Æ& õ¬üÈ& tÇ " />
+	<block key="hk_0_1_0002_Complete_Text" korea_korean="Ç(±" />
+	<block key="hk_0_1_0003_01_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_01_RewarderDesc" korea_korean="È¬À " />
+	<block key="hk_0_1_0003_01_Request_Text" korea_korean="´Å² " />
+	<block key="hk_0_1_0003_01_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0003_01_Ongoing_Text" korea_korean="8®tÇ|·Ä³ " />
+	<block key="hk_0_1_0003_01_Complete_Text" korea_korean="(Ç±¤Â " />
+	<block key="hk_0_1_0003_02_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_02_RewarderDesc" korea_korean="È¹•¼¬À " />
+	<block key="hk_0_1_0003_02_Request_Text" korea_korean="´Å² " />
+	<block key="hk_0_1_0003_02_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0003_02_Ongoing_Text" korea_korean="8®tÇ|·Ä³ " />
+	<block key="hk_0_1_0003_02_Complete_Text" korea_korean="(Ç±¤Â " />
+	<block key="hk_0_1_0003_03_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_03_RewarderDesc" korea_korean="¬ÀÈ " />
+	<block key="hk_0_1_0003_03_Request_Text" korea_korean="´Å² " />
+	<block key="hk_0_1_0003_03_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0003_03_Ongoing_Text" korea_korean="8®tÇ|·Ä³ " />
+	<block key="hk_0_1_0003_03_Complete_Text" korea_korean="(Ç±¤Â " />
+	<block key="hk_0_1_0003_04_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_04_RewarderDesc" korea_korean="TÅ´ÀÇ " />
+	<block key="hk_0_1_0003_04_Request_Text" korea_korean="´Å² " />
+	<block key="hk_0_1_0003_04_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0003_04_Ongoing_Text" korea_korean="8®tÇ|·Ä³ " />
+	<block key="hk_0_1_0003_04_Complete_Text" korea_korean="(Ç±¤Â " />
+	<block key="hk_0_1_0003_05_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_05_RewarderDesc" korea_korean="$±tÇ˜Ì " />
+	<block key="hk_0_1_0003_05_Request_Text" korea_korean="´Å² " />
+	<block key="hk_0_1_0003_05_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0003_05_Ongoing_Text" korea_korean="8®tÇ|·Ä³ " />
+	<block key="hk_0_1_0003_05_Complete_Text" korea_korean="DÅDÅ," />
+	<block key="hk_0_1_0003_06_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_06_RewarderDesc" korea_korean="Â8ÖàÂá¸ " />
+	<block key="hk_0_1_0003_06_Request_Text" korea_korean="ø­¸p­." />
+	<block key="hk_0_1_0003_06_Accepted_Text" korea_korean="‹È@Ç " />
+	<block key="hk_0_1_0003_06_Ongoing_Text" korea_korean="P´$¸ÌÆÄ³ " />
+	<block key="hk_0_1_0003_06_Complete_Text" korea_korean="4»¨Â " />
+	<block key="hk_0_1_0003_07_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_07_RewarderDesc" korea_korean="Â8ÖàÂá¸ " />
+	<block key="hk_0_1_0003_07_Request_Text" korea_korean="QÇ?" />
+	<block key="hk_0_1_0003_07_Accepted_Text" korea_korean="­.ÌDÅ," />
+	<block key="hk_0_1_0003_07_Ongoing_Text" korea_korean="DÅ," />
+	<block key="hk_0_1_0003_07_Complete_Text" korea_korean="4»¨Â " />
+	<block key="hk_0_1_0003_08_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_08_RewarderDesc" korea_korean="Â8ÖàÂá¸ " />
+	<block key="hk_0_1_0003_08_Request_Text" korea_korean="ÿ»LÇÐÅ " />
+	<block key="hk_0_1_0003_08_Accepted_Text" korea_korean="­.ÌDÅ”Æ," />
+	<block key="hk_0_1_0003_08_Ongoing_Text" korea_korean="Ý¹$Á„ÇtÇ " />
+	<block key="hk_0_1_0003_08_Complete_Text" korea_korean="4»¨Â " />
+	<block key="hk_0_1_0003_09_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_09_RewarderDesc" korea_korean="Â8ÖàÂá¸ " />
+	<block key="hk_0_1_0003_09_Request_Text" korea_korean="T³ " />
+	<block key="hk_0_1_0003_09_Accepted_Text" korea_korean="T³ " />
+	<block key="hk_0_1_0003_09_Ongoing_Text" korea_korean="è²|ÎÐÅ " />
+	<block key="hk_0_1_0003_09_Complete_Text" korea_korean="4»¨Â " />
+	<block key="hk_0_1_0003_10_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_10_RewarderDesc" korea_korean="Â8ÖàÂá¸ " />
+	<block key="hk_0_1_0003_10_Request_Text" korea_korean="¼DÅä´|Ç " />
+	<block key="hk_0_1_0003_10_Accepted_Text" korea_korean="ÐÆ" />
+	<block key="hk_0_1_0003_10_Ongoing_Text" korea_korean="ÇàÂDÇ " />
+	<block key="hk_0_1_0003_10_Complete_Text" korea_korean="4»¨Â " />
+	<block key="hk_0_1_0003_11_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_11_RewarderDesc" korea_korean="È¬À " />
+	<block key="hk_0_1_0003_11_Request_Text" korea_korean="¤Â¤Â\¸ " />
+	<block key="hk_0_1_0003_11_Accepted_Text" korea_korean="´ÀDÅ|·," />
+	<block key="hk_0_1_0003_11_Ongoing_Text" korea_korean="(" />
+	<block key="hk_0_1_0003_11_Complete_Text" korea_korean="QÇ," />
+	<block key="hk_0_1_0003_12_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_12_RewarderDesc" korea_korean="È¹•¼¬À " />
+	<block key="hk_0_1_0003_12_Request_Text" korea_korean="¤Â¤Â\¸ " />
+	<block key="hk_0_1_0003_12_Accepted_Text" korea_korean="´ÀDÅ|·," />
+	<block key="hk_0_1_0003_12_Ongoing_Text" korea_korean="(" />
+	<block key="hk_0_1_0003_12_Complete_Text" korea_korean="X» " />
+	<block key="hk_0_1_0003_13_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_13_RewarderDesc" korea_korean="¬ÀÈ " />
+	<block key="hk_0_1_0003_13_Request_Text" korea_korean="¤Â¤Â\¸ " />
+	<block key="hk_0_1_0003_13_Accepted_Text" korea_korean="´ÀDÅ|·," />
+	<block key="hk_0_1_0003_13_Ongoing_Text" korea_korean="(" />
+	<block key="hk_0_1_0003_13_Complete_Text" korea_korean="À¼\Õ " />
+	<block key="hk_0_1_0003_14_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_14_RewarderDesc" korea_korean="TÅ´ÀÇ " />
+	<block key="hk_0_1_0003_14_Request_Text" korea_korean="¤Â¤Â\¸ " />
+	<block key="hk_0_1_0003_14_Accepted_Text" korea_korean="´ÀDÅ|·," />
+	<block key="hk_0_1_0003_14_Ongoing_Text" korea_korean="(" />
+	<block key="hk_0_1_0003_14_Complete_Text" korea_korean="ÂÝÂ¬ÐÅ " />
+	<block key="hk_0_1_0003_15_Title" korea_korean="ÁÀ	®¤Â¬Ð " />
+	<block key="hk_0_1_0003_15_RewarderDesc" korea_korean="$±tÇ˜Ì " />
+	<block key="hk_0_1_0003_15_Request_Text" korea_korean="¤Â¤Â\¸ " />
+	<block key="hk_0_1_0003_15_Accepted_Text" korea_korean="´ÀDÅ|·," />
+	<block key="hk_0_1_0003_15_Ongoing_Text" korea_korean="(" />
+	<block key="hk_0_1_0003_15_Complete_Text" korea_korean="DÅÁÉ " />
+	<block key="hk_0_1_0003_16_Title" korea_korean="1Á¥ÇXÇ " />
+	<block key="hk_0_1_0003_16_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0003_16_Request_Text" korea_korean="8®@Ç " />
+	<block key="hk_0_1_0003_16_Accepted_Text" korea_korean="ø­ü·," />
+	<block key="hk_0_1_0003_16_Ongoing_Text" korea_korean="ä²ÜÂ " />
+	<block key="hk_0_1_0003_16_Complete_Text" korea_korean="tÇp¬ " />
+	<block key="hk_0_1_0003_17_Title" korea_korean="1Á¥ÇXÇ " />
+	<block key="hk_0_1_0003_17_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0003_17_Request_Text" korea_korean="˜°8ºÀÉ”² " />
+	<block key="hk_0_1_0003_17_Accepted_Text" korea_korean="P»," />
+	<block key="hk_0_1_0003_17_Ongoing_Text" korea_korean="ä²LÇÐÅ”² " />
+	<block key="hk_0_1_0003_17_Complete_Text" korea_korean="tÇp¬ " />
+	<block key="hk_0_1_0003_18_Title" korea_korean="1Á¥ÇXÇ " />
+	<block key="hk_0_1_0003_18_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0003_18_Request_Text" korea_korean="ÿ»LÇXÇ " />
+	<block key="hk_0_1_0003_18_Accepted_Text" korea_korean="ÝÀ…ºDÇ " />
+	<block key="hk_0_1_0003_18_Ongoing_Text" korea_korean="ä²LÇ " />
+	<block key="hk_0_1_0003_18_Complete_Text" korea_korean="tÇp¬ " />
+	<block key="hk_0_1_0003_19_Title" korea_korean="1Á¥ÇXÇ " />
+	<block key="hk_0_1_0003_19_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0003_19_Request_Text" korea_korean="|Î °DÇ " />
+	<block key="hk_0_1_0003_19_Accepted_Text" korea_korean="¸ÅÈ˜° " />
+	<block key="hk_0_1_0003_19_Ongoing_Text" korea_korean="|Î °tÇ|·Ä³ " />
+	<block key="hk_0_1_0003_19_Complete_Text" korea_korean="tÇp¬ " />
+	<block key="hk_0_1_0003_20_Title" korea_korean="1Á¥ÇXÇ " />
+	<block key="hk_0_1_0003_20_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0003_20_Request_Text" korea_korean="Â¬¹|¹ " />
+	<block key="hk_0_1_0003_20_Accepted_Text" korea_korean="" />
+	<block key="hk_0_1_0003_20_Ongoing_Text" korea_korean="ÇàÂ " />
+	<block key="hk_0_1_0003_20_Complete_Text" korea_korean="tÇp¬ " />
+	<block key="hk_0_1_0004_Title" korea_korean="4® " />
+	<block key="hk_0_1_0004_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="hk_0_1_0004_Request_Text" korea_korean="ÈXÕØ®Á " />
+	<block key="hk_0_1_0004_Accepted_Text" korea_korean="tÇð·," />
+	<block key="hk_0_1_0004_Ongoing_Text" korea_korean="ˆ½HÅtÇ " />
+	<block key="hk_0_1_0004_Complete_Text" korea_korean="´Å¨¬Ä³ " />
+	<block key="hk_0_1_0004_1_Title" korea_korean="" />
+	<block key="hk_0_1_0004_1_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0004_1_Request_Text" korea_korean="ØÅÕ " />
+	<block key="hk_0_1_0004_1_Accepted_Text" korea_korean="" />
+	<block key="hk_0_1_0004_1_Ongoing_Text" korea_korean="ü¼ " />
+	<block key="hk_0_1_0004_1_Complete_Text" korea_korean="4»´ÆDÇ " />
+	<block key="hk_0_1_0005_Title" korea_korean="²^ÅXÇ " />
+	<block key="hk_0_1_0005_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0005_Request_Text" korea_korean="`¸Õ¸xÇ " />
+	<block key="hk_0_1_0005_Accepted_Text" korea_korean="¬@Ç " />
+	<block key="hk_0_1_0005_Ongoing_Text" korea_korean="ˆ½ð¬ü¬ " />
+	<block key="hk_0_1_0005_Complete_Text" korea_korean="È¹ø­¸Ø²Ø®Á " />
+	<block key="hk_0_1_0006_Title" korea_korean="ˆ½ð¬ü¬XÇ " />
+	<block key="hk_0_1_0006_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0006_Request_Text" korea_korean="ˆ½ð¬ " />
+	<block key="hk_0_1_0006_Accepted_Text" korea_korean="ä²x¹ " />
+	<block key="hk_0_1_0006_Ongoing_Text" korea_korean="ä²x¹ " />
+	<block key="hk_0_1_0006_Complete_Text" korea_korean="ÇØÕtÇ " />
+	<block key="hk_0_1_0007_Title" korea_korean="0®%¸ô¼©Í" />
+	<block key="hk_0_1_0007_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0007_Request_Text" korea_korean="¬‘Ç¤Âð· " />
+	<block key="hk_0_1_0007_Accepted_Text" korea_korean="ä²ä´ " />
+	<block key="hk_0_1_0007_Ongoing_Text" korea_korean="üÈü»ä´XÇ " />
+	<block key="hk_0_1_0007_Complete_Text" korea_korean="¬¬ÀiÕÈ²ä²." />
+	<block key="hk_0_1_0008_Title" korea_korean="À¼ÈÉ´ " />
+	<block key="hk_0_1_0008_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0008_Request_Text" korea_korean="tÇˆ¼ " />
+	<block key="hk_0_1_0008_Accepted_Text" korea_korean="ÇØÕXÕ ¬ÀÉÌ¹ " />
+	<block key="hk_0_1_0008_Ongoing_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0008_Complete_Text" korea_korean="tÇƒ¬tÇ& ø­ä´XÇ " />
+	<block key="hk_0_1_0009_Title" korea_korean="È¹¬¹DÅXÇ " />
+	<block key="hk_0_1_0009_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0009_Request_Text" korea_korean="tÇô· " />
+	<block key="hk_0_1_0009_Accepted_Text" korea_korean="ÀÉ®L®ÀÉ " />
+	<block key="hk_0_1_0009_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0009_Complete_Text" korea_korean="´Å8º," />
+	<block key="hk_0_1_0010_Title" korea_korean="ƒÇ´Å„¼°¹ " />
+	<block key="hk_0_1_0010_RewarderDesc" korea_korean="ÁÀxÇ " />
+	<block key="hk_0_1_0010_Request_Text" korea_korean="XÕDÅ," />
+	<block key="hk_0_1_0010_Accepted_Text" korea_korean="tÇ" />
+	<block key="hk_0_1_0010_Ongoing_Text" korea_korean="´Å8ºÈ²”² " />
+	<block key="hk_0_1_0010_Complete_Text" korea_korean="8Ö8Ö," />
+	<block key="hk_0_1_0011_1_Title" korea_korean="XÎÌ¸}Å" />
+	<block key="hk_0_1_0011_1_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="hk_0_1_0011_1_Request_Text" korea_korean="´ÅtÇl­," />
+	<block key="hk_0_1_0011_1_Accepted_Text" korea_korean="¬ÇÌ¸”² " />
+	<block key="hk_0_1_0011_1_Ongoing_Text" korea_korean="Â]¸XÇ " />
+	<block key="hk_0_1_0011_1_Complete_Text" korea_korean="tÇð·& DÅ4»¬¹ " />
+	<block key="hk_0_1_0011_2_Title" korea_korean="XÎÌ¸}Å " />
+	<block key="hk_0_1_0011_2_RewarderDesc" korea_korean="©ºÙ³ " />
+	<block key="hk_0_1_0011_2_Request_Text" korea_korean="ØÅÕXÇ " />
+	<block key="hk_0_1_0011_2_Accepted_Text" korea_korean="ä²\Î " />
+	<block key="hk_0_1_0011_2_Ongoing_Text" korea_korean="ÄÉµÑÈ”² " />
+	<block key="hk_0_1_0011_2_Complete_Text" korea_korean="˜Ç " />
+	<block key="hk_0_1_0012_Title" korea_korean="0®´Æ˜°”² " />
+	<block key="hk_0_1_0012_RewarderDesc" korea_korean="ØÅÕ " />
+	<block key="hk_0_1_0012_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0012_Accepted_Text" korea_korean="È¹ø­¸ " />
+	<block key="hk_0_1_0012_Ongoing_Text" korea_korean="ÅÆô²XÕà¬ " />
+	<block key="hk_0_1_0012_Complete_Text" korea_korean="à¬Ù¹µÂÈ²ä²." />
+	<block key="hk_0_1_0013_Title" korea_korean="hÕÈ " />
+	<block key="hk_0_1_0013_RewarderDesc" korea_korean=" ÇÈÀÉ " />
+	<block key="hk_0_1_0013_Request_Text" korea_korean="<Õä¬tÕ " />
+	<block key="hk_0_1_0013_Accepted_Text" korea_korean="ìÅì·¨º\¸ " />
+	<block key="hk_0_1_0013_Ongoing_Text" korea_korean="ð¬XÇ " />
+	<block key="hk_0_1_0013_Complete_Text" korea_korean="$±," />
+	<block key="hk_0_1_0014_Title" korea_korean="‘²" />
+	<block key="hk_0_1_0014_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0014_Request_Text" korea_korean="pÈ® " />
+	<block key="hk_0_1_0014_Accepted_Text" korea_korean="ø­ä´ÐÅ " />
+	<block key="hk_0_1_0014_Ongoing_Text" korea_korean="ÇØÕ`Õ " />
+	<block key="hk_0_1_0014_Complete_Text" korea_korean="ÇØÕ\Õ " />
+	<block key="hk_0_1_0015_Title" korea_korean="©ºÙ³XÇ " />
+	<block key="hk_0_1_0015_RewarderDesc" korea_korean="©ºÙ³" />
+	<block key="hk_0_1_0015_Request_Text" korea_korean="tÇx¬ " />
+	<block key="hk_0_1_0015_Accepted_Text" korea_korean="ù²àÂtÇ " />
+	<block key="hk_0_1_0015_Ongoing_Text" korea_korean="ù²àÂtÇ " />
+	<block key="hk_0_1_0015_Complete_Text" korea_korean="LÇ?" />
+	<block key="hk_0_1_0016_Title" korea_korean="‘²" />
+	<block key="hk_0_1_0016_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0016_Request_Text" korea_korean="P»," />
+	<block key="hk_0_1_0016_Accepted_Text" korea_korean="ø­˜·Ä³ " />
+	<block key="hk_0_1_0016_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0016_Complete_Text" korea_korean="ÉÅ?" />
+	<block key="hk_0_1_0017_Title" korea_korean="‘²" />
+	<block key="hk_0_1_0017_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0017_Request_Text" korea_korean="ø­	¸tÇ|·& ø­˜·," />
+	<block key="hk_0_1_0017_Accepted_Text" korea_korean="Èù²ˆ× " />
+	<block key="hk_0_1_0017_Ongoing_Text" korea_korean="ø­˜·," />
+	<block key="hk_0_1_0017_Complete_Text" korea_korean="È•¼|Ç8Á?" />
+	<block key="hk_0_1_0017_1_Title" korea_korean="‘²" />
+	<block key="hk_0_1_0017_1_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0017_1_Request_Text" korea_korean="ø­¼¹Ç " />
+	<block key="hk_0_1_0017_1_Accepted_Text" korea_korean="˜×´°Œ¬." />
+	<block key="hk_0_1_0017_1_Ongoing_Text" korea_korean="¡Ç0® " />
+	<block key="hk_0_1_0017_1_Complete_Text" korea_korean="I­¥ÇXÕp­." />
+	<block key="hk_0_1_0018_Title" korea_korean="¬Àå°¼¯XÇ " />
+	<block key="hk_0_1_0018_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0018_Request_Text" korea_korean="‘²" />
+	<block key="hk_0_1_0018_Accepted_Text" korea_korean="]°¬°ä²à¬ " />
+	<block key="hk_0_1_0018_Ongoing_Text" korea_korean="4»ÁÌÆÁ " />
+	<block key="hk_0_1_0018_Complete_Text" korea_korean="ø­ð· " />
+	<block key="hk_0_1_0019_Title" korea_korean="¬Àt¬ " />
+	<block key="hk_0_1_0019_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0019_Request_Text" korea_korean="ìÅ0® " />
+	<block key="hk_0_1_0019_Accepted_Text" korea_korean="-¯ " />
+	<block key="hk_0_1_0019_Ongoing_Text" korea_korean="ù²àÂtÇ " />
+	<block key="hk_0_1_0019_Complete_Text" korea_korean="Ç(±" />
+	<block key="hk_0_1_0020_Title" korea_korean="<»Çô¼	®" />
+	<block key="hk_0_1_0020_RewarderDesc" korea_korean="Ó¬¬Ñ¼¬À " />
+	<block key="hk_0_1_0020_Request_Text" korea_korean="´Å$¸´Æ " />
+	<block key="hk_0_1_0020_Accepted_Text" korea_korean="¬¬ÀiÕÈ²ä²!" />
+	<block key="hk_0_1_0020_Ongoing_Text" korea_korean="ü»" />
+	<block key="hk_0_1_0020_Complete_Text" korea_korean="tÇx¬\¸ " />
+	<block key="hk_0_1_0021_1_Title" korea_korean="´Å°¹ " />
+	<block key="hk_0_1_0021_1_RewarderDesc" korea_korean="´Å°¹ " />
+	<block key="hk_0_1_0021_1_Request_Text" korea_korean="9ÖÜÂ " />
+	<block key="hk_0_1_0021_1_Accepted_Text" korea_korean="ÑÉtÇ " />
+	<block key="hk_0_1_0021_1_Ongoing_Text" korea_korean="9ÖÜÂ " />
+	<block key="hk_0_1_0021_1_Complete_Text" korea_korean="ÈÕ<Ç& !" />
+	<block key="hk_0_1_0021_2_Title" korea_korean="©ºÙ³ " />
+	<block key="hk_0_1_0021_2_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0021_2_Request_Text" korea_korean="<ÖÇ " />
+	<block key="hk_0_1_0021_2_Accepted_Text" korea_korean="‘²" />
+	<block key="hk_0_1_0021_2_Ongoing_Text" korea_korean="<ÖÇ " />
+	<block key="hk_0_1_0021_2_Complete_Text" korea_korean="P»|·à¬?" />
+	<block key="hk_0_1_0021_3_Title" korea_korean="" />
+	<block key="hk_0_1_0021_3_RewarderDesc" korea_korean="©ºÙ³ " />
+	<block key="hk_0_1_0021_3_Request_Text" korea_korean="±!" />
+	<block key="hk_0_1_0021_3_Accepted_Text" korea_korean="ýÈ´Å|·!" />
+	<block key="hk_0_1_0021_3_Ongoing_Text" korea_korean="±!" />
+	<block key="hk_0_1_0021_3_Complete_Text" korea_korean="P»|·à¬?" />
+	<block key="hk_0_1_0022_Title" korea_korean="ŒÁ¼µ " />
+	<block key="hk_0_1_0022_RewarderDesc" korea_korean="©ºÙ³" />
+	<block key="hk_0_1_0022_Request_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0022_Accepted_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0022_Ongoing_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0022_Complete_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0023_Title" korea_korean="ô¼8Ö " />
+	<block key="hk_0_1_0023_RewarderDesc" korea_korean="ìÀo¸" />
+	<block key="hk_0_1_0023_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0023_Accepted_Text" korea_korean="È" />
+	<block key="hk_0_1_0023_Ongoing_Text" korea_korean="¨º¬¹$± " />
+	<block key="hk_0_1_0023_Complete_Text" korea_korean="" />
+	<block key="hk_0_1_0024_Title" korea_korean=" ÎÕ " />
+	<block key="hk_0_1_0024_RewarderDesc" korea_korean="Ó¬¬Ñ¼¬À " />
+	<block key="hk_0_1_0024_Request_Text" korea_korean="ô¼ÜÂtº " />
+	<block key="hk_0_1_0024_Accepted_Text" korea_korean="¬¬ÀiÕÈ²ä²." />
+	<block key="hk_0_1_0024_Ongoing_Text" korea_korean="ðÅ¥ÇtÇ˜° " />
+	<block key="hk_0_1_0024_Complete_Text" korea_korean="tÇÈ " />
+	<block key="hk_0_1_0025_Title" korea_korean="‘²" />
+	<block key="hk_0_1_0025_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0025_Request_Text" korea_korean="p¬ " />
+	<block key="hk_0_1_0025_Accepted_Text" korea_korean="˜Ç " />
+	<block key="hk_0_1_0025_Ongoing_Text" korea_korean="DÅÈ² " />
+	<block key="hk_0_1_0025_Complete_Text" korea_korean="à¬È¹ÌÆ~" />
+	<block key="hk_0_1_0026_Title" korea_korean="i×´ÅÄÉ " />
+	<block key="hk_0_1_0026_RewarderDesc" korea_korean="ÁÀxÇ " />
+	<block key="hk_0_1_0026_Request_Text" korea_korean="tÇ½ÊL®ÀÉ " />
+	<block key="hk_0_1_0026_Accepted_Text" korea_korean="ÐÅ4×4×," />
+	<block key="hk_0_1_0026_Ongoing_Text" korea_korean="@º¬¹ " />
+	<block key="hk_0_1_0026_Complete_Text" korea_korean="$±& ø»ø­€· " />
+	<block key="hk_0_1_0027_Title" korea_korean="È€½ " />
+	<block key="hk_0_1_0027_RewarderDesc" korea_korean="´°4»" />
+	<block key="hk_0_1_0027_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0027_Accepted_Text" korea_korean="tÇˆ¼ " />
+	<block key="hk_0_1_0027_Ongoing_Text" korea_korean="pÐ|ÇtÇ " />
+	<block key="hk_0_1_0027_Complete_Text" korea_korean="DÅtÇà¬," />
+	<block key="hk_0_1_0028_Title" korea_korean="" />
+	<block key="hk_0_1_0028_RewarderDesc" korea_korean="±€½ " />
+	<block key="hk_0_1_0028_Request_Text" korea_korean="ä´DÇ " />
+	<block key="hk_0_1_0028_Accepted_Text" korea_korean="˜Åä´DÅ& ˜Åä´DÅ& !" />
+	<block key="hk_0_1_0028_Ongoing_Text" korea_korean="(" />
+	<block key="hk_0_1_0028_Complete_Text" korea_korean="& à¬Ù¹°ÆtÇ," />
+	<block key="hk_0_1_0029_Title" korea_korean=" Ñ|° " />
+	<block key="hk_0_1_0029_RewarderDesc" korea_korean="±€½ " />
+	<block key="hk_0_1_0029_Request_Text" korea_korean="äÎØÕ," />
+	<block key="hk_0_1_0029_Accepted_Text" korea_korean="ÄÈä² " />
+	<block key="hk_0_1_0029_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0029_Complete_Text" korea_korean="„°„°„°„°„°~" />
+	<block key="hk_0_1_0030_Title" korea_korean="Œ¼À¯ " />
+	<block key="hk_0_1_0030_RewarderDesc" korea_korean="ŒÁ<ÕDÅ" />
+	<block key="hk_0_1_0030_Request_Text" korea_korean="°Æ¸ÆXÕŒ¬ " />
+	<block key="hk_0_1_0030_Accepted_Text" korea_korean="$Æœ·Ì¹ÐÅ " />
+	<block key="hk_0_1_0030_Ongoing_Text" korea_korean="Œ¼À¯tÇ|Å " />
+	<block key="hk_0_1_0030_Complete_Text" korea_korean="‹È@Ç " />
+	<block key="hk_0_1_0031_Title" korea_korean="HÅ€½ " />
+	<block key="hk_0_1_0031_RewarderDesc" korea_korean="ÁÀxÇ " />
+	<block key="hk_0_1_0031_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0031_Accepted_Text" korea_korean="¸ÓÀÉ " />
+	<block key="hk_0_1_0031_Ongoing_Text" korea_korean="^Å<Ç\¸ " />
+	<block key="hk_0_1_0031_Complete_Text" korea_korean="<ÇtÇl­," />
+	<block key="hk_0_1_0032_1_Title" korea_korean="lÐ\¸°ÆXÇ " />
+	<block key="hk_0_1_0032_1_RewarderDesc" korea_korean="lÐ\¸°Æ" />
+	<block key="hk_0_1_0032_1_Request_Text" korea_korean="ø­ì·à¬ " />
+	<block key="hk_0_1_0032_1_Accepted_Text" korea_korean="¸ÅÈà´ " />
+	<block key="hk_0_1_0032_1_Ongoing_Text" korea_korean="ù²àÂxÇ" />
+	<block key="hk_0_1_0032_1_Complete_Text" korea_korean="ù²àÂxÇ" />
+	<block key="hk_0_1_0032_2_Title" korea_korean="½€½ " />
+	<block key="hk_0_1_0032_2_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0032_2_Request_Text" korea_korean="ù²àÂ " />
+	<block key="hk_0_1_0032_2_Accepted_Text" korea_korean="ä´´ÅÉÁ " />
+	<block key="hk_0_1_0032_2_Ongoing_Text" korea_korean="lÐ\¸°Æ " />
+	<block key="hk_0_1_0032_2_Complete_Text" korea_korean="lÐ\¸°Æ " />
+	<block key="hk_0_1_0032_3_Title" korea_korean="½½ÊÐÅ " />
+	<block key="hk_0_1_0032_3_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0032_3_Request_Text" korea_korean="lÐ\¸°Æ " />
+	<block key="hk_0_1_0032_3_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0032_3_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0032_3_Complete_Text" korea_korean="" />
+	<block key="hk_0_1_0033_Title" korea_korean="ðÅl­¬ÇÌ¸ " />
+	<block key="hk_0_1_0033_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0033_Request_Text" korea_korean="Ù³½ÊÐÅÁ " />
+	<block key="hk_0_1_0033_Accepted_Text" korea_korean="" />
+	<block key="hk_0_1_0033_Ongoing_Text" korea_korean="DÕ”Æ\Õ " />
+	<block key="hk_0_1_0033_Complete_Text" korea_korean="tÇŒ¬ " />
+	<block key="hk_0_1_0034_Title" korea_korean="ì²dÏ\Õ " />
+	<block key="hk_0_1_0034_RewarderDesc" korea_korean="…ÈÅÅÐÆ " />
+	<block key="hk_0_1_0034_Request_Text" korea_korean="ù²àÂ " />
+	<block key="hk_0_1_0034_Accepted_Text" korea_korean="¸º " />
+	<block key="hk_0_1_0034_Ongoing_Text" korea_korean="$ÁÈ¹ " />
+	<block key="hk_0_1_0034_Complete_Text" korea_korean="d¯ " />
+	<block key="hk_0_1_0034_1_Title" korea_korean="ì²dÏ\Õ " />
+	<block key="hk_0_1_0034_1_RewarderDesc" korea_korean="…ÈÅÅÐÆ " />
+	<block key="hk_0_1_0034_1_Request_Text" korea_korean="ù²àÂ " />
+	<block key="hk_0_1_0034_1_Accepted_Text" korea_korean="¸º " />
+	<block key="hk_0_1_0034_1_Ongoing_Text" korea_korean="$ÁÈ¹ " />
+	<block key="hk_0_1_0034_1_Complete_Text" korea_korean="d¯ " />
+	<block key="hk_0_1_0035_1_Title" korea_korean="¸ÓÀÉ " />
+	<block key="hk_0_1_0035_1_RewarderDesc" korea_korean="Ó¬¬Ñ¼¬À " />
+	<block key="hk_0_1_0035_1_Request_Text" korea_korean="9ÖÜÂ " />
+	<block key="hk_0_1_0035_1_Accepted_Text" korea_korean="4»¬ÀtÕ|Å " />
+	<block key="hk_0_1_0035_1_Ongoing_Text" korea_korean="9ÖÜÂ " />
+	<block key="hk_0_1_0035_1_Complete_Text" korea_korean="´Å8ºÈ²Ø®Á " />
+	<block key="hk_0_1_0035_2_Title" korea_korean="àÂD¾\¸´Æ " />
+	<block key="hk_0_1_0035_2_RewarderDesc" korea_korean="Ó¬¬Ñ¼¬À " />
+	<block key="hk_0_1_0035_2_Request_Text" korea_korean="´Å8ºÈ²Ø®Á " />
+	<block key="hk_0_1_0035_2_Accepted_Text" korea_korean="Ó¬¬ " />
+	<block key="hk_0_1_0035_2_Ongoing_Text" korea_korean=" Ñ|°¼ÐÅ " />
+	<block key="hk_0_1_0035_2_Complete_Text" korea_korean="øÄp³ÆÅ”² " />
+	<block key="hk_0_1_0036_Title" korea_korean="ðÅxÇXÇ " />
+	<block key="hk_0_1_0036_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0036_Request_Text" korea_korean="9ÖÜÂ " />
+	<block key="hk_0_1_0036_Accepted_Text" korea_korean="È¼ " />
+	<block key="hk_0_1_0036_Ongoing_Text" korea_korean="4»¨Â " />
+	<block key="hk_0_1_0036_Complete_Text" korea_korean="4»¨Â " />
+	<block key="hk_0_1_0037_1_Title" korea_korean="¨ºÇ€· " />
+	<block key="hk_0_1_0037_1_RewarderDesc" korea_korean="©ºÙ³" />
+	<block key="hk_0_1_0037_1_Request_Text" korea_korean="<ÇtÇl­," />
+	<block key="hk_0_1_0037_1_Accepted_Text" korea_korean="¨¬°Æ " />
+	<block key="hk_0_1_0037_1_Ongoing_Text" korea_korean="tÇ " />
+	<block key="hk_0_1_0037_1_Complete_Text" korea_korean="tÇ " />
+	<block key="hk_0_1_0037_2_Title" korea_korean="¨ºÇ€· " />
+	<block key="hk_0_1_0037_2_RewarderDesc" korea_korean="´°4»" />
+	<block key="hk_0_1_0037_2_Request_Text" korea_korean="ø­¬ " />
+	<block key="hk_0_1_0037_2_Accepted_Text" korea_korean=" È¥Ç," />
+	<block key="hk_0_1_0037_2_Ongoing_Text" korea_korean="ÈÕ„¼¸Ò " />
+	<block key="hk_0_1_0037_2_Complete_Text" korea_korean="ÈÕ„¼¸Ò " />
+	<block key="hk_0_1_0038_Title" korea_korean="½¬D¾ " />
+	<block key="hk_0_1_0038_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0038_Request_Text" korea_korean="UÆ1ÁÐÅ " />
+	<block key="hk_0_1_0038_Accepted_Text" korea_korean="h¾¬¹ " />
+	<block key="hk_0_1_0038_Ongoing_Text" korea_korean="|Çè² " />
+	<block key="hk_0_1_0038_Complete_Text" korea_korean="tÇp¬ " />
+	<block key="hk_0_1_0039_Title" korea_korean="¬Àå°¼¯XÇ " />
+	<block key="hk_0_1_0039_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0039_Request_Text" korea_korean="ìÅ0®Á " />
+	<block key="hk_0_1_0039_Accepted_Text" korea_korean="ø­˜°" />
+	<block key="hk_0_1_0039_Ongoing_Text" korea_korean="QÇ?" />
+	<block key="hk_0_1_0039_Complete_Text" korea_korean="QÇ?" />
+	<block key="hk_0_1_0040_Title" korea_korean="Ù³<»XÇ " />
+	<block key="hk_0_1_0040_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0040_Request_Text" korea_korean="´ÅÈÕ," />
+	<block key="hk_0_1_0040_Accepted_Text" korea_korean="¬Àå°¼¯tÇ " />
+	<block key="hk_0_1_0040_Ongoing_Text" korea_korean="©Í„½XÕä²à¬ " />
+	<block key="hk_0_1_0040_Complete_Text" korea_korean="d¯ " />
+	<block key="hk_0_1_0041_Title" korea_korean="`Å¸¯² " />
+	<block key="hk_0_1_0041_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0041_Request_Text" korea_korean="‹ÈDÅ," />
+	<block key="hk_0_1_0041_Accepted_Text" korea_korean="ø­Œ¬ " />
+	<block key="hk_0_1_0041_Ongoing_Text" korea_korean="(ÌtÎtÇ”² " />
+	<block key="hk_0_1_0041_Complete_Text" korea_korean="Ü´µ´Å " />
+	<block key="hk_0_1_0042_Title" korea_korean="½<Ç\¸ " />
+	<block key="hk_0_1_0042_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0042_Request_Text" korea_korean="ÈÐ¹ " />
+	<block key="hk_0_1_0042_Accepted_Text" korea_korean="½½Ê@Ç " />
+	<block key="hk_0_1_0042_Ongoing_Text" korea_korean="ÈÐ¹ " />
+	<block key="hk_0_1_0042_Complete_Text" korea_korean="È" />
+	<block key="hk_0_1_0043_Title" korea_korean="(ÌtÎtÇ " />
+	<block key="hk_0_1_0043_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0043_Request_Text" korea_korean="$±" />
+	<block key="hk_0_1_0043_Accepted_Text" korea_korean="`ÌtÎtÇ," />
+	<block key="hk_0_1_0043_Ongoing_Text" korea_korean="$±" />
+	<block key="hk_0_1_0043_Complete_Text" korea_korean="lÐP×," />
+	<block key="hk_0_1_0036_1_Title" korea_korean="‰Õ)¼ˆ½…º" />
+	<block key="hk_0_1_0036_1_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0036_1_Request_Text" korea_korean="tÇt¬ " />
+	<block key="hk_0_1_0036_1_Accepted_Text" korea_korean="¼ô¼ " />
+	<block key="hk_0_1_0036_1_Ongoing_Text" korea_korean="tÇt¬ " />
+	<block key="hk_0_1_0036_1_Complete_Text" korea_korean="P×uÇ?" />
+	<block key="hk_0_1_0044_Title" korea_korean="Æ Â" />
+	<block key="hk_0_1_0044_RewarderDesc" korea_korean="8Áõ¬0® ÂÇ " />
+	<block key="hk_0_1_0044_Request_Text" korea_korean="<ÇDÅDÅDÅ~" />
+	<block key="hk_0_1_0044_Accepted_Text" korea_korean="Æ ÂXÇ " />
+	<block key="hk_0_1_0044_Ongoing_Text" korea_korean="Ñ¼¬Àä´tÇ " />
+	<block key="hk_0_1_0044_Complete_Text" korea_korean="‹ÈDÅ," />
+	<block key="hk_0_1_0044_1_Title" korea_korean="Æ Â" />
+	<block key="hk_0_1_0044_1_RewarderDesc" korea_korean="8Áõ¬0® ÂÇ " />
+	<block key="hk_0_1_0044_1_Request_Text" korea_korean="‹ÈDÅ," />
+	<block key="hk_0_1_0044_1_Accepted_Text" korea_korean="Æ ÂXÇ " />
+	<block key="hk_0_1_0044_1_Ongoing_Text" korea_korean="€½µ " />
+	<block key="hk_0_1_0044_1_Complete_Text" korea_korean="‹ÈDÅ," />
+	<block key="hk_0_1_0045_Title" korea_korean="ÇàÂ¬" />
+	<block key="hk_0_1_0045_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0045_Request_Text" korea_korean="P»|Å," />
+	<block key="hk_0_1_0045_Accepted_Text" korea_korean="È8®," />
+	<block key="hk_0_1_0045_Ongoing_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0045_Complete_Text" korea_korean="à¬È¹ÌÆ," />
+	<block key="hk_0_1_0046_1_Title" korea_korean="š°ÜÂUÆ " />
+	<block key="hk_0_1_0046_1_RewarderDesc" korea_korean="š°ÜÂ¼¯ " />
+	<block key="hk_0_1_0046_1_Request_Text" korea_korean="tÇˆ¼ÐÅ " />
+	<block key="hk_0_1_0046_1_Accepted_Text" korea_korean="<ÇXÕXÕ~" />
+	<block key="hk_0_1_0046_1_Ongoing_Text" korea_korean="ˆ½ì·´°”² " />
+	<block key="hk_0_1_0046_1_Complete_Text" korea_korean="tÇx¬\¸ " />
+	<block key="hk_0_1_0046_2_Title" korea_korean="š°ÜÂUÆ " />
+	<block key="hk_0_1_0046_2_RewarderDesc" korea_korean="š°ÜÂ¼¯ " />
+	<block key="hk_0_1_0046_2_Request_Text" korea_korean="lÐlÐlÐmÐ," />
+	<block key="hk_0_1_0046_2_Accepted_Text" korea_korean="$Æ˜²DÇ " />
+	<block key="hk_0_1_0046_2_Ongoing_Text" korea_korean="lÐlÐlÐmÐ," />
+	<block key="hk_0_1_0046_2_Complete_Text" korea_korean="Ü´µ´Å " />
+	<block key="hk_0_1_0047_1_Title" korea_korean="S°´Å$Æt¹”² " />
+	<block key="hk_0_1_0047_1_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0047_1_Request_Text" korea_korean="a×ÖÀ­ÐÅ " />
+	<block key="hk_0_1_0047_1_Accepted_Text" korea_korean="pÈìÂXÕ”² " />
+	<block key="hk_0_1_0047_1_Ongoing_Text" korea_korean="a×ÖÀ­XÇ " />
+	<block key="hk_0_1_0047_1_Complete_Text" korea_korean="LÇ& tÇx¬ " />
+	<block key="hk_0_1_0047_2_Title" korea_korean="tÇÁÀ\Õ " />
+	<block key="hk_0_1_0047_2_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0047_2_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0047_2_Accepted_Text" korea_korean="" />
+	<block key="hk_0_1_0047_2_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0047_2_Complete_Text" korea_korean="" />
+	<block key="hk_0_1_0047_3_Title" korea_korean="ÆÅ`Å|Å " />
+	<block key="hk_0_1_0047_3_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0047_3_Request_Text" korea_korean="ðÅl­”² " />
+	<block key="hk_0_1_0047_3_Accepted_Text" korea_korean="€½µ " />
+	<block key="hk_0_1_0047_3_Ongoing_Text" korea_korean="a×ÖÀ­" />
+	<block key="hk_0_1_0047_3_Complete_Text" korea_korean="ù²àÂÐÅŒ¬”² " />
+	<block key="hk_0_1_0048_1_Title" korea_korean="ÀÉÐÆ " />
+	<block key="hk_0_1_0048_1_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0048_1_Request_Text" korea_korean="tÇ " />
+	<block key="hk_0_1_0048_1_Accepted_Text" korea_korean="h¾¬¹ " />
+	<block key="hk_0_1_0048_1_Ongoing_Text" korea_korean="ø­ð· " />
+	<block key="hk_0_1_0048_1_Complete_Text" korea_korean="ø­ð· " />
+	<block key="hk_0_1_0048_2_Title" korea_korean="ÀÉÐÆ " />
+	<block key="hk_0_1_0048_2_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0048_2_Request_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0048_2_Accepted_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0048_2_Ongoing_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0048_2_Complete_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0048_3_Title" korea_korean="ÀÉÐÆ " />
+	<block key="hk_0_1_0048_3_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0048_3_Request_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0048_3_Accepted_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0048_3_Ongoing_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0048_3_Complete_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0049_Title" korea_korean="ÝÂÉ·=Ìà¬" />
+	<block key="hk_0_1_0049_RewarderDesc" korea_korean="±€½ " />
+	<block key="hk_0_1_0049_Request_Text" korea_korean="ÄÖ°Æ," />
+	<block key="hk_0_1_0049_Accepted_Text" korea_korean="|Çè² " />
+	<block key="hk_0_1_0049_Ongoing_Text" korea_korean="ÄÖ°Æ," />
+	<block key="hk_0_1_0049_Complete_Text" korea_korean="tÇð· " />
+	<block key="hk_0_1_0050_Title" korea_korean="´°|ÇDÇ " />
+	<block key="hk_0_1_0050_RewarderDesc" korea_korean="±€½ " />
+	<block key="hk_0_1_0050_Request_Text" korea_korean="tÇÈ " />
+	<block key="hk_0_1_0050_Accepted_Text" korea_korean="ø­˜·Ä³ " />
+	<block key="hk_0_1_0050_Ongoing_Text" korea_korean="´°D±ÐÅ " />
+	<block key="hk_0_1_0050_Complete_Text" korea_korean="´° " />
+	<block key="hk_0_1_0051_Title" korea_korean="¸ºÐÅ " />
+	<block key="hk_0_1_0051_RewarderDesc" korea_korean="}Å¬À " />
+	<block key="hk_0_1_0051_Request_Text" korea_korean="ÄÖÄÖÄÖÄÖÄÖ," />
+	<block key="hk_0_1_0051_Accepted_Text" korea_korean="°ÆÄÖÄÖ," />
+	<block key="hk_0_1_0051_Ongoing_Text" korea_korean="Ð¹Œ¼XÇ " />
+	<block key="hk_0_1_0051_Complete_Text" korea_korean="ÄÖÄÖÄÖ," />
+	<block key="hk_0_1_0052_Title" korea_korean="¸ºÐÅ " />
+	<block key="hk_0_1_0052_RewarderDesc" korea_korean="}Å¬À " />
+	<block key="hk_0_1_0052_Request_Text" korea_korean="È¹DÇ " />
+	<block key="hk_0_1_0052_Accepted_Text" korea_korean="ø­˜°" />
+	<block key="hk_0_1_0052_Ongoing_Text" korea_korean="È¹DÇ " />
+	<block key="hk_0_1_0052_Complete_Text" korea_korean="°ÆÄÖÄÖ," />
+	<block key="hk_0_1_0053_Title" korea_korean="ÀÉ\Î " />
+	<block key="hk_0_1_0053_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0053_Request_Text" korea_korean="<ÇÈÕ," />
+	<block key="hk_0_1_0053_Accepted_Text" korea_korean="P×," />
+	<block key="hk_0_1_0053_Ongoing_Text" korea_korean="<ÇÈÕ," />
+	<block key="hk_0_1_0053_Complete_Text" korea_korean="" />
+	<block key="hk_0_1_0054_Title" korea_korean="<Ö€· " />
+	<block key="hk_0_1_0054_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0054_Request_Text" korea_korean="D°QÇ," />
+	<block key="hk_0_1_0054_Accepted_Text" korea_korean="Ä³Èè²L®ÀÉ " />
+	<block key="hk_0_1_0054_Ongoing_Text" korea_korean="D°QÇ," />
+	<block key="hk_0_1_0054_Complete_Text" korea_korean="UÖäÂtÕLÈp­”Æ." />
+	<block key="hk_0_1_0055_1_Title" korea_korean="¬0Ì" />
+	<block key="hk_0_1_0055_1_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0055_1_Request_Text" korea_korean="È " />
+	<block key="hk_0_1_0055_1_Accepted_Text" korea_korean="½€½ " />
+	<block key="hk_0_1_0055_1_Ongoing_Text" korea_korean="È " />
+	<block key="hk_0_1_0055_1_Complete_Text" korea_korean="ø­¸p­”Æ." />
+	<block key="hk_0_1_0055_2_Title" korea_korean="¬È " />
+	<block key="hk_0_1_0055_2_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0055_2_Request_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0055_2_Accepted_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0055_2_Ongoing_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0055_2_Complete_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0056_Title" korea_korean=" Ó¬¹èÎ " />
+	<block key="hk_0_1_0056_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0056_Request_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0056_Accepted_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0056_Ongoing_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0056_Complete_Text" korea_korean="”ÍÄÖ" />
+	<block key="hk_0_1_0057_Title" korea_korean="äÂtÈXÕ”² " />
+	<block key="hk_0_1_0057_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0057_Request_Text" korea_korean="øÂÀÆÐÅÁ”² " />
+	<block key="hk_0_1_0057_Accepted_Text" korea_korean="|ÅÝÀXÇ " />
+	<block key="hk_0_1_0057_Ongoing_Text" korea_korean="øÂÀÆÐÅÁ”² " />
+	<block key="hk_0_1_0057_Complete_Text" korea_korean="tÇƒ¬tÇ " />
+	<block key="hk_0_1_0058_Title" korea_korean="<Ö€· " />
+	<block key="hk_0_1_0058_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0058_Request_Text" korea_korean="Ä³Èè² " />
+	<block key="hk_0_1_0058_Accepted_Text" korea_korean="´° " />
+	<block key="hk_0_1_0058_Ongoing_Text" korea_korean="Ä³Èè² " />
+	<block key="hk_0_1_0058_Complete_Text" korea_korean="¬ˆ× " />
+	<block key="hk_0_1_0059_Title" korea_korean="Ä³Èè² " />
+	<block key="hk_0_1_0059_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0059_Request_Text" korea_korean="tÇ " />
+	<block key="hk_0_1_0059_Accepted_Text" korea_korean="0®ÝÀ©Í " />
+	<block key="hk_0_1_0059_Ongoing_Text" korea_korean="tÇ " />
+	<block key="hk_0_1_0059_Complete_Text" korea_korean="J®tÇ " />
+	<block key="hk_0_1_0060_Title" korea_korean="©ÍÁÉ\Õ " />
+	<block key="hk_0_1_0060_RewarderDesc" korea_korean="ÜÂ@± " />
+	<block key="hk_0_1_0060_Request_Text" korea_korean="$ÆhÁµÂÈ²L®& 
+" />
+	<block key="hk_0_1_0060_Accepted_Text" korea_korean="à¬µ¼ " />
+	<block key="hk_0_1_0060_Ongoing_Text" korea_korean="$ÆhÁµÂÈ²L®& 
+" />
+	<block key="hk_0_1_0060_Complete_Text" korea_korean="ù²àÂ@Ç& ?" />
+	<block key="hk_0_1_0061_1_Title" korea_korean="Ç0®XÇ " />
+	<block key="hk_0_1_0061_1_RewarderDesc" korea_korean="à¬µ¼ " />
+	<block key="hk_0_1_0061_1_Request_Text" korea_korean="äÂ@¸ˆÕµÂÈ²ä²." />
+	<block key="hk_0_1_0061_1_Accepted_Text" korea_korean="DÅ" />
+	<block key="hk_0_1_0061_1_Ongoing_Text" korea_korean="äÂ@¸ˆÕµÂÈ²ä²." />
+	<block key="hk_0_1_0061_1_Complete_Text" korea_korean="ÈÜÂtÎ" />
+	<block key="hk_0_1_0061_2_Title" korea_korean="Ç0®XÇ " />
+	<block key="hk_0_1_0061_2_RewarderDesc" korea_korean="ÜÂ@± " />
+	<block key="hk_0_1_0061_2_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0061_2_Accepted_Text" korea_korean="DÅ„¼ÀÉXÇ " />
+	<block key="hk_0_1_0061_2_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0061_2_Complete_Text" korea_korean="DÅ" />
+	<block key="hk_0_1_0062_Title" korea_korean="XÇxÆXÇ " />
+	<block key="hk_0_1_0062_RewarderDesc" korea_korean="àÂ…Ç " />
+	<block key="hk_0_1_0062_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0062_Accepted_Text" korea_korean="DÅ" />
+	<block key="hk_0_1_0062_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0062_Complete_Text" korea_korean="¬¬ÀiÕÈ²ä²!" />
+	<block key="hk_0_1_0062_1_Title" korea_korean="XÇxÆXÇ " />
+	<block key="hk_0_1_0062_1_RewarderDesc" korea_korean="àÂ…Ç " />
+	<block key="hk_0_1_0062_1_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0062_1_Accepted_Text" korea_korean="DÅ" />
+	<block key="hk_0_1_0062_1_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0062_1_Complete_Text" korea_korean="¬¬ÀiÕÈ²ä²!" />
+	<block key="hk_0_1_0063_1_Title" korea_korean="DÅ" />
+	<block key="hk_0_1_0063_1_RewarderDesc" korea_korean="Í¥Ç " />
+	<block key="hk_0_1_0063_1_Request_Text" korea_korean="P»|·l­”Æ?" />
+	<block key="hk_0_1_0063_1_Accepted_Text" korea_korean="˜°8Ì," />
+	<block key="hk_0_1_0063_1_Ongoing_Text" korea_korean="P»|·l­”Æ?" />
+	<block key="hk_0_1_0063_1_Complete_Text" korea_korean="8Ö$Æ," />
+	<block key="hk_0_1_0063_2_Title" korea_korean="DÅ" />
+	<block key="hk_0_1_0063_2_RewarderDesc" korea_korean="ÜÂ@± " />
+	<block key="hk_0_1_0063_2_Request_Text" korea_korean="à¬µ¼ " />
+	<block key="hk_0_1_0063_2_Accepted_Text" korea_korean="P»à´ÀÉ " />
+	<block key="hk_0_1_0063_2_Ongoing_Text" korea_korean="à¬µ¼ " />
+	<block key="hk_0_1_0063_2_Complete_Text" korea_korean="DÌŒÁ" />
+	<block key="hk_0_1_0064_Title" korea_korean="¬tÕÀÉ0® " />
+	<block key="hk_0_1_0064_RewarderDesc" korea_korean="àÂ…Ç " />
+	<block key="hk_0_1_0064_Request_Text" korea_korean="tÇˆ¼ÐÅ”² " />
+	<block key="hk_0_1_0064_Accepted_Text" korea_korean="DÅ" />
+	<block key="hk_0_1_0064_Ongoing_Text" korea_korean="tÇˆ¼ÐÅ”² " />
+	<block key="hk_0_1_0064_Complete_Text" korea_korean="pÈ®@Ç " />
+	<block key="hk_0_1_0065_Title" korea_korean="à¬à¬\Õ " />
+	<block key="hk_0_1_0065_RewarderDesc" korea_korean="à¬µ¼ " />
+	<block key="hk_0_1_0065_Request_Text" korea_korean="°Æ Á& ðÅl­|¹ " />
+	<block key="hk_0_1_0065_Accepted_Text" korea_korean="$Æœ·Ì¹ÐÅ " />
+	<block key="hk_0_1_0065_Ongoing_Text" korea_korean="°Æ Á& ðÅl­|¹ " />
+	<block key="hk_0_1_0065_Complete_Text" korea_korean="T°Ì\Õ " />
+	<block key="hk_0_1_0067_Title" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0067_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0067_Request_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0067_Accepted_Text" korea_korean="ü¬ðÅ " />
+	<block key="hk_0_1_0067_Ongoing_Text" korea_korean="É\Ô”² " />
+	<block key="hk_0_1_0067_Complete_Text" korea_korean="È•¼ " />
+	<block key="hk_0_1_0068_Title" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0068_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0068_Request_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0068_Accepted_Text" korea_korean="ÄÖ°Æ," />
+	<block key="hk_0_1_0068_Ongoing_Text" korea_korean="ø­ì·È²L® " />
+	<block key="hk_0_1_0068_Complete_Text" korea_korean="Ñ¼¬ÀÄ³ " />
+	<block key="hk_0_1_0069_Title" korea_korean="”Í…ÈÇ " />
+	<block key="hk_0_1_0069_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0069_Request_Text" korea_korean="È•¼ " />
+	<block key="hk_0_1_0069_Accepted_Text" korea_korean="
+È@Ç " />
+	<block key="hk_0_1_0069_Ongoing_Text" korea_korean=" ÑÈ² " />
+	<block key="hk_0_1_0069_Complete_Text" korea_korean="d¯ " />
+	<block key="hk_0_1_0070_Title" korea_korean="Ì³8º¬¹ " />
+	<block key="hk_0_1_0070_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0070_Request_Text" korea_korean="”Í…ÈÇ " />
+	<block key="hk_0_1_0070_Accepted_Text" korea_korean="˜°„¹" />
+	<block key="hk_0_1_0070_Ongoing_Text" korea_korean="8º¬¹" />
+	<block key="hk_0_1_0070_Complete_Text" korea_korean="œÁ(Å" />
+	<block key="hk_0_1_0071_Title" korea_korean="$ÁxÇXÇ " />
+	<block key="hk_0_1_0071_RewarderDesc" korea_korean="UÆ½¹pÈ¬ÀÐÆ " />
+	<block key="hk_0_1_0071_Request_Text" korea_korean="¼Å´Å™½@Ç " />
+	<block key="hk_0_1_0071_Accepted_Text" korea_korean="¦²ÀÉ " />
+	<block key="hk_0_1_0071_Ongoing_Text" korea_korean="ù²àÂÄ³ " />
+	<block key="hk_0_1_0071_Complete_Text" korea_korean="lÐXÕ~" />
+	<block key="hk_0_1_0072_Title" korea_korean="±€½ " />
+	<block key="hk_0_1_0072_RewarderDesc" korea_korean="±€½XÇ " />
+	<block key="hk_0_1_0072_Request_Text" korea_korean="È " />
+	<block key="hk_0_1_0072_Accepted_Text" korea_korean="˜× " />
+	<block key="hk_0_1_0072_Ongoing_Text" korea_korean="È " />
+	<block key="hk_0_1_0072_Complete_Text" korea_korean="DÅDÅ," />
+	<block key="hk_0_1_0073_Title" korea_korean="Û¹‹È@Ç " />
+	<block key="hk_0_1_0073_RewarderDesc" korea_korean="ÁÀxÇ " />
+	<block key="hk_0_1_0073_Request_Text" korea_korean="DÅ~" />
+	<block key="hk_0_1_0073_Accepted_Text" korea_korean="8ÁÁÀ " />
+	<block key="hk_0_1_0073_Ongoing_Text" korea_korean="DÅ~" />
+	<block key="hk_0_1_0073_Complete_Text" korea_korean="lÐDÅ~" />
+	<block key="hk_0_1_0074_Title" korea_korean="Ä³Èè² " />
+	<block key="hk_0_1_0074_RewarderDesc" korea_korean="ÝÂÈ0®¬Àè² " />
+	<block key="hk_0_1_0074_Request_Text" korea_korean="Ä³Èè²tÇ " />
+	<block key="hk_0_1_0074_Accepted_Text" korea_korean="‹ÈDÅ," />
+	<block key="hk_0_1_0074_Ongoing_Text" korea_korean="Ä³Èè²tÇ " />
+	<block key="hk_0_1_0074_Complete_Text" korea_korean="ÌÖm¹\Õ " />
+	<block key="hk_0_1_0075_Title" korea_korean="¼Å´Å™½@Ç " />
+	<block key="hk_0_1_0075_RewarderDesc" korea_korean="|Ç	® " />
+	<block key="hk_0_1_0075_Request_Text" korea_korean="È" />
+	<block key="hk_0_1_0075_Accepted_Text" korea_korean="D°QÇ," />
+	<block key="hk_0_1_0075_Ongoing_Text" korea_korean="8® " />
+	<block key="hk_0_1_0075_Complete_Text" korea_korean="ø­ð· " />
+	<block key="hk_0_1_0076_Title" korea_korean="¼Å´Å™½@Ç " />
+	<block key="hk_0_1_0076_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0076_Request_Text" korea_korean="¼Å´Å™½@Ç " />
+	<block key="hk_0_1_0076_Accepted_Text" korea_korean="”Æ˜É " />
+	<block key="hk_0_1_0076_Ongoing_Text" korea_korean="¼Å´Å™½@Ç " />
+	<block key="hk_0_1_0076_Complete_Text" korea_korean="P×`×," />
+	<block key="hk_0_1_0077_Title" korea_korean="¬À€·¸ÒXÇ " />
+	<block key="hk_0_1_0077_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0077_Request_Text" korea_korean="UÆ­<Ç\¸€½0Ñ " />
+	<block key="hk_0_1_0077_Accepted_Text" korea_korean="(Ç±¤Â " />
+	<block key="hk_0_1_0077_Ongoing_Text" korea_korean="UÆ­<Ç\¸€½0Ñ " />
+	<block key="hk_0_1_0077_Complete_Text" korea_korean="¬À€·¸ÒXÇ " />
+	<block key="hk_0_1_0078_Title" korea_korean="ÈÉ " />
+	<block key="hk_0_1_0078_RewarderDesc" korea_korean="ÁÀxÇ " />
+	<block key="hk_0_1_0078_Request_Text" korea_korean="tÇ¸Œ¬ " />
+	<block key="hk_0_1_0078_Accepted_Text" korea_korean="ÈÀ\¸´Æ " />
+	<block key="hk_0_1_0078_Ongoing_Text" korea_korean="tÇ¸Œ¬ " />
+	<block key="hk_0_1_0078_Complete_Text" korea_korean="tÇŒ¬ " />
+	<block key="hk_0_1_0079_Title" korea_korean="ÐÓÈÕ " />
+	<block key="hk_0_1_0079_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0079_Request_Text" korea_korean="UÆ­ÐÅÁ " />
+	<block key="hk_0_1_0079_Accepted_Text" korea_korean="tÇð· " />
+	<block key="hk_0_1_0079_Ongoing_Text" korea_korean="UÆ­ÐÅÁ " />
+	<block key="hk_0_1_0079_Complete_Text" korea_korean="DÅÈ² " />
+	<block key="hk_0_1_0080_Title" korea_korean="à¬" />
+	<block key="hk_0_1_0080_RewarderDesc" korea_korean="­€½ " />
+	<block key="hk_0_1_0080_Request_Text" korea_korean="à¬" />
+	<block key="hk_0_1_0080_Accepted_Text" korea_korean="Ü´µ´Å " />
+	<block key="hk_0_1_0080_Ongoing_Text" korea_korean="à¬" />
+	<block key="hk_0_1_0080_Complete_Text" korea_korean="tÇ¬È²ä²," />
+	<block key="hk_0_1_0081_Title" korea_korean="”Í…ÈÇXÇ " />
+	<block key="hk_0_1_0081_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0081_Request_Text" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0081_Accepted_Text" korea_korean="tÇˆ¼ÐÅ|ÅÐ¹\¸ " />
+	<block key="hk_0_1_0081_Ongoing_Text" korea_korean="üÈ¤ÍXÕX³ " />
+	<block key="hk_0_1_0081_Complete_Text" korea_korean="tÇˆ¼ÐÅÄ³ " />
+	<block key="hk_0_1_0082_Title" korea_korean="´Å`´ÐÅ " />
+	<block key="hk_0_1_0082_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0082_Request_Text" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0082_Accepted_Text" korea_korean="^Å<Ç\¸Ä³ " />
+	<block key="hk_0_1_0082_Ongoing_Text" korea_korean="Ç$±" />
+	<block key="hk_0_1_0082_Complete_Text" korea_korean="Ç$±" />
+	<block key="hk_0_1_0083_Title" korea_korean="4»ÇD¾\Õ " />
+	<block key="hk_0_1_0083_RewarderDesc" korea_korean="|Ç	® " />
+	<block key="hk_0_1_0083_Request_Text" korea_korean="Â0ÌÑ¼<Ç\¸€½0Ñ " />
+	<block key="hk_0_1_0083_Accepted_Text" korea_korean="ø­ " />
+	<block key="hk_0_1_0083_Ongoing_Text" korea_korean="´Å»µŒ¬à´ " />
+	<block key="hk_0_1_0083_Complete_Text" korea_korean="tÇx¬\¸ " />
+	<block key="hk_0_1_0084_Title" korea_korean="€¬@Ç " />
+	<block key="hk_0_1_0084_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0084_Request_Text" korea_korean="€¬@Ç " />
+	<block key="hk_0_1_0084_Accepted_Text" korea_korean="ÈÀ\¸´Æ " />
+	<block key="hk_0_1_0084_Ongoing_Text" korea_korean="€¬@Ç " />
+	<block key="hk_0_1_0084_Complete_Text" korea_korean="P×LÇ," />
+	<block key="hk_0_1_0085_Title" korea_korean="¼Ò¼Ò\Õ " />
+	<block key="hk_0_1_0085_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0085_Request_Text" korea_korean="tÇð·tÇð·," />
+	<block key="hk_0_1_0085_Accepted_Text" korea_korean="UÆ­ " />
+	<block key="hk_0_1_0085_Ongoing_Text" korea_korean="$ÁxÇ " />
+	<block key="hk_0_1_0085_Complete_Text" korea_korean="tÇŒ¬ " />
+	<block key="hk_0_1_0086_Title" korea_korean="tÕÈè²XÇ " />
+	<block key="hk_0_1_0086_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0086_Request_Text" korea_korean="Ä³Èè²Ì¹ " />
+	<block key="hk_0_1_0086_Accepted_Text" korea_korean="" />
+	<block key="hk_0_1_0086_Ongoing_Text" korea_korean="Ä³Èè²Ì¹ " />
+	<block key="hk_0_1_0086_Complete_Text" korea_korean="XÕ˜°”² " />
+	<block key="hk_0_1_0001_01_Title" korea_korean="$ÆüÅ´ " />
+	<block key="hk_0_1_0001_01_RewarderDesc" korea_korean="ìÅ¬ÀÈ " />
+	<block key="hk_0_1_0001_01_Request_Text" korea_korean="tÇó¬@Ç " />
+	<block key="hk_0_1_0001_01_Accepted_Text" korea_korean="pÈìÂXÕ8Á”Æ." />
+	<block key="hk_0_1_0001_01_Ongoing_Text" korea_korean="©º\Ô”² " />
+	<block key="hk_0_1_0001_01_Complete_Text" korea_korean="à¬ÝÀXÕhÁ´Å”Æ." />
+	<block key="hk_0_1_0001_02_Title" korea_korean="‘ÇÀÉÌ¹ " />
+	<block key="hk_0_1_0001_02_RewarderDesc" korea_korean="´°4»" />
+	<block key="hk_0_1_0001_02_Request_Text" korea_korean="tÇlÐlÐ," />
+	<block key="hk_0_1_0001_02_Accepted_Text" korea_korean="˜Ç " />
+	<block key="hk_0_1_0001_02_Ongoing_Text" korea_korean="tÇlÐlÐ," />
+	<block key="hk_0_1_0001_02_Complete_Text" korea_korean="°ÆXÕ," />
+	<block key="hk_0_1_0001_03_Title" korea_korean="8ÖÂ " />
+	<block key="hk_0_1_0001_03_RewarderDesc" korea_korean="½€½ " />
+	<block key="hk_0_1_0001_03_Request_Text" korea_korean="DÅ8Ì," />
+	<block key="hk_0_1_0001_03_Accepted_Text" korea_korean="àÂ½¬ " />
+	<block key="hk_0_1_0001_03_Ongoing_Text" korea_korean="DÅ8Ì," />
+	<block key="hk_0_1_0001_03_Complete_Text" korea_korean="¨º¬¹$± " />
+	<block key="hk_0_1_0001_04_Title" korea_korean="œ°íÓ\Õ " />
+	<block key="hk_0_1_0001_04_RewarderDesc" korea_korean="±" />
+	<block key="hk_0_1_0001_04_Request_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_04_Accepted_Text" korea_korean="‡º " />
+	<block key="hk_0_1_0001_04_Ongoing_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_04_Complete_Text" korea_korean="ýÈ" />
+	<block key="hk_0_1_0001_041_Title" korea_korean="œ°íÓ\Õ " />
+	<block key="hk_0_1_0001_041_RewarderDesc" korea_korean="±" />
+	<block key="hk_0_1_0001_041_Request_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_041_Accepted_Text" korea_korean="‡º " />
+	<block key="hk_0_1_0001_041_Ongoing_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_041_Complete_Text" korea_korean="ýÈ" />
+	<block key="hk_0_1_0001_05_Title" korea_korean="¬ÇYÅXÇ " />
+	<block key="hk_0_1_0001_05_RewarderDesc" korea_korean="±" />
+	<block key="hk_0_1_0001_05_Request_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_05_Accepted_Text" korea_korean="‡º " />
+	<block key="hk_0_1_0001_05_Ongoing_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_05_Complete_Text" korea_korean="ýÈ" />
+	<block key="hk_0_1_0001_051_Title" korea_korean="¬ÇYÅXÇ " />
+	<block key="hk_0_1_0001_051_RewarderDesc" korea_korean="±" />
+	<block key="hk_0_1_0001_051_Request_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_051_Accepted_Text" korea_korean="‡º " />
+	<block key="hk_0_1_0001_051_Ongoing_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_051_Complete_Text" korea_korean="ýÈ" />
+	<block key="hk_0_1_0001_06_Title" korea_korean="I×EÅ\Õ " />
+	<block key="hk_0_1_0001_06_RewarderDesc" korea_korean="±" />
+	<block key="hk_0_1_0001_06_Request_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_06_Accepted_Text" korea_korean="‡º " />
+	<block key="hk_0_1_0001_06_Ongoing_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_06_Complete_Text" korea_korean="ýÈ" />
+	<block key="hk_0_1_0001_061_Title" korea_korean="I×EÅ\Õ " />
+	<block key="hk_0_1_0001_061_RewarderDesc" korea_korean="±" />
+	<block key="hk_0_1_0001_061_Request_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_061_Accepted_Text" korea_korean="‡º " />
+	<block key="hk_0_1_0001_061_Ongoing_Text" korea_korean="´°" />
+	<block key="hk_0_1_0001_061_Complete_Text" korea_korean="ýÈ" />
+	<block key="hk_0_1_0001_07_Title" korea_korean="©ºÙ³XÇ " />
+	<block key="hk_0_1_0001_07_RewarderDesc" korea_korean="©ºÙ³" />
+	<block key="hk_0_1_0001_07_Request_Text" korea_korean="tÇð· " />
+	<block key="hk_0_1_0001_07_Accepted_Text" korea_korean="<ÇtÇl­," />
+	<block key="hk_0_1_0001_07_Ongoing_Text" korea_korean="tÇð· " />
+	<block key="hk_0_1_0001_07_Complete_Text" korea_korean="Âà¬ˆÕÂ." />
+	<block key="hk_0_1_0001_08_Title" korea_korean="¬¥ÇÈ" />
+	<block key="hk_0_1_0001_08_RewarderDesc" korea_korean="‘²" />
+	<block key="hk_0_1_0001_08_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0001_08_Accepted_Text" korea_korean="°Æ¸Æ\Õ " />
+	<block key="hk_0_1_0001_08_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0001_08_Complete_Text" korea_korean="´Åµ´Åµ," />
+	<block key="km_0_1_0001_Title" korea_korean="1¼‘Ç" />
+	<block key="km_0_1_0001_RewarderDesc" korea_korean="Í¥Ç " />
+	<block key="km_0_1_0001_Request_Text" korea_korean="tÇ|Å0®”² " />
+	<block key="km_0_1_0001_Accepted_Text" korea_korean="lÐ`×," />
+	<block key="km_0_1_0001_Ongoing_Text" korea_korean="tÇ|Å0®”² " />
+	<block key="km_0_1_0001_Complete_Text" korea_korean="˜Ç " />
+	<block key="km_0_1_0002_Title" korea_korean="­0®XÇ " />
+	<block key="km_0_1_0002_RewarderDesc" korea_korean="àÂ…Ç " />
+	<block key="km_0_1_0002_Request_Text" korea_korean="ÈÝ¹È…ÇÈ²ä²." />
+	<block key="km_0_1_0002_Accepted_Text" korea_korean="1¼‘ÇØ²& ´ÅøÉÁ " />
+	<block key="km_0_1_0002_Ongoing_Text" korea_korean="ÈÝ¹È…ÇÈ²ä²." />
+	<block key="km_0_1_0002_Complete_Text" korea_korean="1¼‘ÇØ²@Ç " />
+	<block key="km_0_1_0003_Title" korea_korean="´Å`´XÇ " />
+	<block key="km_0_1_0003_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="km_0_1_0003_Request_Text" korea_korean="ÈÜÂtÎ" />
+	<block key="km_0_1_0003_Accepted_Text" korea_korean="´Å`´XÇ " />
+	<block key="km_0_1_0003_Ongoing_Text" korea_korean="ÈÜÂtÎ" />
+	<block key="km_0_1_0003_Complete_Text" korea_korean="tÇð· " />
+	<block key="km_0_1_0004_Title" korea_korean="”Æ¬¹¬ÀXÇ " />
+	<block key="km_0_1_0004_RewarderDesc" korea_korean="4»0®ÁÀxÇ " />
+	<block key="km_0_1_0004_Request_Text" korea_korean="DÅ," />
+	<block key="km_0_1_0004_Accepted_Text" korea_korean="Ä³l­”² " />
+	<block key="km_0_1_0004_Ongoing_Text" korea_korean="DÅ," />
+	<block key="km_0_1_0004_Complete_Text" korea_korean="LÇ," />
+	<block key="km_0_1_0005_Title" korea_korean="ÆtºXÇ " />
+	<block key="km_0_1_0005_RewarderDesc" korea_korean="ÜÂ@± " />
+	<block key="km_0_1_0005_Request_Text" korea_korean="" />
+	<block key="km_0_1_0005_Accepted_Text" korea_korean="¨ºP´," />
+	<block key="km_0_1_0005_Ongoing_Text" korea_korean="" />
+	<block key="km_0_1_0005_Complete_Text" korea_korean="ø­ð·" />
+	<block key="km_0_1_0006_Title" korea_korean="½¬D¾" />
+	<block key="km_0_1_0006_RewarderDesc" korea_korean="àÂá¸0®¬À " />
+	<block key="km_0_1_0006_Request_Text" korea_korean="1¼‘Ç " />
+	<block key="km_0_1_0006_Accepted_Text" korea_korean="tÇÈ " />
+	<block key="km_0_1_0006_Ongoing_Text" korea_korean="1¼‘Ç " />
+	<block key="km_0_1_0006_Complete_Text" korea_korean="tÇð· " />
+	<block key="hk_0_1_0087_Title" korea_korean="à´à´\Õ " />
+	<block key="hk_0_1_0087_RewarderDesc" korea_korean="¡ÇTÖ " />
+	<block key="hk_0_1_0087_Request_Text" korea_korean="Ô”ÆXÇ " />
+	<block key="hk_0_1_0087_Accepted_Text" korea_korean="¬¹˜°”² " />
+	<block key="hk_0_1_0087_Ongoing_Text" korea_korean="Ô”ÆXÇ " />
+	<block key="hk_0_1_0087_Complete_Text" korea_korean="²" />
+	<block key="hk_0_1_0088_Title" korea_korean="à´à´\Õ " />
+	<block key="hk_0_1_0088_RewarderDesc" korea_korean="UÆm­ " />
+	<block key="hk_0_1_0088_Request_Text" korea_korean="Æ­XÇ " />
+	<block key="hk_0_1_0088_Accepted_Text" korea_korean="@Ç‰Õ¥Ç " />
+	<block key="hk_0_1_0088_Ongoing_Text" korea_korean="Æ­XÇ " />
+	<block key="hk_0_1_0088_Complete_Text" korea_korean="tÇŒ¬ " />
+	<block key="hk_0_1_0089_Title" korea_korean="à´à´\Õ " />
+	<block key="hk_0_1_0089_RewarderDesc" korea_korean="ìÓÈÐ " />
+	<block key="hk_0_1_0089_Request_Text" korea_korean="UÆm­ " />
+	<block key="hk_0_1_0089_Accepted_Text" korea_korean="ìÓÈÐ " />
+	<block key="hk_0_1_0089_Ongoing_Text" korea_korean="UÆm­ " />
+	<block key="hk_0_1_0089_Complete_Text" korea_korean="tÇð· " />
+	<block key="hk_0_1_0090_Title" korea_korean="à´à´\Õ " />
+	<block key="hk_0_1_0090_RewarderDesc" korea_korean="à¬ñ´ " />
+	<block key="hk_0_1_0090_Request_Text" korea_korean="ÐÆ" />
+	<block key="hk_0_1_0090_Accepted_Text" korea_korean="à¬ñ´ " />
+	<block key="hk_0_1_0090_Ongoing_Text" korea_korean="ÐÆ" />
+	<block key="hk_0_1_0090_Complete_Text" korea_korean="tÇð·&  " />
+	<block key="hk_0_1_0091_Title" korea_korean="@Ç‰Õ¥ÇXÇ " />
+	<block key="hk_0_1_0091_RewarderDesc" korea_korean="UÆm­ " />
+	<block key="hk_0_1_0091_Request_Text" korea_korean="XÕXÕ." />
+	<block key="hk_0_1_0091_Accepted_Text" korea_korean="LÇÝÂtÇ " />
+	<block key="hk_0_1_0091_Ongoing_Text" korea_korean="XÕXÕ." />
+	<block key="hk_0_1_0091_Complete_Text" korea_korean="0®ä²8¸X³ " />
+	<block key="hk_0_1_0092_Title" korea_korean="à¬ÐÌÄÉ " />
+	<block key="hk_0_1_0092_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0092_Request_Text" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0092_Accepted_Text" korea_korean="¬¹$±ÀÐ " />
+	<block key="hk_0_1_0092_Ongoing_Text" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0092_Complete_Text" korea_korean="ÁÀxÇ " />
+	<block key="hk_0_1_0093_Title" korea_korean="hÕ Á " />
+	<block key="hk_0_1_0093_RewarderDesc" korea_korean="´Æ¡Á Á " />
+	<block key="hk_0_1_0093_Request_Text" korea_korean="LÇ&  " />
+	<block key="hk_0_1_0093_Accepted_Text" korea_korean=" Á¥Ç " />
+	<block key="hk_0_1_0093_Ongoing_Text" korea_korean="LÇ&  " />
+	<block key="hk_0_1_0093_Complete_Text" korea_korean="@Ç‰Õ¥ÇØ²XÇ " />
+	<block key="hk_0_1_0094_Title" korea_korean="D¾‰Õ Á " />
+	<block key="hk_0_1_0094_RewarderDesc" korea_korean="D¾‰Õ Á " />
+	<block key="hk_0_1_0094_Request_Text" korea_korean="@Ç[¾¡Á´Å " />
+	<block key="hk_0_1_0094_Accepted_Text" korea_korean=" Á¥Ç " />
+	<block key="hk_0_1_0094_Ongoing_Text" korea_korean="@Ç[¾¡Á´Å " />
+	<block key="hk_0_1_0094_Complete_Text" korea_korean="D¾‰Õ Á " />
+	<block key="hk_0_1_0095_Title" korea_korean="`Õ€½® " />
+	<block key="hk_0_1_0095_RewarderDesc" korea_korean="4»0® " />
+	<block key="hk_0_1_0095_Request_Text" korea_korean="DÅ!" />
+	<block key="hk_0_1_0095_Accepted_Text" korea_korean="ôÓ@Ç " />
+	<block key="hk_0_1_0095_Ongoing_Text" korea_korean="DÅ!" />
+	<block key="hk_0_1_0095_Complete_Text" korea_korean="`Õ€½®tÇ|·à¬ " />
+	<block key="hk_0_1_0096_Title" korea_korean="ÜÂ´Ì " />
+	<block key="hk_0_1_0096_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0096_Request_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0096_Accepted_Text" korea_korean="ø­ " />
+	<block key="hk_0_1_0096_Ongoing_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0096_Complete_Text" korea_korean="8Ö$Æ," />
+	<block key="hk_0_1_0097_Title" korea_korean="EÅÈ¹XÇ " />
+	<block key="hk_0_1_0097_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0097_Request_Text" korea_korean="´° " />
+	<block key="hk_0_1_0097_Accepted_Text" korea_korean="tÕEÅ " />
+	<block key="hk_0_1_0097_Ongoing_Text" korea_korean="´° " />
+	<block key="hk_0_1_0097_Complete_Text" korea_korean="tÇŒ¬ " />
+	<block key="hk_0_1_0098_Title" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0098_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0098_Request_Text" korea_korean="EÅÈ¹XÇ " />
+	<block key="hk_0_1_0098_Accepted_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0098_Ongoing_Text" korea_korean="EÅÈ¹XÇ " />
+	<block key="hk_0_1_0098_Complete_Text" korea_korean="tÇð·," />
+	<block key="hk_0_1_0099_Title" korea_korean="€ÈD¾|¹ " />
+	<block key="hk_0_1_0099_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0099_Request_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0099_Accepted_Text" korea_korean="XÕÀÉÌ¹ " />
+	<block key="hk_0_1_0099_Ongoing_Text" korea_korean="p¬ø»É@Ç " />
+	<block key="hk_0_1_0099_Complete_Text" korea_korean="tÇŒ¬ " />
+	<block key="hk_0_1_0100_Title" korea_korean="€ÈD¾ " />
+	<block key="hk_0_1_0100_RewarderDesc" korea_korean="4»d³ÀÉ0® " />
+	<block key="hk_0_1_0100_Request_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0100_Accepted_Text" korea_korean="˜°¬ " />
+	<block key="hk_0_1_0100_Ongoing_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0100_Complete_Text" korea_korean="à¬," />
+	<block key="hk_0_1_0101_Title" korea_korean="ÜÂÅ³ " />
+	<block key="hk_0_1_0101_RewarderDesc" korea_korean="4»0®ÁÀxÇ " />
+	<block key="hk_0_1_0101_Request_Text" korea_korean="ÜÂÅ³tÇ|·”² " />
+	<block key="hk_0_1_0101_Accepted_Text" korea_korean="´Å´Å," />
+	<block key="hk_0_1_0101_Ongoing_Text" korea_korean="ÜÂÅ³tÇ|·”² " />
+	<block key="hk_0_1_0101_Complete_Text" korea_korean="8Ö$Æ," />
+	<block key="hk_0_1_0102_Title" korea_korean="€½(Ó´ " />
+	<block key="hk_0_1_0102_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0102_Request_Text" korea_korean="€ÈD¾ " />
+	<block key="hk_0_1_0102_Accepted_Text" korea_korean="EÅ„·\Õ " />
+	<block key="hk_0_1_0102_Ongoing_Text" korea_korean="€ÈD¾ " />
+	<block key="hk_0_1_0102_Complete_Text" korea_korean="tÇ¸Œ¬ " />
+	<block key="hk_0_1_0103_Title" korea_korean="„ÇÕXÇ " />
+	<block key="hk_0_1_0103_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0103_Request_Text" korea_korean="¼\¸¤Â " />
+	<block key="hk_0_1_0103_Accepted_Text" korea_korean="¸ºÐÅ " />
+	<block key="hk_0_1_0103_Ongoing_Text" korea_korean="¼\¸¤Â " />
+	<block key="hk_0_1_0103_Complete_Text" korea_korean="”ÆŒ¬ " />
+	<block key="hk_0_1_0104_Title" korea_korean="„ÇÕXÇ " />
+	<block key="hk_0_1_0104_RewarderDesc" korea_korean="UÆ½¹pÈ¬ÀÐÆ " />
+	<block key="hk_0_1_0104_Request_Text" korea_korean="tÇð·tÇð·," />
+	<block key="hk_0_1_0104_Accepted_Text" korea_korean="¶¶ " />
+	<block key="hk_0_1_0104_Ongoing_Text" korea_korean="tÇð·tÇð·," />
+	<block key="hk_0_1_0104_Complete_Text" korea_korean="XÇxÆ\¸ " />
+	<block key="hk_0_1_0105_Title" korea_korean="ÜÂ´Ì " />
+	<block key="hk_0_1_0105_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0105_Request_Text" korea_korean="ÜÂ´Ì " />
+	<block key="hk_0_1_0105_Accepted_Text" korea_korean="äÎ`×," />
+	<block key="hk_0_1_0105_Ongoing_Text" korea_korean="ÜÂ´Ì " />
+	<block key="hk_0_1_0105_Complete_Text" korea_korean="à¬‘Ç " />
+	<block key="hk_0_1_0106_Title" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0106_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0106_Request_Text" korea_korean="È8®," />
+	<block key="hk_0_1_0106_Accepted_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0106_Ongoing_Text" korea_korean="È8®," />
+	<block key="hk_0_1_0106_Complete_Text" korea_korean="íÅÜÂ " />
+	<block key="hk_0_1_0107_Title" korea_korean="DÆÈ\Õ " />
+	<block key="hk_0_1_0107_RewarderDesc" korea_korean=")¼´Ål­ " />
+	<block key="hk_0_1_0107_Request_Text" korea_korean="tÇð·tÇð·," />
+	<block key="hk_0_1_0107_Accepted_Text" korea_korean="ø­ˆ±ä´@Ç " />
+	<block key="hk_0_1_0107_Ongoing_Text" korea_korean="tÇð·tÇð·," />
+	<block key="hk_0_1_0107_Complete_Text" korea_korean="$Æ$Æ," />
+	<block key="hk_0_1_0108_Title" korea_korean="L®ä²\¸´Æ " />
+	<block key="hk_0_1_0108_RewarderDesc" korea_korean=")¼´Ål­ " />
+	<block key="hk_0_1_0108_Request_Text" korea_korean="ÐÅ‰Ç," />
+	<block key="hk_0_1_0108_Accepted_Text" korea_korean="XÕìÅ¬ " />
+	<block key="hk_0_1_0108_Ongoing_Text" korea_korean="ÐÅ‰Ç," />
+	<block key="hk_0_1_0108_Complete_Text" korea_korean="ÈÕÈÕ," />
+	<block key="hk_0_1_0109_Title" korea_korean="ŒÈ½8» " />
+	<block key="hk_0_1_0109_RewarderDesc" korea_korean="´°4»" />
+	<block key="hk_0_1_0109_Request_Text" korea_korean="XÕDÅDÅDÅ," />
+	<block key="hk_0_1_0109_Accepted_Text" korea_korean="$Æ˜²@Ç " />
+	<block key="hk_0_1_0109_Ongoing_Text" korea_korean="XÕDÅDÅDÅ," />
+	<block key="hk_0_1_0109_Complete_Text" korea_korean="íÅÜÂ " />
+	<block key="hk_0_1_0110_Title" korea_korean="tÕ(ÎÁ¹ " />
+	<block key="hk_0_1_0110_RewarderDesc" korea_korean="´°4»" />
+	<block key="hk_0_1_0110_Request_Text" korea_korean="9ÖÜÂ " />
+	<block key="hk_0_1_0110_Accepted_Text" korea_korean="tÇð· " />
+	<block key="hk_0_1_0110_Ongoing_Text" korea_korean="9ÖÜÂ " />
+	<block key="hk_0_1_0110_Complete_Text" korea_korean="€¬@Ç " />
+	<block key="hk_0_1_0111_Title" korea_korean="ÀÉXÕ4»d³DÇ " />
+	<block key="hk_0_1_0111_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0111_Request_Text" korea_korean="õ¬Ù³»ÀÉ " />
+	<block key="hk_0_1_0111_Accepted_Text" korea_korean="T»" />
+	<block key="hk_0_1_0111_Ongoing_Text" korea_korean="LÇ?" />
+	<block key="hk_0_1_0111_Complete_Text" korea_korean="4»¬Àˆ× " />
+	<block key="hk_0_1_0112_Title" korea_korean="ÑÅÇ€· " />
+	<block key="hk_0_1_0112_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0112_Request_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0112_Accepted_Text" korea_korean="´Æ¼`Õ " />
+	<block key="hk_0_1_0112_Ongoing_Text" korea_korean="DÅÁÉ " />
+	<block key="hk_0_1_0112_Complete_Text" korea_korean="à¬Ù¹$±." />
+	<block key="hk_0_1_0113_Title" korea_korean="ÓxºXÇ " />
+	<block key="hk_0_1_0113_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0113_Request_Text_attach_0" korea_korean="¬¹Â¸|·”² " />
+	<block key="hk_0_1_0113_Request_Text_attach_1" korea_korean="¼\¸¤ÂÐÅŒ¬ " />
+	<block key="hk_0_1_0113_Accepted_Text" korea_korean="à¬Ù¹$±." />
+	<block key="hk_0_1_0113_Ongoing_Text" korea_korean="$ÁÈ¹ " />
+	<block key="hk_0_1_0113_Complete_Text" korea_korean="¬¹Â¸|¹ " />
+	<block key="fr_0_1_0001_Title" korea_korean="(Ç±¤ÂXÇ " />
+	<block key="fr_0_1_0001_RewarderDesc" korea_korean="" />
+	<block key="fr_0_1_0001_Request_Text" korea_korean="tÇ½Ê " />
+	<block key="fr_0_1_0001_Accepted_Text" korea_korean="Ä¬Á " />
+	<block key="fr_0_1_0001_Ongoing_Text" korea_korean="tÇ½Ê " />
+	<block key="fr_0_1_0001_Complete_Text" korea_korean="TÆ”²" />
+	<block key="fr_0_1_0002_Title" korea_korean="ÈÀ\¸´Æ " />
+	<block key="fr_0_1_0002_RewarderDesc" korea_korean="ÂÁ " />
+	<block key="fr_0_1_0002_Request_Text" korea_korean="LÅä²ÜÂ<Õ " />
+	<block key="fr_0_1_0002_Accepted_Text" korea_korean="à¬Ù¹$±." />
+	<block key="fr_0_1_0002_Ongoing_Text" korea_korean="LÅä²ÜÂ<Õ " />
+	<block key="fr_0_1_0002_Complete_Text" korea_korean="4»¨Â " />
+	<block key="fr_0_1_0003_Title" korea_korean="‰½@ÇÉÀ " />
+	<block key="fr_0_1_0003_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="fr_0_1_0003_Request_Text" korea_korean="ø­¸ÀÉ," />
+	<block key="fr_0_1_0003_Accepted_Text" korea_korean="`×," />
+	<block key="fr_0_1_0003_Ongoing_Text" korea_korean="ø­¸ÀÉ," />
+	<block key="fr_0_1_0003_Complete_Text" korea_korean="mÐmÐmÐ," />
+	<block key="fr_0_1_0004_Title" korea_korean="xÔx¹ÉÀ " />
+	<block key="fr_0_1_0004_RewarderDesc" korea_korean="È¹•¼¬À " />
+	<block key="fr_0_1_0004_Request_Text" korea_korean="ÉÓ”¼\Õ " />
+	<block key="fr_0_1_0004_Accepted_Text" korea_korean="D°QÇ& XÇÝÂÈ¹•¼tÇ|·," />
+	<block key="fr_0_1_0004_Ongoing_Text" korea_korean="ÉÓ”¼\Õ " />
+	<block key="fr_0_1_0004_Complete_Text" korea_korean="tÇŒ¬ " />
+	<block key="fr_0_1_0005_Title" korea_korean="P´ " />
+	<block key="fr_0_1_0005_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="fr_0_1_0005_Request_Text" korea_korean="ÄÖ," />
+	<block key="fr_0_1_0005_Accepted_Text" korea_korean="ø­˜·Ä³ " />
+	<block key="fr_0_1_0005_Ongoing_Text" korea_korean="ÄÖ," />
+	<block key="fr_0_1_0005_Complete_Text" korea_korean="´ÅÁ " />
+	<block key="fr_0_1_0006_Title" korea_korean="0®µÅXÇ " />
+	<block key="fr_0_1_0006_RewarderDesc" korea_korean="" />
+	<block key="fr_0_1_0006_Request_Text" korea_korean="tÇÈ " />
+	<block key="fr_0_1_0006_Accepted_Text" korea_korean="" />
+	<block key="fr_0_1_0006_Ongoing_Text" korea_korean="tÇÈ " />
+	<block key="fr_0_1_0006_Complete_Text" korea_korean="Âà¬ˆÕ$±." />
+	<block key="fr_0_1_0007_Title" korea_korean="lÐ\¸°ÆXÇ " />
+	<block key="fr_0_1_0007_RewarderDesc" korea_korean="" />
+	<block key="fr_0_1_0007_Request_Text" korea_korean="tÇ " />
+	<block key="fr_0_1_0007_Accepted_Text" korea_korean="<ÇLÇ," />
+	<block key="fr_0_1_0007_Ongoing_Text" korea_korean="tÇ " />
+	<block key="fr_0_1_0007_Complete_Text" korea_korean="ù²àÂXÇ " />
+	<block key="fr_0_1_0008_Title" korea_korean="0®µÅ " />
+	<block key="fr_0_1_0008_RewarderDesc" korea_korean="" />
+	<block key="fr_0_1_0008_Request_Text" korea_korean="ÐÓÈÕ " />
+	<block key="fr_0_1_0008_Accepted_Text" korea_korean="ù²àÂÐÅŒ¬ " />
+	<block key="fr_0_1_0008_Ongoing_Text" korea_korean="ÐÓÈÕ " />
+	<block key="fr_0_1_0008_Complete_Text" korea_korean="˜Ç " />
+	<block key="SF_0_1_0060_Title" korea_korean="G" />
+	<block key="SF_0_1_0060_RewarderDesc" korea_korean="G" />
+	<block key="SF_0_1_0060_Request_Text" korea_korean="üÈÀ¼ÐÅ " />
+	<block key="SF_0_1_0060_Accepted_Text" korea_korean="˜×´°8Á”Æ!" />
+	<block key="SF_0_1_0060_Ongoing_Text" korea_korean="¾|·0® " />
+	<block key="SF_0_1_0060_Complete_Text" korea_korean="•ÍXÕiÕÈ²ä²~" />
+	<block key="SF_0_1_0061_Title" korea_korean="G" />
+	<block key="SF_0_1_0061_RewarderDesc" korea_korean="G" />
+	<block key="SF_0_1_0061_Request_Text" korea_korean="N" />
+	<block key="SF_0_1_0061_Accepted_Text" korea_korean="1Áõ¬DÇ " />
+	<block key="SF_0_1_0061_Ongoing_Text" korea_korean="8®ä´tÇ0®”² " />
+	<block key="SF_0_1_0061_Complete_Text" korea_korean="•ÍXÕiÕÈ²ä²~" />
+	<block key="SF_0_1_0062_Title" korea_korean="G" />
+	<block key="SF_0_1_0062_RewarderDesc" korea_korean="G" />
+	<block key="SF_0_1_0062_Request_Text" korea_korean="G" />
+	<block key="SF_0_1_0062_Accepted_Text" korea_korean="õ¬©¬~" />
+	<block key="SF_0_1_0062_Ongoing_Text" korea_korean="©º\Ô”² " />
+	<block key="SF_0_1_0062_Complete_Text" korea_korean="•ÍXÕiÕÈ²ä²~" />
+	<block key="hk_0_1_0114_Title" korea_korean="(Ç±¤ÂXÇ " />
+	<block key="hk_0_1_0114_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0114_Request_Text" korea_korean="¼\À " />
+	<block key="hk_0_1_0114_Accepted_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0114_Ongoing_Text" korea_korean="QÇ?" />
+	<block key="hk_0_1_0114_Complete_Text" korea_korean="QÇ?" />
+	<block key="hk_0_1_0115_Title" korea_korean="´Å`´ " />
+	<block key="hk_0_1_0115_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0115_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0115_Accepted_Text" korea_korean="˜Ç " />
+	<block key="hk_0_1_0115_Ongoing_Text" korea_korean="P»ÀÉ?" />
+	<block key="hk_0_1_0115_Complete_Text" korea_korean="P»ÀÉ?" />
+	<block key="hk_0_1_0116_Title" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0116_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0116_Request_Text" korea_korean="ÐÆ˜· " />
+	<block key="hk_0_1_0116_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0116_Ongoing_Text" korea_korean="DÅ," />
+	<block key="hk_0_1_0116_Complete_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0117_Title" korea_korean="Æ " />
+	<block key="hk_0_1_0117_RewarderDesc" korea_korean="HÅp³t¹ " />
+	<block key="hk_0_1_0117_Request_Text" korea_korean="ü­)¼ÐÅ " />
+	<block key="hk_0_1_0117_Accepted_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0117_Ongoing_Text" korea_korean="DÅÈ²& ±”²?" />
+	<block key="hk_0_1_0117_Complete_Text" korea_korean="DÅÈ²& ±”²?" />
+	<block key="hk_0_1_0118_Title" korea_korean="tÇ Ç " />
+	<block key="hk_0_1_0118_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0118_Request_Text" korea_korean="4×," />
+	<block key="hk_0_1_0118_Accepted_Text" korea_korean="" />
+	<block key="hk_0_1_0118_Ongoing_Text" korea_korean="P×LÇ& ø­ " />
+	<block key="hk_0_1_0118_Complete_Text" korea_korean="P×LÇ& ø­ " />
+	<block key="hk_0_1_0119_Title" korea_korean=" ÂÐÅ " />
+	<block key="hk_0_1_0119_RewarderDesc" korea_korean="¨ºØÕ" />
+	<block key="hk_0_1_0119_Request_Text" korea_korean="ø­ì·à¬ " />
+	<block key="hk_0_1_0119_Accepted_Text" korea_korean="˜×´°Á " />
+	<block key="hk_0_1_0119_Ongoing_Text" korea_korean="\Æ " />
+	<block key="hk_0_1_0119_Complete_Text" korea_korean="\Æ " />
+	<block key="hk_0_1_0120_Title" korea_korean="tÇ|Å0®|¹ " />
+	<block key="hk_0_1_0120_RewarderDesc" korea_korean="¨ºØÕ" />
+	<block key="hk_0_1_0120_Request_Text" korea_korean="\ÍEÅtÇ|Å& 0®Ï® " />
+	<block key="hk_0_1_0120_Accepted_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0120_Ongoing_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0120_Complete_Text" korea_korean="äÎÛÕ!" />
+	<block key="hk_0_1_0121_Title" korea_korean="È Á " />
+	<block key="hk_0_1_0121_RewarderDesc" korea_korean="HÅp³t¹ " />
+	<block key="hk_0_1_0121_Request_Text" korea_korean="ÂÁÀ\Õ " />
+	<block key="hk_0_1_0121_Accepted_Text" korea_korean="T» " />
+	<block key="hk_0_1_0121_Ongoing_Text" korea_korean="& ¶ " />
+	<block key="hk_0_1_0121_Complete_Text" korea_korean="& ¶ " />
+	<block key="hk_0_1_0121_1_Title" korea_korean="\ÍÄÖ”² " />
+	<block key="hk_0_1_0121_1_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0121_1_Request_Text" korea_korean="ø­˜·," />
+	<block key="hk_0_1_0121_1_Accepted_Text" korea_korean="d³¼¼|·," />
+	<block key="hk_0_1_0121_1_Ongoing_Text" korea_korean="|Ç¼ " />
+	<block key="hk_0_1_0121_1_Complete_Text" korea_korean="|Ç¼ " />
+	<block key="hk_0_1_0122_Title" korea_korean="" />
+	<block key="hk_0_1_0122_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0122_Request_Text" korea_korean="tÇˆ¼ÐÅ " />
+	<block key="hk_0_1_0122_Accepted_Text" korea_korean="0®ŒÖ" />
+	<block key="hk_0_1_0122_Ongoing_Text" korea_korean="tÇ¸Œ¬ " />
+	<block key="hk_0_1_0122_Complete_Text" korea_korean="tÇ¸Œ¬ " />
+	<block key="hk_0_1_0123_Title" korea_korean="m­ÈÀ " />
+	<block key="hk_0_1_0123_RewarderDesc" korea_korean="´°4»" />
+	<block key="hk_0_1_0123_Request_Text" korea_korean="tÇ " />
+	<block key="hk_0_1_0123_Accepted_Text" korea_korean="ŒÁ8»tÇ " />
+	<block key="hk_0_1_0123_Ongoing_Text" korea_korean="[" />
+	<block key="hk_0_1_0123_Complete_Text" korea_korean="[" />
+	<block key="hk_0_1_0124_Title" korea_korean="ÂÁÀ\Õ " />
+	<block key="hk_0_1_0124_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0124_Request_Text" korea_korean="m­ÈÀ”² " />
+	<block key="hk_0_1_0124_Accepted_Text" korea_korean="" />
+	<block key="hk_0_1_0124_Ongoing_Text" korea_korean="P»ÀÉ?" />
+	<block key="hk_0_1_0124_Complete_Text" korea_korean="P»ÀÉ?" />
+	<block key="hk_0_1_0125_Title" korea_korean="[¾XÇ " />
+	<block key="hk_0_1_0125_RewarderDesc" korea_korean="àÂá¸ " />
+	<block key="hk_0_1_0125_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0125_Accepted_Text" korea_korean="ø­ü· " />
+	<block key="hk_0_1_0125_Ongoing_Text" korea_korean="DÅ," />
+	<block key="hk_0_1_0125_Complete_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0126_Title" korea_korean="XÇxÆXÇ " />
+	<block key="hk_0_1_0126_RewarderDesc" korea_korean="õ¬üÈØ²XÇ " />
+	<block key="hk_0_1_0126_Request_Text" korea_korean="DÅ4»¼Ò " />
+	<block key="hk_0_1_0126_Accepted_Text" korea_korean="ÐÅtÇ," />
+	<block key="hk_0_1_0126_Ongoing_Text" korea_korean="´Å8º˜°& [" />
+	<block key="hk_0_1_0126_Complete_Text" korea_korean="´Å8º˜°& [" />
+	<block key="hk_0_1_0127_Title" korea_korean="¬tÇ " />
+	<block key="hk_0_1_0127_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0127_Request_Text" korea_korean="m­ÈÀ& Ä³œ°tÇ”Æ?" />
+	<block key="hk_0_1_0127_Accepted_Text" korea_korean="ä²LÇÐÅ " />
+	<block key="hk_0_1_0127_Ongoing_Text" korea_korean="[" />
+	<block key="hk_0_1_0127_Complete_Text" korea_korean="[" />
+	<block key="hk_0_1_0128_Title" korea_korean=" ÂÐÅ " />
+	<block key="hk_0_1_0128_RewarderDesc" korea_korean="¨ºØÕ" />
+	<block key="hk_0_1_0128_Request_Text" korea_korean="\Íü­ " />
+	<block key="hk_0_1_0128_Accepted_Text" korea_korean="˜×´°Á " />
+	<block key="hk_0_1_0128_Ongoing_Text" korea_korean="\Æ " />
+	<block key="hk_0_1_0128_Complete_Text" korea_korean="\Æ " />
+	<block key="hk_0_1_0129_Title" korea_korean="tÇ|Å0®|¹ " />
+	<block key="hk_0_1_0129_RewarderDesc" korea_korean="¨ºØÕ" />
+	<block key="hk_0_1_0129_Request_Text" korea_korean="\ÍEÅtÇ|Å& 0®Ï® " />
+	<block key="hk_0_1_0129_Accepted_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0129_Ongoing_Text" korea_korean="´Å," />
+	<block key="hk_0_1_0129_Complete_Text" korea_korean="äÎÛÕ!" />
+	<block key="hk_0_1_0130_Title" korea_korean="m­ÈÀ " />
+	<block key="hk_0_1_0130_RewarderDesc" korea_korean="õ¬‘Ç " />
+	<block key="hk_0_1_0130_Request_Text" korea_korean="ÂÁÀ\Õ " />
+	<block key="hk_0_1_0130_Accepted_Text" korea_korean="T» " />
+	<block key="hk_0_1_0130_Ongoing_Text" korea_korean="" />
+	<block key="hk_0_1_0130_Complete_Text" korea_korean="" />
+	<block key="hk_0_1_0130_1_Title" korea_korean="m­ÈÀ " />
+	<block key="hk_0_1_0130_1_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0130_1_Request_Text" korea_korean="´Å`´XÇ " />
+	<block key="hk_0_1_0130_1_Accepted_Text" korea_korean="e×," />
+	<block key="hk_0_1_0130_1_Ongoing_Text" korea_korean="äÎÉÕ!" />
+	<block key="hk_0_1_0130_1_Complete_Text" korea_korean="äÎÉÕ!" />
+	<block key="hk_0_1_0131_Title" korea_korean="´Å`´ÐÅ " />
+	<block key="hk_0_1_0131_RewarderDesc" korea_korean="" />
+	<block key="hk_0_1_0131_Request_Text" korea_korean="tÇˆ¼ÐÅ " />
+	<block key="hk_0_1_0131_Accepted_Text" korea_korean="0®ŒÖ" />
+	<block key="hk_0_1_0131_Ongoing_Text" korea_korean="4»," />
+	<block key="hk_0_1_0131_Complete_Text" korea_korean="4»," />
+	<block key="hk_0_1_0132_Title" korea_korean="a×ÖDÇ " />
+	<block key="hk_0_1_0132_RewarderDesc" korea_korean="ÄÉ¬¹XÇ " />
+	<block key="hk_0_1_0132_Request_Text" korea_korean="È¹˜² " />
+	<block key="hk_0_1_0132_Accepted_Text" korea_korean="$ÁÈ¹ " />
+	<block key="hk_0_1_0132_Ongoing_Text" korea_korean="ø­ì·È²L® " />
+	<block key="hk_0_1_0132_Complete_Text" korea_korean="È¹˜² " />
+	<block key="hk_0_1_0133_Title" korea_korean="ÝÀtÈÇ " />
+	<block key="hk_0_1_0133_RewarderDesc" korea_korean="ÜÂ@± " />
+	<block key="hk_0_1_0133_Request_Text" korea_korean="" />
+	<block key="hk_0_1_0133_Accepted_Text" korea_korean="\Õ " />
+	<block key="hk_0_1_0133_Ongoing_Text" korea_korean="²," />
+	<block key="hk_0_1_0133_Complete_Text" korea_korean="²," />
+	<block key="hk_0_1_0134_Title" korea_korean="a×ÖÀ­XÇ " />
+	<block key="hk_0_1_0134_RewarderDesc" korea_korean="ÜÂ@± " />
+	<block key="hk_0_1_0134_Request_Text" korea_korean="´Å8º," />
+	<block key="hk_0_1_0134_Accepted_Text" korea_korean="„®EÅ!" />
+	<block key="hk_0_1_0134_Ongoing_Text" korea_korean="tÇ " />
+	<block key="hk_0_1_0134_Complete_Text" korea_korean="XÕDÅ& Ä³@ÆüÈTÁÁ " />
+	<block key="hk_0_1_0135_Title" korea_korean="ÈÜÂtÎ" />
+	<block key="hk_0_1_0135_RewarderDesc" korea_korean="ÜÂ@± " />
+	<block key="hk_0_1_0135_Request_Text" korea_korean="´ÅTÊ " />
+	<block key="hk_0_1_0135_Accepted_Text" korea_korean="à¬Ù¹µÂÈ²ä²." />
+	<block key="hk_0_1_0135_Ongoing_Text" korea_korean="‡º " />
+	<block key="hk_0_1_0135_Complete_Text" korea_korean="‡º " />
+</blocks>

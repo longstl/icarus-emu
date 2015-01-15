@@ -1,0 +1,115 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="FM_000_0000_name" korean="General Pet order" />
+	<block key="FM_000_0000_Description" korean="General Class Fellow in order to be transformed\nYou can transform a Fellow of the character level than just pets, including sub-grade.\n\n\u003cIt_G\u003e right-click and then transformed into a pet that you want to use the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0001_name" korean="Elite Pet order" />
+	<block key="FM_000_0001_Description" korean="Orders that can transform the Elite Class Fellow\nYou can transform a Fellow of the character level than just pets, including sub-grade.\n\n\u003cIt_G\u003e right-click and then transformed into a pet that you want to use the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0002_name" korean="Hero Pet order" />
+	<block key="FM_000_0002_Description" korean="Orders that can transform the hero rating Fellow\nYou can transform a Fellow of the character level than just pets, including sub-grade.\n\n\u003cIt_G\u003e right-click and then transformed into a pet that you want to use the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0014_name" korean="Legend Pet order" />
+	<block key="FM_000_0014_Description" korean="Orders that can transform the legendary grade Fellow\nYou can transform a Fellow of the character level than just pets, including sub-grade.\n\n\u003cIt_G\u003e right-click and then transformed into a pet that you want to use the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0003_name" korean="Exergy grown hero Pet order" />
+	<block key="FM_000_0003_Description" korean="Orders that can transform the hero rating Fellow\nYou can transform a Fellow of the character level than just pets, including sub-grade.\n\n\u003cIt_G\u003e right-click and then transformed into a pet that you want to use the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0004_name" korean="Level 25 Pet order" />
+	<block key="FM_000_0004_Description" korean="1 ~ 25Lv pelrowooeul is available to the general grade Fellow in which the order can be modified.\nFellow want to use, then right-click transformed into fat\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - change to fellow pet is not possible to change back to the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0005_name" korean="Level 25 Pet order" />
+	<block key="FM_000_0005_Description" korean="1 ~ 25Lv pelrowooeul can be used to Elite Class Fellow in which orders can be modified.\nFellow want to use, then right-click transformed into fat\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - change to fellow pet is not possible to change back to the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0006_name" korean="Level 30 Pet order" />
+	<block key="FM_000_0006_Description" korean="1 ~ 30Lv pelrowooeul is available to the general grade Fellow in which the order can be modified.\nFellow want to use, then right-click transformed into fat\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - change to fellow pet is not possible to change back to the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0007_name" korean="Level 30 Pet order" />
+	<block key="FM_000_0007_Description" korean="1 ~ 30Lv pelrowooeul can be used to Elite Class Fellow in which orders can be modified.\nFellow want to use, then right-click transformed into fat\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - change to fellow pet is not possible to change back to the Fellows \u003c/ It_G\u003e" />
+	<block key="FM_000_0008_name" korean="Level 30 Pet order" />
+	<block key="FM_000_0008_Description" korean="1 ~ 30Lv pelrowooeul can be used to grade a fellow hero who can transform into order.\nFellow want to use and then transformed into a pet / Fellow form, right-click\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - change to fellow pet is not possible to change back to the Fellows \u003c/ It_G\u003e" />
+	<block key="SF1_0_000_0000_name" korean="10 levels of general bonginseok" />
+	<block key="SF1_0_000_0000_Description" korean="1 ~ 10Lv pelrowooeul can be used in the general rating Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="SF1_0_000_0001_name" korean="Elite bonginseok" />
+	<block key="SF1_0_000_0001_Description" korean="Bonginseok that could seal the Elite Class Fellow\nOnly fellows can be sealed below the level of the character, including the sub-grade.\n\n\u003cIt_G\u003e right click and use the Fellows / pet to seal \u003c/ It_G\u003e\n\u003cIt_G\u003e Sealed Fellow equipment options are given, characteristic force increased \u003c/ It_G\u003e\n\u003cIt_G\u003e once again unseal a sealed non-Fellow \u003c/ It_G\u003e" />
+	<block key="SF1_1_000_0000_name" korean="Hero bonginseok" />
+	<block key="SF1_1_000_0000_Description" korean="Bonginseok that could seal the Hero Class Fellow\nOnly fellows can be sealed below the level of the character, including the sub-grade.\n\n\u003cIt_G\u003e right click and use the Fellows / pet to seal \u003c/ It_G\u003e\n\u003cIt_G\u003e Sealed Fellow equipment options are given, characteristic force increased \u003c/ It_G\u003e\n\u003cIt_G\u003e once again unseal a sealed non-Fellow \u003c/ It_G\u003e" />
+	<block key="SF1_4_000_0000_name" korean="Legend bonginseok" />
+	<block key="SF1_4_000_0000_Description" korean="Bonginseok that could seal the legendary grade Fellow\nOnly fellows can be sealed below the level of the character, including the sub-grade.\n\n\u003cIt_G\u003e right click and use the Fellows / pet to seal \u003c/ It_G\u003e\n\u003cIt_G\u003e Sealed Fellow equipment options are given, characteristic force increased \u003c/ It_G\u003e\n\u003cIt_G\u003e once again unseal a sealed non-Fellow \u003c/ It_G\u003e" />
+	<block key="SF1_1_000_0001_name" korean="Level 40 General bonginseok" />
+	<block key="SF1_1_000_0001_Description" korean="1 ~ 40Lv pelrowooeul can be used in the general rating Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="SF1_1_000_0002_name" korean="50 Level General bonginseok" />
+	<block key="SF1_1_000_0002_Description" korean="1 ~ 50Lv pelrowooeul can be used in the general rating Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="SF1_2_000_0000_name" korean="20 levels, general bonginseok" />
+	<block key="SF1_2_000_0000_Description" korean="1 ~ 20Lv pelrowooeul can be used in the general rating Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="SF1_2_000_0001_name" korean="25 levels bonginseok" />
+	<block key="SF1_2_000_0001_Description" korean="1 ~ 25Lv pelrowooeul that can be used to Elite Class Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="SF1_3_000_0000_name" korean="30 levels of general bonginseok" />
+	<block key="SF1_3_000_0000_Description" korean="1 ~ 30Lv pelrowooeul can be used in the general rating Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="SF1_3_000_0001_name" korean="30 levels bonginseok" />
+	<block key="SF1_3_000_0001_Description" korean="1 ~ 30Lv pelrowooeul can be used in the general rating Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="FM_000_9000_name" korean="Experience: 20 Level Pet order" />
+	<block key="FM_000_9000_Description" korean="1 ~ 20Lv pelrowooeul is available to the general grade Fellow in which the order can be modified.\nFellow want to use, then right-click transformed into fat\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - change to fellow pet is not possible to change back to the Fellows \u003c/ It_G\u003e" />
+	<block key="SF1_1_000_9000_name" korean="Experience: 20 Level bonginseok" />
+	<block key="SF1_1_000_9000_Description" korean="1 ~ 30Lv pelrowooeul can be used in the general rating Fellow in bonginseok be sealed.\n(Only the character level or less)\n\n\u003cIt_G\u003e - only equalize the level and grade of Fellow is available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Sealed Fellow equipment options are granted, the characteristic power increase \u003c/ It_G\u003e\n\u003cIt_G\u003e - once again unseal a sealed Fellow is unavailable \u003c/ It_G\u003e" />
+	<block key="FM_000_0009_Name" korean="General Fellow order" />
+	<block key="FM_000_0009_Description" korean="General Class Fellow in order to be transformed\nYou can transform into petman Fellow of character, including the sub-grade level or lower.\n\n\u003cIt_G\u003e right click and use the pet you want to transform into a fellow \u003c/ It_G\u003e" />
+	<block key="FM_000_0011_Name" korean="Elite Fellow order" />
+	<block key="FM_000_0011_Description" korean="Orders that can transform the Elite Class Fellow\nYou can transform into petman Fellow of character, including the sub-grade level or lower.\n\n\u003cIt_G\u003e right click and use the pet you want to transform into a fellow \u003c/ It_G\u003e" />
+	<block key="FM_000_0012_Name" korean="Fellow Heroes order" />
+	<block key="FM_000_0012_Description" korean="Orders that can transform the hero rating Fellow\nYou can transform into petman Fellow of character, including the sub-grade level or lower.\n\n\u003cIt_G\u003e right click and use the pet you want to transform into a fellow \u003c/ It_G\u003e" />
+	<block key="FM_000_0013_Name" korean="Fellow legend orders" />
+	<block key="FM_000_0013_Description" korean="Orders that can transform the legendary grade Fellow\nYou can transform into petman Fellow of character, including the sub-grade level or lower.\n\n\u003cIt_G\u003e right click and use the pet you want to transform into a fellow \u003c/ It_G\u003e" />
+	<block key="FM_000_0010_Name" korean="Pet variations items (test)" />
+	<block key="FM_000_0010_Description" korean="The test for the item to be transformed into a pet from a fellow state." />
+	<block key="SF1_1_000_0003_Name" korean="Exergy grown hero bonginseok" />
+	<block key="SF1_1_000_0003_Description" korean="Bonginseok that could seal the Hero Class Fellow\nOnly fellows can be sealed below the level of the character, including the sub-grade.\n\n\u003cIt_G\u003e right click and use the Fellows / pet to seal \u003c/ It_G\u003e\n\u003cIt_G\u003e Sealed Fellow equipment options are given, characteristic force increased \u003c/ It_G\u003e\n\u003cIt_G\u003e once again unseal a sealed non-Fellow \u003c/ It_G\u003e" />
+	<block key="IT_FE_UF_0000_Name" korean="Elite unseal Order seats" />
+	<block key="IT_FE_UF_0000_Description" korean="Order to unseal the fellow that is sealed seats\nOnly sealed fellow Elite is available below.\n\u003cO_Y\u003e is registered to unseal City, Fellow library of pet. \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Fellow million below the level of the character can be sealed off \u003c/ It_G\u003e" />
+	<block key="IT_FE_UF_0001_Name" korean="Hero unseal Order seats" />
+	<block key="IT_FE_UF_0001_Description" korean="Order to unseal the hero is sealed Fellow seats\nOnly sealed Fellow of Heroes is available below.\n\u003cO_Y\u003e is registered to unseal City, Fellow library of pet. \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Fellow million below the level of the character can be sealed off \u003c/ It_G\u003e" />
+	<block key="CA_FE_UF_0000_Name" korean="Elite unseal Order seats" />
+	<block key="CA_FE_UF_0000_Description" korean="Order to unseal the fellow that is sealed seats\nOnly sealed fellow Elite is available below.\n\u003cO_Y\u003e is registered to unseal City, Fellow library of pet. \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Fellow million below the level of the character can be sealed off \u003c/ It_G\u003e" />
+	<block key="CA_FE_UF_0001_Name" korean="Hero unseal Order seats" />
+	<block key="CA_FE_UF_0001_Description" korean="Order to unseal the hero is sealed Fellow seats\nOnly sealed Fellow of Heroes is available below.\n\u003cO_Y\u003e is registered to unseal City, Fellow library of pet. \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e\n\u003cIt_G\u003e - Fellow million below the level of the character can be sealed off \u003c/ It_G\u003e" />
+	<block key="IT_FE_EF_0000_Name" korean="Elite bonginseok extraction rod" />
+	<block key="IT_FE_EF_0000_Description" korean="Fellow extracted with elite which can extract bonginseok rod attached to the item it is possible only Fellows of elite below.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="IT_FE_EF_0001_Name" korean="Ahkeron elite bonginseok extraction rod" />
+	<block key="IT_FE_EF_0001_Description" korean="Fellow extracted with elite which can extract bonginseok rod attached to the item it is possible only Fellows of elite below.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="IT_FE_EF_0002_Name" korean="Elite bonginseok extraction rod III" />
+	<block key="IT_FE_EF_0002_Description" korean="Elite bonginseok extraction rod III" />
+	<block key="IT_FE_EF_0003_Name" korean="Elite IV bonginseok extraction rod" />
+	<block key="IT_FE_EF_0003_Description" korean="Elite IV bonginseok extraction rod" />
+	<block key="IT_FE_EF_0004_Name" korean="Elite bonginseok extraction rod V" />
+	<block key="IT_FE_EF_0004_Description" korean="Elite bonginseok extraction rod V" />
+	<block key="IT_FE_EF_0005_Name" korean="Hero bonginseok extraction rod" />
+	<block key="IT_FE_EF_0005_Description" korean="Bonginseok fellow heroes mounted on items that can be extracted only by extracting rods Fellow of Heroes is available below.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="IT_FE_EF_0006_Name" korean="Ahkeron hero bonginseok extraction rod" />
+	<block key="IT_FE_EF_0006_Description" korean="Bonginseok fellow heroes mounted on items that can be extracted only by extracting rods Fellow of Heroes is available below.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="IT_FE_EF_0007_Name" korean="Hero III bonginseok extraction rod" />
+	<block key="IT_FE_EF_0007_Description" korean="Hero III bonginseok extraction rod" />
+	<block key="IT_FE_EF_0008_Name" korean="Heroes IV bonginseok extraction rod" />
+	<block key="IT_FE_EF_0008_Description" korean="Heroes IV bonginseok extraction rod" />
+	<block key="IT_FE_EF_0009_Name" korean="Hero bonginseok extraction rod V" />
+	<block key="IT_FE_EF_0009_Description" korean="Hero bonginseok extraction rod V" />
+	<block key="CA_FE_EF_0000_Name" korean="Blessed elite bonginseok extraction rod" />
+	<block key="CA_FE_EF_0000_Description" korean="Fellow extracted with elite which can extract bonginseok rod attached to the item it is possible only Fellows of elite below.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="CA_FE_EF_0001_Name" korean="Elite bonginseok extraction rod II" />
+	<block key="CA_FE_EF_0001_Description" korean="Elite bonginseok extraction rod II" />
+	<block key="CA_FE_EF_0002_Name" korean="Elite bonginseok extraction rod III" />
+	<block key="CA_FE_EF_0002_Description" korean="Elite bonginseok extraction rod III" />
+	<block key="CA_FE_EF_0003_Name" korean="Elite IV bonginseok extraction rod" />
+	<block key="CA_FE_EF_0003_Description" korean="Elite IV bonginseok extraction rod" />
+	<block key="CA_FE_EF_0004_Name" korean="Hero bonginseok extraction rod" />
+	<block key="CA_FE_EF_0004_Description" korean="Bonginseok fellow heroes mounted on items that can be extracted only by extracting rods Fellow of Heroes is available below.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="CA_FE_EF_0005_Name" korean="Blessed hero bonginseok extraction rod" />
+	<block key="CA_FE_EF_0005_Description" korean="Bonginseok fellow heroes mounted on items that can be extracted only by extracting rods Fellow of Heroes is available below.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="CA_FE_EF_0006_Name" korean="Hero bonginseok extraction rod II" />
+	<block key="CA_FE_EF_0006_Description" korean="Hero bonginseok extraction rod II" />
+	<block key="CA_FE_EF_0007_Name" korean="Hero III bonginseok extraction rod" />
+	<block key="CA_FE_EF_0007_Description" korean="Hero III bonginseok extraction rod" />
+	<block key="CA_FE_EF_0008_Name" korean="Heroes IV bonginseok extraction rod" />
+	<block key="CA_FE_EF_0008_Description" korean="Heroes IV bonginseok extraction rod" />
+	<block key="CA_FE_EF_0009_Name" korean="Bonginseok legend extraction rod" />
+	<block key="CA_FE_EF_0009_Description" korean="The following legend is only possible to extract Fellow legend Bon bonginseok can extract Fellow attached to the item.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+	<block key="CA_FE_EF_0010_Name" korean="Blessed legend bonginseok extraction rod" />
+	<block key="CA_FE_EF_0010_Description" korean="The following legend is only possible to extract Fellow legend Bon bonginseok can extract Fellow attached to the item.\n\u003cO_Y\u003e extraction City, 1 registered with fellow library by level of pet \u003c/ O_Y\u003e\n\u003cO_Y\u003e extraction City, strengthening and reinforcing effect is initialized value \u003c/ O_Y\u003e\n\n\u003cIt_G\u003e - only equalize the level of Fellows available \u003c/ It_G\u003e" />
+</blocks>

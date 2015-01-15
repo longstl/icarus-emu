@@ -9,7 +9,6 @@ inline void SM_UNK27(PACKET* pck)
 {
 	// áàôû
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(pck->me->id);
 	pck->writeD(pck->me->id);

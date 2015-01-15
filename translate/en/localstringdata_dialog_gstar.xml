@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="dialog_1420001_title" korean="Shadow Crow clan leader" />
+	<block key="dialog_1420001_text0" korean="Rogun you? Flight fellow just went down to crossbow attacks by pirates. Looks like serine were with us went out to scout the enemy caught." />
+	<block key="dialog_1420002_title" korean="Scouts won serine" />
+	<block key="dialog_1420002_text0" korean="Ah! Ellora praise to the goddess! You came to rescue the \u003cbr\u003e \u003cbr\u003e me." />
+	<block key="dialog_1420003_title" korean="Shenron Knights captain Paolo Lower far" />
+	<block key="dialog_1420003_text0" korean="Dark maryong Kara Shah's blown appear on earth in order to rule the turbulent flame of life. They've been sent to us are looking at the situation." />
+	<block key="dialog_1420004_title" korean="Shadow Clan synth section" />
+	<block key="dialog_1420004_text0" korean="We ended up on their way towards the castle and also Canas. Information about the situation here is not a lot. However, this will make the situation even minutes." />
+	<block key="dialog_1420005_title" korean="Shenron Knights Guardian article" />
+	<block key="dialog_1420005_text0" korean="What shall we do to prevent a dark maryong Kara Shah raise forces." />
+	<block key="dialog_1420006_title" korean="Temple Knight lesson" />
+	<block key="dialog_1420006_text0" korean="Canas and for the glory of the kingdom! Are \u003cbr\u003e \u003cbr\u003e what happened?" />
+	<block key="dialog_1420007_title" korean="Thor tooth escort article" />
+	<block key="dialog_1420007_text0" korean="Occupied by pirates who would not still know we're going to see the kingdom. Get out of here, I would have to be extended to the kingdom ..." />
+	<block key="dialog_1420008_title" korean="Lena escort article" />
+	<block key="dialog_1420008_text0" korean="I should never have to fly over here ... by yourself in haste to the kingdom's broken more delay time." />
+	<block key="dialog_1420009_title" korean="Shenron Knights won Swin Scouts" />
+	<block key="dialog_1420009_text0" korean="Nice to meet you. Deogunyo brave minutes. Concealed've been going to scout who waited at the sight of you fight the pirates." />
+</blocks>

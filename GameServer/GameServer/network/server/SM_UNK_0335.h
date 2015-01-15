@@ -8,7 +8,6 @@
 inline void SM_UNK_0335(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0xffffffff);
 	pck->PackSend(OPCODE_SM_UNK_0335);
 }

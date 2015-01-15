@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ev_0_0000_Name" korean="Gold Feather Horn" />
+	<block key="ev_0_0000_Description" korean="King of the Golden Gryphon Gold Horn is a Fellow with the mysterious ability enough to talk to a human language, its feathers are treated very ears.\n\n\u003cIt_G\u003e FINAL CBT in the event the item, is more more likely to want to gather and collect as many exchange \u003c/ It_G\u003e" />
+	<block key="ev_0_0001_Name" korean="Alliance of Light badge" />
+	<block key="ev_0_0001_Description" korean="Insignia of veterans who fought against the army drank in the past\n\u003cIt_G\u003e -. A guild event item, you can collect as much as possible to prove that the best guild of Icarus \u003c/ It_G\u003e" />
+	<block key="ev_0_0002_Name" korean="SK hynix SSD" />
+	<block key="ev_0_0002_Description" korean="SK hynix affiliate promotional items.\n\u003cIt_G\u003e - this will increase the probability of winning the more high-end SSD collected. \u003c/ It_G\u003e" />
+</blocks>

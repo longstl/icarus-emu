@@ -1,0 +1,1203 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="GMC_0" korean="Replacing the skill can not be used while moving." />
+	<block key="GMC_1" korean="Reuse is pending." />
+	<block key="GMC_2" korean="Connection with the server has been shut down." />
+	<block key="GMC_3" korean="The lack of the necessary energy." />
+	<block key="GMC_4" korean="Ned is died. Please press the numeric key 0 resurrection." />
+	<block key="GMC_5" korean="Fellows have died. Use a resurrection skill." />
+	<block key="GMC_6" korean="The wrong target." />
+	<block key="GMC_7" korean="Skill can not be used to replace the dead state." />
+	<block key="GMC_8" korean="Ned is can not be replaced." />
+	<block key="GMC_9" korean="The target selection is required." />
+	<block key="GMC_19" korean="Not a wearable level." />
+	<block key="GMC_20" korean="You can drag the item to be replaced." />
+	<block key="GMC_21" korean="There is no tradable funds in one's pocket." />
+	<block key="GMC_22" korean="The item can not be disposed of." />
+	<block key="GMC_23" korean="There is no connection possible Fellow." />
+	<block key="GMC_24" korean="You can not sell an item." />
+	<block key="GMC_25" korean="Related Items is not worn." />
+	<block key="GMC_26" korean="The durability zero." />
+	<block key="GMC_27" korean="This item is not available level." />
+	<block key="GMC_28" korean="The lack of binding power." />
+	<block key="GMC_29" korean="This item is not binding." />
+	<block key="GMC_30" korean="The state can not wear the item." />
+	<block key="GMC_31" korean="You have entered exceeds the number that can be purified." />
+	<block key="GMC_32" korean="You have entered exceeds the number that can be produced." />
+	<block key="GMC_33" korean="Insufficient number of items needed." />
+	<block key="GMC_35" korean="Not a wearable work." />
+	<block key="GMC_36" korean="The wear and available stats are low." />
+	<block key="GMC_37" korean="You can not wear armor items during battle." />
+	<block key="GMC_38" korean="You can not detach the armor items during battle." />
+	<block key="GMC_39" korean="[ItemName] received the item [ItemCount] dog." />
+	<block key="GMC_40" korean="[ItemName] has deleted the item." />
+	<block key="GMC_41" korean="[ItemName] item [ItemCount] dog has been reduced." />
+	<block key="GMC_42" korean="The location does not fit to wear." />
+	<block key="GMC_43" korean="Are you sure you want to expand the slot?" />
+	<block key="GMC_44" korean="[Cost] is consumed." />
+	<block key="GMC_45" korean="Is not a suitable location." />
+	<block key="GMC_46" korean="During operation wear items / can not be replaced." />
+	<block key="GMC_47" korean="Some items are not available for a charge." />
+	<block key="GMC_48" korean="The target can not be used." />
+	<block key="GMC_49" korean="Would you like to use the [ItemName] item?" />
+	<block key="GMC_50" korean="[WeaponType] is kind of already worn." />
+	<block key="GMC_71" korean="The item can not be traded." />
+	<block key="GMC_73" korean="[Target] for: You have requested a trade. Do you accept?" />
+	<block key="GMC_100" korean="Characters with a seating area limitation mode has been applied. ([ShortcutKey])" />
+	<block key="GMC_101" korean="Characters with limited seating area mode is turned off. ([ShortcutKey])" />
+	<block key="GMC_102" korean="RTS camera mode is a place that can not be applied." />
+	<block key="GMC_139" korean="[GaugeParam] is available only when the [Value] is less than one." />
+	<block key="GMC_140" korean="Can not be increased any more levels." />
+	<block key="GMC_141" korean="Training fellows can not learn the skill." />
+	<block key="GMC_142" korean="Is the current weapon skill can not be used." />
+	<block key="GMC_143" korean="The state did not wear a weapon skill that can not be used." />
+	<block key="GMC_144" korean="[GaugeParam] can not be used enough." />
+	<block key="GMC_145" korean="[GaugeParam] can be used only gauge [Value] higher." />
+	<block key="GMC_146" korean="[GaugeParam] can be used only gauge [Value] or less." />
+	<block key="GMC_147" korean="Skill points are not enough." />
+	<block key="GMC_148" korean="The target to apply the skills are not set." />
+	<block key="GMC_149" korean="Fellow revive does not exist." />
+	<block key="GMC_150" korean="During the movement skills that are not available." />
+	<block key="GMC_151" korean="Global cooldown is in progress." />
+	<block key="GMC_152" korean="[SkillName] [TimeType] for progress." />
+	<block key="GMC_153" korean="Cooldown is in progress." />
+	<block key="GMC_154" korean="You can learn this skill slot." />
+	<block key="GMC_155" korean="There is no fellow to be replaced." />
+	<block key="GMC_156" korean="Skill can not be used while moving." />
+	<block key="GMC_157" korean="[UserName] You are in a job you can not learn the skill." />
+	<block key="GMC_158" korean="Range is too close." />
+	<block key="GMC_159" korean="The low skill level of the link." />
+	<block key="GMC_160" korean="You have to learn the skills that are linked to learning the skills first." />
+	<block key="GMC_161" korean="Accumulated skill points is low." />
+	<block key="GMC_162" korean="Transparent state is the skill or unavailable." />
+	<block key="GMC_163" korean="The target is not used in the skill's field of view." />
+	<block key="GMC_164" korean="Attacking direction is not correct." />
+	<block key="GMC_165" korean="[SkillName] skill has been activated." />
+	<block key="GMC_166" korean="The skill can not be used when the combat." />
+	<block key="GMC_167" korean="That skill is disabled when out of combat conditions." />
+	<block key="GMC_168" korean="This skill can not be used in is disabled." />
+	<block key="GMC_169" korean="The skill can be used only in transparent conditions." />
+	<block key="GMC_170" korean="A passive skill." />
+	<block key="GMC_171" korean="You can not use the distance away." />
+	<block key="GMC_172" korean="The selected destination is not applicable to the current skill state." />
+	<block key="GMC_173" korean="Distance of the target and does not fit." />
+	<block key="GMC_174" korean="The charge has been canceled." />
+	<block key="GMC_175" korean="Can not be used in the air." />
+	<block key="GMC_176" korean="You can not move while casting the skill." />
+	<block key="GMC_177" korean="Fellows are not summoned." />
+	<block key="GMC_178" korean="Fellow of the summons is not a skill." />
+	<block key="GMC_179" korean="Please select the cast area." />
+	<block key="GMC_180" korean="The target is not in sight, you can not use this skill." />
+	<block key="GMC_181" korean="Due to the obstacle, you can not use this skill." />
+	<block key="GMC_300" korean="This is not the time available." />
+	<block key="GMC_401" korean="You can not express your feelings during the flight." />
+	<block key="GMC_402" korean="The action can not be the death state." />
+	<block key="GMC_500" korean="The name is not available." />
+	<block key="GMC_501" korean="Can not generate any more characters." />
+	<block key="GMC_600" korean="/ For more than 10 seconds in the same place, only the sound output when the first move repose" />
+	<block key="GMC_601" korean="/ Old fellow into the atmosphere when replacing a three beonjae Fellow" />
+	<block key="GMC_602" korean="/ For the vitality of the fellow falls below 10%" />
+	<block key="GMC_603" korean="Press / spacebar when you collect Fellow" />
+	<block key="GMC_604" korean="/ Standby mode when you press the third button on the skills used Fellows" />
+	<block key="GMC_605" korean="When resurrected from / combat disabled" />
+	<block key="GMC_606" korean="/ When I click my fellow fellows, not more than three times in a row is" />
+	<block key="GMC_607" korean="/ Converted from when in the standby state to combat" />
+	<block key="GMC_608" korean="/ Creation skills and potential skills, such as when using a Fellow powerful skills" />
+	<block key="GMC_700" korean="Changed some items apply to re-start." />
+	<block key="GMC_701" korean="Do you want to set the options as the default?" />
+	<block key="GMC_800" korean="Dismantle the party." />
+	<block key="GMC_801" korean="Has left the party." />
+	<block key="GMC_802" korean="[Target] has invited you to join the party." />
+	<block key="GMC_803" korean="[Target] You have been refused a party invitation." />
+	<block key="GMC_804" korean="[Target] wrote withdrawal." />
+	<block key="GMC_805" korean="[Target] wrote got deported." />
+	<block key="GMC_806" korean="All players can acquire the items without restrictions." />
+	<block key="GMC_807" korean="All players take turns in order to acquire the item." />
+	<block key="GMC_808" korean="Their places hanmyeongui personnel to acquire the item." />
+	<block key="GMC_809" korean="To acquire all of the items along the way set out in item drop system." />
+	<block key="GMC_810" korean="To acquire more items along the way set out in the rare item drop system." />
+	<block key="GMC_811" korean="The acquisition in accordance with the hero or more items on the way set out in item drop system." />
+	<block key="GMC_812" korean="To acquire more items along the way set out in the legend item drop system." />
+	<block key="GMC_813" korean="Party-related information has changed." />
+	<block key="GMC_814" korean="The party was disbanded." />
+	<block key="GMC_815" korean="[Target] party's sheets were changed." />
+	<block key="GMC_816" korean="To acquire more items in accordance with the general approach set out in item drop system." />
+	<block key="GMC_817" korean="[Target] wrote joined the party / raid." />
+	<block key="GMC_818" korean="[ItemName] Would you like to participate to the dice roll for the item?" />
+	<block key="GMC_819" korean="[UserName] wrote [Number] he roll numbers." />
+	<block key="GMC_820" korean="[UserName] wrote gave up the dice roll." />
+	<block key="GMC_821" korean="Items acquired has been changed." />
+	<block key="GMC_822" korean="[Level] the level achieved." />
+	<block key="GMC_823" korean="[Target] God has been with us for a party." />
+	<block key="GMC_824" korean="[Target] wrote a support for the party.\nDo you accept?" />
+	<block key="GMC_825" korean="[Target] Ruthless Gladiator's support to the raid.\nDo you accept?" />
+	<block key="GMC_826" korean="[Target] He wrote a subpoena request. \u003cbr\u003e You accept?" />
+	<block key="GMC_827" korean=".? [Target] has watched you sure you want to apply for a boarding \u003cbr\u003e accept \u003cbr\u003e (remaining digits: [Second])" />
+	<block key="GMC_828" korean="[Target] He wrote requesting a ride. Do you accept?" />
+	<block key="GMC_829" korean="[Target] You have been refused boarding your request." />
+	<block key="GMC_830" korean="[Target] response latency of requests sent aboard God has passed." />
+	<block key="GMC_831" korean="[Target] wrote decline the invitation boarding." />
+	<block key="GMC_832" korean="[Target] response latency of sent aboard invite God has passed." />
+	<block key="GMC_850" korean="[Target] has invited you to a raid." />
+	<block key="GMC_851" korean="[Target] has applied the raid God." />
+	<block key="GMC_852" korean="Did this battle is ready?" />
+	<block key="GMC_900" korean="You do not climb the extractor in the bag." />
+	<block key="GMC_1000" korean="Ned Inman collection is possible." />
+	<block key="GMC_1001" korean="[Target] wrote start the [QuestName] escort quest. Do you accept?" />
+	<block key="GMC_1002" korean="[QuestName] the quest has been completed." />
+	<block key="GMC_1003" korean="[QuestName] The quest was unsuccessful. Cancel the quest and get back." />
+	<block key="GMC_1004" korean="[NpcName] to talk" />
+	<block key="GMC_1005" korean="[QuestName] has accepted the quest." />
+	<block key="GMC_1006" korean="[QuestName] has completed the quest." />
+	<block key="GMC_1007" korean="[QuestName] canceled the quest." />
+	<block key="GMC_1008" korean="[UserName] does not have any you can share the [QuestName] quest." />
+	<block key="GMC_1009" korean="[QuestName] quests have been shared. Do you accept?" />
+	<block key="GMC_1010" korean="The state can not do the quest." />
+	<block key="GMC_1011" korean="Please choose again the selectable items." />
+	<block key="GMC_1012" korean="The selectable items are [ItemCount] dog." />
+	<block key="GMC_2100" korean="[Target] wrote to apply for a duel.\nDo you accept?" />
+	<block key="GMC_2101" korean="[Target] filed a response to a duel." />
+	<block key="GMC_2102" korean="[Target] wrote refuse duel request." />
+	<block key="GMC_2103" korean="Response time is exceeded, the duel duel was canceled." />
+	<block key="GMC_2104" korean="The winner of the duel." />
+	<block key="GMC_2105" korean="Was defeated in a duel." />
+	<block key="GMC_2106" korean="Out of the battle area." />
+	<block key="GMC_2107" korean="[Winner] wrote a win in a duel with [Loser] s." />
+	<block key="GMC_2108" korean="Distance away, you can not apply for a duel." />
+	<block key="GMC_2109" korean="The gauntlet has been canceled." />
+	<block key="GMC_2110" korean="The target and the distance away from the duel duel was canceled." />
+	<block key="GMC_2111" korean="During the battle, you can not switch to the normal state." />
+	<block key="GMC_2112" korean="Refused to duel with us." />
+	<block key="GMC_2200" korean="[Target] The response of the hunt began." />
+	<block key="GMC_2201" korean="[Target] s is in the process of slaughter." />
+	<block key="GMC_2202" korean="[Target] You have been declared a Blood Feast." />
+	<block key="GMC_2203" korean="[Target] has been Jersey's hunt." />
+	<block key="GMC_2204" korean="[Target] The massacre's been knocked out." />
+	<block key="GMC_2205" korean="[Target] 's Blood Feast has been terminated." />
+	<block key="GMC_2206" korean="[Target] wrote was awarded a juggernaut." />
+	<block key="GMC_2207" korean="[Target] The juggernaut's been destroyed." />
+	<block key="GMC_2208" korean="To stop the hunt Bonus Streak number [Value] has increased." />
+	<block key="GMC_2209" korean="To subdue the slaughter Bonus Streak number [Value] has increased." />
+	<block key="GMC_2210" korean="Built terminate the Blood Feast Bonus Streak number [Value] has increased." />
+	<block key="GMC_2211" korean="Absolute bonus to destroy a number Streak [Value] has increased." />
+	<block key="GMC_3000" korean="Moving is disabled." />
+	<block key="GMC_3001" korean="An action beulga state." />
+	<block key="GMC_3002" korean="Horror state." />
+	<block key="GMC_4000" korean="Force has been shut down because of a connection with the same account." />
+	<block key="GMC_4001" korean="Forced by the service operation has ended." />
+	<block key="GMC_4002" korean="Was killed by a program error." />
+	<block key="GMC_4003" korean="Has been terminated due to long-term atmospheric forcing." />
+	<block key="GMC_4004" korean="Was killed by other reasons." />
+	<block key="GMC_4005" korean="Is already connected." />
+	<block key="GMC_4006" korean="Connection failed." />
+	<block key="GMC_4007" korean="Login server could not be contacted. Please log in again shortly." />
+	<block key="GMC_4008" korean="You can not connect with game server. Please log in again shortly." />
+	<block key="GMC_4009" korean="There was a problem with the connection process the order." />
+	<block key="GMC_4010" korean="The ID does not exist." />
+	<block key="GMC_4011" korean="Incorrect password." />
+	<block key="GMC_4012" korean="The block ID." />
+	<block key="GMC_4013" korean="The blocks that account." />
+	<block key="GMC_4014" korean="Not the gamers." />
+	<block key="GMC_4015" korean="An account of such a connection elsewhere." />
+	<block key="GMC_4016" korean="The DB query problem." />
+	<block key="GMC_4017" korean="The account is maximum." />
+	<block key="GMC_4018" korean="Not in connection with the main server." />
+	<block key="GMC_4019" korean="You have exceeded the maximum position limit to the number of users." />
+	<block key="GMC_4020" korean="Invalid packet." />
+	<block key="GMC_4021" korean="An unknown error has occurred." />
+	<block key="GMC_4022" korean="The channel position failed." />
+	<block key="GMC_4023" korean="The DB-related problem." />
+	<block key="GMC_4024" korean="Is the maximum number of character creation." />
+	<block key="GMC_4025" korean="A character that does not exist." />
+	<block key="GMC_4026" korean="Please enter the characters names.\n2-8 Hangul characters (US 2 to 16 characters) can be produced by" />
+	<block key="GMC_4027" korean="All numbers, special characters, geumjieo is not available.\n2-8 Hangul characters, English 4 to 16 characters, please try again." />
+	<block key="GMC_4028" korean="[Slang] Huh banned words can not be used." />
+	<block key="GMC_4029" korean="The second attempt is being downloaded." />
+	<block key="GMC_4030" korean="Not a registered World." />
+	<block key="GMC_4031" korean="Not working world." />
+	<block key="GMC_4032" korean="You have selected the same world." />
+	<block key="GMC_4033" korean="The users of the selected World saturation." />
+	<block key="GMC_4034" korean="The block users." />
+	<block key="GMC_4035" korean="Packet error has occurred." />
+	<block key="GMC_4036" korean="Systematic error has occurred." />
+	<block key="GMC_4037" korean="Login authentication server and the connection has been lost. To end the game." />
+	<block key="GMC_4038" korean="The connection with the game server has been lost. To end the game." />
+	<block key="GMC_4039" korean="The password can be 2-20 digits." />
+	<block key="GMC_4040" korean="The ID can be up to 2-20 digits." />
+	<block key="GMC_5000" korean="The argument is incorrect number (greater than)" />
+	<block key="GMC_5001" korean="The argument is incorrect number (less)" />
+	<block key="GMC_5002" korean="The command is not appropriate. Check out the large / small letter." />
+	<block key="GMC_5003" korean="The first argument is not appropriate." />
+	<block key="GMC_5004" korean="The second argument is not appropriate." />
+	<block key="GMC_5005" korean="The third argument is not appropriate." />
+	<block key="GMC_5006" korean="The second or third argument is not appropriate." />
+	<block key="GMC_6000" korean="% S (manufacturable number:% d) # production costs:% d% d Gold Silver% d Cooper" />
+	<block key="GMC_6001" korean="% S # enhance cost:% d% d Gold Silver% d Cooper # Are you sure you want to enhance the current item?" />
+	<block key="GMC_6002" korean="Would you like Silver% d% d% d Gold Cooper really learn the traits with that amount: Amount needed?" />
+	<block key="GMC_6003" korean="% S (number of tablets available:% d) # refining costs:% d% d Gold Silver Copper% d" />
+	<block key="GMC_6004" korean="% S # Sales:% d% d Gold Silver Copper% d" />
+	<block key="GMC_6005" korean="To learn the skill [BuyMoney] is required. Would you like to learn?" />
+	<block key="GMC_6006" korean="There are no items to be won!" />
+	<block key="GMC_6007" korean="You must select a reward." />
+	<block key="GMC_6008" korean="Please enter your password." />
+	<block key="GMC_6009" korean="To delete a character, please enter the [Key]." />
+	<block key="GMC_6010" korean="Please enter your password once more for your confirmation." />
+	<block key="GMC_6011" korean="Deletion of your chosen character failed." />
+	<block key="GMC_6012" korean="Deletion of your chosen character is complete." />
+	<block key="GMC_6013" korean="Press the button or after a timeout resurrection\nThe resurrection resurrection from the nearest location." />
+	<block key="GMC_6014" korean="(General / System) tab can not be deleted." />
+	<block key="GMC_6015" korean="You have died. [Time] The resurrection from the nearest place after the resurrection." />
+	<block key="GMC_6016" korean="(General / System) tab can not be deleted." />
+	<block key="GMC_6017" korean="Chat Window names can not be duplicated." />
+	<block key="GMC_6018" korean="Please enter the name of the chat window." />
+	<block key="GMC_6019" korean="Please enter a valid value." />
+	<block key="GMC_6020" korean="There is not enough material to produce a selected item." />
+	<block key="GMC_6021" korean="% S # (possession count:% d / required number:% d)" />
+	<block key="GMC_6022" korean="The items that can currently refined enough." />
+	<block key="GMC_6023" korean="[Target] Do you want to go to to?" />
+	<block key="GMC_6024" korean="There is no path to the corresponding point." />
+	<block key="GMC_6025" korean="Insufficient funds in one's pocket." />
+	<block key="GMC_6026" korean="Are you sure you want to add the airship path of the current location?" />
+	<block key="GMC_6027" korean="% S level, there is no data." />
+	<block key="GMC_6028" korean="% S level, there is no data. \u003cbr\u003e \u003cbr\u003e To end the game." />
+	<block key="GMC_6029" korean="The name is not available." />
+	<block key="GMC_6030" korean="The name is not available." />
+	<block key="GMC_6031" korean="The name is not available." />
+	<block key="GMC_6032" korean="The name is not available." />
+	<block key="GMC_6033" korean="The name is not available." />
+	<block key="GMC_6034" korean="The name is not available." />
+	<block key="GMC_6035" korean="The name is not available." />
+	<block key="GMC_6036" korean="The name is not available." />
+	<block key="GMC_6037" korean="Blank / not contain special characters / profane 2-40 available places." />
+	<block key="GMC_6038" korean="2-40 available places." />
+	<block key="GMC_6039" korean="2-8 Hangul characters, please enter the name in English 4 to 16 characters." />
+	<block key="GMC_6040" korean="Is currently being prepared." />
+	<block key="GMC_6041" korean="Are you sure you want to quit the game?" />
+	<block key="GMC_6042" korean="Are you sure you want to destroy the [$ 4ItemName $ o] item?" />
+	<block key="GMC_6043" korean="Please select an item category." />
+	<block key="GMC_6044" korean="Duplicate key exists." />
+	<block key="GMC_6045" korean="[Target] He wrote to quit the game." />
+	<block key="GMC_6046" korean="[Target] Ruthless Gladiator's connection to the game." />
+	<block key="GMC_6047" korean="[Region] found a region." />
+	<block key="GMC_6048" korean="[Target] wrote refused the invitation." />
+	<block key="GMC_6049" korean="[Target] The invitation sent God the response latency has passed." />
+	<block key="GMC_6050" korean="[Param] [ChangeValue] Reduction" />
+	<block key="GMC_6051" korean="[Param] [ChangeValue] increase" />
+	<block key="GMC_6052" korean="[BuffName] buff is applied." />
+	<block key="GMC_6053" korean="[BuffName] buff has been released." />
+	<block key="GMC_6054" korean="[Param] condition has been applied." />
+	<block key="GMC_6055" korean="[Param] condition has been released." />
+	<block key="GMC_6056" korean="[Year] [Month] [Day] [Time] [Minute] [Second]" />
+	<block key="GMC_6057" korean="[Day] [Time] [Minute] [Second]" />
+	<block key="GMC_6058" korean="Would you like to return location?" />
+	<block key="GMC_6059" korean="You can not specify a return position." />
+	<block key="GMC_6060" korean="[Name] This area was designated as a return position" />
+	<block key="GMC_6061" korean="The name can be used." />
+	<block key="GMC_6062" korean="[ItemName] items are required." />
+	<block key="GMC_6063" korean="[MonName] gave up the pursuit of monster [MyName]." />
+	<block key="GMC_6064" korean="Skill points are increased [Count]." />
+	<block key="GMC_6065" korean="You can not wear a bag. You need to clean up the items." />
+	<block key="GMC_6066" korean="[UserName] wrote [ItemName] [ItemCount] He acquired a dog." />
+	<block key="GMC_6067" korean="Bag is not empty." />
+	<block key="GMC_6068" korean="Passive skill can not be registered to a speed slot." />
+	<block key="GMC_6069" korean="[Cost] This cost is consumed.\nCan you put [CreatreName] a fellow?" />
+	<block key="GMC_6070" korean="The cost is low." />
+	<block key="GMC_6071" korean="Not a quest for the current zone." />
+	<block key="GMC_6072" korean="Complete the quest NPCs compensation is not in the current zone." />
+	<block key="GMC_6073" korean="The treatment of the resurrection sequelae [Cost] is consumed.\nAre you sure you want to treat?" />
+	<block key="GMC_6074" korean="[Param] state" />
+	<block key="GMC_6075" korean="[Param] health status" />
+	<block key="GMC_6076" korean="[Param] [ChangeValue] Reduction" />
+	<block key="GMC_6077" korean="[Param] [ChangeValue] increase" />
+	<block key="GMC_6078" korean="Is being cast." />
+	<block key="GMC_6079" korean="[GaugeParam] damage [Value] void" />
+	<block key="GMC_6080" korean="[Count] times can fight back" />
+	<block key="GMC_6081" korean="[TotalTime] seconds [DotTime] [GaugeParam] of the [Value] damage each second." />
+	<block key="GMC_6082" korean="[Time] per second [Skill] activated" />
+	<block key="GMC_6083" korean="[TotalTime] seconds [DotTime] early every [Value] of [GaugeParam] recovery" />
+	<block key="GMC_6084" korean="Was awarded the [Value]." />
+	<block key="GMC_6085" korean="We consume [Value]." />
+	<block key="GMC_6086" korean="Warehouses were deposited in [Value]." />
+	<block key="GMC_6087" korean="Has withdrawn the [Value] from the warehouse." />
+	<block key="GMC_6088" korean="All characters can be created that allow the additional generation is impossible." />
+	<block key="GMC_6089" korean="Please enter your character name" />
+	<block key="GMC_6090" korean="[Skill] do not learn the skills, you can not wear." />
+	<block key="GMC_6091" korean="To learn the skill [BuyMoney] is required. Would you like to learn?" />
+	<block key="GMC_6092" korean="You have died." />
+	<block key="GMC_6093" korean="Your [FellowName] Fellows will have died." />
+	<block key="GMC_6094" korean="[Name] wrote were killed." />
+	<block key="GMC_6095" korean="[Name] 's [FellowName] Fellows will have died." />
+	<block key="GMC_6096" korean="[Name] wrote were killed." />
+	<block key="GMC_6097" korean="[Number] once unpaid" />
+	<block key="GMC_6098" korean="[Name] 's has been the Away status." />
+	<block key="GMC_6099" korean="[Name] 's Away status has been released." />
+	<block key="GMC_6100" korean="[Param] value [ChangeValue] Reduction" />
+	<block key="GMC_6101" korean="[Param] value [ChangeValue] increase" />
+	<block key="GMC_6102" korean="Please proceed to close the message box." />
+	<block key="GMC_6103" korean="Please enter the name of a fellow change." />
+	<block key="GMC_6104" korean="Please enter a name for the user." />
+	<block key="GMC_6105" korean="[ItemName] succeeded in strengthening + [Level] is a step." />
+	<block key="GMC_6106" korean="[ItemName] failed to strengthen + [Level] is a step." />
+	<block key="GMC_6107" korean="Younghonseok succeeded in mounting." />
+	<block key="GMC_6108" korean="Younghonseok failed to mount." />
+	<block key="GMC_6109" korean="You can use only a dead target." />
+	<block key="GMC_6110" korean="1 admission to the exhibition was the scenario for the channel." />
+	<block key="GMC_6111" korean="Refused the party invitation." />
+	<block key="GMC_6112" korean="[Portal] portal has been activated." />
+	<block key="GMC_6113" korean="Location: Underground [Number] layer" />
+	<block key="GMC_6114" korean="Location: Ground [Number] layer" />
+	<block key="GMC_6115" korean="[Time] while [Param] conditions apply" />
+	<block key="GMC_6116" korean="[Time] while [Param] [ChangeValue] increase" />
+	<block key="GMC_6117" korean="[Time] while [Param] [ChangeValue] Reduction" />
+	<block key="GMC_6118" korean="The dungeon has been cleared." />
+	<block key="GMC_6119" korean="The state can not initiate a dungeon." />
+	<block key="GMC_6120" korean="During escort quest, you can not move the channel." />
+	<block key="GMC_6121" korean="You can not move a channel while it is in other actions." />
+	<block key="GMC_6122" korean="Raid refused the invitation." />
+	<block key="GMC_6123" korean="[Target] wrote refuse combat ready." />
+	<block key="GMC_6124" korean="[Target] It has been sent to the combat readiness's response time." />
+	<block key="GMC_6125" korean="The dungeon was created." />
+	<block key="GMC_6126" korean="[ItemName] the\nAre you sure you want to strengthen?" />
+	<block key="GMC_6127" korean="[ItemName] the\nAre you sure you want to extract?\n\nExtracted items \u003cfont color = \" />
+	<block key="GMC_6128" korean="In [ItemName]\nWould a blessing effect?" />
+	<block key="GMC_6129" korean="Of [ItemName]\nWould you raise your level?" />
+	<block key="GMC_6130" korean="Refused to support the party." />
+	<block key="GMC_6131" korean="Refused to support the raid." />
+	<block key="GMC_6132" korean="This option has been set arbitrarily to meet current specifications" />
+	<block key="GMC_6133" korean="[ItemName] the\nAre you sure you want to extract?\n\n[Level] step is to extract an enhanced items \u003cfont color = \" />
+	<block key="GMC_6134" korean="[ItemName] the\nAre you sure you want to extract?\n\nExtracted with \u003cfont color = \" />
+	<block key="GMC_6135" korean="[Exp] has obtained the experience." />
+	<block key="GMC_6136" korean="Did not join the party." />
+	<block key="GMC_6137" korean="Re-entry time left [Time]. Please try again later." />
+	<block key="GMC_6138" korean="[ItemName] failed to strengthen, reinforcing phase was initiated." />
+	<block key="GMC_6139" korean="[ItemName] strengthened by the failure, the item has been destroyed." />
+	<block key="GMC_6140" korean="The screenshots have been saved in the [Path] path." />
+	<block key="GMC_6141" korean="[Target] has rejected the request's summons." />
+	<block key="GMC_6142" korean="Please enter the auto prevention messages." />
+	<block key="GMC_6143" korean="\\ [Message] Please enter a \\ left a message the same." />
+	<block key="GMC_6144" korean="[Target] This was Otto's." />
+	<block key="GMC_6145" korean="[Target] wrote was not automatic." />
+	<block key="GMC_6146" korean="Auto prevention message has been sent." />
+	<block key="GMC_6147" korean="CAUTION! If you delete the recovery is not possible with all the information that disappears Fellow of the [Name]." />
+	<block key="GMC_6148" korean="The game will end in a few minutes." />
+	<block key="GMC_6149" korean="After a while waiting to move to the character." />
+	<block key="GMC_6150" korean="[ItemName] expiration time of the left [Time]." />
+	<block key="GMC_6151" korean="[ItemName] expiration time of the left [Time]." />
+	<block key="GMC_6152" korean="The period of [ItemName] has expired." />
+	<block key="GMC_6153" korean="The selection of dungeon difficulty." />
+	<block key="GMC_6155" korean="[Target] wrote the request was refused boarding." />
+	<block key="GMC_6156" korean="[Target] wrote refused an invitation aboard." />
+	<block key="GMC_6157" korean="The distance to the board requesting it far" />
+	<block key="GMC_6158" korean="The distance to the invitation aboard the far" />
+	<block key="GMC_6159" korean="Being aboard a Fellow is unavailable." />
+	<block key="GMC_6160" korean="Being aboard a Fellow is unavailable." />
+	<block key="GMC_6166" korean="Do you really want to get off the [Target]?" />
+	<block key="GMC_6167" korean="[UserName] He wrote acquire [Cost]." />
+	<block key="GMC_6168" korean="[ItemName] is\nThe item you are currently wearing.\n\nAre you sure you want to extract?" />
+	<block key="GMC_6169" korean="[ItemName] failed to strengthen." />
+	<block key="GMC_6170" korean="The actions of the other." />
+	<block key="GMC_6171" korean="The [ItemUseAction] of." />
+	<block key="GMC_6172" korean="[DungeonName] of [Grade] Are you sure you want to reset the difficulty of re-entry time?" />
+	<block key="GMC_6300" korean="Please enter the guild name." />
+	<block key="GMC_6301" korean="Please enter the greeting." />
+	<block key="GMC_6302" korean="Please enter your first name." />
+	<block key="GMC_6303" korean="Please enter the \\ Guild dismantling \\" />
+	<block key="GMC_6304" korean="[Order] first guild is empty, you .//%d first guild is empty." />
+	<block key="GMC_6305" korean="[Target] Do you agree with the guild's founding as a promoter of the founding of the guild?" />
+	<block key="GMC_6306" korean="[Target] The request has been asked in the guild guild members. Do you accept?" />
+	<block key="GMC_6307" korean="The guild was disbanded." />
+	<block key="GMC_6308" korean="[Name] had to leave the guild." />
+	<block key="GMC_6309" korean="[Name] got expelled from the guild." />
+	<block key="GMC_6310" korean="Guild Master can not leave the guild." />
+	<block key="GMC_6311" korean="[Guild] have been invited to the guild.\nDo you accept?" />
+	<block key="GMC_6312" korean="Not in a guild." />
+	<block key="GMC_6313" korean="[Name] got expelled from the guild." />
+	<block key="GMC_6314" korean="The guild was created." />
+	<block key="GMC_6315" korean="Has joined the guild." />
+	<block key="GMC_6316" korean="[Target] has been invited to the guild's." />
+	<block key="GMC_6317" korean="Refused the guild invite." />
+	<block key="GMC_6321" korean="Guild upgrade when [Value] is consumed. Would you like to upgrade \u003cbr\u003e guild?" />
+	<block key="GMC_6322" korean="Do you want to enable user registration button sentence? \u003cbr\u003e [Value] Elounda is consumed." />
+	<block key="GMC_6323" korean="Are you sure you want to change the guild mark? \u003cbr\u003e [Value] is consumed." />
+	<block key="GMC_6341" korean="The association has been created." />
+	<block key="GMC_6342" korean="[Name] the Union\nAre you sure you want to disband?" />
+	<block key="GMC_6343" korean="[Name] has been changed to the name Union." />
+	<block key="GMC_6344" korean="[Name] Guild\nAre you sure you want to expulsion from the Union?\n\nGuild is restricted deported Union 1 days." />
+	<block key="GMC_6345" korean="[Name] in the Union\nAre you sure you want to leave?\n\nIf you leave one days Union is limited." />
+	<block key="GMC_6346" korean="[Guild] Guild\nAre you sure you want to accept the association request?" />
+	<block key="GMC_6347" korean="[Target] Union has sent a message to the guild invite." />
+	<block key="GMC_6348" korean="Union refused the invitation." />
+	<block key="GMC_6349" korean="[Target] Hello, has declined the invitation to the Union." />
+	<block key="GMC_6350" korean="[Target] The response to the sender association request response latency was exceeded." />
+	<block key="GMC_6351" korean="[Guild] Guild have been subscribed to [Unite] Union." />
+	<block key="GMC_6352" korean="The association was created." />
+	<block key="GMC_6353" korean="[Guild] Guild was joining the Union." />
+	<block key="GMC_6354" korean="Not belong to the Union." />
+	<block key="GMC_6355" korean="United catered, you can invite this guild." />
+	<block key="GMC_6356" korean="Can be up to three guilds Union." />
+	<block key="GMC_6357" korean="[Name] Union was dissolved." />
+	<block key="GMC_6358" korean="[Guild] Guild has been expelled from the [Unite] Union." />
+	<block key="GMC_6359" korean="[Guild] Guild has withdraw from the [Unite] Union." />
+	<block key="GMC_6360" korean="Already belong to a union." />
+	<block key="GMC_6363" korean="Current guild name can not be used as Union name." />
+	<block key="GMC_6324" korean="Guild [Name] 's connection is made." />
+	<block key="GMC_6400" korean="There is no fellow can interbreed." />
+	<block key="GMC_6401" korean="This item is out of the family spirit soul." />
+	<block key="GMC_6402" korean="Not interbreed possible level." />
+	<block key="GMC_6403" korean="Same gender can not be bred." />
+	<block key="GMC_6404" korean="Only you can feed the hungry state." />
+	<block key="GMC_6405" korean="[Target] wrote a breeding request." />
+	<block key="GMC_6406" korean="Please put the ingredients of eggs in the slot." />
+	<block key="GMC_6407" korean="Fellows may carry only one. Fellow storage entrusted to a fellow you currently have, and then again Let the hatch." />
+	<block key="GMC_6409" korean="Not yet hungry." />
+	<block key="GMC_6410" korean="[Name] has succeeded in taming." />
+	<block key="GMC_6411" korean="Had put the [Name]." />
+	<block key="GMC_6412" korean="[Name] fellow has died." />
+	<block key="GMC_6413" korean="Fellow dumping has been canceled." />
+	<block key="GMC_6414" korean="A Fellow of the dumping." />
+	<block key="GMC_6415" korean="You can not expand any more Fellow inventory." />
+	<block key="GMC_6416" korean="Fellows are required for inventory expansion cost is low." />
+	<block key="GMC_6417" korean="The character level, you can not expand the low Fellow inventory." />
+	<block key="GMC_6418" korean="Fellow inventory has been expanded." />
+	<block key="GMC_6419" korean="There is no fellow domesticated in your library." />
+	<block key="GMC_6420" korean="You can not expand any more slots." />
+	<block key="GMC_6421" korean="Is unable to make a fellow." />
+	<block key="GMC_6422" korean="Is unable to determine the map area." />
+	<block key="GMC_6423" korean="If you lack energy fellow board is turned off." />
+	<block key="GMC_6424" korean="Energy is exhausted fellow board is turned off." />
+	<block key="GMC_6425" korean="[FellowName] Would you like to seal the fellow?\n\n\u003cFont color = \" />
+	<block key="GMC_6426" korean="[FellowName] is a Fellow of the seal is in progress." />
+	<block key="GMC_6427" korean="Would you like to transform the [FellowName] Fellow with fellow board?" />
+	<block key="GMC_6428" korean="[FellowName] is a variant of the fellows in progress." />
+	<block key="GMC_6429" korean="Are you sure you want to break the seal of [FellowName]? \u003cbr\u003e \u003cFont color = \" />
+	<block key="GMC_6430" korean="[FellowName] is a Fellow of the sealing off of progress." />
+	<block key="GMC_6431" korean="[FellowName] Would you like to transform the fellow with pets?" />
+	<block key="GMC_6432" korean="Fellow transformation is complete." />
+	<block key="GMC_6433" korean="Fellow seal is complete." />
+	<block key="GMC_6434" korean="Fellow unseal has been completed." />
+	<block key="GMC_6435" korean="Sealed option grants is complete." />
+	<block key="GMC_6436" korean="Fellow synthesis is complete." />
+	<block key="GMC_6437" korean="The options granted is in progress already sealed." />
+	<block key="GMC_6438" korean="Fellow strengthen already in progress." />
+	<block key="GMC_6439" korean="Fellow level is the maximum" />
+	<block key="GMC_6440" korean="The Fellow-level character can not be higher than the level of the seal." />
+	<block key="GMC_6441" korean="Bonginseok rating is not correct." />
+	<block key="GMC_6442" korean="Please turn off the fellow wearing items" />
+	<block key="GMC_6443" korean="Please try again in a sealed Fellow removed." />
+	<block key="GMC_6444" korean="Fellow enhance progress." />
+	<block key="GMC_6445" korean="Are you sure you want to give the option of sealing Fellow in [ItemName]?" />
+	<block key="GMC_6446" korean="Removal [Cost] The cost is consumed.\nAre you sure you want to remove [ItemName]?\nCAUTION: Removing sealed fellow will disappear." />
+	<block key="GMC_6447" korean="Fellow seal has been removed." />
+	<block key="GMC_6448" korean="There are no empty slots." />
+	<block key="GMC_6449" korean="The lower level of the character can not be strengthened further." />
+	<block key="GMC_6450" korean="A level that can not be modified by the item." />
+	<block key="GMC_6451" korean="A rating that can not be modified by the item." />
+	<block key="GMC_6452" korean="The fellow that can not be modified." />
+	<block key="GMC_6454" korean="Level or the grade of Fellow to seal the target does not match" />
+	<block key="GMC_6460" korean="The break-points remained below 10%." />
+	<block key="GMC_6500" korean="Fighter armor strong and mighty in close combat. Protect the party members at the forefront of the party and perform a role which is mainly a shield. Ability to deal with the short-range weapon also excellent." />
+	<block key="GMC_6501" korean="Priest dealing with the power of life and spirit is an important job indispensable in the party. Healing time colleague wounded or makes it out of an emergency to protect the party by giving through the protective conditions." />
+	<block key="GMC_6502" korean="Fire, Ice, offensive profession that can attack enemies using a powerful lightning. The defense is attack to knock the target before the target by weak, but strong offense. Also holds a lot of special attacks using the elements." />
+	<block key="GMC_6503" korean="Nature Description coming soon" />
+	<block key="GMC_6504" korean="Assassin Description coming soon" />
+	<block key="GMC_6600" korean="This item does not exist to strengthen." />
+	<block key="GMC_6601" korean="Upgrade Stone no." />
+	<block key="GMC_6602" korean="Enhanced index and enhanced index of the item stored can not be strengthened to enhance apart." />
+	<block key="GMC_6603" korean="You can not strengthen the level is not appropriate." />
+	<block key="GMC_6604" korean="Upgrade Stone can not be strengthened enough." />
+	<block key="GMC_6605" korean="Enhanced information available." />
+	<block key="GMC_6700" korean="Please select an item and binding decision Fellow equipment items." />
+	<block key="GMC_6701" korean="This combination has failed. Fellow slot of the power equipment items required power is less than the slot of the binding decision." />
+	<block key="GMC_6702" korean="This combination has failed. Fellow equipment item level is lower than the level required for binding." />
+	<block key="GMC_6703" korean="Fellow equipment # binding power slot:" />
+	<block key="GMC_6704" korean="Binding decision requires solidarity power slot #:" />
+	<block key="GMC_6800" korean="[SkillName] Do you want to learn the skill?" />
+	<block key="GMC_6801" korean="[SkillName] Do you want to level up your skills?" />
+	<block key="GMC_6802" korean="Are you sure you want to reset the skill?" />
+	<block key="GMC_6803" korean="The cast has been canceled." />
+	<block key="GMC_6804" korean="[SkillName] did not learn the skill." />
+	<block key="GMC_6900" korean="The target is already dead." />
+	<block key="GMC_6901" korean="Target must be in front." />
+	<block key="GMC_7000" korean="Please enter your friend's name to be registered." />
+	<block key="GMC_7001" korean="[Target] has been added as a friend wrote." />
+	<block key="GMC_7002" korean="[Target] for: Friends was released." />
+	<block key="GMC_7003" korean="Block name" />
+	<block key="GMC_7004" korean="Block memo" />
+	<block key="GMC_7005" korean="[Target] has been blocked." />
+	<block key="GMC_7006" korean="[Target] wrote was blocked off." />
+	<block key="GMC_7007" korean="[Target] has been requested to summon a response." />
+	<block key="GMC_7008" korean="[Target] wrote refused the summons request." />
+	<block key="GMC_7009" korean="[Target] response latency of requests sent to summon God has passed." />
+	<block key="GMC_8000" korean="There is not enough time to learn the skills required character level." />
+	<block key="GMC_8001" korean="There is not enough time to learn the skills necessary points." />
+	<block key="GMC_8002" korean="There is not enough time to learn the tap points sum necessary skills." />
+	<block key="GMC_8003" korean="The skills already learned." />
+	<block key="GMC_8004" korean="[SkillName] learned skill." />
+	<block key="GMC_8005" korean="First you must learn the skills of the previous level." />
+	<block key="GMC_9000" korean="[Target] God has been with us a deal." />
+	<block key="GMC_9007" korean="The field can not move the channel." />
+	<block key="GMC_9008" korean="Moved to channel [Number] times." />
+	<block key="GMC_9009" korean="The party decided to trade." />
+	<block key="GMC_9010" korean="The other party has decided to cancel the transaction." />
+	<block key="GMC_9011" korean="The deal was sacraments." />
+	<block key="GMC_9012" korean="The deal was canceled." />
+	<block key="GMC_9013" korean="[Target] wrote refused to deal with us." />
+	<block key="GMC_9014" korean="[Target] From God deals with us this response waiting time has passed." />
+	<block key="GMC_9015" korean="[ItemName] bought [ItemCount] dog." />
+	<block key="GMC_9016" korean="[ItemName] [ItemCount] dog has been trading." />
+	<block key="GMC_9017" korean="[ItemName] [ItemCount] has obtained a dog." />
+	<block key="GMC_9018" korean="[ItemName] [ItemCount] dog is closing sale was returned." />
+	<block key="GMC_9019" korean="[ItemName] [ItemCount] is unregistered dog was returned." />
+	<block key="GMC_9020" korean="[ItemName] [ItemCount] dog has been sold." />
+	<block key="GMC_9021" korean="[ItemName] [ItemCount] dog was kept." />
+	<block key="GMC_9022" korean="[ItemName] [ItemCount] dogs were destroyed." />
+	<block key="GMC_9023" korean="[ItemName] [ItemCount] dog was registered in the sales agent." />
+	<block key="GMC_9024" korean="[ItemName] [ItemCount] dog has been destroyed." />
+	<block key="GMC_9025" korean="[ItemName] [ItemCount] dog was hatched." />
+	<block key="GMC_9026" korean="[ItemName] [ItemCount] dog has been attached." />
+	<block key="GMC_9027" korean="By combining the items [ItemName] item [ItemCount] obtained a dog." />
+	<block key="GMC_9100" korean="There is a work in progress." />
+	<block key="GMC_9101" korean="Please select an item strengthened." />
+	<block key="GMC_9102" korean="Please select the items you want to extract." />
+	<block key="GMC_9103" korean="Since strengthening the maximum no longer be strengthened." />
+	<block key="GMC_9104" korean="Items that can not be strengthened." />
+	<block key="GMC_9105" korean="The item can not be extracted." />
+	<block key="GMC_9106" korean="The level of extraction tools can not extract lowered." />
+	<block key="GMC_9107" korean="[Target] wrote [ItemName] [Value] succeeded in strengthening phase." />
+	<block key="GMC_9200" korean="Received a spirit of solidarity point [Value]." />
+	<block key="GMC_9201" korean="Spirit of solidarity [FellowName] was as normal." />
+	<block key="GMC_9202" korean="Soul has a strong bond." />
+	<block key="GMC_9203" korean="[FellowName] the spirit of solidarity has been very strong. If you want to grow to the next level, please visit the Beast fellow trainers." />
+	<block key="GMC_9204" korean="This item has been dyed." />
+	<block key="GMC_9205" korean="The hair was dyed." />
+	<block key="GMC_9206" korean="Has obtained jeongsangeum the [Value]." />
+	<block key="GMC_9207" korean="The items should not be repaired." />
+	<block key="GMC_9208" korean="The item should not dyed." />
+	<block key="GMC_9209" korean="Register an item to dye." />
+	<block key="GMC_9210" korean="This item requires staining." />
+	<block key="GMC_9211" korean="Register an item strengthen." />
+	<block key="GMC_9212" korean="Register the items you younghonseok wear." />
+	<block key="GMC_9213" korean="Items that can not be strengthened." />
+	<block key="GMC_9214" korean="Younghonseok The item can not be worn." />
+	<block key="GMC_9215" korean="Are you sure you want to break the seal of growth [Target]? If you can not seal off the growth will continue growing but more younghonseok extraction to the next level." />
+	<block key="GMC_9216" korean="Growth unseal the fellow has been completed." />
+	<block key="GMC_9217" korean="The fellow was already sealed off growth." />
+	<block key="GMC_9218" korean="Fellows are not summoned." />
+	<block key="GMC_9219" korean="The durability of the [Target] is zero." />
+	<block key="GMC_9220" korean="The item for Fellows." />
+	<block key="GMC_9221" korean="This item can not be repaired." />
+	<block key="GMC_9222" korean="Are you sure you want to repair the entire item?" />
+	<block key="GMC_9223" korean="[ItemName] Would you like to repair an item?" />
+	<block key="GMC_9224" korean="You do not need to be repaired." />
+	<block key="GMC_9225" korean="In excess of the levels do not apply to wearable works of [ItemName]." />
+	<block key="GMC_9300" korean="The other party has set the transaction is completed." />
+	<block key="GMC_9400" korean="There are no items for sale." />
+	<block key="GMC_9401" korean="Price is not specified." />
+	<block key="GMC_9403" korean="The commission is low." />
+	<block key="GMC_9404" korean="There are no items to be settled." />
+	<block key="GMC_9405" korean="The item can not be attributed to register." />
+	<block key="GMC_9406" korean="The item can not be registered with the sales agent." />
+	<block key="GMC_9407" korean="This item has been sold enrolled in the sales agent." />
+	<block key="GMC_9900" korean="There is work in progress, you can not change the battle position." />
+	<block key="GMC_9901" korean="After the position change is completed, please try again." />
+	<block key="GMC_9902" korean="You can only use the ground." />
+	<block key="GMC_9903" korean="There is work already in progress, you can not start another job." />
+	<block key="GMC_9904" korean="During the jump is not available." />
+	<block key="GMC_9905" korean="In the battle position can not be used." />
+	<block key="GMC_9980" korean="Please select a destination Fellow be sealed." />
+	<block key="GMC_9981" korean="Select a destination to transform Fellow." />
+	<block key="GMC_9990" korean="Fellow seals has been canceled." />
+	<block key="GMC_9991" korean="Fellow strain has been canceled." />
+	<block key="GMC_9992" korean="Strengthening has been canceled." />
+	<block key="GMC_9993" korean="This extract has been canceled." />
+	<block key="GMC_9999" korean="Is not available right now." />
+	<block key="GMC_10000" korean="New mail has arrived." />
+	<block key="GMC_10001" korean="You can not attach any more items." />
+	<block key="GMC_10002" korean="The item already attached." />
+	<block key="GMC_10003" korean="[AttachedName] than [Count] species" />
+	<block key="GMC_10004" korean="You can mail in the attached item. Are you sure you want to delete?" />
+	<block key="GMC_10005" korean="We sent you the mail." />
+	<block key="GMC_10006" korean="[Count] one has new mail." />
+	<block key="GMC_10100" korean="The target can not tame." />
+	<block key="GMC_10101" korean="During the ride, you can not tame." />
+	<block key="GMC_10102" korean="Fellow board are not beorilsu." />
+	<block key="GMC_10103" korean="Taming failed." />
+	<block key="GMC_10104" korean="Fellow library is full." />
+	<block key="GMC_10105" korean="You must jump from a higher position than the subject of domestication can be high." />
+	<block key="GMC_10106" korean="Taming skills are not available during the jump." />
+	<block key="GMC_10107" korean="The name of the fellow has been changed to [Target]." />
+	<block key="GMC_10108" korean="The selected monster to tame the condition will not be met." />
+	<block key="GMC_10109" korean="You can not fight being targeted for trying to tame." />
+	<block key="GMC_10110" korean="Tame target is selected." />
+	<block key="GMC_10111" korean="Summon fellow state can only change the name." />
+	<block key="GMC_10112" korean="Taming the fellow was successful." />
+	<block key="GMC_10113" korean="Reaction where the target can not be a tame." />
+	<block key="GMC_10114" korean="Point is, you can not tame enough to tame." />
+	<block key="GMC_10115" korean="You can not tame during the duel." />
+	<block key="GMC_11000" korean="[Name] Fellow, has been registered in the book." />
+	<block key="GMC_11001" korean="You do not have to collect a fellow book." />
+	<block key="GMC_15000" korean="During the jump, you can not summon a ground-type pet / boarding Fellow." />
+	<block key="GMC_15001" korean="Already boarding / off is in progress." />
+	<block key="GMC_15002" korean="Movement can not be used during Fellow items." />
+	<block key="GMC_15003" korean="Boarding / off can not be local." />
+	<block key="GMC_15004" korean="Fellow board is the impossible position." />
+	<block key="GMC_15005" korean="Fellow summons is a non-local." />
+	<block key="GMC_15006" korean="The flight is impossible region." />
+	<block key="GMC_15007" korean="You can not get off in flight." />
+	<block key="GMC_15008" korean="You can not throw a Fellow of the flight." />
+	<block key="GMC_15009" korean="If you lower the height Fellow energy consumption is drastically." />
+	<block key="GMC_15011" korean="There are things you can not summon the fellow around." />
+	<block key="GMC_15014" korean="Passengers are not available actions." />
+	<block key="GMC_15100" korean="Boarding only weapon available only when a replacement is being boarded." />
+	<block key="GMC_15101" korean="This attack must be worn while on board when the board only weapon." />
+	<block key="GMC_15200" korean="Younghonseok no fellow to do the conversion." />
+	<block key="GMC_15201" korean="You can not convert younghonseok during boarding." />
+	<block key="GMC_15300" korean="Fellow command skills can not be removed." />
+	<block key="GMC_15301" korean="Fellow no target to use the skill." />
+	<block key="GMC_15302" korean="There is no summoning fellow." />
+	<block key="GMC_15303" korean="Fellow imperative skill can not be moved." />
+	<block key="GMC_15304" korean="[FellowName] Fellows will use the [FellowSkillName] skill." />
+	<block key="GMC_15305" korean="Fellow attacks to target is not selected." />
+	<block key="GMC_15306" korean="Fellows and the target is too close, you can not use the [FellowSkillName] skill." />
+	<block key="GMC_15307" korean="You can not summon the fellow." />
+	<block key="GMC_15400" korean="Behavior can not be when sitting." />
+	<block key="GMC_15401" korean="Some can not sit tame." />
+	<block key="GMC_15402" korean="You can not sit on the board state." />
+	<block key="GMC_15403" korean="Among the skills you will not be able to sit." />
+	<block key="GMC_15404" korean="The eating of food." />
+	<block key="GMC_15500" korean="You can not conduct the operation during the jump." />
+	<block key="GMC_15501" korean="The operation has been canceled." />
+	<block key="GMC_15600" korean="The item can not be obtained during the jump." />
+	<block key="GMC_15700" korean="You can fly safely." />
+	<block key="GMC_15701" korean="More dangerous climb up." />
+	<block key="GMC_15702" korean="No area is in close proximity to a fellow flight is canceled immediately." />
+	<block key="GMC_15703" korean="Fellow enters the flight can not be forced off the area." />
+	<block key="GMC_15712" korean="Close to the height restrictions of Fellows may be called off." />
+	<block key="GMC_16001" korean="Are you sure you want to delete the [TabName] tab?" />
+	<block key="GMC_16002" korean="Enter a name for the change tab." />
+	<block key="GMC_16003" korean="The tab can not be changed or deleted." />
+	<block key="GMC_16004" korean="Can not be used as a tab name." />
+	<block key="GMC_16005" korean="The tab name is already in use." />
+	<block key="GMC_18000" korean="Would you like a step in the [TechniqueName] technology?" />
+	<block key="GMC_18002" korean="Current [TechniqueName] can master item of technology is insufficient ([Value])" />
+	<block key="GMC_18003" korean="[TechniqueName] to learn production" />
+	<block key="GMC_18004" korean="[TechniqueName] learned that [Grade] step." />
+	<block key="GMC_18005" korean="[TechniqueName] obtained the rating 1. ([Value])" />
+	<block key="GMC_18006" korean="To learn production techniques." />
+	<block key="GMC_18007" korean="Gathering skill shortage can not be collected. (Required skill: [Grade] phase [value])" />
+	<block key="GMC_18100" korean="Production facilities and production can not be far away" />
+	<block key="GMC_18101" korean="You must select the items you publish" />
+	<block key="GMC_18102" korean="The lack of material items required for production" />
+	<block key="GMC_18103" korean="[ItemName] had [Result] production. (Point [Mastery] increase)" />
+	<block key="GMC_18104" korean="[ItemName] had [Result] production." />
+	<block key="GMC_18105" korean="[ReinforceLevel] [ItemName] had [Result] production." />
+	<block key="GMC_18106" korean="[ReinforceLevel] [ItemName] had [Result] production. (Point [Mastery] increase)" />
+	<block key="GMC_19000" korean="Was successful in bidding." />
+	<block key="GMC_19001" korean="[Target] wrote was the top bid." />
+	<block key="GMC_19002" korean="[Target] s to [ItemName] has been sold." />
+	<block key="GMC_19003" korean="[Name] is no empty space in response to the bag." />
+	<block key="GMC_21000" korean="Level [Level] or later, you can only stand." />
+	<block key="GMC_30000" korean="During the battle, you can not quit the game." />
+	<block key="GMC_30001" korean="Not a striking distance." />
+	<block key="GMC_30002" korean="Target has died." />
+	<block key="GMC_30003" korean="You can not put a weapon in combat." />
+	<block key="GMC_30004" korean="During the battle, you can not sit down." />
+	<block key="GMC_60000" korean="The action can not be in the water." />
+	<block key="GMC_400" korean="Among the actions that can not be boarded." />
+	<block key="GMC_870" korean="The match has been registered." />
+	<block key="GMC_871" korean="The match was canceled." />
+	<block key="GMC_6453" korean="Levels do not match can not be sealed off." />
+	<block key="GMC_9028" korean="[Target] You have been acquired [ItemName] box at random." />
+	<block key="GMC_15601" korean="Please try from a different location." />
+	<block key="GMC_16000" korean="Enter a name for the new tab." />
+	<block key="GMC_17000" korean="[MapName] Are you sure you want to apply for former stronghold?" />
+	<block key="GMC_17001" korean="Base before applying the [MapName]" />
+	<block key="GMC_17002" korean="Guild is not a master." />
+	<block key="GMC_18001" korean="The maximum phase of the [TechniqueName]." />
+	<block key="GMC_50000" korean="Attack of the [Attacker], but try to [Target], clogged the resistance." />
+	<block key="GMC_50001" korean="Attack of the [Attacker], but try to [Target], clogged the resistance." />
+	<block key="GMC_50002" korean="Attack of the [Attacker], but try to [Target], clogged the resistance." />
+	<block key="GMC_50003" korean="Attack of the [Attacker], but try to [Target], clogged the resistance." />
+	<block key="GMC_50004" korean="Attack of the [Attacker], but try to [Target], clogged the resistance." />
+	<block key="GMC_50005" korean="Attack of the [Attacker], but try to [Target], clogged the resistance." />
+	<block key="GMC_50020" korean="[Attacker] of [SkillName] skill has been attacked by the [Target], clogged the resistance." />
+	<block key="GMC_50021" korean="[Attacker] of [SkillName] skill has been attacked by the [Target], clogged the resistance." />
+	<block key="GMC_50022" korean="[Attacker] of [SkillName] skill has been attacked by the [Target], clogged the resistance." />
+	<block key="GMC_50023" korean="[Attacker] of [SkillName] skill has been attacked by the [Target], clogged the resistance." />
+	<block key="GMC_50024" korean="[Attacker] of [SkillName] skill has been attacked by the [Target], clogged the resistance." />
+	<block key="GMC_50025" korean="[Attacker] of [SkillName] skill has been attacked by the [Target], clogged the resistance." />
+	<block key="GMC_50100" korean="Attack of the [Attacker], but try to [Target], have been avoided." />
+	<block key="GMC_50101" korean="[Attacker] attack, but try to [Target] in, comb welcomed." />
+	<block key="GMC_50102" korean="[Attacker], but the attack attempts to [Target], clogged the defense." />
+	<block key="GMC_50103" korean="Attack of the [Attacker], but try to [Target], clogged the shield." />
+	<block key="GMC_50104" korean="Attack of the [Attacker], but try to [Target], clogged the weapon." />
+	<block key="GMC_50120" korean="The [SkillName] skills of [Attacker] [Target] This was avoided" />
+	<block key="GMC_50121" korean="[Attacker] of [SkillName] and [Target] skill (s), but the rain was hit attack." />
+	<block key="GMC_50122" korean="[Attacker] of [SkillName] skills are clogged in the defense of the [Target]." />
+	<block key="GMC_50123" korean="[Attacker] of [SkillName] skills are clogged to shield the [Target]." />
+	<block key="GMC_50124" korean="[Attacker] of [SkillName] skills are clogged in the arms of [Target]." />
+	<block key="GMC_50500" korean="[Attacker] as an attack on the life of the [Target] has been reduced by [Value]." />
+	<block key="GMC_50501" korean="[Attacker] of [SkillName] skill vitality of the [Target] has been reduced by [Value]." />
+	<block key="GMC_50502" korean="[Attacker] vitality of [BuffName] effect [Target] has been reduced by the [Value]." />
+	<block key="GMC_50503" korean="[BuffName] effect to the vitality of the [Target] has been reduced by [Value]." />
+	<block key="GMC_50504" korean="Vitality of the [Target] has been reduced by [Value]." />
+	<block key="GMC_50520" korean="[Attacker] with the vitality of the attack [Target] has been restored as [Value]." />
+	<block key="GMC_50521" korean="[Attacker] of [SkillName] skill vitality of the [Target] has been restored as [Value]." />
+	<block key="GMC_50522" korean="[Attacker] vitality of [BuffName] effect [Target] has been restored by the [Value]." />
+	<block key="GMC_50523" korean="[BuffName] effect to the vitality of the [Target] has been restored as [Value]." />
+	<block key="GMC_50524" korean="Vitality of the [Target] has been restored as [Value]." />
+	<block key="GMC_50540" korean="[Attacker] as an attack on the life of the [Target] has been reduced by [Value]." />
+	<block key="GMC_50541" korean="[Attacker] of [SkillName] skill vitality of the [Target] has been reduced by [Value]." />
+	<block key="GMC_50542" korean="[Attacker] vitality of [BuffName] effect [Target] has been reduced by the [Value]." />
+	<block key="GMC_50543" korean="[BuffName] effect to the vitality of the [Target] has been reduced by [Value]." />
+	<block key="GMC_50544" korean="Vitality of the [Target] has been reduced by [Value]." />
+	<block key="GMC_51000" korean="[Attacker] mana to attack [Target] [Value] as been reduced." />
+	<block key="GMC_51001" korean="[Attacker] of [SkillName] skill mana [Target] [Value] as been reduced." />
+	<block key="GMC_51002" korean="[Attacker] of [BuffName] effects mana [Target] [Value] as been reduced." />
+	<block key="GMC_51003" korean="[BuffName] mana effects [Target] [Value] as been reduced." />
+	<block key="GMC_51004" korean="Mana is the [Target] [Value] as been reduced." />
+	<block key="GMC_51020" korean="[Attacker] to attack mana [Target] has been restored as [Value]." />
+	<block key="GMC_51021" korean="[Attacker] of [SkillName] skill mana of the [Target] has been restored as [Value]." />
+	<block key="GMC_51022" korean="[Attacker] of [BuffName] effect of mana [Target] has been restored as [Value]." />
+	<block key="GMC_51023" korean="[BuffName] effects of Mana [Target] has been restored as [Value]." />
+	<block key="GMC_51024" korean="Mana is the [Target] has been restored as [Value]." />
+	<block key="GMC_51040" korean="[Attacker] mana to attack [Target] [Value] as been reduced." />
+	<block key="GMC_51041" korean="[Attacker] of [SkillName] skill mana [Target] [Value] as been reduced." />
+	<block key="GMC_51042" korean="[Attacker] of [BuffName] effects mana [Target] [Value] as been reduced." />
+	<block key="GMC_51043" korean="[BuffName] mana effects [Target] [Value] as been reduced." />
+	<block key="GMC_51044" korean="Mana is the [Target] [Value] as been reduced." />
+	<block key="GMC_51500" korean="[Attacker] the sign of the light of the [Target] is an attack [Value] dog has been reduced." />
+	<block key="GMC_51501" korean="[Attacker] of [SkillName] skill as a sign of the light of the [Target] [Value] dog has been reduced." />
+	<block key="GMC_51502" korean="[Attacker] of [BuffName] as a sign of the effect of light [Target] [Value] dog has been reduced." />
+	<block key="GMC_51503" korean="[BuffName] effect as a sign of the light of the [Target] [Value] dog has been reduced." />
+	<block key="GMC_51504" korean="[Target] is a sign of the light of the [Value] dog has been reduced." />
+	<block key="GMC_51520" korean="[Attacker] in a sign of the light of the [Target] attack [Value] more increased." />
+	<block key="GMC_51521" korean="[Attacker] of [SkillName] skill as a sign of the light of the [Target] [Value] more increased." />
+	<block key="GMC_51522" korean="[Attacker] of [BuffName] effect as a sign of the light of the [Target] [Value] more increased." />
+	<block key="GMC_51523" korean="[BuffName] effect as a sign of the light of the [Target] [Value] more increased." />
+	<block key="GMC_51524" korean="[Target] is a sign of the light of the [Value] more increased." />
+	<block key="GMC_51540" korean="[Attacker] the sign of the light of the [Target] is an attack [Value] dog has been reduced." />
+	<block key="GMC_51541" korean="[Attacker] of [SkillName] skill as a sign of the light of the [Target] [Value] dog has been reduced." />
+	<block key="GMC_51542" korean="[Attacker] of [BuffName] as a sign of the effect of light [Target] [Value] dog has been reduced." />
+	<block key="GMC_51543" korean="[BuffName] effect as a sign of the light of the [Target] [Value] dog has been reduced." />
+	<block key="GMC_51544" korean="[Target] is a sign of the light of the [Value] dog has been reduced." />
+	<block key="GMC_52000" korean="[Attacker] to attack the strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52001" korean="[Attacker] of [SkillName] skill in the strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52002" korean="[Attacker] strength of [BuffName] effect [Target] has been reduced by the [Value]." />
+	<block key="GMC_52003" korean="[BuffName] effect to the strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52004" korean="The strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52020" korean="[Attacker] in the energy of the attack [Target] has been restored as [Value]." />
+	<block key="GMC_52021" korean="[Attacker] of [SkillName] skill in the strength of the [Target] has been restored as [Value]." />
+	<block key="GMC_52022" korean="[Attacker] strength of [BuffName] effect [Target] has been restored by the [Value]." />
+	<block key="GMC_52023" korean="[BuffName] effect to the strength of the [Target] has been restored as [Value]." />
+	<block key="GMC_52024" korean="The strength of the [Target] has been restored as [Value]." />
+	<block key="GMC_52040" korean="[Attacker] to attack the strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52041" korean="[Attacker] of [SkillName] skill in the strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52042" korean="[Attacker] strength of [BuffName] effect [Target] has been reduced by the [Value]." />
+	<block key="GMC_52043" korean="[BuffName] effect to the strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52044" korean="The strength of the [Target] has been reduced by [Value]." />
+	<block key="GMC_52500" korean="[Attacker] an attack of anger [Target] has been reduced by [Value]." />
+	<block key="GMC_52501" korean="[Attacker] anger [SkillName] skill to [Target] has been reduced by the [Value]." />
+	<block key="GMC_52502" korean="[Attacker] Wrath of the [BuffName] effect [Target] has been reduced by [Value]." />
+	<block key="GMC_52503" korean="[BuffName] Wrath of the effect [Target] has been reduced by [Value]." />
+	<block key="GMC_52504" korean="Anger [Value] is the reduction of [Target]." />
+	<block key="GMC_52520" korean="[Attacker] anger to attack [Target] has been restored as [Value]." />
+	<block key="GMC_52521" korean="[Attacker] Wrath of the [SkillName] skill to [Target] has been restored as [Value]." />
+	<block key="GMC_52522" korean="[Attacker] Wrath of the [BuffName] effect [Target] has been restored as [Value]." />
+	<block key="GMC_52523" korean="[BuffName] effect to the anger of the [Target] has been restored as [Value]." />
+	<block key="GMC_52524" korean="Wrath of the [Target] has been restored as [Value]." />
+	<block key="GMC_52540" korean="[Attacker] an attack of anger [Target] has been reduced by [Value]." />
+	<block key="GMC_52541" korean="[Attacker] anger [SkillName] skill to [Target] has been reduced by the [Value]." />
+	<block key="GMC_52542" korean="[Attacker] Wrath of the [BuffName] effect [Target] has been reduced by [Value]." />
+	<block key="GMC_52543" korean="[BuffName] Wrath of the effect [Target] has been reduced by [Value]." />
+	<block key="GMC_52544" korean="Wrath of the [Target] has been reduced by [Value]." />
+	<block key="GMC_53000" korean="[Attacker] stamina to attack the [Target] has been reduced by [Value]." />
+	<block key="GMC_53001" korean="[Attacker] stamina of the [SkillName] skill to [Target] has been reduced by [Value]." />
+	<block key="GMC_53002" korean="[Attacker] stamina of the [BuffName] effect [Target] has been reduced by [Value]." />
+	<block key="GMC_53003" korean="[BuffName] stamina of the effect [Target] has been reduced by [Value]." />
+	<block key="GMC_53004" korean="Stamina is the [Target] has been reduced by [Value]." />
+	<block key="GMC_53020" korean="[Attacker] stamina to attack the [Target] has been restored as [Value]." />
+	<block key="GMC_53021" korean="[Attacker] stamina of the [SkillName] skill to [Target] has been restored as [Value]." />
+	<block key="GMC_53022" korean="[Attacker] stamina of the [BuffName] effect [Target] has been restored as [Value]." />
+	<block key="GMC_53023" korean="[BuffName] effect to the stamina of the [Target] has been restored as [Value]." />
+	<block key="GMC_53024" korean="Stamina is the [Target] has been restored as [Value]." />
+	<block key="GMC_53040" korean="[Attacker] stamina to attack the [Target] has been reduced by [Value]." />
+	<block key="GMC_53041" korean="[Attacker] stamina of the [SkillName] skill to [Target] has been reduced by [Value]." />
+	<block key="GMC_53042" korean="[Attacker] stamina of the [BuffName] effect [Target] has been reduced by [Value]." />
+	<block key="GMC_53043" korean="[BuffName] stamina of the effect [Target] has been reduced by [Value]." />
+	<block key="GMC_53044" korean="Stamina is the [Target] has been reduced by [Value]." />
+	<block key="GMC_53500" korean="[Attacker] to attack the reaction resistance score of [Target] has been reduced by [Value]." />
+	<block key="GMC_53501" korean="[Attacker] of [SkillName] skill as a reaction resistance score of the [Target] has been reduced by [Value]." />
+	<block key="GMC_53502" korean="[Attacker] of [BuffName] effect to the reaction resistance score of the [Target] has been reduced by [Value]." />
+	<block key="GMC_53503" korean="[BuffName] effect to the reaction resistance score of the [Target] has been reduced by [Value]." />
+	<block key="GMC_53504" korean="Reaction resistance rating of the [Target] has been reduced [Value] as much." />
+	<block key="GMC_53520" korean="[Attacker] reaction resistance score of the [Target] in the attack were restored by [Value]." />
+	<block key="GMC_53521" korean="[Attacker] reaction resistance score of [SkillName] skill to [Target] has been restored by the [Value]." />
+	<block key="GMC_53522" korean="[Attacker] reaction resistance score of [BuffName] effect [Target] has been restored by the [Value]." />
+	<block key="GMC_53523" korean="[BuffName] effect to the reaction resistance score of the [Target] has been restored as [Value]." />
+	<block key="GMC_53524" korean="Reaction resistance score of the [Target] has been restored as [Value]." />
+	<block key="GMC_53540" korean="[Attacker] to attack the reaction resistance score of [Target] has been reduced by [Value]." />
+	<block key="GMC_53541" korean="[Attacker] of [SkillName] skill as a reaction resistance score of the [Target] has been reduced by [Value]." />
+	<block key="GMC_53542" korean="[Attacker] of [BuffName] effect to the reaction resistance score of the [Target] has been reduced by [Value]." />
+	<block key="GMC_53543" korean="[BuffName] effect to the reaction resistance score of the [Target] has been reduced by [Value]." />
+	<block key="GMC_53544" korean="Reaction resistance rating of the [Target] has been reduced [Value] as much." />
+	<block key="GMC_40000" korean="[Attacker] attribute of a flame attack [Target] is [Value] as been reduced." />
+	<block key="GMC_40001" korean="[Attacker] of [SkillName] flame properties of the skill [Target] [Value] has been reduced." />
+	<block key="GMC_40002" korean="[Attacker] of [BuffName] effects in Flames properties of the [Target] [Value] has been reduced." />
+	<block key="GMC_40003" korean="Fire Properties of [BuffName] effect [Target] is [Value] as been reduced." />
+	<block key="GMC_40004" korean="Fire properties of the [Target] is [Value] as been reduced." />
+	<block key="GMC_40020" korean="[Attacker] to attack the flame properties of the [Target] has been restored by the [Value]." />
+	<block key="GMC_40021" korean="[Attacker] flame properties of the [SkillName] skill to [Target] in the [Value] was well enough." />
+	<block key="GMC_40022" korean="[Attacker] flame properties of the [BuffName] effect [Target] in the [Value] was well enough." />
+	<block key="GMC_40023" korean="Fire Properties of [BuffName] effect [Target] is [Value] was restored by." />
+	<block key="GMC_40024" korean="Fire properties of the [Target] is [Value] was restored by." />
+	<block key="GMC_40040" korean="[Attacker] attribute of a flame attack [Target] is [Value] as been reduced." />
+	<block key="GMC_40041" korean="[Attacker] flame properties of the [SkillName] skill to [Target] in the [Value] as been reduced." />
+	<block key="GMC_40042" korean="[Attacker] flame properties of the [BuffName] effect [Target] in the [Value] as been reduced." />
+	<block key="GMC_40043" korean="Fire Properties of [BuffName] effect [Target] is [Value] as been reduced." />
+	<block key="GMC_40044" korean="Fire properties of the [Target] is [Value] as been reduced." />
+	<block key="GMC_40500" korean="[Attacker] chill attribute to the attack [Target] is [Value] as been reduced." />
+	<block key="GMC_40501" korean="[Attacker] cold properties of the [SkillName] skill to [Target] in the [Value] as been reduced." />
+	<block key="GMC_40502" korean="[Attacker] cold properties of the [BuffName] effect [Target] in the [Value] as been reduced." />
+	<block key="GMC_40503" korean="Frost attributes of [BuffName] effect [Target] is [Value] as been reduced." />
+	<block key="GMC_40504" korean="Frost property of the [Target] is [Value] as been reduced." />
+	<block key="GMC_40520" korean="[Attacker] cold properties of the [Target] as an attack on the [Value] was well enough." />
+	<block key="GMC_40521" korean="[Attacker] cold properties of the [SkillName] skill to [Target] in the [Value] was well enough." />
+	<block key="GMC_40522" korean="[Attacker] cold properties of the [BuffName] effect [Target] in the [Value] was well enough." />
+	<block key="GMC_40523" korean="Frost attributes of [BuffName] effect [Target] is [Value] was restored by." />
+	<block key="GMC_40524" korean="Frost property of the [Target] is [Value] was restored by." />
+	<block key="GMC_40540" korean="[Attacker] chill attribute to the attack [Target] is [Value] as been reduced." />
+	<block key="GMC_40541" korean="[Attacker] cold properties of the [SkillName] skill to [Target] in the [Value] as been reduced." />
+	<block key="GMC_40542" korean="[Attacker] cold properties of the [BuffName] effect [Target] in the [Value] as been reduced." />
+	<block key="GMC_40543" korean="Frost attributes of [BuffName] effect [Target] is [Value] as been reduced." />
+	<block key="GMC_40544" korean="Frost property of the [Target] is [Value] as been reduced." />
+	<block key="GMC_41000" korean="[Attacker] to attack the properties of light [Target] is [Value] as been reduced." />
+	<block key="GMC_41001" korean="[Attacker] light properties of the [SkillName] skill to [Target] in the [Value] as been reduced." />
+	<block key="GMC_41002" korean="[Attacker] light properties of the [BuffName] effect [Target] in the [Value] as been reduced." />
+	<block key="GMC_41003" korean="[BuffName] light properties of the [Target] in effect [Value] as been reduced." />
+	<block key="GMC_41004" korean="Light properties of the [Target] is [Value] as been reduced." />
+	<block key="GMC_41020" korean="[Attacker] light properties of the [Target] has been restored as an attack on the [Value]." />
+	<block key="GMC_41021" korean="[Attacker] light properties of the [SkillName] skill to [Target] in the [Value] was well enough." />
+	<block key="GMC_41022" korean="[Attacker] light properties of the [BuffName] effect [Target] in the [Value] was well enough." />
+	<block key="GMC_41023" korean="[BuffName] light properties of the [Target] in effect [Value] was well enough." />
+	<block key="GMC_41024" korean="Light properties of the [Target] is [Value] was restored by." />
+	<block key="GMC_41040" korean="[Attacker] to attack the properties of light [Target] is [Value] as been reduced." />
+	<block key="GMC_41041" korean="[Attacker] light properties of the [SkillName] skill to [Target] in the [Value] as been reduced." />
+	<block key="GMC_41042" korean="[Attacker] light properties of the [BuffName] effect [Target] in the [Value] as been reduced." />
+	<block key="GMC_41043" korean="[BuffName] light properties of the [Target] in effect [Value] as been reduced." />
+	<block key="GMC_41044" korean="Light properties of the [Target] is [Value] as been reduced." />
+	<block key="GMC_41500" korean="[Attacker] Dark attribute of the [Target] as an attack on the [Value] as been reduced." />
+	<block key="GMC_41501" korean="[Attacker] Dark attribute of [SkillName] skill to [Target] in the [Value] as been reduced." />
+	<block key="GMC_41502" korean="[Attacker] Dark attribute of [BuffName] effect [Target] in the [Value] as been reduced." />
+	<block key="GMC_41503" korean="[BuffName] Dark attribute the effect to the [Target] is [Value] as been reduced." />
+	<block key="GMC_41504" korean="Dark attribute of the [Target] is [Value] as been reduced." />
+	<block key="GMC_41520" korean="[Attacker] Dark attribute of the [Target] has been restored as an attack on the [Value]." />
+	<block key="GMC_41521" korean="[Attacker] Dark attribute of [SkillName] skill to [Target] in the [Value] was well enough." />
+	<block key="GMC_41522" korean="[Attacker] Dark attribute of [BuffName] effect [Target] in the [Value] was well enough." />
+	<block key="GMC_41523" korean="Dark attribute of [BuffName] effect [Target] is [Value] was well enough." />
+	<block key="GMC_41524" korean="Dark attribute of the [Target] is [Value] was well enough." />
+	<block key="GMC_41540" korean="[Attacker] Dark attribute of the [Target] as an attack on the [Value] as been reduced." />
+	<block key="GMC_41541" korean="[Attacker] Dark attribute of [SkillName] skill to [Target] in the [Value] as been reduced." />
+	<block key="GMC_41542" korean="[Attacker] Dark attribute of [BuffName] effect [Target] in the [Value] as been reduced." />
+	<block key="GMC_41543" korean="[BuffName] Dark attribute the effect to the [Target] is [Value] as been reduced." />
+	<block key="GMC_41544" korean="Dark attribute of the [Target] is [Value] as been reduced." />
+	<block key="GMC_59000" korean="[BuffName] the effect of [Attacker] has been applied to [Target]." />
+	<block key="GMC_59001" korean="[Attacker] of [BuffName] The effect has been released from the [Target]." />
+	<block key="GMC_59002" korean="[BuffName] effects have been applied to [Target]." />
+	<block key="GMC_59003" korean="[BuffName] The effect has been released from the [Target]." />
+	<block key="GMC_6455" korean="[FellowCommandName] The command is used." />
+	<block key="GMC_6456" korean="Fellow use when boarding is possible." />
+	<block key="GMC_6457" korean="When the strain Fellow use is possible." />
+	<block key="GMC_6458" korean="This item is not deformed." />
+	<block key="GMC_15711" korean="You are close to the maximum height of the fellow." />
+	<block key="GMC_15713" korean="To exceed the maximum height of the fellow was released summoned." />
+	<block key="GMC_15013" korean="You can now summon higher than the altitude region Fellow." />
+	<block key="GMC_15012" korean="Currently, this area can not fly higher than the altitude Fellow." />
+	<block key="GMC_30005" korean="During the battle, you can not use." />
+	<block key="GMC_10007" korean="The friend list is empty." />
+	<block key="GMC_6163" korean="There are no entries." />
+	<block key="GMC_6164" korean="Lee Dae Ro Would you like to use?" />
+	<block key="GMC_6165" korean="Are you sure you want to cancel a shout?" />
+	<block key="GMC_6325" korean="[Name] 's withdrawal from the guild is made." />
+	<block key="GMC_6326" korean="[Name] has been expelled from the guild's." />
+	<block key="GMC_6327" korean="[Name] 's class has been changed to a [Rank]." />
+	<block key="GMC_6328" korean="Guild ranks has been changed to [Rank]." />
+	<block key="GMC_6329" korean="[Name] 's class is changed to [Rank]." />
+	<block key="GMC_6330" korean="[Name] has been transferred to the Guild Master's." />
+	<block key="GMC_6331" korean="Guild guild rank has been changed." />
+	<block key="GMC_6332" korean="Been transferred to Guild Master." />
+	<block key="GMC_6333" korean="Rank Guild Guild Master has been changed." />
+	<block key="GMC_6334" korean="[Name] has been changed to the Guild Master's degree." />
+	<block key="GMC_6335" korean="[Name] has been disbanded guild." />
+	<block key="GMC_6336" korean="Fixed a guild notice." />
+	<block key="GMC_6337" korean="Guild Bulletin has been fixed." />
+	<block key="GMC_6338" korean="Guild has been upgraded to [Value] rating." />
+	<block key="GMC_15015" korean="Skill will not be available during the taming." />
+	<block key="GMC_6162" korean="[Target] invited aboard God." />
+	<block key="GMC_6173" korean="Invalid command." />
+	<block key="GMC_853" korean="The preparation of all raid members have been completed." />
+	<block key="GMC_854" korean="There are not yet ready to raid." />
+	<block key="GMC_833" korean="[Target] participated in the response of the party." />
+	<block key="GMC_834" korean="[Target] Su\nAre you sure you want to expel?" />
+	<block key="GMC_6161" korean="[Target] God has asked boarding." />
+	<block key="GMC_6174" korean="Are you sure you want to consume Elounda resurrection?" />
+	<block key="GMC_20001" korean="Elounda is low. Are you sure you want to charge?" />
+	<block key="GMC_6175" korean="The sentence contains banned words." />
+	<block key="GMC_6176" korean="If you change the server will be dropped from the queue of the server." />
+	<block key="GMC_6177" korean="Report has been received." />
+	<block key="GMC_6178" korean="Enter the client fails the third time will be terminated." />
+	<block key="GMC_6154" korean="[ServerName] Number of server connections are more limited personnel. Please wait." />
+	<block key="GMC_15016" korean="The area that can not be moved." />
+	<block key="GMC_10116" korean="Taming where the target is not tame." />
+	<block key="GMC_10117" korean="Taming where the target is not tame." />
+	<block key="GMC_6179" korean="Enter the party has shared scenarios channels." />
+	<block key="GMC_6180" korean="The strengthening phase is determined in [Min] ~ [Max] step." />
+	<block key="GMC_138" korean="Currently equipped weapon can not be used." />
+	<block key="GMC_9906" korean="The action can not be the death state." />
+	<block key="GMC_10118" korean="Taming the point [Value] reduction" />
+	<block key="GMC_20002" korean="Has been withdrawn." />
+	<block key="GMC_20003" korean="Is unable to open the shopping area." />
+	<block key="GMC_20004" korean="Failed to retrieve the cached URL charge. Please try again in a few minutes." />
+	<block key="GMC_6459" korean="Fellows have been the [Level] level." />
+	<block key="GMC_6339" korean="You may not post Guild Points Rating scarce." />
+	<block key="GMC_9029" korean="[ItemName] has been moved to the bags in from the library." />
+	<block key="GMC_20005" korean="The Billing is in progress." />
+	<block key="GMC_20000" korean="There is a new item in the library." />
+	<block key="GMC_20006" korean="[CashName] Do you want to go to the charging web page?" />
+	<block key="GMC_4041" korean="Game connection request will be terminated due to the long time waiting." />
+	<block key="GMC_4042" korean="Character information requested will be terminated due to the long time waiting." />
+	<block key="GMC_6181" korean="\u003c[CharacterName]\u003e Do you want to restore your character?" />
+	<block key="GMC_9030" korean="[ItemName] [ItemCount] dog exhausted." />
+	<block key="GMC_9301" korean="The other party has decided to complete the transaction." />
+	<block key="GMC_6182" korean="The content can not be used yet." />
+	<block key="GMC_9227" korean="Are you sure you want to reset the property?" />
+	<block key="GMC_50006" korean="Attack of the [Attacker], but try to [Target], clogged interpersonal resistance." />
+	<block key="GMC_50026" korean="[Attacker] of [SkillName] skill has been attacked by the [Target], clogged interpersonal resistance." />
+	<block key="GMC_4043" korean="You can not delete a character waiting to access the World." />
+	<block key="GMC_6185" korean="Second password is [FailCnt] times wrong. A total of five times [RemainCnt] left once." />
+	<block key="GMC_6186" korean="Second password is wrong 5 times.\nPlease use the website after initialization." />
+	<block key="GMC_19004" korean="[Target] 's victory was awarded to the [ItemName]." />
+	<block key="GMC_6184" korean="The break-point is already full." />
+	<block key="GMC_6183" korean="Restores the tame point." />
+	<block key="GMC_6187" korean="Can be used after the [Time]." />
+	<block key="GMC_20007" korean="After omgisin in-game inventory, cancellation is not possible. Are you sure you want to move the inventory?" />
+	<block key="GMC_20008" korean="There is no selected item." />
+	<block key="GMC_6188" korean="During the duel, you can not send automatic notification messages." />
+	<block key="GMC_6189" korean="Heavy game use can interfere with normal daily life.\nGame playing time [Time] have time." />
+	<block key="GMC_6190" korean="[PenaltyPreventions] was, was destroyed by the reinforcement fails." />
+	<block key="GMC_6191" korean="[PenaltyPreventions] was, was initiated by the reinforcement fails." />
+	<block key="GMC_6192" korean="[PenaltyPreventions] but, failed to strengthen." />
+	<block key="GMC_6193" korean="[PenaltyPreventions] but, failing to strengthen [Level] is a step." />
+	<block key="GMC_6195" korean="The current area is blessed resurrection is impossible." />
+	<block key="GMC_6196" korean="8 Please enter the exact number of digits." />
+	<block key="GMC_6194" korean="Secondary password you entered is not the same." />
+	<block key="GMC_6340" korean="Guild Mark has changed." />
+	<block key="GMC_835" korean="Has been changed to [PartyLoot]." />
+	<block key="GMC_836" korean="[PartyLoot] - [LootGameType]: changed to [ItemGrade]." />
+	<block key="GMC_6197" korean="[ChatTime] After the second, you can enter it again." />
+	<block key="GMC_837" korean="[PartyLoot]: [UserName] has been changed to Spirit." />
+	<block key="GMC_20009" korean="Cancellation is only possible at a time." />
+	<block key="GMC_20010" korean="Elounda is [NeedRubyCnt] lack dog.\nAre you sure you want to charge?" />
+	<block key="GMC_6198" korean="[DungeonName] Are you sure you want to reset the dungeon?" />
+	<block key="GMC_6199" korean="The PK area, you can not send automatic notification messages." />
+	<block key="GMC_6200" korean="In the safety area, you can not send automatic notification messages." />
+	<block key="GMC_6201" korean="In indeon can not send automatic notification messages." />
+	<block key="GMC_6202" korean="Is being authenticated.\nPlease wait." />
+	<block key="GMC_6203" korean="The one coming up the server list.\nPlease wait." />
+	<block key="GMC_4044" korean="Chatting in the game.\nPlease wait." />
+	<block key="GMC_4045" korean="The character of the information requested.\nPlease wait." />
+	<block key="GMC_6204" korean="While on a desert island, the action can not be." />
+	<block key="GMC_9031" korean="The [ItemName] to extract item [ItemCount] has earned more" />
+	<block key="GMC_6205" korean="The action can not be moved during the channel in progress." />
+	<block key="GMC_51" korean="Sex is not available." />
+	<block key="GMC_6318" korean="[SkillName] Are you sure you want to activate the skill for [Value]?" />
+	<block key="GMC_6319" korean="[SkillName] Are you sure you want to break the skills?" />
+	<block key="GMC_6320" korean="[SkillName] skill has been released." />
+	<block key="GMC_9226" korean="A stronger effect has already been applied." />
+	<block key="GMC_4046" korean="The change of the channel.\nPlease wait." />
+	<block key="GMC_18008" korean="Level is low, [TechniqueName] technology, you can not learn. (Required Level: [NeedLevel])" />
+	<block key="GMC_18009" korean="[TechniqueName] step is low [Recipe] can not learn the recipe." />
+	<block key="GMC_6207" korean="[AreaName] Do you want to move to the area?" />
+	<block key="GMC_6206" korean="[ItemName] items achievements window ([AchievementShortcutKey]) and can be opened." />
+	<block key="GMC_2113" korean="During the duel, you can not use." />
+	<block key="GMC_6461" korean="Fellows may be the highest level of reinforcement." />
+	<block key="GMC_6462" korean="Enhanced level of Fellow is the highest state." />
+	<block key="GMC_6463" korean="[ItemName] [rubyCount] than necessary" />
+	<block key="GMC_6464" korean="Only when the level of the seal Fellow highest level possible strengthening." />
+	<block key="GMC_702" korean="The real-time optimization options have been applied." />
+	<block key="GMC_703" korean="The real-time optimization options have been released." />
+	<block key="GMC_704" korean="The highest level of real-time optimization options have been applied because of the frame decreases." />
+	<block key="GMC_705" korean="If you change the LOD, limit Characters with real-time optimization options option is turned off. Do you want to continue?" />
+	<block key="GMC_6465" korean="Fellow sealed items needed" />
+	<block key="GMC_4047" korean="The information requested in the character creation." />
+	<block key="GMC_4048" korean="The movement of the character selection window." />
+	<block key="GMC_6466" korean="The enhanced probability is 100%, you can not add any more Fellow." />
+	<block key="GMC_52" korean="[ItemName] Would you like to sell an item you sure?" />
+	<block key="GMC_6208" korean="[Target] wrote was successfully [ActorName] Fellow tame." />
+	<block key="GMC_6209" korean="[Target] wrote acquired the [ItemName] item from the [ActorName]." />
+	<block key="GMC_6467" korean="The fellow that can not be reinforced." />
+	<block key="GMC_855" korean="Raid did not sign up for." />
+	<block key="GMC_856" korean="These are not your raid leader can not use the raid command." />
+	<block key="GMC_6210" korean="Shortcuts ([shortWhisper]) recently received a whisper as you can reply.\nEnter the following command and then enter chat mode will change when Space.\n / General, / s, / b\n / Local, / c, / ㅊ\n / Whisper, / w, / Fucking\n / Raid, / b, / ㅠ\n / Raid command, / q, / f\n / Guild, / g, / heh\n / Union, / u, / ㅕ\n / Militia, / m, / Ao" />
+	<block key="GMC_6469" korean="Fellow reinforced by the success + [ReinforceLevel] was a step." />
+	<block key="GMC_6470" korean="Fellow failed to strengthen." />
+	<block key="GMC_6468" korean="This item does not need to be spent on strengthening." />
+	<block key="GMC_6471" korean="[ItemName] [itemCount] than you need. Please resumed after purchase." />
+	<block key="GMC_6472" korean="This is lower than the target level of the seal Fellow Fellow." />
+	<block key="GMC_15715" korean="And close to the minimum height of the Fellows." />
+	<block key="GMC_15716" korean="By entering a minimum altitude of Fellows was released summoned." />
+	<block key="GMC_15717" korean="You can not summon the current local minimum altitude lower than the fellow." />
+	<block key="GMC_15017" korean="You can not summon a low fellow than the minimum flying height." />
+	<block key="GMC_6473" korean="Strengthening the seal can not be used as a reinforcing material fellow." />
+	<block key="GMC_6211" korean="When you exit the tutorial, you can not play it again.\nAre you sure you want to quit?" />
+	<block key="GMC_15050" korean="Is in the process of boarding passengers. Are you sure you want to get off?" />
+	<block key="GMC_15051" korean="Are you sure you want to really get off the fellow being on board?" />
+	<block key="GMC_6212" korean="[Target] wrote was successfully [Value] car strengthening of [ActorName] Fellow." />
+	<block key="GMC_6214" korean="[Exp] has acquired the experience. [PlusExp]" />
+	<block key="GMC_6474" korean="Unseal possible levels do not match can not be sealed off." />
+	<block key="GMC_6475" korean="Unseal possible ratings do not match can not be sealed off." />
+	<block key="GMC_6476" korean="The item can not be sealed off." />
+	<block key="GMC_9108" korean="Please select the items you want to clear the ear." />
+	<block key="GMC_9109" korean="The item can not be attributed to the release." />
+	<block key="GMC_9110" korean="Wear items are not picked up can be released." />
+	<block key="GMC_9111" korean="Are you sure you want to disable the attribution of [ItemName]?" />
+	<block key="GMC_9112" korean="Can no longer be turned off by the lack of attribution number of possible release." />
+	<block key="GMC_9113" korean="Bind off possible level can not be picked up off does not fit." />
+	<block key="GMC_9114" korean="Bind off possible rating can not be picked up off does not fit." />
+	<block key="GMC_9115" korean="Please select an item belonging to initialize the release number." />
+	<block key="GMC_9116" korean="Bind off the number of items that can not be initialized." />
+	<block key="GMC_9117" korean="Are you sure you want to initialize the attributable number of release [ItemName]?" />
+	<block key="GMC_9995" korean="Bind off was canceled." />
+	<block key="GMC_9996" korean="Bind off the number of initialization has been canceled." />
+	<block key="GMC_6221" korean="Please choose a sealed Fellow of the extract." />
+	<block key="GMC_6215" korean="This grade of Fellow sealed items can not be used to extract low." />
+	<block key="GMC_6216" korean="Fellow item can not extract the seal." />
+	<block key="GMC_6217" korean="Condition can not be extracted bonginseok not fit." />
+	<block key="GMC_6218" korean="The sealed fellow extraction was canceled." />
+	<block key="GMC_6219" korean="Please select the items you want to extract the seal Fellow." />
+	<block key="GMC_6220" korean="[FellowName] If you are you sure you want to extract? \u003cbr\u003e \u003cFont color = \" />
+	<block key="GMC_9982" korean="Please choose a Fellow items to unseal sealed." />
+	<block key="GMC_9994" korean="Unseal has been canceled." />
+	<block key="GMC_9118" korean="[ItemName] of belonging has been disabled" />
+	<block key="GMC_9119" korean="[ItemName] has been picked up off the number of recovery." />
+	<block key="GMC_6213" korean="[Cost] is required." />
+	<block key="GMC_6477" korean="Fellow item is not sealed." />
+	<block key="GMC_6478" korean="Bonginseok extraction is in progress." />
+	<block key="GMC_6479" korean="Bonginseok has been extracted." />
+	<block key="GMC_16100" korean="[Attacker] as the assault on [Target] slipped a victim of [Value]." />
+	<block key="GMC_16101" korean="Critical to [Target] to attack the [Attacker] slipped a victim of [Value]." />
+	<block key="GMC_16102" korean="Attack of the [Attacker] has been avoided, but to try to [Target]." />
+	<block key="GMC_16103" korean="[Attacker] attack hits, but try to comb [Target]." />
+	<block key="GMC_16104" korean="[Attacker] on defense, but the offense has a shot blocked attempts to [Target]." />
+	<block key="GMC_16105" korean="[Attacker], but this attempt to attack the [Target] clogged the shield." />
+	<block key="GMC_16106" korean="[Attacker], but this attempt to attack the [Target] clogged the weapon." />
+	<block key="GMC_16107" korean="[Attacker] of [SkillName] skill to [Target] slipped a victim of [Value]." />
+	<block key="GMC_16108" korean="[Attacker] of [SkillName] skills as critical to [Target] slipped a victim of [Value]." />
+	<block key="GMC_16109" korean="[Attacker] of [SkillName] attack skills have been avoided but for [Target]." />
+	<block key="GMC_16110" korean="[Attacker] of [SkillName] skill has been attacked by the rain hits [Target]." />
+	<block key="GMC_16111" korean="[Attacker] of [SkillName] skill has been attacked by the [Target] clogged the defense." />
+	<block key="GMC_16112" korean="[Attacker] of [SkillName] skill has been attacked by the [Target] clogged the shield." />
+	<block key="GMC_16113" korean="[Attacker] of [SkillName] skill has been attacked by the [Target] clogged the weapon." />
+	<block key="GMC_16114" korean="[Attacker] of [SkillName] skill to [Target] He restored by [Value]." />
+	<block key="GMC_16115" korean="[BuffName] the effect of [Attacker] has been applied to [Target]." />
+	<block key="GMC_16116" korean="[Attacker] of [BuffName] The effect has been released from the [Target]." />
+	<block key="GMC_16117" korean="[Attacker] of [BuffName] to [Target] to the effect of damage suffered [Value]." />
+	<block key="GMC_16118" korean="[Attacker] of [BuffName] to [Target] in effect as long as He restored [Value]." />
+	<block key="GMC_16119" korean="[BuffName] effects have been applied to [Target]." />
+	<block key="GMC_16120" korean="[BuffName] The effect has been released from the [Target]." />
+	<block key="GMC_16121" korean="[BuffName] to [Target] to the effect of damage suffered [Value]." />
+	<block key="GMC_16122" korean="[BuffName] to [Target] in effect as long as He restored [Value]." />
+	<block key="GMC_16500" korean="Attempting to attack [Target] of [Attacker] was clogged in the resistances." />
+	<block key="GMC_16501" korean="Attempting to attack [Target] of [Attacker] was clogged in the resistances." />
+	<block key="GMC_16502" korean="Attempting to attack [Target] of [Attacker] was clogged in the resistances." />
+	<block key="GMC_16510" korean="[Attacker] of [SkillName] skill has been attacked by the [Target] clogged the resistance." />
+	<block key="GMC_16511" korean="[Attacker] of [SkillName] skill has been attacked by the [Target] clogged the resistance." />
+	<block key="GMC_16512" korean="[Attacker] of [SkillName] skill has been attacked by the [Target] clogged the resistance." />
+	<block key="GMC_17500" korean="Would you like to subscribe to the exciter grown militias?" />
+	<block key="GMC_17501" korean="Are you sure you want to unsubscribe from the exciter grown militias?" />
+	<block key="GMC_17502" korean="[BuffName] buff\nWould you like to receive?" />
+	<block key="GMC_17503" korean="Exergy is already enrolled in the militia grew up." />
+	<block key="GMC_17504" korean="Exergy grew up not joining the militia." />
+	<block key="GMC_17505" korean="Exergy joined the militia grew up." />
+	<block key="GMC_17506" korean="Exergy has left the grown militias." />
+	<block key="GMC_17507" korean="The guild has grown militia to withdraw from the exciter upgraded to 3 stars." />
+	<block key="GMC_6361" korean="Guild Master Haim began." />
+	<block key="GMC_6362" korean="[Name] Guild Master has been dismissed." />
+	<block key="GMC_868" korean="[ItemName] items available job [Count] involved, only the dice roll." />
+	<block key="GMC_869" korean="[ItemName] Would you like to participate to the dice roll for the item?" />
+	<block key="GMC_6364" korean="The dismissal was canceled Guild Master Guild Master to connect to the game." />
+	<block key="GMC_6365" korean="Guild Master potential has been changed to [Name] 's." />
+	<block key="GMC_6480" korean="Fellow of [Name]" />
+	<block key="GMC_6481" korean="Pet of the [Name]" />
+	<block key="GMC_6366" korean="\u003cFont color = \" />
+	<block key="GMC_6367" korean="\u003cFont color = \" />
+	<block key="GMC_6368" korean="Please enter your name to declare war coalition." />
+	<block key="GMC_6369" korean="\u003cFont color = \Are you sure you want to surrender?" />
+	<block key="GMC_6370" korean="\u003cFont color = \" />
+	<block key="GMC_6371" korean="\u003cFont color = \" />
+	<block key="GMC_6372" korean="\u003cFont color = \" />
+	<block key="GMC_6373" korean="Union war results \u003cfont color = \" />
+	<block key="GMC_6374" korean="Union war results \u003cfont color = \" />
+	<block key="GMC_6375" korean="United won [Name] 's earned the connection." />
+	<block key="GMC_6222" korean="Lee Dae Ro Are you sure you want to change your appearance? \u003cbr\u003e Appearance change one volume is consumed." />
+	<block key="GMC_6223" korean="Do you want to change the look out screen? \u003cbr\u003e Change your appearance so far will be deleted." />
+	<block key="GMC_6224" korean="Would you like to go to change screen appearance?" />
+	<block key="GMC_6225" korean="Please have a shape change volume." />
+	<block key="gmc_6230" korean="Please select an item to explode." />
+	<block key="gmc_6227" korean="The items that can not be disassembled." />
+	<block key="gmc_6228" korean="The degree of decomposition tools can not be disassembled lower." />
+	<block key="gmc_9997" korean="The decomposition has been canceled." />
+	<block key="gmc_6229" korean="[ItemName] Are you sure you want to disassemble the item?" />
+	<block key="gmc_6231" korean="Please choose a bonginseok change the seal options." />
+	<block key="gmc_6233" korean="The item can not change the seal options." />
+	<block key="gmc_6232" korean="You can not change the rating is lower seal option of sealing options to change the item." />
+	<block key="gmc_6482" korean="This change has been canceled seal options." />
+	<block key="gmc_6483" korean="The seal options for [itemName] has changed." />
+	<block key="gmc_6234" korean="Do you want to change the seal options for [ItemName] \u003cbr\u003e \u003cfont color = \" />
+	<block key="gmc_6378" korean="[Killer] wrote scoring [Death] s." />
+	<block key="gmc_6379" korean="[Killer] to s [Death] 's got this." />
+	<block key="gmc_6235" korean="Wear items that can not be decomposed." />
+	<block key="gmc_25000" korean="There is no slot for the jewelry." />
+	<block key="gmc_25001" korean="Are you sure you want to replace the [ItemName] item?" />
+	<block key="gmc_25002" korean="Use the [ItemName] item, [Count] Do you want to enable the jewel of the slot \u003cbr\u003e \u003cfont color = \" />
+	<block key="gmc_25003" korean="Use the [ItemName] item, [Count] Do you want to enable the jewel of the slot \u003cbr\u003e \u003cfont color = \" />
+	<block key="gmc_25004" korean="[ItemName] Are you sure you want to extract the items?" />
+	<block key="gmc_25005" korean="[ItemName] Are you sure you want to extract the item? \u003cbr\u003e Extraction when [Price] gold is consumed." />
+	<block key="gmc_25006" korean="[ItemName] Are you sure you want to extract the item? \u003cbr\u003e Extraction when [Price] Elounda is consumed." />
+	<block key="gmc_25007" korean="Failed to extract, [ItemName] This item has been destroyed." />
+	<block key="gmc_25008" korean="[ItemName] This item has been extracted." />
+	<block key="gmc_25009" korean="Possession of a lack of money can not be extracted." />
+	<block key="gmc_25010" korean="You do not have jewelry items that can be extracted." />
+	<block key="gmc_25011" korean="Jewelry extraction has been canceled" />
+	<block key="gmc_25012" korean="The item can not be extracted." />
+	<block key="gmc_6380" korean="Are you sure you want to cancel the declaration of war?" />
+	<block key="gmc_6381" korean="\u003cFont color = \" />
+	<block key="gmc_9228" korean="Fellows must have been summoned, or in combination with the Ctrl key can be used to Fellow of the library." />
+	<block key="gmc_9229" korean="[FellowName] Would you like to use the items to fellow?" />
+	<block key="gmc_9983" korean="Fellow use items has been canceled." />
+	<block key="gmc_9124" korean="Please choose a Fellow for the item." />
+	<block key="gmc_6236" korean="Physical Attack Power [Str_Att] Increases Per." />
+	<block key="gmc_6237" korean="Intelligent per spell damage [Int_SpAtt] will increase." />
+	<block key="gmc_6238" korean="Agility Physical Crit rate per 1 [Dex_PhAttCri], dodge [Dex_PhAvd], physical critical damage [Dex_WpCriPow] will increase." />
+	<block key="gmc_6239" korean="Spirit Magical Critical rate per 1 [Mtl_SpAttCri], Mana [Mtl_mp], magic critical damage [Mtl_SpCriPow] will increase." />
+	<block key="gmc_6240" korean="Physical vitality [Vtl_hp] per, Critical Damage Protection [Vtl_CriDamReduce] will increase." />
+	<block key="gmc_19005" korean="The winner is not present, restart the auction." />
+	<block key="gmc_6241" korean="Ships have been updated to close the window." />
+	<block key="gmc_6242" korean="5 seconds [RecHpPow] of life is natural recovery." />
+	<block key="gmc_25013" korean="In the state gem is mounted, you can not attach the bracelet items." />
+	<block key="gmc_18107" korean="Are you sure you want to produce a [ItemName]? Production failure, material items will be destroyed." />
+	<block key="gmc_6243" korean="Is moving to the shape change modes." />
+	<block key="gmc_6244" korean="After the appearance change mode is exited available." />
+	<block key="gmc_6245" korean="Is a Fellow status is cleared away." />
+	<block key="gmc_6246" korean="[TIME] after changes to Away status." />
+	<block key="gmc_706" korean="If you lower the user's monitor specifications, gameplay may not be smooth." />
+	<block key="gmc_6247" korean="Initialization failed because prevention is not selected enhanced when \u003cbr\u003e items can be initialized. Are you sure you want to continue strengthening the \u003cbr\u003e \u003cbr\u003e?" />
+	<block key="gmc_6248" korean="Does not prevent the destruction of selection can be strengthened failure destroys the \u003cbr\u003e items. Do you want to continue strengthening the \u003cbr\u003e \u003cbr\u003e?" />
+	<block key="gmc_6249" korean="Initialization, destruction has not been selected strengthen prevention fails \u003cbr\u003e items can be initialized or destroyed. Do you want to continue strengthening the \u003cbr\u003e \u003cbr\u003e?" />
+</blocks>

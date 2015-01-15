@@ -1,0 +1,107 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="e_f04_flybabray_001_Name" korean="Key Izu" />
+	<block key="e_f04_flybabray_001_NameDetail" korean="" />
+	<block key="e_f04_force_ac_001_Name" korean="Energy amplifier" />
+	<block key="e_f04_force_ac_001_NameDetail" korean="" />
+	<block key="E_f04_SkullH1_001_Name" korean="Forlorn hope" />
+	<block key="E_f04_SkullH1_001_NameDetail" korean="Ancient Legion" />
+	<block key="E_f04_CabeElit_001_Name" korean="Warbringer" />
+	<block key="E_f04_CabeElit_001_NameDetail" korean="Ancient Legion" />
+	<block key="E_f04_SkullB2_002_Name" korean="Chapter gungbyeong" />
+	<block key="E_f04_SkullB2_002_NameDetail" korean="Ancient Legion" />
+	<block key="e_f04_ImmoMagi_003_Name" korean="Skull order Inc." />
+	<block key="e_f04_ImmoMagi_003_NameDetail" korean="Immortal Legion" />
+	<block key="e_f04_ImmoKnigh_003_Name" korean="Articles for black" />
+	<block key="e_f04_ImmoKnigh_003_NameDetail" korean="Immortal Legion" />
+	<block key="e_f04_ImmoSoldi_002_Name" korean="Minions for article" />
+	<block key="e_f04_ImmoSoldi_002_NameDetail" korean="Immortal Legion" />
+	<block key="E_f04_Wisp_001_Name" korean="Transparent aura" />
+	<block key="E_f04_Wisp_001_NameDetail" korean="" />
+	<block key="E_f04_Wisp_002_Name" korean="Transparent aura" />
+	<block key="E_f04_Wisp_002_NameDetail" korean="" />
+	<block key="E_f04_Soul_Stone_001_name" korean="Pieces of Life" />
+	<block key="E_f04_Soul_Stone_001_namedetail" korean="" />
+	<block key="e_f05_whale_0001_name" korean="Leto Void other Asian" />
+	<block key="e_f05_whale_0001_namedetail" korean="" />
+	<block key="e_f05_dragbone_001_name" korean="Void in Krabi de" />
+	<block key="e_f05_dragbone_001_namedetail" korean="" />
+	<block key="E_D22_flybabray_001_name" korean="Nose Woods" />
+	<block key="E_D22_flybabray_001_namedetail" korean="" />
+	<block key="E_F04_Griffon_0001_name" korean="Cargo days of the Void" />
+	<block key="E_F04_Griffon_0001_namedetail" korean="" />
+	<block key="E_F04_Griffon_0002_name" korean="Dawn of cargo work" />
+	<block key="E_F04_Griffon_0002_namedetail" korean="" />
+	<block key="e_f04_DimpM1_0000_name" korean="Immortal Legion Imp" />
+	<block key="e_f04_DimpM1_0000_namedetail" korean="" />
+	<block key="E_F04_StormEgg_0001_name" korean="Al-drive Equus" />
+	<block key="E_F04_StormEgg_0001_namedetail" korean="" />
+	<block key="E_F04_VampBat_0001_name" korean="Shadow chief bats" />
+	<block key="E_F04_VampBat_0001_namedetail" korean="" />
+	<block key="E_F04_VampBat_0002_name" korean="Dark Bat" />
+	<block key="E_F04_VampBat_0002_namedetail" korean="" />
+	<block key="E_f04_Beldon_0001_name" korean="Beldeon Immortal" />
+	<block key="E_f04_Beldon_0001_namedetail" korean="" />
+	<block key="e_f04_ImmoLilis_002_name" korean="Immortal Legion Lilith" />
+	<block key="e_f04_ImmoLilis_002_namedetail" korean="" />
+	<block key="e_f04_ImmoSoldi_003_name" korean="Immortal Legion soldiers" />
+	<block key="e_f04_ImmoSoldi_003_namedetail" korean="" />
+	<block key="e_f04_ImmoHopli_004_name" korean="Immortal Legion Lt. bottle" />
+	<block key="e_f04_ImmoHopli_004_namedetail" korean="" />
+	<block key="e_f04_ImmoKnigh_006_name" korean="Immortal Legion articles" />
+	<block key="e_f04_ImmoKnigh_006_namedetail" korean="" />
+	<block key="e_f04_ImmoMagi_006_name" korean="Immortal Legion Shaman" />
+	<block key="e_f04_ImmoMagi_006_namedetail" korean="" />
+	<block key="E_f04_ElquFairy_001_name" korean="Ike Liao" />
+	<block key="E_f04_ElquFairy_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_001_name" korean="Red Light Wisp" />
+	<block key="E_f04_Spirwisp_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_002_name" korean="Blue Wisp" />
+	<block key="E_f04_Spirwisp_002_namedetail" korean="" />
+	<block key="E_f04_ChaoDeram_001_name" korean="De Porta" />
+	<block key="E_f04_ChaoDeram_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_003_name" korean="Stained with dark ghost" />
+	<block key="E_f04_Spirwisp_003_namedetail" korean="" />
+	<block key="E_f04_ghost_001_name" korean="A wandering ghost" />
+	<block key="E_f04_ghost_001_namedetail" korean="" />
+	<block key="E_f04_GoleAncf_001_name" korean="Naples cancer" />
+	<block key="E_f04_GoleAncf_001_namedetail" korean="" />
+	<block key="E_f04_GoleAncu_002_name" korean="Ram Pai" />
+	<block key="E_f04_GoleAncu_002_namedetail" korean="" />
+	<block key="E_f04_hatchling_001_name" korean="Blazer" />
+	<block key="E_f04_hatchling_001_namedetail" korean="" />
+	<block key="E_F04_ColdAncfi_001_name" korean="Klee Shea" />
+	<block key="E_F04_ColdAncfi_001_namedetail" korean="" />
+	<block key="E_f04_MoorCharg_001_name" korean="Frozen Spirits" />
+	<block key="E_f04_MoorCharg_001_namedetail" korean="" />
+	<block key="E_f04_Moorjavel_001_name" korean="Chilled spirits" />
+	<block key="E_f04_Moorjavel_001_namedetail" korean="" />
+	<block key="E_F04_Golebomb_001_name" korean="Live fire bomb" />
+	<block key="E_F04_Golebomb_001_namedetail" korean="" />
+	<block key="E_F04_spidTa_001_name" korean="Abercrombie \u0026 Fitch Renee" />
+	<block key="E_F04_spidTa_001_namedetail" korean="Soul Devourer" />
+	<block key="E_F04_spid_001_name" korean="Soul Predators" />
+	<block key="E_F04_spid_001_namedetail" korean="" />
+	<block key="E_F04_spid_002_name" korean="Soul probe" />
+	<block key="E_F04_spid_002_namedetail" korean="" />
+	<block key="E_F04_spidEgg_0001_name" korean="Know for the ancient" />
+	<block key="E_F04_spidEgg_0001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_004_name" korean="Cursed Soul" />
+	<block key="E_f04_Spirwisp_004_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_005_name" korean="Suffering soul" />
+	<block key="E_f04_Spirwisp_005_namedetail" korean="" />
+	<block key="E_F04_Spid_003_Name" korean="Soul spider" />
+	<block key="E_F04_Spid_003_NameDetail" korean="" />
+	<block key="E_F04_Spir_001_Name" korean="Fallen Fairy lights" />
+	<block key="E_F04_Spir_001_NameDetail" korean="" />
+	<block key="e_f04_flybabray_003_Name" korean="Kane needs" />
+	<block key="e_f04_flybabray_003_NameDetail" korean="" />
+	<block key="e_f04_flybabray_004_Name" korean="Ms. Koo" />
+	<block key="e_f04_flybabray_004_NameDetail" korean="" />
+</blocks>

@@ -1,0 +1,1203 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="GMC_0" korean="P­´Ì " />
+	<block key="GMC_1" korean="¬Ç¬À©Æ " />
+	<block key="GMC_2" korean="Á„¼@Æ " />
+	<block key="GMC_3" korean="DÕ”Æ\Õ " />
+	<block key="GMC_4" korean="$±Ü´xÇtÇ " />
+	<block key="GMC_5" korean=" Ó\¸°Æ" />
+	<block key="GMC_6" korean="˜Ç»º´ " />
+	<block key="GMC_7" korean="P­´Ì " />
+	<block key="GMC_8" korean="$±Ü´xÇ@Ç " />
+	<block key="GMC_9" korean="ÀÐŸ¬ " />
+	<block key="GMC_19" korean=")Ì©Æ " />
+	<block key="GMC_20" korean="DÅtÇ\ÑDÇ " />
+	<block key="GMC_21" korean="p¬˜· " />
+	<block key="GMC_22" korean="„¼´¹ " />
+	<block key="GMC_23" korean="ðÅ°¬ " />
+	<block key="GMC_24" korean="DÅtÇ\ÑDÇ " />
+	<block key="GMC_25" korean="" />
+	<block key="GMC_26" korean="´°l­%¸tÇ " />
+	<block key="GMC_27" korean="DÅtÇ\ÑtÇ " />
+	<block key="GMC_28" korean="°¬Á " />
+	<block key="GMC_29" korean="°¬Á " />
+	<block key="GMC_30" korean="DÅtÇ\ÑDÇ " />
+	<block key="GMC_31" korean="ÈÈ " />
+	<block key="GMC_32" korean="ÝÀ°À " />
+	<block key="GMC_33" korean="DÕ”Æ\Õ " />
+	<block key="GMC_35" korean=")Ì©Æ " />
+	<block key="GMC_36" korean=")Ì©Æ " />
+	<block key="GMC_37" korean="È,Ò " />
+	<block key="GMC_38" korean="È,Ò " />
+	<block key="GMC_39" korean="[" />
+	<block key="GMC_40" korean="[" />
+	<block key="GMC_41" korean="[" />
+	<block key="GMC_42" korean=")Ì©Æ " />
+	<block key="GMC_43" korean="¬Âo¸DÇ " />
+	<block key="GMC_44" korean="[" />
+	<block key="GMC_45" korean="Èù²\Õ " />
+	<block key="GMC_46" korean="Ù³‘Ç " />
+	<block key="GMC_47" korean="`ÌÀÉ " />
+	<block key="GMC_48" korean="¬À©Æ " />
+	<block key="GMC_49" korean="[" />
+	<block key="GMC_50" korean="[" />
+	<block key="GMC_71" korean="p¬˜·`Õ " />
+	<block key="GMC_73" korean="[" />
+	<block key="GMC_100" korean="4×ÝÂÀÉíÅ " />
+	<block key="GMC_101" korean="4×ÝÂÀÉíÅ " />
+	<block key="GMC_102" korean="R" />
+	<block key="GMC_139" korean="[" />
+	<block key="GMC_140" korean="T³ " />
+	<block key="GMC_141" korean="Â(¸ " />
+	<block key="GMC_142" korean="Ö¬Ç " />
+	<block key="GMC_143" korean="4»0®|¹ " />
+	<block key="GMC_144" korean="[" />
+	<block key="GMC_145" korean="[" />
+	<block key="GMC_146" korean="[" />
+	<block key="GMC_147" korean="¤Â¬Ð " />
+	<block key="GMC_148" korean="¤Â¬ÐDÇ " />
+	<block key="GMC_149" korean="€½\Ö " />
+	<block key="GMC_150" korean="tÇÙ³ " />
+	<block key="GMC_151" korean="ÈíÅ " />
+	<block key="GMC_152" korean="[" />
+	<block key="GMC_153" korean="¬Ç¬À©Æ " />
+	<block key="GMC_154" korean="0¼¸Æ " />
+	<block key="GMC_155" korean="P­´Ì`Õ " />
+	<block key="GMC_156" korean="¤Â¬Ð " />
+	<block key="GMC_157" korean="[" />
+	<block key="GMC_158" korean="¬ÀÈp¬¬¹" />
+	<block key="GMC_159" korean="Á¹lÐ´ " />
+	<block key="GMC_160" korean="tÕù² " />
+	<block key="GMC_161" korean="²È " />
+	<block key="GMC_162" korean=",Ò…ºTÖ " />
+	<block key="GMC_163" korean="ÀÐŸ¬tÇ " />
+	<block key="GMC_164" korean="õ¬©¬)¼¥ÕtÇ " />
+	<block key="GMC_165" korean="[" />
+	<block key="GMC_166" korean="tÕù² " />
+	<block key="GMC_167" korean="tÕù² " />
+	<block key="GMC_168" korean="tÕù² " />
+	<block key="GMC_169" korean="tÕù² " />
+	<block key="GMC_170" korean="(ÓÜÂ¾ " />
+	<block key="GMC_171" korean="p¬¬¹" />
+	<block key="GMC_172" korean=" ÁÝÐ\Õ " />
+	<block key="GMC_173" korean="" />
+	<block key="GMC_174" korean="`ÌÀÉ" />
+	<block key="GMC_175" korean="õ¬ÉÐÅÁ " />
+	<block key="GMC_176" korean="ÜÂÈ " />
+	<block key="GMC_177" korean=" Ó\¸°Æ" />
+	<block key="GMC_178" korean="ŒÁXÖ´ " />
+	<block key="GMC_179" korean="ÜÂÈ " />
+	<block key="GMC_180" korean="" />
+	<block key="GMC_181" korean="¥Ç`Å<»\¸ " />
+	<block key="GMC_300" korean="¬À©Æ" />
+	<block key="GMC_401" korean="ÑÐ¹Â " />
+	<block key="GMC_402" korean="¬ÀÝ¹ " />
+	<block key="GMC_500" korean="¬À©Æ`Õ " />
+	<block key="GMC_501" korean="T³ " />
+	<block key="GMC_600" korean="/" />
+	<block key="GMC_601" korean="/" />
+	<block key="GMC_602" korean="/" />
+	<block key="GMC_603" korean="/" />
+	<block key="GMC_604" korean="/" />
+	<block key="GMC_605" korean="/" />
+	<block key="GMC_606" korean="/" />
+	<block key="GMC_607" korean="/" />
+	<block key="GMC_608" korean="/" />
+	<block key="GMC_700" korean="À¼½¬´ " />
+	<block key="GMC_701" korean="5ÆXÁDÇ " />
+	<block key="GMC_800" korean="ÓðÒ|¹ " />
+	<block key="GMC_801" korean="ÓðÒ|¹ " />
+	<block key="GMC_802" korean="[" />
+	<block key="GMC_803" korean="[" />
+	<block key="GMC_804" korean="[" />
+	<block key="GMC_805" korean="[" />
+	<block key="GMC_806" korean="¨ºà´ " />
+	<block key="GMC_807" korean="¨ºà´ " />
+	<block key="GMC_808" korean="\Õ…ºXÇ " />
+	<block key="GMC_809" korean="¨ºà´ " />
+	<block key="GMC_810" korean="l×À­ " />
+	<block key="GMC_811" korean="ÆÅÆ " />
+	<block key="GMC_812" korean="È$Á " />
+	<block key="GMC_813" korean="ÓðÒ" />
+	<block key="GMC_814" korean="ÓðÒ" />
+	<block key="GMC_815" korean="[" />
+	<block key="GMC_816" korean="|Ç¼ " />
+	<block key="GMC_817" korean="[" />
+	<block key="GMC_818" korean="[" />
+	<block key="GMC_819" korean="[" />
+	<block key="GMC_820" korean="[" />
+	<block key="GMC_821" korean="DÅtÇ\Ñ " />
+	<block key="GMC_822" korean="[" />
+	<block key="GMC_823" korean="[" />
+	<block key="GMC_824" korean="[" />
+	<block key="GMC_825" korean="[" />
+	<block key="GMC_826" korean="[" />
+	<block key="GMC_827" korean="[" />
+	<block key="GMC_828" korean="[" />
+	<block key="GMC_829" korean="[" />
+	<block key="GMC_830" korean="[" />
+	<block key="GMC_831" korean="[" />
+	<block key="GMC_832" korean="[" />
+	<block key="GMC_850" korean="[" />
+	<block key="GMC_851" korean="[" />
+	<block key="GMC_852" korean="È,Ò " />
+	<block key="GMC_900" korean="" />
+	<block key="GMC_1000" korean="$±Ü´xÇÌ¹ " />
+	<block key="GMC_1001" korean="[" />
+	<block key="GMC_1002" korean="[" />
+	<block key="GMC_1003" korean="[" />
+	<block key="GMC_1004" korean="[" />
+	<block key="GMC_1005" korean="[" />
+	<block key="GMC_1006" korean="[" />
+	<block key="GMC_1007" korean="[" />
+	<block key="GMC_1008" korean="[" />
+	<block key="GMC_1009" korean="[" />
+	<block key="GMC_1010" korean="Ð¤Â¸Ò|¹ " />
+	<block key="GMC_1011" korean=" ÁÝÐ " />
+	<block key="GMC_1012" korean=" ÁÝÐ " />
+	<block key="GMC_2100" korean="[" />
+	<block key="GMC_2101" korean="[" />
+	<block key="GMC_2102" korean="[" />
+	<block key="GMC_2103" korean="°¬,Ò " />
+	<block key="GMC_2104" korean="°¬,ÒÐÅÁ " />
+	<block key="GMC_2105" korean="°¬,ÒÐÅÁ " />
+	<block key="GMC_2106" korean="°¬,Ò " />
+	<block key="GMC_2107" korean="[" />
+	<block key="GMC_2108" korean="p¬¬¹" />
+	<block key="GMC_2109" korean="°¬,Ò" />
+	<block key="GMC_2110" korean="°¬,Ò " />
+	<block key="GMC_2111" korean="È,Ò " />
+	<block key="GMC_2112" korean="°¬,Ò " />
+	<block key="GMC_2200" korean="[" />
+	<block key="GMC_2201" korean="[" />
+	<block key="GMC_2202" korean="[" />
+	<block key="GMC_2203" korean="[" />
+	<block key="GMC_2204" korean="[" />
+	<block key="GMC_2205" korean="[" />
+	<block key="GMC_2206" korean="[" />
+	<block key="GMC_2207" korean="[" />
+	<block key="GMC_2208" korean="¬Àå°DÇ " />
+	<block key="GMC_2209" korean="YÕ´ÀDÇ " />
+	<block key="GMC_2210" korean="<ÕXÇ " />
+	<block key="GMC_2211" korean="È" />
+	<block key="GMC_3000" korean="tÇÙ³ " />
+	<block key="GMC_3001" korean="aÅXÁ " />
+	<block key="GMC_3002" korean="õ¬ìÓ " />
+	<block key="GMC_4000" korean="¬@Ç " />
+	<block key="GMC_4001" korean="ÁD¾¤Â " />
+	<block key="GMC_4002" korean="Õ\¸ø­¨· " />
+	<block key="GMC_4003" korean="¥Ç0®¬ " />
+	<block key="GMC_4004" korean="0®ÀÐ " />
+	<block key="GMC_4005" korean="tÇø» " />
+	<block key="GMC_4006" korean="ÈÁÐÅ " />
+	<block key="GMC_4007" korean="\¸ø­xÇ " />
+	<block key="GMC_4008" korean="Œ¬„Ç " />
+	<block key="GMC_4009" korean="ÈÁ " />
+	<block key="GMC_4010" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="GMC_4011" korean="˜Ç»º´ " />
+	<block key="GMC_4012" korean="¾í·´ " />
+	<block key="GMC_4013" korean="¾í·´ " />
+	<block key="GMC_4014" korean="Œ¬„Ç " />
+	<block key="GMC_4015" korean="ä²x¹ " />
+	<block key="GMC_4016" korean="D" />
+	<block key="GMC_4017" korean="Ä¬ÈtÇ " />
+	<block key="GMC_4018" korean="TºxÇ " />
+	<block key="GMC_4019" korean="\Í" />
+	<block key="GMC_4020" korean="˜Ç»º´ " />
+	<block key="GMC_4021" korean="LÅ " />
+	<block key="GMC_4022" korean="DÌ± " />
+	<block key="GMC_4023" korean="D" />
+	<block key="GMC_4024" korean="Î­¹0Ñ " />
+	<block key="GMC_4025" korean="tÈ¬ÇXÕÀÉ " />
+	<block key="GMC_4026" korean="Î­¹0Ñ " />
+	<block key="GMC_4027" korean="¨ºP´ " />
+	<block key="GMC_4028" korean="[" />
+	<block key="GMC_4029" korean="P´ˆ¼øÉ " />
+	<block key="GMC_4030" korean="ñ´]¸´ " />
+	<block key="GMC_4031" korean="‘ÇÙ³ " />
+	<block key="GMC_4032" korean="¬@Ç " />
+	<block key="GMC_4033" korean=" ÁÝÐ\Õ " />
+	<block key="GMC_4034" korean="¾í· Ç" />
+	<block key="GMC_4035" korean="(Ó·Ð$ÆX¹" />
+	<block key="GMC_4036" korean="ÜÂ¤Â\ÑÈxÇ " />
+	<block key="GMC_4037" korean="\¸ø­xÇ " />
+	<block key="GMC_4038" korean="Œ¬„Ç " />
+	<block key="GMC_4039" korean="D¾" />
+	<block key="GMC_4040" korean="DÅtÇµ”² " />
+	<block key="GMC_5000" korean="…º9¸ " />
+	<block key="GMC_5001" korean="…º9¸ " />
+	<block key="GMC_5002" korean="…º9¸´Å" />
+	<block key="GMC_5003" korean="«Ìˆ¼øÉ " />
+	<block key="GMC_5004" korean="P´ˆ¼øÉ " />
+	<block key="GMC_5005" korean="8Áˆ¼øÉ " />
+	<block key="GMC_5006" korean="P´ˆ¼øÉ " />
+	<block key="GMC_6000" korean="%" />
+	<block key="GMC_6001" korean=" " />
+	<block key="GMC_6002" korean="DÕ”Æ " />
+	<block key="GMC_6003" korean="%" />
+	<block key="GMC_6004" korean="%" />
+	<block key="GMC_6005" korean="tÕù² " />
+	<block key="GMC_6006" korean="ÖÝ´`Õ " />
+	<block key="GMC_6007" korean="ô¼ÁÀDÇ " />
+	<block key="GMC_6008" korean="D¾" />
+	<block key="GMC_6009" korean="Î­¹0Ñ|¹ " />
+	<block key="GMC_6010" korean="à¬¬Ø²XÇ " />
+	<block key="GMC_6011" korean=" ÁÝÐXÕàÂ " />
+	<block key="GMC_6012" korean=" ÁÝÐXÕàÂ " />
+	<block key="GMC_6013" korean="€½\Ö„¼¼ÒDÇ " />
+	<block key="GMC_6014" korean="(" />
+	<block key="GMC_6015" korean="ù²àÂ@Ç " />
+	<block key="GMC_6016" korean="(" />
+	<block key="GMC_6017" korean="DÌÓ=Ì " />
+	<block key="GMC_6018" korean="DÌÓ=Ì " />
+	<block key="GMC_6019" korean=",Æ¼x¹ " />
+	<block key="GMC_6020" korean=" ÁÝÐ\Õ " />
+	<block key="GMC_6021" korean="%" />
+	<block key="GMC_6022" korean="Ö¬Ç " />
+	<block key="GMC_6023" korean="[" />
+	<block key="GMC_6024" korean="tÕù² " />
+	<block key="GMC_6025" korean="ŒÁÀÉ®tÇ " />
+	<block key="GMC_6026" korean="Ö¬Ç " />
+	<block key="GMC_6027" korean="%" />
+	<block key="GMC_6028" korean="%" />
+	<block key="GMC_6029" korean="¬À©Æ`Õ " />
+	<block key="GMC_6030" korean="¬À©Æ`Õ " />
+	<block key="GMC_6031" korean="¬À©Æ`Õ " />
+	<block key="GMC_6032" korean="¬À©Æ`Õ " />
+	<block key="GMC_6033" korean="¬À©Æ`Õ " />
+	<block key="GMC_6034" korean="¬À©Æ`Õ " />
+	<block key="GMC_6035" korean="¬À©Æ`Õ " />
+	<block key="GMC_6036" korean="¬À©Æ`Õ " />
+	<block key="GMC_6037" korean="õ¬1¼/" />
+	<block key="GMC_6038" korean="2" />
+	<block key="GMC_6039" korean="\Õ" />
+	<block key="GMC_6040" korean="Ö¬Ç " />
+	<block key="GMC_6041" korean="Œ¬„ÇDÇ " />
+	<block key="GMC_6042" korean="[" />
+	<block key="GMC_6043" korean="DÅtÇ\Ñ " />
+	<block key="GMC_6044" korean="Éõ¼´ " />
+	<block key="GMC_6045" korean="[" />
+	<block key="GMC_6046" korean="[" />
+	<block key="GMC_6047" korean="[" />
+	<block key="GMC_6048" korean="[" />
+	<block key="GMC_6049" korean="[" />
+	<block key="GMC_6050" korean="[" />
+	<block key="GMC_6051" korean="[" />
+	<block key="GMC_6052" korean="[" />
+	<block key="GMC_6053" korean="[" />
+	<block key="GMC_6054" korean="[" />
+	<block key="GMC_6055" korean="[" />
+	<block key="GMC_6056" korean="[" />
+	<block key="GMC_6057" korean="[" />
+	<block key="GMC_6058" korean="À­XÖÇXÎ\¸ " />
+	<block key="GMC_6059" korean="À­XÖÇXÎ\¸ " />
+	<block key="GMC_6060" korean="[" />
+	<block key="GMC_6061" korean="¬À©Æ`Õ " />
+	<block key="GMC_6062" korean="[" />
+	<block key="GMC_6063" korean="[" />
+	<block key="GMC_6064" korean="¤Â¬ÐìÓxÇ¸Ò" />
+	<block key="GMC_6065" korean="" />
+	<block key="GMC_6066" korean="[" />
+	<block key="GMC_6067" korean="" />
+	<block key="GMC_6068" korean="(ÓÜÂ¾ " />
+	<block key="GMC_6069" korean="[" />
+	<block key="GMC_6070" korean="D¾©ÆtÇ " />
+	<block key="GMC_6071" korean="Ö¬Ç " />
+	<block key="GMC_6072" korean="Ð¤Â¸Ò " />
+	<block key="GMC_6073" korean="€½\Ö " />
+	<block key="GMC_6074" korean="[" />
+	<block key="GMC_6075" korean="[" />
+	<block key="GMC_6076" korean="[" />
+	<block key="GMC_6077" korean="[" />
+	<block key="GMC_6078" korean="Î¤ÂÓ " />
+	<block key="GMC_6079" korean="[" />
+	<block key="GMC_6080" korean="[" />
+	<block key="GMC_6081" korean="[" />
+	<block key="GMC_6082" korean="[" />
+	<block key="GMC_6083" korean="[" />
+	<block key="GMC_6084" korean="[" />
+	<block key="GMC_6085" korean="[" />
+	<block key="GMC_6086" korean="=Ìà¬ÐÅ " />
+	<block key="GMC_6087" korean="=Ìà¬ÐÅÁ " />
+	<block key="GMC_6088" korean="ÈÕ©Æ´ " />
+	<block key="GMC_6089" korean="Î­¹0Ñ…ºDÇ " />
+	<block key="GMC_6090" korean="[" />
+	<block key="GMC_6091" korean="tÕù² " />
+	<block key="GMC_6092" korean="ù²àÂ@Ç " />
+	<block key="GMC_6093" korean="ù²àÂXÇ " />
+	<block key="GMC_6094" korean="[" />
+	<block key="GMC_6095" korean="[" />
+	<block key="GMC_6096" korean="[" />
+	<block key="GMC_6097" korean="[" />
+	<block key="GMC_6098" korean="[" />
+	<block key="GMC_6099" korean="[" />
+	<block key="GMC_6100" korean="[" />
+	<block key="GMC_6101" korean="[" />
+	<block key="GMC_6102" korean="TºÜÂÀÉ " />
+	<block key="GMC_6103" korean="À¼½¬`Õ " />
+	<block key="GMC_6104" korean=" Ç" />
+	<block key="GMC_6105" korean="[" />
+	<block key="GMC_6106" korean="[" />
+	<block key="GMC_6107" korean="Æ<ÖÁ " />
+	<block key="GMC_6108" korean="Æ<ÖÁ " />
+	<block key="GMC_6109" korean="ýÈ@Ç " />
+	<block key="GMC_6110" korean="1" />
+	<block key="GMC_6111" korean="ÓðÒÍ" />
+	<block key="GMC_6112" korean="[" />
+	<block key="GMC_6113" korean="ÇXÎ " />
+	<block key="GMC_6114" korean="ÇXÎ " />
+	<block key="GMC_6115" korean="[" />
+	<block key="GMC_6116" korean="[" />
+	<block key="GMC_6117" korean="[" />
+	<block key="GMC_6118" korean="X³ÈtÇ " />
+	<block key="GMC_6119" korean="X³ÈDÇ " />
+	<block key="GMC_6120" korean="8ÖÇÐ¤Â¸Ò " />
+	<block key="GMC_6121" korean="ä²x¹ " />
+	<block key="GMC_6122" korean="õ¬©¬" />
+	<block key="GMC_6123" korean="[" />
+	<block key="GMC_6124" korean="[" />
+	<block key="GMC_6125" korean="X³ÈtÇ " />
+	<block key="GMC_6126" korean="[" />
+	<block key="GMC_6127" korean="[" />
+	<block key="GMC_6128" korean="[" />
+	<block key="GMC_6129" korean="[" />
+	<block key="GMC_6130" korean="ÓðÒ " />
+	<block key="GMC_6131" korean="õ¬©¬" />
+	<block key="GMC_6132" korean="Ö¬Ç " />
+	<block key="GMC_6133" korean="[" />
+	<block key="GMC_6134" korean="[" />
+	<block key="GMC_6135" korean="[" />
+	<block key="GMC_6136" korean="ÓðÒÐÅ " />
+	<block key="GMC_6137" korean="¬Ç…Ç¥Ç " />
+	<block key="GMC_6138" korean="[" />
+	<block key="GMC_6139" korean="[" />
+	<block key="GMC_6140" korean="[" />
+	<block key="GMC_6141" korean="[" />
+	<block key="GMC_6142" korean="$Æ Ñ " />
+	<block key="GMC_6143" korean="\" />
+	<block key="GMC_6144" korean="[" />
+	<block key="GMC_6145" korean="[" />
+	<block key="GMC_6146" korean="$Æ Ñ " />
+	<block key="GMC_6147" korean="üÈXÇ!" />
+	<block key="GMC_6148" korean=" ÇÜÂ " />
+	<block key="GMC_6149" korean=" ÇÜÂ " />
+	<block key="GMC_6150" korean="[" />
+	<block key="GMC_6151" korean="[" />
+	<block key="GMC_6152" korean="[" />
+	<block key="GMC_6153" korean="X³È " />
+	<block key="GMC_6155" korean="[" />
+	<block key="GMC_6156" korean="[" />
+	<block key="GMC_6157" korean="ÑÐ¹Â”Æ­ÌDÇ " />
+	<block key="GMC_6158" korean="ÑÐ¹ÂÍ" />
+	<block key="GMC_6159" korean="ä²xÇÑÐ¹ÂtÇ " />
+	<block key="GMC_6160" korean="ä²xÇÑÐ¹ÂtÇ " />
+	<block key="GMC_6166" korean="ÈÐ¹ " />
+	<block key="GMC_6167" korean="[" />
+	<block key="GMC_6168" korean="[" />
+	<block key="GMC_6169" korean="[" />
+	<block key="GMC_6170" korean="ä²x¹ " />
+	<block key="GMC_6171" korean="[" />
+	<block key="GMC_6172" korean="[" />
+	<block key="GMC_6300" korean="8®Ü´ " />
+	<block key="GMC_6301" korean="xÇ¬ÀÐ¹DÇ " />
+	<block key="GMC_6302" korean="tÇ„¹DÇ " />
+	<block key="GMC_6303" korean="\" />
+	<block key="GMC_6304" korean="[" />
+	<block key="GMC_6305" korean="[" />
+	<block key="GMC_6306" korean="[" />
+	<block key="GMC_6307" korean="8®Ü´" />
+	<block key="GMC_6308" korean="[" />
+	<block key="GMC_6309" korean="[" />
+	<block key="GMC_6310" korean="8®Ü´È¹¤Â0Ñ”² " />
+	<block key="GMC_6311" korean="[" />
+	<block key="GMC_6312" korean="8®Ü´ÐÅ " />
+	<block key="GMC_6313" korean="[" />
+	<block key="GMC_6314" korean="8®Ü´" />
+	<block key="GMC_6315" korean="8®Ü´ÐÅ " />
+	<block key="GMC_6316" korean="[" />
+	<block key="GMC_6317" korean="8®Ü´ " />
+	<block key="GMC_6321" korean="8®Ü´ " />
+	<block key="GMC_6322" korean=" Ç" />
+	<block key="GMC_6323" korean="8®Ü´È¹lÐ|¹ " />
+	<block key="GMC_6341" korean="ðÅiÕtÇ " />
+	<block key="GMC_6342" korean="[" />
+	<block key="GMC_6343" korean="[" />
+	<block key="GMC_6344" korean="[" />
+	<block key="GMC_6345" korean="[" />
+	<block key="GMC_6346" korean="[" />
+	<block key="GMC_6347" korean="[" />
+	<block key="GMC_6348" korean="ðÅiÕ " />
+	<block key="GMC_6349" korean="[" />
+	<block key="GMC_6350" korean="[" />
+	<block key="GMC_6351" korean="[" />
+	<block key="GMC_6352" korean="ðÅiÕtÇ " />
+	<block key="GMC_6353" korean="[" />
+	<block key="GMC_6354" korean="ðÅiÕÐÅ " />
+	<block key="GMC_6355" korean="ðÅiÕ¥ÇÌ¹tÇ " />
+	<block key="GMC_6356" korean="\Í" />
+	<block key="GMC_6357" korean="[" />
+	<block key="GMC_6358" korean="[" />
+	<block key="GMC_6359" korean="[" />
+	<block key="GMC_6360" korean="tÇø» " />
+	<block key="GMC_6363" korean="Ö¬Ç " />
+	<block key="GMC_6324" korean="8®Ü´ÐÆ " />
+	<block key="GMC_6400" korean="P­0¼`Õ " />
+	<block key="GMC_6401" korean="tÕù² " />
+	<block key="GMC_6402" korean="P­0¼ " />
+	<block key="GMC_6403" korean="¬@Ç " />
+	<block key="GMC_6404" korean="0¼à¬Õ " />
+	<block key="GMC_6405" korean="[" />
+	<block key="GMC_6406" korean="LÅXÇ " />
+	<block key="GMC_6407" korean=" Ó\¸°Æ”² " />
+	<block key="GMC_6409" korean="DÅÁÉ " />
+	<block key="GMC_6410" korean="[" />
+	<block key="GMC_6411" korean="[" />
+	<block key="GMC_6412" korean="[" />
+	<block key="GMC_6413" korean=" Ó\¸°Æ " />
+	<block key="GMC_6414" korean=" Ó\¸°Æ " />
+	<block key="GMC_6415" korean="T³ " />
+	<block key="GMC_6416" korean=" Ó\¸°Æ " />
+	<block key="GMC_6417" korean="Î­¹0Ñ " />
+	<block key="GMC_6418" korean=" Ó\¸°Æ " />
+	<block key="GMC_6419" korean="ô¼" />
+	<block key="GMC_6420" korean="T³ " />
+	<block key="GMC_6421" korean="´°´¹ " />
+	<block key="GMC_6422" korean="ÀÉÄ³|¹ " />
+	<block key="GMC_6423" korean="0®%¸tÇ " />
+	<block key="GMC_6424" korean="0®%¸tÇ " />
+	<block key="GMC_6425" korean="[" />
+	<block key="GMC_6426" korean="[" />
+	<block key="GMC_6427" korean="[" />
+	<block key="GMC_6428" korean="[" />
+	<block key="GMC_6429" korean="[" />
+	<block key="GMC_6430" korean="[" />
+	<block key="GMC_6431" korean="[" />
+	<block key="GMC_6432" korean=" Ó\¸°Æ " />
+	<block key="GMC_6433" korean=" Ó\¸°Æ " />
+	<block key="GMC_6434" korean=" Ó\¸°Æ " />
+	<block key="GMC_6435" korean="	½xÇ " />
+	<block key="GMC_6436" korean=" Ó\¸°Æ " />
+	<block key="GMC_6437" korean="tÇø» " />
+	<block key="GMC_6438" korean="tÇø» " />
+	<block key="GMC_6439" korean=" Ó\¸°Æ " />
+	<block key="GMC_6440" korean="Î­¹0ÑXÇ " />
+	<block key="GMC_6441" korean="	½xÇÁ " />
+	<block key="GMC_6442" korean=" Ó\¸°Æ " />
+	<block key="GMC_6443" korean="	½xÇ Ó\¸°Æ " />
+	<block key="GMC_6444" korean=" Ó\¸°Æ " />
+	<block key="GMC_6445" korean="[" />
+	<block key="GMC_6446" korean="Èp¬ÜÂ " />
+	<block key="GMC_6447" korean="	½xÇ Ó\¸°Æ" />
+	<block key="GMC_6448" korean="H¾ " />
+	<block key="GMC_6449" korean="Î­¹0ÑXÇ " />
+	<block key="GMC_6450" korean="tÕù² " />
+	<block key="GMC_6451" korean="tÕù² " />
+	<block key="GMC_6452" korean="À¼Ö`Õ " />
+	<block key="GMC_6454" korean="	½xÇ " />
+	<block key="GMC_6460" korean="8®ä´tÇ0® " />
+	<block key="GMC_6500" korean=")¼´Å%¸tÇ " />
+	<block key="GMC_6501" korean="ÝÀ…ºü¬ " />
+	<block key="GMC_6502" korean="ˆ½," />
+	<block key="GMC_6503" korean="$±tÇ˜Ì " />
+	<block key="GMC_6504" korean="TÅ´ÀÇ " />
+	<block key="GMC_6600" korean="¬TÖ`Õ " />
+	<block key="GMC_6601" korean="¬TÖÁtÇ " />
+	<block key="GMC_6602" korean="¬TÖ ´ " />
+	<block key="GMC_6603" korean="¸¨¼tÇ " />
+	<block key="GMC_6604" korean="¬TÖÁ " />
+	<block key="GMC_6605" korean="¬TÖ " />
+	<block key="GMC_6700" korean=" Ó\¸°Æ " />
+	<block key="GMC_6701" korean="°¬iÕtÇ " />
+	<block key="GMC_6702" korean="°¬iÕtÇ " />
+	<block key="GMC_6703" korean=" Ó\¸°Æ " />
+	<block key="GMC_6704" korean="°¬Á " />
+	<block key="GMC_6800" korean="[" />
+	<block key="GMC_6801" korean="[" />
+	<block key="GMC_6802" korean="¤Â¬ÐDÇ " />
+	<block key="GMC_6803" korean="Î¤ÂÓtÇ " />
+	<block key="GMC_6804" korean="[" />
+	<block key="GMC_6900" korean="tÇø» " />
+	<block key="GMC_6901" korean="" />
+	<block key="GMC_7000" korean="ñ´]¸`Õ " />
+	<block key="GMC_7001" korean="[" />
+	<block key="GMC_7002" korean="[" />
+	<block key="GMC_7003" korean="(Ìè² " />
+	<block key="GMC_7004" korean="(Ìè² " />
+	<block key="GMC_7005" korean="[" />
+	<block key="GMC_7006" korean="[" />
+	<block key="GMC_7007" korean="[" />
+	<block key="GMC_7008" korean="[" />
+	<block key="GMC_7009" korean="[" />
+	<block key="GMC_8000" korean="tÕù²¤Â¬ÐDÇ " />
+	<block key="GMC_8001" korean="tÕù²¤Â¬ÐDÇ " />
+	<block key="GMC_8002" korean="tÕù²¤Â¬ÐDÇ " />
+	<block key="GMC_8003" korean="tÇø» " />
+	<block key="GMC_8004" korean="[" />
+	<block key="GMC_8005" korean="tÇÈ " />
+	<block key="GMC_9000" korean="[" />
+	<block key="GMC_9007" korean="DÌ± " />
+	<block key="GMC_9008" korean="DÌ± " />
+	<block key="GMC_9009" korean="ÁÀ" />
+	<block key="GMC_9010" korean="ÁÀ" />
+	<block key="GMC_9011" korean="p¬˜·" />
+	<block key="GMC_9012" korean="p¬˜·" />
+	<block key="GMC_9013" korean="[" />
+	<block key="GMC_9014" korean="[" />
+	<block key="GMC_9015" korean="[" />
+	<block key="GMC_9016" korean="[" />
+	<block key="GMC_9017" korean="[" />
+	<block key="GMC_9018" korean="[" />
+	<block key="GMC_9019" korean="[" />
+	<block key="GMC_9020" korean="[" />
+	<block key="GMC_9021" korean="[" />
+	<block key="GMC_9022" korean="[" />
+	<block key="GMC_9023" korean="[" />
+	<block key="GMC_9024" korean="[" />
+	<block key="GMC_9025" korean="[" />
+	<block key="GMC_9026" korean="[" />
+	<block key="GMC_9027" korean="DÅtÇ\ÑDÇ " />
+	<block key="GMC_9100" korean="ÄÉ‰Õ " />
+	<block key="GMC_9101" korean="¬TÖ`Õ " />
+	<block key="GMC_9102" korean="”ÍœÍ`Õ " />
+	<block key="GMC_9103" korean="¬TÖ " />
+	<block key="GMC_9104" korean="¬TÖ`Õ " />
+	<block key="GMC_9105" korean="”ÍœÍ`Õ " />
+	<block key="GMC_9106" korean="”ÍœÍ " />
+	<block key="GMC_9107" korean="[" />
+	<block key="GMC_9200" korean="[" />
+	<block key="GMC_9201" korean="[" />
+	<block key="GMC_9202" korean="Æ<Ö°¬ÁtÇ " />
+	<block key="GMC_9203" korean="[" />
+	<block key="GMC_9204" korean="DÅtÇ\ÑtÇ " />
+	<block key="GMC_9205" korean="äÕ´Å" />
+	<block key="GMC_9206" korean="[" />
+	<block key="GMC_9207" korean="Â¬¹" />
+	<block key="GMC_9208" korean="üÅÉÀtÇ " />
+	<block key="GMC_9209" korean="üÅÉÀ`Õ " />
+	<block key="GMC_9210" korean="üÅÉÀ " />
+	<block key="GMC_9211" korean="¬TÖ`Õ " />
+	<block key="GMC_9212" korean="Æ<ÖÁ " />
+	<block key="GMC_9213" korean="¬TÖ`Õ " />
+	<block key="GMC_9214" korean="Æ<ÖÁ " />
+	<block key="GMC_9215" korean="[" />
+	<block key="GMC_9216" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_9217" korean="tÇø» " />
+	<block key="GMC_9218" korean=" Ó\¸°Æ" />
+	<block key="GMC_9219" korean="[" />
+	<block key="GMC_9220" korean=" Ó\¸°Æ|¹ " />
+	<block key="GMC_9221" korean="Â¬¹`Õ " />
+	<block key="GMC_9222" korean="È´Ì " />
+	<block key="GMC_9223" korean="[" />
+	<block key="GMC_9224" korean="Â¬¹`Õ " />
+	<block key="GMC_9225" korean=")Ì©Æ " />
+	<block key="GMC_9300" korean="ÁÀ" />
+	<block key="GMC_9400" korean="Óä¹`Õ " />
+	<block key="GMC_9401" korean="Óä¹ " />
+	<block key="GMC_9403" korean="ÂÂÌ¸" />
+	<block key="GMC_9404" korean="È°À`Õ " />
+	<block key="GMC_9405" korean="À­Á´ " />
+	<block key="GMC_9406" korean="Óä¹ " />
+	<block key="GMC_9407" korean="Óä¹ " />
+	<block key="GMC_9900" korean="ÄÉ‰Õ " />
+	<block key="GMC_9901" korean="Ç8ÁÀ¼½¬tÇ " />
+	<block key="GMC_9902" korean="ÀÉÁÀÐÅÁÌ¹ " />
+	<block key="GMC_9903" korean="tÇø» " />
+	<block key="GMC_9904" korean="ÈÕ " />
+	<block key="GMC_9905" korean="È,ÒÇ8ÁÐÅÁ”² " />
+	<block key="GMC_9980" korean="	½xÇ`Õ " />
+	<block key="GMC_9981" korean="À¼Ö`Õ " />
+	<block key="GMC_9990" korean=" Ó\¸°Æ " />
+	<block key="GMC_9991" korean=" Ó\¸°Æ " />
+	<block key="GMC_9992" korean="¬TÖ" />
+	<block key="GMC_9993" korean="”ÍœÍtÇ " />
+	<block key="GMC_9999" korean="ÀÉ®@Ç " />
+	<block key="GMC_10000" korean="ÈÀ " />
+	<block key="GMC_10001" korean="T³ " />
+	<block key="GMC_10002" korean="tÇø» " />
+	<block key="GMC_10003" korean="[" />
+	<block key="GMC_10004" korean="¨Ì€½´ " />
+	<block key="GMC_10005" korean="°Æ¸ÓDÇ " />
+	<block key="GMC_10006" korean="[" />
+	<block key="GMC_10100" korean="8®ä´|Ç " />
+	<block key="GMC_10101" korean="ÑÐ¹Â " />
+	<block key="GMC_10102" korean="ÑÐ¹Â " />
+	<block key="GMC_10103" korean="8®ä´tÇ0®ÐÅ " />
+	<block key="GMC_10104" korean=" Ó\¸°Æ " />
+	<block key="GMC_10105" korean="" />
+	<block key="GMC_10106" korean="8®ä´tÇ0® " />
+	<block key="GMC_10107" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_10108" korean=" ÁÝÐ\Õ " />
+	<block key="GMC_10109" korean="È,Ò " />
+	<block key="GMC_10110" korean="8®ä´|Ç " />
+	<block key="GMC_10111" korean=" Ó\¸°Æ|¹ " />
+	<block key="GMC_10112" korean=" Ó\¸°Æ " />
+	<block key="GMC_10113" korean="¬¹aÅXÁ " />
+	<block key="GMC_10114" korean="8®ä´tÇ0® " />
+	<block key="GMC_10115" korean="°¬,Ò " />
+	<block key="GMC_11000" korean="[" />
+	<block key="GMC_11001" korean="ÂÑÉ\Õ " />
+	<block key="GMC_15000" korean="ÈÕ " />
+	<block key="GMC_15001" korean="tÇø» " />
+	<block key="GMC_15002" korean="tÇÙ³ " />
+	<block key="GMC_15003" korean="ÑÐ¹Â/" />
+	<block key="GMC_15004" korean=" Ó\¸°Æ " />
+	<block key="GMC_15005" korean=" Ó\¸°Æ " />
+	<block key="GMC_15006" korean="D¾‰Õ " />
+	<block key="GMC_15007" korean="D¾‰Õ " />
+	<block key="GMC_15008" korean="D¾‰Õ " />
+	<block key="GMC_15009" korean="à¬Ä³|¹ " />
+	<block key="GMC_15011" korean="üÈÀ¼ÐÅ " />
+	<block key="GMC_15014" korean="¹Â¬@Ç " />
+	<block key="GMC_15100" korean="ÑÐ¹Â " />
+	<block key="GMC_15101" korean="ÑÐ¹Â " />
+	<block key="GMC_15200" korean="Æ<ÖÁ " />
+	<block key="GMC_15201" korean="ÑÐ¹Â " />
+	<block key="GMC_15300" korean=" Ó\¸°Æ " />
+	<block key="GMC_15301" korean=" Ó\¸°Æ " />
+	<block key="GMC_15302" korean="ŒÁXÖ´ " />
+	<block key="GMC_15303" korean=" Ó\¸°Æ " />
+	<block key="GMC_15304" korean="[" />
+	<block key="GMC_15305" korean=" Ó\¸°Æ" />
+	<block key="GMC_15306" korean=" Ó\¸°Æ@Æ " />
+	<block key="GMC_15307" korean=" Ó\¸°Æ|¹ " />
+	<block key="GMC_15400" korean="IÅDÅˆÇDÇ " />
+	<block key="GMC_15401" korean="8®ä´tÇ0® " />
+	<block key="GMC_15402" korean="ÑÐ¹Â " />
+	<block key="GMC_15403" korean="¤Â¬Ð " />
+	<block key="GMC_15404" korean="LÇÝÂDÇ " />
+	<block key="GMC_15500" korean="ÈÕ " />
+	<block key="GMC_15501" korean="‘ÇÅÅtÇ " />
+	<block key="GMC_15600" korean="ÈÕ " />
+	<block key="GMC_15700" korean="HÅÈXÕŒ¬ " />
+	<block key="GMC_15701" korean="T³ " />
+	<block key="GMC_15702" korean="D¾‰Õ " />
+	<block key="GMC_15703" korean="D¾‰Õ " />
+	<block key="GMC_15712" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_16001" korean="[" />
+	<block key="GMC_16002" korean="À¼½¬`Õ " />
+	<block key="GMC_16003" korean="À¼½¬XÕp¬˜° " />
+	<block key="GMC_16004" korean="íÐtÇ„¹<Ç\¸ " />
+	<block key="GMC_16005" korean="tÇø» " />
+	<block key="GMC_18000" korean="[" />
+	<block key="GMC_18002" korean="Ö¬Ç " />
+	<block key="GMC_18003" korean="[" />
+	<block key="GMC_18004" korean="[" />
+	<block key="GMC_18005" korean="[" />
+	<block key="GMC_18006" korean="È‘Ç " />
+	<block key="GMC_18007" korean="DÌÑÉ " />
+	<block key="GMC_18100" korean="È‘Ç " />
+	<block key="GMC_18101" korean="È‘Ç " />
+	<block key="GMC_18102" korean="È‘ÇÐÅ " />
+	<block key="GMC_18103" korean="[" />
+	<block key="GMC_18104" korean="[" />
+	<block key="GMC_18105" korean="[" />
+	<block key="GMC_18106" korean="[" />
+	<block key="GMC_19000" korean="…Ç0ÌÐÅ " />
+	<block key="GMC_19001" korean="[" />
+	<block key="GMC_19002" korean="[" />
+	<block key="GMC_19003" korean="[" />
+	<block key="GMC_21000" korean="¸¨¼ " />
+	<block key="GMC_30000" korean="È,Ò " />
+	<block key="GMC_30001" korean="õ¬©¬ " />
+	<block key="GMC_30002" korean="" />
+	<block key="GMC_30003" korean="È,Ò " />
+	<block key="GMC_30004" korean="È,Ò " />
+	<block key="GMC_60000" korean="<» " />
+	<block key="GMC_400" korean="ÑÐ¹Â " />
+	<block key="GMC_870" korean="ä¹mÎtÇ " />
+	<block key="GMC_871" korean="ä¹mÎtÇ " />
+	<block key="GMC_6453" korean="¸¨¼tÇ " />
+	<block key="GMC_9028" korean="[" />
+	<block key="GMC_15601" korean="ä²x¹ " />
+	<block key="GMC_16000" korean="ÈÀ\¸´Æ " />
+	<block key="GMC_17000" korean="[" />
+	<block key="GMC_17001" korean="[" />
+	<block key="GMC_17002" korean="8®Ü´È¹¤Â0Ñ" />
+	<block key="GMC_18001" korean="[" />
+	<block key="GMC_50000" korean="[" />
+	<block key="GMC_50001" korean="[" />
+	<block key="GMC_50002" korean="[" />
+	<block key="GMC_50003" korean="[" />
+	<block key="GMC_50004" korean="[" />
+	<block key="GMC_50005" korean="[" />
+	<block key="GMC_50020" korean="[" />
+	<block key="GMC_50021" korean="[" />
+	<block key="GMC_50022" korean="[" />
+	<block key="GMC_50023" korean="[" />
+	<block key="GMC_50024" korean="[" />
+	<block key="GMC_50025" korean="[" />
+	<block key="GMC_50100" korean="[" />
+	<block key="GMC_50101" korean="[" />
+	<block key="GMC_50102" korean="[" />
+	<block key="GMC_50103" korean="[" />
+	<block key="GMC_50104" korean="[" />
+	<block key="GMC_50120" korean="[" />
+	<block key="GMC_50121" korean="[" />
+	<block key="GMC_50122" korean="[" />
+	<block key="GMC_50123" korean="[" />
+	<block key="GMC_50124" korean="[" />
+	<block key="GMC_50500" korean="[" />
+	<block key="GMC_50501" korean="[" />
+	<block key="GMC_50502" korean="[" />
+	<block key="GMC_50503" korean="[" />
+	<block key="GMC_50504" korean="[" />
+	<block key="GMC_50520" korean="[" />
+	<block key="GMC_50521" korean="[" />
+	<block key="GMC_50522" korean="[" />
+	<block key="GMC_50523" korean="[" />
+	<block key="GMC_50524" korean="[" />
+	<block key="GMC_50540" korean="[" />
+	<block key="GMC_50541" korean="[" />
+	<block key="GMC_50542" korean="[" />
+	<block key="GMC_50543" korean="[" />
+	<block key="GMC_50544" korean="[" />
+	<block key="GMC_51000" korean="[" />
+	<block key="GMC_51001" korean="[" />
+	<block key="GMC_51002" korean="[" />
+	<block key="GMC_51003" korean="[" />
+	<block key="GMC_51004" korean="[" />
+	<block key="GMC_51020" korean="[" />
+	<block key="GMC_51021" korean="[" />
+	<block key="GMC_51022" korean="[" />
+	<block key="GMC_51023" korean="[" />
+	<block key="GMC_51024" korean="[" />
+	<block key="GMC_51040" korean="[" />
+	<block key="GMC_51041" korean="[" />
+	<block key="GMC_51042" korean="[" />
+	<block key="GMC_51043" korean="[" />
+	<block key="GMC_51044" korean="[" />
+	<block key="GMC_51500" korean="[" />
+	<block key="GMC_51501" korean="[" />
+	<block key="GMC_51502" korean="[" />
+	<block key="GMC_51503" korean="[" />
+	<block key="GMC_51504" korean="[" />
+	<block key="GMC_51520" korean="[" />
+	<block key="GMC_51521" korean="[" />
+	<block key="GMC_51522" korean="[" />
+	<block key="GMC_51523" korean="[" />
+	<block key="GMC_51524" korean="[" />
+	<block key="GMC_51540" korean="[" />
+	<block key="GMC_51541" korean="[" />
+	<block key="GMC_51542" korean="[" />
+	<block key="GMC_51543" korean="[" />
+	<block key="GMC_51544" korean="[" />
+	<block key="GMC_52000" korean="[" />
+	<block key="GMC_52001" korean="[" />
+	<block key="GMC_52002" korean="[" />
+	<block key="GMC_52003" korean="[" />
+	<block key="GMC_52004" korean="[" />
+	<block key="GMC_52020" korean="[" />
+	<block key="GMC_52021" korean="[" />
+	<block key="GMC_52022" korean="[" />
+	<block key="GMC_52023" korean="[" />
+	<block key="GMC_52024" korean="[" />
+	<block key="GMC_52040" korean="[" />
+	<block key="GMC_52041" korean="[" />
+	<block key="GMC_52042" korean="[" />
+	<block key="GMC_52043" korean="[" />
+	<block key="GMC_52044" korean="[" />
+	<block key="GMC_52500" korean="[" />
+	<block key="GMC_52501" korean="[" />
+	<block key="GMC_52502" korean="[" />
+	<block key="GMC_52503" korean="[" />
+	<block key="GMC_52504" korean="[" />
+	<block key="GMC_52520" korean="[" />
+	<block key="GMC_52521" korean="[" />
+	<block key="GMC_52522" korean="[" />
+	<block key="GMC_52523" korean="[" />
+	<block key="GMC_52524" korean="[" />
+	<block key="GMC_52540" korean="[" />
+	<block key="GMC_52541" korean="[" />
+	<block key="GMC_52542" korean="[" />
+	<block key="GMC_52543" korean="[" />
+	<block key="GMC_52544" korean="[" />
+	<block key="GMC_53000" korean="[" />
+	<block key="GMC_53001" korean="[" />
+	<block key="GMC_53002" korean="[" />
+	<block key="GMC_53003" korean="[" />
+	<block key="GMC_53004" korean="[" />
+	<block key="GMC_53020" korean="[" />
+	<block key="GMC_53021" korean="[" />
+	<block key="GMC_53022" korean="[" />
+	<block key="GMC_53023" korean="[" />
+	<block key="GMC_53024" korean="[" />
+	<block key="GMC_53040" korean="[" />
+	<block key="GMC_53041" korean="[" />
+	<block key="GMC_53042" korean="[" />
+	<block key="GMC_53043" korean="[" />
+	<block key="GMC_53044" korean="[" />
+	<block key="GMC_53500" korean="[" />
+	<block key="GMC_53501" korean="[" />
+	<block key="GMC_53502" korean="[" />
+	<block key="GMC_53503" korean="[" />
+	<block key="GMC_53504" korean="[" />
+	<block key="GMC_53520" korean="[" />
+	<block key="GMC_53521" korean="[" />
+	<block key="GMC_53522" korean="[" />
+	<block key="GMC_53523" korean="[" />
+	<block key="GMC_53524" korean="[" />
+	<block key="GMC_53540" korean="[" />
+	<block key="GMC_53541" korean="[" />
+	<block key="GMC_53542" korean="[" />
+	<block key="GMC_53543" korean="[" />
+	<block key="GMC_53544" korean="[" />
+	<block key="GMC_40000" korean="[" />
+	<block key="GMC_40001" korean="[" />
+	<block key="GMC_40002" korean="[" />
+	<block key="GMC_40003" korean="[" />
+	<block key="GMC_40004" korean="[" />
+	<block key="GMC_40020" korean="[" />
+	<block key="GMC_40021" korean="[" />
+	<block key="GMC_40022" korean="[" />
+	<block key="GMC_40023" korean="[" />
+	<block key="GMC_40024" korean="[" />
+	<block key="GMC_40040" korean="[" />
+	<block key="GMC_40041" korean="[" />
+	<block key="GMC_40042" korean="[" />
+	<block key="GMC_40043" korean="[" />
+	<block key="GMC_40044" korean="[" />
+	<block key="GMC_40500" korean="[" />
+	<block key="GMC_40501" korean="[" />
+	<block key="GMC_40502" korean="[" />
+	<block key="GMC_40503" korean="[" />
+	<block key="GMC_40504" korean="[" />
+	<block key="GMC_40520" korean="[" />
+	<block key="GMC_40521" korean="[" />
+	<block key="GMC_40522" korean="[" />
+	<block key="GMC_40523" korean="[" />
+	<block key="GMC_40524" korean="[" />
+	<block key="GMC_40540" korean="[" />
+	<block key="GMC_40541" korean="[" />
+	<block key="GMC_40542" korean="[" />
+	<block key="GMC_40543" korean="[" />
+	<block key="GMC_40544" korean="[" />
+	<block key="GMC_41000" korean="[" />
+	<block key="GMC_41001" korean="[" />
+	<block key="GMC_41002" korean="[" />
+	<block key="GMC_41003" korean="[" />
+	<block key="GMC_41004" korean="[" />
+	<block key="GMC_41020" korean="[" />
+	<block key="GMC_41021" korean="[" />
+	<block key="GMC_41022" korean="[" />
+	<block key="GMC_41023" korean="[" />
+	<block key="GMC_41024" korean="[" />
+	<block key="GMC_41040" korean="[" />
+	<block key="GMC_41041" korean="[" />
+	<block key="GMC_41042" korean="[" />
+	<block key="GMC_41043" korean="[" />
+	<block key="GMC_41044" korean="[" />
+	<block key="GMC_41500" korean="[" />
+	<block key="GMC_41501" korean="[" />
+	<block key="GMC_41502" korean="[" />
+	<block key="GMC_41503" korean="[" />
+	<block key="GMC_41504" korean="[" />
+	<block key="GMC_41520" korean="[" />
+	<block key="GMC_41521" korean="[" />
+	<block key="GMC_41522" korean="[" />
+	<block key="GMC_41523" korean="[" />
+	<block key="GMC_41524" korean="[" />
+	<block key="GMC_41540" korean="[" />
+	<block key="GMC_41541" korean="[" />
+	<block key="GMC_41542" korean="[" />
+	<block key="GMC_41543" korean="[" />
+	<block key="GMC_41544" korean="[" />
+	<block key="GMC_59000" korean="[" />
+	<block key="GMC_59001" korean="[" />
+	<block key="GMC_59002" korean="[" />
+	<block key="GMC_59003" korean="[" />
+	<block key="GMC_6455" korean="[" />
+	<block key="GMC_6456" korean="ÑÐ¹Â " />
+	<block key="GMC_6457" korean="À¼Ö " />
+	<block key="GMC_6458" korean="À¼Ö " />
+	<block key="GMC_15711" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_15713" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_15013" korean="Ö¬Ç " />
+	<block key="GMC_15012" korean="Ö¬Ç " />
+	<block key="GMC_30005" korean="È,Ò " />
+	<block key="GMC_10007" korean="\Îl­ " />
+	<block key="GMC_6163" korean="…Ç%¸´ " />
+	<block key="GMC_6164" korean="tÇ" />
+	<block key="GMC_6165" korean="xÆXÎ0®|¹ " />
+	<block key="GMC_6325" korean="[" />
+	<block key="GMC_6326" korean="[" />
+	<block key="GMC_6327" korean="[" />
+	<block key="GMC_6328" korean="8®Ü´ " />
+	<block key="GMC_6329" korean="[" />
+	<block key="GMC_6330" korean="[" />
+	<block key="GMC_6331" korean="8®Ü´ " />
+	<block key="GMC_6332" korean="8®Ü´¥ÇDÇ " />
+	<block key="GMC_6333" korean="8®Ü´ " />
+	<block key="GMC_6334" korean="[" />
+	<block key="GMC_6335" korean="[" />
+	<block key="GMC_6336" korean="8®Ü´ " />
+	<block key="GMC_6337" korean="8®Ü´ " />
+	<block key="GMC_6338" korean="8®Ü´" />
+	<block key="GMC_15015" korean="8®ä´tÇ0® " />
+	<block key="GMC_6162" korean="[" />
+	<block key="GMC_6173" korean="˜Ç»º´ " />
+	<block key="GMC_853" korean="¨ºà´ " />
+	<block key="GMC_854" korean="DÅÁÉ " />
+	<block key="GMC_833" korean="[" />
+	<block key="GMC_834" korean="[" />
+	<block key="GMC_6161" korean="[" />
+	<block key="GMC_6174" korean="ØÅì¸DÇ " />
+	<block key="GMC_20001" korean="ØÅì¸tÇ " />
+	<block key="GMC_6175" korean="¬À©Æ®ÀÉ " />
+	<block key="GMC_6176" korean="Á„¼|¹ " />
+	<block key="GMC_6177" korean="àÂà¬" />
+	<block key="GMC_6178" korean="3" />
+	<block key="GMC_6154" korean="[" />
+	<block key="GMC_15016" korean="tÇÙ³ " />
+	<block key="GMC_10116" korean="8®ä´tÇ0® " />
+	<block key="GMC_10117" korean="8®ä´tÇ0® " />
+	<block key="GMC_6179" korean="ÓðÒõ¬©Æ " />
+	<block key="GMC_6180" korean="¬TÖ " />
+	<block key="GMC_138" korean="Ö¬Ç " />
+	<block key="GMC_9906" korean="¬ÀÝ¹ " />
+	<block key="GMC_10118" korean="8®ä´tÇ0® " />
+	<block key="GMC_20002" korean=" " />
+	<block key="GMC_20003" korean="ÁÀÈDÇ " />
+	<block key="GMC_20004" korean="ÎÜÂ " />
+	<block key="GMC_6459" korean=" Ó\¸°Æ" />
+	<block key="GMC_6339" korean="8®Ü´ " />
+	<block key="GMC_9029" korean="[" />
+	<block key="GMC_20005" korean="tÇÈ " />
+	<block key="GMC_20000" korean="ô¼" />
+	<block key="GMC_20006" korean="[" />
+	<block key="GMC_4041" korean="Œ¬„Ç " />
+	<block key="GMC_4042" korean="Î­¹0Ñ " />
+	<block key="GMC_6181" korean="<" />
+	<block key="GMC_9030" korean="[" />
+	<block key="GMC_9301" korean="ÁÀ" />
+	<block key="GMC_6182" korean="DÅÁÉ " />
+	<block key="GMC_9227" korean="¹Ò1ÁDÇ " />
+	<block key="GMC_50006" korean="[" />
+	<block key="GMC_50026" korean="[" />
+	<block key="GMC_4043" korean="­ÀÈ " />
+	<block key="GMC_6185" korean="2" />
+	<block key="GMC_6186" korean="2" />
+	<block key="GMC_19004" korean="[" />
+	<block key="GMC_6184" korean="8®ä´tÇ0® " />
+	<block key="GMC_6183" korean="8®ä´tÇ0® " />
+	<block key="GMC_6187" korean="[" />
+	<block key="GMC_20007" korean="Œ¬„Ç " />
+	<block key="GMC_20008" korean=" ÁÝÐ\Õ " />
+	<block key="GMC_6188" korean="°¬,Ò " />
+	<block key="GMC_6189" korean="ü¬Ä³\Õ " />
+	<block key="GMC_6190" korean="[" />
+	<block key="GMC_6191" korean="[" />
+	<block key="GMC_6192" korean="[" />
+	<block key="GMC_6193" korean="[" />
+	<block key="GMC_6195" korean="Ö¬Ç " />
+	<block key="GMC_6196" korean="8" />
+	<block key="GMC_6194" korean="…Ç%¸\Õ " />
+	<block key="GMC_6340" korean="8®Ü´ " />
+	<block key="GMC_835" korean="[" />
+	<block key="GMC_836" korean="[" />
+	<block key="GMC_6197" korean="[" />
+	<block key="GMC_837" korean="[" />
+	<block key="GMC_20009" korean="­Ì}Å " />
+	<block key="GMC_20010" korean="ØÅì¸tÇ " />
+	<block key="GMC_6198" korean="[" />
+	<block key="GMC_6199" korean="P" />
+	<block key="GMC_6200" korean="HÅÈÀÉíÅÐÅÁ”² " />
+	<block key="GMC_6201" korean="xÇX³ÐÅÁ”² " />
+	<block key="GMC_6202" korean="xÇÉ " />
+	<block key="GMC_6203" korean="Á„¼ " />
+	<block key="GMC_4044" korean="Œ¬„ÇÐÅ " />
+	<block key="GMC_4045" korean="Î­¹0Ñ " />
+	<block key="GMC_6204" korean="4»xÇÄ³ÐÅ " />
+	<block key="GMC_9031" korean="”ÍœÍ\¸ " />
+	<block key="GMC_6205" korean="DÌ± " />
+	<block key="GMC_51" korean="¬À©Æ " />
+	<block key="GMC_6318" korean="[" />
+	<block key="GMC_6319" korean="[" />
+	<block key="GMC_6320" korean="[" />
+	<block key="GMC_9226" korean="T³ " />
+	<block key="GMC_4046" korean="DÌ± " />
+	<block key="GMC_18008" korean="¸¨¼tÇ " />
+	<block key="GMC_18009" korean="[" />
+	<block key="GMC_6207" korean="[" />
+	<block key="GMC_6206" korean="[" />
+	<block key="GMC_2113" korean="°¬,Ò " />
+	<block key="GMC_6461" korean=" Ó\¸°Æ" />
+	<block key="GMC_6462" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_6463" korean="[" />
+	<block key="GMC_6464" korean="	½xÇ Ó\¸°ÆXÇ " />
+	<block key="GMC_702" korean="äÂÜÂ¬ " />
+	<block key="GMC_703" korean="äÂÜÂ¬ " />
+	<block key="GMC_704" korean="Õ¸„Ç " />
+	<block key="GMC_705" korean="L" />
+	<block key="GMC_6465" korean="	½xÇ " />
+	<block key="GMC_4047" korean="Î­¹0Ñ " />
+	<block key="GMC_4048" korean="Î­¹0Ñ " />
+	<block key="GMC_6466" korean="¬TÖ " />
+	<block key="GMC_52" korean="[" />
+	<block key="GMC_6208" korean="[" />
+	<block key="GMC_6209" korean="[" />
+	<block key="GMC_6467" korean="¬TÖ|¹ " />
+	<block key="GMC_855" korean="õ¬©¬" />
+	<block key="GMC_856" korean="õ¬©¬" />
+	<block key="GMC_6210" korean="è²•Í¤Ð " />
+	<block key="GMC_6469" korean=" Ó\¸°Æ " />
+	<block key="GMC_6470" korean=" Ó\¸°Æ " />
+	<block key="GMC_6468" korean="¬TÖÐÅ " />
+	<block key="GMC_6471" korean="[" />
+	<block key="GMC_6472" korean="" />
+	<block key="GMC_15715" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_15716" korean=" Ó\¸°ÆXÇ " />
+	<block key="GMC_15717" korean="Ö¬Ç " />
+	<block key="GMC_15017" korean="\ÍŒÁ " />
+	<block key="GMC_6473" korean="¬TÖ" />
+	<block key="GMC_6211" korean="œÒ Ñ¬¹¼ÅDÇ " />
+	<block key="GMC_15050" korean="¹Â¬tÇ " />
+	<block key="GMC_15051" korean="ÑÐ¹Â " />
+	<block key="GMC_6212" korean="[" />
+	<block key="GMC_6214" korean="[" />
+	<block key="GMC_6474" korean="	½xÇtÕÈ " />
+	<block key="GMC_6475" korean="	½xÇtÕÈ " />
+	<block key="GMC_6476" korean="	½xÇtÕÈ|¹ " />
+	<block key="GMC_9108" korean="À­ÁDÇ " />
+	<block key="GMC_9109" korean="À­ÁtÕÈ|¹ " />
+	<block key="GMC_9110" korean=")Ì©Æ " />
+	<block key="GMC_9111" korean="[" />
+	<block key="GMC_9112" korean="À­ÁtÕÈ " />
+	<block key="GMC_9113" korean="À­ÁtÕÈ " />
+	<block key="GMC_9114" korean="À­ÁtÕÈ " />
+	<block key="GMC_9115" korean="À­ÁtÕÈ " />
+	<block key="GMC_9116" korean="À­ÁtÕÈ " />
+	<block key="GMC_9117" korean="[" />
+	<block key="GMC_9995" korean="À­ÁtÕÈ" />
+	<block key="GMC_9996" korean="À­ÁtÕÈ " />
+	<block key="GMC_6221" korean="”ÍœÍ`Õ " />
+	<block key="GMC_6215" korean=" Ó\¸°Æ " />
+	<block key="GMC_6216" korean=" Ó\¸°Æ " />
+	<block key="GMC_6217" korean="pÈt¬tÇ " />
+	<block key="GMC_6218" korean="	½xÇ " />
+	<block key="GMC_6219" korean="	½xÇ " />
+	<block key="GMC_6220" korean="[" />
+	<block key="GMC_9982" korean="	½xÇtÕÈ`Õ " />
+	<block key="GMC_9994" korean="	½xÇtÕÈ" />
+	<block key="GMC_9118" korean="[" />
+	<block key="GMC_9119" korean="[" />
+	<block key="GMC_6213" korean="[" />
+	<block key="GMC_6477" korean="	½xÇ " />
+	<block key="GMC_6478" korean="	½xÇÁ " />
+	<block key="GMC_6479" korean="	½xÇÁtÇ " />
+	<block key="GMC_16100" korean="[" />
+	<block key="GMC_16101" korean="[" />
+	<block key="GMC_16102" korean="[" />
+	<block key="GMC_16103" korean="[" />
+	<block key="GMC_16104" korean="[" />
+	<block key="GMC_16105" korean="[" />
+	<block key="GMC_16106" korean="[" />
+	<block key="GMC_16107" korean="[" />
+	<block key="GMC_16108" korean="[" />
+	<block key="GMC_16109" korean="[" />
+	<block key="GMC_16110" korean="[" />
+	<block key="GMC_16111" korean="[" />
+	<block key="GMC_16112" korean="[" />
+	<block key="GMC_16113" korean="[" />
+	<block key="GMC_16114" korean="[" />
+	<block key="GMC_16115" korean="[" />
+	<block key="GMC_16116" korean="[" />
+	<block key="GMC_16117" korean="[" />
+	<block key="GMC_16118" korean="[" />
+	<block key="GMC_16119" korean="[" />
+	<block key="GMC_16120" korean="[" />
+	<block key="GMC_16121" korean="[" />
+	<block key="GMC_16122" korean="[" />
+	<block key="GMC_16500" korean="[" />
+	<block key="GMC_16501" korean="[" />
+	<block key="GMC_16502" korean="[" />
+	<block key="GMC_16510" korean="[" />
+	<block key="GMC_16511" korean="[" />
+	<block key="GMC_16512" korean="[" />
+	<block key="GMC_17500" korean="ÑÅÇ€· " />
+	<block key="GMC_17501" korean="ÑÅÇ€· " />
+	<block key="GMC_17502" korean="[" />
+	<block key="GMC_17503" korean="ÑÅÇ€· " />
+	<block key="GMC_17504" korean="ÑÅÇ€· " />
+	<block key="GMC_17505" korean="ÑÅÇ€· " />
+	<block key="GMC_17506" korean="ÑÅÇ€· " />
+	<block key="GMC_17507" korean="8®Ü´" />
+	<block key="GMC_6361" korean="8®Ü´¥Ç " />
+	<block key="GMC_6362" korean="[" />
+	<block key="GMC_868" korean="[" />
+	<block key="GMC_869" korean="[" />
+	<block key="GMC_6364" korean="8®Ü´¥ÇtÇ " />
+	<block key="GMC_6365" korean="8®Ü´¥Ç " />
+	<block key="GMC_6480" korean="[" />
+	<block key="GMC_6481" korean="[" />
+	<block key="GMC_6366" korean="<" />
+	<block key="GMC_6367" korean="<" />
+	<block key="GMC_6368" korean="ÈÁÇ " />
+	<block key="GMC_6369" korean="<" />
+	<block key="GMC_6370" korean="<" />
+	<block key="GMC_6371" korean="<" />
+	<block key="GMC_6372" korean="<" />
+	<block key="GMC_6373" korean="ðÅiÕ " />
+	<block key="GMC_6374" korean="ðÅiÕ " />
+	<block key="GMC_6375" korean="ðÅiÕÐÆ " />
+	<block key="GMC_6222" korean="tÇ" />
+	<block key="GMC_6223" korean="xÆÖ " />
+	<block key="GMC_6224" korean="xÆÖ " />
+	<block key="GMC_6225" korean="xÆÖ " />
+	<block key="gmc_6230" korean="„½tÕ " />
+	<block key="gmc_6227" korean="„½tÕ " />
+	<block key="gmc_6228" korean="„½tÕ " />
+	<block key="gmc_9997" korean="„½tÕ" />
+	<block key="gmc_6229" korean="[" />
+	<block key="gmc_6231" korean="	½xÇ " />
+	<block key="gmc_6233" korean="	½xÇ " />
+	<block key="gmc_6232" korean="	½xÇ " />
+	<block key="gmc_6482" korean="	½xÇ " />
+	<block key="gmc_6483" korean="[" />
+	<block key="gmc_6234" korean="[" />
+	<block key="gmc_6378" korean="[" />
+	<block key="gmc_6379" korean="[" />
+	<block key="gmc_6235" korean=")Ì©ÆXÕà¬ " />
+	<block key="gmc_25000" korean="ô¼ÁDÇ " />
+	<block key="gmc_25001" korean="[" />
+	<block key="gmc_25002" korean="[" />
+	<block key="gmc_25003" korean="[" />
+	<block key="gmc_25004" korean="[" />
+	<block key="gmc_25005" korean="[" />
+	<block key="gmc_25006" korean="[" />
+	<block key="gmc_25007" korean="”ÍœÍÐÅ " />
+	<block key="gmc_25008" korean="[" />
+	<block key="gmc_25009" korean="ŒÁÀÉ®aÅtÇ " />
+	<block key="gmc_25010" korean="”ÍœÍ`Õ " />
+	<block key="gmc_25011" korean="ô¼Á " />
+	<block key="gmc_25012" korean="”ÍœÍ " />
+	<block key="gmc_6380" korean="ÈÁÇ " />
+	<block key="gmc_6381" korean="<" />
+	<block key="gmc_9228" korean=" Ó\¸°Æ" />
+	<block key="gmc_9229" korean="[" />
+	<block key="gmc_9983" korean=" Ó\¸°Æ " />
+	<block key="gmc_9124" korean="DÅtÇ\ÑDÇ " />
+	<block key="gmc_6236" korean="˜× " />
+	<block key="gmc_6237" korean="ÀÉ¥² " />
+	<block key="gmc_6238" korean="ü»©Ì " />
+	<block key="gmc_6239" korean="ÈàÂ%¸ " />
+	<block key="gmc_6240" korean="´Ì%¸ " />
+	<block key="gmc_19005" korean="™°0ÌÇ" />
+	<block key="gmc_6241" korean="œÍÁ´ÌlÐ" />
+	<block key="gmc_6242" korean="5" />
+	<block key="gmc_25013" korean="ô¼ÁtÇ " />
+	<block key="gmc_18107" korean="[" />
+	<block key="gmc_6243" korean="xÆÖ " />
+	<block key="gmc_6244" korean="xÆÖ " />
+	<block key="gmc_6245" korean="Ç¬¹D¾ÀÆ " />
+	<block key="gmc_6246" korean="[" />
+	<block key="gmc_706" korean="¬À©ÆÇXÇ " />
+	<block key="gmc_6247" korean="Í0®TÖ " />
+	<block key="gmc_6248" korean="Ó4­ " />
+	<block key="gmc_6249" korean="Í0®TÖ," />
+</blocks>

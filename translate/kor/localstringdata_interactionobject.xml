@@ -1,0 +1,1005 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="IN_CM_0_0001_Name" korean="À­XÖÁ" />
+	<block key="IN_CM_0_0002_Name" korean="€½\Ö " />
+	<block key="IN_CM_0_0003_Name" korean="tÇÙ³ " />
+	<block key="IN_CM_0_0004_Name" korean="X³È " />
+	<block key="IN_CM_0_0005_Name" korean="Æ<ÖXÇ " />
+	<block key="IN_CM_0_0006_Name" korean="Æ<ÖXÇ " />
+	<block key="IN_CM_0_0007_Name" korean="Æ<ÖXÇ " />
+	<block key="IN_CM_0_0008_Name" korean="¼ÅLÇ " />
+	<block key="IN_CM_0_0009_Name" korean="°Æ¸ÓhÕ" />
+	<block key="IN_CM_0_0010_Name" korean="LÅ " />
+	<block key="IN_FR_0_0001_Name" korean="DÅlÐ|·àÂXÇ " />
+	<block key="IN_FR_1_0002_Name" korean="ôÅàÁ " />
+	<block key="IN_SF_1_0001_Name" korean="€½ÁÄÉ " />
+	<block key="IN_SF_1_0002_Name" korean="¾|·0® " />
+	<block key="IN_SF_1_0003_Name" korean="íÓ}Å " />
+	<block key="IN_SF_1_0004_Name" korean="¬Å³" />
+	<block key="IN_SF_1_0005_Name" korean="[¾˜°”² " />
+	<block key="IN_SF_1_0006_Name" korean="è¸D¾" />
+	<block key="IN_SF_1_0007_Name" korean="É°0® " />
+	<block key="IN_SF_1_0008_Name" korean="0®ÐÆXÇ " />
+	<block key="IN_SF_1_0009_Name" korean="ŒÁXÖÂ " />
+	<block key="IN_SP_1_0001_Name" korean=" Ì=Ì8»" />
+	<block key="IN_SP_1_0002_Name" korean="½¬D¾Ñ¼XÇ " />
+	<block key="IN_SP_1_0003_Name" korean="P´¼®´Æ " />
+	<block key="IN_SP_1_0004_Name" korean=" Ì=Ì8»" />
+	<block key="IN_SP_1_0005_Name" korean="Ç<»àÁ" />
+	<block key="IN_SP_1_0006_Name" korean="P´¼®´Æ " />
+	<block key="IN_SP_1_0007_Name" korean="P´¼®´Æ " />
+	<block key="IN_SP_1_0008_Name" korean="D¾‰Õ Á" />
+	<block key="IN_SP_1_0009_Name" korean="½¬D¾Ñ¼XÇ " />
+	<block key="IN_SP_1_0010_Name" korean="½¬D¾Ñ¼XÇ " />
+	<block key="IN_SP_1_0011_Name" korean="½¬D¾Ñ¼XÇ " />
+	<block key="IN_SP_1_0012_Name" korean="½¬D¾Ñ¼XÇ " />
+	<block key="IN_TEST_1_0001_Name" korean="LÑ¤Â¸Ò©Æ" />
+	<block key="IN_SP_1_0013_Name" korean="¾|·0® " />
+	<block key="IN_SP_1_0014_Name" korean="4»0® " />
+	<block key="IN_SP_1_0015_Name" korean="!ÇÉ\Õ " />
+	<block key="IN_SP_1_0016_Name" korean=" Ì8» " />
+	<block key="IN_SP_1_0017_Name" korean=" Ì8» " />
+	<block key="IN_SP_1_0018_Name" korean="¬Â¥Ç " />
+	<block key="IN_SF_1_0010_Name" korean="$Æ˜·´ " />
+	<block key="IN_SF_1_0011_Name" korean="¾|·0® " />
+	<block key="IN_SP_1_0019_Name" korean="4»0® " />
+	<block key="IN_SP_1_0020_Name" korean="4»0® " />
+	<block key="IN_HK_0_0001_Name" korean="€¬@Ç " />
+	<block key="IN_HK_0_0002_Name" korean="´Å`´XÇ " />
+	<block key="IN_HK_0_0003_Name" korean="l×ø»\Õ " />
+	<block key="IN_HK_0_0004_Name" korean="" />
+	<block key="IN_HK_0_0005_Name" korean="Ð¹°¹ " />
+	<block key="IN_HK_0_0006_Name" korean="¨·Õ|¹ " />
+	<block key="IN_HK_0_0007_Name" korean="" />
+	<block key="IN_HK_0_0008_Name" korean="˜°4» " />
+	<block key="IN_CM_0_0011_Name" korean="EÌ" />
+	<block key="IN_CM_0_0012_Name" korean="ù²ü­" />
+	<block key="IN_CM_0_0013_Name" korean="ìÓ" />
+	<block key="IN_CM_0_0014_Name" korean="TÖ}ÅµÑ" />
+	<block key="IN_CM_0_0015_Name" korean="®Á " />
+	<block key="IN_CM_0_0016_Name" korean="l­	® " />
+	<block key="IN_CM_0_0017_Name" korean="tÇÈ\Ô" />
+	<block key="IN_CM_0_0018_Name" korean="‘Ç@Ç " />
+	<block key="IN_CM_0_0019_Name" korean="¬¬à¬\Õ " />
+	<block key="IN_FR_0_0003_Name" korean="°ÀôÒtÇ " />
+	<block key="IN_FR_0_0004_Name" korean="¼Å´Å™½@Ç " />
+	<block key="IN_FR_0_0005_Name" korean="°À¬ÀÜÐ " />
+	<block key="IN_HK_0_0009_Name" korean="pÐ " />
+	<block key="IN_HK_0_0010_Name" korean="pÐ " />
+	<block key="IN_HK_0_0011_Name" korean="¡°@Ç " />
+	<block key="IN_HK_0_0012_Name" korean="¡°@Ç " />
+	<block key="IN_HK_0_0013_Name" korean="¡°@Ç " />
+	<block key="IN_HK_0_0014_Name" korean="ÈÕ„¹\Õ " />
+	<block key="IN_HK_0_0015_Name" korean="[¾˜°”² " />
+	<block key="IN_HK_0_0016_Name" korean="DÌŒÁµÑ" />
+	<block key="IN_HK_0_0017_Name" korean="ÝÂÉ· " />
+	<block key="IN_HK_0_0018_Name" korean="(ÅWÅÇè¸" />
+	<block key="IN_HK_0_0019_Name" korean="DÌŒÁµÑ" />
+	<block key="IN_HK_0_0020_Name" korean="­ÇXÇ " />
+	<block key="IN_HK_0_0021_Name" korean="pÐ " />
+	<block key="IN_SP_1_0021_Name" korean="|ÅÂ " />
+	<block key="IN_SP_1_0022_Name" korean="|ÅÂ " />
+	<block key="IN_SP_1_0023_Name" korean="P´¼®´Æ " />
+	<block key="IN_HK_0_0022_Name" korean="[¾˜°”² " />
+	<block key="IN_FR_0_0006_Name" korean="°ÀôÒÑÉ " />
+	<block key="IN_CM_0_0020_Name" korean="\ÔÀÉÓ " />
+	<block key="IN_SP_1_0024_Name" korean="P´¼®´Æ " />
+	<block key="IN_MA_02_0007_0000_Name" korean="ŒÖÉÀ " />
+	<block key="IN_MA_02_0007_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0007_0002_Name" korean="¬À˜°´Æ " />
+	<block key="IN_MA_02_0007_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0007_0003_Name" korean=" ÇÈÀÉ " />
+	<block key="IN_MA_02_0007_5003_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0309_0000_Name" korean="Â÷Î " />
+	<block key="IN_MA_02_0309_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0000_Name" korean="ÁÀ˜Ìœ° " />
+	<block key="IN_MA_03_0309_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0001_Name" korean="´Å`´XÇ " />
+	<block key="IN_MA_03_0309_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0004_Name" korean="õ¬ìÓXÇ " />
+	<block key="IN_MA_03_0309_5004_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0005_Name" korean="ä¹Á´Æ " />
+	<block key="IN_MA_03_0309_5005_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0245_0000_Name" korean="Q×\Ô”¼ " />
+	<block key="IN_MA_03_0245_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0245_0001_Name" korean="" />
+	<block key="IN_MA_03_0245_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0007_Name" korean="°À " />
+	<block key="IN_MA_03_0309_5007_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0245_0002_Name" korean="p¬\Î8Ñ " />
+	<block key="IN_MA_03_0245_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0008_Name" korean="ÁÀ˜Ìœ° " />
+	<block key="IN_MA_03_0309_5008_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0009_Name" korean="´Å`´XÇ " />
+	<block key="IN_MA_03_0309_5009_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0010_Name" korean="8®ä´ìÅÄÉ " />
+	<block key="IN_MA_03_0309_5010_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0011_Name" korean="´Å`´XÇ " />
+	<block key="IN_MA_03_0309_5011_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0245_0003_Name" korean="I×íÓ\Õ " />
+	<block key="IN_MA_03_0245_5003_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0245_0004_Name" korean="I×íÓ\Õ " />
+	<block key="IN_MA_03_0245_5004_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0000_Name" korean="v­üÈ°¹ " />
+	<block key="IN_MA_03_0083_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0001_Name" korean="°ÆP´8º¬¹ " />
+	<block key="IN_MA_03_0083_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0002_Name" korean="œ°íÓ\Õ " />
+	<block key="IN_MA_03_0083_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0003_Name" korean="ˆ½ð¬(" />
+	<block key="IN_MA_03_0083_5003_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0004_Name" korean="v­üÈ°¹ " />
+	<block key="IN_MA_03_0083_5004_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0005_Name" korean="ˆ½ð¬(" />
+	<block key="IN_MA_03_0083_5005_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0006_Name" korean="¬À˜°´Æ " />
+	<block key="IN_MA_03_0083_5006_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0083_0007_Name" korean="¬À˜°´Æ " />
+	<block key="IN_MA_03_0083_5007_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_SF_1_0012_Name" korean="Ð¤Â¸Ò©Æ " />
+	<block key="IN_ACB_0_0000_Name" korean="	½xÇXÇ " />
+	<block key="IN_FR_0_0007_Name" korean="h¾¬ÉÀ " />
+	<block key="IN_FR_0_0008_Name" korean="Ó€·ÉÀ " />
+	<block key="IN_FR_0_0009_Name" korean="x±€·ÉÀ " />
+	<block key="IN_FR_0_0010_Name" korean="y±ÉÀ " />
+	<block key="IN_ACB_0_0001_Name" korean="€¬@Ç " />
+	<block key="IN_ACB_0_0002_Name" korean="ÀÉXÕ " />
+	<block key="IN_ACB_0_0003_Name" korean="	½xÇXÇ " />
+	<block key="IN_ACB_0_0004_Name" korean="	½xÇXÇ " />
+	<block key="IN_ACB_0_0005_Name" korean="¬9¸ Â " />
+	<block key="IN_ACB_0_0006_Name" korean="¬9¸ Â " />
+	<block key="IN_HK_0_0023_Name" korean="Œ¼ÑÉ" />
+	<block key="IN_HK_0_0024_Name" korean="»Á" />
+	<block key="CO_MI_0000_Name" korean="l­¬¹ " />
+	<block key="CO_MI_0001_Name" korean="üÈÁ " />
+	<block key="CO_MI_0002_Name" korean=" Ì " />
+	<block key="CO_MI_0003_Name" korean="@Ç " />
+	<block key="CO_MI_0004_Name" korean="ðÒÀÐ„² " />
+	<block key="CO_MI_0005_Name" korean="1¼® " />
+	<block key="CO_MI_0006_Name" korean="ø»¤Â´¹ " />
+	<block key="CO_MI_0007_Name" korean="DÅä²Ì¹ðÒÀÆ " />
+	<block key="CO_HE_0000_Name" korean="}ÅeÄ" />
+	<block key="CO_HE_0001_Name" korean="´Å°¹ " />
+	<block key="CO_HE_0002_Name" korean="¼À1¼Í" />
+	<block key="CO_HE_0003_Name" korean="°ÀÂ Ç" />
+	<block key="CO_HE_0004_Name" korean="¼ÀÀÉl­ýÅÍ" />
+	<block key="CO_HE_0005_Name" korean="1¼œÍ" />
+	<block key="CO_HE_0006_Name" korean="œÌ8»Ù³" />
+	<block key="CO_HE_0007_Name" korean="Ì¹Ñ¼Í" />
+	<block key="IN_MA_02_0309_0002_Name" korean="°ÆP´8º¬¹ " />
+	<block key="IN_MA_02_0309_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0010_0000_Name" korean="¬0® " />
+	<block key="IN_MA_02_0010_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0010_0001_Name" korean="¬0® " />
+	<block key="IN_MA_02_0010_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0011_0000_Name" korean="p¬\Î¬0® " />
+	<block key="IN_MA_02_0011_5000_Name" korean="©ÍÌ¹\Õp¬\Î¬0® " />
+	<block key="IN_MA_02_0011_0001_Name" korean="p¬\Î¬0® " />
+	<block key="IN_MA_02_0011_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0011_0002_Name" korean="pÐ´Å®È² " />
+	<block key="IN_MA_02_0011_5002_Name" korean="©ÍÌ¹\ÕpÐ´Å®È² " />
+	<block key="IN_MA_02_0030_0000_Name" korean="gºü³ÀÉ " />
+	<block key="IN_MA_02_0030_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0606_0000_Name" korean="pÐ¼}­ " />
+	<block key="IN_MA_03_0606_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0000_Name" korean="€¬@Ç " />
+	<block key="IN_MA_03_0672_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0606_0001_Name" korean="äÎä²€· " />
+	<block key="IN_MA_03_0606_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0001_Name" korean="1Áœ° " />
+	<block key="IN_MA_03_0672_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0309_0006_Name" korean="8®ä´ìÅÄÉ " />
+	<block key="IN_MA_03_0309_5006_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0002_Name" korean="°¿qÈÔ¿ " />
+	<block key="IN_MA_03_0672_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0003_Name" korean="­íÓtÕÄÉ " />
+	<block key="IN_MA_03_0672_5003_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0004_Name" korean="œ°íÓ\Õ " />
+	<block key="IN_MA_03_0672_5004_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0005_Name" korean="œ°íÓ\Õ " />
+	<block key="IN_MA_03_0672_5005_Name" korean="œ°íÓ\Õ " />
+	<block key="IN_MA_03_0309_0002_Name" korean="p¬\Î " />
+	<block key="IN_MA_03_0309_5002_Name" korean="p¬\Î " />
+	<block key="IN_MA_04_0309_0000_Name" korean="}Å­À`¾x¹ " />
+	<block key="IN_MA_04_0309_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_04_0309_0001_Name" korean="¬À˜°´Æ " />
+	<block key="IN_MA_04_0309_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_04_0309_0002_Name" korean="‘²" />
+	<block key="IN_MA_04_0309_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_51_0083_0000_Name" korean="œ°íÓ\Õ " />
+	<block key="IN_MA_51_0083_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0676_0000_Name" korean=" Ç9¸ " />
+	<block key="IN_MA_02_0676_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0676_0001_Name" korean="p¬" />
+	<block key="IN_MA_02_0676_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0676_0000_Name" korean="ŒÖÉÀ " />
+	<block key="IN_MA_03_0676_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0611_0000_Name" korean="Á¬¹ " />
+	<block key="IN_MA_03_0611_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0676_0001_Name" korean="ÜÂ´Ì " />
+	<block key="IN_MA_03_0676_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0676_0002_Name" korean="¬À˜°´Æ " />
+	<block key="IN_MA_03_0676_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_51_0611_0000_Name" korean="Á¬¹ " />
+	<block key="IN_MA_51_0611_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0611_0001_Name" korean="Á¬¹ " />
+	<block key="IN_MA_03_0611_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0606_0001_Name" korean="¾|·0® " />
+	<block key="IN_MA_02_0606_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0606_0002_Name" korean="ìÓXÎ " />
+	<block key="IN_MA_02_0606_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0006_Name" korean="8®ä´ìÅÄÉ " />
+	<block key="IN_MA_03_0672_5006_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0000_Name" korean="Â]¸(" />
+	<block key="IN_MA_03_0671_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0001_Name" korean="ÂÈÔ¿ " />
+	<block key="IN_MA_03_0671_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0002_Name" korean="p×¬0® " />
+	<block key="IN_MA_03_0671_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0003_Name" korean="ÂÈÔ¿ " />
+	<block key="IN_MA_03_0671_5003_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0004_Name" korean="Â]¸(" />
+	<block key="IN_MA_03_0671_5004_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0005_Name" korean="p×¬0® " />
+	<block key="IN_MA_03_0671_5005_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0006_Name" korean="Â]¸(" />
+	<block key="IN_MA_03_0671_5006_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0007_Name" korean="ÂÈÔ¿ " />
+	<block key="IN_MA_03_0671_5007_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0008_Name" korean="ÂÈÔ¿ " />
+	<block key="IN_MA_03_0671_5008_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0009_Name" korean="pÐ " />
+	<block key="IN_MA_03_0671_5009_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0692_0000_Name" korean="¨º¬¹$± " />
+	<block key="IN_MA_03_0692_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0769_0000_Name" korean="¾™· " />
+	<block key="IN_MA_03_0769_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0769_0001_Name" korean="pÈ‘·Ð¹(" />
+	<block key="IN_MA_03_0769_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0606_0103_Name" korean="¬À!Ç´ " />
+	<block key="IN_MA_02_0606_5103_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0309_0100_Name" korean="€¬@Ç " />
+	<block key="IN_MA_02_0309_5100_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0676_0002_Name" korean=" ÇÈÀÉ " />
+	<block key="IN_MA_02_0676_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_50_0245_0000_Name" korean="ìÕ " />
+	<block key="IN_MA_50_0245_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0692_0002_Name" korean="©ÆTÅ " />
+	<block key="IN_MA_03_0692_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_FR_0_0011_Name" korean="9Ö\ÕXÇ " />
+	<block key="IN_FR_0_0012_Name" korean="¼ÅLÇ " />
+	<block key="IN_HK_0_0025_Name" korean="8Ö¼Ð¹Œ¼ " />
+	<block key="IN_HK_0_0026_Name" korean="ð¬ " />
+	<block key="IN_HK_0_0027_Name" korean=" Ì=Ì" />
+	<block key="IN_HK_0_0028_Name" korean="‘Ç@Ç " />
+	<block key="IN_KLM_0_0001_Name" korean="" />
+	<block key="IN_CR_90_0000_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_CR_90_0001_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_ST_0_0001_Name" korean="8ÖÂ½¬ô¼l­" />
+	<block key="IN_ST_0_0002_Name" korean="Ót¹˜°XÇ " />
+	<block key="IN_ST_0_0003_Name" korean="lÐ\¸äÏ " />
+	<block key="IN_ST_0_0004_Name" korean="3" />
+	<block key="IN_ST_0_0005_Name" korean="TÖ´À " />
+	<block key="IN_ST_0_0006_Name" korean="ìÓ\¸" />
+	<block key="IN_ST_0_0007_Name" korean="Ù³ÁÀÐÅ " />
+	<block key="IN_ST_0_0008_Name" korean="xÇ´ÅXÇ " />
+	<block key="IN_ST_0_0009_Name" korean="xÇ´ÅXÇ " />
+	<block key="IN_ST_0_0010_Name" korean="xÇ´ÅXÇ " />
+	<block key="IN_ST_0_0011_Name" korean="¼ÅLÇ " />
+	<block key="IN_ST_0_0012_Name" korean="¼ÅLÇ " />
+	<block key="IN_ST_0_0013_Name" korean="Ç¥Ç\Õ " />
+	<block key="IN_ST_0_0014_Name" korean="tÕÈ " />
+	<block key="IN_ST_0_0015_Name" korean="íÓÄÐ " />
+	<block key="IN_RDC_0_0001_Name" korean="È¹%¸XÇ " />
+	<block key="IN_RDC_0_0002_Name" korean="õ¬©¬XÇ " />
+	<block key="IN_RDC_0_0003_Name" korean="ÝÀ…ºXÇ " />
+	<block key="IN_RDC_0_0004_Name" korean=")¼´ÅXÇ " />
+	<block key="IN_RDC_0_0005_Name" korean="­È¬À " />
+	<block key="IN_RDC_0_0006_Name" korean="õ¬©¬XÇ " />
+	<block key="IN_RDC_0_0007_Name" korean=")¼´ÅXÇ " />
+	<block key="IN_RDC_0_0008_Name" korean="È¹%¸XÇ " />
+	<block key="IN_RDC_0_0009_Name" korean="ÝÀ…ºXÇ " />
+	<block key="IN_RDC_0_0010_Name" korean="´ÀDÅˆÇ”² " />
+	<block key="IN_RDC_0_0011_Name" korean="LÅÖäÂ " />
+	<block key="IN_RDC_0_0012_Name" korean="¼Å´Å™½@Ç " />
+	<block key="IN_RDC_0_0013_Name" korean="½¼tº " />
+	<block key="IN_FR_0_0013_Name" korean="Ç¥Ç " />
+	<block key="IN_VLC_0_0001_Name" korean="<» " />
+	<block key="IN_SF_1_0013_Name" korean="ˆ½ " />
+	<block key="IN_SF_1_0014_Name" korean="ˆ½ " />
+	<block key="IN_SF_1_0015_Name" korean="ˆ½ " />
+	<block key="IN_ST_0_0016_Name" korean="s­Œ¬ " />
+	<block key="IN_ST_0_0017_Name" korean="ÂÁÀ\Õ " />
+	<block key="IN_ST_0_0018_Name" korean="ô¼<» " />
+	<block key="IN_ST_0_0019_Name" korean="Ä³l­ " />
+	<block key="IN_ST_0_0020_Name" korean="8Áõ¬ " />
+	<block key="IN_ST_0_0021_Name" korean="y±¨Â " />
+	<block key="IN_ST_0_0022_Name" korean="`¸Ä³XÇ " />
+	<block key="IN_ST_0_0023_Name" korean="1Á<»tÇ " />
+	<block key="IN_ST_0_0024_Name" korean="¥ÕÍ" />
+	<block key="IN_ST_0_0025_Name" korean=" ¼´ÅÄÉ " />
+	<block key="IN_ST_0_0026_Name" korean="Ç½¬è²XÇ " />
+	<block key="IN_ST_0_0027_Name" korean="ÂÍ" />
+	<block key="IN_ST_0_0028_Name" korean="ÐÉ " />
+	<block key="IN_ST_0_0029_Name" korean="­Á " />
+	<block key="IN_SF_1_0016_Name" korean="€½ÁÀù²\Õ " />
+	<block key="IN_SF_1_0017_Name" korean="€½ÁÀù²\Õ " />
+	<block key="IN_ST_0_0030_Name" korean="¬9¸ Â " />
+	<block key="IN_ST_0_0031_Name" korean="`¸Ä³XÇ " />
+	<block key="IN_ST_0_0032_Name" korean="4»ì·ø» " />
+	<block key="IN_ST_0_0033_Name" korean="ÝÂÉ·=Ìà¬ " />
+	<block key="IN_ST_0_0034_Name" korean="4»0®=Ìà¬ " />
+	<block key="IN_ST_0_0035_Name" korean="tÕÈ Á " />
+	<block key="IN_ST_0_0036_Name" korean="ÝÂÉ·=Ìà¬ " />
+	<block key="IN_ST_0_0037_Name" korean="4»0®=Ìà¬ " />
+	<block key="IN_ST_0_0038_Name" korean="Œ¬ÜÂÓ" />
+	<block key="IN_ST_0_0039_Name" korean="Ý¹" />
+	<block key="IN_SF_1_5000_Name" korean="ˆ½ " />
+	<block key="IN_HK_0_0029_Name" korean="ˆ½ÈÀXÇ " />
+	<block key="IN_HK_0_0030_Name" korean="íÓÔXÇ " />
+	<block key="IN_CM_2_0001_Name" korean="ìÓ¬¹(Æ " />
+	<block key="IN_CM_2_0002_Name" korean="8ÁtÇÀÉ " />
+	<block key="IN_CM_2_0003_Name" korean="´Ìt¹Ó " />
+	<block key="IN_CM_2_0004_Name" korean="àÏt¹ " />
+	<block key="IN_CM_2_0005_Name" korean="LÑ¬¹8» " />
+	<block key="IN_CM_2_0006_Name" korean="è¸äÀxÇ " />
+	<block key="IN_CM_2_0011_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_CM_2_0012_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_CM_2_0013_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_CM_2_0014_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_CM_2_0015_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_CM_2_0016_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="IN_SF_0_0018_Name" korean="€¬@Ç " />
+	<block key="IN_CM_0_0021_Name" korean="”ÆÈXÇ " />
+	<block key="IN_CM_0_0022_Name" korean="1" />
+	<block key="IN_CM_0_0023_Name" korean="ÄÊC®\Õ " />
+	<block key="IN_CM_0_0024_Name" korean="ÂÈÍ" />
+	<block key="IN_CM_0_0025_Name" korean="[¾˜°”² " />
+	<block key="IN_CM_0_0026_Name" korean="­DÌ˜°”² " />
+	<block key="IN_CM_0_0027_Name" korean="tÇ¬ÂÍ" />
+	<block key="IN_CM_0_0028_Name" korean="Ñ¹@Ç " />
+	<block key="IN_CM_0_0029_Name" korean="ÂÂ\Õ " />
+	<block key="IN_SF_1_0019_Name" korean="ÀÐ$Æt¹”² " />
+	<block key="IN_SF_1_0020_Name" korean="ÀÐ$Æt¹”² " />
+	<block key="IN_MA_03_1720_0000_Name" korean="äÂØÕ©Æ " />
+	<block key="IN_MA_03_1720_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0704_0000_Name" korean="€¬@Ç " />
+	<block key="IN_MA_03_0704_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0704_0001_Name" korean="ˆ½C¯ " />
+	<block key="IN_MA_03_0704_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_1715_0000_Name" korean="DÅ¤ÂLÑ|·¤Â " />
+	<block key="IN_MA_03_1715_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0606_0000_Name" korean="1Áœ° " />
+	<block key="IN_MA_02_0606_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0704_0002_Name" korean="y±ÉÀ " />
+	<block key="IN_MA_03_0704_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0704_0003_Name" korean="­ÌÉÀ " />
+	<block key="IN_MA_03_0704_5003_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_04_0245_0000_Name" korean="$ÁÐÆ " />
+	<block key="IN_MA_04_0245_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_04_0245_0001_Name" korean="¼ÅLÇ " />
+	<block key="IN_MA_04_0245_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_04_0245_0002_Name" korean="8®ä´ìÅÄÉ " />
+	<block key="IN_MA_04_0245_5002_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_04_0083_0000_Name" korean="I×íÓ\Õ " />
+	<block key="IN_MA_04_0083_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_04_0083_0001_Name" korean="ÑÉDÌÌ¹\Õ " />
+	<block key="IN_MA_04_0083_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0676_0005_Name" korean="ÀÐ€·4Ò|· " />
+	<block key="IN_MA_03_0676_5005_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_02_0245_0000_Name" korean="´Å`´XÇ " />
+	<block key="IN_MA_02_0245_5000_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0671_0010_Name" korean="¬ÄÉÔ¿ " />
+	<block key="IN_MA_03_0671_5010_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0672_0007_Name" korean="ä´ŒÁ " />
+	<block key="IN_MA_03_0672_5007_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0704_0006_Name" korean="€¬@Ç " />
+	<block key="IN_MA_03_0704_5006_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0704_0007_Name" korean="y±ÉÀ " />
+	<block key="IN_MA_03_0704_5007_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0704_0008_Name" korean="y±ÉÀ " />
+	<block key="IN_MA_03_0704_5008_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_0245_0005_Name" korean="tÇø­È²¤Â " />
+	<block key="IN_MA_03_0245_5005_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_MA_03_1715_0001_Name" korean="TÅQ×È¹á¸ " />
+	<block key="IN_MA_03_1715_5001_Name" korean="©ÍÌ¹\Õ " />
+	<block key="IN_CM_0_0030_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0031_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0032_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0033_Name" korean="Á1Á " />
+	<block key="IN_VLC_0_0002_Name" korean="ô¼<» " />
+	<block key="IN_HK_0_0031_Name" korean="íÓÔXÇ " />
+	<block key="IN_HK_0_0032_Name" korean="ˆ½XÇ " />
+	<block key="IN_VLC_0_0003_Name" korean="¬ Ì " />
+	<block key="IN_VLC_0_0004_Name" korean="˜°4» " />
+	<block key="in_f01_1_0021_Name" korean="¡°@Ç " />
+	<block key="IN_HK_0_0033_Name" korean="ô¼8ÖXÇ " />
+	<block key="IN_FR_0_0014_Name" korean="È¹•¼ " />
+	<block key="IN_CM_0_0034_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0035_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0036_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0037_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0038_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0039_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0040_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0041_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0042_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0043_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0044_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0045_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0046_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0047_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0048_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0049_Name" korean="Á1Á " />
+	<block key="IN_CM_0_0050_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0051_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0052_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0053_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0054_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0055_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0056_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0057_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0058_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0059_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0060_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0061_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0062_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0063_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0064_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0065_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0066_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0067_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0068_Name" korean="ÁÀ	® " />
+	<block key="IN_CM_0_0069_Name" korean="ÁÀ	® " />
+	<block key="IN_RDC_0_0014_Name" korean="È¹%¸ " />
+	<block key="IN_KLM_0_0002_Name" korean="" />
+	<block key="IN_VLC_0_0005_Name" korean="Â8» " />
+	<block key="IN_FR_0_0015_Name" korean="TÖ\¸" />
+	<block key="IN_HK_0_0034_Name" korean="Ð¹°¹ " />
+	<block key="IN_VLC_0_0006_Name" korean="¬ Ì " />
+	<block key="IN_VLC_0_0007_Name" korean="¬ Ì " />
+	<block key="IN_VLC_0_0008_Name" korean="<» " />
+	<block key="IN_VLC_0_0009_Name" korean="<» " />
+	<block key="IN_RDC_0_0015_Name" korean="õ¬üÈXÇ " />
+	<block key="IN_ST_0_0040_Name" korean="€½ÁÀù²\Õ " />
+	<block key="IN_VLC_0_0010_Name" korean="˜°4» " />
+	<block key="IN_ST_0_0041_Name" korean="tÕy±Í" />
+	<block key="IN_VLC_0_0011_Name" korean="4»0® " />
+	<block key="IN_KLM_0_0003_Name" korean="" />
+	<block key="in_cm_5_0001_Name" korean="[¾XÇ " />
+	<block key="IN_F02_5_0001_Name" korean="ô¼<» " />
+	<block key="IN_F02_5_0002_Name" korean="XÇÝÂXÇ " />
+	<block key="IN_F02_5_0003_Name" korean="ýÈLÇXÇ " />
+	<block key="IN_F02_5_0004_Name" korean="ÉÓÉÓ\Õ " />
+	<block key="IN_d02_0_0016_Name" korean="" />
+	<block key="IN_HK_0_0035_Name" korean="È¹)¼EÌ" />
+	<block key="IN_HK_0_0036_Name" korean="¬ÜÂÑÐ" />
+	<block key="IN_HK_0_0037_Name" korean="$ÆüÅXÇ " />
+	<block key="IN_HK_0_0038_Name" korean="´Å`´XÇ " />
+	<block key="IN_HK_0_0039_Name" korean="ÐÉÈ¹(Ì " />
+	<block key="IN_SP_1_0025_Name" korean="!ÇÉ\Õ " />
+	<block key="IN_SP_1_0026_Name" korean="!ÇÉ\Õ " />
+	<block key="IN_F02_G_0_0001_Name" korean="˜°4» " />
+	<block key="IN_F02_G_0_0002_Name" korean="˜°4» " />
+	<block key="IN_F02_G_0_0003_Name" korean="9Ö\ÕXÇ " />
+	<block key="IN_F02_G_0_0004_Name" korean="D¾¤Â4»¸Ò " />
+	<block key="IN_SP_1_0027_Name" korean="P´¼®´Æ " />
+	<block key="IN_F02_G_0_0005_Name" korean="T³ø» " />
+	<block key="IN_F02_G_0_0006_Name" korean="T³ø» " />
+	<block key="IN_SF_1_0099_Name" korean="LÑ¤Â¸Ò " />
+	<block key="IN_SF_0_0001_Name" korean="tÎ¾„Ç " />
+	<block key="IN_SF_0_0002_Name" korean="à¬" />
+	<block key="IN_cm_Prin_000_Name" korean="õ¬üÈ " />
+	<block key="IN_F04_0_0001_Name" korean="xºÝ¹XÇ " />
+	<block key="IN_F04_0_0002_Name" korean="Ó4­´ " />
+	<block key="IN_F04_0_0003_Name" korean="$È˜°¬¹¤Â " />
+	<block key="IN_F04_0_0004_Name" korean="ˆÉTº°ÆXÇ " />
+	<block key="IN_F04_0_0005_Name" korean="tÇ„¹ " />
+	<block key="IN_SF_0_0004_Name" korean="e×„½\Õ " />
+	<block key="IN_F04_0_0006_Name" korean="ØÅ\¸|·XÇ " />
+	<block key="IN_F04_0_0007_Name" korean="ØÅ\¸|·XÇ " />
+	<block key="IN_F04_0_0008_Name" korean="Õ\¸ðÒ´ÅXÇ " />
+	<block key="IN_F04_0_0009_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0010_Name" korean="ÀÐ}·\Õ " />
+	<block key="IN_F04_0_0011_Name" korean="ÐÅ°ÆD¾ ÎXÇ " />
+	<block key="IN_F04_0_0012_Name" korean="Õ\¸ðÒ´Å " />
+	<block key="IN_F04_0_0013_Name" korean="Õ\¸ðÒ´ÅXÇ " />
+	<block key="IN_F04_0_0014_Name" korean="Õ\¸ðÒ´ÅXÇ " />
+	<block key="IN_F04_0_0015_Name" korean="Õ\¸ðÒ´ÅXÇ " />
+	<block key="IN_F04_0_0016_Name" korean="Õ\¸ðÒ´ÅXÇ " />
+	<block key="IN_F04_0_0017_Name" korean="Õ\¸ðÒ´ÅXÇ " />
+	<block key="IN_F04_0_0018_Name" korean="Õ\¸ðÒ´ÅXÇ " />
+	<block key="in_cm_0_0070_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0071_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0072_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0073_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0074_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0075_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0076_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0077_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0078_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0079_Name" korean="ÇðÅÍ" />
+	<block key="in_cm_0_0080_Name" korean="ÇðÅÍ" />
+	<block key="IN_F04_0_0019_Name" korean="[¾˜°”² " />
+	<block key="IN_F04_0_0020_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0021_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0022_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0023_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0024_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0025_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0026_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0027_Name" korean="ÑÅÇ€· " />
+	<block key="IN_SF_0_0007_Name" korean="à¬" />
+	<block key="IN_F04_0_0028_Name" korean="ìÅàÂXÇ " />
+	<block key="IN_F03_0_0001_Name" korean="ø­<»(" />
+	<block key="IN_F03_0_0002_Name" korean="[¾˜°”² " />
+	<block key="IN_F03_0_0003_Name" korean=" µ$Æx¹ " />
+	<block key="IN_F03_0_0004_Name" korean="x±˜·XÕ”² " />
+	<block key="IN_F03_0_0005_Name" korean="ŒÁÝÀXÕ”² " />
+	<block key="IN_F03_0_0006_Name" korean=" Çà´ " />
+	<block key="IN_F03_0_0007_Name" korean="@Ç[¾ " />
+	<block key="IN_F03_0_0008_Name" korean="0®É0®" />
+	<block key="IN_F03_0_0009_Name" korean="È‘ÇÉxÇ " />
+	<block key="IN_F03_0_0010_Name" korean="DÆ1Á´ " />
+	<block key="IN_F03_0_0011_Name" korean="3" />
+	<block key="IN_F03_0_0012_Name" korean="ÐÉÂ¸" />
+	<block key="IN_F03_0_0013_Name" korean="Ô(Ì" />
+	<block key="IN_F03_0_0014_Name" korean="p¬" />
+	<block key="IN_F03_0_0015_Name" korean="­ÌÈÀXÎ" />
+	<block key="IN_F03_0_0016_Name" korean="Ý¹è¸" />
+	<block key="IN_F03_0_0017_Name" korean="¥Ç‘ÇT³ø»" />
+	<block key="IN_F03_0_0018_Name" korean="" />
+	<block key="IN_F03_0_0019_Name" korean="ìÓÄÐ" />
+	<block key="IN_F03_0_0020_Name" korean="ìÅàÂXÇ " />
+	<block key="IN_F03_0_0021_Name" korean="ìÅàÂXÇ " />
+	<block key="IN_F03_0_0022_Name" korean="¼Åt­ " />
+	<block key="IN_F03_0_0023_Name" korean="$ÆüÅ´ " />
+	<block key="IN_F03_0_0024_Name" korean="¨°½Ê " />
+	<block key="IN_F03_0_0025_Name" korean="<»XÇ " />
+	<block key="IN_F03_0_0026_Name" korean="È$ÁÄ³l­ " />
+	<block key="IN_F03_0_0027_Name" korean="lÐ\¸äÏ " />
+	<block key="IN_F03_0_0028_Name" korean="²C¯ " />
+	<block key="IN_F03_0_0029_Name" korean="[¾˜°”² " />
+	<block key="IN_F03_0_0030_Name" korean="¼Å´Å™½@Ç " />
+	<block key="IN_F03_0_0031_Name" korean="¼Å´Å™½@Ç " />
+	<block key="IN_F03_0_0032_Name" korean="<» " />
+	<block key="IN_HK_0_0040_Name" korean="ÐÆ\ÕÁ°¹ " />
+	<block key="IN_F03_0_0033_Name" korean="0¼à¬Õ " />
+	<block key="IN_F03_0_0034_Name" korean="Ý¹" />
+	<block key="IN_C01_0_0001_Name" korean="ƒÇ´Å„¼°¹ " />
+	<block key="IN_C01_0_0002_Name" korean="¬À|·ÄÉ " />
+	<block key="IN_C01_0_0003_Name" korean="(Â¨¬ÄÉ " />
+	<block key="IN_C01_0_0004_Name" korean="ÇØÕ\Õ " />
+	<block key="IN_C01_0_0005_Name" korean="Â8Ö " />
+	<block key="IN_C01_0_0006_Name" korean="tÎ¾„Ç " />
+	<block key="IN_C01_0_0007_Name" korean="Â8ÖàÂá¸ " />
+	<block key="IN_C01_0_0008_Name" korean="XÇÝÂXÇ " />
+	<block key="IN_C01_0_0009_Name" korean="‰½@Ç " />
+	<block key="IN_C01_0_0010_Name" korean="xÔx¹ " />
+	<block key="IN_C01_0_0011_Name" korean="x±€· " />
+	<block key="IN_C01_0_0012_Name" korean="y±ÉÀ " />
+	<block key="IN_C01_0_0013_Name" korean="¸Ò|·tÇ¸Ò¼Å " />
+	<block key="IN_RDC_0_0016_Name" korean="­È¬À " />
+	<block key="IN_RDC_0_0017_Name" korean="­È¬À " />
+	<block key="IN_HK_0_0041_Name" korean="­DÌtÇ|°" />
+	<block key="IN_HK_0_0042_Name" korean="<ÕXÇ " />
+	<block key="IN_HK_0_0043_Name" korean="4»P´ÈÉ " />
+	<block key="IN_HK_0_0044_Name" korean=" Ç|Î¬¹˜°4» " />
+	<block key="IN_F03_0_0035_Name" korean="8ÖÂ½¬ô¼l­" />
+	<block key="IN_F03_0_0036_Name" korean="1¼@Ç" />
+	<block key="IN_F03_0_0037_Name" korean="lÐ\¸äÏ " />
+	<block key="IN_F03_0_0038_Name" korean="3" />
+	<block key="IN_F03_0_0039_Name" korean="TÖ´À " />
+	<block key="IN_F03_0_0040_Name" korean="ìÓ\¸" />
+	<block key="IN_F03_0_0041_Name" korean="Ù³ÁÀÐÅ " />
+	<block key="IN_F03_0_0042_Name" korean="xÇ´ÅXÇ " />
+	<block key="IN_F03_0_0043_Name" korean="xÇ´ÅXÇ " />
+	<block key="IN_F03_0_0044_Name" korean="xÇ´ÅXÇ " />
+	<block key="IN_F03_0_0045_Name" korean="¼ÅLÇ " />
+	<block key="IN_F03_0_0046_Name" korean="¼ÅLÇ " />
+	<block key="IN_F03_0_0047_Name" korean="Ç¥Ç\Õ " />
+	<block key="IN_F03_0_0048_Name" korean="tÕÈ " />
+	<block key="IN_F03_0_0049_Name" korean="íÓÄÐ " />
+	<block key="IN_F03_0_0050_Name" korean="Ù³½Ê " />
+	<block key="IN_F03_0_0051_Name" korean="Á½Ê " />
+	<block key="IN_F03_0_0052_Name" korean="˜°4» " />
+	<block key="IN_F03_0_0053_Name" korean="D¾" />
+	<block key="IN_F03_0_0054_Name" korean="D¾" />
+	<block key="IN_F03_0_0055_Name" korean="D¾" />
+	<block key="IN_F03_0_0056_name" korean="ìÓÄÐtÇ " />
+	<block key="IN_D11_0_0001_name" korean="Ä³¬P­" />
+	<block key="IN_D11_0_0002_name" korean="Ä³¬P­" />
+	<block key="IN_D11_0_0003_name" korean="Ä³¬P­" />
+	<block key="IN_D11_0_0004_name" korean="Ä³¬P­ " />
+	<block key="IN_D11_0_0005_name" korean="Ä³¬P­ " />
+	<block key="IN_D11_0_0006_name" korean="Ä³¬P­ " />
+	<block key="IN_D11_0_0007_name" korean="å¹ÀÐtÇ<º©Æ­\¸" />
+	<block key="IN_D11_0_0008_name" korean="©Æ­\¸ " />
+	<block key="IN_D11_0_0009_name" korean="	½xÇ´´ÅÄÉ " />
+	<block key="IN_D11_0_0010_name" korean="	½xÇ´´ÅÄÉ " />
+	<block key="IN_D11_0_0011_name" korean="8»" />
+	<block key="IN_D11_0_0012_name" korean="˜°4»©ºEÌ" />
+	<block key="IN_D11_0_0013_name" korean="D¾ÁÀ¨¼" />
+	<block key="IN_D11_0_0014_name" korean="¥ÇÈ´ " />
+	<block key="IN_D03_0_0001_name" korean="Â\¸8»" />
+	<block key="IN_D03_0_0002_name" korean="Â\¸ " />
+	<block key="IN_D03_0_0003_name" korean="Â\¸ " />
+	<block key="IN_D03_0_0004_name" korean="8ÖÂ8»" />
+	<block key="IN_D03_0_0005_name" korean="‘Ç@Ç " />
+	<block key="IN_D03_0_0006_name" korean="‰½@ÇŽÇ " />
+	<block key="IN_D03_0_0007_name" korean="˜°¨º˜°¸Ò " />
+	<block key="IN_D03_0_0008_name" korean="€½DÌpÈ¬ " />
+	<block key="IN_d02_roof_001_name" korean="°ÀôÒtÇ " />
+	<block key="IN_D03_0_0009_name" korean="È<»" />
+	<block key="IN_D03_0_0010_name" korean="Â\¸ " />
+	<block key="IN_D03_0_0011_name" korean="Â\¸ " />
+	<block key="IN_f01_CM_mound_001_name" korean="Y×T³ø»" />
+	<block key="IN_f01_web_001_name" korean="p¬ø»É" />
+	<block key="IN_f01_CM_mound_002_name" korean="Y×T³ø»" />
+	<block key="IN_RDC_0_0020_name" korean="½¼tº " />
+	<block key="IN_RDC_0_0021_name" korean="­È¬À " />
+	<block key="IN_F03_0_0057_name" korean="<»XÇ " />
+	<block key="IN_D03_0_0012_name" korean="ÐÆXÇ " />
+	<block key="IN_D03_0_0013_name" korean="ä²tÇDÅ¬ºÜ´XÇ " />
+	<block key="IN_D03_0_0014_name" korean="Ä¼XÇ " />
+	<block key="IN_D03_0_0015_name" korean="¬À¬XÇ " />
+	<block key="IN_D03_0_0016_name" korean="ì²XÇ " />
+	<block key="IN_D03_0_0017_name" korean="¼À¬XÇ " />
+	<block key="IN_D03_0_0018_name" korean="ìÓÈÐ" />
+	<block key="IN_F03_0_0058_name" korean="<»XÇ " />
+	<block key="IN_RDC_0_0022_name" korean="¼ÅLÇ " />
+	<block key="IN_d02_0_0017_name" korean="" />
+	<block key="IN_CM_1_0001_name" korean="l­¬¹" />
+	<block key="IN_CM_1_0002_name" korean=" Ì" />
+	<block key="IN_CM_1_0003_name" korean="ø»¤Â´¹" />
+	<block key="IN_CM_1_0004_name" korean=",Ò„·¬¹ÀÆ" />
+	<block key="IN_CM_1_0005_name" korean="DÅä²Ì¹ðÒÀÆ" />
+	<block key="IN_CM_1_0006_name" korean="Ü´|·à¬È²ÀÆ" />
+	<block key="IN_CM_1_1001_name" korean="@Ç" />
+	<block key="IN_CM_1_1002_name" korean="®" />
+	<block key="IN_CM_1_1003_name" korean="ÇÂÈ" />
+	<block key="IN_CM_1_1004_name" korean="¬ÀÓtÇ´Å" />
+	<block key="IN_CM_1_1005_name" korean="ÐÅTº„·Ü´" />
+	<block key="IN_CM_1_1006_name" korean="ä²tÇDÅ¬ºÜ´" />
+	<block key="IN_CM_2_0001_name" korean="ìÓ¬¹(Æ " />
+	<block key="IN_CM_2_0002_name" korean="8ÁtÇÀÉ " />
+	<block key="IN_CM_2_0003_name" korean="´Ìt¹Ó " />
+	<block key="IN_CM_2_0004_name" korean="àÏt¹ " />
+	<block key="IN_CM_2_0005_name" korean="LÑ¬¹8» " />
+	<block key="IN_CM_2_0006_name" korean="è¸äÀxÇ " />
+	<block key="IN_D02_Uru_0001_name" korean="°Æè¸ " />
+	<block key="IN_F03_0_0059_name" korean="È¹)¼EÌ" />
+	<block key="IN_cm_0_0100_name" korean="" />
+	<block key="IN_F03_0_0060_name" korean="<»XÇ " />
+	<block key="IN_F03_0_0061_name" korean="<»XÇ " />
+	<block key="IN_F03_0_0062_name" korean="<»XÇ " />
+	<block key="IN_f04_Seal_Jar_001_name" korean="à¬" />
+	<block key="IN_f05_0_0001_name" korean="" />
+	<block key="IN_f05_0_0002_name" korean="°Æ<»" />
+	<block key="IN_f05_0_0003_name" korean="¬ÈÐù²\Õ " />
+	<block key="IN_f05_0_0004_name" korean="t¬<» " />
+	<block key="IN_f05_0_0005_name" korean="©ÆÑ¼è² " />
+	<block key="IN_f05_0_0006_name" korean="ýÈ@Ç " />
+	<block key="IN_f05_0_0007_name" korean="­(Ì" />
+	<block key="IN_f05_0_0008_name" korean="©ÆÑ¼è²XÇ " />
+	<block key="IN_f05_0_0009_name" korean="©ÆÑ¼è²XÇ " />
+	<block key="IN_f05_0_0010_name" korean="¸|Ç" />
+	<block key="IN_f05_0_0011_name" korean="ù¹Â " />
+	<block key="IN_f05_0_0012_name" korean="Ä³ÈÇXÇ " />
+	<block key="IN_f05_0_0013_name" korean="$Æt¹ " />
+	<block key="IN_f05_0_0014_name" korean="$Æt¹ " />
+	<block key="IN_f05_0_0015_name" korean="tÇ²0® " />
+	<block key="IN_f05_0_0016_name" korean="¼PÉ " />
+	<block key="IN_f05_0_0017_name" korean="ÁÁÀ´ " />
+	<block key="IN_f05_0_0018_name" korean="¨º˜· " />
+	<block key="IN_f05_0_0019_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="IN_f05_0_0020_name" korean="˜°tÇDÅXÇ " />
+	<block key="IN_f05_0_0021_name" korean="ø­¬¹ðÓ " />
+	<block key="IN_SF_1_0018_name" korean="<ÕXÇ " />
+	<block key="IN_F03_0_0063_name" korean="tÕÈè² " />
+	<block key="IN_F03_0_0064_name" korean="tÕÈè² " />
+	<block key="IN_f02_human_arm_01_name" korean="¬ÀŒ· " />
+	<block key="IN_HK_0_0045_Name" korean="„¼$¸ÄÉ " />
+	<block key="IN_HK_0_0046_Name" korean="tÎ¾„Ç " />
+	<block key="IN_HK_0_0047_Name" korean="ø­|·¤ÂXÇ " />
+	<block key="IN_HK_0_0048_Name" korean="(Â¨¬ÄÉ " />
+	<block key="IN_HK_0_0049_Name" korean="tÎ¾„Ç " />
+	<block key="IN_HK_0_0050_Name" korean="ÁX¹ " />
+	<block key="IN_HK_0_0051_Name" korean="µÑ¼" />
+	<block key="IN_HK_0_0052_Name" korean="è²8Ö¼" />
+	<block key="IN_HK_0_0053_Name" korean="0®»\Õ " />
+	<block key="IN_HK_0_0054_Name" korean="<ÕXÇ " />
+	<block key="IN_HK_0_0055_Name" korean="à¬¥Çœ° " />
+	<block key="IN_HK_0_0056_Name" korean="4»P´ÈÉ " />
+	<block key="IN_HK_0_0057_Name" korean="ÔÖ\Î " />
+	<block key="IN_HK_0_0058_Name" korean="Ó4­ " />
+	<block key="IN_HK_0_0059_Name" korean="©ÆXÇ " />
+	<block key="IN_HK_0_0060_Name" korean="Â8ÖÄÉ " />
+	<block key="IN_HK_0_0065_Name" korean="XÇ8»XÇ " />
+	<block key="IN_f02_magic_orb_01_Name" korean="XÇÝÂXÇ " />
+	<block key="IN_d04_0_0021_name" korean="Á¬¹p­è²¥ÇXÇ " />
+	<block key="IN_CM_0_0200_Name" korean="ÑÅÇ¬¹ÀÆ" />
+	<block key="IN_KLM_0_0004_Name" korean="" />
+	<block key="IN_KLM_0_0005_Name" korean="" />
+	<block key="IN_HK_0_0061_Name" korean="Ï°ÆˆÉ " />
+	<block key="IN_D00_0_0001_Name" korean="ˆ½C¯" />
+	<block key="IN_HK_0_0062_Name" korean="È¹˜²" />
+	<block key="IN_HK_0_0063_Name" korean="¬ÇT³¬¹XÇ " />
+	<block key="IN_KLM_0_0006_Name" korean="" />
+	<block key="IN_F02_0_0052_Name" korean="˜°4» " />
+	<block key="IN_F03_0_0065_Name" korean="˜°4»" />
+	<block key="IN_C01_1_0001_Name" korean=" Ì¥Ç" />
+	<block key="IN_C01_1_0002_Name" korean=" Ì8»" />
+	<block key="IN_P01_0_0001_Name" korean="˜°4» " />
+	<block key="IN_P01_0_0002_Name" korean="1¼è¬tÇ " />
+	<block key="IN_P01_0_0003_Name" korean="Â8ÖÁ" />
+	<block key="IN_P01_0_0004_Name" korean="$ÆüÅ´ " />
+	<block key="IN_F09_0_0001_Name" korean="¤ÂxÎ " />
+	<block key="IN_F09_0_0002_Name" korean="¤ÂxÎ " />
+	<block key="IN_F09_0_0003_Name" korean="$ÆÕ|·tÇÄÅ" />
+	<block key="IN_F09_0_0004_Name" korean="È¹É€·XÇ " />
+	<block key="IN_F09_0_0005_Name" korean="È¹É€·XÇ " />
+	<block key="IN_F09_0_0006_Name" korean="È¹É€·XÇ " />
+	<block key="IN_F09_0_0007_Name" korean="1Á¥ÇtÇ " />
+	<block key="IN_F09_0_0008_Name" korean="1Á¥ÇtÇ " />
+	<block key="IN_F09_0_0009_Name" korean="$ÆüÅ´ " />
+	<block key="IN_F09_0_0010_Name" korean="¤ÂxÎ " />
+	<block key="IN_F09_0_0011_Name" korean="|·È²DÅ " />
+	<block key="IN_F09_0_0012_Name" korean="p¬" />
+	<block key="IN_F09_0_0013_Name" korean="ØÅ\¸|· " />
+	<block key="IN_P01_0_0005_Name" korean=" Ç<» " />
+	<block key="IN_D3_0_0027_Name" korean="Á¬¹€Ô" />
+	<block key="IN_F03_0_0066_Name" korean="² " />
+	<block key="IN_F03_0_0067_Name" korean="² " />
+	<block key="IN_F03_0_0068_Name" korean="¼Å´Å™½@Ç " />
+	<block key="IN_F09_0_0014_Name" korean="¡Ç" />
+	<block key="IN_F09_0_0015_Name" korean="Ç0®ÐÅ " />
+	<block key="IN_F09_0_0016_Name" korean="ÈÈ²|ÓXÇ " />
+	<block key="IN_f03_Funit_001_Name" korean="É°0® " />
+	<block key="IN_f03_IceObject_001_Name" korean="¼ÅLÇ " />
+	<block key="IN_f03_Malachite_001_Name" korean="lÐ\¸äÏ " />
+	<block key="IN_P01_0_0006_Name" korean="ÀÉ\Î " />
+	<block key="IN_F03_0_0069_Name" korean="¼Å´Å™½@Ç " />
+	<block key="IN_P01_0_0007_Name" korean="Y×T³ø»" />
+	<block key="IN_P01_0_0008_Name" korean="p¬ø»É" />
+	<block key="IN_P01_0_0009_Name" korean="tÇÁÀ\Õ " />
+	<block key="IN_P01_0_0010_Name" korean=" Â " />
+	<block key="IN_P01_0_0011_Name" korean="»Á" />
+	<block key="IN_P01_0_0012_Name" korean="<Õ " />
+	<block key="IN_P01_0_0013_Name" korean="¡°@Ç " />
+	<block key="IN_P01_0_0014_Name" korean="Ä°ÈÀ˜°”² " />
+	<block key="IN_P01_0_0015_Name" korean="ø­¼¹tÇ " />
+	<block key="IN_P01_0_0016_Name" korean="ÜÂ´Ì€Ô" />
+	<block key="IN_P01_0_0017_Name" korean="ÂÁÀ\Õ " />
+	<block key="IN_P01_0_0018_Name" korean="È´Ìˆ½…ºXÇ " />
+	<block key="IN_P01_0_0019_Name" korean="9ºä² " />
+	<block key="IN_F09_0_0019_Name" korean="ØÅ\¸|· " />
+	<block key="IN_F02_0_0034_Name" korean="¤Â|Î¸ä²XÇ " />
+	<block key="IN_PK_02_silver_001_Name" korean="1¼@Ç " />
+	<block key="IN_PK_02_silver_002_Name" korean="p¬" />
+	<block key="IN_PK_02_dish_001_Name" korean="² " />
+	<block key="IN_PK_02_pot_001_Name" korean="Ä°D¾" />
+	<block key="IN_PK_02_Box_001_Name" korean="È´Å¥ÇXÎ " />
+	<block key="IN_f01_0_0054_Name" korean=" ÇÈ " />
+	<block key="IN_f01_Skull_001_Name" korean="üÖÁ´ " />
+	<block key="IN_f01_Barrel_001_Name" korean="¾|·0® " />
+	<block key="IN_f01_BraGlass_01_Name" korean="¾|·tÎt¹ " />
+	<block key="IN_f03_Grain_001_name" korean="á¬ÝÂ " />
+	<block key="IN_f09_FireObject_01_name" korean="ÓÁ´ " />
+	<block key="IN_F03_barrel_001_Name" korean="tÕÈè² " />
+	<block key="IN_F03_Grain_002_Name" korean="|¾WÅ4® " />
+	<block key="IN_F03_magic_001_Name" korean="" />
+	<block key="IN_F03_Grass_002_Name" korean="HÅ¬Í" />
+	<block key="IN_F02_Magic_001_Name" korean="y±ÉÀ " />
+	<block key="IN_F02_Grass_001_Name" korean="TÖüÅÍ" />
+	<block key="IN_F02_Burn_001_Name" korean="ˆ½ÀÐ„¼°¹ " />
+	<block key="IN_F02_tomb_001_Name" korean="»ÀÉ" />
+	<block key="IN_F02_poo_001_Name" korean="DÅ\¸¸ÒXÇ " />
+	<block key="IN_C01_nest_001_Name" korean="‰½@Ç " />
+	<block key="IN_C01_box_001_Name" korean="ñ´" />
+	<block key="IN_F04_0_0029_Name" korean="¨µ´ÅÄÉ " />
+	<block key="IN_F04_0_0030_Name" korean="ÈXÇXÇ " />
+	<block key="IN_F04_0_0031_Name" korean="ÄÉ¬¹XÇ " />
+	<block key="IN_F04_0_0032_Name" korean="xºÝ¹XÇ " />
+	<block key="IN_F04_0_0033_Name" korean="(Â¨¬ÄÉ " />
+	<block key="IN_F04_0_0034_Name" korean="˜Ó" />
+	<block key="IN_F04_0_0035_Name" korean="ýÈ@Ç " />
+	<block key="IN_F04_0_0036_Name" korean="¼Å´Å™½@Ç " />
+	<block key="IN_F04_0_0037_Name" korean="à¬½¹´ " />
+	<block key="IN_F04_0_0038_Name" korean="ô¼8ÖÉ¹ " />
+	<block key="IN_F04_0_0039_Name" korean="ÄÉ¬¹XÇ " />
+	<block key="IN_F04_0_0040_Name" korean="ÈXÇXÇ " />
+	<block key="IN_F04_0_0041_Name" korean="©Æ0®XÇ " />
+	<block key="IN_F04_0_0042_Name" korean="à¬" />
+	<block key="IN_F04_0_0043_Name" korean="¸Ò|·tÇ¸Ò¼ÅXÇ " />
+	<block key="IN_F04_0_0044_Name" korean="$Æ˜·´ " />
+	<block key="IN_f04_lever_001_Name" korean="(ÌÐÆ8» " />
+	<block key="IN_F04_Oflyium_001_Name" korean="¸Ò|·tÇÄÅ" />
+	<block key="IN_f04_at_Stone_001_Name" korean="TÑ¬¹$Æ " />
+	<block key="IN_f04_mt_Stone_001_Name" korean="Ót¹˜° " />
+	<block key="IN_f04_Dt_Stone_001_Name" korean="$±t¹äÕ¤Â " />
+	<block key="IN_P01_wagon_001_Name" korean="ô¼	® " />
+	<block key="IN_P01_meal_001_Name" korean="ô¼	® " />
+	<block key="IN_P01_body_001_Name" korean="˜Ó¸XÇ " />
+	<block key="IN_P01_body_002_Name" korean="¤ÂÕ¬¹XÇ " />
+	<block key="IN_P01_tree_001_Name" korean="[¾˜°”² " />
+	<block key="IN_KLM_0_0007_Name" korean="" />
+	<block key="IN_KLM_0_0008_Name" korean="" />
+	<block key="IN_KLM_0_0009_Name" korean="" />
+	<block key="IN_F99_JailControl_Name" korean="¬)¼8» " />
+	<block key="IN_d04_0_0022_name" korean="DÅtÇäÀXÇ " />
+	<block key="IN_F15_Switch_01_Name" korean="È¹Ä¬XÇ " />
+	<block key="IN_C01_magic_1_Name" korean="ÜÂõ¬¬ " />
+	<block key="IN_f04_CM_001_Name" korean=",Ò„·¬¹ÀÆ" />
+	<block key="IN_f04_CM_002_Name" korean=",Ò„·¬¹ÀÆ" />
+	<block key="IN_f04_CM_003_Name" korean="¬ÀÓtÇ´Å" />
+	<block key="IN_f04_CM_004_Name" korean="¬ÀÓtÇ´Å" />
+	<block key="IN_f04_CM_005_Name" korean="àÏt¹ " />
+	<block key="IN_f01_magic_orb_001_Name" korean="<ÖÈ³ " />
+	<block key="IN_F02_Holy_Egg_002_Name" korean="XÇÝÂXÇ " />
+	<block key="IN_d22_Magnetic_01_Name" korean="ÈÒÈÀXÇ " />
+	<block key="IN_d22_StoneWall_01_Name" korean="¬¬à¬\Õ " />
+	<block key="IN_d22_StoneBott_01_Name" korean="¬¬à¬\Õ " />
+	<block key="IN_d22_WarpPortal_01_Name" korean="Â¬tÇÙ³ " />
+	<block key="IN_d22_StoneBott_02_Name" korean="¬¬à¬\Õ " />
+	<block key="IN_d22_GoldBox_01_Name" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="IN_F04_SoulPlants_Name" korean="Æ<ÖÍ" />
+	<block key="IN_F04_Cursedstone_Name" korean="" />
+	<block key="in_klm_0_0010_Name" korean="l­¤Â¸ÒXÇ " />
+	<block key="in_klm_0_0012_Name" korean="€· ÑXÇ " />
+	<block key="in_klm_0_0011_Name" korean="¨·¾€·Ü´XÇ " />
+	<block key="in_klm_0_0013_Name" korean="tÎ|¹¸YÅXÇ " />
+	<block key="IN_p01_darkore_Name" korean="" />
+	<block key="IN_f05_1_0001_Name" korean="ˆ½XÇ " />
+	<block key="IN_f05_1_0002_Name" korean="XÇ8»XÇ " />
+	<block key="IN_f05_1_0003_Name" korean="Ä³ÈÇXÇ " />
+	<block key="IN_f05_1_0004_Name" korean="D¾‰Õ\¸ " />
+	<block key="IN_f05_1_0005_Name" korean="Ý¹" />
+	<block key="IN_f05_1_0006_Name" korean="®­Á " />
+	<block key="IN_f05_1_0007_Name" korean="©ÆÑ¼è² " />
+	<block key="IN_f05_1_0008_Name" korean="$Æt¹ " />
+	<block key="IN_f05_1_0009_Name" korean="µÑàÂ©Æ " />
+	<block key="IN_f05_1_0010_Name" korean="ˆ½¬Àp­è² " />
+	<block key="IN_f05_1_0011_Name" korean="‘Ç@Ç " />
+	<block key="IN_f05_1_0012_Name" korean="˜°tÇDÅXÇ " />
+	<block key="IN_f05_1_0013_Name" korean="¨º˜·ÐÅ " />
+	<block key="IN_f05_1_0014_Name" korean="ù¹Å³ " />
+	<block key="IN_f05_1_0015_Name" korean="Æ<ÖXÇ " />
+	<block key="IN_f05_1_0016_Name" korean="$Æ˜·´ " />
+	<block key="IN_f05_1_0017_Name" korean="tÐ\¸x³XÇ " />
+	<block key="IN_f05_1_0018_Name" korean="pÈ¬ÐÅ " />
+	<block key="IN_f05_1_0019_Name" korean="ƒÇ´Å„¼°¹ " />
+	<block key="IN_f05_1_0020_Name" korean="ƒÇ´Å„¼°¹ " />
+	<block key="IN_f05_1_0021_Name" korean="ƒÇ´Å„¼°¹ " />
+	<block key="IN_f05_1_0022_Name" korean="à¬" />
+	<block key="IN_f05_1_0023_Name" korean=" Ç8ÁtÇXÇ " />
+	<block key="IN_f05_1_0024_Name" korean="‘ÅXÇ " />
+	<block key="IN_f05_1_0025_Name" korean="¬À´ÂXÇ " />
+	<block key="IN_f05_1_0026_Name" korean="¥Ç‘ÇT³ø»" />
+	<block key="IN_f05_1_0027_Name" korean="ˆ½XÇ " />
+	<block key="IN_f05_1_0028_Name" korean="<»XÇ " />
+	<block key="IN_f05_1_0029_Name" korean="¼Œ·XÇ " />
+	<block key="IN_f05_1_0030_Name" korean="" />
+	<block key="IN_f05_1_0031_Name" korean="|·È²DÅ " />
+	<block key="IN_f05_1_0032_Name" korean="XÎTºt¹XÇ " />
+	<block key="IN_f05_1_0033_Name" korean="ˆ½¬Àp­è² " />
+	<block key="IN_f05_1_0034_Name" korean="k³" />
+	<block key="IN_f05_1_0035_Name" korean="ÈÕ ÂtÕ " />
+	<block key="IN_f05_1_0036_Name" korean="t¬$Á©Æ " />
+	<block key="IN_f05_1_0037_Name" korean="©ÆÑ¼è² " />
+	<block key="IN_f05_1_0038_Name" korean="DÌt­ " />
+	<block key="IN_f05_1_0039_Name" korean="ù¹Â " />
+	<block key="IN_f05_1_0040_Name" korean="ÇðÅ " />
+	<block key="IN_f05_1_0041_Name" korean="$Æt¹ " />
+	<block key="IN_f05_1_0042_Name" korean="ø­¬¹ðÓXÇ " />
+	<block key="IN_f05_1_0043_Name" korean="½¬D¾ÑÐ" />
+	<block key="IN_f05_1_0044_Name" korean="0®Ä¬ " />
+	<block key="IN_f05_1_0045_Name" korean="" />
+	<block key="IN_f05_1_0046_Name" korean="È½¼" />
+	<block key="IN_f05_1_0047_Name" korean="" />
+	<block key="IN_f05_1_0048_Name" korean="" />
+	<block key="IN_f05_1_0049_Name" korean="¼PÉ " />
+	<block key="IN_f05_1_0050_Name" korean="°Æ<»" />
+	<block key="IN_f05_1_0051_Name" korean="¸|Ç" />
+	<block key="IN_f05_1_0052_Name" korean="lÐ\¸äÏ " />
+	<block key="IN_f05_1_0053_Name" korean="" />
+	<block key="IN_D03_Door_L_Name" korean="p¬" />
+	<block key="IN_D13_Door_S_Name" korean="Á8»" />
+	<block key="IN_D13_Open_Name" korean="Á8» " />
+	<block key="IN_D13_Treasure_Name" korean="È<»ÁÀÇ" />
+	<block key="IN_D13_Fence_Name" korean="œÓ¤Â" />
+	<block key="IN_D13_Tower_Name" korean="½¬Ä¬Á" />
+	<block key="IN_D13_Tablet_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="IN_f05_1_0054_Name" korean="" />
+	<block key="IN_f05_1_0055_Name" korean="È¹`ÕÀ»XÇ " />
+	<block key="IN_f05_sickman_1_Name" korean="ÈÐÂ " />
+	<block key="IN_f05_sickman_2_Name" korean="ÈÐÂ " />
+	<block key="IN_f05_oresky_Name" korean="$Æt¹ " />
+	<block key="IN_f05_mabox_Name" korean="Ç¬Ç " />
+	<block key="IN_f05_worker_Name" korean="4×ÝÂÉxÇ " />
+	<block key="IN_f05_weapon_Name" korean="©ÆÑ¼è²XÇ " />
+	<block key="IN_f05_tool_Name" korean="©ÆÑ¼è²XÇ " />
+	<block key="IN_f05_deadbody_Name" korean="pÈ¬Àè²ÐÆXÇ " />
+	<block key="IN_f05_crane_1_Name" korean="Â¡Á\¸ " />
+	<block key="IN_f05_wagon_1_Name" korean="ÐÉT³ø»" />
+	<block key="IN_f05_dressbox_Name" korean="„¼$¸ÄÉ " />
+	<block key="IN_f05_toybox_Name" korean="„¼$¸ÄÉ " />
+	<block key="IN_f05_exbox_Name" korean="„¼$¸ÄÉ " />
+	<block key="IN_f05_elemental_Name" korean="È9¸ " />
+	<block key="IN_D13_Door_A_Name" korean="Â@¸ÇXÇ " />
+	<block key="IN_D13_Door_B_Name" korean="Â‰ÕÇXÇ " />
+	<block key="IN_f05_diary_Name" korean="„¼$¸ÄÉ " />
+	<block key="IN_f05_WoodCart_1" korean="H¾Â¸" />
+	<block key="IN_p01_ExariumBox_Name" korean="ÑÅÇ€· " />
+	<block key="IN_D13_Tablet_1_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="IN_D13_Tablet_1_NameDetail" korean="­íÓ" />
+	<block key="IN_D13_Tablet_2_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="IN_D13_Tablet_2_NameDetail" korean="Â8Ö" />
+	<block key="IN_D13_Tablet_3_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="IN_D13_Tablet_3_NameDetail" korean="ø­¼¹Ç" />
+	<block key="IN_D13_Tablet_4_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="IN_D13_Tablet_4_NameDetail" korean="àÂP±" />
+	<block key="IN_F05_namelessPlant_Name" korean="4»…ºÍ" />
+	<block key="IN_D06_DoorCon_1_Name" korean="LÅ " />
+	<block key="IN_D06_DoorCon_2_Name" korean="LÅ " />
+	<block key="IN_D06_UpperDoor_1_Name" korean=" Ì8»" />
+	<block key="IN_D06_UnderLever_1_Name" korean="Ù³%¸äÂ " />
+	<block key="IN_D06_UnderLever_2_Name" korean="È´ÅäÂ " />
+	<block key="IN_D06_UnderLever_3_Name" korean="ŒÁXÖäÂ " />
+	<block key="IN_D06_Underdoor_1_Name" korean=" Ì8»" />
+	<block key="IN_D06_Underdoor_2_Name" korean=" Ì8»" />
+	<block key="IN_D06_Underdoor_3_Name" korean=" Ì8»" />
+	<block key="IN_D06_EvilForce_1_Name" korean="EÅXÇ " />
+	<block key="IN_D06_EvilForce_2_Name" korean="EÅXÇ " />
+	<block key="IN_D06_Recharger_1_Name" korean="È¹%¸ " />
+	<block key="IN_f05_1_0056_Name" korean="¬ÀÉ¹ " />
+	<block key="IN_f05_1_0057_Name" korean="¾|·0® " />
+	<block key="IN_f05_1_0058_Name" korean="íÅÑ¼ " />
+	<block key="IN_f05_1_0059_Name" korean="íÅÑ¼ " />
+	<block key="IN_f05_1_0060_Name" korean="¬ÀŒ·XÇ " />
+	<block key="IN_f05_1_0061_Name" korean="lÐ\¸äÏXÇ " />
+	<block key="IN_f05_1_0062_Name" korean="lÐ\¸äÏXÇ " />
+	<block key="IN_f05_1_0063_Name" korean="ìÓ\¸ " />
+	<block key="IN_f05_1_0064_Name" korean="p¬ø»É" />
+	<block key="IN_f05_1_0065_Name" korean=" µ$Æx¹ " />
+	<block key="IN_f05_1_0066_Name" korean="„¼$¸ÄÉ " />
+	<block key="IN_f05_1_0067_Name" korean="ˆÂ˜Óx¹XÇ " />
+	<block key="IN_f05_1_0068_Name" korean="ø­¬¹ðÓXÇ " />
+	<block key="IN_f05_hermit_a_Name" korean="@ÇT´ÇXÇ " />
+	<block key="IN_f05_hermit_b_Name" korean="@ÇT´ÇXÇ " />
+	<block key="IN_f05_croweapon_Name" korean="lÐ\¸äÏ " />
+	<block key="IN_f05_1_0069_Name" korean="€½(Ó\Õ " />
+	<block key="IN_f05_1_0069_NameDetail" korean="ÝÂxÇp¬ø»XÇ " />
+	<block key="IN_f05_closedkey_001_Name" korean="°¬Ä¬ " />
+	<block key="IN_f05_bomb_001_Name" korean="íÓÄÐ" />
+	<block key="IN_F06_Alcohol_01_Name" korean="ˆÂÈ¹XÇ " />
+	<block key="IN_F06_Alcohol_01_NameDetail" korean="" />
+	<block key="IN_F06_Alcohol_02_Name" korean="ˆÂÈ¹XÇ " />
+	<block key="IN_F06_Alcohol_02_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Yellow_01_Name" korean="x±€· " />
+	<block key="IN_f06_CryS_Yellow_01_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Blue_01_Name" korean="xÔx¹ " />
+	<block key="IN_f06_CryS_Blue_01_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Green_01_Name" korean="Í]¸ " />
+	<block key="IN_f06_CryS_Green_01_NameDetail" korean="" />
+	<block key="IN_f06_CryS_Red_01_Name" korean="‰½@Ç " />
+	<block key="IN_f06_CryS_Red_01_NameDetail" korean="" />
+	<block key="IN_D06_Reactor_1_Name" korean="Ù³%¸\¸" />
+	<block key="IN_D06_Reactor_1_NameDetail" korean="" />
+	<block key="IN_f05_equip_001_Name" korean="°¬Ä¬ " />
+	<block key="IN_f05_equip_001_NameDetail" korean="" />
+	<block key="IN_f05_cutequip_01_Name" korean="°¬Ä¬ " />
+	<block key="IN_f05_cutequip_01_NameDetail" korean="" />
+	<block key="IN_D13_Treasure_H_Name" korean="È<»ÁÀÇ" />
+	<block key="IN_f05_bombbox_Name" korean="¬ÀÉ¹ " />
+	<block key="IN_f05_grass_01_Name" korean="HÅ¬€Ô" />
+	<block key="IN_f05_fire_01_Name" korean="¨ºå²ˆ½" />
+	<block key="IN_f05_2_0040_Name" korean="ù¹Â " />
+	<block key="IN_f05_2_0040_NameDetail" korean="" />
+</blocks>

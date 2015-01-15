@@ -1,0 +1,97 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<!-- f6 -->
+<!-- f7 -->
+<!-- f8 -->
+<!-- f9 -->
+<blocks>
+	<keys num_keys="9" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" key6="f6" key7="f7" key8="f8" key9="f9" />
+	<block key="E_D11_MohaScout_001_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_MohaScout_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_FanaRecon_001_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_FanaRecon_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaSnipe_001_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_MohaSnipe_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_FanaTroop_001_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_FanaTroop_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_FanaMidget_001_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_FanaMidget_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaShotr_001_Name" korean="¨ºXÕ¼©ÆÑ¼è² " />
+	<block key="E_D11_MohaShotr_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaHealer_001_Name" korean="¨ºXÕ¼©ÆÑ¼è² " />
+	<block key="E_D11_MohaHealer_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_FanaRecon_002_Name" korean="¨ºXÕ¼©ÆÑ¼è² " />
+	<block key="E_D11_FanaRecon_002_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaSnipe_002_Name" korean="¨ºXÕ¼©ÆÑ¼è² " />
+	<block key="E_D11_MohaSnipe_002_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaSnipe_003_Name" korean="¨ºXÕ¼©ÆÑ¼è² " />
+	<block key="E_D11_MohaSnipe_003_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_Lion_001_Name" korean="pÈ(¸´ " />
+	<block key="E_D11_Lion_001_NameDetail" korean="#" />
+	<block key="E_D11_McTyman_001_Name" korean="å¹ÀÐtÇ<º" />
+	<block key="E_D11_McTyman_001_NameDetail" korean="iÖŒÁ" />
+	<block key="E_D11_McTyman_002_Name" korean="å¹ÀÐtÇ<º" />
+	<block key="E_D11_McTyman_002_NameDetail" korean="iÖŒÁ" />
+	<block key="E_D11_Hoston_001_Name" korean="8Ö¤Â¤Ñ" />
+	<block key="E_D11_Hoston_001_NameDetail" korean="ˆ½XÇ " />
+	<block key="E_D11_MohaSnipe_004_Name" korean="tÎ|·Ü´tÕÈè² " />
+	<block key="E_D11_MohaSnipe_004_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmTreas_001_Name" korean="tÎ|·Ü´tÕÈè² " />
+	<block key="E_D11_CarmTreas_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmWatch_001_Name" korean="tÎ|·Ü´tÕÈè² " />
+	<block key="E_D11_CarmWatch_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmBarub_001_Name" korean="tÎ|·Ü´tÕÈè² " />
+	<block key="E_D11_CarmBarub_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmDeckh_001_Name" korean="tÎ|·Ü´tÕÈè² " />
+	<block key="E_D11_CarmDeckh_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_Karad_001_Name" korean="tÎ|·Ü´" />
+	<block key="E_D11_Karad_001_NameDetail" korean="tÕÈ Á¥Ç" />
+	<block key="E_D11_DetuGaren_001_Name" korean="µ,Ò" />
+	<block key="E_D11_DetuGaren_001_NameDetail" korean="´Å`´XÇ " />
+	<block key="E_D11_Garesh_001_Name" korean="" />
+	<block key="E_D11_Garesh_001_NameDetail" korean="È¹<»" />
+	<block key="E_D11_FanaRecon_003_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_FanaRecon_003_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaSnipe_005_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_MohaSnipe_005_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmTreas_002_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_CarmTreas_002_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_FanaThera_001_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_FanaThera_001_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaHealer_002_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_MohaHealer_002_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_Kfir_001_Name" korean="lÐ<Õt¹" />
+	<block key="E_D11_Kfir_001_NameDetail" korean="" />
+	<block key="E_D11_MohaSnipe_006_Name" korean="lÐ}·,Ò¤Â\ÎÇ" />
+	<block key="E_D11_MohaSnipe_006_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_FanaTroop_002_Name" korean="lÐ}·,Ò¤Â\ÎÇ" />
+	<block key="E_D11_FanaTroop_002_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmTreas_003_Name" korean="lÐ}·,Ò¤Â\ÎÇ" />
+	<block key="E_D11_CarmTreas_003_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmBarub_002_Name" korean="lÐ}·,Ò¤Â\ÎÇ" />
+	<block key="E_D11_CarmBarub_002_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_Kraktus_001_Name" korean="lÐ}·,Ò¤Â" />
+	<block key="E_D11_Kraktus_001_NameDetail" korean="‰½@ÇÖ…ºè² " />
+	<block key="E_D11_MohaScout_002_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_MohaScout_002_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaScout_003_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_MohaScout_003_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_FanaRecon_004_Name" korean="¨ºXÕ¼©ÆÑ¼è² " />
+	<block key="E_D11_FanaRecon_004_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaSnipe_007_Name" korean="¨ºXÕ¼©ÆÑ¼è² " />
+	<block key="E_D11_MohaSnipe_007_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_CarmTreas_004_Name" korean="tÎ|·Ü´tÕÈè² " />
+	<block key="E_D11_CarmTreas_004_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaSnipe_008_Name" korean="tÎ|·Ü´tÕÈè² " />
+	<block key="E_D11_MohaSnipe_008_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_MohaSnipe_009_Name" korean="lÐ<Õt¹Ä³Èè² " />
+	<block key="E_D11_MohaSnipe_009_NameDetail" korean="‰½@ÇÖ…º" />
+	<block key="E_D11_Key_001_Name" korean="@Æµ" />
+	<block key="E_D11_Key_001_NameDetail" korean="Ä³¬P­ " />
+	<block key="E_D11_Key_002_Name" korean="8ÁÀÐ" />
+	<block key="E_D11_Key_002_NameDetail" korean="Ä³¬P­ " />
+</blocks>

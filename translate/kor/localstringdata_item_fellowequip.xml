@@ -1,0 +1,138 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="fq_01_fk_0001_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0001_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0001_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0001_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0001_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0001_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0001_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0001_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0001_name" korean="l×À­\Õ " />
+	<block key="fq_01_fk_0002_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0002_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0002_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0002_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0002_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0002_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0002_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0002_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0002_name" korean="l×À­\Õ " />
+	<block key="fq_01_fk_0003_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0003_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0003_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0003_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0003_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0003_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0003_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0003_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0003_name" korean="l×À­\Õ " />
+	<block key="fq_01_fk_0004_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0004_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0004_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0004_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0004_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0004_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0004_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0004_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0004_name" korean="l×À­\Õ " />
+	<block key="fq_01_fk_0005_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0005_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0005_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0005_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0005_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0005_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0005_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0005_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0005_name" korean="l×À­\Õ " />
+	<block key="fq_02_fk_0006_name" korean="XÕ	® " />
+	<block key="fq_02_sl_0006_name" korean="XÕ	® " />
+	<block key="fq_02_ar_0006_name" korean="XÕ	® " />
+	<block key="fq_02_fk_0007_name" korean="É	® " />
+	<block key="fq_02_sl_0007_name" korean="É	® " />
+	<block key="fq_02_ar_0007_name" korean="É	® " />
+	<block key="fq_02_fk_0008_name" korean="ÁÀ	® " />
+	<block key="fq_02_sl_0008_name" korean="ÁÀ	® " />
+	<block key="fq_02_ar_0008_name" korean="ÁÀ	® " />
+	<block key="fq_02_fk_0009_name" korean="XÕ	® " />
+	<block key="fq_02_sl_0009_name" korean="XÕ	® " />
+	<block key="fq_02_ar_0009_name" korean="XÕ	® " />
+	<block key="fq_02_fk_1009_name" korean="É	® " />
+	<block key="fq_02_sl_1009_name" korean="É	® " />
+	<block key="fq_02_ar_1009_name" korean="É	® " />
+	<block key="fq_01_fk_0006_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0006_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0006_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0010_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0010_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0010_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0006_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0006_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0006_name" korean="l×À­\Õ " />
+	<block key="fq_02_fk_0011_name" korean="¹ÒÄ¼\Õ " />
+	<block key="fq_02_sl_0011_name" korean="¹ÒÄ¼\Õ " />
+	<block key="fq_02_ar_0011_name" korean="¹ÒÄ¼\Õ " />
+	<block key="fq_03_fk_0007_name" korean="•Íõ¼¼@Ç " />
+	<block key="fq_03_sl_0007_name" korean="•Íõ¼¼@Ç " />
+	<block key="fq_03_ar_0007_name" korean="•Íõ¼¼@Ç " />
+	<block key="fq_03_fk_0008_name" korean="àÏ`Õ€·XÇ " />
+	<block key="fq_03_sl_0008_name" korean="àÏ`Õ€·XÇ " />
+	<block key="fq_03_ar_0008_name" korean="àÏ`Õ€·XÇ " />
+	<block key="fq_02_fk_0012_name" korean="ÈÆ " />
+	<block key="fq_02_sl_0012_name" korean="ÈÆ " />
+	<block key="fq_02_ar_0012_name" korean="ÈÆ " />
+	<block key="fq_01_fk_0007_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0007_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0007_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0013_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0013_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0013_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0009_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0009_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0009_name" korean="l×À­\Õ " />
+	<block key="fq_04_fk_0001_name" korean="à¬À­\Õ " />
+	<block key="fq_04_sl_0001_name" korean="à¬À­\Õ " />
+	<block key="fq_04_ar_0001_name" korean="à¬À­\Õ " />
+	<block key="fq_01_fk_0008_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_sl_0008_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_01_ar_0008_name" korean="ÉÓ”¼\Õ " />
+	<block key="fq_02_fk_0014_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_sl_0014_name" korean="ð¶´Åœ° " />
+	<block key="fq_02_ar_0014_name" korean="ð¶´Åœ° " />
+	<block key="fq_03_fk_0010_name" korean="l×À­\Õ " />
+	<block key="fq_03_sl_0010_name" korean="l×À­\Õ " />
+	<block key="fq_03_ar_0010_name" korean="l×À­\Õ " />
+	<block key="fq_04_fk_0002_name" korean="à¬À­\Õ " />
+	<block key="fq_04_sl_0002_name" korean="à¬À­\Õ " />
+	<block key="fq_04_ar_0002_name" korean="à¬À­\Õ " />
+	<block key="fq_06_fk_0001_name" korean="¨º˜·XÇ " />
+	<block key="fq_06_sl_0001_name" korean="¨º˜·XÇ " />
+	<block key="fq_06_ar_0001_name" korean="¨º˜·XÇ " />
+	<block key="fq_06_fk_0002_name" korean="ð¶´Åœ° " />
+	<block key="fq_06_sl_0002_name" korean="ð¶´Åœ° " />
+	<block key="fq_06_ar_0002_name" korean="ð¶´Åœ° " />
+	<block key="fq_06_fk_0003_name" korean="àÂ0®è¸XÇ " />
+	<block key="fq_06_sl_0003_name" korean="àÂ0®è¸XÇ " />
+	<block key="fq_06_ar_0003_name" korean="àÂ0®è¸XÇ " />
+	<block key="fq_06_fk_0004_name" korean="\¸p³lÂXÇ " />
+	<block key="fq_06_sl_0004_name" korean="\¸p³lÂXÇ " />
+	<block key="fq_06_ar_0004_name" korean="\¸p³lÂXÇ " />
+	<block key="fq_06_fk_0011_name" korean="¬ÀÉ¹XÇ " />
+	<block key="fq_06_sl_0011_name" korean="¬ÀÉ¹XÇ " />
+	<block key="fq_06_ar_0011_name" korean="¬ÀÉ¹XÇ " />
+	<block key="fq_06_fk_0012_name" korean="ð¶´Åœ° " />
+	<block key="fq_06_sl_0012_name" korean="ð¶´Åœ° " />
+	<block key="fq_06_ar_0012_name" korean="ð¶´Åœ° " />
+	<block key="fq_06_fk_0013_name" korean="ôÅ¬ÀXÇ " />
+	<block key="fq_06_sl_0013_name" korean="ôÅ¬ÀXÇ " />
+	<block key="fq_06_ar_0013_name" korean="ôÅ¬ÀXÇ " />
+	<block key="fq_06_fk_0014_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="fq_06_sl_0014_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="fq_06_ar_0014_name" korean="äÀ¤Ð¼XÇ " />
+</blocks>

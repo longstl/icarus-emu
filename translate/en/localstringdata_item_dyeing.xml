@@ -1,0 +1,49 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="DY_0_0_0000_Name" korean="Gold General dye" />
+	<block key="DY_0_0_0000_description" korean="The gold plain dye." />
+	<block key="DY_0_0_0001_Name" korean="Gold advanced dye" />
+	<block key="DY_0_0_0001_description" korean="The advanced dye gold." />
+	<block key="DY_0_0_0002_Name" korean="General Random pale yellow dye" />
+	<block key="DY_0_0_0002_description" korean="The annual general random yellow dye." />
+	<block key="DY_0_0_0003_Name" korean="General Random light blue dye" />
+	<block key="DY_0_0_0003_description" korean="The annual general random blue dye." />
+	<block key="DY_0_0_0004_Name" korean="Annual general random red dye" />
+	<block key="DY_0_0_0004_description" korean="The annual general random red dye." />
+	<block key="DY_0_0_0005_Name" korean="Advanced Random pale yellow dye" />
+	<block key="DY_0_0_0005_description" korean="Advanced randomly opened a yellow dye." />
+	<block key="DY_0_0_0006_Name" korean="Advanced Random light blue dye" />
+	<block key="DY_0_0_0006_description" korean="Advanced randomly opened a blue dye." />
+	<block key="DY_0_0_0007_Name" korean="Advanced Random dye red kite" />
+	<block key="DY_0_0_0007_description" korean="Advanced randomly opened a red dye." />
+	<block key="DY_1_0_0000_Name" korean="Random hair dye" />
+	<block key="DY_1_0_0000_description" korean="Hair dye is random." />
+	<block key="DY_1_0_0001_Name" korean="Bridge random dye" />
+	<block key="DY_1_0_0001_description" korean="The Bridge random dye." />
+	<block key="DY_1_0_0002_Name" korean="Red Hair Dye" />
+	<block key="DY_1_0_0002_description" korean="The red hair dye." />
+	<block key="DY_1_0_0003_Name" korean="Blue Hair Dye" />
+	<block key="DY_1_0_0003_description" korean="The blue hair dye." />
+	<block key="DY_1_0_0004_Name" korean="Yellow Hair Dye" />
+	<block key="DY_1_0_0004_description" korean="The yellow hair dye." />
+	<block key="DY_1_0_0005_Name" korean="White Hair Dye" />
+	<block key="DY_1_0_0005_description" korean="White hair is a hair dye." />
+	<block key="DY_1_0_0006_Name" korean="Black Hair Dye" />
+	<block key="DY_1_0_0006_description" korean="The black hair dye." />
+	<block key="DY_1_0_0007_Name" korean="Red Bridge dye" />
+	<block key="DY_1_0_0007_description" korean="The Red Bridge dye." />
+	<block key="DY_1_0_0008_Name" korean="Blue Bridge dye" />
+	<block key="DY_1_0_0008_description" korean="The Blue Bridge dye." />
+	<block key="DY_1_0_0009_Name" korean="Yellow Bridge dye" />
+	<block key="DY_1_0_0009_description" korean="The yellow dye Bridge." />
+	<block key="DY_1_0_0010_Name" korean="White Bridge dye" />
+	<block key="DY_1_0_0010_description" korean="The White Bridge dye." />
+	<block key="DY_1_0_0011_Name" korean="Black Bridge dye" />
+	<block key="DY_1_0_0011_description" korean="The Black Bridge dye." />
+</blocks>

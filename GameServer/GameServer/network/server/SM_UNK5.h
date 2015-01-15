@@ -9,27 +9,22 @@
 inline void SM_UNK5(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeW(0x0101);
 	pck->PackSend(OPCODE_SM_UNK4);
 
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeW(0x0c01);
 	pck->PackSend(OPCODE_SM_UNK4);
 
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeW(0x0f01);
 	pck->PackSend(OPCODE_SM_UNK4);
 
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeW(0x0c01);
 	pck->PackSend(OPCODE_SM_UNK4);
 
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeW(0x0b01);
 	pck->PackSend(OPCODE_SM_UNK4);
 

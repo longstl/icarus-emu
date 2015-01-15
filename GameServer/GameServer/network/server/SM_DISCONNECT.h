@@ -8,7 +8,6 @@
 inline void SM_DISCONNECT(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->PackSend(OPCODE_SM_DISCONNECT);

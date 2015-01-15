@@ -1,0 +1,846 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="E_01_0_0001_0000_Name" korea_korean="Rhino Guard" />
+	<block key="E_01_0_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0002_0000_Name" korea_korean="Rhino combat" />
+	<block key="E_01_0_0002_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0000_Name" korea_korean="Gray Wolf" />
+	<block key="E_02_1_0007_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0001_Name" korea_korean="Wild gray wolf" />
+	<block key="E_02_1_0007_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0002_Name" korea_korean="Wild gray wolf" />
+	<block key="E_02_1_0007_0002_NameDetail" korea_korean="" />
+	<block key="E_02_4_0008_0000_Name" korea_korean="Wood Nymph" />
+	<block key="E_02_4_0008_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0010_0000_Name" korea_korean="Mane Boar" />
+	<block key="E_02_1_0010_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0010_0001_Name" korea_korean="Mane Boar" />
+	<block key="E_02_1_0010_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0011_0000_Name" korea_korean="Wild boar grind" />
+	<block key="E_02_1_0011_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0011_0001_Name" korea_korean="Wild boar grind" />
+	<block key="E_02_1_0011_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0011_0002_Name" korea_korean="Molar boar" />
+	<block key="E_02_1_0011_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0012_0000_Name" korea_korean="Brage Scout" />
+	<block key="E_02_0_0012_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0016_0000_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0016_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0017_0000_Name" korea_korean="Brage combat" />
+	<block key="E_02_0_0017_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0018_0000_Name" korea_korean="Brage hunter" />
+	<block key="E_02_0_0018_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0021_0000_Name" korea_korean="Brage Xiamen" />
+	<block key="E_02_0_0021_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0030_0000_Name" korea_korean="Wild boar" />
+	<block key="E_02_1_0030_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0000_Name" korea_korean="Yeti warriors" />
+	<block key="E_51_0_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0002_0000_Name" korea_korean="Yeti Shaman" />
+	<block key="E_51_0_0002_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0000_Name" korea_korean="Yeti hunters" />
+	<block key="E_51_0_0013_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0019_0000_Name" korea_korean="Yeti colon Santin" />
+	<block key="E_51_0_0019_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0032_0000_Name" korea_korean="Brage Beast Trainer" />
+	<block key="E_02_0_0032_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0007_0000_Name" korea_korean="Rhino Guard" />
+	<block key="E_01_0_0007_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0008_0000_Name" korea_korean="Rhino Guard" />
+	<block key="E_01_0_0008_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0009_0000_Name" korea_korean="Rhino combat" />
+	<block key="E_01_0_0009_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0020_0000_Name" korea_korean="Yeti hunters" />
+	<block key="E_51_0_0020_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0015_0000_Name" korea_korean="Yeti warriors" />
+	<block key="E_51_0_0015_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0016_0000_Name" korea_korean="Yeti Shaman" />
+	<block key="E_51_0_0016_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0036_0000_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0036_0000_NameDetail" korea_korean="" />
+	<block key="E_51_5_0001_0000_Name" korea_korean="Brazier" />
+	<block key="E_51_5_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0037_0000_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0037_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0040_0000_Name" korea_korean="Brage predatory warrior" />
+	<block key="E_02_0_0040_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0041_0000_Name" korea_korean="Brage Xiamen" />
+	<block key="E_02_0_0041_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0042_0000_Name" korea_korean="Brage veterans home" />
+	<block key="E_02_0_0042_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0043_0000_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0043_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0044_0000_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0044_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0045_0000_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0045_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0046_0000_Name" korea_korean="Brage combat" />
+	<block key="E_02_0_0046_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0016_0001_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0016_0001_NameDetail" korea_korean="" />
+	<block key="E_01_4_0637_0000_Name" korea_korean="Head-to-Rex" />
+	<block key="E_01_4_0637_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_1022_0000_Name" korea_korean="Brage supervisor" />
+	<block key="E_02_0_1022_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0644_0000_Name" korea_korean="Ancient ruins ghost" />
+	<block key="E_02_0_0644_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0012_0001_Name" korea_korean="Brage Scout" />
+	<block key="E_02_0_0012_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0661_0000_Name" korea_korean="Brage promotes penetration" />
+	<block key="E_02_0_0661_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0017_0002_Name" korea_korean="Brage combat" />
+	<block key="E_02_0_0017_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0653_0000_Name" korea_korean="Absorption seconds" />
+	<block key="E_02_0_0653_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0654_0000_Name" korea_korean="Sheen wood nymph" />
+	<block key="E_02_0_0654_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0654_0001_Name" korea_korean="Sheen wood nymph" />
+	<block key="E_02_0_0654_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0655_0000_Name" korea_korean="Fairy Queen elkwineseu" />
+	<block key="E_02_0_0655_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0656_0000_Name" korea_korean="Holy ghost administrator" />
+	<block key="E_02_0_0656_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0657_0000_Name" korea_korean="Brage collected drinkers" />
+	<block key="E_02_0_0657_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0658_0000_Name" korea_korean="Brage combat troops home" />
+	<block key="E_02_0_0658_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0658_0001_Name" korea_korean="Brage combat troops home" />
+	<block key="E_02_0_0658_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0659_0000_Name" korea_korean="Brage chiefs" />
+	<block key="E_02_0_0659_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0660_0000_Name" korea_korean="The spirit of the cold crystal" />
+	<block key="E_02_0_0660_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0003_Name" korea_korean="Gray wolf sites" />
+	<block key="E_02_1_0007_0003_NameDetail" korea_korean="" />
+	<block key="E_02_0_0021_0001_Name" korea_korean="Brage Xiamen" />
+	<block key="E_02_0_0021_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0661_0001_Name" korea_korean="Brage penetration disease" />
+	<block key="E_02_0_0661_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0662_0000_Name" korea_korean="Brage collected drinkers" />
+	<block key="E_02_0_0662_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0344_0000_Name" korea_korean="Historic red fox" />
+	<block key="E_02_1_0344_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0033_0001_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0033_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0036_0001_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0036_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0037_0001_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0037_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0045_0001_Name" korea_korean="Brage workers" />
+	<block key="E_02_0_0045_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0607_0000_Name" korea_korean="Young wild boar" />
+	<block key="E_02_0_0607_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0012_0002_Name" korea_korean="Brage Scout" />
+	<block key="E_02_0_0012_0002_NameDetail" korea_korean="" />
+	<block key="E_02_5_0001_0002_Name" korea_korean="Brage crossbow" />
+	<block key="E_02_5_0001_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0043_0001_Name" korea_korean="Brage crossbow repair bottle" />
+	<block key="E_02_0_0043_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0654_0002_Name" korea_korean="Wild wood nymph" />
+	<block key="E_02_0_0654_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0045_0002_Name" korea_korean="Brage home workers" />
+	<block key="E_02_0_0045_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0662_0001_Name" korea_korean="Brage collected drinkers" />
+	<block key="E_02_0_0662_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0044_0001_Name" korea_korean="Brage home workers" />
+	<block key="E_02_0_0044_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0043_0002_Name" korea_korean="Brage home workers" />
+	<block key="E_02_0_0043_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0658_0002_Name" korea_korean="Brage Paladin bottle" />
+	<block key="E_02_0_0658_0002_NameDetail" korea_korean="" />
+	<block key="E_50_0_0666_0000_Name" korea_korean="Smoldering Skeleton Soldier" />
+	<block key="E_50_0_0666_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0666_0001_Name" korea_korean="Smoldering Skeleton Soldier" />
+	<block key="E_50_0_0666_0001_NameDetail" korea_korean="" />
+	<block key="E_50_0_0667_0000_Name" korea_korean="Smoldering Skull Knight" />
+	<block key="E_50_0_0667_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0667_0001_Name" korea_korean="Smoldering Skull Knight" />
+	<block key="E_50_0_0667_0001_NameDetail" korea_korean="" />
+	<block key="E_50_0_0718_0000_Name" korea_korean="Surin bulgiun ghost" />
+	<block key="E_50_0_0718_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0613_0000_Name" korea_korean="Fire Rock Guard" />
+	<block key="E_50_0_0613_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0650_0000_Name" korea_korean="Fire Bomb Rocks" />
+	<block key="E_50_0_0650_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0648_0000_Name" korea_korean="Ancient Fire Golem" />
+	<block key="E_50_0_0648_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0344_0001_Name" korea_korean="Red Fox" />
+	<block key="E_02_1_0344_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0309_0000_Name" korea_korean="Man-eating wolf frit Shah" />
+	<block key="E_02_0_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0309_0001_Name" korea_korean="Female profile Nisha" />
+	<block key="E_02_0_0309_0001_NameDetail" korea_korean="Wolves boss" />
+	<block key="E_02_0_0309_0002_Name" korea_korean="Gray wolf head" />
+	<block key="E_02_0_0309_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0000_Name" korea_korean="Ghost spider" />
+	<block key="E_02_0_0676_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0001_Name" korea_korean="Giant Spider taseulran" />
+	<block key="E_02_0_0676_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0000_Name" korea_korean="Gray spider" />
+	<block key="E_03_0_0676_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0000_Name" korea_korean="Reindeer" />
+	<block key="E_03_0_0671_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0000_Name" korea_korean="Hungry bear" />
+	<block key="E_03_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0001_Name" korea_korean="True chief Tan" />
+	<block key="E_03_0_0083_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0000_Name" korea_korean="Scarred gray wolf" />
+	<block key="E_03_0_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0001_Name" korea_korean="Shadows of Darkness Wolf" />
+	<block key="E_03_0_0309_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0002_Name" korea_korean="Harsh shadows Penrith" />
+	<block key="E_03_0_0309_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0000_Name" korea_korean="Werewolf variant (men)" />
+	<block key="E_03_0_0700_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0702_0000_Name" korea_korean="Werewolf variant (women)" />
+	<block key="E_03_0_0702_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0001_Name" korea_korean="Werewolf raiders" />
+	<block key="E_03_0_0700_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0702_0001_Name" korea_korean="Werewolf Assassin" />
+	<block key="E_03_0_0702_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0002_Name" korea_korean="Werewolf Hunter" />
+	<block key="E_03_0_0700_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0701_0000_Name" korea_korean="Captain Jack Hunter" />
+	<block key="E_03_0_0701_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0003_Name" korea_korean="Fresh black shadow hounds" />
+	<block key="E_03_0_0309_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0004_Name" korea_korean="A Reflection of Fear Wolf" />
+	<block key="E_03_0_0309_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0606_0000_Name" korea_korean="Large hoofed wild boar" />
+	<block key="E_03_0_0606_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0001_Name" korea_korean="Modify reindeer antlers" />
+	<block key="E_03_0_0671_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0005_Name" korea_korean="Biting Shadow Wolf" />
+	<block key="E_03_0_0309_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0000_Name" korea_korean="Vinny tribe called shoplifting" />
+	<block key="E_03_0_0694_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0000_Name" korea_korean="Bee" />
+	<block key="E_03_0_0682_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0001_Name" korea_korean="Bottle conquest" />
+	<block key="E_03_0_0682_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0115_0000_Name" korea_korean="Hama frog" />
+	<block key="E_03_0_0115_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0000_Name" korea_korean="Black cow" />
+	<block key="E_03_0_0672_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0002_Name" korea_korean="Wild brown bear" />
+	<block key="E_03_0_0083_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0606_0001_Name" korea_korean="Big boar" />
+	<block key="E_03_0_0606_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0041_0000_Name" korea_korean="Pelican big mouth" />
+	<block key="E_03_0_0041_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0000_Name" korea_korean="Black Panther" />
+	<block key="E_03_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0001_Name" korea_korean="Eyed cha chi" />
+	<block key="E_03_0_0245_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0000_Name" korea_korean="Vampires have been a farmer" />
+	<block key="E_03_0_0900_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0000_Name" korea_korean="She is a vampire" />
+	<block key="E_03_0_0910_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0001_Name" korea_korean="Vampire Inspector General Hector Wilkinson" />
+	<block key="E_03_0_0900_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0001_Name" korea_korean="Raging Buffalo" />
+	<block key="E_03_0_0672_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0000_Name" korea_korean="Scout drinkers" />
+	<block key="E_03_0_1010_0000_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1000_0000_Name" korea_korean="Commando" />
+	<block key="E_03_0_1000_0000_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1010_0001_Name" korea_korean="Jason Clermont key" />
+	<block key="E_03_0_1010_0001_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_0682_0002_Name" korea_korean="Pumpkin wasps" />
+	<block key="E_03_0_0682_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0003_Name" korea_korean="Soldiers pumpkin wasps" />
+	<block key="E_03_0_0682_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0004_Name" korea_korean="Pumpkin Queen Wasp kwinbi" />
+	<block key="E_03_0_0682_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0001_Name" korea_korean="Vinny tribe called thieves" />
+	<block key="E_03_0_0694_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0002_Name" korea_korean="Vampire guards" />
+	<block key="E_03_0_0900_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0001_Name" korea_korean="Vampire maids" />
+	<block key="E_03_0_0910_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0711_0000_Name" korea_korean="Poltergeist" />
+	<block key="E_03_0_0711_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0003_Name" korea_korean="Ram Butler beurandeu" />
+	<block key="E_03_0_0900_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0902_0000_Name" korea_korean="Chef Gust" />
+	<block key="E_03_0_0902_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0714_0000_Name" korea_korean="Countess Lisa Karl reang" />
+	<block key="E_03_0_0714_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0004_Name" korea_korean="Count Karl reang" />
+	<block key="E_03_0_0900_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0001_Name" korea_korean="Assault bottle" />
+	<block key="E_03_0_1000_0001_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1000_0002_Name" korea_korean="Trainers" />
+	<block key="E_03_0_1000_0002_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_0309_0006_Name" korea_korean="Domesticated wolf" />
+	<block key="E_03_0_0309_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0002_Name" korea_korean="Observer" />
+	<block key="E_03_0_1010_0002_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1001_0000_Name" korea_korean="Klee key dolmeori" />
+	<block key="E_03_0_1001_0000_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1001_0001_Name" korea_korean="Tony Clegg Key" />
+	<block key="E_03_0_1001_0001_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_0614_0000_Name" korea_korean="Yeti fighter" />
+	<block key="E_03_0_0614_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0616_0000_Name" korea_korean="Yeti reconnaissance party" />
+	<block key="E_03_0_0616_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0615_0000_Name" korea_korean="Yeti Shaman" />
+	<block key="E_03_0_0615_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0611_0000_Name" korea_korean="Frost spider" />
+	<block key="E_03_0_0611_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0695_0000_Name" korea_korean="Decayed zombie" />
+	<block key="E_03_0_0695_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0695_0001_Name" korea_korean="Eating burn body" />
+	<block key="E_03_0_0695_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0001_Name" korea_korean="Spider body" />
+	<block key="E_03_0_0676_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0718_0000_Name" korea_korean="The maids of the high king" />
+	<block key="E_03_0_0718_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0718_0001_Name" korea_korean="Lover Lina" />
+	<block key="E_03_0_0718_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1100_0000_Name" korea_korean="Lesser Demon contractors" />
+	<block key="E_03_0_1100_0000_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_0720_0000_Name" korea_korean="Imp of darkness" />
+	<block key="E_03_0_0720_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_1110_0000_Name" korea_korean="Camilla priest of fresh blood" />
+	<block key="E_03_0_1110_0000_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_0666_0000_Name" korea_korean="Skeleton Paladin" />
+	<block key="E_03_0_0666_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0001_Name" korea_korean="SS skull chapter ahsyuram" />
+	<block key="E_03_0_0666_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0722_0000_Name" korea_korean="It said the Great Khan" />
+	<block key="E_03_0_0722_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0696_0000_Name" korea_korean="For young" />
+	<block key="E_03_0_0696_0000_NameDetail" korea_korean="Fire ryongjok" />
+	<block key="E_03_0_1010_0003_Name" korea_korean="Pyrgos messenger greater robbers" />
+	<block key="E_03_0_1010_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0003_Name" korea_korean="Pyrgos greater robbers ambushed the sportsman" />
+	<block key="E_03_0_1000_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0004_Name" korea_korean="Pokpabyeong" />
+	<block key="E_03_0_1010_0004_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1000_0004_Name" korea_korean="Shooters" />
+	<block key="E_03_0_1000_0004_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1000_0005_Name" korea_korean="Higher therapist" />
+	<block key="E_03_0_1000_0005_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1002_0000_Name" korea_korean="Rather than ruthless Zerah" />
+	<block key="E_03_0_1002_0000_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1300_0000_Name" korea_korean="Kara De Pirate yeonrakbyeong" />
+	<block key="E_03_0_1300_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0002_Name" korea_korean="Tarantula sites" />
+	<block key="E_02_0_0676_0002_NameDetail" korea_korean="" />
+	<block key="E_01_5_0001_0000_Name" korea_korean="Head-to-dominated seats" />
+	<block key="E_01_5_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0000_Name" korea_korean="Angry molar boar" />
+	<block key="E_02_1_0606_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0344_0002_Name" korea_korean="Angry Red Fox" />
+	<block key="E_02_1_0344_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0718_0000_Name" korea_korean="The Phantom of the ancient religious" />
+	<block key="E_02_0_0718_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0013_0001_Name" korea_korean="Sparkly Tree Wisp" />
+	<block key="E_02_0_0013_0001_NameDetail" korea_korean="" />
+	<block key="E_50_0_0667_0002_Name" korea_korean="Smoldering Skull Knight-Commander" />
+	<block key="E_50_0_0667_0002_NameDetail" korea_korean="" />
+	<block key="E_50_0_0666_0003_Name" korea_korean="Sleeping Skeleton Soldier" />
+	<block key="E_50_0_0666_0003_NameDetail" korea_korean="" />
+	<block key="E_01_0_0245_0000_Name" korea_korean="Leo" />
+	<block key="E_01_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0697_0000_Name" korea_korean="Mori four lakes Agur" />
+	<block key="E_03_0_0697_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0002_Name" korea_korean="Wild hairy spider" />
+	<block key="E_03_0_0676_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0002_Name" korea_korean="White mane reindeer" />
+	<block key="E_03_0_0671_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0003_Name" korea_korean="Brown Bear" />
+	<block key="E_03_0_0083_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0007_Name" korea_korean="Gray Wolf Mountain Surf" />
+	<block key="E_03_0_0309_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0003_Name" korea_korean="Modify reindeer antlers" />
+	<block key="E_03_0_0671_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0005_Name" korea_korean="Wild bumblebee" />
+	<block key="E_03_0_0682_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0000_Name" korea_korean="Blue Wisp" />
+	<block key="E_03_0_0013_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0002_Name" korea_korean="Shag bison" />
+	<block key="E_03_0_0672_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0006_Name" korea_korean="Soldiers Bumblebee" />
+	<block key="E_03_0_0682_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0003_Name" korea_korean="Wide made cow" />
+	<block key="E_03_0_0672_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0692_0000_Name" korea_korean="Mori four lake Turtles" />
+	<block key="E_03_0_0692_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0344_0000_Name" korea_korean="Dark red fox" />
+	<block key="E_03_0_0344_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0000_Name" korea_korean="Yulmogi" />
+	<block key="E_03_0_0687_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0002_Name" korea_korean="The big Black Panther" />
+	<block key="E_03_0_0245_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_1201_0000_Name" korea_korean="Frozen zombies" />
+	<block key="E_51_0_1201_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_1210_0000_Name" korea_korean="Frozen zombies" />
+	<block key="E_51_0_1210_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0611_0000_Name" korea_korean="Frost spider" />
+	<block key="E_51_0_0611_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0616_0000_Name" korea_korean="Yeti Spider Trainers" />
+	<block key="E_51_0_0616_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0003_Name" korea_korean="Jeff Young Mok" />
+	<block key="E_03_0_0700_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0692_0001_Name" korea_korean="The owner of the lake Kell Gaborone (Giant Tortoise)" />
+	<block key="E_03_0_0692_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0019_0001_Name" korea_korean="Yeti colon Santin" />
+	<block key="E_51_0_0019_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_1500_0000_Name" korea_korean="Dark Summoner" />
+	<block key="E_51_0_1500_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0004_Name" korea_korean="Reindeer" />
+	<block key="E_03_0_0671_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0005_Name" korea_korean="White mane reindeer" />
+	<block key="E_03_0_0671_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0006_Name" korea_korean="Reindeer" />
+	<block key="E_03_0_0671_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0004_Name" korea_korean="Hungry bear" />
+	<block key="E_03_0_0083_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0005_Name" korea_korean="Brown Bear" />
+	<block key="E_03_0_0083_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0008_Name" korea_korean="Scarred gray wolf" />
+	<block key="E_03_0_0309_0008_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0009_Name" korea_korean="Shadows of Darkness Wolf" />
+	<block key="E_03_0_0309_0009_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0002_Name" korea_korean="La Beanie family strength" />
+	<block key="E_03_0_0694_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0003_Name" korea_korean="La Beanie family nalgangdo" />
+	<block key="E_03_0_0694_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0004_Name" korea_korean="Levy wangdoduk City" />
+	<block key="E_03_0_0694_0004_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0000_Name" korea_korean="Vampire Guardsmen" />
+	<block key="E_52_0_0900_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_0910_0000_Name" korea_korean="Maids hungry for blood" />
+	<block key="E_52_0_0910_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0001_Name" korea_korean="Vampire encourage expenses" />
+	<block key="E_52_0_0900_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_1100_0000_Name" korea_korean="Mystic Curse" />
+	<block key="E_52_0_1100_0000_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_0700_0004_Name" korea_korean="Werewolf variants" />
+	<block key="E_03_0_0700_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0010_Name" korea_korean="Shadow Hound" />
+	<block key="E_03_0_0309_0010_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0005_Name" korea_korean="Werewolf Hunter" />
+	<block key="E_03_0_0700_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0011_Name" korea_korean="Shadows of Darkness Wolf" />
+	<block key="E_03_0_0309_0011_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0007_Name" korea_korean="Modify reindeer antlers" />
+	<block key="E_03_0_0671_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0008_Name" korea_korean="Modify reindeer antlers" />
+	<block key="E_03_0_0671_0008_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0001_Name" korea_korean="Young Hydrus" />
+	<block key="E_03_0_0687_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0002_Name" korea_korean="Water moccasin" />
+	<block key="E_03_0_0687_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0001_Name" korea_korean="Blue Wisp" />
+	<block key="E_03_0_0013_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0005_Name" korea_korean="The young man is a vampire" />
+	<block key="E_03_0_0900_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0006_Name" korea_korean="Vampires have been a farmer" />
+	<block key="E_03_0_0900_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0002_Name" korea_korean="She is a vampire" />
+	<block key="E_03_0_0910_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0003_Name" korea_korean="Vampire" />
+	<block key="E_03_0_0910_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0006_Name" korea_korean="Pyrgos robbers greater fighter" />
+	<block key="E_03_0_1000_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0007_Name" korea_korean="Vampire heavy bottles" />
+	<block key="E_03_0_0900_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0008_Name" korea_korean="Vampire Servant" />
+	<block key="E_03_0_0900_0008_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0009_Name" korea_korean="Vampire heavy bottles" />
+	<block key="E_03_0_0900_0009_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0010_Name" korea_korean="Vampire guards" />
+	<block key="E_03_0_0900_0010_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0011_Name" korea_korean="Vampire goalkeeper Marlon" />
+	<block key="E_03_0_0900_0011_NameDetail" korea_korean="" />
+	<block key="E_03_0_0611_0001_Name" korea_korean="Frost spider" />
+	<block key="E_03_0_0611_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0007_Name" korea_korean="Gungbyeong" />
+	<block key="E_03_0_1000_0007_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_1000_0008_Name" korea_korean="Therapist" />
+	<block key="E_03_0_1000_0008_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_0671_0009_Name" korea_korean="Major modification reindeer antlers" />
+	<block key="E_03_0_0671_0009_NameDetail" korea_korean="" />
+	<block key="E_03_5_0001_0000_Name" korea_korean="Shining Tree" />
+	<block key="E_03_5_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0003_Name" korea_korean="Green snake" />
+	<block key="E_03_0_0687_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0004_Name" korea_korean="Snakes" />
+	<block key="E_03_0_0687_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0005_Name" korea_korean="Water moccasin" />
+	<block key="E_03_0_0687_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0006_Name" korea_korean="Snakes Venom" />
+	<block key="E_03_0_0687_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0007_Name" korea_korean="Snakes Venom" />
+	<block key="E_03_0_0687_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0344_0001_Name" korea_korean="Dark red fox" />
+	<block key="E_03_0_0344_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0003_Name" korea_korean="Long Fangs Black Panther" />
+	<block key="E_03_0_0245_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0004_Name" korea_korean="Long Fangs Black Panther" />
+	<block key="E_03_0_0245_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0004_Name" korea_korean="Become wild bull" />
+	<block key="E_03_0_0672_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0005_Name" korea_korean="Become wild bull" />
+	<block key="E_03_0_0672_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0006_Name" korea_korean="Werewolf Hunter" />
+	<block key="E_03_0_0700_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0702_0002_Name" korea_korean="Werewolf Assassin" />
+	<block key="E_03_0_0702_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0007_Name" korea_korean="Werewolf raiders" />
+	<block key="E_03_0_0700_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0012_Name" korea_korean="The young man is a vampire" />
+	<block key="E_03_0_0900_0012_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0013_Name" korea_korean="Vampires have been a farmer" />
+	<block key="E_03_0_0900_0013_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0014_Name" korea_korean="Vampires have been a farmer" />
+	<block key="E_03_0_0900_0014_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0015_Name" korea_korean="Load of vampire Inspector General" />
+	<block key="E_03_0_0900_0015_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0016_Name" korea_korean="Vampire guards" />
+	<block key="E_03_0_0900_0016_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0002_Name" korea_korean="Skeleton Paladin" />
+	<block key="E_03_0_0666_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_1100_0001_Name" korea_korean="Executor" />
+	<block key="E_03_0_1100_0001_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_0695_0002_Name" korea_korean="Decayed zombie Shaman" />
+	<block key="E_03_0_0695_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0001_Name" korea_korean="Coward Yeti" />
+	<block key="E_51_0_0013_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0019_0002_Name" korea_korean="Yeti colon Santin" />
+	<block key="E_51_0_0019_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0015_0001_Name" korea_korean="Yeti warriors" />
+	<block key="E_51_0_0015_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_0910_0001_Name" korea_korean="Flocking to crave blood" />
+	<block key="E_52_0_0910_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0002_Name" korea_korean="Vampire Sentinel" />
+	<block key="E_52_0_0900_0002_NameDetail" korea_korean="" />
+	<block key="E_52_0_1100_0001_Name" korea_korean="Curse of Supervisors" />
+	<block key="E_52_0_1100_0001_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_52_0_0900_0003_Name" korea_korean="Vampire senior guard" />
+	<block key="E_52_0_0900_0003_NameDetail" korea_korean="" />
+	<block key="E_00_0_0686_0000_Name" korea_korean="Eagle" />
+	<block key="E_00_0_0686_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0083_0000_Name" korea_korean="Bear" />
+	<block key="E_00_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0602_0000_Name" korea_korean="Brage Scout" />
+	<block key="E_00_0_0602_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0704_0000_Name" korea_korean="The Firebird" />
+	<block key="E_00_0_0704_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0245_0000_Name" korea_korean="Leo" />
+	<block key="E_00_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_1210_0001_Name" korea_korean="Decayed zombie girl" />
+	<block key="E_03_0_1210_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1210_0002_Name" korea_korean="Eating burn body" />
+	<block key="E_03_0_1210_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0006_Name" korea_korean="Three toe black bear" />
+	<block key="E_03_0_0083_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0007_Name" korea_korean="Three toe black bear" />
+	<block key="E_03_0_0083_0007_NameDetail" korea_korean="" />
+	<block key="E_04_0_0309_0000_Name" korea_korean="Quick-witted blue wolf" />
+	<block key="E_04_0_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0309_0001_Name" korea_korean="Wild Blue Wolf" />
+	<block key="E_04_0_0309_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0309_0002_Name" korea_korean="Wolf King Shaka la" />
+	<block key="E_04_0_0309_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0691_0000_Name" korea_korean="Turtle Rock" />
+	<block key="E_04_0_0691_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0691_0001_Name" korea_korean="Old monggeu monggeu" />
+	<block key="E_04_0_0691_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0000_Name" korea_korean="Sandy shore Pelican" />
+	<block key="E_04_0_0041_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0678_0000_Name" korea_korean="The sand shield to" />
+	<block key="E_04_0_0678_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0000_Name" korea_korean="Kara De Pirate deckhand" />
+	<block key="E_04_0_1300_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0001_Name" korea_korean="Kara De Pirate Mate" />
+	<block key="E_04_0_1300_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1302_0000_Name" korea_korean="Kara De Pirate Treasure Watcher" />
+	<block key="E_04_0_1302_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0002_Name" korea_korean="Cara de Pirate Watchtower bottle" />
+	<block key="E_04_0_1300_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0003_Name" korea_korean="Kara De Pirate senior Watchtower bottle" />
+	<block key="E_04_0_1300_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0000_Name" korea_korean="Kara De Pirate Swashbuckler" />
+	<block key="E_04_0_1310_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0001_Name" korea_korean="Kara De Pirate Swashbuckler higher" />
+	<block key="E_04_0_1310_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0002_Name" korea_korean="Cara de pirate patrols" />
+	<block key="E_04_0_1310_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0003_Name" korea_korean="Kara De Pirate senior ranger" />
+	<block key="E_04_0_1310_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_1301_0000_Name" korea_korean="Kara De Pirate octopus trainer" />
+	<block key="E_04_0_1301_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0677_0000_Name" korea_korean="Rock octopus" />
+	<block key="E_04_0_0677_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0180_0000_Name" korea_korean="Krill dwarf pirates" />
+	<block key="E_04_0_0180_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1302_0001_Name" korea_korean="Ruthless bismuth" />
+	<block key="E_04_0_1302_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0004_Name" korea_korean="A thorough Bahru this" />
+	<block key="E_04_0_1300_0004_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0005_Name" korea_korean="Chief Officer Merle boat" />
+	<block key="E_04_0_1300_0005_NameDetail" korea_korean="" />
+	<block key="E_04_0_1301_0001_Name" korea_korean="Pirate King at Karnak" />
+	<block key="E_04_0_1301_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1510_0000_Name" korea_korean="Frost Golem Wizard" />
+	<block key="E_04_0_1510_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0691_0002_Name" korea_korean="Autumnal Turtle Rock" />
+	<block key="E_04_0_0691_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0001_Name" korea_korean="Pelican with a long beak" />
+	<block key="E_04_0_0041_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0002_Name" korea_korean="Pelican steel jaw" />
+	<block key="E_04_0_0041_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0003_Name" korea_korean="Biting beak Perito" />
+	<block key="E_04_0_0041_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_0612_0000_Name" korea_korean="Ruthless frost Golem" />
+	<block key="E_04_0_0612_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0000_Name" korea_korean="Mureo mijok to Spearman" />
+	<block key="E_04_0_0683_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0001_Name" korea_korean="Mureo mijok gungbyeong" />
+	<block key="E_04_0_0683_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0684_0000_Name" korea_korean="Mureo combat mijok" />
+	<block key="E_04_0_0684_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0684_0001_Name" korea_korean="Mureo mijok assault bottle" />
+	<block key="E_04_0_0684_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0002_Name" korea_korean="Mureo mijok Priest" />
+	<block key="E_04_0_0683_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0003_Name" korea_korean="Gungbyeong Fosse and colon" />
+	<block key="E_04_0_0683_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_0685_0000_Name" korea_korean="Warbringer said Mion" />
+	<block key="E_04_0_0685_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0004_Name" korea_korean="Bernardo High Priest of the lake" />
+	<block key="E_04_0_0683_0004_NameDetail" korea_korean="" />
+	<block key="E_04_0_0685_0001_Name" korea_korean="Ker chiefs on" />
+	<block key="E_04_0_0685_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0083_0000_Name" korea_korean="Ferocious grizzly" />
+	<block key="E_04_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0083_0001_Name" korea_korean="A house worth Uru" />
+	<block key="E_04_0_0083_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0245_0000_Name" korea_korean="Snow Tiger" />
+	<block key="E_04_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0245_0001_Name" korea_korean="Ice Fang Kruger" />
+	<block key="E_04_0_0245_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0000_Name" korea_korean="Salt and sand Agur workers" />
+	<block key="E_04_0_0697_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0001_Name" korea_korean="Salt and sand Agur hunting sportsman" />
+	<block key="E_04_0_0697_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0002_Name" korea_korean="Salt and sand Agur fighter" />
+	<block key="E_04_0_0697_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0003_Name" korea_korean="Salt and sand Agur Shaman" />
+	<block key="E_04_0_0697_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0004_Name" korea_korean="Mercure chief Glock" />
+	<block key="E_04_0_0697_0004_NameDetail" korea_korean="" />
+	<block key="E_04_0_0678_0001_Name" korea_korean="Crab spawning shield" />
+	<block key="E_04_0_0678_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0614_0000_Name" korea_korean="Yeti fighter" />
+	<block key="E_04_0_0614_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0616_0000_Name" korea_korean="Yeti javelin drinkers" />
+	<block key="E_04_0_0616_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0615_0000_Name" korea_korean="Yeti Shaman" />
+	<block key="E_04_0_0615_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0616_0001_Name" korea_korean="Yeti Beast Trainer" />
+	<block key="E_04_0_0616_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0245_0002_Name" korea_korean="Domesticated tiger snow" />
+	<block key="E_04_0_0245_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0615_0001_Name" korea_korean="Yeti Healer" />
+	<block key="E_04_0_0615_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0621_0000_Name" korea_korean="Yeti projection" />
+	<block key="E_04_0_0621_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0621_0001_Name" korea_korean="Ice fist kuntin" />
+	<block key="E_04_0_0621_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0623_0000_Name" korea_korean="Avalanche climb Syracuse" />
+	<block key="E_04_0_0623_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1800_0000_Name" korea_korean="Frost Wyvern" />
+	<block key="E_04_0_1800_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1801_0000_Name" korea_korean="Ice Wings of Fear" />
+	<block key="E_04_0_1801_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0003_Name" korea_korean="Young spiders" />
+	<block key="E_02_0_0676_0003_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0004_Name" korea_korean="Young spiders taseulran" />
+	<block key="E_02_0_0676_0004_NameDetail" korea_korean="" />
+	<block key="E_51_0_0624_0000_Name" korea_korean="Blacksmith Mato kontin" />
+	<block key="E_51_0_0624_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0622_0000_Name" korea_korean="Ahyiren the cold" />
+	<block key="E_51_0_0622_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0605_0000_Name" korea_korean="Brage looting warriors (for video)" />
+	<block key="E_00_0_0605_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0695_0000_Name" korea_korean="Revived zombie specimens" />
+	<block key="E_53_0_0695_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0666_0000_Name" korea_korean="Ancient Skeleton Soldier" />
+	<block key="E_53_0_0666_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0666_0001_Name" korea_korean="Ancient Skeleton Archer" />
+	<block key="E_53_0_0666_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_0667_0000_Name" korea_korean="Dark magic dwells Skeleton Soldier" />
+	<block key="E_53_0_0667_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0666_0002_Name" korea_korean="Skull dark magic dwells Archer" />
+	<block key="E_53_0_0666_0002_NameDetail" korea_korean="" />
+	<block key="E_53_0_1100_0000_Name" korea_korean="Necromancer" />
+	<block key="E_53_0_1100_0000_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_53_0_0644_0000_Name" korea_korean="Ancient Priest ghost" />
+	<block key="E_53_0_0644_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0619_0000_Name" korea_korean="Cursed armor Guardsmen" />
+	<block key="E_53_0_0619_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_1110_0000_Name" korea_korean="Camilla priest of fresh blood" />
+	<block key="E_53_0_1110_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0667_0001_Name" korea_korean="Knight of Darkness ahsyuram" />
+	<block key="E_53_0_0667_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_1100_0001_Name" korea_korean="Wizard of destruction Lee Silesia" />
+	<block key="E_53_0_1100_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_1120_0000_Name" korea_korean="Lee Silesia Skull Cane" />
+	<block key="E_53_0_1120_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_1120_0001_Name" korea_korean="Lee Silesia magic crystal ball" />
+	<block key="E_53_0_1120_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_1120_0002_Name" korea_korean="Marguerite Lee Circle of Silesia" />
+	<block key="E_53_0_1120_0002_NameDetail" korea_korean="" />
+	<block key="E_53_0_1100_0002_Name" korea_korean="Wizard of destruction Lee Silesia" />
+	<block key="E_53_0_1100_0002_NameDetail" korea_korean="" />
+	<block key="E_00_0_1100_0000_Name" korea_korean="The Wizard of Dark High Priest (for video)" />
+	<block key="E_00_0_1100_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0004_Name" korea_korean="Vampire Chef" />
+	<block key="E_52_0_0900_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_1100_0002_Name" korea_korean="Lesser contractors" />
+	<block key="E_03_0_1100_0002_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_1100_0003_Name" korea_korean="Junior Researchers" />
+	<block key="E_03_0_1100_0003_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_1100_0004_Name" korea_korean="Performer" />
+	<block key="E_03_0_1100_0004_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_1210_0003_Name" korea_korean="Burn Watcher in the dark" />
+	<block key="E_03_0_1210_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0002_Name" korea_korean="Cursed ghost" />
+	<block key="E_03_0_0013_0002_NameDetail" korea_korean="" />
+	<block key="E_53_0_1110_0001_Name" korea_korean="Sohwansulsa" />
+	<block key="E_53_0_1110_0001_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_53_0_1110_0002_Name" korea_korean="Sohwansulsa" />
+	<block key="E_53_0_1110_0002_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_0013_0003_Name" korea_korean="Cursed ghost" />
+	<block key="E_03_0_0013_0003_NameDetail" korea_korean="" />
+	<block key="E_02_0_0013_0002_Name" korea_korean="Wandering ghost" />
+	<block key="E_02_0_0013_0002_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0004_Name" korea_korean="Wild Wolf" />
+	<block key="E_02_1_0007_0004_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0001_Name" korea_korean="Yeti warriors" />
+	<block key="E_51_0_0001_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0002_0001_Name" korea_korean="Yeti Shaman" />
+	<block key="E_51_0_0002_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0002_Name" korea_korean="Yeti hunters" />
+	<block key="E_51_0_0013_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0015_0002_Name" korea_korean="Yeti warriors" />
+	<block key="E_51_0_0015_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0616_0001_Name" korea_korean="Yeti bear trainer" />
+	<block key="E_51_0_0616_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0083_0000_Name" korea_korean="Frost Polar Bear Claw" />
+	<block key="E_51_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0002_Name" korea_korean="Yeti warriors" />
+	<block key="E_51_0_0001_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0003_Name" korea_korean="Yeti warriors" />
+	<block key="E_51_0_0001_0003_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0003_Name" korea_korean="Yeti hunters" />
+	<block key="E_51_0_0013_0003_NameDetail" korea_korean="" />
+	<block key="E_51_0_0002_0002_Name" korea_korean="Yeti Shaman" />
+	<block key="E_51_0_0002_0002_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0001_Name" korea_korean="Brage's supervisor boar" />
+	<block key="E_02_1_0606_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0002_Name" korea_korean="Frost molar Porch" />
+	<block key="E_02_1_0606_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0006_Name" korea_korean="Domesticated bison" />
+	<block key="E_03_0_0672_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0005_Name" korea_korean="Raiders" />
+	<block key="E_03_0_1010_0005_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_51_5_0001_0001_Name" korea_korean="Altar of origin" />
+	<block key="E_51_5_0001_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0769_0000_Name" korea_korean="Black Wind" />
+	<block key="E_03_0_0769_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0769_0001_Name" korea_korean="Pony" />
+	<block key="E_03_0_0769_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0003_Name" korea_korean="The breeding boar" />
+	<block key="E_02_1_0606_0003_NameDetail" korea_korean="" />
+	<block key="E_02_1_0309_0000_Name" korea_korean="Black Wolf" />
+	<block key="E_02_1_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0245_0000_Name" korea_korean="Magma Hound" />
+	<block key="E_50_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0692_0002_Name" korea_korean="Thor Lava Tooth" />
+	<block key="E_03_0_0692_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_1720_0000_Name" korea_korean="Laboratory Unicorn" />
+	<block key="E_03_0_1720_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_1720_0001_Name" korea_korean="Unicorn foal" />
+	<block key="E_03_0_1720_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0654_0000_Name" korea_korean="Fairy Lake" />
+	<block key="E_03_0_0654_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0704_0000_Name" korea_korean="Black wings" />
+	<block key="E_03_0_0704_0000_NameDetail" korea_korean="Fire ryongjok" />
+	<block key="E_03_0_0704_0001_Name" korea_korean="Flame Breath" />
+	<block key="E_03_0_0704_0001_NameDetail" korea_korean="Fire ryongjok" />
+	<block key="E_03_0_1715_0000_Name" korea_korean="Black Dragon Asteras" />
+	<block key="E_03_0_1715_0000_NameDetail" korea_korean="Fire ryongjok" />
+	<block key="E_03_0_0676_0003_Name" korea_korean="Spider Forest" />
+	<block key="E_03_0_0676_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0004_Name" korea_korean="Hairy spider" />
+	<block key="E_03_0_0676_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0005_Name" korea_korean="Tarantula" />
+	<block key="E_03_0_0676_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0006_Name" korea_korean="Do all the Cardinals bomb" />
+	<block key="E_03_0_1010_0006_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_0696_0001_Name" korea_korean="Elite for assault" />
+	<block key="E_03_0_0696_0001_NameDetail" korea_korean="Fire ryongjok" />
+	<block key="E_03_0_0696_0002_Name" korea_korean="For stray kitten" />
+	<block key="E_03_0_0696_0002_NameDetail" korea_korean="Fire ryongjok" />
+	<block key="E_51_0_1100_0000_Name" korea_korean="Dark Summoner" />
+	<block key="E_51_0_1100_0000_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_51_0_1100_0001_Name" korea_korean="Exchange magicians Mister Geppetto" />
+	<block key="E_51_0_1100_0001_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_0666_0003_Name" korea_korean="Surin wanted revenge" />
+	<block key="E_03_0_0666_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0004_Name" korea_korean="Watcher's death" />
+	<block key="E_03_0_0666_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0005_Name" korea_korean="Revived Skeleton Soldier" />
+	<block key="E_03_0_0666_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0007_Name" korea_korean="Pumpkin hatched wasp" />
+	<block key="E_03_0_0682_0007_NameDetail" korea_korean="" />
+	<block key="E_52_0_0620_0000_Name" korea_korean="Vampire" />
+	<block key="E_52_0_0620_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_1110_0000_Name" korea_korean="Curse Executioner Regina" />
+	<block key="E_52_0_1110_0000_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_52_0_0900_0005_Name" korea_korean="Vampire Captain Lantto" />
+	<block key="E_52_0_0900_0005_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0006_Name" korea_korean="Hungry gardener in blood" />
+	<block key="E_52_0_0900_0006_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0007_Name" korea_korean="Handyman hungry for blood" />
+	<block key="E_52_0_0900_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0004_Name" korea_korean="The specter of darkness" />
+	<block key="E_03_0_0013_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0001_0000_Name" korea_korean="Ander executor of death" />
+	<block key="E_03_0_0001_0000_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_03_0_0002_0000_Name" korea_korean="Ekaterina Duke Lee Young Ae" />
+	<block key="E_03_0_0002_0000_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_03_0_0708_0000_Name" korea_korean="Trainers" />
+	<block key="E_03_0_0708_0000_NameDetail" korea_korean="Followers of Darkness" />
+	<block key="E_52_0_0620_0001_Name" korea_korean="Vampire" />
+	<block key="E_52_0_0620_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_1100_0002_Name" korea_korean="Mystic Curse" />
+	<block key="E_52_0_1100_0002_NameDetail" korea_korean="Wizard of Darkness" />
+	<block key="E_04_0_0728_0000_Name" korea_korean="Water Spirit" />
+	<block key="E_04_0_0728_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0728_0001_Name" korea_korean="Wild Water Spirit" />
+	<block key="E_04_0_0728_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0731_0000_Name" korea_korean="Wild Ice Elemental" />
+	<block key="E_04_0_0731_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0731_0001_Name" korea_korean="Wild Ice Elemental" />
+	<block key="E_04_0_0731_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0704_0002_Name" korea_korean="Green Impact" />
+	<block key="E_03_0_0704_0002_NameDetail" korea_korean="Phoenix Fire ryongjok" />
+	<block key="E_03_0_0704_0003_Name" korea_korean="The shadow of the Blue" />
+	<block key="E_03_0_0704_0003_NameDetail" korea_korean="Phoenix Fire ryongjok" />
+	<block key="E_04_0_1300_0006_Name" korea_korean="Cara de tout Pirates navigation" />
+	<block key="E_04_0_1300_0006_NameDetail" korea_korean="" />
+	<block key="E_04_0_1302_0003_Name" korea_korean="Kara De Pirate Marauders" />
+	<block key="E_04_0_1302_0003_NameDetail" korea_korean="" />
+</blocks>

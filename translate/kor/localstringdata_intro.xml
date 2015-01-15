@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="intro_cha_warrior_list" korean="È¬À " />
+	<block key="intro_cha_warrior_desc" korean="!Ç´ÌÈ " />
+	<block key="intro_cha_priest_list" korean="¬ÀÈ " />
+	<block key="intro_cha_priest_desc" korean="½¬t¬\Õ " />
+	<block key="intro_cha_thief_list" korean="TÅ´ÀÇ " />
+	<block key="intro_cha_thief_desc" korean="TÅ´Àè²ÐÅ " />
+	<block key="intro_cha_wizard_list" korean="È¹•¼¬À " />
+	<block key="intro_cha_wizard_desc" korean="ÈàÂÈxÇ " />
+	<block key="intro_cha_nature_list" korean="$±tÇÐÌ " />
+	<block key="intro_cha_nature_desc" korean="$±tÇÐÌ”² " />
+</blocks>

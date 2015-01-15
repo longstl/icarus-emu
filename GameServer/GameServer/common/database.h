@@ -5,8 +5,11 @@
 #ifndef _DATABASE_H_
 #define _DATABASE_H_
 
+
+
 #include <winsock.h>
 #include "mysql\mysql.h"
+#include <stdlib.h>
 #include "../defines.h"
 #include "logger.h"
 #include "../structs.h"
@@ -21,6 +24,8 @@ public:
 	bool IsError();
 
 	bool GetCharacterInfo(uint32 character_id, CHARACTER* character);
+	int GetNumMobs();											// получаем количество мобов в БД
+	int GetMobs(MOB* mobs);
 
 private:
 	MYSQL			mysql;
@@ -29,6 +34,11 @@ private:
 	bool			error;
 
 	void AtoH(char* in, char* out);
+
+	double mystrtod(char **val){
+		char *eptr = NULL, *ptr = *val;
+		return strtod(ptr, &eptr);
+	}
 };
 
 

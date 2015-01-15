@@ -16,7 +16,7 @@ SETTINGS			settings;
 CRITICAL_SECTION	gCS;
 GAMESERVERS			gameservers_info[12];
 HANDLE				hConsole;
-
+SOCKET				lsinnerSock;
 
 FILE*				fg;				// хэндл для логирования
 

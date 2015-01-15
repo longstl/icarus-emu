@@ -1,0 +1,307 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="N_C02_CarmTreasS1_001_Name" korean="4»|·lÐ" />
+	<block key="N_C02_CarmTreasS1_001_NameDetail" korean="tÕÈ" />
+	<block key="N_C02_CarmTreasS1_002_Name" korean=" Ç¼" />
+	<block key="N_C02_CarmTreasS1_002_NameDetail" korean="tÎ|·Ü´tÕÈè²" />
+	<block key="N_C02_HuFBank01_001_Name" korean="ÐÅ¸Ì¹" />
+	<block key="N_C02_HuFBank01_001_NameDetail" korean="ìÅ‰ÕÇ" />
+	<block key="N_C02_HuFEli01_001_Name" korean=" ÇÈ²¤Â" />
+	<block key="N_C02_HuFEli01_001_NameDetail" korean=" Ç…Ç”ÆÐÆ" />
+	<block key="N_C02_HuFFar01_001_Name" korean="¼XÕ" />
+	<block key="N_C02_HuFFar01_001_NameDetail" korean="x±Æ" />
+	<block key="N_C02_HuFFar01_002_Name" korean="x±Æ" />
+	<block key="N_C02_HuFFar01_002_NameDetail" korean="" />
+	<block key="N_C02_HuFFar01_003_Name" korean="ÜÂŒ· " />
+	<block key="N_C02_HuFFar01_003_NameDetail" korean="­€½" />
+	<block key="N_C02_HuFFar01_004_Name" korean="ÐÅ ¼xÇ" />
+	<block key="N_C02_HuFFar01_004_NameDetail" korean="¨ºØÕ" />
+	<block key="N_C02_HuFFar01_005_Name" korean="üÈÈ¹" />
+	<block key="N_C02_HuFFar01_005_NameDetail" korean="±€½" />
+	<block key="N_C02_HuFfooE01_001_Name" korean="DÅ|ÅÌ¹" />
+	<block key="N_C02_HuFfooE01_001_NameDetail" korean="" />
+	<block key="N_C02_HuFKep01_001_Name" korean="ÓðÒÈ¹" />
+	<block key="N_C02_HuFKep01_001_NameDetail" korean="1¼ÉÀXÇ " />
+	<block key="N_C02_HuFKep01_002_Name" korean="ðÒÕ" />
+	<block key="N_C02_HuFKep01_002_NameDetail" korean="1¼ÉÀXÇ " />
+	<block key="N_C02_HuFKep01_003_Name" korean="DÅ¾XÕ" />
+	<block key="N_C02_HuFKep01_003_NameDetail" korean="1¼ÉÀXÇ " />
+	<block key="N_C02_HuFKep01_004_Name" korean="tÎ¬À" />
+	<block key="N_C02_HuFKep01_004_NameDetail" korean="1¼ÉÀXÇ " />
+	<block key="N_C02_HuFKep01_005_Name" korean="8Á¸˜°" />
+	<block key="N_C02_HuFKep01_005_NameDetail" korean="pÈ¬Àè²" />
+	<block key="N_C02_HuFKep01_006_Name" korean="è¸<Á" />
+	<block key="N_C02_HuFKep01_006_NameDetail" korean="1¼ÉÀXÇ " />
+	<block key="N_C02_HuFLib02_001_Name" korean="¸xÇ " />
+	<block key="N_C02_HuFLib02_001_NameDetail" korean="¡ÇTÖ " />
+	<block key="N_C02_HuFLib02_002_Name" korean="XÕ¤ÂÄÐüÈü»" />
+	<block key="N_C02_HuFLib02_002_NameDetail" korean="" />
+	<block key="N_C02_HuFLine01_001_Name" korean="ÐÅtÇà´ " />
+	<block key="N_C02_HuFLine01_001_NameDetail" korean="©ÆÑ¼" />
+	<block key="N_C02_HuFLine01_002_Name" korean="ÜÂDÅ˜° " />
+	<block key="N_C02_HuFLine01_002_NameDetail" korean="" />
+	<block key="N_C02_HuFLine01_003_Name" korean="¬¹È " />
+	<block key="N_C02_HuFLine01_003_NameDetail" korean="¬ÀÈ" />
+	<block key="N_C02_HuFMag01_001_Name" korean="˜°€Å" />
+	<block key="N_C02_HuFMag01_001_NameDetail" korean="pÈ¬ÀÐÆ" />
+	<block key="N_C02_HuFMer01_001_Name" korean="|·|Ç|·" />
+	<block key="N_C02_HuFMer01_001_NameDetail" korean="LÇÝÂ " />
+	<block key="N_C02_HuFMer01_002_Name" korean="Ç" />
+	<block key="N_C02_HuFMer01_002_NameDetail" korean="LÇÝÂ " />
+	<block key="N_C02_HuFMer01_003_Name" korean="ÜÂt¹¬À" />
+	<block key="N_C02_HuFMer01_003_NameDetail" korean="LÇÝÂ " />
+	<block key="N_C02_HuFMer01_004_Name" korean="DÅtÇ² " />
+	<block key="N_C02_HuFMer01_004_NameDetail" korean="¡ÇTÖ " />
+	<block key="N_C02_HuFMer02_001_Name" korean="DÅÈ¹t¹" />
+	<block key="N_C02_HuFMer02_001_NameDetail" korean="<»}Å " />
+	<block key="N_C02_HuFMer02_002_Name" korean="ÀÐÀÉ" />
+	<block key="N_C02_HuFMer02_002_NameDetail" korean="<»}Å " />
+	<block key="N_C02_HuFMer02_003_Name" korean="Tºµ˜°" />
+	<block key="N_C02_HuFMer02_003_NameDetail" korean="Â\¸ " />
+	<block key="N_C02_HuFMer02_004_Name" korean="P´¼" />
+	<block key="N_C02_HuFMer02_004_NameDetail" korean="<»}Å " />
+	<block key="N_C02_HuFMerc01_001_Name" korean="¬¹ÀÉ" />
+	<block key="N_C02_HuFMerc01_001_NameDetail" korean="¬Àå°¼¯" />
+	<block key="N_C02_HuFMid01_001_Name" korean="ø»,Æ " />
+	<block key="N_C02_HuFMid01_001_NameDetail" korean="ìÅ‰ÕÇ" />
+	<block key="N_C02_HuFMis01_001_Name" korean="ÇµDÅ " />
+	<block key="N_C02_HuFMis01_001_NameDetail" korean=" ¼t¹xÎ " />
+	<block key="N_C02_HuFMis01_002_Name" korean="¬ÀÜ´" />
+	<block key="N_C02_HuFMis01_002_NameDetail" korean="@ÆxÇ " />
+	<block key="N_C02_HuFNob01_001_Name" korean="`Õì¸ " />
+	<block key="N_C02_HuFNob01_001_NameDetail" korean="XÕ¤ÂÄÐ " />
+	<block key="N_C02_HuFNob01_002_Name" korean="tÎÐ¹¬¹" />
+	<block key="N_C02_HuFNob01_002_NameDetail" korean="" />
+	<block key="N_C02_HuFOld01_001_Name" korean="ÀÉä²" />
+	<block key="N_C02_HuFOld01_001_NameDetail" korean=" Ç©ºü»" />
+	<block key="N_C02_HuFOld01_002_Name" korean="XÕ¤ÂÄÐ " />
+	<block key="N_C02_HuFOld01_002_NameDetail" korean="" />
+	<block key="N_C02_HuFPub01_001_Name" korean="p³¾ˆÂDÅ " />
+	<block key="N_C02_HuFPub01_001_NameDetail" korean="üÈÈ " />
+	<block key="N_C02_HuFPub02_001_Name" korean="XÕ¤ÂÄÐ " />
+	<block key="N_C02_HuFPub02_001_NameDetail" korean="" />
+	<block key="N_C02_HuFServ01_001_Name" korean="¬À¸Ò|· " />
+	<block key="N_C02_HuFServ01_001_NameDetail" korean="ðÅ® Â¬À" />
+	<block key="N_C02_HuFSmi01_A_001_Name" korean="¤Ðt¹ " />
+	<block key="N_C02_HuFSmi01_A_001_NameDetail" korean="|ÅÂ " />
+	<block key="N_C02_HuFSmi01_A_002_Name" korean="´À¸" />
+	<block key="N_C02_HuFSmi01_A_002_NameDetail" korean="¬Àå°¼¯" />
+	<block key="N_C02_HuFSmi01_A_003_Name" korean="¨ºt¹¸Ò " />
+	<block key="N_C02_HuFSmi01_A_003_NameDetail" korean="¬Àå°¼¯" />
+	<block key="N_C02_HuFSmi01_A_004_Name" korean="\¸|·" />
+	<block key="N_C02_HuFSmi01_A_004_NameDetail" korean="¬Àå°¼¯" />
+	<block key="N_C02_HuFSol01_A_001_Name" korean="Ç4Ò€· " />
+	<block key="N_C02_HuFSol01_A_001_NameDetail" korean="" />
+	<block key="N_C02_HuFSol01_A_002_Name" korean="ðÒ\¸ " />
+	<block key="N_C02_HuFSol01_A_002_NameDetail" korean="½¬D¾" />
+	<block key="N_C02_HuFSol01_A_003_Name" korean="4»íÅÁÀè² " />
+	<block key="N_C02_HuFSol01_A_003_NameDetail" korean="" />
+	<block key="N_C02_HuMarmE02_001_Name" korean="tÇ¼ " />
+	<block key="N_C02_HuMarmE02_001_NameDetail" korean="YÕÇ" />
+	<block key="N_C02_HuMarmE02_002_Name" korean="ÀÐ€½lÐ" />
+	<block key="N_C02_HuMarmE02_002_NameDetail" korean=" Ç©ºü»" />
+	<block key="N_C02_HuMarmE02_003_Name" korean="XÕ¤ÂÄÐüÈü»" />
+	<block key="N_C02_HuMarmE02_003_NameDetail" korean="" />
+	<block key="N_C02_HuMAuct01_001_Name" korean="tÐ¼¹¸Ò" />
+	<block key="N_C02_HuMAuct01_001_NameDetail" korean="@ÆxÇ " />
+	<block key="N_C02_HuMCrew02_001_Name" korean="DÅLÑ¤Â " />
+	<block key="N_C02_HuMCrew02_001_NameDetail" korean="üÈÈE¼tÇ" />
+	<block key="N_C02_HuMDmag01_001_Name" korean="è¸ÀÐ¬¹äÏ " />
+	<block key="N_C02_HuMDmag01_001_NameDetail" korean="È¹•¼¬À" />
+	<block key="N_C02_HuMDmag04_001_Name" korean="È¹ˆÉ²" />
+	<block key="N_C02_HuMDmag04_001_NameDetail" korean="ìÓÈÐ " />
+	<block key="N_C02_HuMDmag04_002_Name" korean="¬¹|ÅÜ´" />
+	<block key="N_C02_HuMDmag04_002_NameDetail" korean="ìÓÈÐ " />
+	<block key="N_C02_HuMDmag04_003_Name" korean="üÈ¼|Ç" />
+	<block key="N_C02_HuMDmag04_003_NameDetail" korean="ìÓÈÐ " />
+	<block key="N_C02_HuMDmag04_004_Name" korean="¼¸Ò" />
+	<block key="N_C02_HuMDmag04_004_NameDetail" korean="ìÓÈÐ " />
+	<block key="N_C02_HuMDmag04_005_Name" korean="Ç„¼ø­" />
+	<block key="N_C02_HuMDmag04_005_NameDetail" korean="ìÓÈÐ " />
+	<block key="N_C02_HuMFar01_001_Name" korean="üÈü»" />
+	<block key="N_C02_HuMFar01_001_NameDetail" korean="XÕ¤ÂÄÐÈ¹DÇ" />
+	<block key="N_C02_HuMFar01_002_Name" korean="\¸tÇ " />
+	<block key="N_C02_HuMFar01_002_NameDetail" korean="ÁÀxÇ" />
+	<block key="N_C02_HuMFar01_003_Name" korean="XÕ4»t¹" />
+	<block key="N_C02_HuMFar01_003_NameDetail" korean="±¥Ç" />
+	<block key="N_C02_HuMFar02_001_Name" korean="üÈü»" />
+	<block key="N_C02_HuMFar02_001_NameDetail" korean=" ¼t¹xÎÈ¹DÇ" />
+	<block key="N_C02_HuMFar02_002_Name" korean="XÕ¤ÂÄÐüÈü»" />
+	<block key="N_C02_HuMFar02_002_NameDetail" korean="" />
+	<block key="N_C02_HuMFar02_003_Name" korean="DÅ¼¤Â" />
+	<block key="N_C02_HuMFar02_003_NameDetail" korean="±¥Ç" />
+	<block key="N_C02_HuMGen01_001_Name" korean="Ü´t¹Â " />
+	<block key="N_C02_HuMGen01_001_NameDetail" korean="½¬D¾" />
+	<block key="N_C02_HuMGuy01_001_Name" korean="È¹ÄÉ" />
+	<block key="N_C02_HuMGuy01_001_NameDetail" korean="ÐÉ¼¯" />
+	<block key="N_C02_HuMGuy01_002_Name" korean="Ó¬¹Ü´" />
+	<block key="N_C02_HuMGuy01_002_NameDetail" korean="x±Æ" />
+	<block key="N_C02_HuMGuy01_003_Name" korean="x±Æ" />
+	<block key="N_C02_HuMGuy01_003_NameDetail" korean="" />
+	<block key="N_C02_HuMGuy01_004_Name" korean="kÕT´ " />
+	<block key="N_C02_HuMGuy01_004_NameDetail" korean="üÈÈ " />
+	<block key="N_C02_HuMGuy01_005_Name" korean="DÅø­lÂ " />
+	<block key="N_C02_HuMGuy01_005_NameDetail" korean="|ÅÂ " />
+	<block key="N_C02_HuMGuy01_006_Name" korean="hÕè²" />
+	<block key="N_C02_HuMGuy01_006_NameDetail" korean="±€½" />
+	<block key="N_C02_HuMGuy01_007_Name" korean="±€½" />
+	<block key="N_C02_HuMGuy01_007_NameDetail" korean="" />
+	<block key="N_C02_HuMGuy01_008_Name" korean="<Õ|·¤Â" />
+	<block key="N_C02_HuMGuy01_008_NameDetail" korean="ÐÉ¼¯" />
+	<block key="N_C02_HuMGuy01_009_Name" korean="ä²ø»|Å" />
+	<block key="N_C02_HuMGuy01_009_NameDetail" korean="x±Æ" />
+	<block key="N_C02_HuMGuy02_001_Name" korean="$Æ¼tÇÜ´" />
+	<block key="N_C02_HuMGuy02_001_NameDetail" korean="±€½" />
+	<block key="N_C02_HuMGuy02_002_Name" korean="±€½" />
+	<block key="N_C02_HuMGuy02_002_NameDetail" korean="" />
+	<block key="N_C02_HumKni01_001_Name" korean="Ç4Ò€·" />
+	<block key="N_C02_HumKni01_001_NameDetail" korean="" />
+	<block key="N_C02_HuMKni02_001_Name" korean="¤ÐDÅ¤Â " />
+	<block key="N_C02_HuMKni02_001_NameDetail" korean="½¬D¾" />
+	<block key="N_C02_HuMKni02_002_Name" korean="DÅlÐ¼" />
+	<block key="N_C02_HuMKni02_002_NameDetail" korean="½¬D¾" />
+	<block key="N_C02_HuMKni02_003_Name" korean="XÕt¹¬ " />
+	<block key="N_C02_HuMKni02_003_NameDetail" korean="½¬D¾" />
+	<block key="N_C02_HuMKni03_004_Name" korean="¨¼ " />
+	<block key="N_C02_HuMKni03_004_NameDetail" korean="å¹ ¼xÇXÇ " />
+	<block key="N_C02_HuMKni03_005_Name" korean="XÕLÑt¹" />
+	<block key="N_C02_HuMKni03_005_NameDetail" korean="©ÆÑ¼" />
+	<block key="N_C02_HuMMac01_001_Name" korean="DÅ|·lÐ|· " />
+	<block key="N_C02_HuMMac01_001_NameDetail" korean="Â¡Á Ó\¸°Æ " />
+	<block key="N_C02_HuMMac01_002_Name" korean="HÆ¬¹Ü´" />
+	<block key="N_C02_HuMMac01_002_NameDetail" korean="­°À " />
+	<block key="N_C02_HuMMag01_003_Name" korean="XÕ¤ÂÄÐüÈü»" />
+	<block key="N_C02_HuMMag01_003_NameDetail" korean="" />
+	<block key="N_C02_HuMMag01_004_Name" korean="Ç°ÆÕ" />
+	<block key="N_C02_HuMMag01_004_NameDetail" korean="pÈ¬ÀÐÆ" />
+	<block key="N_C02_HuMMag02_001_Name" korean="p³È²¤Â" />
+	<block key="N_C02_HuMMag02_001_NameDetail" korean="ÐÐØÕ" />
+	<block key="N_C02_HuMMer01_001_Name" korean="äÀtÇlÐ" />
+	<block key="N_C02_HuMMer01_001_NameDetail" korean="4»0®ÁÀxÇ" />
+	<block key="N_C02_HuMMer01_002_Name" korean="XÕÈ¹Ü´" />
+	<block key="N_C02_HuMMer01_002_NameDetail" korean="4»0®ÁÀxÇ" />
+	<block key="N_C02_HuMMer01_003_Name" korean="Â¸tÇÌ¹" />
+	<block key="N_C02_HuMMer01_003_NameDetail" korean="4»0® " />
+	<block key="N_C02_HuMMer01_004_Name" korean="ÐÅtÇÓ" />
+	<block key="N_C02_HuMMer01_004_NameDetail" korean="4»0®/" />
+	<block key="N_C02_HuMMer01_005_Name" korean="8®„¼¸Ò" />
+	<block key="N_C02_HuMMer01_005_NameDetail" korean="Œ¼©º¼¯" />
+	<block key="N_C02_HuMMer01_006_Name" korean="XÕ|·Ü´" />
+	<block key="N_C02_HuMMer01_006_NameDetail" korean="4»0®/" />
+	<block key="N_C02_HuMMer02_001_Name" korean="˜°¤Ât¹" />
+	<block key="N_C02_HuMMer02_001_NameDetail" korean=")¼´Ål­ " />
+	<block key="N_C02_HuMMer02_002_Name" korean="DÅ¬ÀÕ" />
+	<block key="N_C02_HuMMer02_002_NameDetail" korean=")¼´Ål­ÁÀxÇ" />
+	<block key="N_C02_HuMMer02_003_Name" korean="DÅtÇ¼" />
+	<block key="N_C02_HuMMer02_003_NameDetail" korean=")¼´Ål­ " />
+	<block key="N_C02_HuMMer02_004_Name" korean="T´²" />
+	<block key="N_C02_HuMMer02_004_NameDetail" korean="¡ÇTÖ/" />
+	<block key="N_C02_HuMMer03_001_Name" korean="XÁèÕ" />
+	<block key="N_C02_HuMMer03_001_NameDetail" korean="Œ¼©º¼¯" />
+	<block key="N_C02_HuMMer03_002_Name" korean="HÅ¤Ñ" />
+	<block key="N_C02_HuMMer03_002_NameDetail" korean="¡ÇTÖ/" />
+	<block key="N_C02_HuMMer03_003_Name" korean="|·Ì¹" />
+	<block key="N_C02_HuMMer03_003_NameDetail" korean="¡ÇTÖ " />
+	<block key="N_C02_HuMMer03_004_Name" korean="°ÆÈ¹t¹ " />
+	<block key="N_C02_HuMMer03_004_NameDetail" korean="|ÅÂ " />
+	<block key="N_C02_HuMMer04_001_Name" korean="tÎtÇt¹" />
+	<block key="N_C02_HuMMer04_001_NameDetail" korean="¡ÇTÖ " />
+	<block key="N_C02_HuMMer05_001_Name" korean="DÅÀÉˆÉ" />
+	<block key="N_C02_HuMMer05_001_NameDetail" korean="­€½" />
+	<block key="N_C02_HuMMid01_001_Name" korean="XÕ´Ð" />
+	<block key="N_C02_HuMMid01_001_NameDetail" korean="4»íÅÁÀ" />
+	<block key="N_C02_HuMMid01_002_Name" korean="ÁÀxÇ" />
+	<block key="N_C02_HuMMid01_002_NameDetail" korean="" />
+	<block key="N_C02_HuMMid01_003_Name" korean="¸±Ü´ " />
+	<block key="N_C02_HuMMid01_003_NameDetail" korean=" ¼t¹xÎ " />
+	<block key="N_C02_HuMMil01_001_Name" korean="HÅ|Ô " />
+	<block key="N_C02_HuMMil01_001_NameDetail" korean="È¬À" />
+	<block key="N_C02_HuMMine01_001_Name" korean=",Æ|·€Å" />
+	<block key="N_C02_HuMMine01_001_NameDetail" korean="Eµ¼¯" />
+	<block key="N_C02_HuMMine01_002_Name" korean="Èä²" />
+	<block key="N_C02_HuMMine01_002_NameDetail" korean="­€½" />
+	<block key="N_C02_HuMMine02_001_Name" korean="" />
+	<block key="N_C02_HuMMine02_001_NameDetail" korean="4»0® " />
+	<block key="N_C02_HuMMine02_002_Name" korean="8Á" />
+	<block key="N_C02_HuMMine02_002_NameDetail" korean="­€½" />
+	<block key="N_C02_HuMMine02_003_Name" korean="4»¼lÐ" />
+	<block key="N_C02_HuMMine02_003_NameDetail" korean="­€½" />
+	<block key="N_C02_HuMNob03_001_Name" korean="Œ¬|Ç " />
+	<block key="N_C02_HuMNob03_001_NameDetail" korean="ÁÀxÇ" />
+	<block key="N_C02_HuMNov03_002_Name" korean="LÅ " />
+	<block key="N_C02_HuMNov03_002_NameDetail" korean="XÕ¤ÂÄÐ " />
+	<block key="N_C02_HuMOld01_001_Name" korean="DÅ(Ì¬¹ " />
+	<block key="N_C02_HuMOld01_001_NameDetail" korean="8Áõ¬¬À" />
+	<block key="N_C02_HuMPri02_001_Name" korean="˜°8Át¹" />
+	<block key="N_C02_HuMPri02_001_NameDetail" korean="àÂ1Á\Õ " />
+	<block key="N_C02_HuMPri03_001_Name" korean="¾¸tÇlÐ " />
+	<block key="N_C02_HuMPri03_001_NameDetail" korean="ÄÉ¬¹XÇ " />
+	<block key="N_C02_HuMSha01_001_Name" korean="D¾XÕxÇÜ´ " />
+	<block key="N_C02_HuMSha01_001_NameDetail" korean="" />
+	<block key="N_C02_HuMSha01_002_Name" korean="ÐÅ8® " />
+	<block key="N_C02_HuMSha01_002_NameDetail" korean="" />
+	<block key="N_C02_HuMSha01_003_Name" korean="D¾XÕxÇÜ´ " />
+	<block key="N_C02_HuMSha01_003_NameDetail" korean="äÀÄ³°Æ " />
+	<block key="N_C02_HuMSha01_004_Name" korean="D¾XÕxÇÜ´ " />
+	<block key="N_C02_HuMSha01_004_NameDetail" korean="" />
+	<block key="N_C02_HuMSha01_005_Name" korean="D¾XÕxÇÜ´ " />
+	<block key="N_C02_HuMSha01_005_NameDetail" korean="" />
+	<block key="N_C02_HuMSha01_006_Name" korean="D¾XÕxÇÜ´ " />
+	<block key="N_C02_HuMSha01_006_NameDetail" korean="" />
+	<block key="N_C02_HuMSha01_007_Name" korean="è¸tÎ¤Â" />
+	<block key="N_C02_HuMSha01_007_NameDetail" korean="" />
+	<block key="N_C02_HuMSha01_008_Name" korean="" />
+	<block key="N_C02_HuMSha01_008_NameDetail" korean="" />
+	<block key="N_C02_HuMSha01_009_Name" korean="" />
+	<block key="N_C02_HuMSha01_009_NameDetail" korean="" />
+	<block key="N_C02_HuMSol01_A_001_Name" korean="Ç4»Ü´ " />
+	<block key="N_C02_HuMSol01_A_001_NameDetail" korean="½¬D¾" />
+	<block key="N_C02_HuMSol01_A_002_Name" korean="˜°Ó " />
+	<block key="N_C02_HuMSol01_A_002_NameDetail" korean="½¬D¾" />
+	<block key="N_C02_HuMSol01_A_003_Name" korean="ÔÅT³ " />
+	<block key="N_C02_HuMSol01_A_003_NameDetail" korean="Æ¸ÅÇXÇ " />
+	<block key="N_C02_HuMSol01_A_004_Name" korean="Ç4Ò€· " />
+	<block key="N_C02_HuMSol01_A_004_NameDetail" korean="" />
+	<block key="N_C02_HuMSol01_A_005_Name" korean="4»íÅÁÀè² " />
+	<block key="N_C02_HuMSol01_A_005_NameDetail" korean="" />
+	<block key="N_C02_HuMSol01_A_006_Name" korean="½¬D¾Ñ¼" />
+	<block key="N_C02_HuMSol01_A_006_NameDetail" korean="" />
+	<block key="N_C02_HuMSol01_A_007_Name" korean="ÔÅT³ " />
+	<block key="N_C02_HuMSol01_A_007_NameDetail" korean="Æ¸ÅÇXÇ " />
+	<block key="N_C02_HuMSol01_A_008_Name" korean="ÔÅT³ " />
+	<block key="N_C02_HuMSol01_A_008_NameDetail" korean="Æ¸ÅÇXÇ " />
+	<block key="N_C02_HuMSol01_A_009_Name" korean="ÔÅT³ " />
+	<block key="N_C02_HuMSol01_A_009_NameDetail" korean="Æ¸ÅÇXÇ " />
+	<block key="N_C02_HuMTmag01_001_Name" korean="tÎt¹¸Ò " />
+	<block key="N_C02_HuMTmag01_001_NameDetail" korean=" ¼t¹xÎ " />
+	<block key="N_C02_MoorBernaM1_001_Name" korean="˜°è¸XÕ" />
+	<block key="N_C02_MoorBernaM1_001_NameDetail" korean="È¬À" />
+	<block key="N_C02_MoorBernaM1_002_Name" korean="ÐÅtÇ˜°" />
+	<block key="N_C02_MoorBernaM1_002_NameDetail" korean="8Áõ¬¬À" />
+	<block key="N_C02_MoorBowmaB2_001_Name" korean="tÇè¸XÕ" />
+	<block key="N_C02_MoorBowmaB2_001_NameDetail" korean="ÇXÎ9¸üÈ" />
+	<block key="N_C02_MoorChargH2_001_Name" korean="ÜÂ$Æ0®" />
+	<block key="N_C02_MoorChargH2_001_NameDetail" korean="üÈ Â¬À" />
+	<block key="N_C02_MoorShamaM1_001_Name" korean="ä²t¹tÎ" />
+	<block key="N_C02_MoorShamaM1_001_NameDetail" korean="tÇè¸XÕXÇ " />
+	<block key="N_C02_MoorShamaM1_002_Name" korean="DÅÈ¹˜°" />
+	<block key="N_C02_MoorShamaM1_002_NameDetail" korean="üÈ Â¬À" />
+	<block key="N_C02_MoorTroopH2_001_Name" korean="¸0®DÅ" />
+	<block key="N_C02_MoorTroopH2_001_NameDetail" korean="È¬À" />
+	<block key="N_C02_Portal_001_Name" korean="À­XÖìÓÈÐ" />
+	<block key="N_C02_Portal_001_NameDetail" korean="" />
+	<block key="N_C02_Portal_002_Name" korean="À­XÖìÓÈÐ" />
+	<block key="N_C02_Portal_002_NameDetail" korean="" />
+	<block key="N_C02_Portal_003_Name" korean="À­XÖìÓÈÐ" />
+	<block key="N_C02_Portal_003_NameDetail" korean="" />
+	<block key="N_C02_Portal_004_Name" korean="À­XÖìÓÈÐ" />
+	<block key="N_C02_Portal_004_NameDetail" korean="" />
+	<block key="N_C02_Portal_005_Name" korean="À­XÖìÓÈÐ" />
+	<block key="N_C02_Portal_005_NameDetail" korean="" />
+</blocks>

@@ -1,0 +1,2624 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="itco_feblackmeat01_Name" korean="´Å`´XÇ " />
+	<block key="itco_feblackmeat01_description_1" korean="´Å`´XÇ " />
+	<block key="itco_feblackmeat02_Name" korean="ÙÉ@Ç " />
+	<block key="itco_feblackmeat02_description_1" korean="ÙÉ@Ç " />
+	<block key="itco_feblackmeat03_Name" korean="¬,¸\Õ " />
+	<block key="itco_feblackmeat03_description_1" korean="¬,¸\Õ " />
+	<block key="itco_fecrygrass01_Name" korean="ÂÈÍ " />
+	<block key="itco_fecrygrass01_description_1" korean="ÂÈÍ|¹ " />
+	<block key="itco_fecrygrass02_Name" korean="[¾˜°”² " />
+	<block key="itco_fecrygrass02_description_1" korean="[¾˜°”² " />
+	<block key="itco_fecrygrass03_Name" korean="­DÌ˜°”² " />
+	<block key="itco_fecrygrass03_description_1" korean="­DÌ˜°”² " />
+	<block key="itco_fedewgrass01_Name" korean="tÇ¬ÂÍ " />
+	<block key="itco_fedewgrass01_description_1" korean="tÇ¬ÂÍ|¹ " />
+	<block key="itco_fedewgrass02_Name" korean="Ñ¹@Ç " />
+	<block key="itco_fedewgrass02_description_1" korean="Ñ¹@Ç " />
+	<block key="itco_fedewgrass03_Name" korean="ÂÂ\Õ " />
+	<block key="itco_fedewgrass03_description_1" korean="ÂÂ\Õ " />
+	<block key="itco_fescroll01pon_Name" korean="XÕ	® " />
+	<block key="itco_fescroll01pon_description_1" korean="XÕ	® " />
+	<block key="itco_fescroll01poe_Name" korean="XÕ	® " />
+	<block key="itco_fescroll01poe_description_1" korean="É	® " />
+	<block key="itco_fescroll01poh_Name" korean="ÁÀ	® " />
+	<block key="itco_fescroll01poh_description_1" korean="ÁÀ	® " />
+	<block key="itco_fescroll01fin_Name" korean="XÕ	® " />
+	<block key="itco_fescroll01fin_description_1" korean="XÕ	® " />
+	<block key="itco_fescroll01fie_Name" korean="É	® " />
+	<block key="itco_fescroll01fie_description_1" korean="É	® " />
+	<block key="itco_fescroll01fih_Name" korean="ÁÀ	® " />
+	<block key="itco_fescroll01fih_description_1" korean="ÁÀ	® " />
+	<block key="itco_fescroll01icn_Name" korean="XÕ	® " />
+	<block key="itco_fescroll01icn_description_1" korean="XÕ	® " />
+	<block key="itco_fescroll01ice_Name" korean="É	® " />
+	<block key="itco_fescroll01ice_description_1" korean="É	® " />
+	<block key="itco_fescroll01ich_Name" korean="ÁÀ	® " />
+	<block key="itco_fescroll01ich_description_1" korean="ÁÀ	® " />
+	<block key="itco_fescroll01lin_Name" korean="XÕ	® " />
+	<block key="itco_fescroll01lin_description_1" korean="XÕ	® " />
+	<block key="itco_fescroll01lie_Name" korean="É	® " />
+	<block key="itco_fescroll01lie_description_1" korean="É	® " />
+	<block key="itco_fescroll01lih_Name" korean="ÁÀ	® " />
+	<block key="itco_fescroll01lih_description_1" korean="ÁÀ	® " />
+	<block key="itco_fescroll01dan_Name" korean="XÕ	® " />
+	<block key="itco_fescroll01dan_description_1" korean="XÕ	® " />
+	<block key="itco_fescroll01dae_Name" korean="É	® " />
+	<block key="itco_fescroll01dae_description_1" korean="É	® " />
+	<block key="itco_fescroll01dah_Name" korean="ÁÀ	® " />
+	<block key="itco_fescroll01dah_description_1" korean="ÁÀ	® " />
+	<block key="feall01_Name" korean="ìÓ¨Ö" />
+	<block key="feall01_description_1" korean="¼½¬ " />
+	<block key="feasteras01_Name" korean="€¬@Ç " />
+	<block key="feasteras01_description_1" korean="È " />
+	<block key="feasteras02_Name" korean="ýÈLÇXÇ " />
+	<block key="feasteras02_description_1" korean="ÀÉÈ´ " />
+	<block key="feasteras03_Name" korean="ýÈLÇXÇ " />
+	<block key="feasteras03_description_1" korean="ýÈLÇXÇ " />
+	<block key="feasteras04a_Name" korean="ÀÉÁÀ " />
+	<block key="feasteras04a_description_1" korean=" Ó\¸°Æ|¹ " />
+	<block key="feasteras05_Name" korean="ù¹,¸\Õ " />
+	<block key="feasteras05_description_1" korean="Ü´˜·ä¬ " />
+	<block key="feasteras05_description_2" korean="Ü´˜·ä¬ " />
+	<block key="feasteras05_description_3" korean="Ü´˜·ä¬ " />
+	<block key="feasteras05_description_4" korean="Ü´˜·ä¬ " />
+	<block key="feasteras05_description_5" korean="Ü´˜·ä¬ " />
+	<block key="feasteras05_description_6" korean="Ü´˜·ä¬ " />
+	<block key="feasteras05_description_7" korean="Ü´˜·ä¬ " />
+	<block key="feasteras05_description_8" korean="Ü´˜·ä¬ " />
+	<block key="febear01_Name" korean="ÇÖXÇ " />
+	<block key="febear01_description_1" korean="äÎä²€· " />
+	<block key="febear02_Name" korean="P´¼®´Æ " />
+	<block key="febear02_description_1" korean="ð¬tÇ " />
+	<block key="febear02_description_2" korean="ð¬tÇ " />
+	<block key="febear02_description_3" korean="ð¬tÇ " />
+	<block key="febear02_description_4" korean="ð¬tÇ " />
+	<block key="febear02_description_5" korean="ð¬tÇ " />
+	<block key="febear02_description_6" korean="ð¬tÇ " />
+	<block key="febear02_description_7" korean="ð¬tÇ " />
+	<block key="febear02_description_8" korean="ð¬tÇ " />
+	<block key="febear03_Name" korean="ÄÖ$¸XÎ0®" />
+	<block key="febear03_description_1" korean="‘ÅÁDÇ " />
+	<block key="febear03_description_2" korean="‘ÅÁDÇ " />
+	<block key="febear03_description_3" korean="‘ÅÁDÇ " />
+	<block key="febear03_description_4" korean="‘ÅÁDÇ " />
+	<block key="febear03_description_5" korean="‘ÅÁDÇ " />
+	<block key="febear03_description_6" korean="‘ÅÁDÇ " />
+	<block key="febear03_description_7" korean="‘ÅÁDÇ " />
+	<block key="febear03_description_8" korean="‘ÅÁDÇ " />
+	<block key="febearice01_Name" korean="P´¼®´Æ " />
+	<block key="febearice01_description_1" korean="P´¼®´Æ " />
+	<block key="febearice02_Name" korean="P´¼®´Æ " />
+	<block key="febearice02_description_1" korean="ÑÐ¹ÂÇXÇ " />
+	<block key="feboar01_Name" korean="ˆ½t­XÇ " />
+	<block key="feboar01_description_1" korean="gºü³ÀÉ " />
+	<block key="feboar01_description_2" korean="gºü³ÀÉ " />
+	<block key="feboar01_description_3" korean="gºü³ÀÉ " />
+	<block key="feboar01_description_4" korean="gºü³ÀÉ " />
+	<block key="feboar01_description_5" korean="gºü³ÀÉ " />
+	<block key="feboar01_description_6" korean="gºü³ÀÉ " />
+	<block key="feboar01_description_7" korean="gºü³ÀÉ " />
+	<block key="feboar01_description_8" korean="gºü³ÀÉ " />
+	<block key="feboar02_Name" korean="Ì³ÄÉ" />
+	<block key="feboar02_description_1" korean="4" />
+	<block key="feboar02_description_2" korean="4" />
+	<block key="feboar03_Name" korean="ä´tÇ¼0®" />
+	<block key="feboar03_description_1" korean="ä´tÇ¼0®" />
+	<block key="feboar03_description_2" korean="ä´tÇ¼0®" />
+	<block key="feboar04_Name" korean="" />
+	<block key="feboar04_description_1" korean="ü­È\Õ " />
+	<block key="feboar04_description_2" korean="ü­È\Õ " />
+	<block key="feboar04_description_3" korean="ü­È\Õ " />
+	<block key="feboar04_description_4" korean="ü­È\Õ " />
+	<block key="feboar04_description_5" korean="ü­È\Õ " />
+	<block key="feboar04_description_6" korean="ü­È\Õ " />
+	<block key="feboar04_description_7" korean="ü­È\Õ " />
+	<block key="feboar04_description_8" korean="ü­È\Õ " />
+	<block key="feboar05_Name" korean="gºü³ÀÉXÇ " />
+	<block key="feboar05_description_1" korean="gºü³ÀÉ " />
+	<block key="feboar06_Name" korean="ð¯«¶0®" />
+	<block key="feboar06_description_1" korean="È " />
+	<block key="feboar07_Name" korean=" ÇxÇ" />
+	<block key="feboar07_description_1" korean="ÈÆ " />
+	<block key="feboar08_Name" korean=" ÇxÇ " />
+	<block key="feboar08_description_1" korean=" ÇxÇ " />
+	<block key="feboarice01_Name" korean="É°0® " />
+	<block key="feboarice01_description_1" korean="4" />
+	<block key="feboarice02_Name" korean="É°0® " />
+	<block key="feboarice02_description_1" korean="É°0® " />
+	<block key="feboarice03_Name" korean="É°¬" />
+	<block key="feboarice03_description_1" korean=" Ó\¸°Æ\¸€½0Ñ " />
+	<block key="fecow01_Name" korean="­íÓXÇ " />
+	<block key="fecow01_description_1" korean="ŒÁ " />
+	<block key="fecow01_description_2" korean="ŒÁ " />
+	<block key="fecow01_description_3" korean="ŒÁ " />
+	<block key="fecow01_description_4" korean="ŒÁ " />
+	<block key="fecow01_description_5" korean="ŒÁ " />
+	<block key="fecow02_Name" korean="ä´tÇ¼0®" />
+	<block key="fecow02_description_1" korean="È " />
+	<block key="fecow03_Name" korean="˜×,Ì " />
+	<block key="fecow03_description_1" korean=" Ó\¸°Æ" />
+	<block key="fecow04_Name" korean=" ÇxÇ" />
+	<block key="fecow04_description_1" korean="ÈÆ " />
+	<block key="fecow05_Name" korean=" ÇxÇ " />
+	<block key="fecow05_description_1" korean=" ÇxÇ " />
+	<block key="fecowdis01_Name" korean="íÅÑ¼ " />
+	<block key="fecowdis01_description_1" korean=" Ó\¸°Æ|¹ " />
+	<block key="fecowdis02_Name" korean="íÅÑ¼ " />
+	<block key="fecowdis02_description_1" korean="íÅÑ¼ " />
+	<block key="fefirebird01_Name" korean="ˆ½C¯ " />
+	<block key="fefirebird01_description_1" korean="" />
+	<block key="fefirebird02_Name" korean="p¬" />
+	<block key="fefirebird02_description_1" korean="" />
+	<block key="fefirebird03_Name" korean="õ¬É " />
+	<block key="fefirebird03_description_1" korean="tÎTº|·" />
+	<block key="fefirebird04a_Name" korean="ˆ½C¯ " />
+	<block key="fefirebird04a_description_1" korean="" />
+	<block key="fefirebird04b_Name" korean="ˆ½C¯ " />
+	<block key="fefirebird04b_description_1" korean="" />
+	<block key="fefirebird04c_Name" korean="ˆ½C¯ " />
+	<block key="fefirebird04c_description_1" korean="" />
+	<block key="fefirebird04d_Name" korean="ˆ½C¯ " />
+	<block key="fefirebird04d_description_1" korean="" />
+	<block key="fefirebird04e_Name" korean="ˆ½C¯ " />
+	<block key="fefirebird04e_description_1" korean="" />
+	<block key="fehorse01_Name" korean="ÈÉüÈ" />
+	<block key="fehorse01_description_1" korean=" Ó\¸°ÆÐÅ " />
+	<block key="fehorse02_Name" korean="`¾x¹ " />
+	<block key="fehorse02_description_1" korean="Ð¹ " />
+	<block key="fehorse02_description_2" korean="Ð¹ " />
+	<block key="fehorse02_description_3" korean="Ð¹ " />
+	<block key="fehorse02_description_4" korean="Ð¹ " />
+	<block key="fehorse02_description_5" korean="Ð¹ " />
+	<block key="fehorse03_Name" korean="Ì³ÄÉ" />
+	<block key="fehorse03_description_1" korean="4" />
+	<block key="fehorse03_description_2" korean="4" />
+	<block key="fehorse04_Name" korean="ä´tÇ¼0®" />
+	<block key="fehorse04_description_1" korean="ä´tÇ¼0®" />
+	<block key="fehorse04_description_2" korean="ä´tÇ¼0®" />
+	<block key="fehorse05_Name" korean="·´¼(Ì0®" />
+	<block key="fehorse05_description_1" korean="ü­È\Õ " />
+	<block key="fehorse05_description_2" korean="ü­È\Õ " />
+	<block key="fehorse05_description_3" korean="ü­È\Õ " />
+	<block key="fehorse05_description_4" korean="ü­È\Õ " />
+	<block key="fehorse05_description_5" korean="ü­È\Õ " />
+	<block key="fehoundfire01_Name" korean="(Æ0®" />
+	<block key="fehoundfire01_description_1" korean=" Ó\¸°Æ\¸€½0Ñ " />
+	<block key="fehoundfire02_Name" korean="TÖüÅXÇ " />
+	<block key="fehoundfire02_description_1" korean=" Ó\¸°Æ" />
+	<block key="fehpminus_Name" korean="H" />
+	<block key="fehpminus_description_1" korean="H" />
+	<block key="feleo01_Name" korean="\Ö%¸XÇ " />
+	<block key="feleo01_description_1" korean="\Ô”¼ " />
+	<block key="feleo01_description_2" korean="\Ô”¼ " />
+	<block key="feleo01_description_3" korean="\Ô”¼ " />
+	<block key="feleo01_description_4" korean="\Ô”¼ " />
+	<block key="feleo01_description_5" korean="\Ô”¼ " />
+	<block key="feleo01_description_6" korean="\Ô”¼ " />
+	<block key="feleo01_description_7" korean="\Ô”¼ " />
+	<block key="feleo01_description_8" korean="\Ô”¼ " />
+	<block key="feleo02_Name" korean=" °tÎ\¸´Æ " />
+	<block key="feleo02_description_1" korean=" °tÎ\¸´Æ " />
+	<block key="feleo02_description_2" korean="È " />
+	<block key="feleo03_Name" korean="­íÓ\Õ " />
+	<block key="feleo03_description_1" korean="È " />
+	<block key="feleo03_description_2" korean="È " />
+	<block key="feleo03_description_3" korean="È " />
+	<block key="feleo03_description_4" korean="È " />
+	<block key="feleo03_description_5" korean="È " />
+	<block key="feleo03_description_6" korean="È " />
+	<block key="feleo04_Name" korean="ÄÖ$¸XÎ0®" />
+	<block key="feleo04_description_1" korean="^Å¼\¸ " />
+	<block key="feleodark01_Name" korean="´Å`´XÇ " />
+	<block key="feleodark01_description_1" korean=" Ó\¸°Æ\¸€½0Ñ " />
+	<block key="feleodark02_Name" korean="€¬@Ç " />
+	<block key="feleodark02_description_1" korean="È " />
+	<block key="feleodark03_Name" korean="´Å`´XÇ " />
+	<block key="feleodark03_description_1" korean="È " />
+	<block key="feleodark04_Name" korean="€¬@Ç " />
+	<block key="feleodark04_description_1" korean="^Å¼\¸ " />
+	<block key="feleodark05_Name" korean="´Å`´XÇ " />
+	<block key="feleodark05_description_1" korean="´ÅP´´Æ " />
+	<block key="fereindeer01_Name" korean="XÎ ÇXÇ " />
+	<block key="fereindeer01_description_1" korean="Â]¸ " />
+	<block key="fereindeer02_Name" korean="ÝÀtÈ " />
+	<block key="fereindeer02_description_1" korean="Â]¸ " />
+	<block key="fereindeer02_description_2" korean="Â]¸ " />
+	<block key="fereindeer02_description_3" korean="Â]¸ " />
+	<block key="fereindeer02_description_4" korean="Â]¸ " />
+	<block key="fereindeer02_description_5" korean="Â]¸ " />
+	<block key="fereindeer02_description_6" korean="Â]¸ " />
+	<block key="fereindeer02_description_7" korean="Â]¸ " />
+	<block key="fereindeer02_description_8" korean="Â]¸ " />
+	<block key="fereindeer03_Name" korean=" ÇxÇ" />
+	<block key="fereindeer03_description_1" korean="ÈÆ " />
+	<block key="fereindeer04_Name" korean=" ÇxÇ " />
+	<block key="fereindeer04_description_1" korean=" ÇxÇ " />
+	<block key="fereindeer05_Name" korean="XÎ ÇXÇ " />
+	<block key="fereindeer05_description_1" korean="Â]¸ " />
+	<block key="fespider01_Name" korean="p¬ø»É" />
+	<block key="fespider01_description_1" korean="È " />
+	<block key="fespider01_description_2" korean="È " />
+	<block key="fespider01_description_3" korean="È " />
+	<block key="fespider01_description_4" korean="È " />
+	<block key="fespider01_description_5" korean="È " />
+	<block key="fespider02_Name" korean="p¬ø»Å³" />
+	<block key="fespider02_description_1" korean="p¬ø»…ÇÐÅÁ " />
+	<block key="fespider03_Name" korean="p¬ø»É " />
+	<block key="fespider03_description_1" korean="ÑÐ¹ÂÇ" />
+	<block key="fespider04_Name" korean="p¬ø»XÇ " />
+	<block key="fespider04_description_1" korean="à¬" />
+	<block key="fespiderice01_Name" korean="H°È\Õ " />
+	<block key="fespiderice01_description_1" korean="p¬ø» " />
+	<block key="fespiderice01_description_2" korean="p¬ø» " />
+	<block key="fespiderice01_description_3" korean="p¬ø» " />
+	<block key="fespiderice01_description_4" korean="p¬ø» " />
+	<block key="fespiderice01_description_5" korean="p¬ø» " />
+	<block key="feturtle01_Name" korean="¼Ò¼Ò\Õ " />
+	<block key="feturtle01_description_1" korean="p¬½tÇ " />
+	<block key="feturtle01_description_2" korean="p¬½tÇ " />
+	<block key="feturtle01_description_3" korean="p¬½tÇ " />
+	<block key="feturtle01_description_4" korean="p¬½tÇ " />
+	<block key="feturtle01_description_5" korean="p¬½tÇ " />
+	<block key="feturtle01_description_6" korean="p¬½tÇ " />
+	<block key="feturtle01_description_7" korean="p¬½tÇ " />
+	<block key="feturtle01_description_8" korean="p¬½tÇ " />
+	<block key="feturtle02_Name" korean="¼Ò¼Ò\Õ " />
+	<block key="feturtle02_description_1" korean="p¬½tÇ " />
+	<block key="feturtle02_description_2" korean="p¬½tÇ " />
+	<block key="feturtle02_description_3" korean="p¬½tÇ " />
+	<block key="feturtle02_description_4" korean="p¬½tÇ " />
+	<block key="feturtle02_description_5" korean="p¬½tÇ " />
+	<block key="feturtle03_Name" korean=")¼´ÅXÇ " />
+	<block key="feturtle03_description_1" korean="è²è²\Õ " />
+	<block key="feturtle04_Name" korean="Í®ÈÉ " />
+	<block key="feturtle04_description_1" korean="Í®ÈÉ " />
+	<block key="feturtlefire01_Name" korean="(Æ0®" />
+	<block key="feturtlefire01_description_1" korean=" Ó\¸°Æ\¸€½0Ñ " />
+	<block key="feturtlefire02_Name" korean="TÖüÅl­" />
+	<block key="feturtlefire02_description_1" korean="…ÇÐÅÁ " />
+	<block key="fewolf01_Name" korean="‘²" />
+	<block key="fewolf01_description_1" korean="‘²" />
+	<block key="fewolf01_description_2" korean="‘²" />
+	<block key="fewolf01_description_3" korean="‘²" />
+	<block key="fewolf01_description_4" korean="‘²" />
+	<block key="fewolf01_description_5" korean="‘²" />
+	<block key="fewolf01_description_6" korean="‘²" />
+	<block key="fewolf01_description_7" korean="‘²" />
+	<block key="fewolf01_description_8" korean="‘²" />
+	<block key="fewolf02_Name" korean="­íÓ\Õ " />
+	<block key="fewolf02_description_1" korean="È " />
+	<block key="fewolf02_description_2" korean="È " />
+	<block key="fewolf02_description_3" korean="È " />
+	<block key="fewolf02_description_4" korean="È " />
+	<block key="fewolf02_description_5" korean="È " />
+	<block key="fewolf02_description_6" korean="È " />
+	<block key="fewolf02_description_7" korean="È " />
+	<block key="fewolf02_description_8" korean="È " />
+	<block key="fewolf03_Name" korean=" °tÎ\¸´Æ " />
+	<block key="fewolf03_description_1" korean="¬%¸\Õ " />
+	<block key="fewolfshadow01_Name" korean="@ÇàÂ" />
+	<block key="fewolfshadow01_description_1" korean=",Ò…ºTÖ " />
+	<block key="femagmafire01_Name" korean="È¹ø­È¹¾¸¤Â" />
+	<block key="femagmafire01_description_1" korean="ÈDÇ " />
+	<block key="femagmafire01_description_2" korean="ÈDÇ " />
+	<block key="femagmafire01_description_3" korean="ÈDÇ " />
+	<block key="femagmafire01_description_4" korean="ÈDÇ " />
+	<block key="femagmafire01_description_5" korean="ÈDÇ " />
+	<block key="feasterasfire01a_Name" korean="ˆ½C¯ " />
+	<block key="feasterasfire01a_description_1" korean="" />
+	<block key="fecarasha01a_Name" korean="ˆ½C¯ " />
+	<block key="fecarasha01a_description_1" korean="" />
+	<block key="fecarashafire01_Name" korean="ˆ½C¯ " />
+	<block key="fecarashafire01_description_1" korean="" />
+	<block key="fecarashafire01_description_2" korean="" />
+	<block key="fecarashafire01_description_3" korean="" />
+	<block key="fecarashafire01_description_4" korean="" />
+	<block key="fecarashafire01_description_5" korean="" />
+	<block key="fecarashafire01_description_6" korean="" />
+	<block key="fecarashafire01_description_7" korean="" />
+	<block key="fecarashafire01_description_8" korean="" />
+	<block key="fespider05_Name" korean="p¬ø»XÇ " />
+	<block key="fespider05_description_1" korean="à¬" />
+	<block key="fespider05_description_2" korean="à¬" />
+	<block key="fespider05_description_3" korean="à¬" />
+	<block key="fespider05_description_4" korean="à¬" />
+	<block key="fespider05_description_5" korean="à¬" />
+	<block key="fespider05_description_6" korean="à¬" />
+	<block key="fespider05_description_7" korean="à¬" />
+	<block key="fespider05_description_8" korean="à¬" />
+	<block key="febear04_Name" korean="¬,¸\Õ " />
+	<block key="febear04_description_1" korean="ð¬ÐÅÁ " />
+	<block key="febear04_description_2" korean="ð¬ÐÅÁ " />
+	<block key="febear04_description_3" korean="ð¬ÐÅÁ " />
+	<block key="febear04_description_4" korean="ð¬ÐÅÁ " />
+	<block key="febear04_description_5" korean="ð¬ÐÅÁ " />
+	<block key="febear04_description_6" korean="ð¬ÐÅÁ " />
+	<block key="febear04_description_7" korean="ð¬ÐÅÁ " />
+	<block key="febear04_description_8" korean="ð¬ÐÅÁ " />
+	<block key="fehorse10_Name" korean="`¾x¹ " />
+	<block key="fehorse10_description_1" korean="Ð¹ " />
+	<block key="fehorse10_description_2" korean="Ð¹ " />
+	<block key="fehorse10_description_3" korean="Ð¹ " />
+	<block key="fehorse10_description_4" korean="Ð¹ " />
+	<block key="fehorse10_description_5" korean="Ð¹ " />
+	<block key="fehorse10_description_6" korean="Ð¹ " />
+	<block key="fehorse10_description_7" korean="Ð¹ " />
+	<block key="fehorse10_description_8" korean="Ð¹ " />
+	<block key="fehorse06_Name" korean="" />
+	<block key="fehorse06_description_1" korean="´Å`´XÇ " />
+	<block key="fehorse06_description_2" korean="´Å`´XÇ " />
+	<block key="fehorse06_description_3" korean="´Å`´XÇ " />
+	<block key="fehorse06_description_4" korean="´Å`´XÇ " />
+	<block key="fehorse06_description_5" korean="´Å`´XÇ " />
+	<block key="fehorse06_description_6" korean="´Å`´XÇ " />
+	<block key="fehorse06_description_7" korean="´Å`´XÇ " />
+	<block key="fehorse06_description_8" korean="´Å`´XÇ " />
+	<block key="fecow06_Name" korean="è²è²\Õ " />
+	<block key="fecow06_description_1" korean="ŒÁ " />
+	<block key="fecow06_description_2" korean="ŒÁ " />
+	<block key="fecow06_description_3" korean="ŒÁ " />
+	<block key="fecow06_description_4" korean="ŒÁ " />
+	<block key="fecow06_description_5" korean="ŒÁ " />
+	<block key="fecow06_description_6" korean="ŒÁ " />
+	<block key="fecow06_description_7" korean="ŒÁ " />
+	<block key="fecow06_description_8" korean="ŒÁ " />
+	<block key="fereindeer06_Name" korean="ÝÀtÈ " />
+	<block key="fereindeer06_description_1" korean="Â]¸ " />
+	<block key="fereindeer06_description_2" korean="Â]¸ " />
+	<block key="fereindeer06_description_3" korean="Â]¸ " />
+	<block key="fereindeer06_description_4" korean="Â]¸ " />
+	<block key="fereindeer06_description_5" korean="Â]¸ " />
+	<block key="fereindeer06_description_6" korean="Â]¸ " />
+	<block key="fereindeer06_description_7" korean="Â]¸ " />
+	<block key="fereindeer06_description_8" korean="Â]¸ " />
+	<block key="feasteras06_Name" korean="ù¹,¸\Õ " />
+	<block key="feasteras06_description_1" korean="©ÆqÈ " />
+	<block key="feasteras06_description_2" korean="©ÆqÈ " />
+	<block key="feasteras06_description_3" korean="©ÆqÈ " />
+	<block key="feasteras06_description_4" korean="©ÆqÈ " />
+	<block key="feasteras06_description_5" korean="©ÆqÈ " />
+	<block key="feasteras06_description_6" korean="©ÆqÈ " />
+	<block key="feasteras06_description_7" korean="©ÆqÈ " />
+	<block key="feasteras06_description_8" korean="©ÆqÈ " />
+	<block key="feunihorse02_Name" korean="1Á¤Âì·´Æ " />
+	<block key="feunihorse02_description_1" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse02_description_2" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse02_description_3" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse02_description_4" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse02_description_5" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse02_description_6" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse02_description_7" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse02_description_8" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_Name" korean="1Á¤Âì·´Æ " />
+	<block key="feunihorse01_description_1" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_description_2" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_description_3" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_description_4" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_description_5" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_description_6" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_description_7" korean=" ÇÈ²XÏtÇ " />
+	<block key="feunihorse01_description_8" korean=" ÇÈ²XÏtÇ " />
+	<block key="fecarasha02_Name" korean="È¹á¸XÇ " />
+	<block key="fecarasha02_description_1" korean="©ÆqÈ " />
+	<block key="fecarasha02_description_2" korean="©ÆqÈ " />
+	<block key="fecarasha02_description_3" korean="©ÆqÈ " />
+	<block key="fecarasha02_description_4" korean="©ÆqÈ " />
+	<block key="fecarasha02_description_5" korean="©ÆqÈ " />
+	<block key="fecarasha02_description_6" korean="©ÆqÈ " />
+	<block key="fecarasha02_description_7" korean="©ÆqÈ " />
+	<block key="fecarasha02_description_8" korean="©ÆqÈ " />
+	<block key="fecarasha03_Name" korean="¬,¸\Õ " />
+	<block key="fecarasha03_description_1" korean="©ÆqÈ " />
+	<block key="fecarasha03_description_2" korean="©ÆqÈ " />
+	<block key="fecarasha03_description_3" korean="©ÆqÈ " />
+	<block key="fecarasha03_description_4" korean="©ÆqÈ " />
+	<block key="fecarasha03_description_5" korean="©ÆqÈ " />
+	<block key="fecarasha03_description_6" korean="©ÆqÈ " />
+	<block key="fecarasha03_description_7" korean="©ÆqÈ " />
+	<block key="fecarasha03_description_8" korean="©ÆqÈ " />
+	<block key="feleo07_Name" korean=" °tÎ\¸´Æ " />
+	<block key="feleo07_description_1" korean="\Ô”¼ " />
+	<block key="feleo07_description_2" korean="\Ô”¼ " />
+	<block key="feleo07_description_3" korean="\Ô”¼ " />
+	<block key="feleo07_description_4" korean="\Ô”¼ " />
+	<block key="feleo07_description_5" korean="\Ô”¼ " />
+	<block key="feleo07_description_6" korean="\Ô”¼ " />
+	<block key="feleo07_description_7" korean="\Ô”¼ " />
+	<block key="feleo07_description_8" korean="\Ô”¼ " />
+	<block key="feleo06_Name" korean=" °tÎ\¸´Æ " />
+	<block key="feleo06_description_1" korean="\Ô”¼ " />
+	<block key="feleo06_description_2" korean="\Ô”¼ " />
+	<block key="feleo06_description_3" korean="\Ô”¼ " />
+	<block key="feleo06_description_4" korean="\Ô”¼ " />
+	<block key="feleo06_description_5" korean="\Ô”¼ " />
+	<block key="feleo06_description_6" korean="\Ô”¼ " />
+	<block key="feleo06_description_7" korean="\Ô”¼ " />
+	<block key="feleo06_description_8" korean="\Ô”¼ " />
+	<block key="feleo05_Name" korean="ù¹,¸\Õ " />
+	<block key="feleo05_description_1" korean="\Ô”¼ " />
+	<block key="feleo05_description_2" korean="\Ô”¼ " />
+	<block key="feleo05_description_3" korean="\Ô”¼ " />
+	<block key="feleo05_description_4" korean="\Ô”¼ " />
+	<block key="feleo05_description_5" korean="\Ô”¼ " />
+	<block key="feleo05_description_6" korean="\Ô”¼ " />
+	<block key="feleo05_description_7" korean="\Ô”¼ " />
+	<block key="feleo05_description_8" korean="\Ô”¼ " />
+	<block key="feallepup01_Name" korean="à¬" />
+	<block key="feallepup01_Description_1" korean="à¬" />
+	<block key="feallepup01_Description_2" korean="à¬" />
+	<block key="feallepup01_Description_3" korean="à¬" />
+	<block key="feallepup01_Description_4" korean="à¬" />
+	<block key="feallepup01_Description_5" korean="à¬" />
+	<block key="feallepup01_Description_6" korean="à¬" />
+	<block key="feallepup01_Description_7" korean="à¬" />
+	<block key="feallepup01_Description_8" korean="à¬" />
+	<block key="Feliger01_Name" korean="¬7Æ"Ì0®" />
+	<block key="Feliger01_Description_1" korean="¬7ÆDÇ " />
+	<block key="Feliger01_Description_2" korean="¬7ÆDÇ " />
+	<block key="Feliger01_Description_3" korean="¬7ÆDÇ " />
+	<block key="Feliger01_Description_4" korean="¬7ÆDÇ " />
+	<block key="Feliger01_Description_5" korean="¬7ÆDÇ " />
+	<block key="Feliger01_Description_6" korean="¬7ÆDÇ " />
+	<block key="Feliger01_Description_7" korean="¬7ÆDÇ " />
+	<block key="Feliger01_Description_8" korean="¬7ÆDÇ " />
+	<block key="Feliger02_Name" korean="Æq¸\Õ " />
+	<block key="Feliger02_Description_1" korean="|·tÇè¸Ü´ " />
+	<block key="Feliger02_Description_2" korean="|·tÇè¸Ü´ " />
+	<block key="Feliger02_Description_3" korean="|·tÇè¸Ü´ " />
+	<block key="Feliger02_Description_4" korean="|·tÇè¸Ü´ " />
+	<block key="Feliger02_Description_5" korean="|·tÇè¸Ü´ " />
+	<block key="Feliger02_Description_6" korean="|·tÇè¸Ü´ " />
+	<block key="Feliger02_Description_7" korean="|·tÇè¸Ü´ " />
+	<block key="Feliger02_Description_8" korean="|·tÇè¸Ü´ " />
+	<block key="fesaurus01_Name" korean="ìÓtÇŒÉ " />
+	<block key="fesaurus01_Description_1" korean="¸ºÐÅ " />
+	<block key="fesaurus02_Name" korean="­íÓXÇ " />
+	<block key="fesaurus02_Description_1" korean="\ÕÂ¬ÐÅ " />
+	<block key="fesaurus03_Name" korean="à¬" />
+	<block key="fesaurus03_Description_1" korean="¬À°Æt¹¤Â " />
+	<block key="fesaurus03_Description_2" korean="¬À°Æt¹¤Â " />
+	<block key="fesaurus03_Description_3" korean="¬À°Æt¹¤Â " />
+	<block key="fesaurus03_Description_4" korean="¬À°Æt¹¤Â " />
+	<block key="fesaurus03_Description_5" korean="¬À°Æt¹¤Â " />
+	<block key="fesaurus03_Description_6" korean="¬À°Æt¹¤Â " />
+	<block key="fesaurus03_Description_7" korean="¬À°Æt¹¤Â " />
+	<block key="fesaurus03_Description_8" korean="¬À°Æt¹¤Â " />
+	<block key="febonedra01_Name" korean="ìÓtÇŒÉ " />
+	<block key="febonedra01_Description_1" korean="ø¼ " />
+	<block key="fefloatdra01_Name" korean="[¾XÇ " />
+	<block key="fefloatdra01_Description_1" korean="¸ºÐÅÁ " />
+	<block key="fesaurus04_Name" korean="íÓ,¸\Õ " />
+	<block key="fesaurus04_Description_1" korean="È)¼ " />
+	<block key="febonedra02_Name" korean="|Î °XÇ " />
+	<block key="febonedra02_Description_1" korean=" °tÎ\¸´Æ " />
+	<block key="feunihorse04_Name" korean="àÂD¾\Õ " />
+	<block key="feunihorse04_description_1" korean=" ÇÈ²XÏ " />
+	<block key="feunihorse04_description_2" korean=" ÇÈ²XÏ " />
+	<block key="feunihorse04_description_3" korean=" ÇÈ²XÏ " />
+	<block key="feunihorse04_description_4" korean=" ÇÈ²XÏ " />
+	<block key="feunihorse04_description_5" korean=" ÇÈ²XÏ " />
+	<block key="feunihorse04_description_6" korean=" ÇÈ²XÏ " />
+	<block key="feunihorse04_description_7" korean=" ÇÈ²XÏ " />
+	<block key="feunihorse04_description_8" korean=" ÇÈ²XÏ " />
+	<block key="Feliger03_Name" korean="„½x±XÇ " />
+	<block key="Feliger03_Description_1" korean="|·tÇp¬ " />
+	<block key="fedarkhorse01_Name" korean="TÅQ×XÇ " />
+	<block key="fedarkhorse01_Description_1" korean="" />
+	<block key="fedarkhorse01_Description_2" korean="" />
+	<block key="fedarkhorse01_Description_3" korean="" />
+	<block key="fedarkhorse01_Description_4" korean="" />
+	<block key="fedarkhorse01_Description_5" korean="" />
+	<block key="fedarkhorse01_Description_6" korean="" />
+	<block key="fedarkhorse01_Description_7" korean="" />
+	<block key="fedarkhorse01_Description_8" korean="" />
+	<block key="fedarkhorse02_Name" korean="TÅQ×XÇ " />
+	<block key="fedarkhorse02_Description_1" korean="TÅQ× " />
+	<block key="fepegasus01_Name" korean="Æ­XÇ " />
+	<block key="fepegasus01_Description_1" korean="˜Ó" />
+	<block key="fepegasus01_Description_2" korean="˜Ó" />
+	<block key="fepegasus01_Description_3" korean="˜Ó" />
+	<block key="fepegasus01_Description_4" korean="˜Ó" />
+	<block key="fepegasus01_Description_5" korean="˜Ó" />
+	<block key="fepegasus01_Description_6" korean="˜Ó" />
+	<block key="fepegasus01_Description_7" korean="˜Ó" />
+	<block key="fepegasus01_Description_8" korean="˜Ó" />
+	<block key="fepegasus02_Name" korean="XÖl×XÇ " />
+	<block key="fepegasus02_Description_1" korean="˜Ó" />
+	<block key="fepegasus02_Description_2" korean="˜Ó" />
+	<block key="fepegasus02_Description_3" korean="˜Ó" />
+	<block key="fepegasus02_Description_4" korean="˜Ó" />
+	<block key="fepegasus02_Description_5" korean="˜Ó" />
+	<block key="fepegasus02_Description_6" korean="˜Ó" />
+	<block key="fepegasus02_Description_7" korean="˜Ó" />
+	<block key="fepegasus02_Description_8" korean="˜Ó" />
+	<block key="feasteras04_Name" korean="€¬@Ç " />
+	<block key="feasteras04_description_1" korean="È " />
+	<block key="fefirebird05_Name" korean="ÈÀXÇ " />
+	<block key="fefirebird05_description_1" korean="ÈÀ " />
+	<block key="fefirebird05_description_2" korean="ÈÀ " />
+	<block key="fefirebird05_description_3" korean="ÈÀ " />
+	<block key="fefirebird05_description_4" korean="ÈÀ " />
+	<block key="fefirebird05_description_5" korean="ÈÀ " />
+	<block key="fefirebird05_description_6" korean="ÈÀ " />
+	<block key="fefirebird05_description_7" korean="ÈÀ " />
+	<block key="fefirebird05_description_8" korean="ÈÀ " />
+	<block key="fefirebird06_Name" korean="TÖüÅXÇ " />
+	<block key="fefirebird06_description_1" korean="ˆ½ÈÀ " />
+	<block key="fefirebird06_description_2" korean="ˆ½ÈÀ " />
+	<block key="fefirebird06_description_3" korean="ˆ½ÈÀ " />
+	<block key="fefirebird06_description_4" korean="ˆ½ÈÀ " />
+	<block key="fefirebird06_description_5" korean="ˆ½ÈÀ " />
+	<block key="fefirebird06_description_6" korean="ˆ½ÈÀ " />
+	<block key="fefirebird06_description_7" korean="ˆ½ÈÀ " />
+	<block key="fefirebird06_description_8" korean="ˆ½ÈÀ " />
+	<block key="fetoucan01_Name" korean="@ÆtÇˆ¼XÇ " />
+	<block key="fetoucan01_description_1" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan01_description_2" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan01_description_3" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan01_description_4" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan01_description_5" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan01_description_6" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan01_description_7" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan01_description_8" korean="@ÆtÇˆ¼ " />
+	<block key="fetoucan02_Name" korean="ðÅÁ " />
+	<block key="fetoucan02_description_1" korean="€½¬¹|¹ " />
+	<block key="fetoucan02_description_2" korean="€½¬¹|¹ " />
+	<block key="fetoucan02_description_3" korean="€½¬¹|¹ " />
+	<block key="fetoucan02_description_4" korean="€½¬¹|¹ " />
+	<block key="fetoucan02_description_5" korean="€½¬¹|¹ " />
+	<block key="fetoucan02_description_6" korean="€½¬¹|¹ " />
+	<block key="fetoucan02_description_7" korean="€½¬¹|¹ " />
+	<block key="fetoucan02_description_8" korean="€½¬¹|¹ " />
+	<block key="fehound01_Name" korean="­íÓ\Õ " />
+	<block key="fehound01_description_1" korean="XÕ´ÆÜ´ " />
+	<block key="fehound01_description_2" korean="XÕ´ÆÜ´ " />
+	<block key="fehound01_description_3" korean="XÕ´ÆÜ´ " />
+	<block key="fehound01_description_4" korean="XÕ´ÆÜ´ " />
+	<block key="fehound01_description_5" korean="XÕ´ÆÜ´ " />
+	<block key="fehound01_description_6" korean="XÕ´ÆÜ´ " />
+	<block key="fehound01_description_7" korean="XÕ´ÆÜ´ " />
+	<block key="fehound01_description_8" korean="XÕ´ÆÜ´ " />
+	<block key="feboar09_name" korean="­€·XÇ " />
+	<block key="feboar09_description_1" korean="ìÓXÎ " />
+	<block key="fesaurus05_name" korean="à¬" />
+	<block key="fesaurus05_description_1" korean="à¬" />
+	<block key="fetoucan03_name" korean="Æ<»XÇ " />
+	<block key="fetoucan03_description_1" korean="Æ<»tÇ " />
+	<block key="fefirebird08_Name" korean="ˆ½ÈÀXÇ " />
+	<block key="fefirebird08_description_1" korean="ˆ½ÈÀÐÅÁ " />
+	<block key="fefirebird07_Name" korean="1Á¤Âì·´Æ " />
+	<block key="fefirebird07_description_1" korean="ÈÀÐÅÁ " />
+	<block key="fereindeer07_Name" korean="ÝÀtÈXÇ " />
+	<block key="fereindeer07_description_1" korean="Â]¸tÇ " />
+	<block key="fereindeer07_description_2" korean="Â]¸tÇ " />
+	<block key="fereindeer07_description_3" korean="Â]¸tÇ " />
+	<block key="fereindeer07_description_4" korean="Â]¸tÇ " />
+	<block key="fereindeer07_description_5" korean="Â]¸tÇ " />
+	<block key="fereindeer07_description_6" korean="Â]¸tÇ " />
+	<block key="fereindeer07_description_7" korean="Â]¸tÇ " />
+	<block key="fereindeer07_description_8" korean="Â]¸tÇ " />
+	<block key="fewolf04_Name" korean="ù¹,¸\Õ " />
+	<block key="fewolf04_description_1" korean="‘²" />
+	<block key="febear06_Name" korean="¬,¸\Õ " />
+	<block key="febear06_description_1" korean="ð¬ " />
+	<block key="febear06_description_2" korean="ð¬ " />
+	<block key="febear06_description_3" korean="ð¬ " />
+	<block key="febear06_description_4" korean="ð¬ " />
+	<block key="febear06_description_5" korean="ð¬ " />
+	<block key="febear06_description_6" korean="ð¬ " />
+	<block key="febear06_description_7" korean="ð¬ " />
+	<block key="febear06_description_8" korean="ð¬ " />
+	<block key="feboar10_Name" korean="gºü³ÀÉXÇ " />
+	<block key="feboar10_description_1" korean="gºü³ÀÉÐÅÁ " />
+	<block key="fecow07_name" korean="„¼Ó\¸ " />
+	<block key="fecow07_description_1" korean="à¬" />
+	<block key="fecow07_description_2" korean="à¬" />
+	<block key="fecow07_description_3" korean="à¬" />
+	<block key="fecow07_description_4" korean="à¬" />
+	<block key="fecow07_description_5" korean="à¬" />
+	<block key="fecow07_description_6" korean="à¬" />
+	<block key="fecow07_description_7" korean="à¬" />
+	<block key="fecow07_description_8" korean="à¬" />
+	<block key="fecow08_name" korean=" " />
+	<block key="fecow08_description_1" korean="ŒÁ " />
+	<block key="fecow08_description_2" korean="ŒÁ " />
+	<block key="fecow08_description_3" korean="ŒÁ " />
+	<block key="fecow08_description_4" korean="ŒÁ " />
+	<block key="fecow08_description_5" korean="ŒÁ " />
+	<block key="fecow08_description_6" korean="ŒÁ " />
+	<block key="fecow08_description_7" korean="ŒÁ " />
+	<block key="fecow08_description_8" korean="ŒÁ " />
+	<block key="fecow10_name" korean="„¼Ó\¸XÇ " />
+	<block key="fecow10_description_1" korean="à¬" />
+	<block key="fecow09_name" korean="ÈŒÁXÇ " />
+	<block key="fecow09_description_1" korean="ÈŒÁÌ¹tÇ " />
+	<block key="fedragon01_name" korean="©ÆqÈXÇ " />
+	<block key="fedragon01_description_1" korean="à¬" />
+	<block key="fedragon01_description_2" korean="à¬" />
+	<block key="fedragon01_description_3" korean="à¬" />
+	<block key="fedragon01_description_4" korean="à¬" />
+	<block key="fedragon01_description_5" korean="à¬" />
+	<block key="fedragon01_description_6" korean="à¬" />
+	<block key="fedragon01_description_7" korean="à¬" />
+	<block key="fedragon01_description_8" korean="à¬" />
+	<block key="fedragon03_name" korean="©ÆqÈXÇ " />
+	<block key="fedragon03_description_1" korean="È¹•¼ " />
+	<block key="fedragon02_name" korean="©ÆqÈXÇ " />
+	<block key="fedragon02_description_1" korean="à¬" />
+	<block key="fedragon02_description_2" korean="à¬" />
+	<block key="fedragon02_description_3" korean="à¬" />
+	<block key="fedragon02_description_4" korean="à¬" />
+	<block key="fedragon02_description_5" korean="à¬" />
+	<block key="fedragon02_description_6" korean="à¬" />
+	<block key="fedragon02_description_7" korean="à¬" />
+	<block key="fedragon02_description_8" korean="à¬" />
+	<block key="feturtle05_name" korean="H°ÈÉ4® " />
+	<block key="feturtle05_description_1" korean="à¬" />
+	<block key="fehorse07_Name" korean="`¾x¹ " />
+	<block key="fehorse07_description_1" korean="Ð¹ " />
+	<block key="fehorse08_Name" korean="È,ÒÈxÇ " />
+	<block key="fehorse08_description_1" korean="Ð¹ " />
+	<block key="feleo08_Name" korean="¬,¸\Õ " />
+	<block key="feleo08_description_1" korean="\Ô”¼tÇ " />
+	<block key="fehound03_name" korean="XÕ´ÆÜ´XÇ " />
+	<block key="fehound03_description_1" korean="XÕ´ÆÜ´Ì¹tÇ " />
+	<block key="fereindeer08_Name" korean="è²è²\Õ " />
+	<block key="fereindeer08_description_1" korean="à¬" />
+	<block key="fereindeer08_description_2" korean="à¬" />
+	<block key="fereindeer08_description_3" korean="à¬" />
+	<block key="fereindeer08_description_4" korean="à¬" />
+	<block key="fereindeer08_description_5" korean="à¬" />
+	<block key="fereindeer08_description_6" korean="à¬" />
+	<block key="fereindeer08_description_7" korean="à¬" />
+	<block key="fereindeer08_description_8" korean="à¬" />
+	<block key="fereindeer09_Name" korean=" °5¸\Õ " />
+	<block key="fereindeer09_description_1" korean="Â]¸ " />
+	<block key="fespider06_Name" korean="à¬" />
+	<block key="fespider06_description_1" korean="à¬" />
+	<block key="fespider07_name" korean="H°H°\Õ " />
+	<block key="fespider07_description_1" korean="à¬" />
+	<block key="fewolf05_name" korean="‘²" />
+	<block key="fewolf05_description_1" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_name" korean="‘²" />
+	<block key="fewolf06_description_1" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_description_2" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_description_3" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_description_4" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_description_5" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_description_6" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_description_7" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf06_description_8" korean="ü¬p¬\¸€½0Ñ " />
+	<block key="fewolf07_name" korean="‘²" />
+	<block key="fewolf07_description_1" korean="‘²" />
+	<block key="fewolf07_description_2" korean="‘²" />
+	<block key="fewolf07_description_3" korean="‘²" />
+	<block key="fewolf07_description_4" korean="‘²" />
+	<block key="fewolf07_description_5" korean="‘²" />
+	<block key="fewolf07_description_6" korean="‘²" />
+	<block key="fewolf07_description_7" korean="‘²" />
+	<block key="fewolf07_description_8" korean="‘²" />
+	<block key="fefloatdra02_Name" korean="Ü´˜·ä¬XÇ " />
+	<block key="fefloatdra02_description_1" korean="à¬" />
+	<block key="fellow_mode0_name" korean="õ¬©¬¨ºÜ´" />
+	<block key="fellow_mode0_description_1" korean="1" />
+	<block key="fellow_mode1_name" korean="½¬Ä¬¨ºÜ´" />
+	<block key="fellow_mode1_description_1" korean="üÈxÇ " />
+	<block key="fellow_mode2_name" korean="" />
+	<block key="fellow_mode2_description_1" korean="õ¬©¬ " />
+	<block key="fellow_Stop_name" korean="¬À©ÆHÅhÕ" />
+	<block key="fellow_Stop_description_1" korean="¬À©ÆHÅhÕ" />
+	<block key="fellow_movemode1_name" korean="ÇXÎÀÉÈ" />
+	<block key="fellow_movemode1_description_1" korean="2" />
+	<block key="fellow_movemode0_name" korean="0µ|·" />
+	<block key="fellow_movemode0_description_1" korean="0®ø¼ " />
+	<block key="fellow_attack_name" korean="" />
+	<block key="fellow_attack_description_1" korean="ÀÉÈ´ " />
+	<block key="feliger04_name" korean="­0®XÇ " />
+	<block key="feliger04_description_1" korean="ÀÉÈ´ " />
+	<block key="feliger04_description_2" korean="ÀÉÈ´ " />
+	<block key="feliger04_description_3" korean="ÀÉÈ´ " />
+	<block key="feliger04_description_4" korean="ÀÉÈ´ " />
+	<block key="feliger04_description_5" korean="ÀÉÈ´ " />
+	<block key="feliger04_description_6" korean="ÀÉÈ´ " />
+	<block key="feliger04_description_7" korean="ÀÉÈ´ " />
+	<block key="feliger04_description_8" korean="ÀÉÈ´ " />
+	<block key="feliger05_name" korean="­0®XÇ " />
+	<block key="feliger05_description_1" korean="ÀÉÈ´ " />
+	<block key="feliger05_description_2" korean="ÀÉÈ´ " />
+	<block key="feliger05_description_3" korean="ÀÉÈ´ " />
+	<block key="feliger05_description_4" korean="ÀÉÈ´ " />
+	<block key="feliger05_description_5" korean="ÀÉÈ´ " />
+	<block key="feliger05_description_6" korean="ÀÉÈ´ " />
+	<block key="feliger05_description_7" korean="ÀÉÈ´ " />
+	<block key="feliger05_description_8" korean="ÀÉÈ´ " />
+	<block key="fecarasha04_name" korean="È¹ø­È¹ " />
+	<block key="fecarasha04_description_1" korean="¹ÒÈ " />
+	<block key="fellow_reinforce_name" korean=" Ó\¸°Æ " />
+	<block key="fellow_seal_name" korean=" Ó\¸°Æ " />
+	<block key="fellow_synthesis_name" korean="	½xÇ5ÆXÁ " />
+	<block key="feimmunebody_Name" korean="<»¬¹tºíÅ" />
+	<block key="feimmunebody_Description_1" korean="ÈÐÅŒ¬ " />
+	<block key="febear05_name" korean="‘Å¼ " />
+	<block key="febear05_Description_1" korean="ÈDÇ " />
+	<block key="febear05_Description_2" korean="ÈDÇ " />
+	<block key="febear05_Description_3" korean="ÈDÇ " />
+	<block key="febear05_Description_4" korean="ÈDÇ " />
+	<block key="febear05_Description_5" korean="ÈDÇ " />
+	<block key="feeturtle01_name" korean="¤Â$±tÇlÐ " />
+	<block key="feeturtle01_Description_1" korean="¬%¸\Õ " />
+	<block key="feeturtle01_Description_2" korean="¬%¸\Õ " />
+	<block key="feeturtle01_Description_3" korean="¬%¸\Õ " />
+	<block key="feeturtle01_Description_4" korean="¬%¸\Õ " />
+	<block key="feeturtle01_Description_5" korean="¬%¸\Õ " />
+	<block key="feeturtle01_Description_6" korean="¬%¸\Õ " />
+	<block key="feeturtle01_Description_7" korean="¬%¸\Õ " />
+	<block key="feeturtle01_Description_8" korean="¬%¸\Õ " />
+	<block key="feliger06_name" korean="à¬" />
+	<block key="feliger06_Description_1" korean="|·tÇè¸Ü´Ì¹ " />
+	<block key="fehorse09_name" korean="ˆ½t­XÇ " />
+	<block key="fehorse09_Description_1" korean="Ð¹ " />
+	<block key="fehorse09_Description_2" korean="Ð¹ " />
+	<block key="fehorse09_Description_3" korean="Ð¹ " />
+	<block key="fehorse09_Description_4" korean="Ð¹ " />
+	<block key="fehorse09_Description_5" korean="Ð¹ " />
+	<block key="fehorse09_Description_6" korean="Ð¹ " />
+	<block key="fehorse09_Description_7" korean="Ð¹ " />
+	<block key="fehorse09_Description_8" korean="Ð¹ " />
+	<block key="fematura00_name" korean="Ó4­XÇ " />
+	<block key="fematura00_Description_1" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura00_Description_2" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura00_Description_3" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura00_Description_4" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura00_Description_5" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura00_Description_6" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura00_Description_7" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura00_Description_8" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_name" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura01_Description_1" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_Description_2" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_Description_3" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_Description_4" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_Description_5" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_Description_6" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_Description_7" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura01_Description_8" korean="Î¤Â|Ó¸ÒXÇ " />
+	<block key="fematura02_name" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura02_Description_1" korean="\Õˆ¼XÇ " />
+	<block key="fematura02_Description_2" korean="\Õˆ¼XÇ " />
+	<block key="fematura02_Description_3" korean="\Õˆ¼XÇ " />
+	<block key="fematura02_Description_4" korean="\Õˆ¼XÇ " />
+	<block key="fematura02_Description_5" korean="\Õˆ¼XÇ " />
+	<block key="fematura02_Description_6" korean="\Õˆ¼XÇ " />
+	<block key="fematura02_Description_7" korean="\Õˆ¼XÇ " />
+	<block key="fematura02_Description_8" korean="\Õˆ¼XÇ " />
+	<block key="fefrostdrag01_name" korean="É°0®¼¬À" />
+	<block key="fefrostdrag01_Description_1" korean="ÈDÇ " />
+	<block key="fefrostdrag01_Description_2" korean="ÈDÇ " />
+	<block key="fefrostdrag01_Description_3" korean="ÈDÇ " />
+	<block key="fefrostdrag01_Description_4" korean="ÈDÇ " />
+	<block key="fefrostdrag01_Description_5" korean="ÈDÇ " />
+	<block key="fefrostdrag01_Description_6" korean="ÈDÇ " />
+	<block key="fefrostdrag01_Description_7" korean="ÈDÇ " />
+	<block key="fefrostdrag01_Description_8" korean="ÈDÇ " />
+	<block key="fefrostdrag02_name" korean="É°0® " />
+	<block key="fefrostdrag02_Description_1" korean=" °¬|¹ " />
+	<block key="fefrostdrag02_Description_2" korean=" °¬|¹ " />
+	<block key="fefrostdrag02_Description_3" korean=" °¬|¹ " />
+	<block key="fefrostdrag02_Description_4" korean=" °¬|¹ " />
+	<block key="fefrostdrag02_Description_5" korean=" °¬|¹ " />
+	<block key="fefrostdrag02_Description_6" korean=" °¬|¹ " />
+	<block key="fefrostdrag02_Description_7" korean=" °¬|¹ " />
+	<block key="fefrostdrag02_Description_8" korean=" °¬|¹ " />
+	<block key="fefrostdrag03_name" korean="É°0®¾¸¤Â" />
+	<block key="fefrostdrag03_Description_1" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag03_Description_2" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag03_Description_3" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag03_Description_4" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag03_Description_5" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag03_Description_6" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag03_Description_7" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag03_Description_8" korean="ÈDÇ¥ÕtÕ " />
+	<block key="fefrostdrag04_name" korean="¬,¸\Õ " />
+	<block key="fefrostdrag04_Description_1" korean="(Ì" />
+	<block key="fefrostdrag04_Description_2" korean="(Ì" />
+	<block key="fefrostdrag04_Description_3" korean="(Ì" />
+	<block key="fefrostdrag04_Description_4" korean="(Ì" />
+	<block key="fefrostdrag04_Description_5" korean="(Ì" />
+	<block key="fefrostdrag04_Description_6" korean="(Ì" />
+	<block key="fefrostdrag04_Description_7" korean="(Ì" />
+	<block key="fefrostdrag04_Description_8" korean="(Ì" />
+	<block key="feostrich01_name" korean="ÀÐpÈXÇ " />
+	<block key="feostrich01_Description_1" korean="ÀÐpÈ " />
+	<block key="feostrich01_Description_2" korean="ÀÐpÈ " />
+	<block key="feostrich01_Description_3" korean="ÀÐpÈ " />
+	<block key="feostrich01_Description_4" korean="ÀÐpÈ " />
+	<block key="feostrich01_Description_5" korean="ÀÐpÈ " />
+	<block key="feostrich02_name" korean="¬,¸\Õ " />
+	<block key="feostrich02_Description_1" korean="ÀÐpÈXÇ " />
+	<block key="feostrich03_name" korean="`¾x¹ " />
+	<block key="feostrich03_Description_1" korean="ÀÐpÈXÇ " />
+	<block key="feostrich03_Description_2" korean="ÀÐpÈXÇ " />
+	<block key="feostrich03_Description_3" korean="ÀÐpÈXÇ " />
+	<block key="feostrich03_Description_4" korean="ÀÐpÈXÇ " />
+	<block key="feostrich03_Description_5" korean="ÀÐpÈXÇ " />
+	<block key="fecarahsa05_name" korean="È¹ø­È¹ " />
+	<block key="fecarahsa05_description_1" korean="¹ÒÈ " />
+	<block key="fefrostdrag05_name" korean="É°0®¾¸¤Â" />
+	<block key="fefrostdrag05_Description_1" korean="ÈDÇ¥ÕtÕ " />
+	<block key="feshirebird04_name" korean="¬,¸\Õ " />
+	<block key="feshirebird04_description_1" korean="œÌe´D¾…ºÈÀXÇ " />
+	<block key="feshirebird03_name" korean="Ì³©¬ " />
+	<block key="feshirebird03_description_1" korean="È)¼XÇ " />
+	<block key="feshriekbird01_name" korean="D¾…ºÈÀXÇ " />
+	<block key="feshriekbird01_description_1" korean="D¾…ºÈÀ " />
+	<block key="feshriekbird01_description_2" korean="D¾…ºÈÀ " />
+	<block key="feshriekbird01_description_3" korean="D¾…ºÈÀ " />
+	<block key="feshriekbird01_description_4" korean="D¾…ºÈÀ " />
+	<block key="feshriekbird01_description_5" korean="D¾…ºÈÀ " />
+	<block key="feshriekbird01_description_6" korean="D¾…ºÈÀ " />
+	<block key="feshriekbird01_description_7" korean="D¾…ºÈÀ " />
+	<block key="feshriekbird01_description_8" korean="D¾…ºÈÀ " />
+	<block key="feskyseahorse01_name" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse01_description_1" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse01_description_2" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse01_description_3" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse01_description_4" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse01_description_5" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse01_description_6" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse01_description_7" korean="tÕÈ¹XÇ " />
+	<block key="feshriekbird02_name" korean="D¾…ºXÇ " />
+	<block key="feshriekbird02_description_1" korean="xÔx¹ " />
+	<block key="feparnaice01_name" korean="\ÕÓ " />
+	<block key="feparnaice01_description_1" korean="(Ì" />
+	<block key="feparnaice02_name" korean="ä¹Á´Æ " />
+	<block key="feparnaice02_description_1" korean="ä¹Á´Æ " />
+	<block key="feparnaice03_name" korean="9ÖÅ³\Õ " />
+	<block key="feparnaice03_description_1" korean="9ÖÅ³\Õ " />
+	<block key="fedarkenergy01_name" korean="È¹0® " />
+	<block key="fedarkenergy01_description_1" korean="ÑÅÇ€·XÇ " />
+	<block key="fecow11_Name" korean="¬,¸\Õ " />
+	<block key="fecow11_description_1" korean="ŒÁXÇ " />
+	<block key="fehound04_name" korean="È,ÒÈxÇ " />
+	<block key="fehound04_description_1" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_name" korean="È$ÁXÇ " />
+	<block key="fenightmare01_description_1" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_2" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_3" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_4" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_5" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_6" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_7" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_8" korean="ÑÅÇ€· " />
+	<block key="fenightmare01_description_9" korean="ÑÅÇ€· " />
+	<block key="femegantes05_name" korean="ÀÉ%ÆXÇ " />
+	<block key="femegantes05_description_1" korean="ÀÉ%Æ<Ç\¸ " />
+	<block key="feeturle01_name" korean="è²è²\Õ " />
+	<block key="feeturle01_description_1" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_2" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_3" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_4" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_5" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_6" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_7" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_8" korean="ÑÅÇ€· " />
+	<block key="feeturle01_description_9" korean="ÑÅÇ€· " />
+	<block key="femegantes01_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes01_description_1" korean="Tº¬LÑ¤Â " />
+	<block key="femegantes01_description_2" korean="Tº¬LÑ¤Â " />
+	<block key="femegantes01_description_3" korean="Tº¬LÑ¤Â " />
+	<block key="femegantes01_description_4" korean="Tº¬LÑ¤Â " />
+	<block key="femegantes01_description_5" korean="Tº¬LÑ¤Â " />
+	<block key="femegantes01_description_6" korean="Tº¬LÑ¤Â " />
+	<block key="femegantes01_description_7" korean="Tº¬LÑ¤Â " />
+	<block key="femegantes01_description_8" korean="Tº¬LÑ¤Â " />
+	<block key="feauhorse01_Name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feauhorse01_description_1" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feauhorse01_description_2" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feauhorse01_description_3" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feauhorse01_description_4" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feauhorse01_description_5" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="fedragon05_name" korean="õ¬ìÓXÇ " />
+	<block key="fedragon05_description_1" korean="Ü´˜·ä¬ " />
+	<block key="fetoucan04_name" korean="È¹%¸XÇ " />
+	<block key="fetoucan04_description_1" korean="¸ºHÅÐÅ " />
+	<block key="femegantes06_name" korean="EÅ½ºXÇ " />
+	<block key="femegantes06_description_1" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_description_2" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_description_3" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_description_4" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_description_5" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_description_6" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_description_7" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes06_description_8" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="fehound02_name" korean="XÕ´ÆÜ´XÇ " />
+	<block key="fehound02_description_1" korean="XÕ´ÆÜ´ " />
+	<block key="fecarasha06_name" korean="È¹á¸XÇ " />
+	<block key="fecarasha06_description_1" korean="©ÆqÈ " />
+	<block key="febonedra03_name" korean="Æ<ÖXÇ " />
+	<block key="febonedra03_description_1" korean="¿ " />
+	<block key="febonedra03_description_2" korean="¿ " />
+	<block key="febonedra03_description_3" korean="¿ " />
+	<block key="febonedra03_description_4" korean="¿ " />
+	<block key="febonedra03_description_5" korean="¿ " />
+	<block key="febonedra03_description_6" korean="¿ " />
+	<block key="febonedra03_description_7" korean="¿ " />
+	<block key="febonedra03_description_8" korean="¿ " />
+	<block key="feskyseahorse05_name" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse05_description_1" korean="tÕÈ¹XÇ " />
+	<block key="feskyseahorse02_name" korean="¬%¸\Õ " />
+	<block key="feskyseahorse02_description_1" korean="¬%¸\Õ " />
+	<block key="femegantes03_name" korean="¬\Õ " />
+	<block key="femegantes03_description_1" korean="¬\Õ " />
+	<block key="femegantes03_description_2" korean="¬\Õ " />
+	<block key="femegantes03_description_3" korean="¬\Õ " />
+	<block key="femegantes03_description_4" korean="¬\Õ " />
+	<block key="femegantes03_description_5" korean="¬\Õ " />
+	<block key="femegantes03_description_6" korean="¬\Õ " />
+	<block key="femegantes03_description_7" korean="¬\Õ " />
+	<block key="femegantes03_description_8" korean="¬\Õ " />
+	<block key="femegantes02_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_1" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_2" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_3" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_4" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_5" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_6" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_7" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes02_description_8" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_1" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_2" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_3" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_4" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_5" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_6" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_7" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="femegantes04_description_8" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="fematura03_Name" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_1" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_2" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_3" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_4" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_5" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_6" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_7" korean="ÀÉ%ÆXÇ " />
+	<block key="fematura03_description_8" korean="ÀÉ%ÆXÇ " />
+	<block key="feasuhorse01_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse01_description_1" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feasuhorse01_description_2" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feasuhorse01_description_3" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feasuhorse01_description_4" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feasuhorse01_description_5" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feasuhorse01_description_6" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feasuhorse01_description_7" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feasuhorse01_description_8" korean="DÅìÓ|Î½¹¤Â " />
+	<block key="feraptor02_name" korean="©·0ÑXÇ " />
+	<block key="feraptor02_description_1" korean="©·0Ñ " />
+	<block key="feraptor02_description_2" korean="©·0Ñ " />
+	<block key="feraptor02_description_3" korean="©·0Ñ " />
+	<block key="feraptor02_description_4" korean="©·0Ñ " />
+	<block key="feraptor02_description_5" korean="©·0Ñ " />
+	<block key="feraptor02_description_6" korean="©·0Ñ " />
+	<block key="feraptor02_description_7" korean="©·0Ñ " />
+	<block key="feraptor02_description_8" korean="©·0Ñ " />
+	<block key="feraptor01_name" korean="©·0ÑXÇ " />
+	<block key="feraptor01_description_1" korean="©·0ÑXÇ " />
+	<block key="feraptor03_name" korean="­€·XÇ " />
+	<block key="feraptor03_description_1" korean="­íÓ\Õ " />
+	<block key="feraptor03_description_2" korean="­íÓ\Õ " />
+	<block key="feraptor03_description_3" korean="­íÓ\Õ " />
+	<block key="feraptor03_description_4" korean="­íÓ\Õ " />
+	<block key="feraptor03_description_5" korean="­íÓ\Õ " />
+	<block key="fepegasus04_name" korean="Ô¿XÇ " />
+	<block key="fepegasus04_description_1" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasus04_description_2" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasus04_description_3" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasus04_description_4" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasus04_description_5" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasus04_description_6" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasus04_description_7" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasus03_name" korean="¬%¸\Õ " />
+	<block key="fepegasus03_description_1" korean="^Å¼DÇ " />
+	<block key="fepegasus03_description_2" korean="^Å¼DÇ " />
+	<block key="fepegasus03_description_3" korean="^Å¼DÇ " />
+	<block key="fepegasus03_description_4" korean="^Å¼DÇ " />
+	<block key="fepegasus03_description_5" korean="^Å¼DÇ " />
+	<block key="fepegasus03_description_6" korean="^Å¼DÇ " />
+	<block key="fepegasus03_description_7" korean="^Å¼DÇ " />
+	<block key="fesaurus06_name" korean="È9¸XÇ " />
+	<block key="fesaurus06_description_1" korean="È9¸XÇ " />
+	<block key="feowl01_name" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl01_description_1" korean=",Æ0¼ø»" />
+	<block key="feowl01_description_2" korean=",Æ0¼ø»" />
+	<block key="feowl01_description_3" korean=",Æ0¼ø»" />
+	<block key="feowl01_description_4" korean=",Æ0¼ø»" />
+	<block key="feowl01_description_5" korean=",Æ0¼ø»" />
+	<block key="feowl01_description_6" korean=",Æ0¼ø»" />
+	<block key="feowl01_description_7" korean=",Æ0¼ø»" />
+	<block key="feowl01_description_8" korean=",Æ0¼ø»" />
+	<block key="feowl02_name" korean=" °tÎ\¸´Æ " />
+	<block key="feowl02_description_1" korean=",Æ|¾ø» " />
+	<block key="feowl02_description_2" korean=",Æ|¾ø» " />
+	<block key="feowl02_description_3" korean=",Æ|¾ø» " />
+	<block key="feowl02_description_4" korean=",Æ|¾ø» " />
+	<block key="feowl02_description_5" korean=",Æ|¾ø» " />
+	<block key="feowl02_description_6" korean=",Æ|¾ø» " />
+	<block key="feowl02_description_7" korean=",Æ|¾ø» " />
+	<block key="feowl02_description_8" korean=",Æ|¾ø» " />
+	<block key="feowl03_name" korean="½ºXÖXÇ " />
+	<block key="feowl03_description_1" korean=",Æ|¾ø» " />
+	<block key="feowl03_description_2" korean=",Æ|¾ø» " />
+	<block key="feowl03_description_3" korean=",Æ|¾ø» " />
+	<block key="feowl03_description_4" korean=",Æ|¾ø» " />
+	<block key="feowl03_description_5" korean=",Æ|¾ø» " />
+	<block key="feowl03_description_6" korean=",Æ|¾ø» " />
+	<block key="feowl03_description_7" korean=",Æ|¾ø» " />
+	<block key="feowl03_description_8" korean=",Æ|¾ø» " />
+	<block key="feowl04_name" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_1" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_2" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_3" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_4" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_5" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_6" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_7" korean=",Æ|¾ø»XÇ " />
+	<block key="feowl04_description_8" korean=",Æ|¾ø»XÇ " />
+	<block key="fehound05_name" korean="¬%¸\Õ " />
+	<block key="fehound05_description_1" korean="XÕ´ÆÜ´ " />
+	<block key="fehound05_description_2" korean="XÕ´ÆÜ´ " />
+	<block key="fehound05_description_3" korean="XÕ´ÆÜ´ " />
+	<block key="fehound05_description_4" korean="XÕ´ÆÜ´ " />
+	<block key="fehound05_description_5" korean="XÕ´ÆÜ´ " />
+	<block key="fehound05_description_6" korean="XÕ´ÆÜ´ " />
+	<block key="fehound05_description_7" korean="XÕ´ÆÜ´ " />
+	<block key="fehound05_description_8" korean="XÕ´ÆÜ´ " />
+	<block key="fegarmu01_name" korean="" />
+	<block key="fegarmu01_description_1" korean="" />
+	<block key="fegarmu01_description_2" korean="" />
+	<block key="fegarmu01_description_3" korean="" />
+	<block key="fegarmu01_description_4" korean="" />
+	<block key="fegarmu01_description_5" korean="" />
+	<block key="fegarmu01_description_6" korean="" />
+	<block key="fegarmu01_description_7" korean="" />
+	<block key="fegarmu01_description_8" korean="" />
+	<block key="fegarmu02_name" korean="¬%¸\Õ " />
+	<block key="fegarmu02_description_1" korean="" />
+	<block key="fegarmu02_description_2" korean="" />
+	<block key="fegarmu02_description_3" korean="" />
+	<block key="fegarmu02_description_4" korean="" />
+	<block key="fegarmu02_description_5" korean="" />
+	<block key="fegarmu02_description_6" korean="" />
+	<block key="fegarmu02_description_7" korean="" />
+	<block key="fegarmu02_description_8" korean="" />
+	<block key="fegarmu03_name" korean="ÀÉ%ÆXÇ " />
+	<block key="fegarmu03_description_1" korean="" />
+	<block key="fegarmu03_description_2" korean="" />
+	<block key="fegarmu03_description_3" korean="" />
+	<block key="fegarmu03_description_4" korean="" />
+	<block key="fegarmu03_description_5" korean="" />
+	<block key="fegarmu03_description_6" korean="" />
+	<block key="fegarmu03_description_7" korean="" />
+	<block key="fegarmu03_description_8" korean="" />
+	<block key="fegarmu04_name" korean="" />
+	<block key="fegarmu04_description_1" korean="" />
+	<block key="fegarmu04_description_2" korean="" />
+	<block key="fegarmu04_description_3" korean="" />
+	<block key="fegarmu04_description_4" korean="" />
+	<block key="fegarmu04_description_5" korean="" />
+	<block key="fegarmu04_description_6" korean="" />
+	<block key="fegarmu04_description_7" korean="" />
+	<block key="fegarmu04_description_8" korean="" />
+	<block key="fetiger01_name" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_1" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_2" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_3" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_4" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_5" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_6" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_7" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger01_description_8" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger02_name" korean="8Ö‘·tÇXÇ " />
+	<block key="fetiger02_description_1" korean="8Ö‘·tÇ " />
+	<block key="fetiger02_description_2" korean="8Ö‘·tÇ " />
+	<block key="fetiger02_description_3" korean="8Ö‘·tÇ " />
+	<block key="fetiger02_description_4" korean="8Ö‘·tÇ " />
+	<block key="fetiger02_description_5" korean="8Ö‘·tÇ " />
+	<block key="fetiger02_description_6" korean="8Ö‘·tÇ " />
+	<block key="fetiger02_description_7" korean="8Ö‘·tÇ " />
+	<block key="fetiger02_description_8" korean="8Ö‘·tÇ " />
+	<block key="feydrag01_name" korean="Ü´|·àÏXÇ " />
+	<block key="feydrag01_description_1" korean="´Å°¹ " />
+	<block key="feydrag01_description_2" korean="´Å°¹ " />
+	<block key="feydrag01_description_3" korean="´Å°¹ " />
+	<block key="feydrag01_description_4" korean="´Å°¹ " />
+	<block key="feydrag01_description_5" korean="´Å°¹ " />
+	<block key="feydrag01_description_6" korean="´Å°¹ " />
+	<block key="feydrag01_description_7" korean="´Å°¹ " />
+	<block key="feydrag01_description_8" korean="´Å°¹ " />
+	<block key="feydrag02_name" korean="Ü´|·àÏXÇ " />
+	<block key="feydrag02_description_1" korean="´Å°¹ " />
+	<block key="feydrag02_description_2" korean="´Å°¹ " />
+	<block key="feydrag02_description_3" korean="´Å°¹ " />
+	<block key="feydrag02_description_4" korean="´Å°¹ " />
+	<block key="feydrag02_description_5" korean="´Å°¹ " />
+	<block key="feydrag02_description_6" korean="´Å°¹ " />
+	<block key="feydrag02_description_7" korean="´Å°¹ " />
+	<block key="feydrag02_description_8" korean="´Å°¹ " />
+	<block key="fefrostdrag07_name" korean="É°0®XÇ " />
+	<block key="fefrostdrag07_description_1" korean="(Ì" />
+	<block key="fefrostdrag07_description_2" korean="(Ì" />
+	<block key="fefrostdrag07_description_3" korean="(Ì" />
+	<block key="fefrostdrag07_description_4" korean="(Ì" />
+	<block key="fefrostdrag07_description_5" korean="(Ì" />
+	<block key="fefrostdrag07_description_6" korean="(Ì" />
+	<block key="fefrostdrag07_description_7" korean="(Ì" />
+	<block key="fefrostdrag07_description_8" korean="(Ì" />
+	<block key="fefrostdrag06_name" korean="(Ì" />
+	<block key="fefrostdrag06_Description_1" korean="Á¬¹ " />
+	<block key="fefairy01_name" korean="”ÆÈXÇ " />
+	<block key="fefairy01_Description_1" korean="”ÆÈXÇ " />
+	<block key="ferex01_name" korean=" ÌôÑ " />
+	<block key="ferex01_Description_1" korean=" ÌôÑ|¹ " />
+	<block key="fechief01_name" korean="8ÁŒ¬ " />
+	<block key="fechief01_Description_1" korean="¬XÕŒ¬ " />
+	<block key="feghost01_name" korean="´Å`´XÇ " />
+	<block key="feghost01_Description_1" korean="´Å`´XÇ " />
+	<block key="febragsham01_name" korean="XÎ Ç" />
+	<block key="febragsham01_Description_1" korean="äÀ<ºtÇ " />
+	<block key="febragihunter01_name" korean="XÎ…ºÈxÇ " />
+	<block key="febragihunter01_Description_1" korean="TÖ´ÀÐÅ " />
+	<block key="febragibrave01_name" korean="Ô(Ì " />
+	<block key="febragibrave01_Description_1" korean="üÈÀ¼XÇ " />
+	<block key="febragibrave02_name" korean="µÑ˜°4» " />
+	<block key="febragibrave02_Description_1" korean="üÈÀ¼XÇ " />
+	<block key="febragifighter01_name" korean="¬ ¼0®" />
+	<block key="febragifighter01_Description_1" korean="ÑÉÉ%¸DÇ " />
+	<block key="fereindeer11_name" korean="¬%¸\Õ " />
+	<block key="fereindeer11_Description_1" korean="Â]¸ " />
+	<block key="fereindeer10_name" korean="¬%¸\Õ " />
+	<block key="fereindeer10_Description_1" korean="Â]¸ " />
+	<block key="fepet01_name" korean="ØÅ4Ð$±¤ÂXÇ " />
+	<block key="fepet01_description_1" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet01_description_2" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet01_description_3" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet01_description_4" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet01_description_5" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet01_description_6" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet01_description_7" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet01_description_8" korean="ØÅ4Ð$±¤Â " />
+	<block key="fepet02_name" korean="	¸¤ÂXÇ " />
+	<block key="fepet02_description_1" korean="¬Â¥Ç " />
+	<block key="fepet02_description_2" korean="¬Â¥Ç " />
+	<block key="fepet02_description_3" korean="¬Â¥Ç " />
+	<block key="fepet02_description_4" korean="¬Â¥Ç " />
+	<block key="fepet02_description_5" korean="¬Â¥Ç " />
+	<block key="fepet02_description_6" korean="¬Â¥Ç " />
+	<block key="fepet02_description_7" korean="¬Â¥Ç " />
+	<block key="fepet02_description_8" korean="¬Â¥Ç " />
+	<block key="fepet03_name" korean="¾|·0® " />
+	<block key="fepet03_description_1" korean="¾|·0® " />
+	<block key="fepet03_description_2" korean="¾|·0® " />
+	<block key="fepet03_description_3" korean="¾|·0® " />
+	<block key="fepet03_description_4" korean="¾|·0® " />
+	<block key="fepet03_description_5" korean="¾|·0® " />
+	<block key="fepet03_description_6" korean="¾|·0® " />
+	<block key="fepet03_description_7" korean="¾|·0® " />
+	<block key="fepet03_description_8" korean="¾|·0® " />
+	<block key="fepet04_name" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_1" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_2" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_3" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_4" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_5" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_6" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_7" korean=" ÇÈÀÉ " />
+	<block key="fepet04_description_8" korean=" ÇÈÀÉ " />
+	<block key="fepet05_name" korean="äÀ<ºXÇ " />
+	<block key="fepet05_description_1" korean="¾|·0® " />
+	<block key="fepet05_description_2" korean="¾|·0® " />
+	<block key="fepet05_description_3" korean="¾|·0® " />
+	<block key="fepet05_description_4" korean="¾|·0® " />
+	<block key="fepet05_description_5" korean="¾|·0® " />
+	<block key="fepet05_description_6" korean="¾|·0® " />
+	<block key="fepet05_description_7" korean="¾|·0® " />
+	<block key="fepet05_description_8" korean="¾|·0® " />
+	<block key="fepet06_name" korean="¬Àå°¼¯XÇ " />
+	<block key="fepet06_description_1" korean="¾|·0® " />
+	<block key="fepet06_description_2" korean="¾|·0® " />
+	<block key="fepet06_description_3" korean="¾|·0® " />
+	<block key="fepet06_description_4" korean="¾|·0® " />
+	<block key="fepet06_description_5" korean="¾|·0® " />
+	<block key="fepet06_description_6" korean="¾|·0® " />
+	<block key="fepet06_description_7" korean="¾|·0® " />
+	<block key="fepet06_description_8" korean="¾|·0® " />
+	<block key="fepet07_name" korean="È,ÒÑ¼XÇ " />
+	<block key="fepet07_description_1" korean="¾|·0® " />
+	<block key="fepet07_description_2" korean="¾|·0® " />
+	<block key="fepet07_description_3" korean="¾|·0® " />
+	<block key="fepet07_description_4" korean="¾|·0® " />
+	<block key="fepet07_description_5" korean="¾|·0® " />
+	<block key="fepet07_description_6" korean="¾|·0® " />
+	<block key="fepet07_description_7" korean="¾|·0® " />
+	<block key="fepet07_description_8" korean="¾|·0® " />
+	<block key="fepet08_name" korean="©Æ¬ÀXÇ " />
+	<block key="fepet08_description_1" korean="¾|·0® " />
+	<block key="fepet08_description_2" korean="¾|·0® " />
+	<block key="fepet08_description_3" korean="¾|·0® " />
+	<block key="fepet08_description_4" korean="¾|·0® " />
+	<block key="fepet08_description_5" korean="¾|·0® " />
+	<block key="fepet08_description_6" korean="¾|·0® " />
+	<block key="fepet08_description_7" korean="¾|·0® " />
+	<block key="fepet08_description_8" korean="¾|·0® " />
+	<block key="fepet09_name" korean="½¬D¾Ñ¼XÇ " />
+	<block key="fepet09_description_1" korean="|·tÇx± " />
+	<block key="fepet09_description_2" korean="|·tÇx± " />
+	<block key="fepet09_description_3" korean="|·tÇx± " />
+	<block key="fepet09_description_4" korean="|·tÇx± " />
+	<block key="fepet09_description_5" korean="|·tÇx± " />
+	<block key="fepet09_description_6" korean="|·tÇx± " />
+	<block key="fepet09_description_7" korean="|·tÇx± " />
+	<block key="fepet09_description_8" korean="|·tÇx± " />
+	<block key="fepet10_name" korean="˜°4»”ÆÈXÇ " />
+	<block key="fepet10_description_1" korean="˜°4» " />
+	<block key="fepet10_description_2" korean="˜°4» " />
+	<block key="fepet10_description_3" korean="˜°4» " />
+	<block key="fepet10_description_4" korean="˜°4» " />
+	<block key="fepet10_description_5" korean="˜°4» " />
+	<block key="fepet10_description_6" korean="˜°4» " />
+	<block key="fepet10_description_7" korean="˜°4» " />
+	<block key="fepet10_description_8" korean="˜°4» " />
+	<block key="fepet11_name" korean=" ÇÈÀÉ " />
+	<block key="fepet11_description_1" korean="à¬" />
+	<block key="fepet11_description_2" korean="à¬" />
+	<block key="fepet11_description_3" korean="à¬" />
+	<block key="fepet11_description_4" korean="à¬" />
+	<block key="fepet11_description_5" korean="à¬" />
+	<block key="fepet11_description_6" korean="à¬" />
+	<block key="fepet11_description_7" korean="à¬" />
+	<block key="fepet11_description_8" korean="à¬" />
+	<block key="fepet12_name" korean="}ÅÈÐ " />
+	<block key="fepet12_description_1" korean="¾|·0® " />
+	<block key="fepet12_description_2" korean="¾|·0® " />
+	<block key="fepet12_description_3" korean="¾|·0® " />
+	<block key="fepet12_description_4" korean="¾|·0® " />
+	<block key="fepet12_description_5" korean="¾|·0® " />
+	<block key="fepet12_description_6" korean="¾|·0® " />
+	<block key="fepet12_description_7" korean="¾|·0® " />
+	<block key="fepet12_description_8" korean="¾|·0® " />
+	<block key="feasuhorse05_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_1" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_2" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_3" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_4" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_5" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_6" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_7" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse05_description_8" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="fewolf09_name" korean="(Ì" />
+	<block key="fewolf09_description_1" korean="(Ì" />
+	<block key="fewolf09_description_2" korean="(Ì" />
+	<block key="fewolf09_description_3" korean="(Ì" />
+	<block key="fewolf09_description_4" korean="(Ì" />
+	<block key="fewolf09_description_5" korean="(Ì" />
+	<block key="fewolf09_description_6" korean="(Ì" />
+	<block key="fewolf09_description_7" korean="(Ì" />
+	<block key="fewolf09_description_8" korean="(Ì" />
+	<block key="fewolf10_name" korean="Ó|¹|·lÐXÇ " />
+	<block key="fewolf10_description_1" korean="Ó|¹|·lÐ " />
+	<block key="fewolf10_description_2" korean="Ó|¹|·lÐ " />
+	<block key="fewolf10_description_3" korean="Ó|¹|·lÐ " />
+	<block key="fewolf10_description_4" korean="Ó|¹|·lÐ " />
+	<block key="fewolf10_description_5" korean="Ó|¹|·lÐ " />
+	<block key="fewolf10_description_6" korean="Ó|¹|·lÐ " />
+	<block key="fewolf10_description_7" korean="Ó|¹|·lÐ " />
+	<block key="fewolf10_description_8" korean="Ó|¹|·lÐ " />
+	<block key="fepet13_name" korean="=ÕÜÂXÇ " />
+	<block key="fepet13_description_1" korean="tÇtÎè¸¤Â " />
+	<block key="feasuhorse02_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse02_description_1" korean="¸ºDÇ " />
+	<block key="feasuhorse02_description_2" korean="¸ºDÇ " />
+	<block key="feasuhorse02_description_3" korean="¸ºDÇ " />
+	<block key="feasuhorse02_description_4" korean="¸ºDÇ " />
+	<block key="feasuhorse02_description_5" korean="¸ºDÇ " />
+	<block key="feasuhorse02_description_6" korean="¸ºDÇ " />
+	<block key="feasuhorse02_description_7" korean="¸ºDÇ " />
+	<block key="feasuhorse02_description_8" korean="¸ºDÇ " />
+	<block key="feasuhorse04_name" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_1" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_2" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_3" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_4" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_5" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_6" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_7" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="feasuhorse04_description_8" korean="DÅìÓ|Î½¹¤ÂXÇ " />
+	<block key="fesaurus09_Name" korean="ÑÅÇ€· " />
+	<block key="fesaurus09_Description_1" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_name" korean="È,ÒÈxÇ " />
+	<block key="feasuhorse07_description_1" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_description_2" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_description_3" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_description_4" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_description_5" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_description_6" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_description_7" korean="ÑÅÇ€· " />
+	<block key="feasuhorse07_description_8" korean="ÑÅÇ€· " />
+	<block key="feturtle06_Name" korean="ô¼8ÖXÇ " />
+	<block key="feturtle06_description_1" korean="è²è²\Õ " />
+	<block key="fepet15_name" korean="TÅQ× " />
+	<block key="fepet15_description_1" korean="TÅQ× " />
+	<block key="fepet15_description_2" korean="TÅQ× " />
+	<block key="fepet15_description_3" korean="TÅQ× " />
+	<block key="fepet15_description_4" korean="TÅQ× " />
+	<block key="fepet15_description_5" korean="TÅQ× " />
+	<block key="fepet15_description_6" korean="TÅQ× " />
+	<block key="fepet15_description_7" korean="TÅQ× " />
+	<block key="fepet15_description_8" korean="TÅQ× " />
+	<block key="fepet16_name" korean="È¹,ÒXÏôÒXÇ " />
+	<block key="fepet16_description_1" korean="" />
+	<block key="fepet16_description_2" korean="" />
+	<block key="fepet16_description_3" korean="" />
+	<block key="fepet16_description_4" korean="" />
+	<block key="fepet16_description_5" korean="" />
+	<block key="fepet16_description_6" korean="" />
+	<block key="fepet16_description_7" korean="" />
+	<block key="fepet16_description_8" korean="" />
+	<block key="fepet14_name" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_1" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_2" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_3" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_4" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_5" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_6" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_7" korean="9Ö\ÕXÇ " />
+	<block key="fepet14_description_8" korean="9Ö\ÕXÇ " />
+	<block key="fepet17_name" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_1" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_2" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_3" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_4" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_5" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_6" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_7" korean="”Æ¬¹¬À " />
+	<block key="fepet17_description_8" korean="”Æ¬¹¬À " />
+	<block key="fepet18_name" korean="8»´ÅXÇ " />
+	<block key="fepet18_description_1" korean="¼Ç " />
+	<block key="fepet18_description_2" korean="¼Ç " />
+	<block key="fepet18_description_3" korean="¼Ç " />
+	<block key="fepet18_description_4" korean="¼Ç " />
+	<block key="fepet18_description_5" korean="¼Ç " />
+	<block key="fepet18_description_6" korean="¼Ç " />
+	<block key="fepet18_description_7" korean="¼Ç " />
+	<block key="fepet18_description_8" korean="¼Ç " />
+	<block key="fepet19_name" korean="$ÁxÇ " />
+	<block key="fepet19_description_1" korean="$ÁxÇ " />
+	<block key="fepet19_description_2" korean="$ÁxÇ " />
+	<block key="fepet19_description_3" korean="$ÁxÇ " />
+	<block key="fepet19_description_4" korean="$ÁxÇ " />
+	<block key="fepet19_description_5" korean="$ÁxÇ " />
+	<block key="fepet19_description_6" korean="$ÁxÇ " />
+	<block key="fepet19_description_7" korean="$ÁxÇ " />
+	<block key="fepet19_description_8" korean="$ÁxÇ " />
+	<block key="fepet20_name" korean="‘²" />
+	<block key="fepet20_description_1" korean="‘²" />
+	<block key="fepet20_description_2" korean="‘²" />
+	<block key="fepet20_description_3" korean="‘²" />
+	<block key="fepet20_description_4" korean="‘²" />
+	<block key="fepet20_description_5" korean="‘²" />
+	<block key="fepet20_description_6" korean="‘²" />
+	<block key="fepet20_description_7" korean="‘²" />
+	<block key="fepet20_description_8" korean="‘²" />
+	<block key="fepet21_name" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_1" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_2" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_3" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_4" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_5" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_6" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_7" korean="TÖüÅ¼Ç " />
+	<block key="fepet21_description_8" korean="TÖüÅ¼Ç " />
+	<block key="feydrag03_name" korean="‰½@Ç " />
+	<block key="feydrag03_description_1" korean="‰½@Ç " />
+	<block key="fekaleangafer01_Name" korean="É$ÆXÇ " />
+	<block key="fekaleangafer01_Description_1" korean="a×Ö " />
+	<block key="fematu03_Name" korean="¼ÅLÇ " />
+	<block key="fematu03_Description_1" korean="(Ì" />
+	<block key="feiren01_Name" korean="p¬" />
+	<block key="feiren01_Description_1" korean="p¬" />
+	<block key="fegust02_Name" korean="0¼XÎ0®" />
+	<block key="fegust02_Description_1" korean="¬,¸\Õ " />
+	<block key="Feyfirdbird01_name" korean="ÔÅD¾XÇ " />
+	<block key="Feyfirdbird01_description_1" korean="ÑÅÇ€· " />
+	<block key="Feyfirdbird01_description_2" korean="ÑÅÇ€· " />
+	<block key="Feyfirdbird01_description_3" korean="ÑÅÇ€· " />
+	<block key="Feyfirdbird01_description_4" korean="ÑÅÇ€· " />
+	<block key="Feyfirdbird01_description_5" korean="ÑÅÇ€· " />
+	<block key="Feyfirdbird01_description_6" korean="ÑÅÇ€· " />
+	<block key="Feyfirdbird01_description_7" korean="ÑÅÇ€· " />
+	<block key="Feyfirdbird01_description_8" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_name" korean="DÅ¾¬¹TÁ¤ÂXÇ " />
+	<block key="Fetoucan05_description_1" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_description_2" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_description_3" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_description_4" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_description_5" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_description_6" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_description_7" korean="ÑÅÇ€· " />
+	<block key="Fetoucan05_description_8" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_name" korean="ì·¤Â¸ÒXÇ " />
+	<block key="Fedragon08_description_1" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_description_2" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_description_3" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_description_4" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_description_5" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_description_6" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_description_7" korean="ÑÅÇ€· " />
+	<block key="Fedragon08_description_8" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_name" korean="xÇµø­$±XÇ " />
+	<block key="Fedragon06_description_1" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_description_2" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_description_3" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_description_4" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_description_5" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_description_6" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_description_7" korean="ÑÅÇ€· " />
+	<block key="Fedragon06_description_8" korean="ÑÅÇ€· " />
+	<block key="Feliger07_name" korean="ÓtÇè¸Ü´XÇ " />
+	<block key="Feliger07_description_1" korean="ÑÅÇ€· " />
+	<block key="Feliger07_description_2" korean="ÑÅÇ€· " />
+	<block key="Feliger07_description_3" korean="ÑÅÇ€· " />
+	<block key="Feliger07_description_4" korean="ÑÅÇ€· " />
+	<block key="Feliger07_description_5" korean="ÑÅÇ€· " />
+	<block key="Feliger07_description_6" korean="ÑÅÇ€· " />
+	<block key="Feliger07_description_7" korean="ÑÅÇ€· " />
+	<block key="Feliger07_description_8" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_name" korean="Tº¬LÑ¤ÂXÇ " />
+	<block key="Femegantes07_description_1" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_description_2" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_description_3" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_description_4" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_description_5" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_description_6" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_description_7" korean="ÑÅÇ€· " />
+	<block key="Femegantes07_description_8" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_name" korean="¼tÇ¸XÇ " />
+	<block key="Febonedra04_description_1" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_description_2" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_description_3" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_description_4" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_description_5" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_description_6" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_description_7" korean="ÑÅÇ€· " />
+	<block key="Febonedra04_description_8" korean="ÑÅÇ€· " />
+	<block key="fecollapase01_name" korean="õ¬…º " />
+	<block key="fecollapase01_description_1" korean="xºÝ¹XÇ " />
+	<block key="feallresist01_name" korean="Æ<»XÇ " />
+	<block key="feallresist01_description_1" korean="Æ<»¤Âì·´Æ " />
+	<block key="feydragon01_name" korean="ˆ½C¯ " />
+	<block key="feydragon01_description_1" korean="…ÇÐÅÁ " />
+	<block key="fegriffon00_name" korean="´Å`´XÇ " />
+	<block key="fegriffon01_name" korean="´Å`´XÇ " />
+	<block key="fegriffon02_name" korean="´Å`´XÇ " />
+	<block key="fegriffonp00_name" korean="´Å`´XÇ " />
+	<block key="fegriffonp01_name" korean="´Å`´XÇ " />
+	<block key="fegriffonp02_name" korean="´Å`´XÇ " />
+	<block key="fegriffon00_description_1" korean="Èä´DÇ " />
+	<block key="fegriffon01_description_1" korean="¬,¸\Õ " />
+	<block key="fegriffon02_description_1" korean="È)¼XÇ " />
+	<block key="fegriffonp00_description_1" korean="Èä´DÇ " />
+	<block key="fegriffonp01_description_1" korean="¬,¸\Õ " />
+	<block key="fegriffonp02_description_1" korean="È)¼XÇ " />
+	<block key="fegriffon97_name" korean="tÎà¬|ÇXÇ " />
+	<block key="fegriffon98_name" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon99_name" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon97_description_1" korean="´Å`´XÇ " />
+	<block key="fegriffon97_description_2" korean="´Å`´XÇ " />
+	<block key="fegriffon97_description_3" korean="´Å`´XÇ " />
+	<block key="fegriffon97_description_4" korean="´Å`´XÇ " />
+	<block key="fegriffon97_description_5" korean="´Å`´XÇ " />
+	<block key="fegriffon97_description_6" korean="´Å`´XÇ " />
+	<block key="fegriffon97_description_7" korean="´Å`´XÇ " />
+	<block key="fegriffon97_description_8" korean="´Å`´XÇ " />
+	<block key="fegriffon98_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon98_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon98_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon98_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon98_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon98_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon98_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon98_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fegriffon99_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon99_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon99_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon99_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon99_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon99_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon99_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fegriffon99_description_8" korean="ìÅ…ºXÇ " />
+	<block key="feowl05_name" korean="Æq¸\Õ " />
+	<block key="feowl05_description_1" korean=",Æ|¾ø» " />
+	<block key="feowl05_description_2" korean=",Æ|¾ø» " />
+	<block key="feowl05_description_3" korean=",Æ|¾ø» " />
+	<block key="feowl05_description_4" korean=",Æ|¾ø» " />
+	<block key="feowl05_description_5" korean=",Æ|¾ø» " />
+	<block key="feowl05_description_6" korean=",Æ|¾ø» " />
+	<block key="feowl05_description_7" korean=",Æ|¾ø» " />
+	<block key="feowl05_description_8" korean=",Æ|¾ø» " />
+	<block key="fewolf11_name" korean="(Ì" />
+	<block key="fewolf11_description_1" korean="(Ì" />
+	<block key="fewolf11_description_2" korean="(Ì" />
+	<block key="fewolf11_description_3" korean="(Ì" />
+	<block key="fewolf11_description_4" korean="(Ì" />
+	<block key="fewolf11_description_5" korean="(Ì" />
+	<block key="fewolf11_description_6" korean="(Ì" />
+	<block key="fewolf11_description_7" korean="(Ì" />
+	<block key="fewolf11_description_8" korean="(Ì" />
+	<block key="fehound06_name" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_1" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_2" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_3" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_4" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_5" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_6" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_7" korean="1¼ÉÀXÇ " />
+	<block key="fehound06_description_8" korean="1¼ÉÀXÇ " />
+	<block key="fesaurus07_name" korean="ìÂðÅXÇ " />
+	<block key="fesaurus07_description_1" korean="ìÂðÅÁÐÅÁ " />
+	<block key="fesaurus07_description_2" korean="ìÂðÅÁÐÅÁ " />
+	<block key="fesaurus07_description_3" korean="ìÂðÅÁÐÅÁ " />
+	<block key="fesaurus07_description_4" korean="ìÂðÅÁÐÅÁ " />
+	<block key="fesaurus07_description_5" korean="ìÂðÅÁÐÅÁ " />
+	<block key="fesaurus07_description_6" korean="ìÂðÅÁÐÅÁ " />
+	<block key="fesaurus07_description_7" korean="ìÂðÅÁÐÅÁ " />
+	<block key="fesaurus07_description_8" korean="ìÂðÅÁÐÅÁ " />
+	<block key="feydragon02_name" korean="iÖ®XÇ " />
+	<block key="feydragon02_description_1" korean="iÖ® " />
+	<block key="feydragon02_description_2" korean="iÖ® " />
+	<block key="feydragon02_description_3" korean="iÖ® " />
+	<block key="feydragon02_description_4" korean="iÖ® " />
+	<block key="feydragon02_description_5" korean="iÖ® " />
+	<block key="feydragon02_description_6" korean="iÖ® " />
+	<block key="feydragon02_description_7" korean="iÖ® " />
+	<block key="feydragon02_description_8" korean="iÖ® " />
+	<block key="feydragon03_name" korean="iÖ®XÇ " />
+	<block key="feydragon03_description_1" korean="iÖ® " />
+	<block key="feydragon03_description_2" korean="iÖ® " />
+	<block key="feydragon03_description_3" korean="iÖ® " />
+	<block key="feydragon03_description_4" korean="iÖ® " />
+	<block key="feydragon03_description_5" korean="iÖ® " />
+	<block key="feydragon03_description_6" korean="iÖ® " />
+	<block key="feydragon03_description_7" korean="iÖ® " />
+	<block key="feydragon03_description_8" korean="iÖ® " />
+	<block key="feydragon04_name" korean="iÖ®XÇ " />
+	<block key="feydragon04_description_1" korean="iÖ® " />
+	<block key="feydragon04_description_2" korean="iÖ® " />
+	<block key="feydragon04_description_3" korean="iÖ® " />
+	<block key="feydragon04_description_4" korean="iÖ® " />
+	<block key="feydragon04_description_5" korean="iÖ® " />
+	<block key="feydragon04_description_6" korean="iÖ® " />
+	<block key="feydragon04_description_7" korean="iÖ® " />
+	<block key="feydragon04_description_8" korean="iÖ® " />
+	<block key="feydragon05_name" korean="iÖ®XÇ " />
+	<block key="feydragon05_description_1" korean="iÖ®|·tÇàÏXÇ " />
+	<block key="feknightsbuff00_name" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_1" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_2" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_3" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_4" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_5" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_6" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_7" korean="Æ­XÇ " />
+	<block key="feknightsbuff00_description_8" korean="Æ­XÇ " />
+	<block key="feknightsbuff01_name" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_1" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_2" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_3" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_4" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_5" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_6" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_7" korean="…ºÆXÇ " />
+	<block key="feknightsbuff01_description_8" korean="…ºÆXÇ " />
+	<block key="feknightsbuff02_name" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_1" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_2" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_3" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_4" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_5" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_6" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_7" korean="@ÇÍXÇ " />
+	<block key="feknightsbuff02_description_8" korean="@ÇÍXÇ " />
+	<block key="fepegasus05_name" korean="à¬¤Â¸ÒÇXÇ " />
+	<block key="fepegasus05_Description_1" korean="õ¬íÅXÇ " />
+	<block key="fepegasus05_Description_2" korean="õ¬íÅXÇ " />
+	<block key="fepegasus05_Description_3" korean="õ¬íÅXÇ " />
+	<block key="fepegasus05_Description_4" korean="õ¬íÅXÇ " />
+	<block key="fepegasus05_Description_5" korean="õ¬íÅXÇ " />
+	<block key="fepegasus05_Description_6" korean="õ¬íÅXÇ " />
+	<block key="fepegasus05_Description_7" korean="õ¬íÅXÇ " />
+	<block key="fepegasus05_Description_8" korean="õ¬íÅXÇ " />
+	<block key="fepegasus06_name" korean="à¬¤Â¸ÒÇXÇ " />
+	<block key="fepegasus06_description_1" korean="à¬¤Â¸Ò " />
+	<block key="febeldon00_name" korean="ˆ½¬ÀXÇ " />
+	<block key="febeldon00_description_1" korean="ÇàÂXÇ " />
+	<block key="febeldon00_description_2" korean="ÇàÂXÇ " />
+	<block key="febeldon00_description_3" korean="ÇàÂXÇ " />
+	<block key="febeldon00_description_4" korean="ÇàÂXÇ " />
+	<block key="febeldon00_description_5" korean="ÇàÂXÇ " />
+	<block key="febeldon00_description_6" korean="ÇàÂXÇ " />
+	<block key="febeldon00_description_7" korean="ÇàÂXÇ " />
+	<block key="febeldon00_description_8" korean="ÇàÂXÇ " />
+	<block key="febeldon01_name" korean="ˆ½¬ÀXÇ " />
+	<block key="febeldon01_description_1" korean="ÇàÂXÇ " />
+	<block key="febeldon01_description_2" korean="ÇàÂXÇ " />
+	<block key="febeldon01_description_3" korean="ÇàÂXÇ " />
+	<block key="febeldon01_description_4" korean="ÇàÂXÇ " />
+	<block key="febeldon01_description_5" korean="ÇàÂXÇ " />
+	<block key="febeldon01_description_6" korean="ÇàÂXÇ " />
+	<block key="febeldon01_description_7" korean="ÇàÂXÇ " />
+	<block key="febeldon01_description_8" korean="ÇàÂXÇ " />
+	<block key="febeldon02_name" korean="ÝÀ0® " />
+	<block key="febeldon02_description_1" korean="ÈXÇ " />
+	<block key="febeldon03_name" korean="ˆ½xºÇXÇ " />
+	<block key="febeldon03_description_1" korean="ˆ½xºXÇ " />
+	<block key="febeldon04_name" korean="Å³ " />
+	<block key="febeldon04_description_1" korean="¬\Õ " />
+	<block key="febeldonp02_name" korean="ÝÀ0® " />
+	<block key="febeldonp02_description_1" korean="ÈXÇ " />
+	<block key="febeldonp03_name" korean="ˆ½xºÇXÇ " />
+	<block key="febeldonp03_description_1" korean="ˆ½xºXÇ " />
+	<block key="febeldonp04_name" korean="Å³ " />
+	<block key="febeldonp04_description_1" korean="¬\Õ " />
+	<block key="fedevy01_name" korean="8º¬¹ " />
+	<block key="fedevy01_description_1" korean="8º¬¹|¹ " />
+	<block key="fesantin01_name" korean="´Å|Ó÷Î" />
+	<block key="fesantin01_description_1" korean="ÈDÇ " />
+	<block key="fejeranin01_name" korean="Ä³|° " />
+	<block key="fejeranin01_description_1" korean="Ä³|°|¹ " />
+	<block key="fedarkmage01_name" korean="´Å`´XÇ " />
+	<block key="fedarkmage01_description_1" korean="´Å`´XÇ " />
+	<block key="fedevy00_name" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_1" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_2" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_3" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_4" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_5" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_6" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_7" korean="p³D¾XÇ " />
+	<block key="fedevy00_description_8" korean="p³D¾XÇ " />
+	<block key="fesantin00_name" korean="$ÁxÇ" />
+	<block key="fesantin00_description_1" korean="$ÁxÇ" />
+	<block key="fesantin00_description_2" korean="$ÁxÇ" />
+	<block key="fesantin00_description_3" korean="$ÁxÇ" />
+	<block key="fesantin00_description_4" korean="$ÁxÇ" />
+	<block key="fesantin00_description_5" korean="$ÁxÇ" />
+	<block key="fesantin00_description_6" korean="$ÁxÇ" />
+	<block key="fesantin00_description_7" korean="$ÁxÇ" />
+	<block key="fesantin00_description_8" korean="$ÁxÇ" />
+	<block key="fejeranin00_name" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_1" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_2" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_3" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_4" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_5" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_6" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_7" korean="4»ÇD¾\Õ " />
+	<block key="fejeranin00_description_8" korean="4»ÇD¾\Õ " />
+	<block key="fejepeto00_name" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_1" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_2" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_3" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_4" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_5" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_6" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_7" korean="XÖ Â¬À " />
+	<block key="fejepeto00_description_8" korean="XÖ Â¬À " />
+	<block key="fehatchling00_name" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_1" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_2" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_3" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_4" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_5" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_6" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_7" korean="ÈÀ|° " />
+	<block key="fehatchling00_description_8" korean="ÈÀ|° " />
+	<block key="feskullknight00_name" korean="tÕè¬ " />
+	<block key="feskullknight00_description_1" korean="tÕè¬ " />
+	<block key="feskullknight00_description_2" korean="tÕè¬ " />
+	<block key="feskullknight00_description_3" korean="tÕè¬ " />
+	<block key="feskullknight00_description_4" korean="tÕè¬ " />
+	<block key="feskullknight00_description_5" korean="tÕè¬ " />
+	<block key="feskullknight00_description_6" korean="tÕè¬ " />
+	<block key="feskullknight00_description_7" korean="tÕè¬ " />
+	<block key="feskullknight00_description_8" korean="tÕè¬ " />
+	<block key="fesnomhunter00_name" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_1" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_2" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_3" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_4" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_5" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_6" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_7" korean="$ÁxÇ " />
+	<block key="fesnomhunter00_description_8" korean="$ÁxÇ " />
+	<block key="femidget00_name" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_1" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_2" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_3" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_4" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_5" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_6" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_7" korean="tÎ¾„Ç " />
+	<block key="femidget00_description_8" korean="tÎ¾„Ç " />
+	<block key="fereddrag00_name" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_1" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_2" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_3" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_4" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_5" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_6" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_7" korean="MÖ(¸XÇ " />
+	<block key="fereddrag00_description_8" korean="MÖ(¸XÇ " />
+	<block key="feshura01_name" korean="ÈàÂ„½ôÅ" />
+	<block key="feshura01_description_1" korean="T´0®|¹ " />
+	<block key="febismoot01_name" korean="uÕüÈ9º" />
+	<block key="febismoot01_description_1" korean="üÈ9ºDÇ " />
+	<block key="feskalion01_name" korean="ÑÉŒ¬¼ " />
+	<block key="feskalion01_description_1" korean="ÑÉŒ¬¼DÇ " />
+	<block key="feposearrow01_name" korean="Å³ " />
+	<block key="feposearrow01_description_1" korean="¬\Õ " />
+	<block key="fecaasuram00_name" korean="DÅˆÂŒ·XÇ " />
+	<block key="fecaasuram00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecaasuram01_name" korean="DÅˆÂŒ·XÇ " />
+	<block key="fecaasuram01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecaasuram01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecaasuram01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecaasuram01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecaasuram01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecaasuram01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecaasuram01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecaasuram01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto00_name" korean="D¾¤Â4»¸ÒXÇ " />
+	<block key="fecabismoto00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecabismoto01_name" korean="D¾¤Â4»¸ÒXÇ " />
+	<block key="fecabismoto01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecabismoto01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion00_name" korean="¤Â|Î¬¹(ÆXÇ " />
+	<block key="fecascalion00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecascalion01_name" korean="¤Â|Î¬¹(ÆXÇ " />
+	<block key="fecascalion01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecascalion01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena00_name" korean="ìÓ8ÁtÇ˜°XÇ " />
+	<block key="fecaposena00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecaposena01_name" korean="ìÓ8ÁtÇ˜°XÇ " />
+	<block key="fecaposena01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecaposena01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fearabne01_name" korean="È¹%¸ " />
+	<block key="fearabne01_description_1" korean="È¹%¸XÇ " />
+	<block key="fearabne01_description_2" korean="È¹%¸XÇ " />
+	<block key="fearabne01_description_3" korean="È¹%¸XÇ " />
+	<block key="fearabne01_description_4" korean="È¹%¸XÇ " />
+	<block key="fearabne01_description_5" korean="È¹%¸XÇ " />
+	<block key="fearabne01_description_6" korean="È¹%¸XÇ " />
+	<block key="fearabne01_description_7" korean="È¹%¸XÇ " />
+	<block key="fearabne01_description_8" korean="È¹%¸XÇ " />
+	<block key="fearabne02_name" korean="È¹%¸ " />
+	<block key="fearabne02_description_1" korean="È¹%¸DÇ " />
+	<block key="febonefrost05_name" korean="Æ<ÖXÇ " />
+	<block key="febonefrost05_description_1" korean="¿ " />
+	<block key="febonefrost05_description_2" korean="¿ " />
+	<block key="febonefrost05_description_3" korean="¿ " />
+	<block key="febonefrost05_description_4" korean="¿ " />
+	<block key="febonefrost05_description_5" korean="¿ " />
+	<block key="febonefrost05_description_6" korean="¿ " />
+	<block key="febonefrost05_description_7" korean="¿ " />
+	<block key="febonefrost05_description_8" korean="¿ " />
+	<block key="fecashacri00_name" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecashmcri00_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri00_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaatk00_name" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecamatk00_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk00_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaarmor00_name" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecamarmor00_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor00_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaparry00_name" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry00_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecamtime00_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime00_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="felgdhorse00_name" korean="Y¾°¬XÇ " />
+	<block key="felgdhorse01_name" korean="íÓüÅXÇ " />
+	<block key="felgdhorse02_name" korean="TÅQ×XÇ " />
+	<block key="fekalipto01_name" korean="¼ " />
+	<block key="fekalipto02_name" korean="íÓüÅXÇ " />
+	<block key="fehamion01_name" korean="Y¾°¬XÇ " />
+	<block key="fehamion02_name" korean="¼ " />
+	<block key="fedemonus01_name" korean="¼ " />
+	<block key="fedemonus02_name" korean="TÅQ×XÇ " />
+	<block key="felgdhorse00_description_1" korean="¼ÅLÇXÇ " />
+	<block key="felgdhorse01_description_1" korean="ˆ½XÇ " />
+	<block key="felgdhorse02_description_1" korean="TÅQ×XÇ " />
+	<block key="fekalipto01_description_1" korean="ˆ½XÇ " />
+	<block key="fekalipto02_description_1" korean="ˆ½XÇ " />
+	<block key="fehamion02_description_1" korean="¼ÅLÇXÇ " />
+	<block key="fehamion01_description_1" korean="¼ÅLÇXÇ " />
+	<block key="fedemonus01_description_1" korean="TÅQ×XÇ " />
+	<block key="fedemonus02_description_1" korean="TÅQ×XÇ " />
+	<block key="fedemonus99_name" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_1" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_2" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_3" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_4" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_5" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_6" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_7" korean="p³¨º±¤ÂXÇ " />
+	<block key="fedemonus99_description_8" korean="p³¨º±¤ÂXÇ " />
+	<block key="fekalipto99_name" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_1" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_2" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_3" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_4" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_5" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_6" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_7" korean="|Î½¹ ÑXÇ " />
+	<block key="fekalipto99_description_8" korean="|Î½¹ ÑXÇ " />
+	<block key="fehamion99_name" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_1" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_2" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_3" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_4" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_5" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_6" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_7" korean="XÕø»(ÆXÇ " />
+	<block key="fehamion99_description_8" korean="XÕø»(ÆXÇ " />
+	<block key="fepegasusp04_name" korean="Ô¿XÇ " />
+	<block key="fepegasusp04_description_1" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasusp04_description_2" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasusp04_description_3" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasusp04_description_4" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasusp04_description_5" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasusp04_description_6" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasusp04_description_7" korean="˜°tÇ¸ÒTº´Å " />
+	<block key="fepegasusp03_name" korean="¬%¸\Õ " />
+	<block key="fepegasusp03_description_1" korean="^Å¼DÇ " />
+	<block key="fepegasusp03_description_2" korean="^Å¼DÇ " />
+	<block key="fepegasusp03_description_3" korean="^Å¼DÇ " />
+	<block key="fepegasusp03_description_4" korean="^Å¼DÇ " />
+	<block key="fepegasusp03_description_5" korean="^Å¼DÇ " />
+	<block key="fepegasusp03_description_6" korean="^Å¼DÇ " />
+	<block key="fepegasusp03_description_7" korean="^Å¼DÇ " />
+	<block key="fecaptain01_name" korean="8º¤ÂÏ" />
+	<block key="fecaptain01_description_1" korean="è²|ÇXÇ " />
+	<block key="feicerondo01_name" korean="Á¬¹ " />
+	<block key="feicerondo01_description_1" korean="ÈDÇ " />
+	<block key="femoorumib01_name" korean="8ÁŒ¬ " />
+	<block key="femoorumib01_description_1" korean="È¹•¼XÇ " />
+	<block key="ferabbit01_name" korean="ä¹´Æ " />
+	<block key="ferabbit01_description_1" korean="ä¹´Æ " />
+	<block key="feallreslgd00_name" korean="È$ÁXÇ " />
+	<block key="feallreslgd00_description_1" korean="È$Á	®XÇ " />
+	<block key="fecashacri01_name" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecashacri01_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecashmcri01_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecashmcri01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaatk01_name" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaaatk01_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecamatk01_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecamatk01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaarmor01_name" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaaarmor01_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecamarmor01_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecamarmor01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fecaaparry01_name" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_1" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_2" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_3" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_4" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_5" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_6" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_7" korean="ìÅ…ºXÇ " />
+	<block key="fecaaparry01_description_8" korean="ìÅ…ºXÇ " />
+	<block key="fecamtime01_name" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_1" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_2" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_3" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_4" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_5" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_6" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_7" korean="õ¬ÈÕXÇ " />
+	<block key="fecamtime01_description_8" korean="õ¬ÈÕXÇ " />
+	<block key="fegrabion01_name" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion01_description_1" korean="LÑ¤Â¸Ò " />
+	<block key="fegrabion01_description_2" korean="LÑ¤Â¸Ò " />
+	<block key="fegrabion01_description_3" korean="LÑ¤Â¸Ò " />
+	<block key="fegrabion01_description_4" korean="LÑ¤Â¸Ò " />
+	<block key="fegrabion01_description_5" korean="LÑ¤Â¸Ò " />
+	<block key="fegrabion01_description_6" korean="LÑ¤Â¸Ò " />
+	<block key="fegrabion01_description_7" korean="LÑ¤Â¸Ò " />
+	<block key="fegrabion01_description_8" korean="LÑ¤Â¸Ò " />
+	<block key="fekarnin00_name" korean="tÎt¹Ì²XÇ " />
+	<block key="fekarnin00_description_1" korean="tÎt¹Ì² " />
+	<block key="fekarnin00_description_2" korean="tÎt¹Ì² " />
+	<block key="fekarnin00_description_3" korean="tÎt¹Ì² " />
+	<block key="fekarnin00_description_4" korean="tÎt¹Ì² " />
+	<block key="fekarnin00_description_5" korean="tÎt¹Ì² " />
+	<block key="fekarnin00_description_6" korean="tÎt¹Ì² " />
+	<block key="fekarnin00_description_7" korean="tÎt¹Ì² " />
+	<block key="fekarnin00_description_8" korean="tÎt¹Ì² " />
+	<block key="feberite00_name" korean=" ¼¬¹¸ÒXÇ " />
+	<block key="feberite00_description_1" korean=" ¼¬¹¸Ò " />
+	<block key="feberite00_description_2" korean=" ¼¬¹¸Ò " />
+	<block key="feberite00_description_3" korean=" ¼¬¹¸Ò " />
+	<block key="feberite00_description_4" korean=" ¼¬¹¸Ò " />
+	<block key="feberite00_description_5" korean=" ¼¬¹¸Ò " />
+	<block key="feberite00_description_6" korean=" ¼¬¹¸Ò " />
+	<block key="feberite00_description_7" korean=" ¼¬¹¸Ò " />
+	<block key="feberite00_description_8" korean=" ¼¬¹¸Ò " />
+	<block key="featan00_name" korean="DÅÄÐXÇ " />
+	<block key="featan00_description_1" korean="DÅÄÐ " />
+	<block key="featan00_description_2" korean="DÅÄÐ " />
+	<block key="featan00_description_3" korean="DÅÄÐ " />
+	<block key="featan00_description_4" korean="DÅÄÐ " />
+	<block key="featan00_description_5" korean="DÅÄÐ " />
+	<block key="featan00_description_6" korean="DÅÄÐ " />
+	<block key="featan00_description_7" korean="DÅÄÐ " />
+	<block key="featan00_description_8" korean="DÅÄÐ " />
+	<block key="fehelldog00_name" korean="ÀÉ%ÆXÇ " />
+	<block key="fehelldog00_description_1" korean="ÀÉ%ÆXÇ " />
+	<block key="fecagara00_name" korean="•Íõ¼XÇ " />
+	<block key="fecagara00_description_1" korean="•Íõ¼XÇ " />
+	<block key="feparuchi00_Name" korean="ˆ½t­XÇ " />
+	<block key="feparuchi00_description_1" korean="gºü³ÀÉ " />
+	<block key="feparuchi00_description_2" korean="gºü³ÀÉ " />
+	<block key="feparuchi00_description_3" korean="gºü³ÀÉ " />
+	<block key="feparuchi00_description_4" korean="gºü³ÀÉ " />
+	<block key="feparuchi00_description_5" korean="gºü³ÀÉ " />
+	<block key="feparuchi00_description_6" korean="gºü³ÀÉ " />
+	<block key="feparuchi00_description_7" korean="gºü³ÀÉ " />
+	<block key="feparuchi00_description_8" korean="gºü³ÀÉ " />
+	<block key="feparuchi01_Name" korean="gºü³ÀÉXÇ " />
+	<block key="feparuchi01_description_1" korean="gºü³ÀÉ " />
+	<block key="feshteran00_Name" korean="ù¹,¸\Õ " />
+	<block key="feshteran00_description_1" korean="Ü´˜·ä¬ " />
+	<block key="feshteran00_description_2" korean="Ü´˜·ä¬ " />
+	<block key="feshteran00_description_3" korean="Ü´˜·ä¬ " />
+	<block key="feshteran00_description_4" korean="Ü´˜·ä¬ " />
+	<block key="feshteran00_description_5" korean="Ü´˜·ä¬ " />
+	<block key="feshteran00_description_6" korean="Ü´˜·ä¬ " />
+	<block key="feshteran00_description_7" korean="Ü´˜·ä¬ " />
+	<block key="feshteran00_description_8" korean="Ü´˜·ä¬ " />
+	<block key="fekteran00_Name" korean="ù¹,¸\Õ " />
+	<block key="fekteran00_description_1" korean="©ÆqÈ " />
+	<block key="fekteran00_description_2" korean="©ÆqÈ " />
+	<block key="fekteran00_description_3" korean="©ÆqÈ " />
+	<block key="fekteran00_description_4" korean="©ÆqÈ " />
+	<block key="fekteran00_description_5" korean="©ÆqÈ " />
+	<block key="fekteran00_description_6" korean="©ÆqÈ " />
+	<block key="fekteran00_description_7" korean="©ÆqÈ " />
+	<block key="fekteran00_description_8" korean="©ÆqÈ " />
+	<block key="feshteran01_name" korean="õ¬ìÓXÇ " />
+	<block key="feshteran01_description_1" korean="Ü´˜·ä¬ " />
+	<block key="fekteran01_name" korean="©ÆqÈXÇ " />
+	<block key="fekteran01_description_1" korean="È¹•¼ " />
+	<block key="fediagil00_name" korean="Æ­ü¬ " />
+	<block key="fediagil00_description_1" korean="1" />
+	<block key="fediagil00_description_2" korean="1" />
+	<block key="fediagil00_description_3" korean="1" />
+	<block key="fediagil00_description_4" korean="1" />
+	<block key="fediagil00_description_5" korean="1" />
+	<block key="fediagil00_description_6" korean="1" />
+	<block key="fediagil00_description_7" korean="1" />
+	<block key="fediagil00_description_8" korean="1" />
+	<block key="fediagil01_name" korean="µDÅ8®XÇ " />
+	<block key="fediagil01_description_1" korean="ˆ½C¯XÇ " />
+	<block key="fegrabion00_name" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_1" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_2" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_3" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_4" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_5" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_6" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_7" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fegrabion00_description_8" korean="ø­|·D¾(ÆXÇ " />
+	<block key="fejjaru00_name" korean="ÜÉè¸XÇ " />
+	<block key="fejjaru00_description_1" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="fejjaru00_description_2" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="fejjaru00_description_3" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="fejjaru00_description_4" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="fejjaru00_description_5" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="fejjaru00_description_6" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="fejjaru00_description_7" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="fejjaru00_description_8" korean="ÜÉè¸Ì¹XÇ " />
+	<block key="febatking99_name" korean="iÖ®¼PÉXÇ " />
+	<block key="febatking99_description_1" korean="iÖ®¼PÉ " />
+	<block key="febatking99_description_2" korean="iÖ®¼PÉ " />
+	<block key="febatking99_description_3" korean="iÖ®¼PÉ " />
+	<block key="febatking99_description_4" korean="iÖ®¼PÉ " />
+	<block key="febatking99_description_5" korean="iÖ®¼PÉ " />
+	<block key="febatking99_description_6" korean="iÖ®¼PÉ " />
+	<block key="febatking99_description_7" korean="iÖ®¼PÉ " />
+	<block key="febatking99_description_8" korean="iÖ®¼PÉ " />
+	<block key="fehydralegend99_name" korean="¼ÀP´á¸XÇ " />
+	<block key="fehydralegend99_description_1" korean="¼ÀP´á¸ " />
+	<block key="fehydralegend99_description_2" korean="¼ÀP´á¸ " />
+	<block key="fehydralegend99_description_3" korean="¼ÀP´á¸ " />
+	<block key="fehydralegend99_description_4" korean="¼ÀP´á¸ " />
+	<block key="fehydralegend99_description_5" korean="¼ÀP´á¸ " />
+	<block key="fehydralegend99_description_6" korean="¼ÀP´á¸ " />
+	<block key="fehydralegend99_description_7" korean="¼ÀP´á¸ " />
+	<block key="fehydralegend99_description_8" korean="¼ÀP´á¸ " />
+	<block key="fepoyo99_name" korean=",Ì€·\Õ " />
+	<block key="fepoyo99_description_1" korean="ìÓ”ÆXÇ " />
+	<block key="fepoyo99_description_2" korean="ìÓ”ÆXÇ " />
+	<block key="fepoyo99_description_3" korean="ìÓ”ÆXÇ " />
+	<block key="fepoyo99_description_4" korean="ìÓ”ÆXÇ " />
+	<block key="fepoyo99_description_5" korean="ìÓ”ÆXÇ " />
+	<block key="fepoyo99_description_6" korean="ìÓ”ÆXÇ " />
+	<block key="fepoyo99_description_7" korean="ìÓ”ÆXÇ " />
+	<block key="fepoyo99_description_8" korean="ìÓ”ÆXÇ " />
+	<block key="fetaraku99_name" korean="ˆ½C¯XÇ " />
+	<block key="fetaraku99_description_1" korean="ÀÐ|·àÏXÇ " />
+	<block key="fetaraku99_description_2" korean="ÀÐ|·àÏXÇ " />
+	<block key="fetaraku99_description_3" korean="ÀÐ|·àÏXÇ " />
+	<block key="fetaraku99_description_4" korean="ÀÐ|·àÏXÇ " />
+	<block key="fetaraku99_description_5" korean="ÀÐ|·àÏXÇ " />
+	<block key="fetaraku99_description_6" korean="ÀÐ|·àÏXÇ " />
+	<block key="fetaraku99_description_7" korean="ÀÐ|·àÏXÇ " />
+	<block key="fetaraku99_description_8" korean="ÀÐ|·àÏXÇ " />
+	<block key="feboneleopardhero99_name" korean="ÓxºXÇ " />
+	<block key="feboneleopardhero99_description_1" korean="ø¼ " />
+	<block key="feboneleopardhero99_description_2" korean="ø¼ " />
+	<block key="feboneleopardhero99_description_3" korean="ø¼ " />
+	<block key="feboneleopardhero99_description_4" korean="ø¼ " />
+	<block key="feboneleopardhero99_description_5" korean="ø¼ " />
+	<block key="feboneleopardhero99_description_6" korean="ø¼ " />
+	<block key="feboneleopardhero99_description_7" korean="ø¼ " />
+	<block key="feboneleopardhero99_description_8" korean="ø¼ " />
+	<block key="fescorhero99_name" korean="Å³aÅXÇ " />
+	<block key="fescorhero99_description_1" korean=" ¼" />
+	<block key="fescorhero99_description_2" korean=" ¼" />
+	<block key="fescorhero99_description_3" korean=" ¼" />
+	<block key="fescorhero99_description_4" korean=" ¼" />
+	<block key="fescorhero99_description_5" korean=" ¼" />
+	<block key="fescorhero99_description_6" korean=" ¼" />
+	<block key="fescorhero99_description_7" korean=" ¼" />
+	<block key="fescorhero99_description_8" korean=" ¼" />
+	<block key="fechanus99_name" korean="1¼@ÇXÇ " />
+	<block key="fechanus99_description_1" korean="`Ì²¤ÂXÇ " />
+	<block key="fechanus99_description_2" korean="`Ì²¤ÂXÇ " />
+	<block key="fechanus99_description_3" korean="`Ì²¤ÂXÇ " />
+	<block key="fechanus99_description_4" korean="`Ì²¤ÂXÇ " />
+	<block key="fechanus99_description_5" korean="`Ì²¤ÂXÇ " />
+	<block key="fechanus99_description_6" korean="`Ì²¤ÂXÇ " />
+	<block key="fechanus99_description_7" korean="`Ì²¤ÂXÇ " />
+	<block key="fechanus99_description_8" korean="`Ì²¤ÂXÇ " />
+	<block key="fethunderdragon99_name" korean="œÌe´XÇ " />
+	<block key="fethunderdragon99_description_1" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="fethunderdragon99_description_2" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="fethunderdragon99_description_3" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="fethunderdragon99_description_4" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="fethunderdragon99_description_5" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="fethunderdragon99_description_6" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="fethunderdragon99_description_7" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="fethunderdragon99_description_8" korean="¨Ñè¸¤ÂXÇ " />
+	<block key="feostrich99_name" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_1" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_2" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_3" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_4" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_5" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_6" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_7" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="feostrich99_description_8" korean="¸Ò¬¹ðÒXÇ " />
+	<block key="fematura99_name" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_1" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_2" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_3" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_4" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_5" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_6" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_7" korean="È¹œÒ|·XÇ " />
+	<block key="fematura99_description_8" korean="È¹œÒ|·XÇ " />
+	<block key="felonghorn99_name" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_1" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_2" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_3" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_4" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_5" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_6" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_7" korean="¼ÌÇXÇ " />
+	<block key="felonghorn99_description_8" korean="¼ÌÇXÇ " />
+	<block key="feadelak99_name" korean="´À!ÇXÇ " />
+	<block key="feadelak99_description_1" korean="DÅx³|·lÐXÇ " />
+	<block key="feadelak99_description_2" korean="DÅx³|·lÐXÇ " />
+	<block key="feadelak99_description_3" korean="DÅx³|·lÐXÇ " />
+	<block key="feadelak99_description_4" korean="DÅx³|·lÐXÇ " />
+	<block key="feadelak99_description_5" korean="DÅx³|·lÐXÇ " />
+	<block key="feadelak99_description_6" korean="DÅx³|·lÐXÇ " />
+	<block key="feadelak99_description_7" korean="DÅx³|·lÐXÇ " />
+	<block key="feadelak99_description_8" korean="DÅx³|·lÐXÇ " />
+	<block key="fedosraku99_name" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_1" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_2" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_3" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_4" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_5" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_6" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_7" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fedosraku99_description_8" korean="Ä³¤Â|·àÏXÇ " />
+	<block key="fechims99_name" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_1" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_2" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_3" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_4" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_5" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_6" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_7" korean="hÎ¤ÂXÇ " />
+	<block key="fechims99_description_8" korean="hÎ¤ÂXÇ " />
+	<block key="fecatelite99_name" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_1" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_2" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_3" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_4" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_5" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_6" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_7" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatelite99_description_8" korean="ÐÌ<ÕXÇ " />
+	<block key="fecatdsthero99_name" korean="XÖÆXÇ " />
+	<block key="fecatdsthero99_description_1" korean="Óx±¤ÂXÇ " />
+	<block key="fecatdsthero99_description_2" korean="Óx±¤ÂXÇ " />
+	<block key="fecatdsthero99_description_3" korean="Óx±¤ÂXÇ " />
+	<block key="fecatdsthero99_description_4" korean="Óx±¤ÂXÇ " />
+	<block key="fecatdsthero99_description_5" korean="Óx±¤ÂXÇ " />
+	<block key="fecatdsthero99_description_6" korean="Óx±¤ÂXÇ " />
+	<block key="fecatdsthero99_description_7" korean="Óx±¤ÂXÇ " />
+	<block key="fecatdsthero99_description_8" korean="Óx±¤ÂXÇ " />
+	<block key="fedeva99_name" korean="p³¼XÇ " />
+	<block key="fedeva99_description_1" korean="p³¼XÇ " />
+	<block key="fedeva99_description_2" korean="p³¼XÇ " />
+	<block key="fedeva99_description_3" korean="p³¼XÇ " />
+	<block key="fedeva99_description_4" korean="p³¼XÇ " />
+	<block key="fedeva99_description_5" korean="p³¼XÇ " />
+	<block key="fedeva99_description_6" korean="p³¼XÇ " />
+	<block key="fedeva99_description_7" korean="p³¼XÇ " />
+	<block key="fedeva99_description_8" korean="p³¼XÇ " />
+	<block key="fedenivan99_name" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_1" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_2" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_3" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_4" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_5" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_6" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_7" korean="p³È²¼XÇ " />
+	<block key="fedenivan99_description_8" korean="p³È²¼XÇ " />
+	<block key="fekibaren99_name" korean="®[¾XÇ " />
+	<block key="fekibaren99_description_1" korean="¤Ð¼¸XÇ " />
+	<block key="fekibaren99_description_2" korean="¤Ð¼¸XÇ " />
+	<block key="fekibaren99_description_3" korean="¤Ð¼¸XÇ " />
+	<block key="fekibaren99_description_4" korean="¤Ð¼¸XÇ " />
+	<block key="fekibaren99_description_5" korean="¤Ð¼¸XÇ " />
+	<block key="fekibaren99_description_6" korean="¤Ð¼¸XÇ " />
+	<block key="fekibaren99_description_7" korean="¤Ð¼¸XÇ " />
+	<block key="fekibaren99_description_8" korean="¤Ð¼¸XÇ " />
+	<block key="febajyanin99_name" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_1" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_2" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_3" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_4" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_5" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_6" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_7" korean="¼ÈÇÌ²XÇ " />
+	<block key="febajyanin99_description_8" korean="¼ÈÇÌ²XÇ " />
+	<block key="fegoldgriff99_name" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_1" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_2" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_3" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_4" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_5" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_6" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_7" korean="ø­¬¹ðÓXÇ " />
+	<block key="fegoldgriff99_description_8" korean="ø­¬¹ðÓXÇ " />
+	<block key="feboneash99_name" korean="ø¼ " />
+	<block key="feboneash99_description_1" korean="ø¼ " />
+	<block key="feboneash99_description_2" korean="ø¼ " />
+	<block key="feboneash99_description_3" korean="ø¼ " />
+	<block key="feboneash99_description_4" korean="ø¼ " />
+	<block key="feboneash99_description_5" korean="ø¼ " />
+	<block key="feboneash99_description_6" korean="ø¼ " />
+	<block key="feboneash99_description_7" korean="ø¼ " />
+	<block key="feboneash99_description_8" korean="ø¼ " />
+	<block key="fetoro99_name" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_1" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_2" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_3" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_4" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_5" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_6" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_7" korean=" Ñ\¸XÇ " />
+	<block key="fetoro99_description_8" korean=" Ñ\¸XÇ " />
+	<block key="feundeadbear99_name" korean="¸Åp³Ü´XÇ " />
+	<block key="feundeadbear99_description_1" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadbear99_description_2" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadbear99_description_3" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadbear99_description_4" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadbear99_description_5" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadbear99_description_6" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadbear99_description_7" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadbear99_description_8" korean="ÈÐ¬¹(ÆXÇ " />
+	<block key="feundeadcow99_name" korean="¸Åp³Ü´XÇ " />
+	<block key="feundeadcow99_description_1" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadcow99_description_2" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadcow99_description_3" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadcow99_description_4" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadcow99_description_5" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadcow99_description_6" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadcow99_description_7" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadcow99_description_8" korean="¸Ò¸¼XÇ " />
+	<block key="feundeadwolf99_name" korean="¸Åp³Ü´XÇ " />
+	<block key="feundeadwolf99_description_1" korean="TÏ¼XÇ " />
+	<block key="feundeadwolf99_description_2" korean="TÏ¼XÇ " />
+	<block key="feundeadwolf99_description_3" korean="TÏ¼XÇ " />
+	<block key="feundeadwolf99_description_4" korean="TÏ¼XÇ " />
+	<block key="feundeadwolf99_description_5" korean="TÏ¼XÇ " />
+	<block key="feundeadwolf99_description_6" korean="TÏ¼XÇ " />
+	<block key="feundeadwolf99_description_7" korean="TÏ¼XÇ " />
+	<block key="feundeadwolf99_description_8" korean="TÏ¼XÇ " />
+	<block key="femutant99_name" korean="Ì³ðÅÀ¼tÇXÇ " />
+	<block key="femutant99_description_1" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="femutant99_description_2" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="femutant99_description_3" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="femutant99_description_4" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="femutant99_description_5" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="femutant99_description_6" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="femutant99_description_7" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="femutant99_description_8" korean="Ì³ðÅÀ¼tÇ " />
+	<block key="fedstturtle99_name" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_1" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_2" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_3" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_4" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_5" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_6" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_7" korean="¬ÀÉ¹ " />
+	<block key="fedstturtle99_description_8" korean="¬ÀÉ¹ " />
+	<block key="fealiva99_name" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_1" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_2" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_3" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_4" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_5" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_6" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_7" korean="LÅ¬¹¼XÇ " />
+	<block key="fealiva99_description_8" korean="LÅ¬¹¼XÇ " />
+	<block key="feboneleopn99_name" korean="ø¼ " />
+	<block key="feboneleopn99_description_1" korean="ø¼ " />
+	<block key="feboneleopn99_description_2" korean="ø¼ " />
+	<block key="feboneleopn99_description_3" korean="ø¼ " />
+	<block key="feboneleopn99_description_4" korean="ø¼ " />
+	<block key="feboneleopn99_description_5" korean="ø¼ " />
+	<block key="feboneleopn99_description_6" korean="ø¼ " />
+	<block key="feboneleopn99_description_7" korean="ø¼ " />
+	<block key="feboneleopn99_description_8" korean="ø¼ " />
+	<block key="feseacroc99_name" korean="¼ä² " />
+	<block key="feseacroc99_description_1" korean="¼ä² " />
+	<block key="feseacroc99_description_2" korean="¼ä² " />
+	<block key="feseacroc99_description_3" korean="¼ä² " />
+	<block key="feseacroc99_description_4" korean="¼ä² " />
+	<block key="feseacroc99_description_5" korean="¼ä² " />
+	<block key="feseacroc99_description_6" korean="¼ä² " />
+	<block key="feseacroc99_description_7" korean="¼ä² " />
+	<block key="feseacroc99_description_8" korean="¼ä² " />
+	<block key="fepiyo99_name" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_1" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_2" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_3" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_4" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_5" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_6" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_7" korean="<Õ”ÆXÇ " />
+	<block key="fepiyo99_description_8" korean="<Õ”ÆXÇ " />
+	<block key="fedenva99_name" korean="t³¼XÇ " />
+	<block key="fedenva99_description_1" korean="t³¼XÇ " />
+	<block key="fedenva99_description_2" korean="t³¼XÇ " />
+	<block key="fedenva99_description_3" korean="t³¼XÇ " />
+	<block key="fedenva99_description_4" korean="t³¼XÇ " />
+	<block key="fedenva99_description_5" korean="t³¼XÇ " />
+	<block key="fedenva99_description_6" korean="t³¼XÇ " />
+	<block key="fedenva99_description_7" korean="t³¼XÇ " />
+	<block key="fedenva99_description_8" korean="t³¼XÇ " />
+	<block key="feboneleopc99_name" korean="ø¼ " />
+	<block key="feboneleopc99_description_1" korean="ø¼ " />
+	<block key="feboneleopc99_description_2" korean="ø¼ " />
+	<block key="feboneleopc99_description_3" korean="ø¼ " />
+	<block key="feboneleopc99_description_4" korean="ø¼ " />
+	<block key="feboneleopc99_description_5" korean="ø¼ " />
+	<block key="feboneleopc99_description_6" korean="ø¼ " />
+	<block key="feboneleopc99_description_7" korean="ø¼ " />
+	<block key="feboneleopc99_description_8" korean="ø¼ " />
+	<block key="febaldeagle99_name" korean="Å³Â¬¹XÇ " />
+	<block key="febaldeagle99_description_1" korean="" />
+	<block key="febaldeagle99_description_2" korean="" />
+	<block key="febaldeagle99_description_3" korean="" />
+	<block key="febaldeagle99_description_4" korean="" />
+	<block key="febaldeagle99_description_5" korean="" />
+	<block key="febaldeagle99_description_6" korean="" />
+	<block key="febaldeagle99_description_7" korean="" />
+	<block key="febaldeagle99_description_8" korean="" />
+	<block key="fedstleop99_name" korean="\Ô”¼XÇ " />
+	<block key="fedstleop99_description_1" korean="¬ÀÉ¹ " />
+	<block key="fedstleop99_description_2" korean="¬ÀÉ¹ " />
+	<block key="fedstleop99_description_3" korean="¬ÀÉ¹ " />
+	<block key="fedstleop99_description_4" korean="¬ÀÉ¹ " />
+	<block key="fedstleop99_description_5" korean="¬ÀÉ¹ " />
+	<block key="fedstleop99_description_6" korean="¬ÀÉ¹ " />
+	<block key="fedstleop99_description_7" korean="¬ÀÉ¹ " />
+	<block key="fedstleop99_description_8" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_name" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_1" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_2" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_3" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_4" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_5" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_6" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_7" korean="¬ÀÉ¹ " />
+	<block key="fedstspider99_description_8" korean="¬ÀÉ¹ " />
+	<block key="fescortong99_name" korean="È¬XÇ " />
+	<block key="fescortong99_description_1" korean="ÑÉŒ¬ " />
+	<block key="fescortong99_description_2" korean="ÑÉŒ¬ " />
+	<block key="fescortong99_description_3" korean="ÑÉŒ¬ " />
+	<block key="fescortong99_description_4" korean="ÑÉŒ¬ " />
+	<block key="fescortong99_description_5" korean="ÑÉŒ¬ " />
+	<block key="fescortong99_description_6" korean="ÑÉŒ¬ " />
+	<block key="fescortong99_description_7" korean="ÑÉŒ¬ " />
+	<block key="fescortong99_description_8" korean="ÑÉŒ¬ " />
+	<block key="fescortail99_name" korean="È¬XÇ " />
+	<block key="fescortail99_description_1" korean="Å³hÎ " />
+	<block key="fescortail99_description_2" korean="Å³hÎ " />
+	<block key="fescortail99_description_3" korean="Å³hÎ " />
+	<block key="fescortail99_description_4" korean="Å³hÎ " />
+	<block key="fescortail99_description_5" korean="Å³hÎ " />
+	<block key="fescortail99_description_6" korean="Å³hÎ " />
+	<block key="fescortail99_description_7" korean="Å³hÎ " />
+	<block key="fescortail99_description_8" korean="Å³hÎ " />
+	<block key="feraku99_name" korean="|·àÏXÇ " />
+	<block key="feraku99_description_1" korean="|·àÏXÇ " />
+	<block key="feraku99_description_2" korean="|·àÏXÇ " />
+	<block key="feraku99_description_3" korean="|·àÏXÇ " />
+	<block key="feraku99_description_4" korean="|·àÏXÇ " />
+	<block key="feraku99_description_5" korean="|·àÏXÇ " />
+	<block key="feraku99_description_6" korean="|·àÏXÇ " />
+	<block key="feraku99_description_7" korean="|·àÏXÇ " />
+	<block key="feraku99_description_8" korean="|·àÏXÇ " />
+	<block key="fedstboar99_name" korean="gºü³ÀÉXÇ " />
+	<block key="fedstboar99_description_1" korean="¬ÀÉ¹ " />
+	<block key="fedstboar99_description_2" korean="¬ÀÉ¹ " />
+	<block key="fedstboar99_description_3" korean="¬ÀÉ¹ " />
+	<block key="fedstboar99_description_4" korean="¬ÀÉ¹ " />
+	<block key="fedstboar99_description_5" korean="¬ÀÉ¹ " />
+	<block key="fedstboar99_description_6" korean="¬ÀÉ¹ " />
+	<block key="fedstboar99_description_7" korean="¬ÀÉ¹ " />
+	<block key="fedstboar99_description_8" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_name" korean="„¼Ó\¸XÇ " />
+	<block key="fedstbison99_description_1" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_description_2" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_description_3" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_description_4" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_description_5" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_description_6" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_description_7" korean="¬ÀÉ¹ " />
+	<block key="fedstbison99_description_8" korean="¬ÀÉ¹ " />
+	<block key="feoasiscroc99_name" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_1" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_2" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_3" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_4" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_5" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_6" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_7" korean="$ÆDÅÜÂ¤Â " />
+	<block key="feoasiscroc99_description_8" korean="$ÆDÅÜÂ¤Â " />
+	<block key="fecannispider99_name" korean="ÝÂxÇp¬ø»XÇ " />
+	<block key="fecannispider99_description_1" korean="è¬ÜÉ0® " />
+	<block key="fecannispider99_description_2" korean="è¬ÜÉ0® " />
+	<block key="fecannispider99_description_3" korean="è¬ÜÉ0® " />
+	<block key="fecannispider99_description_4" korean="è¬ÜÉ0® " />
+	<block key="fecannispider99_description_5" korean="è¬ÜÉ0® " />
+	<block key="fecannispider99_description_6" korean="è¬ÜÉ0® " />
+	<block key="fecannispider99_description_7" korean="è¬ÜÉ0® " />
+	<block key="fecannispider99_description_8" korean="è¬ÜÉ0® " />
+	<block key="fesunguard99_name" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_1" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_2" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_3" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_4" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_5" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_6" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_7" korean="ÜÐ‘ÅXÇ " />
+	<block key="fesunguard99_description_8" korean="ÜÐ‘ÅXÇ " />
+	<block key="fef05psv_name" korean="ôÅ¬ÀXÇ " />
+	<block key="fef05psv_description_1" korean="¬ÀÉ¹ " />
+	<block key="ferodeshi01_name" korean="©¬x±XÇ " />
+	<block key="fevegarus01_name" korean="Å³aÅXÇ " />
+	<block key="ferodeshi01_description_1" korean="¸ºXÇ " />
+	<block key="fevegarus01_description_1" korean="Å³aÅDÇ " />
+	<block key="fecapopdevy99_name" korean="ì²dÏ\Õ " />
+	<block key="fecapopdevy99_description_1" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy99_description_2" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy99_description_3" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy99_description_4" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy99_description_5" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy99_description_6" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy99_description_7" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy99_description_8" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopdevy00_name" korean="ì²dÏ\Õ " />
+	<block key="fecapopdevy00_description_1" korean="d¸¬¹ÓXÇ " />
+	<block key="fecapopheal01_Name" korean="ì²dÏ\Õ " />
+	<block key="fecapopheal01_Description_1" korean="p³D¾" />
+	<block key="fecarudolph99_name" korean="è¸Ì³ÕXÇ " />
+	<block key="fecarudolph99_description_1" korean=" Á<»DÇ " />
+	<block key="fecarudolph99_description_2" korean=" Á<»DÇ " />
+	<block key="fecarudolph99_description_3" korean=" Á<»DÇ " />
+	<block key="fecarudolph99_description_4" korean=" Á<»DÇ " />
+	<block key="fecarudolph99_description_5" korean=" Á<»DÇ " />
+	<block key="fecarudolph99_description_6" korean=" Á<»DÇ " />
+	<block key="fecarudolph99_description_7" korean=" Á<»DÇ " />
+	<block key="fecarudolph99_description_8" korean=" Á<»DÇ " />
+	<block key="feishzora01_Name" korean="3" />
+	<block key="feishzora01_description_1" korean="€¬DÇ " />
+	<block key="fekeze01_Name" korean="È0® " />
+	<block key="fekeze01_description_1" korean="¬\Õ " />
+	<block key="felilis01_Name" korean="´Å`´XÇ " />
+	<block key="felilis01_description_1" korean="´Å`´XÇ " />
+</blocks>

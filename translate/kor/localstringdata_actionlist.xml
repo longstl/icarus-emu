@@ -1,0 +1,55 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="actionlist_normal_Attack_title" korean="|Ç¼ " />
+	<block key="actionlist_normal_Attack_desc" korean="ÀÉÈ´ " />
+	<block key="actionlist_normal_Looting_title" korean="DÅtÇ\Ñ " />
+	<block key="actionlist_normal_Looting_desc" korean="" />
+	<block key="actionlist_normal_BattleOrNoBattle_title" korean="È,Ò/" />
+	<block key="actionlist_normal_BattleOrNoBattle_desc" korean="Î­¹0ÑXÇ " />
+	<block key="actionlist_normal_WalkOrRun_title" korean="w¬0®/" />
+	<block key="actionlist_normal_WalkOrRun_desc" korean="Î­¹0Ñ|¹ " />
+	<block key="actionlist_community_InviteToParty_title" korean="ÓðÒ " />
+	<block key="actionlist_community_InviteToParty_desc" korean="ÁÀ" />
+	<block key="actionlist_community_RequestBattle_title" korean="°¬,Ò " />
+	<block key="actionlist_community_RequestBattle_desc" korean="ÁÀ" />
+	<block key="actionlist_community_RequestTrade_title" korean="1" />
+	<block key="actionlist_community_RequestTrade_desc" korean="ÁÀ" />
+	<block key="actionlist_skill_Taming_title" korean="8®ä´tÇ0®" />
+	<block key="actionlist_skill_Taming_desc" korean=" ÁÝÐ\Õ " />
+	<block key="actionlist_skill_Absorption_title" korean="Æ<Öa×Â" />
+	<block key="actionlist_skill_Absorption_desc" korean=" ÁÝÐ\Õ " />
+	<block key="actionlist_emotion_0_title" korean="¹Â¬¹" />
+	<block key="actionlist_emotion_0_desc" korean="È,ÒÐÅ " />
+	<block key="actionlist_emotion_1_title" korean="(Ó0¼" />
+	<block key="actionlist_emotion_1_desc" korean="È,ÒÐÅ " />
+	<block key="actionlist_emotion_2_title" korean="à¬1¼" />
+	<block key="actionlist_emotion_2_desc" korean="ÁÀ" />
+	<block key="actionlist_emotion_3_title" korean="€±Œ·" />
+	<block key="actionlist_emotion_3_desc" korean="\®ÝÉ " />
+	<block key="actionlist_emotion_4_title" korean="Ì³©¬" />
+	<block key="actionlist_emotion_4_desc" korean="È)¼<Ç\¸ " />
+	<block key="actionlist_emotion_5_title" korean="ÃÆ0®" />
+	<block key="actionlist_emotion_5_desc" korean="àÂ˜°Œ¬ " />
+	<block key="actionlist_emotion_6_title" korean="QÇÐÆ" />
+	<block key="actionlist_emotion_6_desc" korean="¸ºDÇ " />
+	<block key="actionlist_emotion_7_title" korean="p¬È" />
+	<block key="actionlist_emotion_7_desc" korean="ÁÀ" />
+	<block key="actionlist_emotion_8_title" korean="¼Â" />
+	<block key="actionlist_emotion_8_desc" korean="¼Â|¹ " />
+	<block key="actionlist_emotion_9_title" korean="®È" />
+	<block key="actionlist_emotion_9_desc" korean="à¬¬|¹ " />
+	<block key="actionlist_normal_Change2Magicstone_title" korean="Æ<ÖÁ " />
+	<block key="actionlist_normal_Change2Magicstone_desc" korean=" Ó\¸°ÆXÇ " />
+	<block key="actionlist_normal_CreatureRide_title" korean=" Ó\¸°Æ " />
+	<block key="actionlist_normal_CreatureRide_desc" korean="ŒÁXÖXÕà¬ " />
+	<block key="actionlist_normal_swapweapon_title" korean="4»0® " />
+	<block key="actionlist_normal_swapweapon_desc" korean=")Ì©ÆXÕà¬ " />
+	<block key="actionlist_normal_SitOrStand_title" korean="IÅ0®/" />
+	<block key="actionlist_normal_SitOrStand_desc" korean="Î­¹0Ñ|¹ " />
+</blocks>

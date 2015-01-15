@@ -19,7 +19,8 @@
 #include "./server/SM_STARTGAME.h"
 #include "./server/SM_GETPIN.h"
 #include "./server/SM_PIN.h"
-#include "./server/SM_UNK1.h"
+#include "./server/SM_UPDATE_CHARACTER_INFO.h"
+#include "./server/SM_DELETE_S.h"
 
 // Client to server
 #include "./client/CM_PING.h"

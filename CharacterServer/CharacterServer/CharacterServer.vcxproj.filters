@@ -75,9 +75,6 @@
     <ClInclude Include="network\server\SM_STARTGAME.h">
       <Filter>CS\network\server</Filter>
     </ClInclude>
-    <ClInclude Include="network\server\SM_UNK1.h">
-      <Filter>CS\network\server</Filter>
-    </ClInclude>
     <ClInclude Include="common\database.h">
       <Filter>CS\common</Filter>
     </ClInclude>
@@ -104,6 +101,12 @@
       <Filter>CS\network\client</Filter>
     </ClInclude>
     <ClInclude Include="network\server\SM_RESTORE_CONNECTION.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UPDATE_CHARACTER_INFO.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_DELETE_S.h">
       <Filter>CS\network\server</Filter>
     </ClInclude>
   </ItemGroup>

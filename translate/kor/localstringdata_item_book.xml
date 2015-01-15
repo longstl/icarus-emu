@@ -1,0 +1,115 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="BK_0_0000_Name" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="BK_0_0000_description" korean="LÑ¤Â¸Ò©Æ " />
+	<block key="BK_0_0000_text" korean="$Æ& !" />
+	<block key="BK_0_0001_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0001_description" korean="‘²" />
+	<block key="BK_0_0001_text" korean="<" />
+	<block key="BK_0_0001_text_attach_0" korean="<" />
+	<block key="BK_0_0001_text_attach_1" korean="<" />
+	<block key="BK_0_0002_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0002_description" korean="ø­¼¹Ç " />
+	<block key="BK_0_0002_text" korean="<" />
+	<block key="BK_0_0002_text_attach_0" korean="<" />
+	<block key="BK_0_0002_text_attach_1" korean="<" />
+	<block key="BK_0_0003_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0003_description" korean="´À¡ÏtÇX¹(" />
+	<block key="BK_0_0003_text" korean="<" />
+	<block key="BK_0_0003_text_attach_0" korean="<" />
+	<block key="BK_0_0003_text_attach_1" korean="<" />
+	<block key="BK_0_0004_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0004_description" korean="ð¬DÇ " />
+	<block key="BK_0_0004_text" korean="<" />
+	<block key="BK_0_0004_text_attach_0" korean="<" />
+	<block key="BK_0_0004_text_attach_1" korean="<" />
+	<block key="BK_0_0005_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0005_description" korean="gºü³ÀÉ|¹ " />
+	<block key="BK_0_0005_text" korean="<" />
+	<block key="BK_0_0005_text_attach_0" korean="<" />
+	<block key="BK_0_0005_text_attach_1" korean="<" />
+	<block key="BK_0_0006_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0006_description" korean="ŒÁ|¹ " />
+	<block key="BK_0_0006_text" korean="<" />
+	<block key="BK_0_0006_text_attach_0" korean="<" />
+	<block key="BK_0_0006_text_attach_1" korean="<" />
+	<block key="BK_0_0007_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0007_description" korean="p¬ø»|¹ " />
+	<block key="BK_0_0007_text" korean="<" />
+	<block key="BK_0_0007_text_attach_0" korean="<" />
+	<block key="BK_0_0007_text_attach_1" korean="<" />
+	<block key="BK_0_0008_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0008_description" korean="Â]¸DÇ " />
+	<block key="BK_0_0008_text" korean="<" />
+	<block key="BK_0_0008_text_attach_0" korean="<" />
+	<block key="BK_0_0008_text_attach_1" korean="<" />
+	<block key="BK_0_0009_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0009_description" korean="ÂÈÔ¿ " />
+	<block key="BK_0_0009_text" korean="<" />
+	<block key="BK_0_0009_text_attach_0" korean="<" />
+	<block key="BK_0_0009_text_attach_1" korean="<" />
+	<block key="BK_0_0010_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0010_description" korean="p¬½tÇ|¹ " />
+	<block key="BK_0_0010_text" korean="<" />
+	<block key="BK_0_0010_text_attach_0" korean="<" />
+	<block key="BK_0_0010_text_attach_1" korean="<" />
+	<block key="BK_0_0011_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0011_description" korean="Ð¹DÇ " />
+	<block key="BK_0_0011_text" korean="<" />
+	<block key="BK_0_0011_text_attach_0" korean="<" />
+	<block key="BK_0_0011_text_attach_1" korean="<" />
+	<block key="BK_0_0012_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0012_description" korean=" ÇÈ²XÏDÇ " />
+	<block key="BK_0_0012_text" korean="<" />
+	<block key="BK_0_0012_text_attach_0" korean="<" />
+	<block key="BK_0_0012_text_attach_1" korean="<" />
+	<block key="BK_0_0013_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0013_description" korean="ˆ½ÈÀ|¹ " />
+	<block key="BK_0_0013_text" korean="<" />
+	<block key="BK_0_0013_text_attach_0" korean="<" />
+	<block key="BK_0_0013_text_attach_1" korean="<" />
+	<block key="BK_0_0014_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0014_description" korean="Á1ÁDÇ " />
+	<block key="BK_0_0014_text" korean="<" />
+	<block key="BK_0_0014_text_attach_0" korean="<" />
+	<block key="BK_0_0014_text_attach_1" korean="<" />
+	<block key="BK_0_0015_Name" korean="8®ä´tÇ0® " />
+	<block key="BK_0_0015_description" korean="üÈxÇtÇ " />
+	<block key="BK_0_0015_text" korean="<" />
+	<block key="BK_0_0015_text_attach_0" korean="<" />
+	<block key="BK_0_0015_text_attach_1" korean="<" />
+	<block key="BK_0_0016_Name" korean=""Ì´ÅÄÉ " />
+	<block key="BK_0_0016_description" korean="ð¬DÇ " />
+	<block key="BK_0_0016_text" korean=""Ì´ÅÄÉ " />
+	<block key="BK_0_0016_text_attach_0" korean="<" />
+	<block key="BK_0_0017_Name" korean="ñ´" />
+	<block key="BK_0_0017_description" korean="¨ºØÕÇ " />
+	<block key="BK_0_0017_text" korean="ñ´" />
+	<block key="BK_0_0017_text_attach_0" korean="<" />
+	<block key="BK_0_0017_text_attach_1" korean="<" />
+	<block key="BK_0_0017_text_attach_2" korean="<" />
+	<block key="BK_0_0017_text_attach_3" korean="<" />
+	<block key="BK_0_0018_Name" korean="¨¼È\¸¤ÂXÇ " />
+	<block key="BK_0_0018_description" korean="¨¼È\¸¤Â" />
+	<block key="BK_0_0018_text" korean="¨¼È\¸¤ÂXÇ " />
+	<block key="BK_0_0018_text_attach_0" korean="EµÐÅÁ " />
+	<block key="BK_0_0018_text_attach_1" korean="<" />
+	<block key="BK_0_0018_text_attach_2" korean="<" />
+	<block key="BK_0_0018_text_attach_3" korean="<" />
+	<block key="BK_0_0019_Name" korean="¸Ò|·tÇ¸Ò¼Å " />
+	<block key="BK_0_0019_description" korean="xºÝ¹XÇ " />
+	<block key="BK_0_0019_text" korean="¸Ò|·tÇ¸Ò¼Å " />
+	<block key="BK_0_0019_text_attach_0" korean="[¾XÇ " />
+	<block key="BK_0_0019_text_attach_1" korean="<" />
+	<block key="BK_0_0019_text_attach_2" korean="<" />
+	<block key="BK_0_0019_text_attach_3" korean="<" />
+	<block key="BK_0_0019_text_attach_4" korean="<" />
+	<block key="BK_0_0019_text_attach_5" korean="<" />
+	<block key="BK_0_0019_text_attach_6" korean="<" />
+</blocks>

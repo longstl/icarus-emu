@@ -1,0 +1,134 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ChatMsg_emotion_win_my_target" korean="You [Target] looking at the response to rejoice in victory." />
+	<block key="ChatMsg_emotion_lose_my_target" korean="You are looking at the [Target] s I feel defeated." />
+	<block key="ChatMsg_emotion_confession_my_target" korean="You [Target] Send a shyly confesses." />
+	<block key="ChatMsg_emotion_surprise_my_target" korean="You are greatly surprised to see [Target] Su." />
+	<block key="ChatMsg_emotion_charge_my_target" korean="You are driving home the [Target] s." />
+	<block key="ChatMsg_emotion_shame_my_target" korean="You should be ashamed of looking at the [Target] s." />
+	<block key="ChatMsg_emotion_greeting_my_target" korean="You [Target] The response to the hand goodbye." />
+	<block key="ChatMsg_emotion_joyful_my_target" korean="You will delight watching the [Target] s." />
+	<block key="ChatMsg_emotion_cry_my_target" korean="You are looking at the clear eongeong [Target] s." />
+	<block key="ChatMsg_emotion_smile_my_target" korean="You laugh greatly looking at the [Target] s." />
+	<block key="ChatMsg_emotion_cheerup_my_target" korean="You will support the [Target] s." />
+	<block key="ChatMsg_emotion_mockery_my_target" korean="You have to make fun of [Target] s." />
+	<block key="ChatMsg_emotion_cheers_my_target" korean="You will cheer watching [Target] s." />
+	<block key="ChatMsg_emotion_penalty1_my_target" korean="You will receive a penalty sweat to [Target] s." />
+	<block key="ChatMsg_emotion_penalty2_my_target" korean="You will receive a penalty harder to [Target] s." />
+	<block key="ChatMsg_emotion_refuse_my_target" korean="Your doctor Unveils the [Target] Send a refusal." />
+	<block key="ChatMsg_emotion_angry_my_target" korean="You get angry watching the [Target] s." />
+	<block key="ChatMsg_emotion_applause_my_target" korean="You hit the applause watching the [Target] s." />
+	<block key="ChatMsg_emotion_salute_my_target" korean="You [Target] The response to the salute." />
+	<block key="ChatMsg_emotion_beg_my_target" korean="You have to [Target] response to the begging." />
+	<block key="ChatMsg_emotion_cheek_my_target" korean="You [Target] is ttaerip's a slap hard." />
+	<block key="ChatMsg_emotion_slapped_my_target" korean="You [Target] The APA's a slap hit." />
+	<block key="ChatMsg_emotion_beg2_my_target" korean="You write the [Target] Send a herd. Jing whining" />
+	<block key="ChatMsg_emotion_step_my_target" korean="You have the ability as hard as the [Target] s. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_my_target" korean="You are looking at the [Target] reveals the doctor's positive." />
+	<block key="ChatMsg_emotion_win_others_target" korean="[Actor] wrote [Target] looking at the response to rejoice in victory." />
+	<block key="ChatMsg_emotion_lose_others_target" korean="[Actor] wrote watching the [Target] s I feel defeated." />
+	<block key="ChatMsg_emotion_confession_others_target" korean="[Actor] wrote [Target] Send a shyly confesses." />
+	<block key="ChatMsg_emotion_surprise_others_target" korean="[Actor] wrote greatly surprised to see [Target] Su." />
+	<block key="ChatMsg_emotion_charge_others_target" korean="[Actor] has taken charge towards the [Target] s." />
+	<block key="ChatMsg_emotion_shame_others_target" korean="[Actor] has taken embarrassed watching the [Target] s." />
+	<block key="ChatMsg_emotion_greeting_others_target" korean="[Actor] wrote [Target] The response to the hand goodbye." />
+	<block key="ChatMsg_emotion_joyful_others_target" korean="[Actor] has taken delight watching the [Target] s." />
+	<block key="ChatMsg_emotion_cry_others_target" korean="[Actor] wrote eongeong clear looking at the [Target] s." />
+	<block key="ChatMsg_emotion_smile_others_target" korean="[Actor] wrote greatly laugh watching the [Target] s." />
+	<block key="ChatMsg_emotion_cheerup_others_target" korean="[Actor] wrote cheer [Target] s." />
+	<block key="ChatMsg_emotion_mockery_others_target" korean="[Actor] wrote to mock the [Target] s." />
+	<block key="ChatMsg_emotion_cheers_others_target" korean="[Actor] has taken cheers watching the [Target] s." />
+	<block key="ChatMsg_emotion_penalty1_others_target" korean="[Actor] wrote receive a penalty sweat to [Target] s." />
+	<block key="ChatMsg_emotion_penalty2_others_target" korean="[Actor] s are hard to receive a penalty for [Target] s." />
+	<block key="ChatMsg_emotion_refuse_others_target" korean="[Actor] Unveils doctor wrote [Target] Send a refusal." />
+	<block key="ChatMsg_emotion_angry_others_target" korean="[Actor] wrote get angry watching the [Target] s." />
+	<block key="ChatMsg_emotion_applause_others_target" korean="[Actor] wrote watching the [Target] 's hit the applause." />
+	<block key="ChatMsg_emotion_salute_others_target" korean="[Actor] wrote [Target] The response to the salute." />
+	<block key="ChatMsg_emotion_beg_others_target" korean="[Actor] wrote to [Target] response to the begging." />
+	<block key="ChatMsg_emotion_cheek_others_target" korean="[Actor] wrote [Target] is ttaerip's a slap hard." />
+	<block key="ChatMsg_emotion_slapped_others_target" korean="[Actor] wrote [Target] The APA's a slap hit." />
+	<block key="ChatMsg_emotion_beg2_others_target" korean="[Actor] wrote [Target] writes a response to the flock. Jing whining" />
+	<block key="ChatMsg_emotion_step_others_target" korean="[Actor] wrote was trampled as hard as the [Target] s. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_others_target" korean="[Actor] wrote watching the [Target] reveals the doctor's positive." />
+	<block key="ChatMsg_emotion_win_yours" korean="[Actor] has taken delight in watching you win." />
+	<block key="ChatMsg_emotion_lose_yours" korean="[Actor] looking for: you feel defeated." />
+	<block key="ChatMsg_emotion_confession_yours" korean="[Actor] wrote shyly confess to you." />
+	<block key="ChatMsg_emotion_surprise_yours" korean="[Actor] wrote greatly surprised to see you." />
+	<block key="ChatMsg_emotion_charge_yours" korean="[Actor] has taken charge towards you." />
+	<block key="ChatMsg_emotion_shame_yours" korean="[Actor] has taken embarrassed watching you." />
+	<block key="ChatMsg_emotion_greeting_yours" korean="[Actor] has taken you a hand goodbye." />
+	<block key="ChatMsg_emotion_joyful_yours" korean="[Actor] has taken delight watching you." />
+	<block key="ChatMsg_emotion_cry_yours" korean="[Actor] s is clear eongeong watching you." />
+	<block key="ChatMsg_emotion_smile_yours" korean="[Actor] wrote greatly laugh watching you." />
+	<block key="ChatMsg_emotion_cheerup_yours" korean="[Actor] wrote to cheer you up." />
+	<block key="ChatMsg_emotion_mockery_yours" korean="[Actor] wrote to ridicule you." />
+	<block key="ChatMsg_emotion_cheers_yours" korean="[Actor] has taken cheers watching you." />
+	<block key="ChatMsg_emotion_penalty1_yours" korean="[Actor] wrote to you subject to penalties shed sweat." />
+	<block key="ChatMsg_emotion_penalty2_yours" korean="[Actor] wrote it harder for you to receive the penalty." />
+	<block key="ChatMsg_emotion_refuse_yours" korean="[Actor] reveals a physician's refusal to you." />
+	<block key="ChatMsg_emotion_angry_yours" korean="[Actor] wrote get angry watching you." />
+	<block key="ChatMsg_emotion_applause_yours" korean="[Actor] wrote to finish watching your applause." />
+	<block key="ChatMsg_emotion_salute_yours" korean="[Actor] has taken you a salute." />
+	<block key="ChatMsg_emotion_beg_yours" korean="[Actor] has taken you a beggar." />
+	<block key="ChatMsg_emotion_cheek_yours" korean="[Actor] wrote it as hard as possible ttaerip your slap." />
+	<block key="ChatMsg_emotion_slapped_yours" korean="[Actor] has taken hit hurts you a slap." />
+	<block key="ChatMsg_emotion_beg2_yours" korean="[Actor] wrote you a written release. Jing whining" />
+	<block key="ChatMsg_emotion_step_yours" korean="[Actor] I watched you walk on hard. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_yours" korean="[Actor] for: talk to your doctor Unveils positive." />
+	<block key="ChatMsg_emotion_win_my_notarget" korean="You will be glad to win." />
+	<block key="ChatMsg_emotion_lose_my_notarget" korean="You feel defeated." />
+	<block key="ChatMsg_emotion_confession_my_notarget" korean="You have to confess shyly." />
+	<block key="ChatMsg_emotion_surprise_my_notarget" korean="You are greatly surprised." />
+	<block key="ChatMsg_emotion_charge_my_notarget" korean="You have to assault." />
+	<block key="ChatMsg_emotion_shame_my_notarget" korean="You should be ashamed." />
+	<block key="ChatMsg_emotion_greeting_my_notarget" korean="You have to hand goodbye." />
+	<block key="ChatMsg_emotion_joyful_my_notarget" korean="You will be glad." />
+	<block key="ChatMsg_emotion_cry_my_notarget" korean="You eongeong clear." />
+	<block key="ChatMsg_emotion_smile_my_notarget" korean="You laugh greatly." />
+	<block key="ChatMsg_emotion_cheerup_my_notarget" korean="Will you cheer." />
+	<block key="ChatMsg_emotion_mockery_my_notarget" korean="You have to ridicule." />
+	<block key="ChatMsg_emotion_cheers_my_notarget" korean="You have to cheer." />
+	<block key="ChatMsg_emotion_penalty1_my_notarget" korean="You will receive a penalty sweat." />
+	<block key="ChatMsg_emotion_penalty2_my_notarget" korean="The harder you receive a penalty." />
+	<block key="ChatMsg_emotion_refuse_my_notarget" korean="You Unveils intention of the refusal." />
+	<block key="ChatMsg_emotion_angry_my_notarget" korean="You get angry." />
+	<block key="ChatMsg_emotion_applause_my_notarget" korean="You hit the applause." />
+	<block key="ChatMsg_emotion_salute_my_notarget" korean="You have to salute." />
+	<block key="ChatMsg_emotion_beg_my_notarget" korean="You have to beg." />
+	<block key="ChatMsg_emotion_cheek_my_notarget" korean="You will ttaerip as hard slap." />
+	<block key="ChatMsg_emotion_slapped_my_notarget" korean="You have to hit a slap hurts." />
+	<block key="ChatMsg_emotion_beg2_my_notarget" korean="You write the herd. Jing whining" />
+	<block key="ChatMsg_emotion_step_my_notarget" korean="You have the ability as hard as possible. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_my_notarget" korean="Your doctor Unveils positive." />
+	<block key="ChatMsg_emotion_win_others_notarget" korean="[Actor] has taken delight in victory." />
+	<block key="ChatMsg_emotion_lose_others_notarget" korean="[Actor] wrote feel defeated." />
+	<block key="ChatMsg_emotion_confession_others_notarget" korean="[Actor] wrote confesses shyly." />
+	<block key="ChatMsg_emotion_surprise_others_notarget" korean="[Actor] wrote greatly surprised." />
+	<block key="ChatMsg_emotion_charge_others_notarget" korean="[Actor] has taken charge." />
+	<block key="ChatMsg_emotion_shame_others_notarget" korean="[Actor] has taken ashamed." />
+	<block key="ChatMsg_emotion_greeting_others_notarget" korean="[Actor] has taken a hands personnel." />
+	<block key="ChatMsg_emotion_joyful_others_notarget" korean="[Actor] has taken delight." />
+	<block key="ChatMsg_emotion_cry_others_notarget" korean="[Actor] wrote eongeong clear." />
+	<block key="ChatMsg_emotion_smile_others_notarget" korean="[Actor] wrote greatly laugh." />
+	<block key="ChatMsg_emotion_cheerup_others_notarget" korean="[Actor] wrote cheer." />
+	<block key="ChatMsg_emotion_mockery_others_notarget" korean="[Actor] wrote to ridicule." />
+	<block key="ChatMsg_emotion_cheers_others_notarget" korean="[Actor] has taken cheers." />
+	<block key="ChatMsg_emotion_penalty1_others_notarget" korean="[Actor] wrote receive a penalty sweat." />
+	<block key="ChatMsg_emotion_penalty2_others_notarget" korean="[Actor] s are hard to receive a penalty." />
+	<block key="ChatMsg_emotion_refuse_others_notarget" korean="[Actor] reveals a physician's refusal." />
+	<block key="ChatMsg_emotion_angry_others_notarget" korean="[Actor] wrote mad." />
+	<block key="ChatMsg_emotion_applause_others_notarget" korean="[Actor] wrote to finish a round of applause." />
+	<block key="ChatMsg_emotion_salute_others_notarget" korean="[Actor] has taken the salute." />
+	<block key="ChatMsg_emotion_beg_others_notarget" korean="[Actor] has taken to begging." />
+	<block key="ChatMsg_emotion_cheek_others_notarget" korean="[Actor] wrote to ttaerip hard as a slap." />
+	<block key="ChatMsg_emotion_slapped_others_notarget" korean="[Actor] s it hurts hit a slap." />
+	<block key="ChatMsg_emotion_beg2_others_notarget" korean="[Actor] wrote writes the herd. Jing whining" />
+	<block key="ChatMsg_emotion_step_others_notarget" korean="[Actor] wrote was trampled hard. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_others_notarget" korean="[Actor] reveals the intention of a positive response." />
+</blocks>

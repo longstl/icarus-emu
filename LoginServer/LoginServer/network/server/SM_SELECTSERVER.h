@@ -10,7 +10,6 @@ void SM_SELECTSERVER(PACKET* pck, int numserver)
 		return;
 
 	pck->CreateBufForSend();
-	pck->writeW(0);	// unk
 	pck->writeW(0); // unk
 	pck->writeW(0); // unk
 	pck->writeD(pck->sockstruct->gameservers_info[numserver].cs_ip); // ip

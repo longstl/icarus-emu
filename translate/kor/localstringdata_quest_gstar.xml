@@ -1,0 +1,51 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="F02_G_00001_Title" korean="¬À€·¸ÒXÇ " />
+	<block key="F02_G_00001_RewarderDesc" korean="" />
+	<block key="F02_G_00001_Request_Text" korean="lÐ\¸°Æ|¹ " />
+	<block key="F02_G_00001_Accepted_Text" korean="lÐ\¸°Æ|¹ " />
+	<block key="F02_G_00001_Ongoing_Text" korean="lÐ\¸°Æ|¹ " />
+	<block key="F02_G_00001_Complete_Text" korean="Ç$± " />
+	<block key="F02_G_00002_Title" korean="tÕÈü¬ " />
+	<block key="F02_G_00002_RewarderDesc" korean="È0Ì" />
+	<block key="F02_G_00002_Request_Text" korean="õ¬üÈØ²ÐÅ " />
+	<block key="F02_G_00002_Accepted_Text" korean="tÎ|·Ü´ " />
+	<block key="F02_G_00002_Ongoing_Text" korean="tÎ|·Ü´ " />
+	<block key="F02_G_00002_Complete_Text" korean="l­œÍtÕÉÁ " />
+	<block key="F02_G_00003_Title" korean="tÕÈ " />
+	<block key="F02_G_00003_RewarderDesc" korean="àÂá¸0®¬Àè² " />
+	<block key="F02_G_00003_Request_Text" korean="É”Æ\Õ " />
+	<block key="F02_G_00003_Accepted_Text" korean="tÕÈ " />
+	<block key="F02_G_00003_Ongoing_Text" korean="É”Æ\Õ " />
+	<block key="F02_G_00003_Complete_Text" korean="" />
+	<block key="F02_G_00003_0_Title" korean="tÕÈ " />
+	<block key="F02_G_00003_0_RewarderDesc" korean="àÂá¸0®¬Àè² " />
+	<block key="F02_G_00003_0_Request_Text" korean="É”Æ\Õ " />
+	<block key="F02_G_00003_0_Accepted_Text" korean="tÕÈè² " />
+	<block key="F02_G_00003_0_Ongoing_Text" korean="É”Æ\Õ " />
+	<block key="F02_G_00003_0_Complete_Text" korean="" />
+	<block key="F02_G_00003_1_Title" korean="¼ä²|¹ " />
+	<block key="F02_G_00003_1_RewarderDesc" korean="àÂá¸0®¬Àè² " />
+	<block key="F02_G_00003_1_Request_Text" korean="tÇó¬DÇ " />
+	<block key="F02_G_00003_1_Accepted_Text" korean="äÕÄÅÐÌÁ " />
+	<block key="F02_G_00003_1_Ongoing_Text" korean="tÇó¬DÇ " />
+	<block key="F02_G_00003_1_Complete_Text" korean="tÕÈè²DÇ " />
+	<block key="F02_G_00004_Title" korean="tÎ|·äÀ|¹ " />
+	<block key="F02_G_00004_RewarderDesc" korean="àÂá¸0®¬Àè² " />
+	<block key="F02_G_00004_Request_Text" korean="tÇ " />
+	<block key="F02_G_00004_Accepted_Text" korean="ŠÇÀÉ " />
+	<block key="F02_G_00004_Ongoing_Text" korean="ŠÇÀÉ " />
+	<block key="F02_G_00004_Complete_Text" korean="TÅQ×È¹á¸ " />
+	<block key="F02_G_00004_1_Title" korean="tÎ|·äÀ|¹ " />
+	<block key="F02_G_00004_1_RewarderDesc" korean="àÂá¸0®¬Àè² " />
+	<block key="F02_G_00004_1_Request_Text" korean="tÇ " />
+	<block key="F02_G_00004_1_Accepted_Text" korean="ŠÇÀÉ " />
+	<block key="F02_G_00004_1_Ongoing_Text" korean="ŠÇÀÉ " />
+	<block key="F02_G_00004_1_Complete_Text" korean="TÅQ×È¹á¸ " />
+</blocks>

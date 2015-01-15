@@ -7,7 +7,6 @@
 
 inline void CM_GAMEOBJECT_INFO(PACKET* pck)
 {
-	int16 unk1 = pck->readW();
 	int32 object_id = pck->readD();
 }
 

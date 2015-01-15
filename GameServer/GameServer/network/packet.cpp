@@ -102,7 +102,7 @@ bool PACKET::NextPacket()
 	offset = old_offset + old_packet_len;
 	if (offset >= PACKET_LEN)
 	{
-		log::Error(fg, "PCK: buffer OEF.\n", packet_len, real_packet_size);
+		lg::Error(fg, "PCK: buffer OEF.\n", packet_len, real_packet_size);
 		return false;
 	}
 
@@ -115,25 +115,25 @@ bool PACKET::NextPacket()
 
 	opcode = readUW();
 	int cryptflag = readB();
-	--offset;
+	int cryptflag2 = readB();
 
-	if (real_packet_size < 4)
+	if (real_packet_size < 6)
 	{
-		log::Error(fg, "PCKHandler: recv packet len: %d, in packet: %d\n", packet_len, real_packet_size);
+		lg::Error(fg, "PCKHandler: recv packet len: %d, in packet: %d\n", packet_len, real_packet_size);
 		for (int i = 0; i < packet_len; i++)
 		{
-			log::Notify(fg, "%02x", (uint8)packet_buf[i]);
+			lg::Notify(fg, "%02x", (uint8)packet_buf[i]);
 		}
-		log::Notify(fg, "\n");
+		lg::Notify(fg, "\n");
 		return false;
 	}
 
-	packet_len = real_packet_size - 4;
-	if (cryptflag == 1)
+	packet_len = real_packet_size - 6;
+	if (cryptflag == 1 || cryptflag == 2)
 	{
 		int step_xor_key = 0;
-		char xor_key[] = { 0xb1, 0xe1, 0xd2, 0xc4, 0x4a, 0x2f, 0x6b, 0x22 };
-		for (int i = 2; i < packet_len - 2; i++)
+		char xor_key[] = { 0xc1, 0xa1, 0xb2, 0xc4, 0x4b, 0x3f, 0x1b, 0x41 };
+		for (int i = 0; i < packet_len; i++)
 		{
 			buf_use_packed[i + offset] ^= xor_key[step_xor_key];
 			++step_xor_key;
@@ -149,10 +149,10 @@ bool PACKET::NextPacket()
 bool PACKET::PackRecv() 
 {
 	memset(packet_buf, 0, PACKET_LEN-1);
+
 	if ((packet_len = recv(socket, packet_buf, PACKET_LEN, 0)) == (uint16)SOCKET_ERROR)
-	{
 		return false;
-	}
+
 	if (packet_len == 0)
 	{
 		Disconnect();
@@ -174,27 +174,27 @@ bool PACKET::PackRecv()
 
 	old_packet_len = real_packet_size;
 	opcode = readUW();
-	int cryptflag = readB();
-	--offset;
+	uint8 cryptflag = readB();
+	uint8 crypt = readB();
 
-	if (real_packet_size < 4)
+	if (real_packet_size < 6)
 	{
-		log::Error(fg, "PCKHandler: recv packet len: %d, in packet: %d\n", packet_len, real_packet_size);
+		lg::Error(fg, "PCKHandler: recv packet len: %d, in packet: %d\n", packet_len, real_packet_size);
 		for (int i = 0; i < packet_len; i++)
 		{
-			log::Notify(fg, "%02x", (uint8)packet_buf[i]);
+			lg::Notify(fg, "%02x", (uint8)packet_buf[i]);
 		}
-		log::Notify(fg, "\n");
+		lg::Notify(fg, "\n");
 		return false;
 	}
 
 	packet_len = real_packet_size - offset;
 
-	if (cryptflag == 1)
+	if (cryptflag == 1 || cryptflag == 2)
 	{
 		int step_xor_key = 0;
-		char xor_key[] = { 0xb1, 0xe1, 0xd2, 0xc4, 0x4a, 0x2f, 0x6b, 0x22 };
-		for (int i = 2; i < packet_len-2; i++)
+		char xor_key[] = { 0xc1, 0xa1, 0xb2, 0xc4, 0x4b, 0x3f, 0x1b, 0x41 };
+		for (int i = 0; i < packet_len; i++)
 		{
 			buf_use_packed[i + offset] ^= xor_key[step_xor_key];
 			++step_xor_key;
@@ -208,12 +208,13 @@ bool PACKET::PackRecv()
 
 bool PACKET::PackSend(uint16 op)
 {
-	char pack[PACKET_LEN + 4];
-	memcpy(pack + 4, packet_snd, offset_snd);
+	char pack[PACKET_LEN + 6];
+	memcpy(pack + 6, packet_snd, offset_snd);
 
-	uint16 pack_len = offset_snd + 4;
+	uint16 pack_len = offset_snd + 6;
 	memcpy(pack, &pack_len, 2);
 	memcpy(pack + 2, &op, 2);
+	memset(pack + 4, 0, 2);
 	
 	if (onepacketsend)
 	{
@@ -225,33 +226,33 @@ bool PACKET::PackSend(uint16 op)
 		/*/// DEBUG
 		char tmp[2];
 		tmp[1] = 0;
-		log::Debug(fg, "S->C: ");
+		lg::Debug(fg, "S->C: ");
 		for (int i = 4; i < pack_len; i++)
 		{
 			if ((uint8)pack[i] > 0x20 && (uint8)pack[i] <= 'z')
 			{
 				tmp[0] = (uint8)pack[i];
-				log::Notify(fg, tmp);
+				lg::Notify(fg, tmp);
 			}
 			else
 			{
-				log::Notify(fg, ".");
+				lg::Notify(fg, ".");
 			}
 		}
-		log::Notify(fg, "\n");
-		log::Debug(fg, "S->C: ");
+		lg::Notify(fg, "\n");
+		lg::Debug(fg, "S->C: ");
 		for (int i = 4; i < pack_len; i++)
 		{
-			log::Notify(fg, "%02x", (uint8)pack[i]);
+			lg::Notify(fg, "%02x", (uint8)pack[i]);
 		}
-		log::Notify(fg, "\n");
+		lg::Notify(fg, "\n");
 		/// !DEBUG*/
 
 		int s = send(socket, pack, pack_len, NULL);
 		int nError = WSAGetLastError();
 		if (nError != WSAEWOULDBLOCK && nError != 0)
 		{
-			log::Error(fg, "GSNetwork: WSAError\n");
+			lg::Error(fg, "GSNetwork: WSAError\n");
 			Disconnect();
 			return false;
 		}

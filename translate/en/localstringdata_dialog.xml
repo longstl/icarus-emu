@@ -1,0 +1,650 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="Dialog_1010000_Title" korea_korean="12,345,678 12,345,678 구십 ninety one hundred twenty-three" />
+	<block key="Dialog_Answer_Common_Title_0" korea_korean="Complete dialog" />
+	<block key="Dialog_1010001_Title" korea_korean="I Hao called Crow's Shadow Clan. Come let us escape this place." />
+	<block key="Dialog_1010001_Text0" korea_korean="I Hao called Crow's Shadow Clan. Come let us escape this place." />
+	<block key="Dialog_1010001_Answer_0_Text" korea_korean="To arm" />
+	<block key="Dialog_1010001_Answer_1_Text" korea_korean="Beat defeat the ice creatures" />
+	<block key="Dialog_1010001_Answer_2_Text" korea_korean="A place where this ship" />
+	<block key="Dialog_1030001_Title" korea_korean="Louis Ranger won" />
+	<block key="Dialog_1030001_Text0" korea_korean="I was going to let the reinforcements. You're not alone? \u003cbr\u003e \u003cbr\u003e Article danjangnim'll once again to send the message. Then, Hao expect you sure you send any troops in training. \u003cbr\u003e \u003cbr\u003e Here. Is currently very serious situation Iwo \u003cbr\u003e \u003cbr\u003e long ago, there are occasional voices heard in the Brage home, they are ready for battle do you think that is finished. \u003cbr\u003e \u003cbr\u003e There are so many things to do right now is risky and fight around the camp. Can you help me?" />
+	<block key="Dialog_1030001_Answer_0_Text" korea_korean="Survivors of Elemental longitudinal" />
+	<block key="Dialog_1030001_Answer_1_Text" korea_korean="Threats of spore spring town" />
+	<block key="Dialog_1030001_Answer_2_Text" korea_korean="Brigade General Accra New" />
+	<block key="Dialog_1030001_Answer_3_Text" korea_korean="Return to the original position" />
+	<block key="Dialog_1030002_Title" korea_korean="Sense view" />
+	<block key="Dialog_1030002_Text0" korea_korean="Come to rescue me? Elohim Jesus. Thank you very much." />
+	<block key="Dialog_1030002_Answer_0_Text" korea_korean="Awake to the power of the tribe" />
+	<block key="Dialog_1030003_Title" korea_korean="Surviving Alex" />
+	<block key="Dialog_1030003_Text0" korea_korean="Listening to my story, wanted Dao release. We are trivial assassin who was looting the mushrooms produced in all Renta. Es appear until that damned thing." />
+	<block key="Dialog_1030003_Answer_0_Text" korea_korean="The truth of the frozen ruins" />
+	<block key="Dialog_1030004_Title" korea_korean="Baglio wise rageul" />
+	<block key="Dialog_1030004_Text0" korea_korean="We were living in Mo Renta are meoswi he is mentally ill, who had a part in many fuzzy, escaped and lived itjiyo receive the protection of humans from here. However, one day will live in peace, like a return to the old moren Tarot." />
+	<block key="Dialog_1030004_Answer_0_Text" korea_korean="Accra divine treasure chest" />
+	<block key="Dialog_2020002_Title" korea_korean="Food haberdasher" />
+	<block key="Dialog_2020002_Text0" korea_korean="I have a lot of cheap stuff." />
+	<block key="Dialog_2020002_Answer_0_Text" korea_korean="Food shops" />
+	<block key="Dialog_2020002_Answer_1_Text" korea_korean="Grocery store" />
+	<block key="Dialog_1020001_Title" korea_korean="Airship Captain peureni article" />
+	<block key="Dialog_1020001_Text0" korea_korean="Brage is clear that they attacked our ship!\n\u003cbr\u003e \u003cbr\u003e\nMy original plan was to go straight into it and Canas eotneunde sex, I would take the risk to save between you and the sex of the agent Saran.\n\u003cbr\u003e \u003cbr\u003e\nFortunately, the dreaded castle came to leave, the moment that passes through the forest spirits bra groups I shot the ship down and not have the crossbow!\n\u003cbr\u003e \u003cbr\u003e\nIt's a big deal many casualties. Quickly clean up this dangerous situation, we have to fight against wild animals and want to attack it around." />
+	<block key="Dialog_1020002_Title" korea_korean="Croix kunjok chief engineer Rhine gulran" />
+	<block key="Dialog_1020002_Text0" korea_korean="I am critical equipment to repair the ship can soar into the sky again. \u003cbr\u003e \u003cbr\u003e Engine cylinder broke, drive shaft steam pipe was a very tough stand completely distorted repair. \u003cbr\u003e \u003cbr\u003e Key equipment Horses that survive would be to fix the engine. Yigetjyo not easy work?" />
+	<block key="Dialog_1020003_Title" korea_korean="Shadow Clan synth" />
+	<block key="Dialog_1020003_Text0" korea_korean="Are you recover from the shock of the crash? Let me tell you know where this place is. \u003cbr\u003e \u003cbr\u003e Forest of Spirits is the place falls short of the kingdom in the hands of Canas is located inland and surrounded by high mountains is now dominated by a saguaro forest and predators bra groups. \u003cbr\u003e \u003cbr\u003e I'm guards in this area on behalf of the Crow's Shadow Clan, who danjangnim." />
+	<block key="Dialog_1020003_Answer_0_Text" korea_korean="" />
+	<block key="Dialog_1020004_Title" korea_korean="Elven children" />
+	<block key="Dialog_1020004_Text0" korea_korean="Will you play with me?" />
+	<block key="Dialog_1020005_Title" korea_korean="Elf Girl" />
+	<block key="Dialog_1020005_Text0" korea_korean="Good evening." />
+	<block key="Dialog_1020006_Title" korea_korean="Fellow patron" />
+	<block key="Dialog_1020006_Text0" korea_korean="Does not mean that all Fellows will be the patron saint." />
+	<block key="Dialog_1020007_Title" korea_korean="Elf Man" />
+	<block key="Dialog_1020007_Text0" korea_korean="Have you ever villages nearby?\nTo find a place that you want to migrate." />
+	<block key="Dialog_1020009_Title" korea_korean="Ruins research leader" />
+	<block key="Dialog_1020009_Text0" korea_korean="Itdapnida a significant setback in the investigation because of the Brage. Things to malyijyo'm still piled up like a mountain of research." />
+	<block key="Dialog_1020010_Title" korea_korean="Researchers" />
+	<block key="Dialog_1020010_Text0" korea_korean="Where he laid the report was written earlier." />
+	<block key="Dialog_1020011_Title" korea_korean="Royal investigations section" />
+	<block key="Dialog_1020011_Text0" korea_korean="There seems to be a forest spirit is still much left to investigate this area. Would not it have a strong interest in so doing Canas Kingdom?" />
+	<block key="Dialog_1010003_Title" korea_korean="Ship captain" />
+	<block key="Dialog_1010003_Text0" korea_korean="Go to hurry" />
+	<block key="Dialog_1020012_Title" korea_korean="Shadow Crow clan leader" />
+	<block key="Dialog_1020012_Text0" korea_korean="Oh ...! Nourish you ... can not believe it! Find me hustle risk're here ... to here.\n\u003cbr\u003e \u003cbr\u003e\nI have a wicked day Brage Fire Golem and cattle were kept occupied this place, to prevent the gate. I continued else do you think you need help to escape the forest spirits.\n\u003cbr\u003e \u003cbr\u003e\nHao notify you as soon as possible so that the news of the kingdom of His Majesty in Pomerania princess." />
+	<block key="Dialog_1020013_Title" korea_korean="Allen airship crew" />
+	<block key="Dialog_1020013_Text0" korea_korean="You've out of my mind. How the body is okay?\n\u003cbr\u003e \u003cbr\u003e\nWe crashed in the middle of the forest spirits. I think what they are attacking the ship we shot." />
+	<block key="Dialog_1020014_Title" korea_korean="Leader of the forest elves" />
+	<block key="Dialog_1020014_Text0" korea_korean="Be careful! The surrounding forest is all surrounded by a dangerous aura. Bless Elohim will look to come along." />
+	<block key="Dialog_1020014_Answer_0_Text" korea_korean="Go to the fire swallowed ruins" />
+	<block key="Dialog_1020014_Answer_1_Text" korea_korean="Go to the frozen ruins" />
+	<block key="Dialog_1020014_Answer_2_Text" korea_korean="About swallowed fire ruins" />
+	<block key="Dialog_1020014_Answer_3_Text" korea_korean="About the frozen ruins" />
+	<block key="Dialog_1020015_Title" korea_korean="Ruins research leader" />
+	<block key="Dialog_1020015_Text0" korea_korean="However, saw the holy Karen Dia I went to steal that changes its mind." />
+	<block key="Dialog_1020015_Answer_0_Text" korea_korean="I'm interesting story." />
+	<block key="Dialog_1020016_Title" korea_korean="Ruins research leader" />
+	<block key="Dialog_1020016_Text0" korea_korean="I'm thinking more minutes." />
+	<block key="Dialog_1020016_Answer_0_Text" korea_korean="Dangerous Karen Dia" />
+	<block key="Dialog_1020017_Title" korea_korean="Ruins research leader" />
+	<block key="Dialog_1020017_Text0" korea_korean="He said he found the remains, let me see." />
+	<block key="Dialog_1020017_Answer_0_Text" korea_korean="Here it is." />
+	<block key="Dialog_1020018_Title" korea_korean="Ruins research leader" />
+	<block key="Dialog_1020018_Text0" korea_korean="Ah! It was right this holy Karen Dia." />
+	<block key="Dialog_1020018_Answer_0_Text" korea_korean="Yes." />
+	<block key="Dialog_1020019_Title" korea_korean="Ruins research leader" />
+	<block key="Dialog_1020019_Text0" korea_korean="Xiamen punish the Brage's dead I'm very happy." />
+	<block key="Dialog_1020019_Answer_0_Text" korea_korean="Dangerous Karen Dia." />
+	<block key="Dialog_1020020_Title" korea_korean="Tobeoldae betrayed won" />
+	<block key="Dialog_1020020_Text0" korea_korean="Me now in standing back, he's just be punished by the military." />
+	<block key="Dialog_1020020_Answer_2_Text" korea_korean="How do I'll give the artifact?" />
+	<block key="Dialog_1020022_Title" korea_korean="Tobeoldae betrayed won" />
+	<block key="Dialog_1020022_Text0" korea_korean="Eueuk was've been .... I will turn the holy Karen Dia." />
+	<block key="Dialog_1020022_Answer_0_Text" korea_korean="I thought well." />
+	<block key="Dialog_1020090_Title" korea_korean="Meoswi like gold" />
+	<block key="Dialog_1020090_Text0" korea_korean="Andoeyo who say this kind of secret, too! I've got the most shining gold in the world. Hehe hehe ~" />
+	<block key="Dialog_1020091_Title" korea_korean="Ron smith gear" />
+	<block key="Dialog_1020091_Text0" korea_korean="Humans. Want to take a look at the weapon hand?" />
+	<block key="Dialog_1020092_Title" korea_korean="Canas and articles" />
+	<block key="Dialog_1020092_Text0" korea_korean="I know what I need to see what is there in the cave." />
+	<block key="Dialog_1020093_Title" korea_korean="And Canas dispatched soldiers" />
+	<block key="Dialog_1020093_Text0" korea_korean="He was looking for the Captain Lord who can give information about the cave." />
+	<block key="Dialog_1020021_Title" korea_korean="Elemental Elemental" />
+	<block key="Dialog_1020021_Text0" korea_korean="Another comforting feel in your group." />
+	<block key="Dialog_1020025_Title" korea_korean="Beginner Warrior Skill Master" />
+	<block key="Dialog_1020025_Text0" korea_korean="If you do not usually trained hard to lose courage in any emergency! Need a book about you, warrior training?" />
+	<block key="Dialog_1020026_Title" korea_korean="Novice Master Priest Skills" />
+	<block key="Dialog_1020026_Text0" korea_korean="We ended up on their way to and Canas. We must all play our duty handapnida anytime, anywhere, even if put in this situation. By any chance, do I need a book about a priest training?" />
+	<block key="Dialog_1020027_Title" korea_korean="Chief Engineer to take the brain Croix kunjok" />
+	<block key="Dialog_1020027_Text0" korea_korean="Browse groups had heard stories that attack the ships flying their forest giant crossbow to another chief engineer. \u003cbr\u003e \u003cbr\u003e Are supposed to care, going to fly through the forest spirits flight altitude was too low. \u003cbr\u003e \u003c br\u003e Bridal groups predators before they find us in the woods this ship would be repaired. The difficult situation." />
+	<block key="Dialog_1020029_Title" korea_korean="Baking meat traders Apprentice" />
+	<block key="Dialog_1020029_Text0" korea_korean="If only because they Brage isolated situation, would mean its own was a picnic atmosphere." />
+	<block key="Dialog_1020030_Title" korea_korean="Traders are watching The Apprentice" />
+	<block key="Dialog_1020030_Text0" korea_korean="Turn me look good. A friend! The meat is burning.!" />
+	<block key="Dialog_1020031_Title" korea_korean="Kuhn Croix Chief Engineer" />
+	<block key="Dialog_1020031_Text0" korea_korean="Yireotgena mess gotta say ... I do not know if you should start working from anywhere." />
+	<block key="Dialog_1020032_Title" korea_korean="Crow's fellow Leo" />
+	<block key="Dialog_1020032_Text0" korea_korean="Reureung size. Keureung. Sniffing" />
+	<block key="Dialog_1020033_Title" korea_korean="Ruins research section" />
+	<block key="Dialog_1020033_Text0" korea_korean="The ruins are looking to have engraved patterns decorated with the engraved ancient elves ... Oh, Jesus Christ! Who are you?" />
+	<block key="Dialog_1020034_Title" korea_korean="Mehndi Om apprentice merchant" />
+	<block key="Dialog_1020034_Text0" korea_korean="May I help you Mehndi is the forest, not the point of the spirit of the airship crashed Om Traders Union. Although dwaetjiman improvisation, no thing's already." />
+	<block key="Dialog_1020035_Title" korea_korean="Mehndi Om hogaekkkun" />
+	<block key="Dialog_1020035_Text0" korea_korean="Come opsyeo! A pressing situation to shut up even your convenience a top priority! The Mehndi Om store." />
+	<block key="Dialog_1020038_Title" korea_korean="Distant Roar captain Paolo Shenron article" />
+	<block key="Dialog_1020038_Text0" korea_korean="When you leave for the Brage Subjugation and Canas gender did not know to send such a long time in this place. The ruling also know the fact that the Brage am, fire golem. \u003cbr\u003e \u003cbr\u003e Will enter the Fire Golem in the ruins of the fire swallowed defeat for the life you lost a lot of Shenron article. However, we should not do everything. \u003cbr\u003e \u003cbr\u003e Brage continues to not fire a giant crossbow toward the camp to attack us. Jundamyeon Brage helping you to fight with us, we'll help you." />
+	<block key="Dialog_1020038_Text0_F" korea_korean="" />
+	<block key="Dialog_1020038_Text1" korea_korean="Jundamyeon you'll be a great help to aid the fire golem.\n\u003cbr\u003e \u003cbr\u003e\nShenron no matter how we are knights fought with valor, but this time Brage've been here too long. People go out they did not even return Golem scoring flame.\n\u003cbr\u003e \u003cbr\u003e\nEven pull ''ll find the live crew could improve morale. Come on give." />
+	<block key="Dialog_1020039_Title" korea_korean="Subjugation Brage crew" />
+	<block key="Dialog_1020039_Text0" korea_korean="Huh? You, my first look at the face! EO Survey crews?" />
+	<block key="Dialog_1020040_Title" korea_korean="Subjugation Brage crew" />
+	<block key="Dialog_1020040_Text0" korea_korean="Brage If you do not know. I do not want to hit an absolute ghost face! Euheu, would not it be museopgun." />
+	<block key="Dialog_1020041_Title" korea_korean="Croix Kuhn's blacksmith Milan" />
+	<block key="Dialog_1020041_Text0" korea_korean="We Croix Kuhn family from several species that live in the world, is dexterous and had excellent Blacksmithing I can see the best ability. \u003cbr\u003e \u003cbr\u003e Fire golem guarding subterranean kingdom in Canas and in situations that can not easily return Managing the knights of armor and equipment's ours." />
+	<block key="Dialog_1020042_Title" korea_korean="Mehndi Om merchant wagons" />
+	<block key="Dialog_1020042_Text0" korea_korean="Good evening. Is there any thing you need something?" />
+	<block key="Dialog_1020043_Title" korea_korean="Intermediate Champion Skill Master" />
+	<block key="Dialog_1020043_Text0" korea_korean="If you want to know the strong skill power to inspire thy sword, I'll have the book are very helpful!" />
+	<block key="Dialog_1020044_Title" korea_korean="Intermediate skills master priest" />
+	<block key="Dialog_1020044_Text0" korea_korean="To become stronger with the help of a priest sacred books I absolutely necessary." />
+	<block key="Dialog_1020045_Title" korea_korean="Ruins research section" />
+	<block key="Dialog_1020045_Text0" korea_korean="It is so much to explore lot, do you have moping around here, I'm bored." />
+	<block key="Dialog_1020046_Title" korea_korean="Ruins research section" />
+	<block key="Dialog_1020046_Text0" korea_korean="There're many ruins abandoned a long time ago, the forest spirits. We've laid to investigate the ruins here." />
+	<block key="Dialog_1020047_Title" korea_korean="Kuhn Croix blacksmith Harlan News" />
+	<block key="Dialog_1020047_Text0" korea_korean="Brage and fighting squatting made this camp. However, Brage supervisor and then ditched been attacked by a load, such as the alter ego and even lost my hammer. \u003cbr\u003e \u003cbr\u003e Brage Commissioners stumbling look carefully to pick up my hammer. \u003cbr\u003e \u003cbr\u003e The hammer Behind jobs lost speed is not the same old, God is not even born. When you work from childhood was using a hammer, the hammer es la other hand feels perfect in eopdan." />
+	<block key="Dialog_1020047_Answer_7_Text" korea_korean="Croix Kuhn family to talk with the blacksmith" />
+	<block key="Dialog_1020047_Answer_8_Text" korea_korean="Croix Kuhn family to talk with the blacksmith" />
+	<block key="Dialog_1020048_Title" korea_korean="Leader of the Forest Berry buff" />
+	<block key="Dialog_1020048_Text0" korea_korean="I'm Brage live in the woods or jungle or forest in order to find hidden risk and luck somewhere Shenron became a member of the Knights Templar. \u003cbr\u003e \u003cbr\u003e Ordinance is interesting there. Shes principle that dominates their world of greed and violence. \u003cbr\u003e \u003cbr\u003e Brage is ruining the forest, kill the creature, God's been undermining all the resources they bring to us. \u003cbr\u003e \u003cbr\u003e Brage and fighting That's all the precious things are kept. \u003cbr\u003e \u003cbr\u003e holy Elohim bless you always with a wish!" />
+	<block key="Dialog_1020049_Title" korea_korean="Ruins research section" />
+	<block key="Dialog_1020049_Text0" korea_korean="Wooang! Annoying annoying. At best haetdeoniman the excavation work hard, there appeared a star strange things to disturb you, really!" />
+	<block key="Dialog_1020050_Title" korea_korean="Lower far Shenron Knight-Commander" />
+	<block key="Dialog_1020050_Text0" korea_korean="Up here alone're here, you're very strong Guess. This all began right here your own!" />
+	<block key="Dialog_1020050_Answer_0_Text" korea_korean="Load of fire golem" />
+	<block key="Dialog_1020050_Answer_1_Text" korea_korean="Fire Golem" />
+	<block key="Dialog_1020050_Answer_2_Text" korea_korean="Return to the original position" />
+	<block key="Dialog_1020051_Title" korea_korean="Transportation manager" />
+	<block key="Dialog_1020051_Text0" korea_korean="I ipjyo person dealing with fellow board to move quickly to another town! Of course, now says I can not use them because they did not bring on board Fellow." />
+	<block key="Dialog_1020052_Title" korea_korean="Go buy a portal Romero" />
+	<block key="Dialog_1020052_Text0" korea_korean="If you use this portal, stocked can be moved quickly to the designated place of Ned continent. \u003cbr\u003e \u003cbr\u003e However, this feature does not work yet because incomplete. However, sometimes it will work properly. \u003cbr\u003e \u003cbr\u003e All portals to fix the floor to avoid the attack of the Brage'd thought she was going to escape this forest." />
+	<block key="Dialog_1020052_Answer_0_Text" korea_korean="Skip to historic ruins Camp" />
+	<block key="Dialog_1020052_Answer_1_Text" korea_korean="Skip to glow grove camp" />
+	<block key="Dialog_1020052_Answer_2_Text" korea_korean="Back to the city of Saran agent" />
+	<block key="Dialog_1020053_Title" korea_korean="Shenron aide Alex Knights" />
+	<block key="Dialog_1020053_Text0" korea_korean="Isolated after we've found that while exploring the forest spirits archeological ruins there is a life born from darkness in the southern. \u003cbr\u003e \u003cbr\u003e When wontongham living and the dead ghost holding a can radiate evil spirit naemyeo Hao indiscriminately attacking the living organism. \u003cbr\u003e \u003cbr\u003e\nThere's a ghost that time I did not know whether large-scale attack by the Knights camp stood the men and bounds." />
+	<block key="Dialog_1020053_Answer_6_Text" korea_korean="Says rescue came Potion" />
+	<block key="Dialog_1020054_Title" korea_korean="Scouts won Boris" />
+	<block key="Dialog_1020054_Text0" korea_korean="Itso stood in this place for a few days boundaries with Alex's deputies. \u003cbr\u003e \u003cbr\u003e Ghost occasionally at night to attack us, natanalkka Were you not afraid to dream is that eerie feeling. Oh, say ve Shenron coward like me in the Knights won patrols. \u003cbr\u003e \u003cbr\u003e I think he is a coward because I think the ghost, I need something to give something vessel. The grace jundamyeon \u003cbr\u003e \u003cbr\u003e help me Cattle will not forget." />
+	<block key="Dialog_1020056_Title" korea_korean="Scouts won serine" />
+	<block key="Dialog_1020056_Text0" korea_korean="This forest should not be vigilant in the beautiful state of yijiyo beautiful place? \u003cbr\u003e \u003cbr\u003e Forest. \u003cbr\u003e \u003cbr\u003e\nWe are fighting with the evil spirits, Checking the dynamics of Brage home in the hills beyond. \u003cbr\u003e \u003cbr\u003e Brage i have the head of the home, the chief of the elite troops, Brage Brage." />
+	<block key="Dialog_1020056_Answer_6_Text" korea_korean="Serine, and scouts wanted to talk" />
+	<block key="Dialog_1020057_Title" korea_korean="Forest of guide kailraseu" />
+	<block key="Dialog_1020057_Text0" korea_korean="When we live in the forest elves have stayed in the ancient kingdom of peace can not hear the sound of nature say. Do you know the \u003cbr\u003e \u003cbr\u003e wood or stone, the sound is saying. \u003cbr\u003e \u003cbr\u003e Many elves have gone far to fall is I can not hear any sound. If and when it encounters the fallen elves to be careful. \u003cbr\u003e \u003cbr\u003e their name is Chaos elves. \u003cbr\u003e \u003cbr\u003e want to bless the holy Elohim is always with you!" />
+	<block key="Dialog_1020059_Title" korea_korean="It's a spaceship crew" />
+	<block key="Dialog_1020059_Text0" korea_korean="Oh. You've awakened. \u003cbr\u003e \u003cbr\u003e Now been laid down for 8 hours if you have the airship crashed. As you can see, a lot a person injured by a strong impact during the crash. \u003cbr\u003e \u003cbr\u003e Once, but put together in one place, the wounded, the hand of medicines and help heal the wounds I lack a lot." />
+	<block key="Dialog_1020060_Title" korea_korean="Shadow Clan Prom" />
+	<block key="Dialog_1020060_Text0" korea_korean="This became a hurry. To save Princess Rania recaptured agent failed to do the sex of the Crow's Saran Saran bit and went and I never have. Instead, she'd been in prison to rescue you. \u003cbr\u003e \u003cbr\u003e\nI'm here to inform as soon as possible to escape the news that His Majesty and the Kingdom of the Pomerania Canas princess.\n\u003cbr\u003e \u003cbr\u003e the way, I can easily leave, leave the people at the crash site was kidnapped by a wolf. Look over there. I am a ferocious wolves roaming the vicinity." />
+	<block key="Dialog_1020061_Title" korea_korean="Shenron articles section Rolen" />
+	<block key="Dialog_1020061_Text0" korea_korean="Please lower your posture! \u003cbr\u003e \u003cbr\u003e Giant crossbow itso is falling! \u003cbr\u003e \u003cbr\u003e This is the front line defense in confronting and Brage Io fighters. Brage's running this place continues to attack with a giant crossbow to penetrate the defenses. \u003cbr\u003e \u003cbr\u003e If there is perforated Oh, we'll wander aimlessly abandoned the camp \u003cbr\u003e \u003cbr\u003e never like that. Oh, it should not have this beoleojyeoseo. We are all dedicated his life he would be watching the perimeter." />
+	<block key="Dialog_1020071_Title" korea_korean="Remains lit swallowed portal" />
+	<block key="Dialog_1020071_Text0" korea_korean="A portal that can go into the fire swallowed ruins." />
+	<block key="Dialog_1020071_answer_0_text" korea_korean="Enter ruins swallowed fire" />
+	<block key="Dialog_1020072_Title" korea_korean="Forest spirits return Portal" />
+	<block key="Dialog_1020072_Text0" korea_korean="A portal to get back into the forest spirits." />
+	<block key="Dialog_1020072_answer_0_text" korea_korean="To return to the forest spirits" />
+	<block key="Dialog_1020073_Title" korea_korean="Scouts won Nils" />
+	<block key="Dialog_1020073_Text0" korea_korean="Brage predators've struggled with for a long time here. \u003cbr\u003e \u003cbr\u003e Breaking down many enemies seemingly still battle the signs of the numbers and it does not look finished. \u003cbr\u003e \u003cbr\u003e Grandfather had supported reconnaissance circle right on Shenron knights, so cattle for a long time I did not know not to go back to the kingdom." />
+	<block key="Dialog_1020074_Title" korea_korean="Scouts wanted Marcus" />
+	<block key="Dialog_1020074_Text0" korea_korean="Shenron Templars defending the kingdom Serve the king's command and itso Canas and make the holy judgment enemies. \u003cbr\u003e \u003cbr\u003e Its inception is Io of redundancy ahkal Douce and his men in wartime of light. They became the foundation to build the kingdom Canas. \u003cbr\u003e \u003cbr\u003e Oh, we would never lose its former pride and self-esteem." />
+	<block key="Dialog_1020075_Title" korea_korean="Scouts original press merikseu" />
+	<block key="Dialog_1020075_Text0" korea_korean="We incarnation Saran bit and 6 EO elite corps followed him a small demon. \u003cbr\u003e \u003cbr\u003e Saran teuneun yeotji noble wizard leads the kingdom before muldeulgi the forces of evil. However, I feel the blood flowing in his body Blood of the Demon hayeotso revenge towards the people who love their king. \u003cbr\u003e \u003cbr\u003e 6 corps incurring monster with superior physical condition so hard for human opponent. In order to fight with them. Oh Pina need this training." />
+	<block key="Dialog_1020076_Title" korea_korean="Ranger Rick's original flow" />
+	<block key="Dialog_1020076_Text0" korea_korean="The battle group and I do not know when the end of the bra fly. Someone would be nice haejumyeon destroy Brage giant crossbow ... \u003cbr\u003e \u003cbr\u003e itso wearing a lot of damage because of its huge crossbow. \u003cbr\u003e \u003cbr\u003e Can see for yourself the Shenron articles under attack from giant crossbow go along the way Oh would be." />
+	<block key="Dialog_1020077_Title" korea_korean="Scouts won Iliad" />
+	<block key="Dialog_1020077_Text0" korea_korean="Can you get if you follow this road to bypass the Brage post. \u003cbr\u003e \u003cbr\u003e And archeological ruins are not able to get to the south. That there is itso Shenron Knights stand for our border. \u003cbr\u003e \u003cbr\u003e My friends scouts wanted Boris also not there." />
+	<block key="Dialog_1020078_Title" korea_korean="Scouts won Curtis" />
+	<block key="Dialog_1020078_Text0" korea_korean="He's a brave man. \u003cbr\u003e \u003cbr\u003e Hereafter EO groups that confront bra area. Please prepare the mind firmly. \u003cbr\u003e \u003cbr\u003e Beware giant crossbow danghani a lot of damage if you drop here." />
+	<block key="Dialog_1020079_Title" korea_korean="Scouts won Kunta lease" />
+	<block key="Dialog_1020079_Text0" korea_korean="How you doing? I'll teach you some useful information. \u003cbr\u003e \u003cbr\u003e Ghost from the Holy Land, called type an administrator in the eyes of the common people do not see that look anso this. \u003cbr\u003e \u003cbr\u003e This. The best go away when the Holy Land managers and meet . \u003cbr\u003e \u003cbr\u003e holy administrator eopeuni do not come out of the ruins of ancient sites can be as fortunate." />
+	<block key="Dialog_1020080_Title" korea_korean="Priest singer Kepley" />
+	<block key="Dialog_1020080_Text0" korea_korean="Wh-Who is it?\n\u003cbr\u003e \u003cbr\u003e\nI ... ... did you come here to help me ..?" />
+	<block key="Dialog_1020080_Text1" korea_korean="Finally! Fire Golem haetgunyo scoring evil spirits to dominate the forest!\n\u003cbr\u003e \u003cbr\u003e\nI owe you! We did it!" />
+	<block key="Dialog_1020081_Title" korea_korean="Scouts won constantan Fragrance" />
+	<block key="Dialog_1020081_Text0" korea_korean="Party ... are you? Press ... Who ...?\n\u003cbr\u003e \u003cbr\u003e\nGive help us." />
+	<block key="Dialog_1020082_Title" korea_korean="Brage collected tout the leakage" />
+	<block key="Dialog_1020082_Text0" korea_korean="\u003cbr\u003e \u003cbr\u003e\n[There is no sense;\n\u003cbr\u003e \u003cbr\u003e" />
+	<block key="Dialog_1020083_Title" korea_korean="Beast Trainer Excel" />
+	<block key="Dialog_1020083_Text0" korea_korean="Beep, croissants, kareung! Oh, Oops, US, Mia, I'm sorry.\n\u003cbr\u003e \u003cbr\u003e\nAlso, animals are too Oh, long ... I'm, uh, come on! People say, you, man.\n\u003cbr\u003e \u003cbr\u003e\nFree, what? Work, do you?" />
+	<block key="Dialog_1020083_Answer_5_Text" korea_korean="How to tame" />
+	<block key="Dialog_1020083_Answer_6_Text" korea_korean="Fellow shops" />
+	<block key="Dialog_1020083_Answer_7_Text" korea_korean="Fellow growth unseal" />
+	<block key="Dialog_4020001_Title" korea_korean="Bags merchant" />
+	<block key="Dialog_4020001_Text0" korea_korean="Come ohsipsiyo. What can I do for you?" />
+	<block key="Dialog_4020001_Answer_0_Text" korea_korean="I would like to expand the bag" />
+	<block key="Dialog_2020004_Title" korea_korean="Skill Master" />
+	<block key="Dialog_2020004_Text0" korea_korean="You, do you want enlightenment. This is plain that the book might be helpful to you." />
+	<block key="Dialog_2020004_Answer_0_Text" korea_korean="Seukilbuk purchase" />
+	<block key="Dialog_2021001_Title" korea_korean="Mehndi Om Equipment Trader" />
+	<block key="Dialog_2021001_Text0" korea_korean="We gotta have a craft business, even if you crash? That's what is right in the Mendi ohm spirit merchant. Now try ~ ~ visit" />
+	<block key="Dialog_2021001_Answer_0_Text" korea_korean="Equipment items" />
+	<block key="Dialog_2023001_Title" korea_korean="Equipment Trader Kenny" />
+	<block key="Dialog_2023001_Text0" korea_korean="Hello? \u003cbr\u003e \u003cbr\u003e I was on their way to the parlor and equipment Canas kingdom. I was trying to make a lot of money, the airship crashed into Lee Jung-do out annamahseo getgunyo difficult. \u003cbr\u003e \u003cbr\u003e Though there are items that remain despite falling, Do not you?" />
+	<block key="Dialog_2023001_Answer_0_Text" korea_korean="Equipment items" />
+	<block key="Dialog_2024001_Title" korea_korean="Skill Master Locks Elementary baldeu" />
+	<block key="Dialog_2024001_Text0" korea_korean="If you work hard you can not lose the courage not trained in any situation. Mean in a dangerous situation as it is now. \u003cbr\u003e \u003cbr\u003e To escape this place. We have all perfected'm stronger. If you want to learn the fight. I'm gonna give you the teaching. How \u003cbr\u003e \u003cbr\u003e? Would me to receive training?" />
+	<block key="Dialog_2024001_Answer_0_Text" korea_korean="Skill Learning" />
+	<block key="Dialog_2024001_Answer_1_Text" korea_korean="Tell me about the seukilbuk." />
+	<block key="Dialog_2026001_Title" korea_korean="Fellow breeders" />
+	<block key="Dialog_2026001_Text0" korea_korean="I think you cherish companion" />
+	<block key="Dialog_2026001_Answer_0_Text" korea_korean="Fellow Al exchange" />
+	<block key="Dialog_2021002_Title" korea_korean="Glen arms dealer" />
+	<block key="Dialog_2021002_Text0" korea_korean="When exposure in accordance with the articles of war I thought that'd be good business idea than punishment is not good. \u003cbr\u003e \u003cbr\u003e Or why do not you looked out his own weapon haneunge new? \u003cbr\u003e \u003cbr\u003e To buy stuff from Canas Kingdom but rather than not, a lot of useful weapons stocked. \u003cbr\u003e \u003cbr\u003e look to visit again." />
+	<block key="Dialog_2021002_Answer_0_Text" korea_korean="Weapons Items" />
+	<block key="Dialog_2023002_Title" korea_korean="Adina grocery food merchants" />
+	<block key="Dialog_2023002_Text0" korea_korean="Hello? \u003cbr\u003e \u003cbr\u003e This dangerous situation where I need to be isolated, but can you do in a situation that I can not go back to the kingdom. \u003cbr\u003e \u003cbr\u003e That would be to make money. \u003cbr\u003e \u003cBr \u003e Check out the I sell goods and food. Things are going to be useful. And, more expensive, but also itdapnida bag." />
+	<block key="Dialog_2023002_Answer_0_Text" korea_korean="Bags, food" />
+	<block key="Dialog_2026002_Title" korea_korean="Fellow breeders" />
+	<block key="Dialog_2026002_Text0" korea_korean="I think you cherish companion" />
+	<block key="Dialog_2026002_Answer_0_Text" korea_korean="Fellow Al exchange" />
+	<block key="Dialog_2024002_Title" korea_korean="Warrior Skill Master Douglas" />
+	<block key="Dialog_2024002_Text0" korea_korean="Warriors out and stopped the attack of the enemy in the battle choeseonbong whole body, enjoying the bravery. \u003cbr\u003e \u003cbr\u003e You also authorized the transfer? If I will receive training to me if you valiant warrior." />
+	<block key="Dialog_2024002_Answer_0_Text" korea_korean="Warrior Skill Learning" />
+	<block key="Dialog_2025001_Title" korea_korean="Bags merchant" />
+	<block key="Dialog_2025001_Text0" korea_korean="Come ohsipsiyo. What can I do for you?" />
+	<block key="Dialog_2025001_Answer_0_Text" korea_korean="I would like to expand the bag" />
+	<block key="Dialog_2024003_Title" korea_korean="Senior Champion Skill Master" />
+	<block key="Dialog_2024003_Text0" korea_korean="You, do you want enlightenment. This is plain that the book might be helpful to you." />
+	<block key="Dialog_2024003_Answer_0_Text" korea_korean="Seukilbuk purchase" />
+	<block key="Dialog_2021003_Title" korea_korean="Oh, take the brain armor merchant" />
+	<block key="Dialog_2021003_Text0" korea_korean="Take a look at this armor! \u003cbr\u003e \u003cbr\u003e In any attack made from strong materials Does not seem to effectively prevent line? \u003cbr\u003e \u003cbr\u003e Do not regret this, buy a good armor." />
+	<block key="Dialog_2021003_Answer_0_Text" korea_korean="Armor items" />
+	<block key="Dialog_2023003_Title" korea_korean="Potion Merchant Coleman" />
+	<block key="Dialog_2023003_Text0" korea_korean="Well, you've come to buy potions. Potions merchant in the forest of \u003cbr\u003e \u003cbr\u003e spirits are only frills me. \u003cbr\u003e \u003cbr\u003e\nThe potions I sell a lot of what I warrior and assassin, wizard and Nature um ... And I do not know that you have saved the priest's life. \u003cbr\u003e \u003cbr\u003e Necessary Leave packed potion in advance." />
+	<block key="Dialog_2023003_Answer_0_Text" korea_korean="Drench" />
+	<block key="Dialog_2023004_Title" korea_korean="Accessories Potion Merchant Jenny" />
+	<block key="Dialog_2023004_Text0" korea_korean="Hello? \u003cbr\u003e \u003cbr\u003e Shenron come up here, thanks to the protection of the Knights overhear in the business. \u003cbr\u003e \u003cbr\u003e Look over my selling goods and food. Things are going to be useful. And, more expensive, but also itdapnida bag." />
+	<block key="Dialog_2023004_Answer_0_Text" korea_korean="Bags, food" />
+	<block key="Dialog_2026003_Title" korea_korean="Fellow breeders" />
+	<block key="Dialog_2026003_Text0" korea_korean="I think you cherish companion" />
+	<block key="Dialog_2026003_Answer_0_Text" korea_korean="Fellow Al exchange" />
+	<block key="Dialog_2025002_Title" korea_korean="Bags merchant" />
+	<block key="Dialog_2025002_Text0" korea_korean="Come ohsipsiyo. What can I do for you?" />
+	<block key="Dialog_2025002_Answer_0_Text" korea_korean="I would like to expand the bag" />
+	<block key="Dialog_2024004_Title" korea_korean="Novice Master Priest Skills" />
+	<block key="Dialog_2024004_Text0" korea_korean="We ended up on their way to and Canas. We must all play our duty handapnida anytime, anywhere, even if put in this situation. By any chance, do I need a book about a priest training?" />
+	<block key="Dialog_2024004_Answer_0_Text" korea_korean="Skill Learning" />
+	<block key="Dialog_2024004_Answer_1_Text" korea_korean="Tell me about the seukilbuk." />
+	<block key="Dialog_2024005_Title" korea_korean="Priest Skill Master Erina" />
+	<block key="Dialog_2024005_Text0" korea_korean="Thou chosen the way of charity. \u003cbr\u003e \u003cbr\u003e Please heal the pain to save many lives in the sacred light. If you lack \u003cbr\u003e \u003cbr\u003e this part, I'll help you. I will practice." />
+	<block key="Dialog_2024005_Answer_0_Text" korea_korean="Learning Skills Priest" />
+	<block key="Dialog_2024006_Title" korea_korean="Advanced Priest Skill Master" />
+	<block key="Dialog_2024006_Text0" korea_korean="Thou chosen the way of charity. I'll hope you saved the many lives" />
+	<block key="Dialog_2024006_Answer_0_Text" korea_korean="Seukilbuk purchase" />
+	<block key="Dialog_2028001_Title" korea_korean="Go buy Freud portal" />
+	<block key="Dialog_2028001_Text0" korea_korean="The portal can not let go of you to another place. Fire Golem weakened by an evil aura of magical ether four possible supman spirits.\n\u003cbr\u003e \u003cbr\u003e\nOf course. Stocked for a small fee to the magic of the consideration beyond time and space. And you want to use the portal?" />
+	<block key="Dialog_2028001_Answer_0_Text" korea_korean="Go to the Knights Templar garrison Shenron" />
+	<block key="Dialog_2028001_Answer_1_Text" korea_korean="Skip to glow grove camp" />
+	<block key="Dialog_2028002_Title" korea_korean="Go buy a portal Spencer" />
+	<block key="Dialog_2028002_Text0" korea_korean="The portal can not let go of you to another place. Fire Golem weakened by an evil aura of magical ether four possible supman spirits.\n\u003cbr\u003e \u003cbr\u003e\nOf course. Stocked for a small fee to the magic of the consideration beyond time and space. And you want to use the portal?" />
+	<block key="Dialog_2028002_Answer_0_Text" korea_korean="Go to the Knights Templar garrison Shenron" />
+	<block key="Dialog_2028002_Answer_1_Text" korea_korean="Skip to historic ruins Camp" />
+	<block key="Dialog_2999998_Title" korea_korean="Weapons, accessories merchant" />
+	<block key="Dialog_2999998_Text0" korea_korean="Weapons, and equipment that the supplier." />
+	<block key="Dialog_2999998_Answer_0_Text" korea_korean="Weapons, accessories shops" />
+	<block key="Dialog_2999999_Title" korea_korean="Armor Merchant" />
+	<block key="Dialog_2999999_Text0" korea_korean="That the armor equipment." />
+	<block key="Dialog_2999999_Answer_0_Text" korea_korean="Armor shop" />
+	<block key="Dialog_9011001_Title" korea_korean="Fellow Al exchange" />
+	<block key="Dialog_9011001_Text0" korea_korean="In order to replace the beads of a fellow spirit of family life requires a five-star soul." />
+	<block key="Dialog_9011001_Answer_0_Text" korea_korean="Life of Mammals bead-based exchange" />
+	<block key="Dialog_9011001_Answer_1_Text" korea_korean="Beneficial exchange of bead-based life" />
+	<block key="Dialog_9011001_Answer_2_Text" korea_korean="Life storey wave bead exchange" />
+	<block key="Dialog_9011001_Answer_3_Text" korea_korean="Insect-based life of beads exchange" />
+	<block key="Dialog_9011001_Answer_4_Text" korea_korean="Jeongryeonggye life of the bead exchange" />
+	<block key="Dialog_9011002_Title" korea_korean="About swallowed fire ruins" />
+	<block key="Dialog_9011002_Text0" korea_korean="The ruins of the fire where flames swallowed the Golem and his minions generated by the flame stone contained Demonic forces that dominate the ancient demons." />
+	<block key="Dialog_9011002_Answer_0_Text" korea_korean="Strategy Tips ruins swallowed fire" />
+	<block key="Dialog_9011002_Answer_1_Text" korea_korean="Strategy Tips ruins swallowed fire boss" />
+	<block key="Dialog_9011003_Title" korea_korean="Strategy Tips ruins swallowed fire" />
+	<block key="Dialog_9011003_Text0" korea_korean="Only use the weapons filled with ice properties in order to capture the ruins swallowed fire can effectively attack the enemy. If the flames property damage deep ground water in the cave, you'll have to cool the body in the middle thumb is stagnant." />
+	<block key="Dialog_9011004_Title" korea_korean="Strategy Tips ruins swallowed fire boss" />
+	<block key="Dialog_9011004_Text0" korea_korean="When you make a pet that explode in flames Golem summon fire chiefs around can cause damage to the fire chiefs strong due to its impact." />
+	<block key="Dialog_9011005_Title" korea_korean="About the frozen ruins" />
+	<block key="Dialog_9011005_Text0" korea_korean="Mountain path leading to the garden of fresh mushrooms in the forest of spirits has gone all over the region surrounded by the snow turned to ice due to the influence of the Demonic stone. Currently, there are number occupying army." />
+	<block key="Dialog_9011005_Answer_0_Text" korea_korean="Frozen ruins Strategy Tips" />
+	<block key="Dialog_9011005_Answer_1_Text" korea_korean="Frozen ruins Boss Strategy Tips" />
+	<block key="Dialog_9011006_Title" korea_korean="Frozen ruins Strategy Tips" />
+	<block key="Dialog_9011006_Text0" korea_korean="Frozen ice monster that devastated and occupied. Therefore, the use of weapons fire properties, easier to deal with that monster." />
+	<block key="Dialog_9011007_Title" korea_korean="Frozen ruins Boss Strategy Tips" />
+	<block key="Dialog_9011007_Text0" korea_korean="Warbringer syantin is because of the variety of ice attribute to a range of attacks while avoiding the attack well, you need a powerful fire attack attribute to syantin." />
+	<block key="Dialog_3020001_Title" korea_korean="Beginner Warrior Skill Master" />
+	<block key="Dialog_3020001_Text0" korea_korean="Seukilbuk have or learn a skill that transfers are used, shes book needed to strengthen the skills already learned. Boil, to use this book is the skill points you need." />
+	<block key="Dialog_3020001_Answer_0_Text" korea_korean="Okay." />
+	<block key="Dialog_3020002_Title" korea_korean="Novice Master Priest Skills" />
+	<block key="Dialog_3020002_Text0" korea_korean="Seukilbuk Iran, or priests learn the skills to use, the book needed to strengthen the skills already learned. First of all, I have a skill point to use this book." />
+	<block key="Dialog_3020002_Answer_0_Text" korea_korean="Okay." />
+	<block key="Dialog_3020003_Title" korea_korean="Tobeoldae betrayed won" />
+	<block key="Dialog_3020003_Text0" korea_korean="If you beat me by force, I will return the remains of Karen Dia." />
+	<block key="Dialog_3020003_Answer_0_Text" korea_korean="Yes, of course." />
+	<block key="Dialog_3020004_Title" korea_korean="Kuhn Croix blacksmith Harlan News" />
+	<block key="Dialog_3020004_Text0" korea_korean="What brings you came to see me? Kill the fire golem and tell him the way out of the underground passages?" />
+	<block key="Dialog_3020004_Answer_0_Text" korea_korean="Complete dialog" />
+	<block key="Dialog_3020005_Title" korea_korean="Shenron aide Alex Knights" />
+	<block key="Dialog_3020005_Text0" korea_korean="Tariq save the sight of the truth potion? Hmm ... if I really look at this potion effect this ghost is I do not know." />
+	<block key="Dialog_3020005_Answer_0_Text" korea_korean="Complete dialog" />
+	<block key="Dialog_3020006_Title" korea_korean="Kuhn Croix blacksmith Harlan News" />
+	<block key="Dialog_3020006_Text0" korea_korean="Chilled we're back with a cloth? Southie. Great." />
+	<block key="Dialog_3020006_Answer_0_Text" korea_korean="Complete dialog" />
+	<block key="Dialog_3020007_Title" korea_korean="Scouts won serine" />
+	<block key="Dialog_3020007_Text0" korea_korean="Makes sense to see you again. You're determined success? I made me itdani potent potion it was great to see the ghost." />
+	<block key="Dialog_3020007_Answer_0_Text" korea_korean="Complete dialog" />
+	<block key="Dialog_9014005_Title" korea_korean="Sokoban" />
+	<block key="Dialog_9014005_Text0" korea_korean="Party-party - there are tourist man. What are all said to have so much luggage kkeungkkeungdae attend the shoe. If you have something you want to keep the window + and simple. Do not worry about going to steal the show no one leave." />
+	<block key="Dialog_9014005_Answer_0_Text" korea_korean="Using my warehouse" />
+	<block key="Dialog_9014006_Title" korea_korean="Sales Representative Representatives" />
+	<block key="Dialog_9014006_Text0" korea_korean="They want to sell this stuff? I'll find someone to buy at a good price. Now, how much do you want to sell? Ah. Of course, others will sell you hear around you, do you find this stuff if possible to buy things." />
+	<block key="Dialog_9014006_Answer_0_Text" korea_korean="Using Sales Representative" />
+	<block key="Dialog_2024008_Title" korea_korean="Novice Wizard Skill Master" />
+	<block key="Dialog_2024008_Text0" korea_korean="Need seukilbuk beginner wizard?" />
+	<block key="Dialog_2024008_Answer_0_Text" korea_korean="Seukilbuk purchase of Elementary Wizard" />
+	<block key="Dialog_2024009_Title" korea_korean="Wizard Skill Master Diana" />
+	<block key="Dialog_2024009_Text0" korea_korean="The use of magic is one that changes it be out of order in nature. \u003cbr\u003e \u003cbr\u003e Fire and water and do not understand the nature of light, the natural order of things it can not hurt himself largely collapsed. \u003cbr\u003e \u003cbr\u003e Are you ready to use magic? If you'll be ready to learn from me." />
+	<block key="Dialog_2024009_Answer_0_Text" korea_korean="Wizard skill learning" />
+	<block key="Dialog_2024010_Title" korea_korean="Novice master assassin skills" />
+	<block key="Dialog_2024010_Text0" korea_korean="Need seukilbuk beginner assassin?" />
+	<block key="Dialog_2024010_Answer_0_Text" korea_korean="Seukilbuk purchased beginner assassin" />
+	<block key="Dialog_2024011_Title" korea_korean="Lance master assassin skills" />
+	<block key="Dialog_2024011_Text0" korea_korean="It was a famous assassin grandfather's kingdom is if the enemy can only be a surprise to some indwelling would always buy me no matter what. Always not ready for that moment, depending on the term.\n\u003cbr\u003e \u003cbr\u003e\nYou do not give quietly teach some techniques If you want to learn the mysterious art." />
+	<block key="Dialog_2024011_Answer_0_Text" korea_korean="Assassin skill learning" />
+	<block key="Dialog_2024012_Title" korea_korean="Nature Novice Master Skill" />
+	<block key="Dialog_2024012_Text0" korea_korean="Need seukilbuk beginner Nature?" />
+	<block key="Dialog_2024012_Answer_0_Text" korea_korean="Seukilbuk purchased beginner Nature" />
+	<block key="Dialog_2024013_Title" korea_korean="Nature Skill Master American Riggs" />
+	<block key="Dialog_2024013_Text0" korea_korean="The fate hayeotso guide you to this place. As the whole thing takes place in the land heulreoon in accordance with the principles of harmony and balance ...\n\u003cbr\u003e \u003cbr\u003e\nIf you have never yet reached the highest state as Nature, I'll give the guidance they need to grow." />
+	<block key="Dialog_2024013_Answer_0_Text" korea_korean="Nature Learning Skills" />
+	<block key="Dialog_3020701_Title" korea_korean="Hearthstone conversion" />
+	<block key="Dialog_3020701_Text0" korea_korean="Come ohsipsiyo. What can I do for you?" />
+	<block key="Dialog_3020701_Answer_1_Text" korea_korean="I'd like to mount hearthstone." />
+	<block key="Dialog_3020701_Answer_2_Text" korea_korean="I would like to remove your hearthstone." />
+	<block key="Dialog_3020701_Answer_3_Text" korea_korean="I would like to repair the hearthstone." />
+	<block key="Dialog_1040001_Title" korea_korean="Elf Pilgrim Village Glen" />
+	<block key="Dialog_1040001_Text0" korea_korean="While listening to the sounds of life carried on the wind.\n\u003cbr\u003e Hello, Brother of another land.\n\u003cbr\u003e \u003cbr\u003e\nI am a young elf who called Matthew Written by Glenn. Follow the trail of a long life, I came to this place. When a knot of fate that led me want to come here turns out amidst the chaos.\n\u003cbr\u003e \u003cbr\u003e\nCome Avoid this place before you even strike waves of confusion Doc." />
+	<block key="Dialog_1040002_Title" korea_korean="Ron King plane" />
+	<block key="Dialog_1040002_Text0" korea_korean="Instead, they see the measures laid. It just kept on mind that this is not a job for only the royal family.\n\u003cbr\u003e \u003cbr\u003e\nHmm ... Who are you? Why anyone opting to restrain eopdan teeth. My only opting instead just bonaejwot?" />
+	<block key="Dialog_1040003_Title" korea_korean="Archmage rate bonus" />
+	<block key="Dialog_1040003_Text0" korea_korean="The poor old man're the bonus rate. For wizard spells, deep enough to hear the human voice is such a tremendous four as well.\n\u003cbr\u003e \u003cbr\u003e\nJust want to be able to build a deep, deep sin to pay off the old sins, should I not only have to worry." />
+	<block key="Dialog_1040003_Answer_14_Text" korea_korean="Ready to hit the road ended." />
+	<block key="Dialog_1040004_Title" korea_korean="Skill Master champion Blake" />
+	<block key="Dialog_1040004_Text0" korea_korean="The road to the sword straight road kill!\n\u003cbr\u003e \u003cbr\u003e\nIn his right hand a sword for justice!\n\u003cbr\u003e\nA shield for the patron has left!\n\u003cbr\u003e\nChest flowers for a loved one!\n\u003cbr\u003e \u003cbr\u003e\nCan not forget the attitude of a champion!" />
+	<block key="Dialog_1040004_Answer_4_Text" korea_korean="Warriors learn advanced skills" />
+	<block key="Dialog_1040005_Title" korea_korean="Skill Master Wizard Wiz lead" />
+	<block key="Dialog_1040005_Text0" korea_korean="Do not take the power and take power.\n\u003cbr\u003e \u003cbr\u003e\nWe walked in not violate the balance shifted.\n\u003cbr\u003e\nWe go out without departing from the Providence in.\n\u003cbr\u003e \u003cbr\u003e\nWizard If you do not want to get themselves do not do none given. Do not want, doggies Wizard?" />
+	<block key="Dialog_1040005_Answer_4_Text" korea_korean="Advanced Wizard skill learning" />
+	<block key="Dialog_1040006_Title" korea_korean="Priest Skill Master Milia" />
+	<block key="Dialog_1040006_Text0" korea_korean="The praise of all the earth.\n\u003cbr\u003e \u003cbr\u003e\nDo you believe in destroying even play?\n\u003cbr\u003e\nDo you believe that anything coming alive again?\n\u003cbr\u003e \u003cbr\u003e\nIf you believe, as I itgetjiyo can help." />
+	<block key="Dialog_1040006_Answer_4_Text" korea_korean="Priests learn advanced skills" />
+	<block key="Dialog_1040007_Title" korea_korean="Master assassin skills seed" />
+	<block key="Dialog_1040007_Text0" korea_korean="From darkness to light.\n\u003cbr\u003e \u003cbr\u003e\nBrother, today, fellas. How are you?\n\u003cbr\u003e\nBrother, Can Goodbye Tomorrow?\n\u003cbr\u003e \u003cbr\u003e\nIf life is tough to regret saldeorado be ours tomorrow in the gutter. Yes, can I help you?" />
+	<block key="Dialog_1040007_Answer_4_Text" korea_korean="Assassin learn advanced skills" />
+	<block key="Dialog_1040008_Title" korea_korean="Skill Master Ian Nature" />
+	<block key="Dialog_1040008_Text0" korea_korean="Abundance comes when you give enough is obtained.\n\u003cbr\u003e \u003cbr\u003e\nIt is derived from nature to nature.\n\u003cbr\u003e\nTherefore, discard it be far-fetched.\n\u003cbr\u003e \u003cbr\u003e\nIf the bar where they can do is good enough for me. What are you doing everything right to lead the rest. First thing that we will all be able to walk as a party started." />
+	<block key="Dialog_1040008_Answer_4_Text" korea_korean="Nature learn advanced skills" />
+	<block key="Dialog_1040009_Title" korea_korean="The guardian dragon bell jeroseu" />
+	<block key="Dialog_1040009_Text0" korea_korean="I live in the old covenant exists.\n\u003cbr\u003e \u003cbr\u003e\nBrilliance than through the moment, come what brings the covenant who do try to share a story." />
+	<block key="Dialog_1040010_Title" korea_korean="Accessories \u0026 Food merchants Mac" />
+	<block key="Dialog_1040010_Text0" korea_korean="Hey, come on.\n\u003cbr\u003e \u003cbr\u003e\nIt is the thing that is absolutely free and no grocery store!" />
+	<block key="Dialog_1040011_Title" korea_korean="Denzel shepherds" />
+	<block key="Dialog_1040011_Text0" korea_korean="What Are hell away cattle forage is lost.\n\u003cbr\u003e \u003cbr\u003e\nNow go back to my captain died. What's going on? Injured person I've ever seen?" />
+	<block key="Dialog_1040012_Title" korea_korean="Elf attendants Mariel" />
+	<block key="Dialog_1040012_Text0" korea_korean="Oh, hey ... please?\n\u003cbr\u003e \u003cbr\u003e\nIt is hard now I hear people moving around dangerous place.\n\u003cbr\u003e \u003cbr\u003e\nI'm talking about here I should have some discipline. Then do a Gran would have been able to keep the Spirit." />
+	<block key="Dialog_1040013_Title" korea_korean="Karel soldiers sites" />
+	<block key="Dialog_1040013_Text0" korea_korean="Welcome! The resident group sites!\n\u003cbr\u003e \u003cbr\u003e\nYes, I even called me busy group. Sort of. Such a shame none of the soldiers deployed in the outskirts talking about here.\n\u003cbr\u003e \u003cbr\u003e\nIf this situation is suddenly not be easy, but the horse was a sinecure place though." />
+	<block key="Dialog_1040014_Title" korea_korean="Priestess Maria" />
+	<block key="Dialog_1040014_Text0" korea_korean="The praise of all the earth.\n\u003cbr\u003e \u003cbr\u003e\nValor is a dangerous place to come to attend this great hammered minutes. My name is Mary who care for those injured in this place. \u003cbr\u003e \u003cbr\u003e\nWith humble-up of the body plays a priest." />
+	<block key="Dialog_1040015_Title" korea_korean="Shepherds captain Herbert" />
+	<block key="Dialog_1040015_Text0" korea_korean="Huh? What is your house. Werewolf teeming inde head back to attend attend RE kkadak skills or better or think one or the other.\n\u003cbr\u003e \u003cbr\u003e\nEuhaha, I'm just kidding. Joke. Not proficient pretty good shape? I better, you know. I'd like to take some good skills." />
+	<block key="Dialog_1040016_Title" korea_korean="Wolf Hunter Amos" />
+	<block key="Dialog_1040016_Text0" korea_korean="Huh? What is your house. Werewolf teeming inde head back to attend attend RE kkadak skills or better or think one or the other.\n\u003cbr\u003e \u003cbr\u003e\nEuhaha, I'm just kidding. Joke. Not proficient pretty good shape? I better, you know. I'd like to take some good skills." />
+	<block key="Dialog_1040017_Title" korea_korean="Ralph dispatched soldiers" />
+	<block key="Dialog_1040017_Text0" korea_korean="Black my body!\n\u003cbr\u003e \u003cbr\u003e\nThe Ralph dispatched by the crisis over? Population control junginde What's happened?" />
+	<block key="Dialog_1040018_Title" korea_korean="Shepherds Jensen" />
+	<block key="Dialog_1040018_Text0" korea_korean="Haetsu not think about these things since the most difficult wolf attacked the shepherds of my life. What the alternate. \u003cbr\u003e \u003cbr\u003e Dolbodeon cows are all scattered, you do not know, how many people died. \u003cbr\u003e \u003cbr\u003e World I'll have to be replaced!" />
+	<block key="Dialog_1040019_Title" korea_korean="MIG is a merchant" />
+	<block key="Dialog_1040019_Text0" korea_korean="Ho-ho-ho-ho, a Guinness top of everything - even now, Is not it? What malyijyo stuff or turn this situation. I sold iteunikka and if not, please tell me the other day to buy stuff for kids.\n\u003cbr\u003e \u003cbr\u003e\nOr is there to be seen with me?" />
+	<block key="Dialog_1040020_Title" korea_korean="Potion Merchant nikam" />
+	<block key="Dialog_1040020_Text0" korea_korean="Risks and frozen ~~~ ~ Potion traders make money in Yea ~\n\u003cbr\u003e \u003cbr\u003e\nNot really ... but in fact. This is not much margin namgeodeunyo. Alchemists were right! Toxic. Maybe not you have shed blood instead of money.\n\u003cbr\u003e \u003cbr\u003e\nBut you'd better stay potion. When I need it urgently treated. Let's look at iteunikka adequately stocked." />
+	<block key="Dialog_1040020_answer_0_text" korea_korean="Potion Shop" />
+	<block key="Dialog_1040021_Title" korea_korean="Farmer Dirk" />
+	<block key="Dialog_1040021_Text0" korea_korean="Itso young people who loved lice? Yeah, Yu - wen been a good girl. No, it's pretty been a slip of the tongue.\n\u003cbr\u003e \u003cbr\u003e\nWould you consider it so important sucks the old man lost complaining. Now please kill whatever good you want to think it was a crap sucks want to think of the ugly old man ...\n\u003cbr\u003e \u003cbr\u003e\nLao simple story. Family died, I lived the story. While even after the field work to take mushrooms, all she wanted to do like go sludge went into the woods mushrooms or trying to follow, all of them ... him hyungmulseureon NED deoguryeo ..." />
+	<block key="Dialog_1040022_Title" korea_korean="Derek Farmer" />
+	<block key="Dialog_1040022_Text0" korea_korean="This piece of shit! They damn rabbit! Now he wanted to? It's okay guys who are not!\n\u003cbr\u003e \u003cbr\u003e\nHey! You fuck is this? Try any frost?" />
+	<block key="Dialog_1040023_Title" korea_korean="Sofia" />
+	<block key="Dialog_1040023_Text0" korea_korean="You left the place like a great guy. I'm in this situation. I weird Uncle Derek? Nice guy who almost inde ... eunikkayo became so neighbors. Since then did not get no better.\n\u003cbr\u003e \u003cbr\u003e\nI am angry that I avoided sex also went in to see this. Cousin's already on the other side and the bar staff. But I do not think much luck.\n\u003cbr\u003e \u003cbr\u003e\nI wish I would have lived more. WOW ... since eunikkayo dealt with only a sword in the village bwae. But I'm not sure what good it was.. When you've had important." />
+	<block key="Dialog_1040024_Title" korea_korean="Lauren merchant" />
+	<block key="Dialog_1040024_Text0" korea_korean="Seusanhan's village, not a slack town? Birds of Prey also, eunikkayo passed neither the birds of prey animals seulgo just whip the town like a blast. Weak animals'd like people to endure difficult.\n\u003cbr\u003e \u003cbr\u003e\nDo you want to make the town I'm here. More authentic than those in town. Saints may close, the land and oil, rich forests're good location?\n\u003cbr\u003e \u003cbr\u003e\nI originally merchant yieoteunikka guests can collect their own thing. As will be resident, not a guest I going to do with this?" />
+	<block key="Dialog_1040025_Title" korea_korean="Shadow Crow clan leader" />
+	<block key="Dialog_1040025_Text0" korea_korean="Are you: Are they doing now?\n\u003cbr\u003e \u003cbr\u003e\nWhen that happens, and just relax and talk, and I want to finish. I do a lot of things that do not usually have time I bandit group.\n\u003cbr\u003e \u003cbr\u003e\nI heard a story that you have to make it happen in the palace nearby. Thanks to the little things I've pyeonhaejyeot. From day one entrusted to handle.\n\u003cbr\u003e \u003cbr\u003e\nStory is not in the next." />
+	<block key="Dialog_1040026_Title" korea_korean="Wizard of truth Els red" />
+	<block key="Dialog_1040026_Text0" korea_korean="What is a wizard! I'm going to think what they need to do research yamalro wizard. Leave it to gently prize the thing that the fight to articles! If so intrinsically wizard for the way things ought to explore!\n\u003cbr\u003e \u003cbr\u003e\nWizard, or who can not perform this task!" />
+	<block key="Dialog_1040027_Title" korea_korean="Employees Leila" />
+	<block key="Dialog_1040027_Text0" korea_korean="From midday pub mean, unemployed? Or redneck? Without flirting distance to attend, no one, not even old-fashioned. What are you doing? Is not that different to see one?\n\u003cbr\u003e \u003cbr\u003e\nJukchi has increased at a bar that humans are too cluttered lately. Mercenary crowd was poor quality also increases. When is it that you do smoke eojigan turmoil.\n\u003cbr\u003e \u003cbr\u003e\nI mean give me good yireotji only sell expensive wine. Rabble is not much margin've come cheap sulman peodae." />
+	<block key="Dialog_1040028_Title" korea_korean="Civil bar trellis" />
+	<block key="Dialog_1040028_Text0" korea_korean="The young man's man are you doing? Is that armed mercenaries or something like that people see you walking around?\n\u003cbr\u003e \u003cbr\u003e\nMy son is routed soldiers. I mean that the original farm and build he is not listening to me. What's Surf Ranch in San hyunghyunghan when we went out to dispatch so good.\n\u003cbr\u003e \u003cbr\u003e\nGeokjing dwaeseo Now I can not even sleep ..." />
+	<block key="Dialog_1040029_Title" korea_korean="Howard sent soldiers" />
+	<block key="Dialog_1040029_Text0" korea_korean="Black my body!\n\u003cbr\u003e \u003cbr\u003e\nThe first contingent Howard. What's happened? Currently, the eastern region, please cooperate so voracious and control the traffic!" />
+	<block key="Dialog_1040030_Title" korea_korean="Citizens Charlotte" />
+	<block key="Dialog_1040030_Text0" korea_korean="It was always a relief these days. Man snuck out a friend sent a dangerous place. That person, even though I'm worried about what to do with the soldiers not wearing kendo warriors because even the balls well.\n\u003cbr\u003e \u003cbr\u003e\nAnd he does not seem too bothered're going to have guys around? While the roots than to fly daeneunde would soon come true warrior news, siryeoneun twisted a woman like that I do not know what it's like.\n\u003cbr\u003e \u003cbr\u003e\nWorld, man will not go beyond hanteneun men without access to one user that way. Do not you think?" />
+	<block key="Dialog_1040031_Title" korea_korean="Stewart Home Affairs Management" />
+	<block key="Dialog_1040031_Text0" korea_korean="Administrator's interior is like saying all kinds of chores chores are put in charge is. Dont poke complaints and bruises from the bottom to the top is a budget issue, it's a very can not be eaten. Other people have come a long way in that gaeppul succeed if you work in the palace, malyijiyo pack horse can not eat sweet treats called on underpaid.\n\u003cbr\u003e \u003cbr\u003e\nBut because you have no choice but to me it or not. There 's just enough power struggles do not even fight this much attention and no magic can not write the body will be a boon to the country." />
+	<block key="Dialog_1040032_Title" korea_korean="Northern Captain Melvin one" />
+	<block key="Dialog_1040032_Text0" korea_korean="Black my body!\n\u003cbr\u003e \u003cbr\u003e\nCalled Melvin, who heads the northern first Watchtower. Recent population control junginde What's happened?\n\u003cbr\u003e \u003cbr\u003e\nHe Tao rate bonus? Right. If that comes up here is a single-handed shape with quite skillfully." />
+	<block key="Dialog_1040033_Title" korea_korean="Luke wolf hunters" />
+	<block key="Dialog_1040033_Text0" korea_korean="Bonjik wolf wolf hunter inde whether I should not hold you doing. Hey, you. Have you ever attended hejipgo the nearby mountain Surf's ranch is something that you?\n\u003cbr\u003e \u003cbr\u003e\nThat's really mighty werewolf disgrace? I'm a wolf in the wind to dry at ambient comparable to anyone except Jack does not hold human beings I've seen. Damn, i was dying I deserve the opportunity to fly name.\n\u003cbr\u003e \u003cbr\u003e\nThis is no wolf, leopard's no hard men take out their own taste drumsticks no fun." />
+	<block key="Dialog_1040034_Title" korea_korean="Karl Wolf Hunter" />
+	<block key="Dialog_1040034_Text0" korea_korean="What you, nothing to see off. Are you or give you any reward for my grudge?\n\u003cbr\u003e \u003cbr\u003e\nIf I can be just enough revenge for my son. Called old body does not give even harder to catch yourself. I will swallow up standing cut out the eyes of the rest of him.\n\u003cbr\u003e \u003cbr\u003e\nKutsu ... Size giggling, giggle giggle !!!" />
+	<block key="Dialog_1040035_Title" korea_korean="Northern Rangers Liam" />
+	<block key="Dialog_1040035_Text0" korea_korean="Black my body!\n\u003cbr\u003e \u003cbr\u003e\nCivilians are out of control! Oh, were you a referral from the palace? If so, do not care, do not go back too carelessly." />
+	<block key="Dialog_1040036_Title" korea_korean="Pore ​​technicians work lard" />
+	<block key="Dialog_1040036_Text0" korea_korean="In any case I do not care what the world! That's enough for me, if only you can twiddle tools and materials.\n\u003cbr\u003e \u003cbr\u003e\nThis he can still get a quality leather? 're Not gonna leave, I can leave. This is not a good place to leave. Population control something no bar to me!" />
+	<block key="Dialog_1040037_Title" korea_korean="Wolf Hunter Thomas" />
+	<block key="Dialog_1040037_Text0" korea_korean="The animal's scary. You're still young, but look snappy, I do not know one time I do not have nalttwin scary. But, terrified. Animals are scared.\n\u003cbr\u003e \u003cbr\u003e\nI guess I will not be able to do it properly in the future. Hunter as I ... already dead." />
+	<block key="Dialog_1040038_Title" korea_korean="Anglers lock" />
+	<block key="Dialog_1040038_Text0" korea_korean="Fishing is catching the years eojjeone geone say it's all bullshit! Do not you think?\n\u003cbr\u003e \u003cbr\u003e\nWhy, look, hunters're even more and want to catch a big game? I do the same. The angler lock! Cast a fishing rod with a big to do is to nakgi the time something!" />
+	<block key="Dialog_1040039_Title" korea_korean="Wizard of truth azelaic" />
+	<block key="Dialog_1040039_Text0" korea_korean="I azelaic which accounts for malseok flattered enough of the truth of the wizard.\n\u003cbr\u003e \u003cbr\u003e\nCrowe revealed to attend move Heartbreak milmyeong, Fix a heavy duty. During the day there's nothing lightweight none Crow is taking renovated.\n\u003cbr\u003e \u003cbr\u003e\nSo here's a look come. One sure thing is happening here that is a serious problem that can hardly cope." />
+	<block key="Dialog_1040040_Title" korea_korean="Mayor James" />
+	<block key="Dialog_1040040_Text0" korea_korean="Hello, I Kel James Woods Lao village headman.\n\u003cbr\u003e \u003cbr\u003e\nCounty village on the fringe, but also by the scale is not yet part in preparation. Find you not?\n\u003cbr\u003e \u003cbr\u003e\nAnyway region that produces close to half of the kingdom Canas and food also. So I'm sorry ... What the fuck happened, saying hasnt rough. This fucking freaking cheomeok this small do not know where the food situation next year.\n\u003cbr\u003e \u003cbr\u003e\nWould soon be ready to start the next farm I do not know what do." />
+	<block key="Dialog_1040041_Title" korea_korean="Matthew Farmer" />
+	<block key="Dialog_1040041_Text0" korea_korean="Vampires have to say is, do not put a farm!\n\u003cbr\u003e \u003cbr\u003e\nJust what crops grow while plowing the land, why these things happen to live life. Someone making sure people get caught up bar, but I know you did to live so plainly sees something good form.\n\u003cbr\u003e \u003cbr\u003e\nThe reason was that no matter what damage do not injure my parents taught me to South Shallah, nomil me. They would have learned as much as I do not know why this is happening to learn to eat. Heoyigu ..." />
+	<block key="Dialog_1040042_Title" korea_korean="Pharmacists brother Umbrella" />
+	<block key="Dialog_1040042_Text0" korea_korean="Do you want? If you import only material we make everything ~\n\u003cbr\u003e \u003cbr\u003e\nDid you do this yirwojiji love? So, How's it going Elixir of Love. \u003cbr\u003e\nDo you sleep hard to pick? How about a sleeping pill so you can sleep ten days. He has plus contributions. \u003cbr\u003e\nIs drinking the abundant work? So do not take do not take to drink at night to drink this!" />
+	<block key="Dialog_1040043_Title" korea_korean="Northern Rangers de Rex" />
+	<block key="Dialog_1040043_Text0" korea_korean="Hiek ?! Press, Who are you? I do not hang because you are hiding here say! Hwoyi! Hwoyi!" />
+	<block key="Dialog_1040044_Title" korea_korean="Northern Rangers Logan" />
+	<block key="Dialog_1040044_Text0" korea_korean="Black my body!\n\u003cbr\u003e \u003cbr\u003e\nI was watching from earlier. I'm big balls. You're just that confident in the skills? So that you can move around confidently cases it is also a great skill in itself.\n\u003cbr\u003e \u003cbr\u003e\nRemember to always hurt so devoted." />
+	<block key="Dialog_1040045_Title" korea_korean="Jessica maids" />
+	<block key="Dialog_1040045_Text0" korea_korean="I happened Zion. This is not a place where anyone can come. Although distinctly yinikkayo place that comes to be known as the Countess mansion employee living quarters.\n\u003cbr\u003e \u003cbr\u003e\nI suggest Kara Lee Young Ae, who is in charge of the city of Earl Lady Godiva. Can you identify the name and identity of the guests?\n\u003cbr\u003e \u003cbr\u003e\nIf you can not say that I need you here, even poetry will soon. Earl is not going to face this situation now, sir." />
+	<block key="Dialog_1040046_Title" korea_korean="Lady Godiva" />
+	<block key="Dialog_1040046_Text0" korea_korean="Mistakes father is what I take responsibility. I did not have. We can excuse Delta.\n\u003cbr\u003e \u003cbr\u003e\nMajesty the King would be sweeter if you get off the bees are uncertain when His Majesty the random is it also a matter of course. But I would not do to stop the vampire research.\n\u003cbr\u003e \u003cbr\u003e\nEven if someone left no one, because we'll be my pride was born the daughter of nobility to rectify the mistakes made Father GPA even after performing yokdoen said." />
+	<block key="Dialog_1040047_Title" korea_korean="New guards Loreto" />
+	<block key="Dialog_1040047_Text0" korea_korean="What should I do, what should I do. Hiik ?!\n\u003cbr\u003e \u003cbr\u003e\nAll, who are you? Time here? Over here know where it is! As northern lords of the Count Karl reang mansion! It's not where you come in!" />
+	<block key="Dialog_1040048_Title" korea_korean="Northern Rangers Austin" />
+	<block key="Dialog_1040048_Text0" korea_korean="Pyrgos greater Austin robbers representative." />
+	<block key="Dialog_1040049_Title" korea_korean="Shenron Knights Layla" />
+	<block key="Dialog_1040049_Text0" korea_korean="This is a dispatch base Shenron Knights! And out of the ordinary is strictly blocked. Please step down now!\n\u003cbr\u003e \u003cbr\u003e\nWhat? GM still moves in the Crow's command? So I can not help it, please do not go too hejipgo." />
+	<block key="Dialog_1040050_Title" korea_korean="Shenron Knights Commander Tom Ross" />
+	<block key="Dialog_1040050_Text0" korea_korean="Shenron Knights Commander Ross Tom Dispatch bases. What's going on? What happens here is not open to the public. Even though it says no matter Crow refurbished command.\n\u003cbr\u003e \u003cbr\u003e\nI do not know where nagalji information flows in, we are now the greatest threat to fling Saran teuneun a position to prevent as well as bandits without discernment. We are in charge of being the Knights hope to be wary of anyone who understands the plight am." />
+	<block key="Dialog_1040051_Title" korea_korean="Royal investigator Philip" />
+	<block key="Dialog_1040051_Text0" korea_korean="I sent an investigator in the palace. We're here to investigate the frozen ruins. I would like to live in Stuttgart village Saran am doing any of the information he could be useful to eopgunyo.\n\u003cbr\u003e \u003cbr\u003e\nPlus, the Yeti are museounji so doing. What's the frustration of being walked in and almost do not know. I just went back to the palace I'm on my bad." />
+	<block key="Dialog_1040052_Title" korea_korean="Farmer's wife Natalie" />
+	<block key="Dialog_1040052_Text0" korea_korean="Who is you? What I got stuck again sent to me to a safe place, and also the castle?\n\u003cbr\u003e \u003cbr\u003e\nI estimate. Before he came, not going anywhere. You have just farmers, even for me one people telling me that he loved more than anyone!" />
+	<block key="Dialog_1040053_Title" korea_korean="Traders August" />
+	<block key="Dialog_1040053_Text0" korea_korean="Ehyu Hugh, grab it unless stuck to Shenron Knights stable, but lower-zero mean boring.\n\u003cbr\u003e \u003cbr\u003e\nYou're not a knight? That's a good thing. Those odds are not blunt enough to know what lives in the world. Good for funny and blunt. Hadeora not complain because the same menu with meals come out for a week?\n\u003cbr\u003e \u003cbr\u003e\nEhyu Hugh, why do japsori weapons and palrago? Pick care. I called the Knights also shakes things to write bad things." />
+	<block key="Dialog_1040053_Answer_2_text" korea_korean="Weapons Stores" />
+	<block key="Dialog_1040054_Title" korea_korean="Major sunchalbyeong Zelus" />
+	<block key="Dialog_1040054_Text0" korea_korean="Huff, chupgun come up here.\n\u003cbr\u003e \u003cbr\u003e\nIt is indeed difficult to act on patrol in a cold place. If you do not have a warm breath, just because the rest of footprints in the snow is also easy to clear.\n\u003cbr\u003e \u003cbr\u003e\nWhere living creatures are tough and cold. I ignored the strong ignored. Ability to have quite a bit of hands and nails daeneunde, geolkkayo somehow I fell in such a place ..." />
+	<block key="Dialog_1040055_Title" korea_korean="Wizard of truth, Ed Carr" />
+	<block key="Dialog_1040055_Text0" korea_korean="The world is full of mystery and we live to beat Gao dig the mystery. Hello, young fellow.\n\u003cbr\u003e \u003cbr\u003e\nI go Hao Ed Wizard of truth. But now the humble name is known the world in the future, oh deunopeun name." />
+	<block key="Dialog_1040056_Title" korea_korean="Use this merchant" />
+	<block key="Dialog_1040056_Text0" korea_korean="Welcome. Various things I did not have much stuff you need'll have it rough." />
+	<block key="Dialog_1040056_answer_1_text" korea_korean="Grocery store" />
+	<block key="Dialog_1040057_Title" korea_korean="Miners working Lyles" />
+	<block key="Dialog_1040057_Text0" korea_korean="I am the original miners. Find the best mineral with a croissant Kuhn family had to work to make a good product. Kuhn Croix tribes do not have much talent, talent is just not making light illuminate.\n\u003cbr\u003e \u003cbr\u003e\nFrozen quickly ruined hopes to re-open and work with them." />
+	<block key="Dialog_1040058_Title" korea_korean="Sunchalbyeong top rosette" />
+	<block key="Dialog_1040058_Text0" korea_korean="Who are you? This figure is an astute move around quite inde shape that can also covert action.\n\u003cbr\u003e \u003cbr\u003e\nHowever, even if not a Templar soldiers Does're not gonna take that talent all-you-can? You mean like me. I pilferage or haemeokgo but now is I've lived in quite a flurry sunchalbyeong thanks to captain Tom Ross." />
+	<block key="Dialog_1040059_Title" korea_korean="Shenron Templar secret sunchalbyeong" />
+	<block key="Dialog_1040059_Text0" korea_korean="Sh-It!\n\u003cbr\u003e \u003cbr\u003e\nIs performing a secret mission. Do not apply it to say anyhow." />
+	<block key="Dialog_1040060_Title" korea_korean="Wizard of truth Barros" />
+	<block key="Dialog_1040060_Text0" korea_korean="A wizard with powerful magic skills." />
+	<block key="Dialog_1040061_Title" korea_korean="Jeff Young Mok" />
+	<block key="Dialog_1040061_Text0" korea_korean="Something hurts the body. I do not mind." />
+	<block key="Dialog_1040062_Title" korea_korean="Werewolf is Jeff" />
+	<block key="Dialog_1040062_Text0" korea_korean="I ... What happened to attend terminated so ugly?" />
+	<block key="Dialog_1040063_Title" korea_korean="And Canas kingdom portal" />
+	<block key="Dialog_1040063_Text0" korea_korean="A portal to go to the kingdom and Canas." />
+	<block key="Dialog_1040063_Answer_0_Text" korea_korean="Go to the kingdom and Canas" />
+	<block key="Dialog_1040064_Title" korea_korean="Forest of Spirits portal" />
+	<block key="Dialog_1040064_Text0" korea_korean="A portal to go to the forest spirits." />
+	<block key="Dialog_1040064_Answer_0_Text" korea_korean="Go to Forest of Spirits" />
+	<block key="Dialog_1040065_Title" korea_korean="Hugh farmers survivors" />
+	<block key="Dialog_1040065_Text0" korea_korean="Now the world over, my family over and over my neighbor. Ditched the end ...\n\u003cbr\u003e \u003cbr\u003e\nMy father died bitten by a wolf, my mother died beneath the reindeer, and my wife is dead, right to bear put it out of here. Kikiki kick!\n\u003cbr\u003e\n... The chyeotneunde away! I was able to buy !!!" />
+	<block key="Dialog_2023005_title" korea_korean="Accessories bobusang a Mac" />
+	<block key="Dialog_2023005_text0" korea_korean="Hey, come on.\n\u003cbr\u003e \u003cbr\u003e\nIt is the thing that is absolutely free and no grocery store!" />
+	<block key="Dialog_2023005_answer_0_text" korea_korean="Grocery store" />
+	<block key="Dialog_2023006_title" korea_korean="Equipment bobusang Bolt" />
+	<block key="Dialog_2023006_text0" korea_korean="All I seopsyeo ~ \u003cbr\u003e \u003cbr\u003e equipment is equipment that is in the world is! Not only can you purchase only regret there is no equipment!" />
+	<block key="Dialog_2023006_answer_0_text" korea_korean="Equipment store" />
+	<block key="Dialog_2023007_title" korea_korean="Weapons of Robben bobusang" />
+	<block key="Dialog_2023007_text0" korea_korean="Entrust the lives weapon! Would you be able to get anywhere, anywhere! \u003cbr\u003e \u003cbr\u003e Trust based on a Robin mosipnida!" />
+	<block key="Dialog_2023007_answer_0_text" korea_korean="Weapons Stores" />
+	<block key="Dialog_2023008_title" korea_korean="Arms dealer Paul" />
+	<block key="Dialog_2023008_text0" korea_korean="One hand, both hands, sticks, daggers, bows! ... It is equipped with choosing the kind! For just words!" />
+	<block key="Dialog_2023008_answer_0_text" korea_korean="Weapons Stores" />
+	<block key="Dialog_2023009_title" korea_korean="Fagan arms dealer" />
+	<block key="Dialog_2023009_text0" korea_korean="Weapons gotta change from time to time. Guests, donpun ahkkiryeo and do not fall in the arms hold the risk that do not fit in the hand! \u003cbr\u003e \u003cbr\u003e Right now! \u003cbr\u003e Change!" />
+	<block key="Dialog_2023009_answer_0_text" korea_korean="Weapons Stores" />
+	<block key="Dialog_2023010_title" korea_korean="Armor Merchant Raleigh Noah" />
+	<block key="Dialog_2023010_text0" korea_korean="From defensive battle! The best defense is attack! What \u003cbr\u003e \u003cbr\u003e looking for this stuff? We will meet sufficiently!" />
+	<block key="Dialog_2023010_answer_0_text" korea_korean="Armor shop" />
+	<block key="Dialog_2023011_title" korea_korean="Armor Merchant Clark" />
+	<block key="Dialog_2023011_text0" korea_korean="But also gotta be prepared when winning players have missed it. Not even a duel to \u003cbr\u003e \u003cbr\u003e Knights beasts and barbarians are Do not durable. Armor ppunyijyo trust you in that situation!" />
+	<block key="Dialog_2023011_answer_0_text" korea_korean="Armor shop" />
+	<block key="Dialog_2023012_title" korea_korean="Haberdasher Benjamin" />
+	<block key="Dialog_2023012_text0" korea_korean="There are many useful things! \u003cbr\u003e \u003cbr\u003e Uh-huh! Just go through it scary!" />
+	<block key="Dialog_2023012_answer_0_text" korea_korean="Grocery store" />
+	<block key="Dialog_2023013_title" korea_korean="Equipment Trader Jeff" />
+	<block key="Dialog_2023013_text0" korea_korean="When I toured the battlefield is also changed as a result of small differences. \u003cbr\u003e \u003cbr\u003e Choice than the person ahead of the South! Here are!" />
+	<block key="Dialog_2023013_answer_0_text" korea_korean="Equipment store" />
+	<block key="Dialog_2023014_title" korea_korean="Potion Merchant Rolando" />
+	<block key="Dialog_2023014_text0" korea_korean="In an emergency eopjyo be reliable as well as potions. Mosipnida faithful are not only cheaper mosiji!" />
+	<block key="Dialog_2023014_answer_0_text" korea_korean="Potion Shop" />
+	<block key="Dialog_2023015_title" korea_korean="Crohn's armor merchant" />
+	<block key="Dialog_2023015_text0" korea_korean="Is also a first-class armor also pick picky. Only if you think it's difficult to survive that attack techniques. What do you want?" />
+	<block key="Dialog_2023015_answer_0_text" korea_korean="Armor shop" />
+	<block key="Dialog_2023016_title" korea_korean="Beck arms dealer" />
+	<block key="Dialog_2023016_text0" korea_korean="Are you obtain a weapon in a place like this? Well, I care, I do not know, but quite a few readiness.\n\u003cbr\u003e \u003cbr\u003e\nDo not know if I can take comfort in moderation, so Let's pick one weapon." />
+	<block key="Dialog_2023016_answer_0_text" korea_korean="Weapons Stores" />
+	<block key="Dialog_2023017_title" korea_korean="Bobusang the event's armor" />
+	<block key="Dialog_2023017_text0" korea_korean="Outstanding people rarely notice to find out an excellent thing. \u003cbr\u003e \u003cbr\u003e Good stuff folks around. If money can buy." />
+	<block key="Dialog_2023017_answer_0_text" korea_korean="Armor shop" />
+	<block key="Dialog_2023018_title" korea_korean="Armor Merchant Bentley" />
+	<block key="Dialog_2023018_text0" korea_korean="To increase the survival rate in the field jotjiyo you paying attention to the armor rather than weapons. Are you are looking for something?" />
+	<block key="Dialog_2023018_answer_0_text" korea_korean="Armor shop" />
+	<block key="Dialog_2023019_title" korea_korean="Haberdasher Lina" />
+	<block key="Dialog_2023019_text0" korea_korean="Look around. I hope to meet a finding stuff." />
+	<block key="Dialog_2023019_answer_0_text" korea_korean="Grocery store" />
+	<block key="Dialog_2023020_title" korea_korean="Maggie food merchants" />
+	<block key="Dialog_2023020_text0" korea_korean="Hungry can not I do anything! Cause people are too hungry to fight any noldeun call!" />
+	<block key="Dialog_2023020_answer_0_text" korea_korean="Food shops" />
+	<block key="Dialog_2023021_title" korea_korean="Food merchants through" />
+	<block key="Dialog_2023021_text0" korea_korean="Yummy ~ is the food! Where can I get anywhere else so good food ...?" />
+	<block key="Dialog_2023021_answer_0_text" korea_korean="Food shops" />
+	<block key="Dialog_2023022_title" korea_korean="Molly haberdasher" />
+	<block key="Dialog_2023022_text0" korea_korean="Do not pour it grocery store! It's just a grocery store selling everything as it sundry! So I'd look for something that was needed!" />
+	<block key="Dialog_2023022_answer_0_text" korea_korean="Grocery store" />
+	<block key="Dialog_2023023_title" korea_korean="Peggy food merchants" />
+	<block key="Dialog_2023023_text0" korea_korean="If the nutrition nutritious flavors ~ ~ If either hard to miss if you live right here!" />
+	<block key="Dialog_2023023_answer_0_text" korea_korean="Food shops" />
+	<block key="Dialog_2023024_title" korea_korean="Laura food merchants" />
+	<block key="Dialog_2023024_text0" korea_korean="The food's the hands. The carefully filled with cooked food. Please just to watch, I'll be watching the bout after 90000000000010000 ~ ~" />
+	<block key="Dialog_2023024_answer_0_text" korea_korean="Food shops" />
+	<block key="Dialog_2023025_title" korea_korean="Potion Merchant Elina" />
+	<block key="Dialog_2023025_text0" korea_korean="Keueu ~ Alchemist Cause is awful anyway. I do not have laws making potions prices. Do you still go out anywhere without this number? \u003cbr\u003e \u003cbr\u003e Want even dudukhi supplement and go a little lacking." />
+	<block key="Dialog_2023025_answer_0_text" korea_korean="Potion Shop" />
+	<block key="Dialog_1040066_title" korea_korean="Portal ill go buy lease" />
+	<block key="Dialog_1040066_text0" korea_korean="If you use this portal, you can not move quickly to the designated place of Ned continent.\n\u003cbr\u003e \u003cbr\u003e\nOf course. There's been a small fee to the magic of the consideration beyond time and space. And you want to use the portal?" />
+	<block key="Dialog_1040066_answer_0_text" korea_korean="Skip to Canas sex" />
+	<block key="Dialog_1040067_title" korea_korean="Go buy prion portal" />
+	<block key="Dialog_1040067_text0" korea_korean="If you use this portal, you can not move quickly to the designated place of Ned continent.\n\u003cbr\u003e \u003cbr\u003e\nOf course. There's been a small fee to the magic of the consideration beyond time and space. And you want to use the portal?" />
+	<block key="Dialog_1040067_answer_0_text" korea_korean="Skip to Elf sites" />
+	<block key="Dialog_1040067_answer_1_text" korea_korean="Go to Calgary Woods Village Works" />
+	<block key="Dialog_1040067_answer_2_text" korea_korean="Skip to post a roaring forest" />
+	<block key="Dialog_1040067_answer_3_text" korea_korean="Go to the Knights Templar garrison Shenron [Forest of Spirits]" />
+	<block key="Dialog_1040068_title" korea_korean="Go buy a portal entil rope" />
+	<block key="Dialog_1040068_text0" korea_korean="If you use this portal, you can not move quickly to the designated place of Ned continent.\n\u003cbr\u003e \u003cbr\u003e\nOf course. There's been a small fee to the magic of the consideration beyond time and space. And you want to use the portal?" />
+	<block key="Dialog_1040068_answer_0_text" korea_korean="Skip to Canas sex" />
+	<block key="Dialog_1040068_answer_1_text" korea_korean="Skip to post a roaring forest" />
+	<block key="Dialog_1040069_title" korea_korean="Aaron Ward Moving Company Portal" />
+	<block key="Dialog_1040069_text0" korea_korean="If you use this portal, you can not move quickly to the designated place of Ned continent.\n\u003cbr\u003e \u003cbr\u003e\nOf course. There's been a small fee to the magic of the consideration beyond time and space. And you want to use the portal?" />
+	<block key="Dialog_1040069_answer_0_text" korea_korean="Go to Calgary Woods Village Works" />
+	<block key="Dialog_1040069_answer_1_text" korea_korean="Skip to Canas sex" />
+	<block key="Dialog_1040070_title" korea_korean="Shenron articles LeBron Cotter" />
+	<block key="Dialog_1040070_text0" korea_korean="Together with my black light! \u003cbr\u003e \u003cbr\u003e I was leading the soldiers are stationed here. Nowadays this hyunghyunghan but committed to keeping here with azelaic's." />
+	<block key="Dialog_1040071_title" korea_korean="Local notables ballet Roa" />
+	<block key="Dialog_1040071_text0" korea_korean="Circle came here to fulfill a dream of. Ever going to have a great power of the kingdom holds sway. It's the truth! To create a strong personal connections to the time. I needed to work to help people who can give you the power to create, Can you help?" />
+	<block key="Dialog_1040072_title" korea_korean="Len a higher birthplace articles" />
+	<block key="Dialog_1040072_text0" korea_korean="We're headed to comment on the story of sinister events taking place in the kingdom. Perhaps I need a word to me?" />
+	<block key="Dialog_1040073_title" korea_korean="Auctions only on Haridwar" />
+	<block key="Dialog_1040073_text0" korea_korean="Now it's time to return the spirit of this auction. If you have something to say, okay ... in his free time?" />
+	<block key="Dialog_1040074_title" korea_korean="Captain John rope unsongseon" />
+	<block key="Dialog_1040074_text0" korea_korean="If you're just getting ready to leave the remaining profits at any time. Is this where you want to go?" />
+	<block key="Dialog_1040075_title" korea_korean="Airship Captain RY knit" />
+	<block key="Dialog_1040075_text0" korea_korean="Wait to see. The traveler did not gather yet." />
+	<block key="Dialog_1040076_title" korea_korean="Kingdom Bank Tree Line" />
+	<block key="Dialog_1040076_text0" korea_korean="To be rich you hear the forest. When the trees do not see ... can see the flow of money is the right time, makes sense only if commitment investment decision. If necessary, ask for advice at any time." />
+	<block key="Dialog_1040077_title" korea_korean="Wizard of Lily Chan Netanyahu" />
+	<block key="Dialog_1040077_text0" korea_korean="We are against the spirit of evil, the work that has been doing stand for justice. The only thing I do is not the mission. What really is not correct and the absolute love of line is I would not need a decision." />
+	<block key="Dialog_1040078_title" korea_korean="Senior blacksmith tuho Lin" />
+	<block key="Dialog_1040078_text0" korea_korean="Iteusinga interested in open-blacksmith work? Not bad if they just find it interesting.\n\u003cbr\u003e \u003cbr\u003e\nThe body confident craftsmanship, but do not have the old-fashioned way of thinking itjineun like the old days." />
+	<block key="Dialog_1040079_title" korea_korean="Grave and being slim" />
+	<block key="Dialog_1040079_text0" korea_korean="Eoheoyi! Goodness me! I, gicheok kill me walking around the show! Now I kill jupsyo! And'm attending? Fortunately, there's a wizard thing coming together, but how sensitive the zombies.\n\u003cbr\u003e \u003cbr\u003e\nAnd, because now you do not know where zombies crawling nerves stood on end how? Hear only the sound catching shoes on the floor is also dis yard game day!" />
+	<block key="Dialog_1040080_title" korea_korean="Swin armor craftsman" />
+	<block key="Dialog_1040080_text0" korea_korean="Grunting ... disgrace that dress, and the world know, I can only live with practicality. Am I going to have to worry about something that fashion? Otherwise, until I can go back to Are You look like that.\n\u003cbr\u003e \u003cbr\u003e\nAh, yes. Practicality is important, of course not. It's just that you must adhere to the basic purpose of defense.\n\u003cbr\u003e \u003cbr\u003e\nBut it should not have to be that strong aura Knights wear armor like rags. What about efficiency as it is not dressed adventurer integrity. People's awareness of how to live with yourself is recognized in the world." />
+	<block key="Dialog_1040081_title" korea_korean="Water Castle Guard Diego" />
+	<block key="Dialog_1040081_text0" korea_korean="Charge-castle! No more of \u003cbr\u003e \u003cbr\u003e work ... Who are you by the way? Beware \u003cbr\u003e \u003cbr\u003e so recently lived in the forests of the roaring beast roams out of the woods. You also said that during the hatchling black Balaur." />
+	<block key="Dialog_1040082_title" korea_korean="Brodie Castle Guard also" />
+	<block key="Dialog_1040082_text0" korea_korean="Charge-sex. \u003cbr\u003e \u003cbr\u003e Have you ever been to the Knights of the roaring camp in the forest? Great place Shenron says that the Knights are stationed. How can I be so? \u003cbr\u003e \u003cbr\u003e ... Heotkkum not even think about it, but not to close to the horse." />
+	<block key="Dialog_1040083_title" korea_korean="Jeff's mom Ada" />
+	<block key="Dialog_1040083_text0" korea_korean="Press, Is anyone ...? Where is here? \u003cbr\u003e \u003cbr\u003e My son, my son, Jeff, Where Can I ?!" />
+	<block key="Dialog_1040084_title" korea_korean="Queen Venetian fish ah" />
+	<block key="Dialog_1040084_text0" korea_korean="How to rescue the princess did? \u003cbr\u003e \u003cbr\u003e Magic to keep the mind to know, but you do not know Ira's a magic to keep the body concerned. \u003cbr\u003e \u003cbr\u003e ... Fine. I believe your article and wizards of our kingdom. No, our kingdom knights and wizards, not only believe in all people. \u003cbr\u003e \u003cbr\u003e Sure, I believe you'd come up Rania rescue!" />
+	<block key="Dialog_9011008_title" korea_korean="Taming Manual" />
+	<block key="Dialog_9011008_text0" korea_korean="" />
+	<block key="Dialog_3020702_Title" korea_korean="Rabeulre's yeomsaeksa" />
+	<block key="Dialog_3020702_Text0" korea_korean="Come ohsipsiyo. What can I do for you?" />
+	<block key="Dialog_3020702_Answer_0_Text" korea_korean="I'd like to dye your items." />
+	<block key="Dialog_3020702_Answer_1_Text" korea_korean="I'd like to dye the hair." />
+	<block key="Dialog_3020901_Title" korea_korean="Sacred therapist" />
+	<block key="Dialog_3020901_Text0" korea_korean="I feel the pain of the soul from you." />
+	<block key="Dialog_3020901_Answer_0_Text" korea_korean="I would like to treat complications resurrection." />
+	<block key="Dialog_9999999_Title" korea_korean="Dialogue last number" />
+	<block key="Dialog_9999999_Text0" korea_korean="Dialogue last number" />
+	<block key="Dialog_3020703_Title" korea_korean="Irina yeomsaeksa" />
+	<block key="Dialog_3020703_Text0" korea_korean="Come ohsipsiyo. What can I do for you?" />
+	<block key="Dialog_3020703_Answer_0_Text" korea_korean="I'd like to dye your items." />
+	<block key="Dialog_3020703_Answer_1_Text" korea_korean="I'd like to dye the hair." />
+	<block key="Dialog_3020704_Title" korea_korean="Yeomsaeksa Rose" />
+	<block key="Dialog_3020704_Text0" korea_korean="Come ohsipsiyo. What can I do for you?" />
+	<block key="Dialog_3020704_Answer_0_Text" korea_korean="I'd like to dye your items." />
+	<block key="Dialog_3020704_Answer_1_Text" korea_korean="I'd like to dye the hair." />
+	<block key="Dialog_1000001_Title" korea_korean="G ☆ STAR Event Planner" />
+	<block key="Dialog_1000001_Text0" korea_korean="Welcome! \u003cbr\u003e \u003cbr\u003e G ☆ STAR 2010! Need to spend fun? \u003cbr\u003e \u003cbr\u003e Have more fun with NED!" />
+	<block key="Dialog_1040085_Title" korea_korean="Teleportation wizard Dalian" />
+	<block key="Dialog_1040085_Text0" korea_korean="You Fame and the wizard is located inside the secret Canas province. To go there frills like me need the help of teleportation wizard. Do you want to go to the Hall of wizard?" />
+	<block key="Dialog_1040085_Answer_0_Text" korea_korean="Go to the Hall of the Wizard" />
+	<block key="Dialog_1040086_Title" korea_korean="Teleportation wizard current course" />
+	<block key="Dialog_1040086_Text0" korea_korean="When you leave here, let me help you need at the moment to move wizard like me. Do you want to move to and Canas sex?" />
+	<block key="Dialog_1040086_Answer_0_Text" korea_korean="Go to the castle and Canas" />
+	<block key="Dialog_1040087_Title" korea_korean="Der Pilgrim" />
+	<block key="Dialog_1040087_Text0" korea_korean="... (He makes a dark look." />
+	<block key="Dialog_1040088_Title" korea_korean="Behind the Shadow Clan" />
+	<block key="Dialog_1040088_Text0" korea_korean="Shhh, the mission of the navigation. Please lower your voice." />
+	<block key="Dialog_1040089_Title" korea_korean="Shenron article called Fleece" />
+	<block key="Dialog_1040089_Text0" korea_korean="What happened to me? Are you talking to hanging articles without any message?" />
+	<block key="Dialog_1040090_Title" korea_korean="Adventurer Stevens" />
+	<block key="Dialog_1040090_Text0" korea_korean="What! Do not bother to leave me alone! \u003cbr\u003e \u003cbr\u003e The world is not even taking what are you peace of mind!" />
+	<block key="Dialog_1040091_Title" korea_korean="Princess of Scilly your nanny" />
+	<block key="Dialog_1040091_Text0" korea_korean="Hope I'll get to do anything to free the princess body." />
+	<block key="Dialog_1040092_Title" korea_korean="Ekaterina Duke Lee Young Ae" />
+	<block key="Dialog_1040092_Text0" korea_korean="Hmm, that humble Will to speak to someone carelessly!" />
+	<block key="Dialog_1040092_answer_0_Text" korea_korean="Duke Lee Young Ae is doubtful. Why ask that here." />
+	<block key="Dialog_1040093_Title" korea_korean="The maids lease" />
+	<block key="Dialog_1040093_Text0" korea_korean="Hvar, vampire ?! Oh, no ... You're really, is not it? Who \u003cbr\u003e \u003cbr\u003e you? But just far away chyeotji, guards also'm friends are also all vampire who worked at the residence \u003cbr\u003e \u003cbr\u003e Deception, Deception afraid I can not stand!" />
+	<block key="Dialog_9011009_Title" korea_korean="Ekaterina Duke Lee Young Ae" />
+	<block key="Dialog_9011009_Text0" korea_korean="That's taken care of you doing? That damn Rania 0 shares going to confession bachisi charge? \u003cbr\u003e \u003cbr\u003e Beaten dedicate message! Only if that bitch is! \u003cbr\u003e \u003cbr\u003e Although, you're eopget may be. You'll just be lost here!" />
+</blocks>

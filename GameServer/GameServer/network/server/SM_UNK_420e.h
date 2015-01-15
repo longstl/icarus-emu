@@ -8,7 +8,6 @@
 inline void SM_UNK_420e(PACKET* pck)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->PackSend(OPCODE_SM_UNK_420e);

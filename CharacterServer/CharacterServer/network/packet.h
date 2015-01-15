@@ -19,7 +19,7 @@
 class PACKET
 {
 public:
-	PACKET(THREAD_STRUCT* sockstruct);
+	PACKET(THREAD_STRUCT* sockstruct, int max_characters);
 	~PACKET();
 	bool PackRecv();								/*-- Получает паке? Записывает опко??opcode, заложенный размер пакета ?real_packet_size ?определени?криптовк??compress */
 	void PackCreate();								/* Формирование буфера для отправки пакета */
@@ -37,6 +37,7 @@ public:
 	THREAD_STRUCT*		sockstruct;
 	DATABASE*			sql;						/* ¬µ¬Ь¬С¬Щ¬С¬д¬Ц¬Э¬о ¬Я¬С ¬Ь¬Э¬С¬г¬г ¬Х¬Э¬с ¬в¬С¬Т¬а¬д¬н ¬г ¬ў¬Ґ */
 	bool				isconndecred;
+	int					max_characters;
 
 private:	
 	int					_packet_len;

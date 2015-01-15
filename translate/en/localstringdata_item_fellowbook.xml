@@ -1,0 +1,211 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="FB_0_0000_Name" korean="Rai Ruud Book" />
+	<block key="FB_0_0001_Name" korean="La Hynix Book" />
+	<block key="FB_0_0002_Name" korean="Hippocampus rich book" />
+	<block key="FB_0_0003_Name" korean="Penrith harsh shadows Book" />
+	<block key="FB_0_0004_Name" korean="Chi cha eyed Book" />
+	<block key="FB_0_0005_Name" korean="Eyed Hun Baba Book" />
+	<block key="FB_0_0006_Name" korean="Black Wind Atlas" />
+	<block key="FB_0_0007_Name" korean="Dark maryong Kara Shah book" />
+	<block key="FB_0_0008_Name" korean="Megan Tess Book of Nightmares" />
+	<block key="FB_0_0009_Name" korean="The book's Calais" />
+	<block key="FB_0_0010_Name" korean="Frost molar Porch Book" />
+	<block key="FB_0_0011_Name" korean="By Garret Book of the abyss" />
+	<block key="FB_0_0012_Name" korean="Book car Berners pain" />
+	<block key="FB_0_0013_Name" korean="Giant Spider taseulran Book" />
+	<block key="FB_0_0014_Name" korean="Apocalypse Book" />
+	<block key="FB_0_0015_Name" korean="Book at Janus" />
+	<block key="FB_0_0016_Name" korean="True chief Tan Book" />
+	<block key="FB_0_0017_Name" korean="Ghost Book" />
+	<block key="FB_0_0018_Name" korean="Magma Book Hound" />
+	<block key="FB_0_0019_Name" korean="The slope Encyclopedia" />
+	<block key="FB_0_0020_Name" korean="Rob Kane Book of Horror" />
+	<block key="FB_0_0021_Name" korean="Wolf King Shaka la Encyclopedia" />
+	<block key="FB_0_0022_Name" korean="Nightmare Encyclopedia" />
+	<block key="FB_0_0023_Name" korean="Kishar Book" />
+	<block key="FB_0_0024_Name" korean="Ice Fang Kruger book" />
+	<block key="FB_0_0025_Name" korean="Casper poisonous tree book" />
+	<block key="FB_0_0026_Name" korean="A wide Uru Book" />
+	<block key="FB_0_0027_Name" korean="Oh Lots Book" />
+	<block key="FB_0_0028_Name" korean="Moire teaching book" />
+	<block key="FB_0_0029_Name" korean="Violent greater bladder Book" />
+	<block key="FB_0_0030_Name" korean="Biting beak Rhodes Book" />
+	<block key="FB_0_0031_Name" korean="Seorikkot ray doses Book" />
+	<block key="FB_0_0032_Name" korean="Strahan maryong this book" />
+	<block key="FB_0_0033_Name" korean="Troy Book of White" />
+	<block key="FB_0_0034_Name" korean="Karas tyrant Book" />
+	<block key="FB_0_0035_Name" korean="Gross Hunks Encyclopedia" />
+	<block key="FB_0_0036_Name" korean="Amaranth white wings Book" />
+	<block key="FB_0_0037_Name" korean="The ultimate driver Soap Book" />
+	<block key="FB_0_0038_Name" korean="Gwangryong Para gas Encyclopedia" />
+	<block key="FB_0_0039_Name" korean="Blue-winged blades Book" />
+	<block key="FB_0_0040_Name" korean="Ballack Black Dragon Book" />
+	<block key="FB_0_0041_Name" korean="Lucifer moonlight tree book" />
+	<block key="FB_0_0042_Name" korean="Mutoh wings page book of airspace" />
+	<block key="FB_0_0000_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0001_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0002_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0003_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0004_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0005_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0006_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0007_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0008_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0009_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0010_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0011_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0012_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0013_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0014_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0015_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0016_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0017_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0018_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0019_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0020_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0021_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0022_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0023_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0024_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0025_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0026_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0027_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0028_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0029_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0030_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0031_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0032_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0033_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0034_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0035_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0036_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0037_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0038_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0039_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0040_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0041_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0042_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0043_Name" korean="Albino Avene Book" />
+	<block key="FB_0_0043_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0044_Name" korean="Non posse Apocalypse Book" />
+	<block key="FB_0_0044_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0045_Name" korean="Ruud pie book of horror" />
+	<block key="FB_0_0045_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0046_Name" korean="Krabi de Book of the Void" />
+	<block key="FB_0_0046_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0047_Name" korean="Leto other Asian Book of the Void" />
+	<block key="FB_0_0047_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0048_Name" korean="Doku red horns Gala Book" />
+	<block key="FB_0_0048_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0049_Name" korean="White beard, white-tier book" />
+	<block key="FB_0_0049_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0050_Name" korean="Oh brass golden wings Book" />
+	<block key="FB_0_0050_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0051_Name" korean="Cargo days Book of the Void" />
+	<block key="FB_0_0051_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0052_Name" korean="Cargo book of more than one" />
+	<block key="FB_0_0052_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0053_Name" korean="Sounds so book" />
+	<block key="FB_0_0053_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0054_Name" korean="Rage Book" />
+	<block key="FB_0_0054_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0055_Name" korean="Snow Vichy Book" />
+	<block key="FB_0_0055_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0056_Name" korean="Envy Book" />
+	<block key="FB_0_0056_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0057_Name" korean="Havre Risher's Book" />
+	<block key="FB_0_0057_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0058_Name" korean="Indy swings Book" />
+	<block key="FB_0_0058_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0059_Name" korean="Book Lust" />
+	<block key="FB_0_0059_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0060_Name" korean="Encyclopedia of the Undead beldeon" />
+	<block key="FB_0_0060_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0061_Name" korean="Abercrombie \u0026 Fitch Renee Book" />
+	<block key="FB_0_0061_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0062_Name" korean="Pegasus Book" />
+	<block key="FB_0_0062_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0063_Name" korean="Geukyeom Carl ripto Book" />
+	<block key="FB_0_0063_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0064_Name" korean="Book of Shadow demo bonus" />
+	<block key="FB_0_0064_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0065_Name" korean="Aisha came Hami Book" />
+	<block key="FB_0_0065_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0066_Name" korean="Shoe Terran Atlas of prominences" />
+	<block key="FB_0_0066_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0067_Name" korean="Terran large book of indigo" />
+	<block key="FB_0_0067_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0068_Name" korean="Blade teeth wave Lucio Book" />
+	<block key="FB_0_0068_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0069_Name" korean="Geurabion book of Twilight" />
+	<block key="FB_0_0069_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0070_Name" korean="Sharkey Bar Book of Golden" />
+	<block key="FB_0_0071_Name" korean="Book a dash of corruption" />
+	<block key="FB_0_0072_Name" korean="Duluth Tall Thunder Dragon Book" />
+	<block key="FB_0_0073_Name" korean="Signature of Janus Book Bag" />
+	<block key="FB_0_0074_Name" korean="Book of Ruth Vega venom" />
+	<block key="FB_0_0075_Name" korean="Poyo Book of Glory" />
+	<block key="FB_0_0076_Name" korean="Book a mirage of the Far North" />
+	<block key="FB_0_0077_Name" korean="Tara News Encyclopedia of fireworks" />
+	<block key="FB_0_0078_Name" korean="Bajyan Atlas of long horn" />
+	<block key="FB_0_0079_Name" korean="Do tyura Book of Martyrs" />
+	<block key="FB_0_0080_Name" korean="The greater the destruction of North Book" />
+	<block key="FB_0_0081_Name" korean="Chyeopi clever book" />
+	<block key="FB_0_0082_Name" korean="Denny van Book" />
+	<block key="FB_0_0083_Name" korean="Tea Tree Book" />
+	<block key="FB_0_0084_Name" korean="Bar jyanin Book" />
+	<block key="FB_0_0085_Name" korean="Chimseu Book" />
+	<block key="FB_0_0086_Name" korean="Kiva Len golden book" />
+	<block key="FB_0_0087_Name" korean="Deva Book of Wisdom" />
+	<block key="FB_0_0088_Name" korean="Toro clever book" />
+	<block key="FB_0_0089_Name" korean="This book does not rot Ash" />
+	<block key="FB_0_0090_Name" korean="Gryphon Book" />
+	<block key="FB_0_0091_Name" korean="Dos Raku Book" />
+	<block key="FB_0_0092_Name" korean="Adela big book of slaughter" />
+	<block key="FB_0_0093_Name" korean="Pre-book" />
+	<block key="FB_0_0094_Name" korean="Pre-book" />
+	<block key="FB_0_0095_Name" korean="Pre-book" />
+	<block key="FB_0_0096_Name" korean="Pre-book" />
+	<block key="FB_0_0097_Name" korean="Pre-book" />
+	<block key="FB_0_0098_Name" korean="Pre-book" />
+	<block key="FB_0_0099_Name" korean="Pre-book" />
+	<block key="FB_0_0100_Name" korean="Pre-book" />
+	<block key="FB_0_0070_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0071_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0072_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0073_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0074_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0075_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0076_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0077_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0078_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0079_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0080_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0081_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0082_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0083_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0084_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0085_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0086_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0087_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0088_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0089_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0090_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0091_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0092_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0093_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0094_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0095_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0096_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0097_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0098_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0099_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+	<block key="FB_0_0100_Description" korean="\u003cUI_Y\u003e right-click registration book when possible \u003c/ UI_Y\u003e" />
+</blocks>

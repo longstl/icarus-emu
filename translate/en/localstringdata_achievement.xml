@@ -1,0 +1,1294 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="am_co_gr_001_10_Name" korean="Already 10 reps" />
+	<block key="am_co_gr_001_10_Description" korean="10 levels of attainment" />
+	<block key="am_co_gr_001_10_condition_0" korean="10 levels of attainment" />
+	<block key="am_co_gr_001_20_Name" korean="Water Castle Guardian article" />
+	<block key="am_co_gr_001_20_Description" korean="Achieve level 20" />
+	<block key="am_co_gr_001_20_condition_0" korean="Achieve level 20" />
+	<block key="am_co_gr_001_30_Name" korean="I'll be watching" />
+	<block key="am_co_gr_001_30_Description" korean="Reach level" />
+	<block key="am_co_gr_001_30_condition_0" korean="Reach level" />
+	<block key="am_co_gr_001_40_Name" korean="Rewarding level up" />
+	<block key="am_co_gr_001_40_Description" korean="Achieve level 40" />
+	<block key="am_co_gr_001_40_condition_0" korean="Achieve level 40" />
+	<block key="am_co_mo_008_10_Name" korean="Juseom juseom" />
+	<block key="am_co_mo_008_10_Description" korean="10 gold obtained by drop" />
+	<block key="am_co_mo_008_10_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_008_50_Name" korean="Taishan gather dust" />
+	<block key="am_co_mo_008_50_Description" korean="50 gold obtained by drop" />
+	<block key="am_co_mo_008_50_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_008_100_Name" korean="Master of the coin picking" />
+	<block key="am_co_mo_008_100_Description" korean="100 gold obtained by drop" />
+	<block key="am_co_mo_008_100_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_009_10_Name" korean="Small return" />
+	<block key="am_co_mo_009_10_Description" korean="10 gold acquired by Quest" />
+	<block key="am_co_mo_009_10_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_009_50_Name" korean="Deserved reward" />
+	<block key="am_co_mo_009_50_Description" korean="50 gold acquired by Quest" />
+	<block key="am_co_mo_009_50_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_009_100_Name" korean="Me and offer a tribute" />
+	<block key="am_co_mo_009_100_Description" korean="Quest to acquire 100 gold" />
+	<block key="am_co_mo_009_100_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_010_10_Name" korean="Real taste of business" />
+	<block key="am_co_mo_010_10_Description" korean="10 Gold acquired a Sales Representative" />
+	<block key="am_co_mo_010_10_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_010_50_Name" korean="What is this business" />
+	<block key="am_co_mo_010_50_Description" korean="50 gold obtained as sales agent" />
+	<block key="am_co_mo_010_50_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_010_100_Name" korean="Master in Business" />
+	<block key="am_co_mo_010_100_Description" korean="100 Gold acquired a Sales Representative" />
+	<block key="am_co_mo_010_100_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_016_50_Name" korean="Enjoyment of savings" />
+	<block key="am_co_mo_016_50_Description" korean="Holding 50 gold" />
+	<block key="am_co_mo_016_50_condition_0" korean="Gold reserves" />
+	<block key="am_co_mo_016_100_Name" korean="Save the King" />
+	<block key="am_co_mo_016_100_Description" korean="100 gold to hold" />
+	<block key="am_co_mo_016_100_condition_0" korean="Gold reserves" />
+	<block key="am_co_mo_013_10_Name" korean="Shopping is fun" />
+	<block key="am_co_mo_013_10_Description" korean="10 Gold used items purchased from stores" />
+	<block key="am_co_mo_013_10_condition_0" korean="Use gold" />
+	<block key="am_co_mo_013_50_Name" korean="Patron" />
+	<block key="am_co_mo_013_50_Description" korean="50 gold used as an item purchased from stores" />
+	<block key="am_co_mo_013_50_condition_0" korean="Use gold" />
+	<block key="am_co_mo_013_100_Name" korean="Now that the store geodeol" />
+	<block key="am_co_mo_013_100_Description" korean="100 gold to buy items in the shop use" />
+	<block key="am_co_mo_013_100_condition_0" korean="Use gold" />
+	<block key="am_co_mo_026_100_Name" korean="Elounda is really so cool" />
+	<block key="am_co_mo_026_100_Description" korean="Using 100 Elounda" />
+	<block key="am_co_mo_026_100_condition_0" korean="You can use Elounda" />
+	<block key="am_co_mo_026_1000_Name" korean="Guardians of Elune" />
+	<block key="am_co_mo_026_1000_Description" korean="Using 1000 Elounda" />
+	<block key="am_co_mo_026_1000_condition_0" korean="You can use Elounda" />
+	<block key="am_co_ac_019_100_Name" korean="Shopkeeper Introduction" />
+	<block key="am_co_ac_019_100_Description" korean="Sell ​​items 100 times using a sales agent" />
+	<block key="am_co_ac_019_100_condition_0" korean="Items can be sold" />
+	<block key="am_co_ac_019_500_Name" korean="Genius of sale" />
+	<block key="am_co_ac_019_500_Description" korean="Sell ​​items 500 times using a sales agent" />
+	<block key="am_co_ac_019_500_condition_0" korean="Items can be sold" />
+	<block key="am_co_ac_019_1000_Name" korean="Elevation of the continents" />
+	<block key="am_co_ac_019_1000_Description" korean="1000 items for sale by the sales agent" />
+	<block key="am_co_ac_019_1000_condition_0" korean="Items can be sold" />
+	<block key="am_co_ac_020_100_Name" korean="Start of consumption" />
+	<block key="am_co_ac_020_100_Description" korean="Buy items 100 times using a sales agent" />
+	<block key="am_co_ac_020_100_condition_0" korean="Items can be purchased" />
+	<block key="am_co_ac_020_500_Name" korean="Consumer V.I.P" />
+	<block key="am_co_ac_020_500_Description" korean="Buy items 500 times using a sales agent" />
+	<block key="am_co_ac_020_500_condition_0" korean="Items can be purchased" />
+	<block key="am_co_ac_020_1000_Name" korean="Big hand of the continent" />
+	<block key="am_co_ac_020_1000_Description" korean="1000 purchased items using the sales agent" />
+	<block key="am_co_ac_020_1000_condition_0" korean="Items can be purchased" />
+	<block key="am_co_ac_025_100_Name" korean="Public transport and Canas" />
+	<block key="am_co_ac_025_100_Description" korean="Portal used 100 times" />
+	<block key="am_co_ac_025_100_condition_0" korean="You can use the portal" />
+	<block key="am_co_ac_025_500_Name" korean="Human portal" />
+	<block key="am_co_ac_025_500_Description" korean="Using the portal 500 times" />
+	<block key="am_co_ac_025_500_condition_0" korean="You can use the portal" />
+	<block key="am_co_ac_027_7_Name" korean="Big and beautiful warehouse" />
+	<block key="am_co_ac_027_7_Description" korean="Storage slot 7 line extension" />
+	<block key="am_co_ac_027_7_condition_0" korean="Storage slot to expand" />
+	<block key="am_co_ac_030_100_Name" korean="One hundred days" />
+	<block key="am_co_ac_030_100_Description" korean="Cumulative number of accesses 100 days" />
+	<block key="am_co_ac_030_100_condition_0" korean="Cumulative access Days" />
+	<block key="am_co_ac_030_365_Name" korean="Already One Year" />
+	<block key="am_co_ac_030_365_Description" korean="Cumulative number of accesses 365 days" />
+	<block key="am_co_ac_030_365_condition_0" korean="Cumulative access Days" />
+	<block key="am_co_ac_031_10_Name" korean="Another Newbie nor die" />
+	<block key="am_co_ac_031_10_Description" korean="Died 10 times" />
+	<block key="am_co_ac_031_10_condition_0" korean="Deaths" />
+	<block key="am_co_ac_031_100_Name" korean="Zombie" />
+	<block key="am_co_ac_031_100_Description" korean="Died 100 times" />
+	<block key="am_co_ac_031_100_condition_0" korean="Deaths" />
+	<block key="am_co_ac_031_200_Name" korean="Immortality" />
+	<block key="am_co_ac_031_200_Description" korean="Died 200 times" />
+	<block key="am_co_ac_031_200_condition_0" korean="Deaths" />
+	<block key="am_fe_ga_033_50_Name" korean="Fellow professionals" />
+	<block key="am_fe_ga_033_50_Description" korean="All fellows tame success, regardless of the class 100 times" />
+	<block key="am_fe_ga_033_50_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_033_100_Name" korean="Fellow Master" />
+	<block key="am_fe_ga_033_100_Description" korean="All fellows tame success regardless of grade 300 times" />
+	<block key="am_fe_ga_033_100_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_034_30_Name" korean="General fellow enthusiasts" />
+	<block key="am_fe_ga_034_30_Description" korean="General fellow tame successful 30 times" />
+	<block key="am_fe_ga_034_30_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_034_60_Name" korean="General fellow collectors" />
+	<block key="am_fe_ga_034_60_Description" korean="General fellow tame successful 200 times" />
+	<block key="am_fe_ga_034_60_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_035_20_Name" korean="Elite fellow enthusiasts" />
+	<block key="am_fe_ga_035_20_Description" korean="Fellow Elite 20 times to tame success" />
+	<block key="am_fe_ga_035_20_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_035_40_Name" korean="Elite fellow collectors" />
+	<block key="am_fe_ga_035_40_Description" korean="Fellow Elite 100 times Taming success" />
+	<block key="am_fe_ga_035_40_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_036_10_Name" korean="Hero fellow enthusiasts" />
+	<block key="am_fe_ga_036_10_Description" korean="Taming fellow heroes succeeded 10 times" />
+	<block key="am_fe_ga_036_10_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_036_20_Name" korean="Hero fellow collectors" />
+	<block key="am_fe_ga_036_20_Description" korean="Taming fellow heroes succeeded 50 times" />
+	<block key="am_fe_ga_036_20_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_037_50_Name" korean="Ta ... let him go because no apparent slot hat's not a thing" />
+	<block key="am_fe_ga_037_50_Description" korean="Place all fellow regardless of the rating cycle 100 times" />
+	<block key="am_fe_ga_037_50_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_037_100_Name" korean="Rise through the ranks bangsaeng" />
+	<block key="am_fe_ga_037_100_Description" korean="All Fellows release cycle, regardless of grade 300 times" />
+	<block key="am_fe_ga_037_100_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_038_30_Name" korean="[General] the time to break up" />
+	<block key="am_fe_ga_038_30_Description" korean="General Fellow let cycle 30 times" />
+	<block key="am_fe_ga_038_30_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_038_60_Name" korean="[General] mind truly cares" />
+	<block key="am_fe_ga_038_60_Description" korean="General Fellow let cycle 200 times" />
+	<block key="am_fe_ga_038_60_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_039_20_Name" korean="[Elite] the time to break up" />
+	<block key="am_fe_ga_039_20_Description" korean="Elite Fellow let cycle 20 times" />
+	<block key="am_fe_ga_039_20_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_039_40_Name" korean="[Elite] mind truly cares" />
+	<block key="am_fe_ga_039_40_Description" korean="Fellow release cycle Elite 100 times" />
+	<block key="am_fe_ga_039_40_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_040_10_Name" korean="[Hero] the time to break up" />
+	<block key="am_fe_ga_040_10_Description" korean="Hero release cycle 10 Fellows" />
+	<block key="am_fe_ga_040_10_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_040_20_Name" korean="[Hero] mind truly cares" />
+	<block key="am_fe_ga_040_20_Description" korean="Fellow let the hero cycle 50 times" />
+	<block key="am_fe_ga_040_20_condition_0" korean="Release cycles" />
+	<block key="am_fe_us_041_50_Name" korean="Were grown smaller" />
+	<block key="am_fe_us_041_50_Description" korean="All Fellows strain, regardless of grade 100 times" />
+	<block key="am_fe_us_041_50_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_041_100_Name" korean="Fellow transformation expert" />
+	<block key="am_fe_us_041_100_Description" korean="All Fellows strain, regardless of grade 300 times" />
+	<block key="am_fe_us_041_100_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_042_30_Name" korean="[General] In another aspect" />
+	<block key="am_fe_us_042_30_Description" korean="General Fellow strain 50 times" />
+	<block key="am_fe_us_042_30_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_042_60_Name" korean="General strain did most easy" />
+	<block key="am_fe_us_042_60_Description" korean="General Fellow strain 200 times" />
+	<block key="am_fe_us_042_60_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_043_20_Name" korean="[Elite] In another aspect" />
+	<block key="am_fe_us_043_20_Description" korean="Elite Fellow of 20 times" />
+	<block key="am_fe_us_043_20_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_043_40_Name" korean="[Elite] he best variants easy" />
+	<block key="am_fe_us_043_40_Description" korean="Fellow Elite strain 100 times" />
+	<block key="am_fe_us_043_40_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_044_10_Name" korean="[Hero] In another aspect" />
+	<block key="am_fe_us_044_10_Description" korean="Fellow hero strain 10" />
+	<block key="am_fe_us_044_10_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_044_20_Name" korean="[Hero] I most easy deformation" />
+	<block key="am_fe_us_044_20_Description" korean="Fellow hero strain 50 times" />
+	<block key="am_fe_us_044_20_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_045_50_Name" korean="Seem even fighting with" />
+	<block key="am_fe_us_045_50_Description" korean="All Fellows seal 100 times, regardless of the rating" />
+	<block key="am_fe_us_045_50_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_045_100_Name" korean="Fellow sealed experts" />
+	<block key="am_fe_us_045_100_Description" korean="All Fellows sealed regardless of grade 300 times" />
+	<block key="am_fe_us_045_100_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_046_30_Name" korean="General fellow 50th sealed" />
+	<block key="am_fe_us_046_30_Description" korean="General fellow sealed 50 times" />
+	<block key="am_fe_us_046_30_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_046_60_Name" korean="General Fellow seal 200 times" />
+	<block key="am_fe_us_046_60_Description" korean="General Fellow seal 200 times" />
+	<block key="am_fe_us_046_60_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_047_20_Name" korean="Fellow Elite 20 times sealed" />
+	<block key="am_fe_us_047_20_Description" korean="Elite fellow sealed 20 times" />
+	<block key="am_fe_us_047_20_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_047_40_Name" korean="Fellow Elite 50 times sealed" />
+	<block key="am_fe_us_047_40_Description" korean="Elite fellow sealed 50 times" />
+	<block key="am_fe_us_047_40_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_048_10_Name" korean="Fellow Heroes 10 sealed" />
+	<block key="am_fe_us_048_10_Description" korean="Fellow Heroes seal 10" />
+	<block key="am_fe_us_048_10_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_048_20_Name" korean="20th sealed fellow heroes" />
+	<block key="am_fe_us_048_20_Description" korean="Fellow hero sealed 20 times" />
+	<block key="am_fe_us_048_20_condition_0" korean="Be sealed" />
+	<block key="am_qu_co_049_100_Name" korean="A story" />
+	<block key="am_qu_co_049_100_Description" korean="Complete 100 quests regardless of the type" />
+	<block key="am_qu_co_049_100_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_049_300_Name" korean="Complete 300 quests!" />
+	<block key="am_qu_co_049_300_Description" korean="Regardless of the type 300 quests completed" />
+	<block key="am_qu_co_049_300_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_049_600_Name" korean="The Storyteller's and Canas" />
+	<block key="am_qu_co_049_600_Description" korean="600 quests completed regardless of the type" />
+	<block key="am_qu_co_049_600_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_049_1000_Name" korean="Elders of Icarus continent" />
+	<block key="am_qu_co_049_1000_Description" korean="1000 Quest regardless of the type" />
+	<block key="am_qu_co_049_1000_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_050_90_Name" korean="Where Princess" />
+	<block key="am_qu_co_050_90_Description" korean="Complete 90 main quests" />
+	<block key="am_qu_co_050_90_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_050_180_Name" korean="The story explores" />
+	<block key="am_qu_co_050_180_Description" korean="180 completed the main quest" />
+	<block key="am_qu_co_050_180_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_051_100_Name" korean="Warm hearted" />
+	<block key="am_qu_co_051_100_Description" korean="100 sub-quests completed" />
+	<block key="am_qu_co_051_100_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_051_200_Name" korean="Whatever help" />
+	<block key="am_qu_co_051_200_Description" korean="200 sub-quests completed" />
+	<block key="am_qu_co_051_200_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_051_300_Name" korean="Icarus troubled continent Fixer" />
+	<block key="am_qu_co_051_300_Description" korean="300 sub-quests completed" />
+	<block key="am_qu_co_051_300_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_052_100_Name" korean="Show your passion" />
+	<block key="am_qu_co_052_100_Description" korean="Repeated 100 times to complete the quest" />
+	<block key="am_qu_co_052_100_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_052_300_Name" korean="Man of Patience" />
+	<block key="am_qu_co_052_300_Description" korean="Repeated 300 times to complete the quest" />
+	<block key="am_qu_co_052_300_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_053_100_Name" korean="The mission of today?" />
+	<block key="am_qu_co_053_100_Description" korean="Daily Quests Complete 100 times" />
+	<block key="am_qu_co_053_100_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_053_300_Name" korean="One days of Icarus continent Fixer" />
+	<block key="am_qu_co_053_300_Description" korean="Daily Quests Complete 300 times" />
+	<block key="am_qu_co_053_300_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_zo_054_82_Name" korean="Adventurer's bra carboxylic forest" />
+	<block key="am_qu_zo_054_82_Description" korean="Complete 52 quests bra carboxylic forest" />
+	<block key="am_qu_zo_054_82_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_zo_055_111_Name" korean="And also the castle guards Canas" />
+	<block key="am_qu_zo_055_111_Description" korean="Canas and also 70 sex Quest" />
+	<block key="am_qu_zo_055_111_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_zo_056_223_Name" korean="Solver and Canas jikhal command" />
+	<block key="am_qu_zo_056_223_Description" korean="Complete 150 quests and Canas jikhal command" />
+	<block key="am_qu_zo_056_223_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_zo_057_115_Name" korean="Guardian article on Parque my land" />
+	<block key="am_qu_zo_057_115_Description" korean="Pardo 130 quests to complete my land" />
+	<block key="am_qu_zo_057_115_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_zo_059_83_Name" korean="Canas and sailors of respect" />
+	<block key="am_qu_zo_059_83_Description" korean="Canas and 48 quests to complete," />
+	<block key="am_qu_zo_059_83_condition_0" korean="Quests can be completed" />
+	<block key="am_dg_co_061_1_Name" korean="[Scenario] remains lit swallowed" />
+	<block key="am_dg_co_061_1_Description" korean="Difficulty swallowing fire scenario remains clear once" />
+	<block key="am_dg_co_061_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_061_10_Name" korean="[Scenario] mighty ruins of the fire swallowed" />
+	<block key="am_dg_co_061_10_Description" korean="Difficulty swallowing fire scenario remains clear 10" />
+	<block key="am_dg_co_061_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_062_1_Name" korean="[Elite] remains lit swallowed" />
+	<block key="am_dg_co_062_1_Description" korean="Elite difficulty swallowing fire remains clear once" />
+	<block key="am_dg_co_062_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_062_10_Name" korean="[Elite] mighty ruins of the fire swallowed" />
+	<block key="am_dg_co_062_10_Description" korean="Elite difficulty swallowing fire ruins Clear 10" />
+	<block key="am_dg_co_062_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_063_1_Name" korean="[Hero] remains lit swallowed" />
+	<block key="am_dg_co_063_1_Description" korean="Heroic difficulty swallowing fire remains clear once" />
+	<block key="am_dg_co_063_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_063_10_Name" korean="[Hero] mighty ruins of the fire swallowed" />
+	<block key="am_dg_co_063_10_Description" korean="Clear Heroic difficulty swallowing fire ruins 10" />
+	<block key="am_dg_co_063_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_064_1_Name" korean="[Legend] remains lit swallowed" />
+	<block key="am_dg_co_064_1_Description" korean="Legendary Difficulty swallowing fire remains clear once" />
+	<block key="am_dg_co_064_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_064_10_Name" korean="[Legend] mighty ruins of the fire swallowed" />
+	<block key="am_dg_co_064_10_Description" korean="Legendary Difficulty swallowing fire ruins Clear 10" />
+	<block key="am_dg_co_064_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_065_1_Name" korean="[Scenario] Karl reang mansion" />
+	<block key="am_dg_co_065_1_Description" korean="Karl reang mansion scenario difficulty once cleared" />
+	<block key="am_dg_co_065_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_065_10_Name" korean="[Scenario] Karl reang savior mansion" />
+	<block key="am_dg_co_065_10_Description" korean="Karl reang mansion difficulty clearing scenario 10 times" />
+	<block key="am_dg_co_065_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_066_1_Name" korean="[Elite] Karl reang mansion" />
+	<block key="am_dg_co_066_1_Description" korean="Karl reang Elite difficulty mansion once cleared" />
+	<block key="am_dg_co_066_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_066_10_Name" korean="[Elite] Savior of the car reang mansion" />
+	<block key="am_dg_co_066_10_Description" korean="Elite difficulty clearing 10 cars reang mansion" />
+	<block key="am_dg_co_066_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_067_1_Name" korean="[Hero] Karl reang mansion" />
+	<block key="am_dg_co_067_1_Description" korean="Karl reang mansion once cleared Heroic difficulty" />
+	<block key="am_dg_co_067_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_067_10_Name" korean="[Hero] Karl reang savior mansion" />
+	<block key="am_dg_co_067_10_Description" korean="Karl reang mansion Heroic difficulty clearing 10" />
+	<block key="am_dg_co_067_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_068_1_Name" korean="[Legend] Karl reang mansion" />
+	<block key="am_dg_co_068_1_Description" korean="Legendary Difficulty car reang mansion once cleared" />
+	<block key="am_dg_co_068_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_068_10_Name" korean="[Legend] Karl reang savior mansion" />
+	<block key="am_dg_co_068_10_Description" korean="Legendary difficulty clearing 10 cars reang mansion" />
+	<block key="am_dg_co_068_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_069_1_Name" korean="[Scenario] Len ruins frozen Mart" />
+	<block key="am_dg_co_069_1_Description" korean="Len Mart scenario difficulty clearing the ruins once" />
+	<block key="am_dg_co_069_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_069_10_Name" korean="[Scenario] Frozen Destroyer Mart Len ruins" />
+	<block key="am_dg_co_069_10_Description" korean="Len Mart difficulty clearing the ruins scenario 10 times" />
+	<block key="am_dg_co_069_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_070_1_Name" korean="[Elite] Len ruins frozen Mart" />
+	<block key="am_dg_co_070_1_Description" korean="Len Mart Elite difficulty clearing the ruins once" />
+	<block key="am_dg_co_070_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_070_10_Name" korean="[Elite] Frozen Destroyer Mart Len ruins" />
+	<block key="am_dg_co_070_10_Description" korean="Elite difficulty clearing the ruins Mart Wren 10th" />
+	<block key="am_dg_co_070_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_071_1_Name" korean="[Hero] Len ruins frozen Mart" />
+	<block key="am_dg_co_071_1_Description" korean="Len Mart Heroic difficulty clearing the ruins once" />
+	<block key="am_dg_co_071_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_071_10_Name" korean="[Hero] Frozen Destroyer Mart Len ruins" />
+	<block key="am_dg_co_071_10_Description" korean="Len Mart Heroic difficulty clearing the ruins 10" />
+	<block key="am_dg_co_071_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_072_1_Name" korean="[Legend] Len ruins frozen Mart" />
+	<block key="am_dg_co_072_1_Description" korean="Legendary difficulty clearing the ruins Mart Allen once" />
+	<block key="am_dg_co_072_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_072_10_Name" korean="[Legend] Frozen Destroyer Mart Len ruins" />
+	<block key="am_dg_co_072_10_Description" korean="Legendary difficulty clearing the ruins Mart Wren 10th" />
+	<block key="am_dg_co_072_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_073_1_Name" korean="[Scenario] signed a cave in a veil" />
+	<block key="am_dg_co_073_1_Description" korean="Clear signs of difficulty cave scenario once the veil" />
+	<block key="am_dg_co_073_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_073_10_Name" korean="[Scenario] prophets autograph cave veil" />
+	<block key="am_dg_co_073_10_Description" korean="Clear signs of difficulty in the cave scenario veil 10th" />
+	<block key="am_dg_co_073_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_074_1_Name" korean="[Elite] signed a cave in a veil" />
+	<block key="am_dg_co_074_1_Description" korean="Elite difficulty clearing caves shrouded in a veil once" />
+	<block key="am_dg_co_074_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_074_10_Name" korean="[Elite] The Prophet autograph cave veil" />
+	<block key="am_dg_co_074_10_Description" korean="Level 10 Elite caves shrouded in a veil Clear" />
+	<block key="am_dg_co_074_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_075_1_Name" korean="[Hero] signed a cave in a veil" />
+	<block key="am_dg_co_075_1_Description" korean="Clear signs cave Heroic difficulty once the veil" />
+	<block key="am_dg_co_075_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_075_10_Name" korean="[Hero] The Prophet caves shrouded in a veil of" />
+	<block key="am_dg_co_075_10_Description" korean="Clear 10 caves shrouded in a veil Heroic difficulty" />
+	<block key="am_dg_co_075_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_076_1_Name" korean="Signed cave in the legend] Bale" />
+	<block key="am_dg_co_076_1_Description" korean="Legendary Difficulty caves shrouded in a veil once cleared" />
+	<block key="am_dg_co_076_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_076_10_Name" korean="[Legend] prophets autograph cave veil" />
+	<block key="am_dg_co_076_10_Description" korean="Legendary Difficulty caves shrouded in a veil Clear 10" />
+	<block key="am_dg_co_076_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_077_1_Name" korean="[Scenario] the wave Lac Ice Citadel" />
+	<block key="am_dg_co_077_1_Description" korean="Citadel scenario difficulty clearing the ice wave lakh per" />
+	<block key="am_dg_co_077_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_077_10_Name" korean="[Scenario] Heroes of Lac Ice Citadel waves" />
+	<block key="am_dg_co_077_10_Description" korean="Wave scenario difficulty clearing the Lac Ice Citadel 10" />
+	<block key="am_dg_co_077_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_078_1_Name" korean="[Elite] lakh par ice forts" />
+	<block key="am_dg_co_078_1_Description" korean="Citadel Elite difficulty clearing the ice wave lakh per" />
+	<block key="am_dg_co_078_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_078_10_Name" korean="[Elite] Hero of the wave Lac Ice Citadel" />
+	<block key="am_dg_co_078_10_Description" korean="Citadel Elite difficulty clearing the ice wave lakh 10" />
+	<block key="am_dg_co_078_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_079_1_Name" korean="[Hero] lakh par ice forts" />
+	<block key="am_dg_co_079_1_Description" korean="Citadel Heroic difficulty clearing the ice wave lakh per" />
+	<block key="am_dg_co_079_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_079_10_Name" korean="[Hero] Hero of the Lac Ice Citadel waves" />
+	<block key="am_dg_co_079_10_Description" korean="Citadel Heroic difficulty clearing the ice wave lakh 10" />
+	<block key="am_dg_co_079_10_condition_0" korean="Be clear" />
+	<block key="am_dg_co_080_1_Name" korean="[Legend] lakh par ice forts" />
+	<block key="am_dg_co_080_1_Description" korean="Citadel Legend difficulty clearing the ice wave lakh per" />
+	<block key="am_dg_co_080_1_condition_0" korean="Be clear" />
+	<block key="am_dg_co_080_10_Name" korean="[Legend] hero of Lac Ice Citadel waves" />
+	<block key="am_dg_co_080_10_Description" korean="Legendary difficulty clearing ice fort par 10 lakh" />
+	<block key="am_dg_co_080_10_condition_0" korean="Be clear" />
+	<block key="am_it_ga_081_1_Name" korean="Elite Knight Equipment Section" />
+	<block key="am_it_ga_081_1_Description" korean="Equipment for more than all the elite rating" />
+	<block key="am_it_ga_081_1_condition_0" korean="Equipment for more than all the elite rating" />
+	<block key="am_it_ga_082_1_Name" korean="Equipment of Heroes" />
+	<block key="am_it_ga_082_1_Description" korean="Equipment worn over all heroes rating" />
+	<block key="am_it_ga_082_1_condition_0" korean="Equipment worn over all heroes rating" />
+	<block key="am_it_re_084_100_Name" korean="General Master of strengthening" />
+	<block key="am_it_re_084_100_Description" korean="General items reinforced 100th success" />
+	<block key="am_it_re_084_100_condition_0" korean="Be strengthened" />
+	<block key="am_it_re_085_100_Name" korean="[Elite] Master of strengthening" />
+	<block key="am_it_re_085_100_Description" korean="Enhanced Elite 100 items successes" />
+	<block key="am_it_re_085_100_condition_0" korean="Be strengthened" />
+	<block key="am_it_re_086_100_Name" korean="[Hero] Master of strengthening" />
+	<block key="am_it_re_086_100_Description" korean="Enhanced 100 heroes items successes" />
+	<block key="am_it_re_086_100_condition_0" korean="Be strengthened" />
+	<block key="am_it_re_088_100_Name" korean="[General] cursed master of strengthening" />
+	<block key="am_it_re_088_100_Description" korean="General items strengthen fail 100 times" />
+	<block key="am_it_re_088_100_condition_0" korean="Be strengthened" />
+	<block key="am_it_re_089_100_Name" korean="[Elite] cursed master of strengthening" />
+	<block key="am_it_re_089_100_Description" korean="Elite Items strengthen fail 100 times" />
+	<block key="am_it_re_089_100_condition_0" korean="Be strengthened" />
+	<block key="am_it_re_090_100_Name" korean="[Hero] cursed master of strengthening" />
+	<block key="am_it_re_090_100_Description" korean="Heroes Items strengthen fail 100 times" />
+	<block key="am_it_re_090_100_condition_0" korean="Be strengthened" />
+	<block key="am_it_re_091_5_Name" korean="[General] The strongest equipment" />
+	<block key="am_it_re_091_5_Description" korean="General items strengthen Step 5 Success" />
+	<block key="am_it_re_091_5_condition_0" korean="Step 5 items enhance success" />
+	<block key="am_it_re_092_15_Name" korean="[Elite] the strongest equipment" />
+	<block key="am_it_re_092_15_Description" korean="Elite Items enhanced 15-step success" />
+	<block key="am_it_re_092_15_condition_0" korean="Items enhanced 15-step success" />
+	<block key="am_it_re_093_20_Name" korean="[Hero] the strongest equipment" />
+	<block key="am_it_re_093_20_Description" korean="Item 20 step success hero strengthen" />
+	<block key="am_it_re_093_20_condition_0" korean="Step 20 items enhance success" />
+	<block key="am_it_re_094_50_Name" korean="Upgrade Stone to summon the equipment to fly" />
+	<block key="am_it_re_094_50_Description" korean="Upgrade Stone acquisition of the 50 levels in extracts" />
+	<block key="am_it_re_094_50_condition_0" korean="Upgrade Stone acquisition of the 50 levels in extracts" />
+	<block key="am_it_re_095_100_Name" korean="Items extract 100 times" />
+	<block key="am_it_re_095_100_Description" korean="Items extract 100 times" />
+	<block key="am_it_re_095_100_condition_0" korean="Extraction" />
+	<block key="am_it_re_095_500_Name" korean="500 item extraction" />
+	<block key="am_it_re_095_500_Description" korean="500 item extraction" />
+	<block key="am_it_re_095_500_condition_0" korean="Extraction" />
+	<block key="am_it_re_095_1000_Name" korean="Upgrade Stone vending machines" />
+	<block key="am_it_re_095_1000_Description" korean="1000 item extraction" />
+	<block key="am_it_re_095_1000_condition_0" korean="Extraction" />
+	<block key="am_it_re_096_100_Name" korean="General Equipment Destroyer" />
+	<block key="am_it_re_096_100_Description" korean="General items extracted 100 times" />
+	<block key="am_it_re_096_100_condition_0" korean="Extraction" />
+	<block key="am_it_re_097_100_Name" korean="[Elite] equipment Destroyer" />
+	<block key="am_it_re_097_100_Description" korean="Elite items extracted 100 times" />
+	<block key="am_it_re_097_100_condition_0" korean="Extraction" />
+	<block key="am_it_re_098_100_Name" korean="[Hero] equipment Destroyer" />
+	<block key="am_it_re_098_100_Description" korean="Heroes Items extract 100 times" />
+	<block key="am_it_re_098_100_condition_0" korean="Extraction" />
+	<block key="am_it_pr_103_200_Name" korean="Expert Armorsmithing" />
+	<block key="am_it_pr_103_200_Description" korean="Armorsmithing 1000 success" />
+	<block key="am_it_pr_103_200_condition_0" korean="Be produced" />
+	<block key="am_it_pr_104_10_Name" korean="Probation armor maker" />
+	<block key="am_it_pr_104_10_Description" korean="Armorsmithing 100 times the general success" />
+	<block key="am_it_pr_104_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_104_100_Name" korean="Experienced armor maker" />
+	<block key="am_it_pr_104_100_Description" korean="Armorsmithing 300 general success" />
+	<block key="am_it_pr_104_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_105_10_Name" korean="Lucky armor maker" />
+	<block key="am_it_pr_105_10_Description" korean="Armorsmithing 100 times the jackpot" />
+	<block key="am_it_pr_105_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_105_100_Name" korean="Blessed armor maker" />
+	<block key="am_it_pr_105_100_Description" korean="Armorsmithing 300 Jackpot" />
+	<block key="am_it_pr_105_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_099_200_Name" korean="Master of arms production" />
+	<block key="am_it_pr_099_200_Description" korean="1000 weapons production success" />
+	<block key="am_it_pr_099_200_condition_0" korean="Be produced" />
+	<block key="am_it_pr_100_10_Name" korean="Probation arms makers" />
+	<block key="am_it_pr_100_10_Description" korean="100 times normal weapons production success" />
+	<block key="am_it_pr_100_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_100_100_Name" korean="Skilled weapon-maker" />
+	<block key="am_it_pr_100_100_Description" korean="Weapons production 300 General Success" />
+	<block key="am_it_pr_100_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_101_10_Name" korean="Luck of the weapon-maker" />
+	<block key="am_it_pr_101_10_Description" korean="100 times the jackpot weapons production" />
+	<block key="am_it_pr_101_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_101_100_Name" korean="Blessed Weapons maker" />
+	<block key="am_it_pr_101_100_Description" korean="300 weapons production jackpot" />
+	<block key="am_it_pr_101_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_107_200_Name" korean="Master of jewelry making" />
+	<block key="am_it_pr_107_200_Description" korean="1000 jewelry making success" />
+	<block key="am_it_pr_107_200_condition_0" korean="Be produced" />
+	<block key="am_it_pr_108_10_Name" korean="Probation jewelry maker" />
+	<block key="am_it_pr_108_10_Description" korean="Jewelry making 100 times the general success" />
+	<block key="am_it_pr_108_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_108_100_Name" korean="Experienced jewelry makers" />
+	<block key="am_it_pr_108_100_Description" korean="Jewelry making 300 times the general success" />
+	<block key="am_it_pr_108_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_109_10_Name" korean="Lucky jewelry maker" />
+	<block key="am_it_pr_109_10_Description" korean="Jewelry making 100 times the jackpot" />
+	<block key="am_it_pr_109_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_109_100_Name" korean="Blessed jewelry maker" />
+	<block key="am_it_pr_109_100_Description" korean="Jewelry making 300 times the jackpot" />
+	<block key="am_it_pr_109_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_111_200_Name" korean="Expert Fellow production" />
+	<block key="am_it_pr_111_200_Description" korean="1000 Fellow, making success" />
+	<block key="am_it_pr_111_200_condition_0" korean="Be produced" />
+	<block key="am_it_pr_112_10_Name" korean="Fellow producer probation" />
+	<block key="am_it_pr_112_10_Description" korean="Fellow making 100 times the general success" />
+	<block key="am_it_pr_112_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_112_100_Name" korean="Fellow experienced producers" />
+	<block key="am_it_pr_112_100_Description" korean="Fellow making 300 times the general success" />
+	<block key="am_it_pr_112_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_113_10_Name" korean="Fellow creators of luck" />
+	<block key="am_it_pr_113_10_Description" korean="Fellow making 100 times the jackpot" />
+	<block key="am_it_pr_113_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_113_100_Name" korean="Blessed fellow producers" />
+	<block key="am_it_pr_113_100_Description" korean="Fellow making 300 times the jackpot" />
+	<block key="am_it_pr_113_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_115_200_Name" korean="Master of Alchemy" />
+	<block key="am_it_pr_115_200_Description" korean="Alchemy 1000 making success" />
+	<block key="am_it_pr_115_200_condition_0" korean="Be produced" />
+	<block key="am_it_pr_116_10_Name" korean="Way of The Alchemist" />
+	<block key="am_it_pr_116_10_Description" korean="Alchemy making 100 times the general success" />
+	<block key="am_it_pr_116_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_116_100_Name" korean="Skilled alchemist" />
+	<block key="am_it_pr_116_100_Description" korean="Alchemy making 300 times the general success" />
+	<block key="am_it_pr_116_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_117_10_Name" korean="One is lacking" />
+	<block key="am_it_pr_117_10_Description" korean="Alchemy making 100 times the jackpot" />
+	<block key="am_it_pr_117_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_117_100_Name" korean="Hwanggeumson good luck" />
+	<block key="am_it_pr_117_100_Description" korean="Alchemy making 300 times the jackpot" />
+	<block key="am_it_pr_117_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_119_200_Name" korean="Master of cuisine" />
+	<block key="am_it_pr_119_200_Description" korean="1000 food production success" />
+	<block key="am_it_pr_119_200_condition_0" korean="Be produced" />
+	<block key="am_it_pr_120_10_Name" korean="The way the chef" />
+	<block key="am_it_pr_120_10_Description" korean="100 times normal food production success" />
+	<block key="am_it_pr_120_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_120_100_Name" korean="Skilled chef" />
+	<block key="am_it_pr_120_100_Description" korean="Food produced 300 general success" />
+	<block key="am_it_pr_120_100_condition_0" korean="Be produced" />
+	<block key="am_it_pr_121_10_Name" korean="With plenty of hospitality" />
+	<block key="am_it_pr_121_10_Description" korean="100 times, making cooking a great success" />
+	<block key="am_it_pr_121_10_condition_0" korean="Be produced" />
+	<block key="am_it_pr_121_100_Name" korean="TLC's hit face-to-face!" />
+	<block key="am_it_pr_121_100_Description" korean="Cooking making 300 times the jackpot" />
+	<block key="am_it_pr_121_100_condition_0" korean="Be produced" />
+	<block key="am_cb_du_123_1_Name" korean="Times called Caesarea in the first alcohol" />
+	<block key="am_cb_du_123_1_Description" korean="100 times, winning the duel regardless of the profession" />
+	<block key="am_cb_du_123_1_condition_0" korean="Can win" />
+	<block key="am_cb_du_123_100_Name" korean="The Lord of the duel" />
+	<block key="am_cb_du_123_100_Description" korean="550 Win duel regardless of the profession" />
+	<block key="am_cb_du_123_100_condition_0" korean="Can win" />
+	<block key="am_cb_du_124_1_Name" korean="Victory to the Guardian" />
+	<block key="am_cb_du_124_1_Description" korean="10th win in a duel with The Guardian" />
+	<block key="am_cb_du_124_1_condition_0" korean="Can win" />
+	<block key="am_cb_du_124_10_Name" korean="I only aim Guardian" />
+	<block key="am_cb_du_124_10_Description" korean="100 Win duel with The Guardian" />
+	<block key="am_cb_du_124_10_condition_0" korean="Can win" />
+	<block key="am_cb_du_125_1_Name" korean="Victory over the Berserker" />
+	<block key="am_cb_du_125_1_Description" korean="10th win in a duel with the Berserker" />
+	<block key="am_cb_du_125_1_condition_0" korean="Can win" />
+	<block key="am_cb_du_125_10_Name" korean="I only aim Berserker" />
+	<block key="am_cb_du_125_10_Description" korean="100 Win duel with Berserker" />
+	<block key="am_cb_du_125_10_condition_0" korean="Can win" />
+	<block key="am_cb_du_126_1_Name" korean="Assassin to win" />
+	<block key="am_cb_du_126_1_Description" korean="10th win in a duel with the Assassin" />
+	<block key="am_cb_du_126_1_condition_0" korean="Can win" />
+	<block key="am_cb_du_126_10_Name" korean="I only aim Assassin" />
+	<block key="am_cb_du_126_10_Description" korean="100 times, winning the duel between the Assassin" />
+	<block key="am_cb_du_126_10_condition_0" korean="Can win" />
+	<block key="am_cb_du_127_1_Name" korean="Victory for Priests" />
+	<block key="am_cb_du_127_1_Description" korean="10th win in a duel with a Priest" />
+	<block key="am_cb_du_127_1_condition_0" korean="Can win" />
+	<block key="am_cb_du_127_10_Name" korean="I only aim Priest" />
+	<block key="am_cb_du_127_10_Description" korean="100 Win in a duel with a Priest" />
+	<block key="am_cb_du_127_10_condition_0" korean="Can win" />
+	<block key="am_cb_du_128_1_Name" korean="Victory over the Wizards" />
+	<block key="am_cb_du_128_1_Description" korean="10th win in a duel with a wizard" />
+	<block key="am_cb_du_128_1_condition_0" korean="Can win" />
+	<block key="am_cb_du_128_10_Name" korean="I only aim Wizard" />
+	<block key="am_cb_du_128_10_Description" korean="100 Win duel with Wizards" />
+	<block key="am_cb_du_128_10_condition_0" korean="Can win" />
+	<block key="am_cb_du_130_1_Name" korean="Defeat is the mother of victory" />
+	<block key="am_cb_du_130_1_Description" korean="No. 100 defeated in a duel, regardless of profession" />
+	<block key="am_cb_du_130_1_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_130_100_Name" korean="So easy accentuated the aneunde" />
+	<block key="am_cb_du_130_100_Description" korean="550 times defeated in a duel, regardless of profession" />
+	<block key="am_cb_du_130_100_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_131_1_Name" korean="Defeated by the Guardian" />
+	<block key="am_cb_du_131_1_Description" korean="10 defeated in a duel with The Guardian" />
+	<block key="am_cb_du_131_1_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_131_10_Name" korean="Guardian aim Own" />
+	<block key="am_cb_du_131_10_Description" korean="No. 100 defeated in a duel with The Guardian" />
+	<block key="am_cb_du_131_10_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_132_1_Name" korean="Defeated Berserker" />
+	<block key="am_cb_du_132_1_Description" korean="10 defeated in a duel with the Berserker" />
+	<block key="am_cb_du_132_1_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_132_10_Name" korean="Berserker The aim Own" />
+	<block key="am_cb_du_132_10_Description" korean="No. 100 defeated in a duel with the Berserker" />
+	<block key="am_cb_du_132_10_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_133_1_Name" korean="Defeated by Assassin" />
+	<block key="am_cb_du_133_1_Description" korean="10 Assassins defeat at the battle of" />
+	<block key="am_cb_du_133_1_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_133_10_Name" korean="Assassin The aim Own" />
+	<block key="am_cb_du_133_10_Description" korean="No. 100 defeated in a duel with the Assassin" />
+	<block key="am_cb_du_133_10_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_134_1_Name" korean="Defeated by Priests" />
+	<block key="am_cb_du_134_1_Description" korean="10 defeated in a duel with a Priest" />
+	<block key="am_cb_du_134_1_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_134_10_Name" korean="The aim Own Priest" />
+	<block key="am_cb_du_134_10_Description" korean="No. 100 defeated in a duel with a Priest" />
+	<block key="am_cb_du_134_10_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_135_1_Name" korean="Wizards defeated" />
+	<block key="am_cb_du_135_1_Description" korean="10 defeated in a duel with a wizard" />
+	<block key="am_cb_du_135_1_condition_0" korean="Be defeated" />
+	<block key="am_cb_du_135_10_Name" korean="The aim Own Wizard" />
+	<block key="am_cb_du_135_10_Description" korean="No. 100 defeated in a duel with a wizard" />
+	<block key="am_cb_du_135_10_condition_0" korean="Be defeated" />
+	<block key="am_cb_pv_137_1_Name" korean="This is just a taste of killing yiroguna" />
+	<block key="am_cb_pv_137_1_Description" korean="1 people treated in PVP area" />
+	<block key="am_cb_pv_137_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_137_100_Name" korean="Leader of the lawless" />
+	<block key="am_cb_pv_137_100_Description" korean="500 people treated in PVP area" />
+	<block key="am_cb_pv_137_100_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_137_500_Name" korean="Lord of the lawless" />
+	<block key="am_cb_pv_137_500_Description" korean="1000 people treated in PVP area" />
+	<block key="am_cb_pv_137_500_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_138_10_Name" korean="Start hunting" />
+	<block key="am_cb_pv_138_10_Description" korean="10 people continuous treatment in PVP area" />
+	<block key="am_cb_pv_138_10_condition_0" korean="Be killed in a row" />
+	<block key="am_cb_pv_138_30_Name" korean="Do not stop hunting" />
+	<block key="am_cb_pv_138_30_Description" korean="30 people continuous treatment in PVP area" />
+	<block key="am_cb_pv_138_30_condition_0" korean="Be killed in a row" />
+	<block key="am_cb_pv_138_50_Name" korean="No one can stop me" />
+	<block key="am_cb_pv_138_50_Description" korean="50 people continuous treatment in PVP area" />
+	<block key="am_cb_pv_138_50_condition_0" korean="Be killed in a row" />
+	<block key="am_cb_pv_138_100_Name" korean="God of the lawless" />
+	<block key="am_cb_pv_138_100_Description" korean="100 people continuous treatment in PVP area" />
+	<block key="am_cb_pv_138_100_condition_0" korean="Be killed in a row" />
+	<block key="am_cb_pv_139_1_Name" korean="Guardian hunting" />
+	<block key="am_cb_pv_139_1_Description" korean="The Guardian 10 people treated in PVP area" />
+	<block key="am_cb_pv_139_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_139_10_Name" korean="Guardian of the lawless hunters" />
+	<block key="am_cb_pv_139_10_Description" korean="The Guardian 100 people treated in PVP area" />
+	<block key="am_cb_pv_139_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_140_1_Name" korean="Berserker hunting" />
+	<block key="am_cb_pv_140_1_Description" korean="Berserker kills 10 people in PVP area" />
+	<block key="am_cb_pv_140_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_140_10_Name" korean="Berserker lawless hunters" />
+	<block key="am_cb_pv_140_10_Description" korean="Berserker kills 100 people in PVP area" />
+	<block key="am_cb_pv_140_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_141_1_Name" korean="Assassin Hunt" />
+	<block key="am_cb_pv_141_1_Description" korean="Assassin kills 10 people in PVP area" />
+	<block key="am_cb_pv_141_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_141_10_Name" korean="Assassin's lawless hunters" />
+	<block key="am_cb_pv_141_10_Description" korean="Assassin kills 100 people in PVP area" />
+	<block key="am_cb_pv_141_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_142_1_Name" korean="Priest hunting" />
+	<block key="am_cb_pv_142_1_Description" korean="Priest Killed 10 people in PVP area" />
+	<block key="am_cb_pv_142_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_142_10_Name" korean="Priest of the lawless hunters" />
+	<block key="am_cb_pv_142_10_Description" korean="Priest Killed 100 people in PVP area" />
+	<block key="am_cb_pv_142_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_143_1_Name" korean="Wizards hunting" />
+	<block key="am_cb_pv_143_1_Description" korean="Wizards 10 people in PVP regional aid" />
+	<block key="am_cb_pv_143_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_143_10_Name" korean="Wizards of the lawless hunters" />
+	<block key="am_cb_pv_143_10_Description" korean="Wizards 100 people treated in PVP area" />
+	<block key="am_cb_pv_143_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_145_1_Name" korean="There 's mother in heaven" />
+	<block key="am_cb_pv_145_1_Description" korean="1 killed in PVP area" />
+	<block key="am_cb_pv_145_1_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_145_100_Name" korean="This was my occupation moetjari" />
+	<block key="am_cb_pv_145_100_Description" korean="Died 500 times in PVP area" />
+	<block key="am_cb_pv_145_100_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_145_500_Name" korean="Blood flower vending machines" />
+	<block key="am_cb_pv_145_500_Description" korean="1000 Death in PVP area" />
+	<block key="am_cb_pv_145_500_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_146_1_Name" korean="Let's put the Guardian" />
+	<block key="am_cb_pv_146_1_Description" korean="10 killed in PVP area to the Guardian" />
+	<block key="am_cb_pv_146_1_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_146_10_Name" korean="Game Guardian" />
+	<block key="am_cb_pv_146_10_Description" korean="100 times the death to The Guardian in PVP area" />
+	<block key="am_cb_pv_146_10_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_147_1_Name" korean="Let's leave Berserker" />
+	<block key="am_cb_pv_147_1_Description" korean="10 killed in PVP area to Berserker" />
+	<block key="am_cb_pv_147_1_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_147_10_Name" korean="Game of the Berserker" />
+	<block key="am_cb_pv_147_10_Description" korean="No. 100 deaths a Berserker in PVP area" />
+	<block key="am_cb_pv_147_10_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_148_1_Name" korean="Let's leave the Assassin" />
+	<block key="am_cb_pv_148_1_Description" korean="10 times to death in PVP Assassin area" />
+	<block key="am_cb_pv_148_1_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_148_10_Name" korean="Game of the Assassin" />
+	<block key="am_cb_pv_148_10_Description" korean="Assassin's death to 100 times in PVP area" />
+	<block key="am_cb_pv_148_10_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_149_1_Name" korean="We'll see Priest" />
+	<block key="am_cb_pv_149_1_Description" korean="10 killed in PVP area for Priests" />
+	<block key="am_cb_pv_149_1_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_149_10_Name" korean="Game of the Priest" />
+	<block key="am_cb_pv_149_10_Description" korean="100 deaths for the frist time in PVP area" />
+	<block key="am_cb_pv_149_10_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_150_1_Name" korean="We'll see the wizard" />
+	<block key="am_cb_pv_150_1_Description" korean="Wizards 10 times to death in PVP area" />
+	<block key="am_cb_pv_150_1_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_150_10_Name" korean="Game of the wizard" />
+	<block key="am_cb_pv_150_10_Description" korean="Wizards 100 times to death in PVP area" />
+	<block key="am_cb_pv_150_10_condition_0" korean="Deaths" />
+	<block key="am_cb_pv_152_1_Name" korean="Be good Strangler" />
+	<block key="am_cb_pv_152_1_Description" korean="Continuous treatment massacre pvp buff applier 1 people" />
+	<block key="am_cb_pv_152_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_152_10_Name" korean="I got you. Take that!" />
+	<block key="am_cb_pv_152_10_Description" korean="Continuous slaughter pvp buff applier 10 people treated" />
+	<block key="am_cb_pv_152_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_152_100_Name" korean="4885 meet you!" />
+	<block key="am_cb_pv_152_100_Description" korean="Continuous slaughter pvp buff applier 100 people treated" />
+	<block key="am_cb_pv_152_100_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_154_1_Name" korean="The hunt is over" />
+	<block key="am_cb_pv_154_1_Description" korean="Hunter buffs received user 1 Kill" />
+	<block key="am_cb_pv_154_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_154_10_Name" korean="Hunter's enemies" />
+	<block key="am_cb_pv_154_10_Description" korean="Hunter buff user 10 people received treatment" />
+	<block key="am_cb_pv_154_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_155_1_Name" korean="Slaughter is over" />
+	<block key="am_cb_pv_155_1_Description" korean="Slayer Buff received user 1 Kill" />
+	<block key="am_cb_pv_155_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_155_10_Name" korean="Nemesis Slayer" />
+	<block key="am_cb_pv_155_10_Description" korean="Slayer Buff user 10 people received treatment" />
+	<block key="am_cb_pv_155_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_156_1_Name" korean="Shinigami no" />
+	<block key="am_cb_pv_156_1_Description" korean="Reaper Buff received user 1 Kill" />
+	<block key="am_cb_pv_156_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_156_10_Name" korean="Nemesis Reaper" />
+	<block key="am_cb_pv_156_10_Description" korean="Reaper Buff user 10 people received treatment" />
+	<block key="am_cb_pv_156_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_157_1_Name" korean="Nothing is absolute" />
+	<block key="am_cb_pv_157_1_Description" korean="Absolute buff received user 1 Kill" />
+	<block key="am_cb_pv_157_1_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_157_10_Name" korean="Absolute nemesis" />
+	<block key="am_cb_pv_157_10_Description" korean="Absolute buff user 10 people received treatment" />
+	<block key="am_cb_pv_157_10_condition_0" korean="Be killed" />
+	<block key="am_cb_pv_158_50_Name" korean="Yeah, I'm just a taste!" />
+	<block key="am_cb_pv_158_50_Description" korean="Get pvp buff 50 times" />
+	<block key="am_cb_pv_158_50_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_158_100_Name" korean="Me mad dog of the zone!" />
+	<block key="am_cb_pv_158_100_Description" korean="Get pvp buff 100 times" />
+	<block key="am_cb_pv_158_100_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_160_1_Name" korean="It's time to hunt." />
+	<block key="am_cb_pv_160_1_Description" korean="Download hunter buff 1" />
+	<block key="am_cb_pv_160_1_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_160_10_Name" korean="I'm alive ~" />
+	<block key="am_cb_pv_160_10_Description" korean="Download hunter buff 10" />
+	<block key="am_cb_pv_160_10_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_161_1_Name" korean="Fear is always on your side" />
+	<block key="am_cb_pv_161_1_Description" korean="Download Slayer Buff 1" />
+	<block key="am_cb_pv_161_1_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_161_10_Name" korean="Fear is not hungry divide" />
+	<block key="am_cb_pv_161_10_Description" korean="Download Slayer Buff 10" />
+	<block key="am_cb_pv_161_10_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_162_1_Name" korean="You're already dead." />
+	<block key="am_cb_pv_162_1_Description" korean="Download Reaper Buff 1" />
+	<block key="am_cb_pv_162_1_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_162_10_Name" korean="The way you going to send something to relax." />
+	<block key="am_cb_pv_162_10_Description" korean="Download Reaper Buff 10" />
+	<block key="am_cb_pv_162_10_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_163_1_Name" korean="You're full of power!" />
+	<block key="am_cb_pv_163_1_Description" korean="Download Absolute buff 1" />
+	<block key="am_cb_pv_163_1_condition_0" korean="Received Buff" />
+	<block key="am_cb_pv_163_10_Name" korean="I Am Legend." />
+	<block key="am_cb_pv_163_10_Description" korean="Download Absolute buff 10" />
+	<block key="am_cb_pv_163_10_condition_0" korean="Received Buff" />
+	<block key="am_co_gr_001_5_Name" korean="Knights also from step" />
+	<block key="am_co_gr_001_5_Description" korean="Achieving Level 5" />
+	<block key="am_co_gr_001_5_condition_0" korean="Achieving Level 5" />
+	<block key="am_co_gr_001_15_Name" korean="Appearance of the Templars" />
+	<block key="am_co_gr_001_15_Description" korean="Achieving 15 levels" />
+	<block key="am_co_gr_001_15_condition_0" korean="Achieving 15 levels" />
+	<block key="am_co_gr_001_25_Name" korean="Veterans and Canas" />
+	<block key="am_co_gr_001_25_Description" korean="Achieve level 25" />
+	<block key="am_co_gr_001_25_condition_0" korean="Achieve level 25" />
+	<block key="am_co_gr_001_35_Name" korean="The result of hard work" />
+	<block key="am_co_gr_001_35_Description" korean="Achieve level 35" />
+	<block key="am_co_gr_001_35_condition_0" korean="Achieve level 35" />
+	<block key="am_co_gr_001_45_Name" korean="Suddenly ?!" />
+	<block key="am_co_gr_001_45_Description" korean="Achieve level 45" />
+	<block key="am_co_gr_001_45_condition_0" korean="Achieve level 45" />
+	<block key="tt_0_0_0002_contents_title_name" korean="Master in Business" />
+	<block key="tt_0_0_0003_contents_title_name" korean="Millionaire" />
+	<block key="tt_0_0_0004_contents_title_name" korean="The store embellish geodeol" />
+	<block key="tt_0_0_0005_contents_title_name" korean="Guardians of Elune" />
+	<block key="tt_0_0_0006_contents_title_name" korean="Elevation of the continents" />
+	<block key="tt_0_0_0007_contents_title_name" korean="Big hand of the continent" />
+	<block key="tt_0_0_0008_contents_title_name" korean="Human portal" />
+	<block key="tt_0_0_0009_contents_title_name" korean="Immortality" />
+	<block key="tt_0_0_0010_contents_title_name" korean="Fellow Master" />
+	<block key="tt_0_0_0011_contents_title_name" korean="Bodhisattva" />
+	<block key="tt_0_0_0012_contents_title_name" korean="Fellow transformation expert" />
+	<block key="tt_0_0_0013_contents_title_name" korean="Fellow sealed experts" />
+	<block key="tt_0_0_0014_contents_title_name" korean="Elder" />
+	<block key="tt_0_0_0015_contents_title_name" korean="Adventurer's bra carboxylic forest" />
+	<block key="tt_0_0_0016_contents_title_name" korean="Water Castle Guards" />
+	<block key="tt_0_0_0017_contents_title_name" korean="Fixer jikhal command" />
+	<block key="tt_0_0_0018_contents_title_name" korean="Parque my Guardian article" />
+	<block key="tt_0_0_0019_contents_title_name" korean="Mate of respect" />
+	<block key="tt_0_0_0020_contents_title_name" korean="The Lord of the reinforcement" />
+	<block key="tt_0_0_0021_contents_title_name" korean="Equipment Destroyer" />
+	<block key="tt_0_0_0022_contents_title_name" korean="The Lord of the duel" />
+	<block key="tt_0_0_0023_contents_title_name" korean="Foot control" />
+	<block key="tt_0_0_0024_contents_title_name" korean="Winner" />
+	<block key="tt_0_0_0025_contents_title_name" korean="Ruler" />
+	<block key="tt_0_0_0026_contents_title_name" korean="Sheriff" />
+	<block key="tt_0_0_0027_contents_title_name" korean="Hunter" />
+	<block key="tt_0_0_0028_contents_title_name" korean="Slayer" />
+	<block key="tt_0_0_0029_contents_title_name" korean="Reaper" />
+	<block key="tt_0_0_0030_contents_title_name" korean="Absolute" />
+	<block key="tt_0_0_0031_contents_title_name" korean="Kingdom article" />
+	<block key="tt_0_0_0032_contents_title_name" korean="Kingdom Heroes" />
+	<block key="tt_0_0_0033_contents_title_name" korean="Heroes of Light Earl agent" />
+	<block key="tt_0_0_0000_contents_title_name" korean="Knights of airspace" />
+	<block key="tt_0_0_0001_contents_title_name" korean="Owner of Pegasus" />
+	<block key="tt_0_0_0034_contents_title_name" korean="Garrison" />
+	<block key="tt_0_0_0035_contents_title_name" korean="Rent-a-Cop" />
+	<block key="tt_0_0_0036_contents_title_name" korean="Protector" />
+	<block key="tt_0_0_0037_contents_title_name" korean="Judge" />
+	<block key="tt_0_0_0038_contents_title_name" korean="Smokers" />
+	<block key="am_dg_co_080_100_Name" korean="[Legend] beyond the legend" />
+	<block key="am_dg_co_080_100_Description" korean="Legendary Difficulty Clear all" />
+	<block key="am_dg_co_080_100_condition_0" korean="Remains lit swallowed" />
+	<block key="am_dg_co_080_100_condition_1" korean="Karl reang mansion" />
+	<block key="am_dg_co_080_100_condition_2" korean="Len Mart ruins" />
+	<block key="am_dg_co_080_100_condition_3" korean="Wrapped in a veil cave" />
+	<block key="am_dg_co_080_100_condition_4" korean="The wave lakh ice fort" />
+	<block key="am_cb_mt_003_1000_Name" korean="Start hunting" />
+	<block key="am_cb_mt_003_1000_Description" korean="1000 Monster treatment, regardless of the rating" />
+	<block key="am_cb_mt_003_1000_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_003_5000_Name" korean="Environmental beautification" />
+	<block key="am_cb_mt_003_5000_Description" korean="Kill the monster, regardless of grade 5000" />
+	<block key="am_cb_mt_003_5000_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_004_500_Name" korean="Strong to weak" />
+	<block key="am_cb_mt_004_500_Description" korean="General Monster 500 Christchurch" />
+	<block key="am_cb_mt_004_500_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_004_1000_Name" korean="There's nothing more powerful?" />
+	<block key="am_cb_mt_004_1000_Description" korean="General Monster 1000 Christchurch" />
+	<block key="am_cb_mt_004_1000_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_005_500_Name" korean="Elite Monster Hunter" />
+	<block key="am_cb_mt_005_500_Description" korean="Monster Elite Killed 500" />
+	<block key="am_cb_mt_005_500_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_005_1000_Name" korean="There is a hunting ground for the elite." />
+	<block key="am_cb_mt_005_1000_Description" korean="1000 Monster Elite Killed" />
+	<block key="am_cb_mt_005_1000_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_006_500_Name" korean="Show the hot flavor." />
+	<block key="am_cb_mt_006_500_Description" korean="Hero kills a monster 500" />
+	<block key="am_cb_mt_006_500_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_006_1000_Name" korean="Do not let that scare the absolute min." />
+	<block key="am_cb_mt_006_1000_Description" korean="Hero kills a monster 1000" />
+	<block key="am_cb_mt_006_1000_condition_0" korean="Monsters can aid" />
+	<block key="am_co_ac_001_2_Name" korean="Prison Escape" />
+	<block key="am_co_ac_001_2_Description" korean="Saran tree to escape prison" />
+	<block key="am_co_ac_001_2_condition_0" korean="Prison Escape" />
+	<block key="am_co_gr_001_18_Name" korean="It was a tough time ..." />
+	<block key="am_co_gr_001_18_Description" korean="Achieve level 18" />
+	<block key="am_co_gr_001_18_condition_0" korean="Achieve level 18" />
+	<block key="am_co_gr_001_23_Name" korean="Stronger evidence of hardship soon" />
+	<block key="am_co_gr_001_23_Description" korean="Achieving Level 23" />
+	<block key="am_co_gr_001_23_condition_0" korean="Achieving Level 23" />
+	<block key="tt_0_0_0039_contents_title_name" korean="Environmental sanitation" />
+	<block key="tt_0_0_0040_contents_title_name" korean="Monster Slayer" />
+	<block key="tt_0_0_0041_contents_title_name" korean="Pegasus Elite Knights" />
+	<block key="tt_0_0_0042_contents_title_name" korean="Pegasus Knights" />
+	<block key="tt_0_0_0043_contents_title_name" korean="Remains lit swallowed Conqueror" />
+	<block key="tt_0_0_0044_contents_title_name" korean="Charles Castle Conqueror reang" />
+	<block key="tt_0_0_0045_contents_title_name" korean="Len Mart ruins conqueror" />
+	<block key="tt_0_0_0046_contents_title_name" korean="Wrapped in a veil conqueror cave" />
+	<block key="tt_0_0_0047_contents_title_name" korean="Ice Citadel conqueror par lakh" />
+	<block key="am_co_mo_008_10000_Name" korean="Start picking up money" />
+	<block key="am_co_mo_008_10000_Description" korean="1 gold obtained by drop" />
+	<block key="am_co_mo_008_10000_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_009_10000_Name" korean="Sugobi is meticulously" />
+	<block key="am_co_mo_009_10000_Description" korean="1 gold acquired by Quest" />
+	<block key="am_co_mo_009_10000_condition_0" korean="Gold acquisition" />
+	<block key="am_co_mo_016_10000_Name" korean="Gather gold dust 1" />
+	<block key="am_co_mo_016_10000_Description" korean="1 to hold gold" />
+	<block key="am_co_mo_016_10000_condition_0" korean="Gold reserves" />
+	<block key="am_fe_ga_037_1_Name" korean="The meaning of bangsaeng" />
+	<block key="am_fe_ga_037_1_Description" korean="Place all fellow regardless of the rating period 1" />
+	<block key="am_fe_ga_037_1_condition_0" korean="Release cycles" />
+	<block key="am_it_re_084_1_Name" korean="Said reinforcing means is ..." />
+	<block key="am_it_re_084_1_Description" korean="General items strengthen one success" />
+	<block key="am_it_re_084_1_condition_0" korean="Be strengthened" />
+	<block key="am_it_re_095_1_Name" korean="Let's rubbish again" />
+	<block key="am_it_re_095_1_Description" korean="Items per extraction" />
+	<block key="am_it_re_095_1_condition_0" korean="Extraction" />
+	<block key="am_cb_mt_003_10_Name" korean="The first hunt" />
+	<block key="am_cb_mt_003_10_Description" korean="Kill the monster, regardless of grade 10" />
+	<block key="am_cb_mt_003_10_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_003_100_Name" korean="Do not cover my front body!" />
+	<block key="am_cb_mt_003_100_Description" korean="Kill the monster, regardless of grade 100" />
+	<block key="am_cb_mt_003_100_condition_0" korean="Monsters can aid" />
+	<block key="am_cb_mt_005_1_Name" korean="Come on, not the elite for the first time?" />
+	<block key="am_cb_mt_005_1_Description" korean="Monster Elite Killed 1" />
+	<block key="am_cb_mt_005_1_condition_0" korean="Monsters can aid" />
+	<block key="am_co_ac_031_1_Name" korean="Oh, I get it!" />
+	<block key="am_co_ac_031_1_Description" korean="1 killed" />
+	<block key="am_co_ac_031_1_condition_0" korean="Deaths" />
+	<block key="am_qu_co_049_10_Name" korean="First showing favor" />
+	<block key="am_qu_co_049_10_Description" korean="10 quests completed regardless of the type" />
+	<block key="am_qu_co_049_10_condition_0" korean="Quests can be completed" />
+	<block key="am_qu_co_049_30_Name" korean="Fabulous and helpful" />
+	<block key="am_qu_co_049_30_Description" korean="Quest 30 regardless of the type" />
+	<block key="am_qu_co_049_30_condition_0" korean="Quests can be completed" />
+	<block key="am_fe_ga_033_3_Name" korean="The first occurred friend" />
+	<block key="am_fe_ga_033_3_Description" korean="All fellows tame regardless of grade 3 success" />
+	<block key="am_fe_ga_033_3_condition_0" korean="Taming be successful" />
+	<block key="am_qu_zo_058_107_Name" korean="Airspace guardian of destruction" />
+	<block key="am_qu_zo_058_107_Description" korean="Complete 107 quests airspace destruction" />
+	<block key="am_qu_zo_058_107_condition_0" korean="Quests can be completed" />
+	<block key="tt_0_0_0048_contents_title_name" korean="Guardian of the airspace" />
+	<block key="am_dg_co_0000_Name" korean="Clearance of [scenario] airspace" />
+	<block key="am_dg_co_0000_Description" korean="Airspace clear niche scenarios difficulty once" />
+	<block key="am_dg_co_0000_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0001_Name" korean="[Scenario] pioneer in a fraction of the airspace" />
+	<block key="am_dg_co_0001_Description" korean="Niche scenario difficulty clearing the airspace 10 times" />
+	<block key="am_dg_co_0001_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0002_Name" korean="[Elite] clearance of airspace" />
+	<block key="am_dg_co_0002_Description" korean="Elite difficulty clearing airspace clearance of one" />
+	<block key="am_dg_co_0002_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0003_Name" korean="[Elite] pioneer in a fraction of the airspace" />
+	<block key="am_dg_co_0003_Description" korean="Niche Elite difficulty clearing the airspace 10 times" />
+	<block key="am_dg_co_0003_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0004_Name" korean="Clearance of [Hero] airspace" />
+	<block key="am_dg_co_0004_Description" korean="Niche heroes of airspace difficulty once cleared" />
+	<block key="am_dg_co_0004_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0005_Name" korean="[Hero] pioneer in the crevices of airspace" />
+	<block key="am_dg_co_0005_Description" korean="Niche heroes difficulty clearing airspace 10 times" />
+	<block key="am_dg_co_0005_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0006_Name" korean="[Legend] clearance of airspace" />
+	<block key="am_dg_co_0006_Description" korean="Legendary difficulty clearing the airspace clearance once" />
+	<block key="am_dg_co_0006_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0007_Name" korean="[Legend] pioneer in a fraction of the airspace" />
+	<block key="am_dg_co_0007_Description" korean="Niche legend difficulty clearing the airspace 10 times" />
+	<block key="am_dg_co_0007_condition_0" korean="Be clear" />
+	<block key="am_fe_ga_0000_Name" korean="Nightmare You're mine!" />
+	<block key="am_fe_ga_0000_Description" korean="Nightmare Taming of success" />
+	<block key="am_fe_ga_0000_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0001_Name" korean="Nightmare tame failure" />
+	<block key="am_fe_ga_0001_Description" korean="Taming the 10th Nightmare failure" />
+	<block key="am_fe_ga_0001_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0002_Name" korean="Rob Kane of horror you're mine!" />
+	<block key="am_fe_ga_0002_Description" korean="Rob Kane tame the fear of success" />
+	<block key="am_fe_ga_0002_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0003_Name" korean="Rob Cain failed to tame the fear" />
+	<block key="am_fe_ga_0003_Description" korean="Rob Cain failed to tame the fear of 10" />
+	<block key="am_fe_ga_0003_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0004_Name" korean="Casper poisonous tree you're mine!" />
+	<block key="am_fe_ga_0004_Description" korean="Casper poisonous tree domestication success" />
+	<block key="am_fe_ga_0004_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0005_Name" korean="Casper poisonous tree domestication failure" />
+	<block key="am_fe_ga_0005_Description" korean="Casper 10 failed attempts to tame toxic agent" />
+	<block key="am_fe_ga_0005_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0006_Name" korean="Ghost're mine!" />
+	<block key="am_fe_ga_0006_Description" korean="Taming ghost success" />
+	<block key="am_fe_ga_0006_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0007_Name" korean="Ghost tame failure" />
+	<block key="am_fe_ga_0007_Description" korean="Taming the 10th ghost failure" />
+	<block key="am_fe_ga_0007_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0008_Name" korean="Red maryong Agde Nas you're mine!" />
+	<block key="am_fe_ga_0008_Description" korean="Nas tame red maryong Agde success" />
+	<block key="am_fe_ga_0008_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0009_Name" korean="Nas failed to tame red maryong Agde" />
+	<block key="am_fe_ga_0009_Description" korean="10 Nas failed to tame red maryong Agde" />
+	<block key="am_fe_ga_0009_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0010_Name" korean="Apocalypse're mine!" />
+	<block key="am_fe_ga_0010_Description" korean="Taming the success Apocalypse" />
+	<block key="am_fe_ga_0010_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0011_Name" korean="Taming the Apocalypse failure" />
+	<block key="am_fe_ga_0011_Description" korean="Taming the 10th Apocalypse failure" />
+	<block key="am_fe_ga_0011_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0012_Name" korean="Karas tyrant you're mine!" />
+	<block key="am_fe_ga_0012_Description" korean="Karas taming the tyrant success" />
+	<block key="am_fe_ga_0012_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0013_Name" korean="Karas taming the tyrant failure" />
+	<block key="am_fe_ga_0013_Description" korean="Taming the 10th tyrant Karas failure" />
+	<block key="am_fe_ga_0013_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0014_Name" korean="Non posse Apocalypse're mine!" />
+	<block key="am_fe_ga_0014_Description" korean="Taming the success posse non Apocalypse" />
+	<block key="am_fe_ga_0014_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0015_Name" korean="Non posse failed to tame Apocalypse" />
+	<block key="am_fe_ga_0015_Description" korean="Taming the 10th posse non Apocalypse failure" />
+	<block key="am_fe_ga_0015_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0016_Name" korean="Moire teach you mine!" />
+	<block key="am_fe_ga_0016_Description" korean="Taming the success teaching moire" />
+	<block key="am_fe_ga_0016_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0017_Name" korean="Taming the failure to teach moire" />
+	<block key="am_fe_ga_0017_Description" korean="Taming the 10th failed to teach moire" />
+	<block key="am_fe_ga_0017_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0018_Name" korean="Kara Shah dark maryong you're mine!" />
+	<block key="am_fe_ga_0018_Description" korean="Kara Shah succeeded to tame dark maryong" />
+	<block key="am_fe_ga_0018_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0019_Name" korean="Kara Shah failed to tame the darkness maryong" />
+	<block key="am_fe_ga_0019_Description" korean="Dark maryong Kara Shah failed to tame 10th" />
+	<block key="am_fe_ga_0019_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0020_Name" korean="You're mine Leto other Asian Void!" />
+	<block key="am_fe_ga_0020_Description" korean="Leto Taming of the Void other Asian success" />
+	<block key="am_fe_ga_0020_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0021_Name" korean="Leto other Asian tame failure of the Void" />
+	<block key="am_fe_ga_0021_Description" korean="Taming the 10 other Loreto Shia failure of the Void" />
+	<block key="am_fe_ga_0021_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0022_Name" korean="Gwangryong Para gas're mine!" />
+	<block key="am_fe_ga_0022_Description" korean="Gwangryong Para gas Taming success" />
+	<block key="am_fe_ga_0022_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0023_Name" korean="Gwangryong Para gas tame failure" />
+	<block key="am_fe_ga_0023_Description" korean="Taming the 10th Para gas gwangryong failure" />
+	<block key="am_fe_ga_0023_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0024_Name" korean="Mutoh's airspace wings page you're mine!" />
+	<block key="am_fe_ga_0024_Description" korean="Taming the wings of the airspace page Muto success" />
+	<block key="am_fe_ga_0024_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0025_Name" korean="Taming the failure of the airspace wings Muto page" />
+	<block key="am_fe_ga_0025_Description" korean="Taming the 10th Wing of airspace page Muto failure" />
+	<block key="am_fe_ga_0025_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0026_Name" korean="Lucifer moonlight tree you're mine!" />
+	<block key="am_fe_ga_0026_Description" korean="Moonlight Lucifer bit tame success" />
+	<block key="am_fe_ga_0026_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0027_Name" korean="Moonlight Lucifer bit tame failure" />
+	<block key="am_fe_ga_0027_Description" korean="Moonlight Lucifer bit tame 10th failure" />
+	<block key="am_fe_ga_0027_condition_0" korean="Taming the number of failures" />
+	<block key="am_cb_mt_0000_Name" korean="Rather than ruthless Zerah \u003cCobb being a follower\u003e Aid" />
+	<block key="am_cb_mt_0000_Description" korean="Rather than ruthless Zerah \u003cCobb being a follower\u003e 1st Aid" />
+	<block key="am_cb_mt_0000_condition_0" korean="Be treated" />
+	<block key="am_cb_mt_0001_Name" korean="Gungbyeong colon Fosse and treatment" />
+	<block key="am_cb_mt_0001_Description" korean="Gungbyeong colon Fosse or one-time treatment" />
+	<block key="am_cb_mt_0001_condition_0" korean="Be treated" />
+	<block key="am_cb_mt_0002_Name" korean="Isla Colon right horsemen aid" />
+	<block key="am_cb_mt_0002_Description" korean="Isla Colon horsemen right one treatment" />
+	<block key="am_cb_mt_0002_condition_0" korean="Be treated" />
+	<block key="am_cb_mt_0003_Name" korean="Ker chiefs on aid" />
+	<block key="am_cb_mt_0003_Description" korean="Ker chiefs on 1st Aid" />
+	<block key="am_cb_mt_0003_condition_0" korean="Be treated" />
+	<block key="am_cb_mt_0004_Name" korean="Bi-Aid" />
+	<block key="am_cb_mt_0004_Description" korean="Bismuth per treatment" />
+	<block key="am_cb_mt_0004_condition_0" korean="Be treated" />
+	<block key="am_cb_mt_0005_Name" korean="Knight of Darkness ahsyuram aid" />
+	<block key="am_cb_mt_0005_Description" korean="Knight of Darkness ahsyuram per treatment" />
+	<block key="am_cb_mt_0005_condition_0" korean="Be treated" />
+	<block key="am_cb_mt_0006_Name" korean="Debbie aid" />
+	<block key="am_cb_mt_0006_Description" korean="Debbie 1st Aid" />
+	<block key="am_cb_mt_0006_condition_0" korean="Be treated" />
+	<block key="am_it_ga_0000_Name" korean="Acquire items of general rating" />
+	<block key="am_it_ga_0000_Description" korean="Items of General Class 1 master" />
+	<block key="am_it_ga_0000_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0001_Name" korean="Suddenly he picked up one ..." />
+	<block key="am_it_ga_0001_Description" korean="Item 1000 acquisition of General rating" />
+	<block key="am_it_ga_0001_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0002_Name" korean="Acquire items of Elite Class" />
+	<block key="am_it_ga_0002_Description" korean="One item of acquiring elite rating" />
+	<block key="am_it_ga_0002_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0003_Name" korean="Elite items are my destiny" />
+	<block key="am_it_ga_0003_Description" korean="Acquisition of 500 items of Elite Class" />
+	<block key="am_it_ga_0003_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0004_Name" korean="Hero as a first step" />
+	<block key="am_it_ga_0004_Description" korean="One item of heroes rating learn" />
+	<block key="am_it_ga_0004_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0005_Name" korean="The birth of a great hero" />
+	<block key="am_it_ga_0005_Description" korean="Hero acquire 100 items of Class" />
+	<block key="am_it_ga_0005_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0006_Name" korean="Like anyone legend" />
+	<block key="am_it_ga_0006_Description" korean="One item in the legend grade learning" />
+	<block key="am_it_ga_0006_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0007_Name" korean="A living legend" />
+	<block key="am_it_ga_0007_Description" korean="Legend class of items acquired 10" />
+	<block key="am_it_ga_0007_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0008_Name" korean="World Cup acquire items" />
+	<block key="am_it_ga_0008_Description" korean="World Cup items per acquisition" />
+	<block key="am_it_ga_0008_condition_0" korean="Be learned" />
+	<block key="am_it_ga_0009_Name" korean="Equipment for more than a legend all ratings" />
+	<block key="am_it_ga_0009_Description" korean="Equipment for more than a legend all ratings" />
+	<block key="am_it_ga_0009_condition_0" korean="Be learned" />
+	<block key="tt_0_0_0049_contents_title_name" korean="Tame the Nightmare" />
+	<block key="tt_0_0_0050_contents_title_name" korean="Kane's horror tame the Rab" />
+	<block key="tt_0_0_0051_contents_title_name" korean="Tame the poisonous tree Casper" />
+	<block key="tt_0_0_0052_contents_title_name" korean="Tame the Ghosts" />
+	<block key="tt_0_0_0053_contents_title_name" korean="Tame the Red maryong Agde Nas" />
+	<block key="tt_0_0_0054_contents_title_name" korean="Tame the Apocalypse" />
+	<block key="tt_0_0_0055_contents_title_name" korean="Tame the tyrant Karas" />
+	<block key="tt_0_0_0056_contents_title_name" korean="Tame the non posse Apocalypse" />
+	<block key="tt_0_0_0057_contents_title_name" korean="Tame the teaching moire" />
+	<block key="tt_0_0_0058_contents_title_name" korean="Kara Charles tame dark maryong" />
+	<block key="tt_0_0_0059_contents_title_name" korean="Tame the retrograde other Asian Void" />
+	<block key="tt_0_0_0060_contents_title_name" korean="Tame the gwangryong Para gas" />
+	<block key="tt_0_0_0061_contents_title_name" korean="Tame the wings page Mutoh's airspace" />
+	<block key="tt_0_0_0062_contents_title_name" korean="Moonlight bit tame Lucifer" />
+	<block key="am_fe_ga_0028_Name" korean="You're one of the empty cargo is mine!" />
+	<block key="am_fe_ga_0028_Description" korean="Cargo days to tame the success of the Void" />
+	<block key="am_fe_ga_0028_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0029_Name" korean="Cargo days to tame the failure of the Void" />
+	<block key="am_fe_ga_0029_Description" korean="Taming the 10th day of the Void Cargo failure" />
+	<block key="am_fe_ga_0029_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0030_Name" korean="Cargo mine more than one of you!" />
+	<block key="am_fe_ga_0030_Description" korean="Taming the success of Dawn Cargo days" />
+	<block key="am_fe_ga_0030_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0031_Name" korean="Taming the failure of more than one cargo" />
+	<block key="am_fe_ga_0031_Description" korean="Failure of more than 10 days to tame Cargo" />
+	<block key="am_fe_ga_0031_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0032_Name" korean="Beldeon're immortal mine!" />
+	<block key="am_fe_ga_0032_Description" korean="Beldeon tame the success of the Immortal" />
+	<block key="am_fe_ga_0032_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0033_Name" korean="Taming the failure of the immortal beldeon" />
+	<block key="am_fe_ga_0033_Description" korean="Taming the 10th beldeon failure of the Immortal" />
+	<block key="am_fe_ga_0033_condition_0" korean="Taming the number of failures" />
+	<block key="tt_0_0_0063_contents_title_name" korean="Tame the Cargo days of the Void" />
+	<block key="tt_0_0_0064_contents_title_name" korean="Tame the cargo of more than one" />
+	<block key="tt_0_0_0065_contents_title_name" korean="Tame the immortal beldeon" />
+	<block key="am_it_re_0000_Name" korean="Conditions to verify the legend" />
+	<block key="am_it_re_0000_Description" korean="All heroes wear more than 8 or Legendary strengthen Equipment" />
+	<block key="am_it_re_0000_condition_0" korean="More than 10 rivers all heroes wear equipment Rating" />
+	<block key="am_it_re_0000_condition_1" korean="Difficulty swallowing fire remains a hero" />
+	<block key="am_it_re_0000_condition_2" korean="Karl reang mansion Heroic difficulty" />
+	<block key="am_it_re_0000_condition_3" korean="Frozen Mart Len ruins Heroic difficulty" />
+	<block key="am_it_re_0000_condition_4" korean="Sign on Heroic difficulty cave veil" />
+	<block key="am_it_re_0000_condition_5" korean="Ice Citadel Heroic difficulty par lakh" />
+	<block key="am_fe_ga_0034_Name" korean="You're mine Pies Ruud horror!" />
+	<block key="am_fe_ga_0034_Description" korean="Fear of success pie tame Lourdes" />
+	<block key="am_fe_ga_0035_Name" korean="Megan Tess of the nightmare you're mine!" />
+	<block key="am_fe_ga_0035_Description" korean="Megan test tame the success of a nightmare" />
+	<block key="am_fe_ga_0036_Name" korean="You'll let me buy the abyss!" />
+	<block key="am_fe_ga_0036_Description" korean="By taming let the success of the abyss" />
+	<block key="am_fe_ga_0037_Name" korean="Hami come from Aisha're mine!" />
+	<block key="am_fe_ga_0037_Description" korean="Hami on taming the success of Aisha" />
+	<block key="am_fe_ga_0038_Name" korean="Hami on taming the failure of Aisha" />
+	<block key="am_fe_ga_0038_Description" korean="Hami on 10 Taming the failure of Aisha" />
+	<block key="am_fe_ga_0038_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0039_Name" korean="Carl ripto of geukyeom you're mine!" />
+	<block key="am_fe_ga_0039_Description" korean="Taming the success of the knife geukyeom ripto" />
+	<block key="am_fe_ga_0040_Name" korean="Carl ripto failed to tame the geukyeom" />
+	<block key="am_fe_ga_0040_Description" korean="The Taming of the knife 10 times geukyeom ripto failure" />
+	<block key="am_fe_ga_0040_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0041_Name" korean="Darkness demo bonus you mine!" />
+	<block key="am_fe_ga_0041_Description" korean="Mariners tame successful demonstration of Darkness" />
+	<block key="am_fe_ga_0042_Name" korean="Taming the failure of the night bonus demo" />
+	<block key="am_fe_ga_0042_Description" korean="Taming the 10th night of demonstrations bonus failure" />
+	<block key="am_fe_ga_0042_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0043_Name" korean="The Twilight geurabion you're mine!" />
+	<block key="am_fe_ga_0043_Description" korean="Geurabion tame the success of Twilight" />
+	<block key="am_fe_ga_0044_Name" korean="Geurabion failed to tame the Twilight" />
+	<block key="am_fe_ga_0044_Description" korean="Taming the 10th geurabion failure of Twilight" />
+	<block key="am_fe_ga_0044_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0045_Name" korean="Legend fellow enthusiasts" />
+	<block key="am_fe_ga_0045_Description" korean="Fellow legend tame five successful" />
+	<block key="am_fe_ga_0045_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_0046_Name" korean="Legend fellow collectors" />
+	<block key="am_fe_ga_0046_Description" korean="Fellow legend tame 10 success" />
+	<block key="am_fe_ga_0046_condition_0" korean="Taming be successful" />
+	<block key="am_fe_ga_0047_Name" korean="[Legend] the time to break up" />
+	<block key="am_fe_ga_0047_Description" korean="Fellow release cycle 1 legend" />
+	<block key="am_fe_ga_0047_condition_0" korean="Release cycles" />
+	<block key="am_fe_ga_0048_Name" korean="[Legend] mind truly cares" />
+	<block key="am_fe_ga_0048_Description" korean="Fellow legend placed fifth cycle" />
+	<block key="am_fe_ga_0048_condition_0" korean="Release cycles" />
+	<block key="am_fe_us_0000_Name" korean="[Legend] In another aspect" />
+	<block key="am_fe_us_0000_Description" korean="Fellow legend strain 5" />
+	<block key="am_fe_us_0000_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_0001_Name" korean="[Legend] he best variants easy" />
+	<block key="am_fe_us_0001_Description" korean="Fellow legend strain 10" />
+	<block key="am_fe_us_0001_condition_0" korean="Be transformed" />
+	<block key="am_fe_us_0002_Name" korean="Fellow legend 5th seal" />
+	<block key="am_fe_us_0002_Description" korean="Fellow legend seal 5" />
+	<block key="am_fe_us_0002_condition_0" korean="Be sealed" />
+	<block key="am_fe_us_0003_Name" korean="Fellow legendary 10th sealed" />
+	<block key="am_fe_us_0003_Description" korean="Fellow legend seal 10" />
+	<block key="am_fe_us_0003_condition_0" korean="Be sealed" />
+	<block key="tt_0_0_0066_contents_title_name" korean="Tame the pie Ruud fear" />
+	<block key="tt_0_0_0067_contents_title_name" korean="Megan tame the test of nightmares" />
+	<block key="tt_0_0_0068_contents_title_name" korean="Let's tame by Abyss" />
+	<block key="tt_0_0_0069_contents_title_name" korean="Tame Hami come from Aisha" />
+	<block key="tt_0_0_0070_contents_title_name" korean="Tame the knife ripto of geukyeom" />
+	<block key="tt_0_0_0071_contents_title_name" korean="Taming the darkness of the demo bonus" />
+	<block key="tt_0_0_0072_contents_title_name" korean="Tame the geurabion of Twilight" />
+	<block key="tt_0_0_0073_contents_title_name" korean="Those who challenge the legend" />
+	<block key="tt_0_0_0074_contents_title_name" korean="Tame the Thunder Dragon toll Ruth" />
+	<block key="tt_0_0_0075_contents_title_name" korean="Tame the Chatham Knuth's back" />
+	<block key="tt_0_0_0076_contents_title_name" korean="Ruth Vega tame the venom" />
+	<block key="tt_0_0_0077_contents_title_name" korean="Tame the poyo of Glory" />
+	<block key="tt_0_0_0078_contents_title_name" korean="Tame the mirage of the Far North" />
+	<block key="tt_0_0_0079_contents_title_name" korean="Tame the Flame of Tara News" />
+	<block key="tt_0_0_0080_contents_title_name" korean="Tame the bajyan of long horns" />
+	<block key="tt_0_0_0081_contents_title_name" korean="Tame the patriots of the village tyura" />
+	<block key="tt_0_0_0082_contents_title_name" korean="Tame the destruction of this large North" />
+	<block key="am_fe_ga_0049_Name" korean="Tall Thunder Dragon Ruth're mine!" />
+	<block key="am_fe_ga_0049_Description" korean="Duluth Tall Thunder Dragon Taming success" />
+	<block key="am_fe_ga_0050_Name" korean="Tall Thunder Dragon Taming Ruth failure" />
+	<block key="am_fe_ga_0050_Description" korean="Thunder Dragon Taming 10th Tall Ruth failure" />
+	<block key="am_fe_ga_0050_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0051_Name" korean="Signature of Janus bag you're mine!" />
+	<block key="am_fe_ga_0051_Description" korean="Taming the success of Janus Signature Bag" />
+	<block key="am_fe_ga_0052_Name" korean="Taming the back of the cha Janus failure" />
+	<block key="am_fe_ga_0052_Description" korean="Taming the back of the cha Knuth 10th failure" />
+	<block key="am_fe_ga_0052_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0053_Name" korean="Ruth Vega venom you're mine!" />
+	<block key="am_fe_ga_0053_Description" korean="Ruth Vega Taming of the success of the venom" />
+	<block key="am_fe_ga_0054_Name" korean="Ruth Vega failed to tame the venom" />
+	<block key="am_fe_ga_0054_Description" korean="Ruth Vega 10 Taming the failure of the venom" />
+	<block key="am_fe_ga_0054_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0055_Name" korean="Poyo of glory you're mine!" />
+	<block key="am_fe_ga_0055_Description" korean="Taming the success of the glory poyo" />
+	<block key="am_fe_ga_0056_Name" korean="Taming the failure of the glory poyo" />
+	<block key="am_fe_ga_0056_Description" korean="The Taming of the glory of 10th poyo failure" />
+	<block key="am_fe_ga_0056_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0057_Name" korean="Mirage's Far North're mine!" />
+	<block key="am_fe_ga_0057_Description" korean="Taming the success of a mirage Far North" />
+	<block key="am_fe_ga_0058_Name" korean="The Taming of the Far North mirage failure" />
+	<block key="am_fe_ga_0058_Description" korean="The Taming of the Far North 10th mirage failure" />
+	<block key="am_fe_ga_0058_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0059_Name" korean="Tara News of the flame you're mine!" />
+	<block key="am_fe_ga_0059_Description" korean="Taming the Flame of Tara News Success" />
+	<block key="am_fe_ga_0060_Name" korean="Tara ku failed to tame the flame" />
+	<block key="am_fe_ga_0060_Description" korean="Tara tame 10th-ku failure of the flame" />
+	<block key="am_fe_ga_0060_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0061_Name" korean="Bajyan long horns you're mine!" />
+	<block key="am_fe_ga_0061_Description" korean="Taming the success of long horns bajyan" />
+	<block key="am_fe_ga_0062_Name" korean="Taming the failure of the long horns bajyan" />
+	<block key="am_fe_ga_0062_Description" korean="Bajyan Taming of long horns 10 times fail" />
+	<block key="am_fe_ga_0062_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0063_Name" korean="Martyrs of the village tyura you're mine!" />
+	<block key="am_fe_ga_0063_Description" korean="Martyrs do not succeed in taming tyura" />
+	<block key="am_fe_ga_0064_Name" korean="Thermal failed to tame the town of tyura" />
+	<block key="am_fe_ga_0064_Description" korean="10 failed to tame the town of Martyrs tyura" />
+	<block key="am_fe_ga_0064_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0065_Name" korean="The greater the destruction of North're mine!" />
+	<block key="am_fe_ga_0065_Description" korean="The destruction of the greater North Taming of success" />
+	<block key="am_fe_ga_0066_Name" korean="The Taming of the failure of large North ruin" />
+	<block key="am_fe_ga_0066_Description" korean="Taming the greater North 10th failure of Doom" />
+	<block key="am_fe_ga_0066_condition_0" korean="Taming the number of failures" />
+	<block key="am_dg_co_0008_Name" korean="[Scenario] of the ancient temple" />
+	<block key="am_dg_co_0008_Description" korean="Clear difficulty once the ancient temples scenario" />
+	<block key="am_dg_co_0008_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0009_Name" korean="[Scenario] explorers of the ancient temples" />
+	<block key="am_dg_co_0009_Description" korean="Ancient temples scenario difficulty clearing 10" />
+	<block key="am_dg_co_0009_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0010_Name" korean="[Elite] ancient temples" />
+	<block key="am_dg_co_0010_Description" korean="Elite difficulty once the ancient temples Clear" />
+	<block key="am_dg_co_0010_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0011_Name" korean="[Elite] explorers of the ancient temples" />
+	<block key="am_dg_co_0011_Description" korean="Clear 10 ancient temples Elite difficulty" />
+	<block key="am_dg_co_0011_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0012_Name" korean="[Hero] of the ancient temple" />
+	<block key="am_dg_co_0012_Description" korean="Clear Heroic difficulty once the ancient temples" />
+	<block key="am_dg_co_0012_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0013_Name" korean="[Hero] explorers of the ancient temples" />
+	<block key="am_dg_co_0013_Description" korean="Ancient temples Heroic difficulty clearing 10" />
+	<block key="am_dg_co_0013_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0014_Name" korean="[Legend] of the ancient temple" />
+	<block key="am_dg_co_0014_Description" korean="Legendary Difficulty cleared once the ancient temples" />
+	<block key="am_dg_co_0014_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0015_Name" korean="[Legend] explorers of the ancient temples" />
+	<block key="am_dg_co_0015_Description" korean="Legendary Difficulty Clear 10 ancient temples" />
+	<block key="am_dg_co_0015_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0016_Name" korean="[Scenario] Immortal Legion fort" />
+	<block key="am_dg_co_0016_Description" korean="Immortal Legion fortress scenario difficulty once cleared" />
+	<block key="am_dg_co_0016_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0017_Name" korean="[Scenario] conqueror of the immortal legions fortress" />
+	<block key="am_dg_co_0017_Description" korean="Immortal Legion fort difficulty clearing scenario 10 times" />
+	<block key="am_dg_co_0017_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0018_Name" korean="[Elite] Immortal Legion fort" />
+	<block key="am_dg_co_0018_Description" korean="Immortal Legion fort Elite difficulty once cleared" />
+	<block key="am_dg_co_0018_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0019_Name" korean="[Elite] conqueror of the immortal legions fortress" />
+	<block key="am_dg_co_0019_Description" korean="Immortal Legion fort Elite difficulty clearing 10" />
+	<block key="am_dg_co_0019_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0020_Name" korean="[Hero] Immortal Legion fort" />
+	<block key="am_dg_co_0020_Description" korean="Immortal Legion fort once cleared Heroic difficulty" />
+	<block key="am_dg_co_0020_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0021_Name" korean="[Hero] Conqueror's immortal army fort" />
+	<block key="am_dg_co_0021_Description" korean="Immortal Legion fort Heroic difficulty clearing 10" />
+	<block key="am_dg_co_0021_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0022_Name" korean="[Legend] Immortal Legion fort" />
+	<block key="am_dg_co_0022_Description" korean="Immortal Legion fort once legendary difficulty clearing" />
+	<block key="am_dg_co_0022_condition_0" korean="Be clear" />
+	<block key="am_dg_co_0023_Name" korean="[Legend] conqueror of the immortal legions fortress" />
+	<block key="am_dg_co_0023_Description" korean="Immortal Legion fort legendary difficulty clearing 10" />
+	<block key="am_dg_co_0023_condition_0" korean="Be clear" />
+	<block key="am_cb_mt_0007_Name" korean="Slayer Xenon \u003cred revolution only\u003e Aid" />
+	<block key="am_cb_mt_0007_Description" korean="Slayer Xenon \u003cred revolution only\u003e 1st Aid" />
+	<block key="am_cb_mt_0008_Name" korean="Selection colon Kasim \u003cred revolution only\u003e Aid" />
+	<block key="am_cb_mt_0008_Description" korean="Selection colon Kasim \u003cred revolution only\u003e 1st Aid" />
+	<block key="am_cb_mt_0009_Name" korean="Raja mageomsa bit \u003cred revolution only\u003e Aid" />
+	<block key="am_cb_mt_0009_Description" korean="Raja mageomsa bit \u003cred revolution only\u003e 1st Aid" />
+	<block key="am_cb_mt_0010_Name" korean="Warbringer free padin \u003cred revolution only\u003e Aid" />
+	<block key="am_cb_mt_0010_Description" korean="Warbringer free padin \u003cred revolution only\u003e 1st Aid" />
+	<block key="am_qu_zo_0000_Name" korean="Desert Explorers of immortality" />
+	<block key="am_qu_zo_0000_Description" korean="Desert Quest Immortal 268 completed" />
+	<block key="am_qu_zo_0000_condition_0" korean="Quests can be completed" />
+	<block key="tt_0_0_0083_contents_title_name" korean="Explorers of the desert" />
+	<block key="tt_0_0_0084_contents_title_name" korean="Conqueror of the Desert" />
+	<block key="tt_0_0_0085_contents_title_name" korean="Sharkey Taming of gold bars" />
+	<block key="tt_0_0_0086_contents_title_name" korean="Tame the dash in the Fall" />
+	<block key="am_co_gr_0000_Name" korean="Finally, level 50" />
+	<block key="am_co_gr_0000_Description" korean="Achieve level 50" />
+	<block key="am_co_gr_0000_condition_0" korean="Achieve level 50" />
+	<block key="am_fe_ga_0067_Name" korean="Sharkey bar of gold you're mine!" />
+	<block key="am_fe_ga_0067_Description" korean="Taming the success of the Golden Sharkey Bar" />
+	<block key="am_fe_ga_0068_Name" korean="Taming the failure of gold bars Sharkey" />
+	<block key="am_fe_ga_0068_Description" korean="Taming the 10th failure Sharkey bar of gold" />
+	<block key="am_fe_ga_0068_condition_0" korean="Taming the number of failures" />
+	<block key="am_fe_ga_0069_Name" korean="Pradesh in the fall you're mine!" />
+	<block key="am_fe_ga_0069_Description" korean="Taming the success of the Fall Pradesh" />
+	<block key="am_fe_ga_0070_Name" korean="Pradesh failed to tame the Fall" />
+	<block key="am_fe_ga_0070_Description" korean="10 failed to tame the Fall Pradesh" />
+	<block key="am_fe_ga_0070_condition_0" korean="Taming the number of failures" />
+	<block key="tt_0_0_0087_contents_title_name" korean="Friends of the leakage" />
+	<block key="tt_0_0_0088_contents_title_name" korean="Now just grab the land of the balance" />
+	<block key="tt_0_0_0089_contents_title_name" korean="He Knows You're Alone" />
+	<block key="tt_0_0_0090_contents_title_name" korean="Ancient temples explorer" />
+	<block key="tt_0_0_0091_contents_title_name" korean="Explorers of the Immortal Legion fort" />
+	<block key="tt_0_0_0092_contents_title_name" korean="Shining Star of the Desert" />
+	<block key="tt_0_0_0093_contents_title_name" korean="There's no promise!" />
+	<block key="tt_0_0_0094_contents_title_name" korean="Feeling hit 2015!" />
+</blocks>

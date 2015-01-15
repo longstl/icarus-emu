@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="intro_cha_warrior_list" korean="Warriors Description" />
+	<block key="intro_cha_warrior_desc" korean="The superior physical abilities are strong in close combat warrior armored as projected and guardians.\n\u003cbr\u003e \u003cbr\u003e\nDeals with the sword freely, with a strong attack and a strong physical choeseonbong always stands in the battle.\n\u003cbr\u003e \u003cbr\u003e\nPerforms the role of an enemy attack or defend stable in a variety of skills." />
+	<block key="intro_cha_priest_list" korean="Priest description" />
+	<block key="intro_cha_priest_desc" korean="Priests with reverence God has a powerful healing abilities.\n\u003cbr\u003e \u003cbr\u003e\nFellow of the safety and protection, is responsible for recovery, aid in combat or use offensive magic to protect themselves.\n\u003cbr\u003e \u003cbr\u003e\nThe treatment of deep wounds to the enemy through prayer, defeats the evil spirit." />
+	<block key="intro_cha_thief_list" korean="Assassin Description" />
+	<block key="intro_cha_thief_desc" korean="Is a professional amsalga was a member of the death squads.\n\u003cbr\u003e \u003cbr\u003e\nTheir main characteristic is infiltrated with surprise and has many skills that can be aimed at the intelligent enemy weaknesses.\n\u003cbr\u003e \u003cbr\u003e\nConfused by the enemy attempts to cut off the enemy's deadly attack puts his life in an instant." />
+	<block key="intro_cha_wizard_list" korean="Wizard Description" />
+	<block key="intro_cha_wizard_desc" korean="This exceptional mental ability Wizard uses powerful spells to attack and defend.\n\u003cbr\u003e \u003cbr\u003e\nArmor of the wizard is about, but to weaken the enemy or using powerful ranged magic from the rear to compensate for this.\n\u003cbr\u003e \u003cbr\u003e\nTo enhance the properties of allies or magic attack attributes can speak freely." />
+	<block key="intro_cha_nature_list" korean="Nature Description" />
+	<block key="intro_cha_nature_desc" korean="Nature has the ability to deal with the energy of nature, the view is excellent bow and covers a total well.\n\u003cbr\u003e \u003cbr\u003e\nBy changing the weather, or change the natural environment has the ability to create favorable conditions for co-workers.\n\u003cbr\u003e \u003cbr\u003e\nAttack enemies by summoning the spirits, or using natural products omits the relative chaos." />
+</blocks>

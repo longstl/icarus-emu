@@ -1,0 +1,867 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="TF_2comboslash_Name" korean="àÂ´Ì " />
+	<block key="TF_2comboslash_Description_1" korean="" />
+	<block key="TF_2comboslash_Description_2" korean="" />
+	<block key="TF_2comboslash_Description_3" korean="" />
+	<block key="TF_2comboslash_Description_4" korean="" />
+	<block key="TF_2comboslash_Description_5" korean="" />
+	<block key="TF_2comboslash_Description_6" korean="" />
+	<block key="TF_2comboslash_Description_7" korean="" />
+	<block key="TF_2comboslash_Description_8" korean="" />
+	<block key="TF_2comboslash_Description_9" korean="" />
+	<block key="TF_2comboslash_Description_10" korean="" />
+	<block key="TF_2comboslash_Description_11" korean="" />
+	<block key="TF_2comboslash_Description_12" korean="" />
+	<block key="TF_2comboslash_Description_13" korean="" />
+	<block key="TF_2comboslash_Description_14" korean="" />
+	<block key="TF_2comboslash_Description_15" korean="" />
+	<block key="TF_2comboslash_Description_16" korean="" />
+	<block key="TF_2comboslash_Description_17" korean="" />
+	<block key="TF_2comboslash_Description_18" korean="" />
+	<block key="TF_2comboslash_Description_19" korean="" />
+	<block key="TF_2comboslash_Description_20" korean="" />
+	<block key="TF_2comboslash2_Name" korean="àÂ´Ì " />
+	<block key="tf_agility_Name" korean="ü»©ÌhÕ" />
+	<block key="tf_agility_Description_1" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_agility_Description_2" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_agility_Description_3" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_agility_Description_4" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_agility_Description_5" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_agility_Description_6" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_agility_Description_7" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_agility_Description_8" korean="ŒÖ<Õ(ÇDÇ " />
+	<block key="tf_ambush_Name" korean="0®µÂ" />
+	<block key="tf_ambush_Description_1" korean="" />
+	<block key="tf_ambush_Description_2" korean="" />
+	<block key="tf_ambush_Description_3" korean="" />
+	<block key="tf_ambush_Description_4" korean="" />
+	<block key="tf_ambush_Description_5" korean="" />
+	<block key="tf_ambush_Description_6" korean="" />
+	<block key="tf_aterycut_Name" korean="Ù³å¹ " />
+	<block key="tf_aterycut_Description_1" korean="¼å²ÐÅ " />
+	<block key="tf_aterycut_Description_2" korean="¼å²ÐÅ " />
+	<block key="tf_aterycut_Description_3" korean="¼å²ÐÅ " />
+	<block key="tf_avatarexplosion_Name" korean="„½àÂ " />
+	<block key="tf_avatarexplosion_Description_1" korean="ŒÁXÖ\Õ " />
+	<block key="tf_avatarexplosion_Description_2" korean="ŒÁXÖ\Õ " />
+	<block key="tf_avatarexplosion_Description_3" korean="ŒÁXÖ\Õ " />
+	<block key="tf_avatarsummon_Name" korean="„½àÂ " />
+	<block key="tf_avatarsummon_Description_1" korean="Õ¸tÇ´Å@Æ " />
+	<block key="tf_avatarsummon_Description_2" korean="Õ¸tÇ´Å@Æ " />
+	<block key="tf_avatarsummon_Description_3" korean="Õ¸tÇ´Å@Æ " />
+	<block key="TF_backattack_Name" korean="	®´À" />
+	<block key="TF_backattack_Description_1" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_2" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_3" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_4" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_5" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_6" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_7" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_8" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_9" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_10" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_11" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_12" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_13" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_14" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_15" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_16" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_17" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_18" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_19" korean="ÃÂ\¸ " />
+	<block key="TF_backattack_Description_20" korean="ÃÂ\¸ " />
+	<block key="backattack_change_Name" korean="	®´À" />
+	<block key="backattack_change1_Name" korean="	®´À" />
+	<block key="backattack_change1_name" korean="	®´À" />
+	<block key="tf_backhead_Name" korean="ÄÖP´€½ " />
+	<block key="tf_backhead_Description_1" korean=",Ò…ºTÖ " />
+	<block key="tf_backhead_Description_2" korean=",Ò…ºTÖ " />
+	<block key="tf_backhead_Description_3" korean=",Ò…ºTÖ " />
+	<block key="tf_bodyblow_Name" korean="àÂ´Ì " />
+	<block key="tf_bodyblow_Description_1" korean="" />
+	<block key="tf_bodyblow_Description_2" korean="" />
+	<block key="tf_bodyblow_Description_3" korean="" />
+	<block key="tf_bodyblow_Description_4" korean="" />
+	<block key="TF_bola_Name" korean="ü¼|· " />
+	<block key="TF_bola_Description_1" korean="" />
+	<block key="TF_bola_Description_2" korean="" />
+	<block key="TF_bola_Description_3" korean="" />
+	<block key="TF_bola_Description_4" korean="" />
+	<block key="TF_bola_Description_5" korean="" />
+	<block key="tf_concusion_Name" korean="Ì±ÄÉÕÐ" />
+	<block key="tf_concusion_Description_1" korean=",Ò…ºTÖ " />
+	<block key="tf_concusion_Description_2" korean=",Ò…ºTÖ " />
+	<block key="tf_concusion_Description_3" korean=",Ò…ºTÖ " />
+	<block key="tf_concusion_Description_4" korean=",Ò…ºTÖ " />
+	<block key="TF_crump_Name" korean="íÓLÇÄÐ" />
+	<block key="TF_crump_Description_1" korean=" ÁÝÐ\Õ " />
+	<block key="TF_crump_Description_2" korean=" ÁÝÐ\Õ " />
+	<block key="TF_crump_Description_3" korean=" ÁÝÐ\Õ " />
+	<block key="tf_deepstab_Name" korean="J®Œ¬ " />
+	<block key="tf_deepstab_Description_1" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_2" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_3" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_4" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_5" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_6" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_7" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_8" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_9" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_10" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_11" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_12" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_13" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_14" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_15" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_16" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_17" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_18" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_19" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstab_Description_20" korean="|ÇÈp¬¬¹ÐÅÁ " />
+	<block key="tf_deepstabchange_Name" korean="J®Œ¬ " />
+	<block key="tf_extinction_Name" korean="ÁÀ	® " />
+	<block key="tf_extinction_Description_1" korean="È,ÒÉÐÅ " />
+	<block key="tf_extinction_Description_2" korean="È,ÒÉÐÅ " />
+	<block key="tf_extinction_Description_3" korean="È,ÒÉÐÅ " />
+	<block key="tf_extinctionbomb_Name" korean="ŒÁxºÄÐ" />
+	<block key="tf_extinctionbomb_Description_1" korean="ÂÈÉ" />
+	<block key="tf_extinctionbomb_Description_2" korean="ÂÈÉ" />
+	<block key="tf_extinctionbomb_Description_3" korean="ÂÈÉ" />
+	<block key="TF_flash_Name" korean=",Á­©¬" />
+	<block key="TF_flash_Description_1" korean="¬\Õ " />
+	<block key="TF_flash_Description_2" korean="¬\Õ " />
+	<block key="TF_flash_Description_3" korean="¬\Õ " />
+	<block key="TF_flashboom_Name" korean=",Á­ " />
+	<block key="TF_flashboom_Description_1" korean="ÈtÇ " />
+	<block key="TF_flashboom_Description_2" korean="ÈtÇ " />
+	<block key="TF_flashboom_Description_3" korean="ÈtÇ " />
+	<block key="TF_flashboom_Description_4" korean="ÈtÇ " />
+	<block key="tf_gauntletgaurd_Name" korean=",Ò¬ " />
+	<block key="tf_gauntletgaurd_Description_1" korean="|ÇÈ " />
+	<block key="tf_gauntletgaurd_Description_2" korean="|ÇÈ " />
+	<block key="tf_gauntletgaurd_Description_3" korean="|ÇÈ " />
+	<block key="tf_heartblow_Name" korean="ìÂ¥Ç " />
+	<block key="tf_heartblow_Description_1" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_heartblow_Description_2" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_heartblow_Description_3" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_heartblow_Description_4" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_heartpiercing_Name" korean="ìÂ¥Ç " />
+	<block key="tf_heartpiercing_Description_1" korean="ìÂ¥Ç " />
+	<block key="tf_heartpiercing_Description_2" korean="ìÂ¥Ç " />
+	<block key="tf_heartpiercing_Description_3" korean="ìÂ¥Ç " />
+	<block key="tf_legattack_Name" korean="ä²¬¹ " />
+	<block key="tf_legattack_Description_1" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_legattack_Description_2" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_legattack_Description_3" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_legattack_Description_4" korean="Ì±ÄÉÕÐ " />
+	<block key="tf_legattack_Description_5" korean="Ì±ÄÉÕÐ " />
+	<block key="TF_memoryoff_Name" korean="Ì³$¸(Ì0®" />
+	<block key="TF_memoryoff_Description_1" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_2" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_3" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_4" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_5" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_6" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_7" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_8" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_9" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_10" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_11" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_12" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_13" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_14" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_15" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_16" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_17" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_18" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_19" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_Description_20" korean="Ì³$¸(Ì0®\¸ " />
+	<block key="TF_memoryoff_change_Name" korean="Ì³$¸(Ì0®" />
+	<block key="memoryoff_change_Name" korean="Ì³$¸(Ì0®" />
+	<block key="TF_mirrorimage_Name" korean="”ÇÁÀ" />
+	<block key="TF_mirrorimage_Description_1" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_2" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_3" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_4" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_5" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_6" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_7" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_8" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_9" korean="”ÇÁÀDÇ " />
+	<block key="TF_mirrorimage_Description_10" korean="”ÇÁÀDÇ " />
+	<block key="tf_nelson_Name" korean="(ÂµÑ " />
+	<block key="tf_nelson_Description_1" korean=",Ò…ºTÖ " />
+	<block key="tf_nelson_Description_2" korean=",Ò…ºTÖ " />
+	<block key="tf_nelson_Description_3" korean=",Ò…ºTÖ " />
+	<block key="tf_nelson_Description_4" korean=",Ò…ºTÖ " />
+	<block key="tf_nelson_Description_5" korean=",Ò…ºTÖ " />
+	<block key="tf_nelson_Description_6" korean=",Ò…ºTÖ " />
+	<block key="tf_netthrow_Name" korean="ø­<» " />
+	<block key="tf_netthrow_Description_1" korean="" />
+	<block key="tf_netthrow_Description_2" korean="" />
+	<block key="tf_netthrow_Description_3" korean="" />
+	<block key="tf_netthrow_Description_4" korean="" />
+	<block key="tf_poisonpiercing_Name" korean="Å³ " />
+	<block key="tf_poisonpiercing_Description_1" korean="Å³tÇ " />
+	<block key="tf_poisonpiercing_Description_2" korean="Å³tÇ " />
+	<block key="tf_poisonpiercing_Description_3" korean="Å³tÇ " />
+	<block key="tf_poisonpiercing_Description_4" korean="Å³tÇ " />
+	<block key="tf_poisonpiercing_Description_5" korean="Å³tÇ " />
+	<block key="tf_quickmove_Name" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_1" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_2" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_3" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_4" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_5" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_6" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_7" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_8" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_9" korean="0®ü»\Õ " />
+	<block key="tf_quickmove_Description_10" korean="0®ü»\Õ " />
+	<block key="tf_sandthrow_Name" korean="¨º˜· " />
+	<block key="tf_sandthrow_Description_1" korean="Õ¸tÇ´Å " />
+	<block key="tf_sandthrow_Description_2" korean="Õ¸tÇ´Å " />
+	<block key="tf_sandthrow_Description_3" korean="Õ¸tÇ´Å " />
+	<block key="tf_shadowattack_Name" korean="ø­¼¹Ç " />
+	<block key="tf_shadowattack_Description_1" korean="|ÇÈ " />
+	<block key="tf_shadowattack_Description_2" korean="|ÇÈ " />
+	<block key="tf_shadowattack_Description_3" korean="|ÇÈ " />
+	<block key="TF_shadowextinction_Name" korean="ø­¼¹Ç " />
+	<block key="TF_shadowextinction_Description_1" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_2" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_3" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_4" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_5" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_6" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_7" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_8" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_9" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_10" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_11" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_12" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_13" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_14" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_15" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_16" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_17" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_18" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_19" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="TF_shadowextinction_Description_20" korean="ÈÇ¬¹ÐÅÁ " />
+	<block key="tf_smokebomb_Name" korean="ðÅÉ¹ÄÐ" />
+	<block key="tf_smokebomb_Description_1" korean="Õ¸tÇ´Å" />
+	<block key="tf_smokebomb_Description_2" korean="Õ¸tÇ´Å" />
+	<block key="tf_smokebomb_Description_3" korean="Õ¸tÇ´Å" />
+	<block key="tf_smokebomb_Description_4" korean="Õ¸tÇ´Å" />
+	<block key="tf_spinefracture_Name" korean="™Ì”Í " />
+	<block key="tf_spinefracture_Description_1" korean=",Á­ " />
+	<block key="tf_spinefracture_Description_2" korean=",Á­ " />
+	<block key="tf_spinefracture_Description_3" korean=",Á­ " />
+	<block key="TF_sprint_Name" korean="È%¸ " />
+	<block key="TF_sprint_Description_1" korean="1" />
+	<block key="TF_sprint_Description_2" korean="1" />
+	<block key="TF_sprint_Description_3" korean="1" />
+	<block key="TF_sprint_Description_4" korean="1" />
+	<block key="TF_sprint_Description_5" korean="1" />
+	<block key="TF_sprint_Description_6" korean="1" />
+	<block key="TF_sprint_Description_7" korean="1" />
+	<block key="TF_sprint_Description_8" korean="1" />
+	<block key="TF_sprint_Description_9" korean="1" />
+	<block key="TF_sprint_Description_10" korean="1" />
+	<block key="tf_stomachblow_Name" korean="…ºXÎ " />
+	<block key="tf_stomachblow_Description_1" korean="" />
+	<block key="tf_stomachblow_Description_2" korean="" />
+	<block key="tf_stomachblow_Description_3" korean="" />
+	<block key="tf_stomachblow_Description_4" korean="" />
+	<block key="tf_stomachblow_Description_5" korean="" />
+	<block key="tf_stomachblow_Description_6" korean="" />
+	<block key="tf_stomachblow_Description_7" korean="" />
+	<block key="tf_stomachblow_Description_8" korean="" />
+	<block key="TF_transparency_Name" korean=",Ò…ºTÖ" />
+	<block key="TF_transparency_Description_1" korean=",Ò…ºTÖ " />
+	<block key="TF_transparency_Description_2" korean=",Ò…ºTÖ " />
+	<block key="TF_transparency_Description_3" korean=",Ò…ºTÖ " />
+	<block key="TF_transparency_Description_4" korean=",Ò…ºTÖ " />
+	<block key="tf_bola01_Name" korean="ü¼|·" />
+	<block key="tf_bola01_description_1" korean="ü¼|· " />
+	<block key="tf_bola01_description_2" korean="ü¼|· " />
+	<block key="tf_bola01_description_3" korean="ü¼|· " />
+	<block key="tf_crumpani_Name" korean="íÓLÇÄÐ(" />
+	<block key="tf_crumpani_description_1" korean="íÓLÇÄÐ(" />
+	<block key="tf_flashboom01_Name" korean=",Á­ " />
+	<block key="tf_flashboom01_description_1" korean=",Á­ " />
+	<block key="tf_shadowextinction0_Name" korean="ø­¼¹Ç " />
+	<block key="tf_shadowextinction0_description_1" korean="ø­¼¹Ç " />
+	<block key="tf_shadowextinction0_description_2" korean="ø­¼¹Ç " />
+	<block key="tf_shadowextinction0_description_3" korean="ø­¼¹Ç " />
+	<block key="tf_shadowextinction0_description_4" korean="ø­¼¹Ç " />
+	<block key="tf_shadowextinction0_description_5" korean="ø­¼¹Ç " />
+	<block key="tf_1handsword_Name" korean="\ÕÁ " />
+	<block key="tf_1handsword_description_1" korean="\ÕÁ " />
+	<block key="tf_chain_Name" korean="¬À¬Â " />
+	<block key="tf_chain_description_1" korean="¬À¬Â¬ÇÈÉXÇ " />
+	<block key="tf_cloth_Name" korean="œÌ " />
+	<block key="tf_cloth_description_1" korean="œÌ¬ÇÈÉXÇ " />
+	<block key="tf_dagger_Name" korean="è²€¬ " />
+	<block key="tf_dagger_description_1" korean="è²€¬DÇ " />
+	<block key="tf_duel_Name" korean="ÃÂ " />
+	<block key="tf_duel_description_1" korean="‘ÅÁÐÅ " />
+	<block key="tf_gauntlet_Name" korean=",Ò¬ " />
+	<block key="tf_gauntlet_description_1" korean=",Ò¬DÇ " />
+	<block key="tf_leather_Name" korean="" />
+	<block key="tf_leather_description_1" korean="" />
+	<block key="tf_aircombo_Name" korean="õ¬É " />
+	<block key="tf_aircombo_description_1" korean="´ÀXÇXÇ " />
+	<block key="tf_attbreak_Name" korean="õ¬©¬%¸ " />
+	<block key="tf_attbreak_description_1" korean=",Ò¬<Ç\¸ " />
+	<block key="tf_bodybreak_Name" korean="àÂ´Ì " />
+	<block key="tf_bodybreak_description_1" korean="õ¬©¬%¸ " />
+	<block key="tf_deathatt_Name" korean="´ÀXÇXÇ " />
+	<block key="tf_deathatt_description_1" korean=",Ò…ºTÖ " />
+	<block key="tf_defbreak_Name" korean=")¼´Å%¸ " />
+	<block key="tf_defbreak_description_1" korean=",Ò¬<Ç\¸ " />
+	<block key="tf_destruction_Name" korean="Óxº" />
+	<block key="tf_destruction_description_1" korean="õ¬É " />
+	<block key="tf_dropatt_Name" korean="¼å² " />
+	<block key="tf_dropatt_description_1" korean="´ÀXÇXÇ " />
+	<block key="tf_lastatt_Name" korean="È¹4»¬¹ " />
+	<block key="tf_lastatt_description_1" korean="	±ä²´Æ " />
+	<block key="tf_lungecombo_Name" korean="ðÅÁ " />
+	<block key="tf_lungecombo_description_1" korean=")¼´Å%¸ " />
+	<block key="tf_mindbreak_Name" korean="ÈàÂ " />
+	<block key="tf_mindbreak_description_1" korean="õ¬©¬%¸ " />
+	<block key="tf_nerveparalysis_Name" korean="àÂ½¬ " />
+	<block key="tf_nerveparalysis_description_1" korean="õ¬É " />
+	<block key="tf_backdash_Name" korean="¬©¬ " />
+	<block key="tf_backdash_description_1" korean="" />
+	<block key="tf_backdash_description_2" korean="" />
+	<block key="tf_backdash_description_3" korean="" />
+	<block key="tf_backdash_description_4" korean="" />
+	<block key="tf_backdash_description_5" korean="" />
+	<block key="tf_backdash_description_6" korean="" />
+	<block key="tf_backdash_description_7" korean="" />
+	<block key="tf_backdash_description_8" korean="" />
+	<block key="tf_backdash_description_9" korean="" />
+	<block key="tf_backdash_description_10" korean="" />
+	<block key="tf_doublejump_Name" korean="2" />
+	<block key="tf_doublejump_description_1" korean="ÈÕ " />
+	<block key="tf_doublejump_description_2" korean="ÈÕ " />
+	<block key="tf_doublejump_description_3" korean="ÈÕ " />
+	<block key="tf_doublejump_description_4" korean="ÈÕ " />
+	<block key="tf_doublejump_description_5" korean="ÈÕ " />
+	<block key="tf_doublejump_description_6" korean="ÈÕ " />
+	<block key="tf_doublejump_description_7" korean="ÈÕ " />
+	<block key="tf_doublejump_description_8" korean="ÈÕ " />
+	<block key="tf_doublejump_description_9" korean="ÈÕ " />
+	<block key="tf_doublejump_description_10" korean="ÈÕ " />
+	<block key="tf_doublejumplink_Name" korean="2" />
+	<block key="tf_doublejumplink_description_1" korean="ÈÕ " />
+	<block key="tf_scissorskick_Name" korean="¼ì²(Ì0®" />
+	<block key="tf_scissorskick_description_1" korean="" />
+	<block key="tf_scissorskick_description_2" korean="" />
+	<block key="tf_scissorskick_description_3" korean="" />
+	<block key="tf_scissorskick_description_4" korean="" />
+	<block key="tf_scissorskick_description_5" korean="" />
+	<block key="tf_scissorskick_description_6" korean="" />
+	<block key="tf_scissorskick_description_7" korean="" />
+	<block key="tf_scissorskick_description_8" korean="" />
+	<block key="tf_scissorskick_description_9" korean="" />
+	<block key="tf_scissorskick_description_10" korean="" />
+	<block key="tf_scissorskick_description_11" korean="" />
+	<block key="tf_scissorskick_description_12" korean="" />
+	<block key="tf_scissorskick_description_13" korean="" />
+	<block key="tf_scissorskick_description_14" korean="" />
+	<block key="tf_scissorskick_description_15" korean="" />
+	<block key="tf_scissorskick_description_16" korean="" />
+	<block key="tf_scissorskick_description_17" korean="" />
+	<block key="tf_scissorskick_description_18" korean="" />
+	<block key="tf_scissorskick_description_19" korean="" />
+	<block key="tf_scissorskick_description_20" korean="" />
+	<block key="tf_scissorskickchange_Name" korean="¼ì²(Ì0®" />
+	<block key="tf_pour_Name" korean="ÄÁÄ³" />
+	<block key="tf_pour_description_1" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_2" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_3" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_4" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_5" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_6" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_7" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_8" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_9" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_10" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_11" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_12" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_13" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_14" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_15" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_16" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_17" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_18" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_19" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pour_description_20" korean="¬À¬Â«°DÇ " />
+	<block key="tf_pourchange_Name" korean="ÄÁÄ³" />
+	<block key="tf_crescentcut_Name" korean="ì²[¾" />
+	<block key="tf_crescentcut_description_1" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_1_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_2" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_2_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_3" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_3_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_4" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_4_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_5" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_5_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_6" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_6_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_7" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_7_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_8" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_8_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_9" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_9_attach_0" korean="
+" />
+	<block key="tf_crescentcut_description_10" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_description_10_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_11" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_11_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_12" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_12_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_13" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_13_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_14" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_14_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_15" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_15_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_16" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_16_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_17" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_17_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_18" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_18_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_19" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_19_attach_0" korean="
+" />
+	<block key="tf_crescentcut_Description_20" korean="ÐÆp¬¬¹XÇ " />
+	<block key="tf_crescentcut_Description_20_attach_0" korean="
+" />
+	<block key="tf_crescentcut2_Name" korean="ì²[¾" />
+	<block key="tf_crescentcut3_Name" korean="ì²[¾" />
+	<block key="tf_crescentcut4_Name" korean="ì²[¾" />
+	<block key="tf_crescentcut5_Name" korean="ì²[¾" />
+	<block key="tf_footattack_Name" korean="(Ì0®" />
+	<block key="tf_footattack_description_1" korean="²´Å " />
+	<block key="tf_daggermake_Name" korean="è²Ä³ " />
+	<block key="tf_daggermake_description_1" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_2" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_3" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_4" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_5" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_6" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_7" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_8" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_9" korean="è²Ä³|¹ " />
+	<block key="tf_daggermake_description_10" korean="è²Ä³|¹ " />
+	<block key="tf_throwdagger_air_Name" korean="è²Ä³ " />
+	<block key="tf_throwdagger_air_description_1" korean="È " />
+	<block key="tf_throwdagger_air_description_2" korean="È " />
+	<block key="tf_throwdagger_air_description_3" korean="È " />
+	<block key="tf_throwdagger_air_description_4" korean="È " />
+	<block key="tf_throwdagger_air_description_5" korean="È " />
+	<block key="tf_throwdagger_air_description_6" korean="È " />
+	<block key="tf_throwdagger_air_description_7" korean="È " />
+	<block key="tf_throwdagger_air_description_8" korean="È " />
+	<block key="tf_throwdagger_air_description_9" korean="È " />
+	<block key="tf_throwdagger_air_description_10" korean="È " />
+	<block key="tf_throwdagger2_air_name" korean="è²Ä³ " />
+	<block key="tf_throwdagger3_air_name" korean="è²Ä³ " />
+	<block key="tf_throwdagger4_air_name" korean="è²Ä³ " />
+	<block key="tf_naturalability_Name" korean="ÀÐà¬œ° " />
+	<block key="tf_naturalability_description_1" korean="<" />
+	<block key="tf_naturalability_description_2" korean="<" />
+	<block key="tf_naturalability_description_3" korean="<" />
+	<block key="tf_naturalability_description_4" korean="<" />
+	<block key="tf_naturalability_description_5" korean="<" />
+	<block key="tf_naturalability_description_6" korean="<" />
+	<block key="tf_naturalability_description_7" korean="<" />
+	<block key="tf_naturalability_description_8" korean="<" />
+	<block key="tf_naturalability_description_9" korean="<" />
+	<block key="tf_naturalability_description_10" korean="<" />
+	<block key="tf_sprigcut_Name" korean="" />
+	<block key="tf_sprigcut_description_1" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_2" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_3" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_4" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_5" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_6" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_7" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_8" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_9" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_10" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_11" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_12" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_13" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_14" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_15" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_16" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_17" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_18" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_19" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcut_description_20" korean="`¾t¹Œ¬ " />
+	<block key="tf_sprigcutchange_Name" korean="" />
+	<block key="tf_sprigcut2_Name" korean="" />
+	<block key="tf_sprigcut3_Name" korean="" />
+	<block key="sprigcut_change_name" korean="<" />
+	<block key="tf_sprigbreak_Name" korean="" />
+	<block key="tf_sprigbreak_description_1" korean="" />
+	<block key="tf_sprigbreak_description_2" korean="" />
+	<block key="tf_sprigbreak_description_3" korean="" />
+	<block key="tf_sprigbreak_description_4" korean="" />
+	<block key="tf_sprigbreak_description_5" korean="" />
+	<block key="tf_sprigbreak_description_6" korean="" />
+	<block key="tf_sprigbreak_description_7" korean="" />
+	<block key="tf_sprigbreak_description_8" korean="" />
+	<block key="tf_sprigbreak_description_9" korean="" />
+	<block key="tf_sprigbreak_description_10" korean="" />
+	<block key="tf_sprigbreak_description_11" korean="" />
+	<block key="tf_sprigbreak_description_12" korean="" />
+	<block key="tf_sprigbreak_description_13" korean="" />
+	<block key="tf_sprigbreak_description_14" korean="" />
+	<block key="tf_sprigbreak_description_15" korean="" />
+	<block key="tf_sprigbreak_description_16" korean="" />
+	<block key="tf_sprigbreak_description_17" korean="" />
+	<block key="tf_sprigbreak_description_18" korean="" />
+	<block key="tf_sprigbreak_description_19" korean="" />
+	<block key="tf_sprigbreak_description_20" korean="" />
+	<block key="tf_sprigbreakchange_Name" korean="" />
+	<block key="sprigbreakchange_Name" korean="" />
+	<block key="tf_sprigtread_Name" korean="" />
+	<block key="tf_sprigtread_description_1" korean="" />
+	<block key="tf_sprigtread_description_2" korean="" />
+	<block key="tf_sprigtread_description_3" korean="" />
+	<block key="tf_sprigtread_description_4" korean="" />
+	<block key="tf_sprigtread_description_5" korean="" />
+	<block key="tf_sprigtread_description_6" korean="" />
+	<block key="tf_sprigtread_description_7" korean="" />
+	<block key="tf_sprigtread_description_8" korean="" />
+	<block key="tf_sprigtread_description_9" korean="" />
+	<block key="tf_sprigtread_description_10" korean="" />
+	<block key="tf_sprigtread_description_11" korean="" />
+	<block key="tf_sprigtread_description_12" korean="" />
+	<block key="tf_sprigtread_description_13" korean="" />
+	<block key="tf_sprigtread_description_14" korean="" />
+	<block key="tf_sprigtread_description_15" korean="" />
+	<block key="tf_sprigtread_description_16" korean="" />
+	<block key="tf_sprigtread_description_17" korean="" />
+	<block key="tf_sprigtread_description_18" korean="" />
+	<block key="tf_sprigtread_description_19" korean="" />
+	<block key="tf_sprigtread_description_20" korean="" />
+	<block key="tf_sprigtreadchange_Name" korean="" />
+	<block key="tf_leafsmash_Name" korean="™°ýÅ¨µl­0®" />
+	<block key="tf_leafsmash_description_1" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_2" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_3" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_4" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_5" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_6" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_7" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_8" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_9" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafsmash_description_10" korean="¬À¬Â«°XÇ " />
+	<block key="tf_leafcut_Name" korean="™°ýÅ" />
+	<block key="tf_leafcut_description_1" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_2" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_3" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_4" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_5" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_6" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_7" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_8" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_9" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_10" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_11" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_12" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_13" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_14" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_15" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_16" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_17" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_18" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_19" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_leafcut_description_20" korean="õ¬ÉÐÅÁ " />
+	<block key="critical_link_Name" korean="ÁÀ˜Ì " />
+	<block key="critical_link_Description_1" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_2" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_3" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_4" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_5" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_6" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_7" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_8" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_9" korean="¬%¸\Õ " />
+	<block key="critical_link_Description_10" korean="¬%¸\Õ " />
+	<block key="tf_sidestepr_Name" korean="$Æx¹½Ê " />
+	<block key="tf_sidestepr_description_1" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_2" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_3" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_4" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_5" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_6" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_7" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_8" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_9" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepr_description_10" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_Name" korean="|Æ½Ê " />
+	<block key="tf_sidestepl_description_1" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_2" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_3" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_4" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_5" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_6" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_7" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_8" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_9" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_sidestepl_description_10" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_Name" korean="¬©¬ " />
+	<block key="tf_frontdash_description_1" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_2" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_3" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_4" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_5" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_6" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_7" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_8" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_9" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_frontdash_description_10" korean=" °5¸XÕŒ¬ " />
+	<block key="tf_tpamp_Name" korean="¤ÂÜÐø»± " />
+	<block key="tf_tpamp_description_1" korean="<" />
+	<block key="tf_tpamp_description_2" korean="<" />
+	<block key="tf_tpamp_description_3" korean="<" />
+	<block key="tf_tpamp_description_4" korean="<" />
+	<block key="tf_tpamp_description_5" korean="<" />
+	<block key="tf_tpamp_description_6" korean="<" />
+	<block key="tf_tpamp_description_7" korean="<" />
+	<block key="tf_tpamp_description_8" korean="<" />
+	<block key="tf_tpamp_description_9" korean="<" />
+	<block key="tf_tpamp_description_10" korean="<" />
+	<block key="tf_tplimit_Name" korean="Â	® " />
+	<block key="tf_tplimit_description_1" korean="" />
+	<block key="tf_tplimit_description_2" korean="" />
+	<block key="tf_tplimit_description_3" korean="" />
+	<block key="tf_tplimit_description_4" korean="" />
+	<block key="tf_tplimit_description_5" korean="" />
+	<block key="tf_tplimit_description_6" korean="" />
+	<block key="tf_tplimit_description_7" korean="" />
+	<block key="tf_tplimit_description_8" korean="" />
+	<block key="tf_tplimit_description_9" korean="" />
+	<block key="tf_tplimit_description_10" korean="" />
+	<block key="tf_tired_Name" korean="<Õ\¸" />
+	<block key="tf_tired_description_1" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_2" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_3" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_4" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_5" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_6" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_7" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_8" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_9" korean="0®ü»\Õ " />
+	<block key="tf_tired_description_10" korean="0®ü»\Õ " />
+	<block key="tf_tpincrease_Name" korean="<Õ\¸²È" />
+	<block key="tf_tpincrease_description_1" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_2" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_3" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_4" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_5" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_6" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_7" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_8" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_9" korean="<Õ\¸" />
+	<block key="tf_tpincrease_description_10" korean="<Õ\¸" />
+	<block key="tf_backcritical_Name" korean="Á˜²\Õ " />
+	<block key="tf_backcritical_description_1" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_2" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_3" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_4" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_5" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_6" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_7" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_8" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_9" korean="´ÅÃàÂXÇ " />
+	<block key="tf_backcritical_description_10" korean="´ÅÃàÂXÇ " />
+	<block key="tf_normalattack_Name" korean="ÇÙ³ " />
+	<block key="tf_normalattack_description_1" korean="" />
+	<block key="tf_deathpoison_name" korean="ù¹Å³" />
+	<block key="deathpoison1_name" korean="àÂ½¬Å³" />
+	<block key="deathpoison2_name" korean="ÈàÂÅ³" />
+	<block key="tf_deathpoison_name_Description_1" korean="Å³DÇ " />
+	<block key="tf_daggersong_name" korean="è²€¬XÇ " />
+	<block key="tf_daggersong_Description_1" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_2" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_3" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_4" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_5" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_6" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_7" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_8" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_9" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_daggersong_Description_10" korean="ÄÖ)¼<Ç\¸ " />
+	<block key="tf_deathpoison_Description_1" korean="è²€¬ÐÅ " />
+	<block key="tf_deathpoison_Description_1_attach_0" korean="
+" />
+	<block key="scissorskickchange_name" korean="<" />
+	<block key="tf_sprigtread2_name" korean="" />
+	<block key="tf_avoid_name" korean="ŒÖ<ÕÉ" />
+	<block key="sprigtreadchange_name" korean="" />
+	<block key="tf_sprigcut1_1_Name" korean="ù¹Å³" />
+	<block key="tf_sprigcut2_2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_sprigcut2_3_Name" korean="ÈàÂÅ³" />
+	<block key="tf_sprigcut2_1_Name" korean="ù¹Å³" />
+	<block key="sprigcut2_change_Name" korean="" />
+	<block key="sprigcut3_change_Name" korean="" />
+	<block key="tf_sprigcut2_4_Name" korean="àÂ½¬Å³" />
+	<block key="tf_sprigcut2_5_Name" korean="ÈàÂÅ³" />
+	<block key="tf_sprigcut3_1_Name" korean="ù¹Å³" />
+	<block key="tf_sprigcut3_2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_sprigcut3_3_Name" korean="ÈàÂÅ³" />
+	<block key="sprigbreakchangelink_Name" korean="" />
+	<block key="tf_shadowextinction1_Name" korean="ù¹Å³" />
+	<block key="tf_shadowextinction2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_shadowextinction3_Name" korean="ÈàÂÅ³" />
+	<block key="ft_deepstab_1_Name" korean="ù¹Å³" />
+	<block key="tf_deepstab_2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_deepstab_3_Name" korean="ÈàÂÅ³" />
+	<block key="tf_daggersong2_Name" korean="è²€¬XÇ " />
+	<block key="tf_throwdagger_air_1_Name" korean="ù¹Å³" />
+	<block key="tf_throwdagger_air2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_throwdagger_air3_Name" korean="ÈàÂÅ³" />
+	<block key="tf_thowdagger1_1_Name" korean="ù¹Å³" />
+	<block key="tf_thowdagger1_2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_thowdagger1_3_Name" korean="ÈàÂÅ³" />
+	<block key="tf_crescentcut1_1_Name" korean="ì²[¾" />
+	<block key="tf_crescentcut1_2_Name" korean="ì²[¾" />
+	<block key="tf_crescentcut1_3_Name" korean="ì²[¾" />
+	<block key="memoryoff_dummy_Name" korean="Ì³$¸(Ì0®" />
+	<block key="tf_deathpoison1_1_Name" korean="ù¹Å³" />
+	<block key="tf_backattack1_1_Name" korean="ù¹Å³" />
+	<block key="tf_backattack1_2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_backattack1_3_Name" korean="ÈàÂÅ³" />
+	<block key="deathpoison2_1_Name" korean="àÂ½¬Å³" />
+	<block key="tf_2comboslash1_1_Name" korean="ù¹Å³" />
+	<block key="tf_2comboslash1_2_Name" korean="àÂ½¬Å³" />
+	<block key="tf_2comboslash1_3_Name" korean="ÈàÂÅ³" />
+	<block key="deathpoison3_1_Name" korean="ÈàÂÅ³" />
+	<block key="tf_dangerarea_Name" korean="ÇØÕÀÉ" />
+	<block key="dangerarealink_Name" korean="ÇØÕÀÉ" />
+	<block key="dangerarealink1_Name" korean="ÇØÕÀÉ" />
+	<block key="dangerarealink2_Name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerarea_Description_1" korean="1" />
+	<block key="tf_fiercewhisper_Name" korean="ä¹Á´Æ " />
+	<block key="tf_fiercewhisper_Description_1" korean="ÇÖ " />
+	<block key="tf_dodgebackdash_Name" korean=" °5¸\Õ " />
+	<block key="tf_dodgebackdash_Description_1" korean="ÇàÂtÇ " />
+	<block key="tf_dodgebackdash2_Name" korean=" °5¸\Õ " />
+	<block key="tf_dodgebackdash2_Description_1" korean="ÇàÂtÇ " />
+	<block key="tf_dangerareaatk_Name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerareaatk_description_1" korean="P´¬XÇ " />
+	<block key="tf_skillbook1_name" korean="´ÀDÅˆÇ”² " />
+	<block key="tf_skillbook2_name" korean="¬¬ÈxÇ " />
+	<block key="tf_skillbook1_Description_1" korean="´ÅÃàÂXÇ " />
+	<block key="tf_skillbook2_Description_1" korean="´ÅÃàÂXÇ " />
+	<block key="tf_dangerareaatkb1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink2_name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerareaatk4_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink6_name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerareaatkr1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink1_name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerareaatk2_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink4_name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerareaatk5_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink7_name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerareaatk3_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink5_name" korean="ÇØÕÀÉ" />
+	<block key="tf_dangerareaatkg1_name" korean="ÇØÕÀÉ" />
+	<block key="dangerareaatklink3_name" korean="ÇØÕÀÉ" />
+	<block key="tf_spincut_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutr_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutg_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutb_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutrg_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutrb_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutgb_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutrgb_name" korean="•ÍŒÖÈ " />
+	<block key="tf_spincutr_link1_name" korean="•ÍŒÖÈ " />
+	<block key="tf_boardbuffskill_Name" korean="[" />
+	<block key="tf_boardbuffskill_description_1" korean="ÑÐ¹Â " />
+	<block key="tf_spincut_description_1" korean="È)¼<Ç\¸ " />
+	<block key="rs_tf_sprigbreak_description" korean="" />
+	<block key="critical_scratch_Name" korean="œÍÖ" />
+	<block key="tf_leafcutlink_Name" korean="™°ýÅ" />
+	<block key="tf_leafcutlink_description_1" korean="õ¬ÉÐÅÁ " />
+	<block key="tf_calm_name" korean="hÎ)Ì\Õ " />
+	<block key="tf_calm_description_1" korean="hÎ)Ì\Õ " />
+	<block key="tf_newbies01_Name" korean="ìÅàÂXÇ " />
+	<block key="tf_newbies01_Description_1" korean="ØÅ\¸|· " />
+	<block key="tf_skillbook3_name" korean="¬TÖ´ " />
+	<block key="tf_skillbook3_Description_1" korean="´ÅÃàÂXÇ " />
+	<block key="tf_knifestorm_Name" korean="|Î °íÓÔ" />
+	<block key="tf_knifestorm_Description_1" korean="|Î ° " />
+	<block key="tf_weakpoint_Name" korean="}ÅÈ " />
+	<block key="tf_weakpoint_description_1" korean="ÁÀ˜Ì" />
+	<block key="tf_speedknife_Name" korean="àÂÁ\Õ " />
+	<block key="tf_speedknife_description_1" korean="üÈÀ¼ " />
+	<block key="tf_quickblade_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladeb_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickblader_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladerb_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladeg_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladegb_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladegr_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladergb_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladelink_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickbladelink2_name" korean="àÂÁ\Õ " />
+	<block key="tf_quickblade_description_1" korean="´ÅÃàÂXÇ " />
+	<block key="tf_knistorm_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistormg_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistormr_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistormb_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistormrg_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistormbg_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistormbr_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistormrgb_name" korean="|Î °íÓÔ" />
+	<block key="knistormlinkg_name" korean="|Î °íÓÔ" />
+	<block key="tf_knistorm_description_1" korean="|Î °íÓÔDÇ " />
+	<block key="tf_glory_name" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_1" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_2" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_3" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_4" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_5" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_6" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_7" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_8" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_9" korean="´ÅÃàÂXÇ " />
+	<block key="tf_glory_description_10" korean="´ÅÃàÂXÇ " />
+	<block key="tf_movedown_name" korean="[" />
+</blocks>

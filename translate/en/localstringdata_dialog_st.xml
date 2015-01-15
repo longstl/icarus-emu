@@ -1,0 +1,535 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Dialog_1050001_Title" korean="Rector vigilante roster" />
+	<block key="Dialog_1050001_Text0" korean="Heoheo! Young friends watna recently?\n\u003cbr\u003e \u003cbr\u003e\nRaiders want some help relegate'll do. I let things happened because of pirate fishermen." />
+	<block key="Dialog_1050001_Text1" korean="What? Mureo Micah closed the lake and why? That I know why! If you know me you know that I solved!\n\u003cbr\u003e \u003cbr\u003e\nGeocham, I do not attend mayor may not help the guy sent.\n\u003cbr\u003e \u003cbr\u003e\nWell, well, nice, town mayor did not have free rummy and atmosphere since starting to get a guy who randomly him. Yigetjiman crucial thing mean pirates." />
+	<block key="Dialog_1050001_Text1_attach_0" korean="\u003cbr\u003e \u003cbr\u003e\nFree rummy, and even hatch from Pirates Uzi does not work I can not.\n\u003cbr\u003e \u003cbr\u003e\nIf you want to know about the pirates Angela should go back there. I'm stretched mouth thoroughly for pirates." />
+	<block key="Dialog_1050001_answer_0_text" korean="Micah mureo would like to know why you are closing the lake." />
+	<block key="Dialog_1050002_Title" korean="Mayor Nicholas Cole" />
+	<block key="Dialog_1050002_Text0" korean="For what this is like now when tough go small for you? Pirates ply to frigid wind struck the village of reed long Rao not lost the reputation of the past. \u003cbr\u003e\nThere is even a pirate, my son why he sucks him in the house and gone do not know, maybe this thing be good conduct." />
+	<block key="Dialog_1050002_Text1" korean="Now the town is gonna be getting stable. If it is not to protect the town prepared to throw up my life, but still \u003cbr\u003e Bet iron, Mithrandir certainly will give you worked hard for reed wind village." />
+	<block key="Dialog_1050003_Title" korean="John Vigilante dyueodeun" />
+	<block key="Dialog_1050003_Text0" korean="This is what, everybody look too good to bad.\n\u003cbr\u003e \u003cbr\u003e\nIs not it? No matter how hard horse even harder if you are not too displays. Cause inde problem of pirates and bandits are routinely So should buy too much." />
+	<block key="Dialog_1050004_Title" korean="Angela schedule of vigilante" />
+	<block key="Dialog_1050004_Text0" korean="It's recently come inde not seen the face shape?\n\u003cbr\u003e \u003cbr\u003e\nMy parents died by the pirates. So I work in a vigilante." />
+	<block key="Dialog_1050004_Text1" korean="Free rummy and why the problem occurred? Now that you've got ttajige?\n\u003cbr\u003e \u003cbr\u003e\nThen I want to know Alchemist or Let's go. In this oddball because I'll give you the answer well.\n\u003cbr\u003e \u003cbr\u003e\nNacham, pirates and listen to the man village has seemingly come to mind to fight." />
+	<block key="Dialog_1050004_answer_2_text" korean="Micah mureo know why you have closed the lake?" />
+	<block key="Dialog_1050005_Title" korean="Innkeeper Amy Hagel" />
+	<block key="Dialog_1050005_Text0" korean="Traveller's Welcome! That's how long I do not know if the guests. \u003cbr\u003e\nThe original people of our town is bustling streets Dun village but now, because I do not play no pirates. Fully deficit'm telling" />
+	<block key="Dialog_1050005_Text1" korean="People are becoming increasingly flocking deuljin itneunge economic recovery, but I can feel it. Yigotdo'd soon find back the look of old again." />
+	<block key="Dialog_1050005_answer_11_text" korean="Says harboring doubts about the activities of mercenaries in vigilante." />
+	<block key="Dialog_1050006_Title" korean="Innkeeper Amy Hagel" />
+	<block key="Dialog_1050006_Text0" korean="Traveller's Welcome! That's how long I do not know if the guests. \u003cbr\u003e\nThe original people of our town is bustling streets Dun village but now, because I do not play no pirates. Fully deficit'm telling" />
+	<block key="Dialog_1050006_Text1" korean="People are becoming increasingly flocking deuljin itneunge economic recovery, but I can feel it. Yigotdo'd soon find back the look of old again." />
+	<block key="Dialog_1050006_answer_2_text" korean="John Pond will leave this place, saying he'd been treated unfairly. I heard you've also said they would leave, how are you going to?" />
+	<block key="Dialog_1050007_Title" korean="Shenron article Riley Stewart" />
+	<block key="Dialog_1050007_Text0" korean="I do not know that you have been doing, we put increased deoguman brother praise fluent. Sheesh, I do not know what I'm doing so well.\n\u003cbr\u003e \u003cbr\u003e\nBut in this case I do not give a good spot Officer does not go indulgent." />
+	<block key="Dialog_1050008_Title" korean="Alchemist list veil (reed wind village)" />
+	<block key="Dialog_1050008_Text0" korean="Do you have what? \u003cbr\u003e Travelers should always beware of injury. \u003cbr\u003e Course syeotdamyeon learn alchemy Maybe you even if injured create a drug to treat the wound. \u003cbr\u003e So nervous in alchemy skill of We recommend to write." />
+	<block key="Dialog_1050008_answer_4_text" korean="Post Alchemy step" />
+	<block key="Dialog_1050009_Title" korean="Wandering Chef Teddy loin slow" />
+	<block key="Dialog_1050009_Text0" korean="Now it came to cooking classes I teot. It's surely give mureo between worse and say mijok Who knew enough not to share." />
+	<block key="Dialog_1050009_answer_5_text" korean="Says life came to pick a gift to send to the lake." />
+	<block key="Dialog_1050009_answer_6_text" korean="Food shops" />
+	<block key="Dialog_1050010_Title" korean="Wandering Warrior Lawton grain" />
+	<block key="Dialog_1050010_Text0" korean="Are you also one of the non-human life worth?\n\u003cbr\u003e \u003cbr\u003e\nEverybody why I come up here with my life ..." />
+	<block key="Dialog_1050011_Title" korean="Royal Academy of Arts sculptor Grace McCain" />
+	<block key="Dialog_1050011_Text0" korean="You said you came from the capital? Have you ever knowing it may be news?\n\u003cbr\u003e \u003cbr\u003e\nI'm not too worried about how the family has been replaced there in the capital .... I want to go back to the capital soon be out of here because of the pirates and dangerous.\n\u003cbr\u003e \u003cbr\u003e\nAlas, what should I do?" />
+	<block key="Dialog_1050012_Title" korean="Gordon Woodman stale" />
+	<block key="Dialog_1050012_Text0" korean="Yesterday was full of vigor yigotdo started raiding the village. \u003cbr\u003e Pirates while, it was a mess, everything. \u003cbr\u003e Ship my work who supply the needed wood to dry mean deongdalah went away. They damn pirates." />
+	<block key="Dialog_1050013_Title" korean="Aria musician Rotterdam" />
+	<block key="Dialog_1050013_Text0" korean="Welcome, with a good soul minute.\n\u003cbr\u003e \u003cbr\u003e\nI look to be all due respect the work of making music. Although you can not see is what allowed me that's what I'm most happy with that.\n\u003cbr\u003e \u003cbr\u003e\nIf the ability to make music that I want to change the steep and unstable air flowing through the village.\n\u003cbr\u003e \u003cbr\u003e\nBut everyone does not have the free itneyo so intense. Get the serenity I hope it comes back." />
+	<block key="Dialog_1050013_answer_0_text" korean="Ask for a gift to send mureo mijok." />
+	<block key="Dialog_1050014_Title" korean="Wood sculptor Walter ring on" />
+	<block key="Dialog_1050014_Text0" korean="Hmm, what outsiders? No, I do not mind it Do not worry aneuni as outsiders.\n\u003cbr\u003e \u003cbr\u003e\nThe artist called insular law, but it's a finite story in the arts. At other times I'd rather not be wider than the others.\n\u003cbr\u003e \u003cbr\u003e\nOtherwise, how would you create something new." />
+	<block key="Dialog_1050014_answer_4_text" korean="This stuff happened and ask it to send to mureo mijok." />
+	<block key="Dialog_1050015_Title" korean="Ship designers Rickard code Wing" />
+	<block key="Dialog_1050015_Text0" korean="Eueueu coming! Hey! What happened to make alternative combatants! Not so different from fishing, and says what's troubling nyan!\n\u003cbr\u003e \u003cbr\u003e\nDesign is not'm being passed heck! Damn. No, I just take it out. Sorry." />
+	<block key="Dialog_1050016_Title" korean="Ship Galleon artisan sewing machines" />
+	<block key="Dialog_1050016_Text0" korean="Hell, even the design mean what I think you should ... Want" />
+	<block key="Dialog_1050017_Title" korean="Reina divers hard Bale" />
+	<block key="Dialog_1050017_Text0" korean="That's the first person to see. Hmm.\n\u003cbr\u003e \u003cbr\u003e\nNow I see it in my arms and around the town, is a mercenary? So as soon as I need to go out and grab a pirate. Instead, I know you do not water.\n\u003cbr\u003e \u003cbr\u003e\nInitially, fishermen pirates or gnawing on me hard just to much you mean to die wind." />
+	<block key="Dialog_1050018_Title" korean="Seal aquatic processing system Fagan" />
+	<block key="Dialog_1050018_Text0" korean="That's the first person to see. Hmm.\n\u003cbr\u003e \u003cbr\u003e\nNow I see it in my arms and around the town, is a mercenary? So as soon as I need to go out and grab a pirate. Instead, I know you do not water.\n\u003cbr\u003e \u003cbr\u003e\nInitially, fishermen pirates or gnawing on me hard just to much you mean to die wind." />
+	<block key="Dialog_1050019_Title" korean="Bolt between the garrison captain Mickey" />
+	<block key="Dialog_1050019_Text0" korean="And for Canas! \u003cbr\u003e\nOh sineura were often serious effort to garrison. The mercenaries are fighting every day to go get only moderate salary and pirates really embarrassing. \u003cbr\u003e\nWill be joining the gisanim is a great strength." />
+	<block key="Dialog_1050019_Text1" korean="What we killed the pirates, is because we neglect the boundary. The idea again is to further expand the garrison so seriously these things happen." />
+	<block key="Dialog_1050019_answer_16_text" korean="Pirates of bismuth" />
+	<block key="Dialog_1050020_Title" korean="Yvonne mercenary Blender" />
+	<block key="Dialog_1050020_Text0" korean="Oh, hey ... stop the fight with the pirates out of town and 17 1 ... \u003cbr\u003e\nThe bad guys. When my physical condition is normal fucking again swept the pirates." />
+	<block key="Dialog_1050020_Text1" korean="Look, I'm trying to hit the player first aid! Dang. Iteotneundeyo let you put a slaughter ppeonggeut size." />
+	<block key="Dialog_1050020_answer_10_text" korean="Vigilante asks if I can settle the complaint are having." />
+	<block key="Dialog_1050021_Title" korean="Mercenary Melissa Slater" />
+	<block key="Dialog_1050021_Text0" korean="Although the pirates had treated ... now I'm a little bored." />
+	<block key="Dialog_1050021_Text1" korean="We'm your brother. I just do not understand why yet entered the Pirates. It was Reed who love the town than anyone else." />
+	<block key="Dialog_1050022_Title" korean="Pardo and credit" />
+	<block key="Dialog_1050022_Text0" korean="Human ones, our people do not have to be seen to humans. Go home." />
+	<block key="Dialog_1050022_Text1" korean="You're determined resolve the pirate incident unharmed. But I still can not trust humans.\n\u003cbr\u003e \u003cbr\u003e\nA long time ago, but I've seen for a long time ... Ellora a race, but have had a lot of potential and wanted to say ... I can still understand." />
+	<block key="Dialog_1050022_Text2" korean="Asses several days. Should'll only believe in you." />
+	<block key="Dialog_1050023_Title" korean="Commando Agra" />
+	<block key="Dialog_1050023_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050023_Text1" korean="Keck, not humans. Come on, I want you to do even received incoming admit to you that no matter how friendly I do not get along?" />
+	<block key="Dialog_1050024_Title" korean="Commando Chakra" />
+	<block key="Dialog_1050024_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050024_Text1" korean="Oh, that guy Agra property and ... the goddess has allowed janmal You've got a lot.\n\u003cbr\u003e \u003cbr\u003e\nSo what happened? Please feel bad simply because Agra is only para." />
+	<block key="Dialog_1050025_Title" korean="Tatara escort captain" />
+	<block key="Dialog_1050025_Text0" korean="It seems like Micah Micah mureo mureo No, humans are humans like it would not be. You do not look a bad ...." />
+	<block key="Dialog_1050025_answer_18_text" korean="Why can not go to the Wailing Cliffs Village" />
+	<block key="Dialog_1050026_Title" korean="Shaman and Las" />
+	<block key="Dialog_1050026_Text0" korean="Mureo human beauty, view the same place. \u003cbr\u003e\nMicah mureo but now I can hate humans ... originally laid down did not." />
+	<block key="Dialog_1050026_Text1" korean="Human hammered a long time to see.\n\u003cbr\u003e\nAre you a tendency to easily turn you on? From what've seen so far, humans have easily told me excited. In particular, the more greedy abusive man." />
+	<block key="Dialog_1050026_answer_8_text" korean="Geonnenda reed in the wind brought the present village." />
+	<block key="Dialog_1050026_answer_9_text" korean="Refers you to release the curse of the ice." />
+	<block key="Dialog_1050027_Title" korean="Guardian priest to lease" />
+	<block key="Dialog_1050027_Text0" korean="For human life're here on the lake. The true spirit nagado one got out." />
+	<block key="Dialog_1050028_Title" korean="The priest Miss Su" />
+	<block key="Dialog_1050028_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050028_Text1" korean="...... Huh! (Still do not say.)" />
+	<block key="Dialog_1050029_Title" korean="AXA Erhu" />
+	<block key="Dialog_1050029_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050029_Text1" korean="What about human music? I wonder if the music is any difference between the free rummy." />
+	<block key="Dialog_1050029_Text2" korean="That's a good xylophone. Alas, came a reed in the wind village had musicians? I'm sorry. I want to try to talk directly to meet.\n\u003cbr\u003e \u003cbr\u003e\nThis situation can not get in a situation like this thing. The musician will not know if you come directly to obtain the clearance." />
+	<block key="Dialog_1050029_answer_1_text" korean="The reed wind instrument sent a town musician says." />
+	<block key="Dialog_1050030_Title" korean="Siege waterway managers Naha" />
+	<block key="Dialog_1050030_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050030_Text1" korean="Did you know that was greater than the original lake now lives here?\n\u003cbr\u003e \u003cbr\u003e\nBog cracked mureo the middle, causing an angry quarrel now, was originally part of the lake. The water coming down from the mountain to the lake of life here did join through there." />
+	<block key="Dialog_1050031_Title" korean="Ignore the key waterway manager" />
+	<block key="Dialog_1050031_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050031_Text1" korean="Do you know of a bog the original lake was a turncoat? It's my fault that the swamp thing." />
+	<block key="Dialog_1050032_Title" korean="Oh slap chop weapons" />
+	<block key="Dialog_1050032_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050032_Text1" korean="Now that you're carrying weapons, and indeed looks good. Still, the look heavy and our people write.\n\u003cbr\u003e \u003cbr\u003e\nWe need more research and lightweight while some good weapons capabilities." />
+	<block key="Dialog_1050032_answer_1_text" korean="Weapons Stores" />
+	<block key="Dialog_1050033_Title" korean="Armor Chemical seal right" />
+	<block key="Dialog_1050033_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050033_Text1" korean="If the armor Can you show me some? I want to check to see human technology." />
+	<block key="Dialog_1050033_answer_1_text" korean="Armor shop" />
+	<block key="Dialog_1050034_Title" korean="Lou is an alchemist" />
+	<block key="Dialog_1050034_Text0" korean="Are human access is permitted. It looks better than a human in prison, apparently as tough to find." />
+	<block key="Dialog_1050034_Text1" korean="Are human access is permitted. So that you do dalgapjin rot, must admit. Give me just quietly while the lake." />
+	<block key="Dialog_1050035_Title" korean="Building inspector Chi flour" />
+	<block key="Dialog_1050035_Text0" korean="...... (Do not say.)" />
+	<block key="Dialog_1050035_Text1" korean="That's finally out the shape of a human being licensed.\n\u003cbr\u003e \u003cbr\u003e\nBuilding human've always wondered this." />
+	<block key="Dialog_1050036_Title" korean="Gail maekbein" />
+	<block key="Dialog_1050036_Text0" korean="Hey! Hey, hey, hey, hey!\n\u003cbr\u003e \u003cbr\u003e\nGet me out of here! Mureo not mean leaving the middle, a person is trapped. What I'm doing alternative Cruising!" />
+	<block key="Dialog_1050036_Text1" korean="Prepare the cuties ?! Take the contract're here!\n\u003cbr\u003e \u003cbr\u003e\nFree rummy and now you're screwed deals!\n\u003cbr\u003e \u003cbr\u003e\nAlas, I'm alive nagado damage if you think this is not the same to live!" />
+	<block key="Dialog_1050036_answer_8_text" korean="I've brought up the contract were willing to leave a pledge of life, say to get out of here." />
+	<block key="Dialog_1050037_Title" korean="Bell bekseun" />
+	<block key="Dialog_1050037_Text0" korean="Kyaah! Finally, the group watching the other guy!\n\u003cbr\u003e \u003cbr\u003e\nHey! Time Pass. If I get here! So I'm going to tell you where the money home, too!\n\u003cbr\u003e \u003cbr\u003e\nHey, do not like money?" />
+	<block key="Dialog_1050038_Title" korean="Lane August" />
+	<block key="Dialog_1050038_Text0" korean="I work to guide the mijok mureo humans. But pirates are spreading the follies This entry was difficult." />
+	<block key="Dialog_1050039_Title" korean="Keira Hawkeye" />
+	<block key="Dialog_1050039_Text0" korean="Well? How to get here ...? Guess did you buy the favor of free rummy. Skills'm pretty good shape." />
+	<block key="Dialog_1050040_Title" korean="Well? How to get here ...? Guess did you buy the favor of free rummy. Skills'm pretty good shape." />
+	<block key="Dialog_1050040_Text0" korean="It was not just that the oemugwan. Whilst need to request assistance to low-grade stuff like that, and I! I'm still in Les Japan family!\n\u003cbr\u003e \u003cbr\u003e\nMureo mijok through ridiculous. How much yimom great aristocratic families mean not know what this map. Oh, it's headache." />
+	<block key="Dialog_1050041_Title" korean="Senior Artisan Rune heavy rain" />
+	<block key="Dialog_1050041_Text0" korean="O man. I like Parque my land, but this can not be the work environment like a fortress, and I'd rather favorite group is meeting Maybe I should work on and Canas." />
+	<block key="Dialog_1050041_Text1" korean="There's gonna come a day, we still believe that mining can be free as before." />
+	<block key="Dialog_1050042_Title" korean="Asian soul lakh estates officer waves" />
+	<block key="Dialog_1050042_Text0" korean="When I eotna estate one, this clumsy? Hey, this manor Would you care? I'm a mere 100,000 Goldman inside the manor, you would. Canas also want to quickly and comfortably in the castle wine or drink." />
+	<block key="Dialog_1050043_Title" korean="Teak quarry artisan spirit" />
+	<block key="Dialog_1050043_Text0" korean="Shh! Quietly to me. To regain the pits again'd have to know the enemy first. So here's how you ... Mal is a human?" />
+	<block key="Dialog_1050043_Text1" korean="One day you can be mined as before, the day the sun will shine freely." />
+	<block key="Dialog_1050044_Title" korean="Architects Hatta Horn" />
+	<block key="Dialog_1050044_Text0" korean="Where the rising of the eye's awesome. Those who do not want to deal with all the stone came to mourn cliff village. Maybe Yeti also sort of stuff? It's not?" />
+	<block key="Dialog_1050045_Title" korean="Divorce architects" />
+	<block key="Dialog_1050045_Text0" korean="That's not seen this face. Yeti Do not you come out here to be careful where and when they pop out." />
+	<block key="Dialog_1050046_Title" korean="Machine designers mananan" />
+	<block key="Dialog_1050046_Text0" korean="Both lakes open it because you've heard virtue. Iran has admiration for the human race once again.\n\u003cbr\u003e \u003cbr\u003e\nNow, I could be found without difficulty the men's designs." />
+	<block key="Dialog_1050046_Text1" korean="Ice castle door?\n\u003cbr\u003e \u003cbr\u003e\nAh, I remember. Grunting, That was quite a masterpiece. Slack never open when you try to open safe keep. In a few dog outside to operate in an instant.\n\u003cbr\u003e \u003cbr\u003e\nMagic even stronger and stronger impacts. Knights of one degree you can break come?\n\u003cbr\u003e \u003cbr\u003e\nOh, boasting tube placed. If you are going to be directly created by law to open outside of Tara, I know." />
+	<block key="Dialog_1050046_answer_0_text" korean="Ask if he knows about sex ice." />
+	<block key="Dialog_1050046_answer_1_text" korean="Grocery store" />
+	<block key="Dialog_1050047_Title" korean="Machine manufacturers Tara I" />
+	<block key="Dialog_1050047_Text0" korean="Are First User? Micah mureo bogunyo puleotna the lake finally closed. The trouble was fortunate because the material.\nThere are lots of \u003cbr\u003e still do not know me yet, insufficient material when asked drill map. I know you have a weapon, fight'll be able to?" />
+	<block key="Dialog_1050047_answer_3_text" korean="Grocery store" />
+	<block key="Dialog_1050048_Title" korean="Warrior called Hakan" />
+	<block key="Dialog_1050048_Text0" korean="Did it maybe good for the human story that is at most one person to reside Let launched an assault in which a bunch of Yeti?\n\u003cbr\u003e \u003cbr\u003e\nReinforcements came well before the assault I say listen, no matter how well I know not that bad. Even though this activity during the last raid, uh ... WOW" />
+	<block key="Dialog_1050048_Text1" korean="Haha, Rondo called Earl. Was the best against Dalian.\n\u003cbr\u003e \u003cbr\u003e\nMean that people have to do without for now. Oh, I just had to Dalian million more stories about LA I do not know.\n\u003cbr\u003e \u003cbr\u003e\nI know this will be enough fiance had called Aisha. Count Rondo and Aisha knew both men Finish Waterfall Let's go so well in the village in ruins.\n\u003cbr\u003e \u003cbr\u003e\nLeon alchemist named Janice." />
+	<block key="Dialog_1050048_answer_4_text" korean="Ask friendly people and know about Ron and I heard Aisha." />
+	<block key="Dialog_1050049_Title" korean="Valiant Tyre Khan" />
+	<block key="Dialog_1050049_Text0" korean="I just Croix Kuhn Sr. Khan heads of Tyre. \u003cbr\u003e Dont know my reputation for familiar? \u003cbr\u003e Troubled by the way, is heartbreaking because of frost legion of Rondo. \u003cbr\u003e We are wonak Croix Kuhn Rondo, but it is the power of Valor river For now, there is no sharp way." />
+	<block key="Dialog_1050050_Title" korean="Akan shaman tools" />
+	<block key="Dialog_1050050_Text0" korean="Do you think the basics of magic, you say? World hers to ask for things. Do not forget to live humbly ask that the mind is the basic of the basics of magic.\n\u003cbr\u003e \u003cbr\u003e\nBoil free Rummy not only race he has kept his mind. When we will have to go with them to learn the magic." />
+	<block key="Dialog_1050050_Text1" korean="You mean not assume you friendly with humans? I?\n\u003cbr\u003e \u003cbr\u003e\nA particularly friendly thing jinaetdeon not have asked that a non-hit appearance. Hmm ... I am a humble attitude atmospheres to live with the fact that the position was advised to humans.\n\u003cbr\u003e \u003cbr\u003e\nRather, it would be nice to Hakan warrior called gabosineun." />
+	<block key="Dialog_1050050_answer_0_text" korean="Ask stayed friendly with humans know about Ron and I heard Aisha." />
+	<block key="Dialog_1050051_Title" korean="Shaman Tio tools" />
+	<block key="Dialog_1050051_Text0" korean="Do you think the basics of magic, you say? World hers to ask for things. Do not forget to live humbly ask that the mind is the basic of the basics of magic. \u003cbr\u003e\nBoil free Rummy not only race he has kept his mind. When just have to go with them to learn the magic ..." />
+	<block key="Dialog_1050052_Title" korean="Rondo Aisha Lovers Lane feather" />
+	<block key="Dialog_1050052_Text0" korean="Humble Miko took over the power of water Pardo or goddess, and Aisha. \u003cbr\u003e\nI felt a strange aura from you. \u003cbr\u003e\nRondo's different, yet similar. That's somewhat familiar." />
+	<block key="Dialog_1050053_Title" korean="Shenron articles on Nexon Fury" />
+	<block key="Dialog_1050053_Text0" korean="I had orders to call broke the gender of the Rondo and wipe out the forces of frost Corps. Of course I do not say to others. Resurrection of being drunk is not easy because the material in the mouth.\n\u003cbr\u003e \u003cbr\u003e\nEither way, the command is a command. I only fight I do my best." />
+	<block key="Dialog_1050054_Title" korean="Patek wandering artist Gracia" />
+	<block key="Dialog_1050054_Text0" korean="Do not you see what I'm focusing now? Told not talk." />
+	<block key="Dialog_1050055_Title" korean="Croix Kuhn engineering practice balls Gracia" />
+	<block key="Dialog_1050055_Text0" korean="A new look at your face! Mureo's Micah finally opened its doors again? \u003cbr\u003e\nYou know what? How about building their human? Parque my land'll come back intact go to learn human skills." />
+	<block key="Dialog_1050056_Title" korean="Leon Janice Alchemist Soul" />
+	<block key="Dialog_1050056_Text0" korean="It's amazing. I have not seen a face ... This is the land of the dead.\n\u003cbr\u003e \u003cbr\u003e\nToo many people and I'm dead and hit the soul Croix Kuhn vortex. How much better this time forward must flow ..." />
+	<block key="Dialog_1050056_answer_3_text" korean="Potion / grocery store" />
+	<block key="Dialog_1050057_Title" korean="Alicia rangers in Japan" />
+	<block key="Dialog_1050057_Text0" korean="This is not a good situation. I do not know when that will appear Rondo led the Yeti." />
+	<block key="Dialog_1050058_Title" korean="Vigilantes in yen Smith" />
+	<block key="Dialog_1050058_Text0" korean="Ahat coming! Pirates them! I know someone dares line!\n\u003cbr\u003e \u003cbr\u003e\nEuracha! Yikes! Yiyap! Woohat! Keuat!\n\u003cbr\u003e \u003cbr\u003e\nUh, I'm not a pirate ... ..." />
+	<block key="Dialog_1050059_Title" korean="Warden mercenary Maxima" />
+	<block key="Dialog_1050059_Text0" korean="Help! Help me! \u003cbr\u003e\nCaught in the moment was gone about to blow away all the pirate guy. \u003cbr\u003e\n... No way are you not just a thing go?" />
+	<block key="Dialog_1050060_Title" korean="When moving cutter" />
+	<block key="Dialog_1050060_Text0" korean="You, A mixed human. Pirates do not think it's what's happening here, there? \u003cbr\u003e\nI wish you could rescue me. Trapped in Gun nervous. Pirates burned me out to eat I heard you talk about what tastes fly." />
+	<block key="Dialog_1050060_Text1" korean="You've earned the trust egeseodo other mureo Middleton. We happen to look like hard work." />
+	<block key="Dialog_1050060_Text2" korean="Held that people are not hard to get released.\n\u003cbr\u003e \u003cbr\u003e\nIf you'll be fine degree of proficiency.\n\u003cbr\u003e \u003cbr\u003e\nI go to the swamp of apostate high priest said Verna. Gail maekbein not spoken with the contract. Would not reach an agreement creating steal to give to Gail maekbein?" />
+	<block key="Dialog_1050060_answer_20_text" korean="Asks that no human can release the hold placed." />
+	<block key="Dialog_1050061_Title" korean="Oh this free rummy spirit charin" />
+	<block key="Dialog_1050061_Text0" korean="I sent out an arc in a long time I came home lats meadow.\n\u003cbr\u003e\nI am confused I did not even come back just so long.\n\u003cbr\u003e\nEverything've changed." />
+	<block key="Dialog_1050062_Title" korean="Charin young free spirit Rummy" />
+	<block key="Dialog_1050062_Text0" korean="I want to go back, clear water flowing into the lake of life ..." />
+	<block key="Dialog_1050063_Title" korean="Charin old free spirit Rummy" />
+	<block key="Dialog_1050063_Text0" korean="Sucks now want to go back. Want to wash himself was a crazy thing to the lakes of the life you ..." />
+	<block key="Dialog_1050064_Title" korean="Charin young free spirit Rummy" />
+	<block key="Dialog_1050064_Text0" korean="I'd like to see the Parque or goddess. Do not know why, but I like scary looking like the eyes of Ladan.\n\u003cbr\u003e \u003cbr\u003e\nI want to go to see the beautiful goddess." />
+	<block key="Dialog_1050065_Title" korean="Verna village housewives code Wing" />
+	<block key="Dialog_1050065_Text0" korean="What is it? I can not believe people ride. Even long ago, making a mess of town come in here as mercenaries and even I took up my garbage. Take heat!" />
+	<block key="Dialog_1050065_Text1" korean="Or I can not believe the villagers. ... I think you just have appreciated. Huh!" />
+	<block key="Dialog_1050066_Title" korean="Mercenary John Pond" />
+	<block key="Dialog_1050066_Text0" korean="Landscaping is contemplating whether to continue the mercenaries here. What no doubt where residents keep picking our mercenary?" />
+	<block key="Dialog_1050067_Title" korean="Match Girl Tree Village" />
+	<block key="Dialog_1050067_Text0" korean="Match live ...! Sell ​​match! \u003cbr\u003e\nKnight, live match. It's too cold ..." />
+	<block key="Dialog_1050067_answer_10_text" korean="Tree Stand town" />
+	<block key="Dialog_1050068_Title" korean="Villagers Robert Harleys" />
+	<block key="Dialog_1050068_Text0" korean="I did used to get a feel truly alive when the fishermen work. For those flip the fish in the net vigorously with the angels.\n\u003cbr\u003e \u003cbr\u003e\nBut, oh now its just not one the other day because of the damn pirates. Something ought to sources, the body is not geunjil OSCAR'll just be displaced." />
+	<block key="Dialog_1050069_Title" korean="Blacksmith Chuck Bail" />
+	<block key="Dialog_1050069_Text0" korean="Hand to see what out?" />
+	<block key="Dialog_1050069_Answer_3_Text" korean="Armor shop" />
+	<block key="Dialog_1050070_Title" korean="Race researcher Paul Travel" />
+	<block key="Dialog_1050070_Text0" korean="I am a researcher race. To meet a very attractive mureo Middleton did you look up here." />
+	<block key="Dialog_1050070_Text1" korean="Compared mureo beauty with exceptional talent in the pores of my work is to seemingly insignificant dangyeonhande ...\n\u003cbr\u003e \u003cbr\u003e\nAll I wanted was to free rummy race and get to know her so severely that whilst the horse ... euheuk ~" />
+	<block key="Dialog_1050071_Title" korean="Philip Slater" />
+	<block key="Dialog_1050071_Text0" korean="Huh? Not a delightful Melissa attend. I'm a Pirate Department Philip Slater. \u003cbr\u003e\nDid you recruit me to give large sums of money from the pirates. \u003cbr\u003e\nI joined the game last time was the last of the last. Indeed could come that day?" />
+	<block key="Dialog_1050072_Title" korean="Treasure hunter Johnny" />
+	<block key="Dialog_1050072_Text0" korean="Hmm - you also go watna Dew - Jug treasures of pirates like us? If such a thing down and you do not interfere with the low-Lee.\n\u003cbr\u003e \u003cbr\u003e\nOh, and we treasure every swipe only do you worry hold on ssamjitdon of villains." />
+	<block key="Dialog_1050073_Title" korean="Treasure Hunter Danny" />
+	<block key="Dialog_1050073_Text0" korean="Shh! Please lower your attitude! Then I'll get caught. Please, please just stay quiet." />
+	<block key="Dialog_1050074_Title" korean="Blacksmith Ron Vale" />
+	<block key="Dialog_1050074_Text0" korean="We're brothers have the technology comes down to three generations. In a very oil-reed wind village haetjiyo people!\n\u003cbr\u003e \u003cbr\u003e\nOh did you find me when she heard that?" />
+	<block key="Dialog_1050075_Title" korean="Four young free rummy Mary" />
+	<block key="Dialog_1050075_Text0" korean="Now I got a shiny-shiny pretty ring! \u003cbr\u003e Cheap cheap! Buy now dusimyeon next year the price has doubled! \u003cbr\u003e Now going to take sasimyeon Ding ~" />
+	<block key="Dialog_1050075_answer_5_text" korean="Four Mary of the Rings Store" />
+	<block key="Dialog_1050076_Title" korean="Runaway-free rummy" />
+	<block key="Dialog_1050076_Text0" korean="Large, wobbled a big deal! How - how -\n\u003cbr\u003e \u003cbr\u003e\nMy friends, my friends!" />
+	<block key="Dialog_1050077_Title" korean="Blacksmith Dan Vale" />
+	<block key="Dialog_1050077_Text0" korean="What did you come here to ask? As you can see around a little busy. Come on. Let me know.\n\u003cbr\u003e \u003cbr\u003e\nOh ... are you ever not feel like I lost weight thing ...?" />
+	<block key="Dialog_1050077_answer_1_text" korean="Equipment store" />
+	<block key="Dialog_1050078_Title" korean="Alchemist Rosa Feather Lane" />
+	<block key="Dialog_1050078_Text0" korean="It was because of labor and human Parque accept Croix Kuhn and the Goddess of Mercy roum. Rondo does not change even if the only place that would still have been a beautiful land .. \u003cbr\u003e" />
+	<block key="Dialog_1050078_Text1" korean="You'll not be able to understand my mind.\n\u003cbr\u003e \u003cbr\u003e Rondo and Aisha is that we have more than just a lover, Pardo was my hope." />
+	<block key="Dialog_1050078_answer_10_text" korean="Potion Shop" />
+	<block key="Dialog_1050079_Title" korean="Dying Man" />
+	<block key="Dialog_1050079_Text0" korean="Uh ... Do not, please stop ..." />
+	<block key="Dialog_1050080_Title" korean="Wizard of Truth Will Ron Kyle" />
+	<block key="Dialog_1050080_Text0" korean="Rondo guy is a monster we've raised. Shenron Knights Rondo just hitting my two euros ointment did not have to start everything go wrong.\nDespite what the Shenron knights, magic society of truth wishes to rectify the fault." />
+	<block key="Dialog_1050081_Title" korean="Enter your warrior Claw Croix Kuhn" />
+	<block key="Dialog_1050081_Text0" korean="Assault is not the eyes of the fight! No piece when I would do one eye Desperate self, are you doing whilst avoiding the assault in a fight that's it?" />
+	<block key="Dialog_1050082_Title" korean="The wave tail lakh estate vigilante Sigrid" />
+	<block key="Dialog_1050082_Text0" korean="What he came up with it or live in the town are like this. Yeti ?! Moreover, we are missing brother was defending the town with me ...\n\u003cbr\u003e \u003cbr\u003e\nI'm sure you'll find the type. Please tell me if you ever find someone who looks like me just for me!" />
+	<block key="Dialog_1050083_Title" korean="Bulletin Board for" />
+	<block key="Dialog_1050083_Text0" korean="Do not attach any posts without permission\n\u003cbr\u003e \u003cbr\u003e\n\u003cB\u003e [mayor vigilante leader President Nicholas Cole] \u003c/ b\u003e" />
+	<block key="Dialog_1050084_Title" korean="Shadow Clan synth Meyer" />
+	<block key="Dialog_1050084_Text0" korean="The synth-Mayer. Chasing the whereabouts of the princess came up here. Because I think Rondo is sure to come back to stay Parque my land. \u003cbr\u003e\nMake up to look into gender ice princess. But after that I've been totally unknown. \u003cbr\u003e Rondo has noticed the shadowing But then I started to watch me." />
+	<block key="Dialog_1050085_Title" korean="Silver involve" />
+	<block key="Dialog_1050085_Text0" korean="Hammered humans. We do not have to be seen in humans." />
+	<block key="Dialog_1050085_answer_2_text" korean="The mureo beauty and try to talk." />
+	<block key="Dialog_1050085_answer_3_text" korean="I have heard me and looked." />
+	<block key="Dialog_1050086_Title" korean="Pirates were brought" />
+	<block key="Dialog_1050086_Text0" korean="I am going to do anything." />
+	<block key="Dialog_1050087_Title" korean="Sonu La" />
+	<block key="Dialog_1050087_Text0" korean="Heuheuk ... Can we get out alive ...?" />
+	<block key="Dialog_1050088_Title" korean="Are doing" />
+	<block key="Dialog_1050088_Text0" korean="Angry mureo Middleton is so cruel ..." />
+	<block key="Dialog_1050089_Title" korean="Musica" />
+	<block key="Dialog_1050089_Text0" korean="The friends I did not run on the inside! Friends in danger!" />
+	<block key="Dialog_1050090_Title" korean="Priest singer Kepley" />
+	<block key="Dialog_1050090_Text0" korean="Oh, well! Though the Heavens May Fall sotahnal're the hole ?! The same minute you mean he met in a place like this!" />
+	<block key="Dialog_1050091_Title" korean="Jenny Porter Windmill other" />
+	<block key="Dialog_1050091_Text0" korean="Windmill baramman blows himself well to go back round. I'm not turning because the wind is not mothaneunge. \u003cbr\u003e\n.... \u003cbr\u003e\nPress the switch to operate, but the fact SiO strangely cold, I do not know English gwichanahseo. Pongcha management often cumbersome." />
+	<block key="Dialog_1050092_Title" korean="Drew fisherman week" />
+	<block key="Dialog_1050092_Text0" korean="Others are also advised me to say that I'm a star, I love this true fisherman. I really get a feel alive. \u003cbr\u003e\nNow do not be afraid notgodo hit the net to go right to the sea. I truly priceless." />
+	<block key="Dialog_1050093_Title" korean="Jason mercenary Mika" />
+	<block key="Dialog_1050093_Text0" korean="Damn ... my ... encountered a difficult situation. \u003cbr\u003e\nThe pirates, the Work Factor is there something going off." />
+	<block key="Dialog_1050094_Title" korean="Free rummy High Priest hits Leone" />
+	<block key="Dialog_1050094_Text0" korean="Welcome Hao, O man. We are the Parque my children. \u003cbr\u003e\nNow the world is divided into non-Rummy's running feud even confused by the descendants of the drink in two. \u003cbr\u003e\nPardo Pardo disgrace my land or goddess left. Io as a high priest according ashamed." />
+	<block key="Dialog_1050095_Title" korean="Free rummy Aunt ILA" />
+	<block key="Dialog_1050095_Text0" korean="That little girl \u003cbr\u003e sings quietly above the sea There's only remaining dream. Where \u003cbr\u003e nostalgic songs of \u003cbr\u003e \u003cbr\u003e girl." />
+	<block key="Dialog_1050096_Title" korean="Free rummy fuse the Las" />
+	<block key="Dialog_1050096_Text0" korean="Mureo angry middle-stained in the eyes of the cattle gone Ladan turn a beautiful lake in a bog. \u003cbr\u003e\nThis greedy humans began mureo pounce the middle, but now have become split in two.'ve'll Blame anyone?" />
+	<block key="Dialog_1050097_Title" korean="Free rummy cutter rayira" />
+	<block key="Dialog_1050097_Text0" korean="After a long time of inganjok, good to see you? \u003cbr\u003e\nI am making the handiwork of a talented rayira naerisin the Parque or goddess. \u003cbr\u003e\nOnly humans are also quite make cutter, can not I follow've still free rummy." />
+	<block key="Dialog_1050098_Title" korean="Agur other tribe warrior Kai" />
+	<block key="Dialog_1050098_Text0" korean="Reported not only determine the very end of Agur family would you look? \u003cbr\u003e\nI was hanging on the Agur family curse damn drunk, and I'm a fish face its own unique and attractive." />
+	<block key="Dialog_1050099_Title" korean="Siren Mermaid Queen" />
+	<block key="Dialog_1050099_Text0" korean="Being able to see us, Ine amazing human being? \u003cbr\u003e\nWe are eternally beautiful, human aging. But the time humans burning youth, the time we like very much. \u003cbr\u003e\nAs a surprise?" />
+	<block key="Dialog_1050105_Title" korean="Captain Ron Kyle Kuhn Croix" />
+	<block key="Dialog_1050105_Text0" korean="Falls of me in front of my home town was originally Io. \u003cbr\u003e\nYieotji really beautiful place. Oh right before freeze up everything. \u003cbr\u003e\nI very much want to be regaining that waterfall village." />
+	<block key="Dialog_1050106_Title" korean="Old fisherman Santiago and" />
+	<block key="Dialog_1050106_Text0" korean="This is was my last voyage. It was an incredible voyage. Retire now yeohan this eopdane." />
+	<block key="Dialog_1050107_Title" korean="Free rummy or ancient Ireland" />
+	<block key="Dialog_1050107_Text0" korean="Now, wait! Human Spirit. Do not panic, you will not hear me well simyeon any problems." />
+	<block key="Dialog_1050108_Title" korean="Agur key unselfish warrior tribe" />
+	<block key="Dialog_1050108_Text0" korean="I Mida original mureo! Give believe !!!" />
+	<block key="Dialog_1050109_Title" korean="Alicia Kuhn Croix Beast Trainer" />
+	<block key="Dialog_1050109_Text0" korean="Baby, now I feel like my sister ... It's a good opportunity? Fellows work or go." />
+	<block key="Dialog_1050101_Title" korean="Free rummy youth mureo Mio" />
+	<block key="Dialog_1050101_Text0" korean="Oh, give Rummy. Without boring than to buy your love would die in their hatred!" />
+	<block key="Dialog_1050102_Title" korean="Angry non-virgin line Rummy Rummy" />
+	<block key="Dialog_1050102_Text0" korean="Mureo Mio .. My love is immeasurable's already too much ... oyster peninsula." />
+	<block key="Dialog_1050103_Title" korean="Shenron Knights Wolf Riggs" />
+	<block key="Dialog_1050103_Text0" korean="No, knight pleasure. Are you here doing here? \u003cbr\u003e\nI heard that the horse became dispatched wolf haunts this place." />
+	<block key="Dialog_1050104_Title" korean="Son Mayor Reed (Pirates home)" />
+	<block key="Dialog_1050104_Text0" korean="I'm the lead. I know me? You seem old, it's not as much at Karnak's." />
+	<block key="Dialog_1050110_Title" korean="Les Silesia" />
+	<block key="Dialog_1050110_Text0" korean="Oh ... I do not have the power to bridge the Spirit ... Look, you would not give me a little help?" />
+	<block key="Dialog_1050130_Title" korean="Son Mayor Reed (Reed Wind Village)" />
+	<block key="Dialog_1050130_Text0" korean="That I would grow up to be great in Edam cursor adults like everybody \u003cbr\u003e gisanim nice." />
+	<block key="Dialog_1050200_Title" korean="Shenron Knights Wolf Riggs" />
+	<block key="Dialog_1050200_Text0" korean="Are you doing up here? Yes, I Shenron Knights Wolf Riggs says not. This place also happened to dispatch says that the wolf came a tip!" />
+	<block key="Dialog_1070210_Title" korean="Free rummy cutter when moving" />
+	<block key="Dialog_1070210_Text0" korean="I'm not lost! Mureo phrase does not lose pushing the road! Do not pity me like that!" />
+	<block key="Dialog_1070220_Title" korean="Free rummy cutter when moving" />
+	<block key="Dialog_1070220_Text0" korean="How did I ditched captured by pirates. I'd be caught by pirates, was not expecting dreamed." />
+	<block key="Dialog_1070230_Title" korean="Free rummy cutter when moving" />
+	<block key="Dialog_1070230_Text0" korean="Come and take a dangerous place am old? Huh! I Miya mureo. Mureo bottom'm pushing a hundred times smarter than humans!" />
+	<block key="Dialog_1070240_Title" korean="Free rummy cutter when moving" />
+	<block key="Dialog_1070240_Text0" korean="Thanks for the yen last. Listen, I'll sing well." />
+	<block key="Dialog_1070250_Title" korean="Melissa Slater" />
+	<block key="Dialog_1070250_Text0" korean="Hello, friends. I read the contents Mickey told? \u003cbr\u003e\nIf you do not know I'm just waiting. Maybe Forget about suicide because without information on the Pirates." />
+	<block key="Dialog_1070260_Title" korean="Melissa Slater" />
+	<block key="Dialog_1070260_Text0" korean="Here you can come to attend without notice it. Pirates Anything can look at the stars. Runners in our end!" />
+	<block key="Dialog_1070270_Title" korean="The woman in question" />
+	<block key="Dialog_1070270_Text0" korean="Water mirror mirror projection that's true. Defeating the forces of evil that Pardo and patron goddess of the set is not contained." />
+	<block key="Dialog_1070280_Title" korean="The woman in question" />
+	<block key="Dialog_1070280_Text0" korean="The sun is not a simple watchtower Watchtower. To illuminate the Parque my will to Onnuri Croix Kuhn masterpiece not made by artisans. The light is going to lead you." />
+	<block key="Dialog_1070290_Title" korean="The woman in question" />
+	<block key="Dialog_1070290_Text0" korean="That land is incurring debris floating in the sky when he Pardo and war goddess of light fighting against the gel Naris. Earl Wright did not have to touch the tree is where the power of the patron goddess natjiman Pardo and shattered by the gel Naris. \u003cbr\u003e\nSyracuse avalanche climb're punished Cursed is the goddess of the Parque and keep them forever caught a gel Naris me rich debris. Syracuse is not able to climb that fellow who dislike or goddess than Parr." />
+	<block key="Dialog_1070300_Title" korean="The woman in question" />
+	<block key="Dialog_1070300_Text0" korean="The final schedule of Parr or goddess in the island of mermaids. They love to sing, not been maintaining the final power of free rummy. Mureo beauty looks like no one but mureo beauty is different, and only those who had the idea of ​​human or non-human .. \u003cbr\u003e Pardo is a mermaid goddess guarding the land are still going to sing to the praise of the goddess." />
+	<block key="Dialog_1070310_Title" korean="The woman in question" />
+	<block key="Dialog_1070310_Text0" korean="Frozen waterfall .. feel the mighty power of Saran updated regularly made croissant kunjok chills .. but still hear the roar of the Croix Kuhn twitching, started flowing ice in there? \u003cbr\u003e" />
+	<block key="Dialog_1070320_Title" korean="Miko water Aisha Feather Lane" />
+	<block key="Dialog_1070320_Text0" korean="Humble Miko took over the power of water Pardo or goddess, and Aisha. \u003cbr\u003e\nI felt a strange aura from you. \u003cbr\u003e\nRondo's different, yet similar. That's somewhat familiar." />
+	<block key="Dialog_1070330_Title" korean="Miko water Aisha Feather Lane" />
+	<block key="Dialog_1070330_Text0" korean="............... .." />
+	<block key="Dialog_1070340_Title" korean="Shenron Knights Wolf Riggs" />
+	<block key="Dialog_1070340_Text0" korean="Did you surprised? Horses want to meet doeneunge ties applied everywhere! In fact, in this place was the wolf cry! Do you want to make what needed to treat the wolf? As far as I says of course not!" />
+	<block key="Dialog_1070350_Title" korean="Lydia Potion Shop" />
+	<block key="Dialog_1070350_Text0" korean="Can you live without a potion from the cold ground?" />
+	<block key="Dialog_1070350_answer_0_text" korean="Potion Shop" />
+	<block key="Dialog_1070360_Title" korean="Food shops Jim Claus" />
+	<block key="Dialog_1070360_Text0" korean="You delicious food. Enjoy delicacies from chef and Canas voracious!" />
+	<block key="Dialog_1070360_answer_0_text" korean="Food shops" />
+	<block key="Dialog_1070370_Title" korean="Nate food stores AIME cell" />
+	<block key="Dialog_1070370_Text0" korean="The food is going to replenish the energy! The taste is not important sphere." />
+	<block key="Dialog_1070370_answer_0_text" korean="Food shops" />
+	<block key="Dialog_1070380_Title" korean="Food stores Ash tools" />
+	<block key="Dialog_1070380_Text0" korean="Discover exciting dishes to taste to create a knife cold!" />
+	<block key="Dialog_1070380_answer_0_text" korean="Food shops" />
+	<block key="Dialog_1070390_Title" korean="Brandon's food stores" />
+	<block key="Dialog_1070390_Text0" korean="Cooking is not light taste! So do bulmat once?" />
+	<block key="Dialog_1070390_answer_0_text" korean="Food shops" />
+	<block key="Dialog_1070400_Title" korean="Emile low Potion haberdasher you" />
+	<block key="Dialog_1070400_Text0" korean="In my land and goods Parque cold potion is not required." />
+	<block key="Dialog_1070400_answer_0_text" korean="Potion goods store" />
+	<block key="Dialog_1070410_Title" korean="Richard Meier equipment store" />
+	<block key="Dialog_1070410_Text0" korean="The equipment What is it? Now, look quickly pick in the store." />
+	<block key="Dialog_1070410_answer_0_text" korean="Equipment store" />
+	<block key="Dialog_1050112_Title" korean="As garrison troops neoljeu" />
+	<block key="Dialog_1050112_Text0" korean="My friend Mickey's life too right man. Penetration gave only a fixed date of hungry people to course!" />
+	<block key="Dialog_1050113_Title" korean="Guard soldiers page" />
+	<block key="Dialog_1050113_Text0" korean="That's a very exciting day. Pirates defeat'm just a good day. Yahoo!" />
+	<block key="Dialog_1050114_Title" korean="Chief garrison soldiers" />
+	<block key="Dialog_1050114_Text0" korean="Dewil guy can not I have my opponent. I looks alike? I'm a little different. Do you look here, do not point to the face?" />
+	<block key="Dialog_1050115_Title" korean="Guard soldiers dewil" />
+	<block key="Dialog_1050115_Text0" korean="Do not tie a handkerchief and dewil! Why am I fighting I better come back!" />
+	<block key="Dialog_1050116_Title" korean="Wolves lost" />
+	<block key="Dialog_1050116_Text0" korean="Kyaung ... kyaung ... kyaung ...." />
+	<block key="Dialog_1050117_Title" korean="Non-virgin line Rummy Rummy" />
+	<block key="Dialog_1050117_Text0" korean="Alas, the curse cleared up! \u003cbr\u003e Also the power of love is great!" />
+	<block key="Dialog_2020303_Title" korean="Notice board" />
+	<block key="Dialog_2020303_Text0" korean="Unauthorized post attached to the strict prohibition should\n\u003cbr\u003e \u003cbr\u003e\n\u003cB\u003e [High Priest hits Leone] \u003c/ b\u003e" />
+	<block key="Dialog_2040101_Title" korean="Sarah Vale" />
+	<block key="Dialog_2040101_Text0" korean="Sell ​​a weapon." />
+	<block key="Dialog_2040101_answer_0_text" korean="Weapons Stores" />
+	<block key="Dialog_2040102_Title" korean="Blacksmith Joel" />
+	<block key="Dialog_2040102_Text0" korean="Sale of equipment." />
+	<block key="Dialog_2040102_answer_0_text" korean="Equipment store" />
+	<block key="Dialog_2040301_Title" korean="Jackson" />
+	<block key="Dialog_2040301_Text0" korean="Have something to find? \u003cbr\u003e Many good things. Find out slowly." />
+	<block key="Dialog_2040301_answer_0_text" korean="Grocery store" />
+	<block key="Dialog_2040302_Title" korean="Apprentice Myra" />
+	<block key="Dialog_2040302_Text0" korean="Yiraeboedo lot of useful potions." />
+	<block key="Dialog_2040302_answer_0_text" korean="Potion Shop" />
+	<block key="Dialog_2040303_Title" korean="Paradis and" />
+	<block key="Dialog_2040303_Text0" korean="I do not really except what." />
+	<block key="Dialog_2040303_answer_0_text" korean="Potion / grocery store" />
+	<block key="Dialog_2040304_Title" korean="Meg Sharon Bale" />
+	<block key="Dialog_2040304_Text0" korean="I do not really except what yamalro." />
+	<block key="Dialog_2040304_answer_0_text" korean="Potion / grocery store" />
+	<block key="Dialog_2040401_Title" korean="Hillary" />
+	<block key="Dialog_2040401_Text0" korean="Take only the Priest." />
+	<block key="Dialog_2040401_answer_0_text" korean="Priest learning skills" />
+	<block key="Dialog_2040402_Title" korean="Panthera" />
+	<block key="Dialog_2040402_Text0" korean="Take only the Wizards." />
+	<block key="Dialog_2040402_answer_0_text" korean="Learning Skills Wizards" />
+	<block key="Dialog_2040403_Title" korean="Optimuseu" />
+	<block key="Dialog_2040403_Text0" korean="Take only the Guardian." />
+	<block key="Dialog_2040403_answer_0_text" korean="Guardian learning skills" />
+	<block key="Dialog_2040404_Title" korean="Find a word" />
+	<block key="Dialog_2040404_Text0" korean="Take only the Berserker" />
+	<block key="Dialog_2040404_answer_0_text" korean="Berserker skill to learn." />
+	<block key="Dialog_2040405_Title" korean="Ensya" />
+	<block key="Dialog_2040405_Text0" korean="Take only Nature." />
+	<block key="Dialog_2040405_answer_0_text" korean="Nature Learning Skills" />
+	<block key="Dialog_2040406_Title" korean="Creative Max" />
+	<block key="Dialog_2040406_Text0" korean="Take only the assassin." />
+	<block key="Dialog_2040406_answer_0_text" korean="Assassin skill learning" />
+	<block key="Dialog_2040601_Title" korean="The Lens" />
+	<block key="Dialog_2040601_Text0" korean="Ask anything about the fellow." />
+	<block key="Dialog_2040601_answer_0_text" korean="Fellow retailers" />
+	<block key="Dialog_2040601_answer_1_text" korean="Fellow growth unseal" />
+	<block key="Dialog_2040601_answer_2_text" korean="Fellow reserve space expansion" />
+	<block key="Dialog_2040601_answer_3_text" korean="Fellow of the ground surrounding area" />
+	<block key="Dialog_2040601_answer_4_text" korean="Flight Fellow of the surrounding area" />
+	<block key="Dialog_2040602_Title" korean="Camero" />
+	<block key="Dialog_2040602_Text0" korean="Ask anything about the fellow." />
+	<block key="Dialog_2040602_answer_0_text" korean="Fellow retailers" />
+	<block key="Dialog_2040602_answer_1_text" korean="Fellow growth unseal" />
+	<block key="Dialog_2040602_answer_2_text" korean="Fellow reserve space expansion" />
+	<block key="Dialog_2040602_answer_3_text" korean="Fellow of the ground surrounding area" />
+	<block key="Dialog_2040602_answer_4_text" korean="Flight Fellow of the surrounding area" />
+	<block key="Dialog_2040603_Title" korean="That rent" />
+	<block key="Dialog_2040603_Text0" korean="Ask anything about the fellow." />
+	<block key="Dialog_2040603_answer_0_text" korean="Fellow retailers" />
+	<block key="Dialog_2040603_answer_1_text" korean="Fellow growth unseal" />
+	<block key="Dialog_2040603_answer_2_text" korean="Fellow reserve space expansion" />
+	<block key="Dialog_2040603_answer_3_text" korean="Fellow reserve space expansion" />
+	<block key="Dialog_2040603_answer_5_text" korean="Fellow of the ground surrounding area" />
+	<block key="Dialog_2040603_answer_6_text" korean="Flight Fellow of the surrounding area" />
+	<block key="Dialog_3040001_Title" korean="Captain Vic Birkin" />
+	<block key="Dialog_3040001_Text0" korean="Here in my land Pardo How did the trip? And, just now and my stomach is indeed Canas could leave the castle, I'll Tashi together?" />
+	<block key="Dialog_3040001_Answer_0_Text" korean="Canas and also go to the castle" />
+	<block key="Dialog_3030801_Title" korean="The company portals Sebastian" />
+	<block key="Dialog_3030801_Text0" korean="I wanted to be and he is a small, but they do help to open up the barren land here. Where would you like to go?" />
+	<block key="Dialog_3030801_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3030802_Title" korean="The company portals Charles" />
+	<block key="Dialog_3030802_Text0" korean="Mobile Portal garrison here in earnest is not yet connected to the reed wind outside the village. Would you like to go there?" />
+	<block key="Dialog_3030802_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3030803_Title" korean="The company is Las portal" />
+	<block key="Dialog_3030803_Text0" korean="We moved to this portal is to send and receive the kingdom of Canas contact with humans. Adventure thou, Tell me where you want to move." />
+	<block key="Dialog_3030803_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3030804_Title" korean="The company portals Rica tool" />
+	<block key="Dialog_3030804_Text0" korean="Thou adventure! Oh it is going where?" />
+	<block key="Dialog_3030804_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3030805_Title" korean="The company portals Darwin" />
+	<block key="Dialog_3030805_Text0" korean="This is the only route that still has not been pioneering move to the village weeping cliff. Do you want to go there?" />
+	<block key="Dialog_3030805_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3040801_Title" korean="Senior company portals Sebastian" />
+	<block key="Dialog_3040801_Text0" korean="Canas gender and also can be moved anywhere on the continent in an instant thanks to the powerful all depends Ellora received the grace of the Goddess. Please tell me where to go." />
+	<block key="Dialog_3040801_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3600001_Title" korean="Non Laramie Avenue explorer tree" />
+	<block key="Dialog_3600001_Text0" korean="Hello, I am a free agent Laramie Avenue explorer. Returning home after a long time this was the one who messed up the investigation. \u003cbr\u003e somehow the cause of the confusion seems to be shrouded in a veil in a cave. I imagine you can get closer to the eye of man am dont Ladan. You need your strength." />
+	<block key="Dialog_3600002_Title" korean="Free rummy nurse Lee Sergio" />
+	<block key="Dialog_3600002_Text0" korean="Many mureo Middle is killed or scrape. I wanted to revive them all came here because I can not get into the eyes of Ladan. Help me please?" />
+	<block key="Dialog_3600003_Title" korean="High Wizard Kou slow" />
+	<block key="Dialog_3600003_Text0" korean="Ice Castle is a fortress for a far easier Rondo or similar. Entry with colleagues, but results were devastating. Keueuk ... barely survived, but it is hard to even move." />
+	<block key="Dialog_3600004_Title" korean="In front of the cave called Vinnie vanilla" />
+	<block key="Dialog_3600004_Text0" korean="Nyan traveler? We are top crescent dispatched to each region itdang supply the goods needed by travelers. \u003cbr\u003e I want to deal with me \u003cbr\u003e \u003cbr\u003e. Per common things that do not deal with special needs hadang coins. \u003cbr\u003e That If you encounter a ditch coins come at any day! \u003cbr\u003e good things and exchange it getdang!" />
+	<block key="Dialog_3600004_Answer_3_Text" korean="La Beanie shop" />
+	<block key="Dialog_3600005_Title" korean="Vinny front of the manor called vanilla" />
+	<block key="Dialog_3600005_Text0" korean="Nyan traveler? We are top crescent dispatched to each region itdang supply the goods needed by travelers. \u003cbr\u003e I want to deal with me \u003cbr\u003e \u003cbr\u003e. Per common things that do not deal with special needs hadang coins. \u003cbr\u003e That If you encounter a ditch coins come at any day! \u003cbr\u003e good things and exchange it getdang!" />
+	<block key="Dialog_3600005_Answer_4_text" korean="La Beanie shop" />
+	<block key="Dialog_3600100_Title" korean="Pirates of bismuth" />
+	<block key="Dialog_3600100_Text0" korean="Bismuth is a notorious pirate to this outrageous character in Cara de Pirate. Fort says she entrusted everything to live at Karnak and really drunk. \u003cbr\u003e Karnak at'd have to deal with any visible face of the bi ... not an easy task at Karnak even these are not weak pirates." />
+	<block key="Dialog_3600101_Title" korean="Vinnie po la la captive" />
+	<block key="Dialog_3600101_Text0" korean="My name is Vinnie po la radang! \u003cbr\u003e Here are friggin good to go for a peek ... No, no, 90000000000010000 party has gone caught me go! \u003cbr\u003e Me out haejumyeon getdang week so good! So come save me ditch! \u003cbr\u003e Geodang regret it ... just go! I disaccharide! The real party!" />
+	<block key="Dialog_3100801_Title" korean="The company Philip portal" />
+	<block key="Dialog_3100801_Text0" korean="Welcome to this beautiful and spacious for Canas. Where would you like to go?" />
+	<block key="Dialog_3100801_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_3100802_Title" korean="The company portals Harrison" />
+	<block key="Dialog_3100802_Text0" korean="Welcome to Fort Ellis bar. Where would you like to go?" />
+	<block key="Dialog_3100802_Answer_0_Text" korean="Go to Portal" />
+	<block key="Dialog_2020337_Title" korean="Notice board" />
+	<block key="Dialog_2020337_Text0" korean="Let's overthrow Cara de Pirates! We must win!\n\u003cbr\u003e \u003cbr\u003e\n\u003cB\u003e [volts between the defensive captain Mickey] \u003c/ b\u003e" />
+	<block key="Dialog_1050118_Title" korean="Croix guards Cao Kun Rune" />
+	<block key="Dialog_1050118_Text0" korean="Delon whether those drums he's aware of the human view, huh meet? \u003cbr\u003e Tropez and sister do not know how much you suffered because of him. Amber is like that because he's just a rather striking haejuneunge Thank you! Twe!" />
+	<block key="Dialog_1050119_Title" korean="Cindy guards" />
+	<block key="Dialog_1050119_Text0" korean="Rottweilers are aware that Kuhn Croix Croix wanji are you met? \u003cbr\u003e Miners Captain Coon Croix and the cast was so that they should not be complaining about ... \u003cbr\u003e live like never live like that night burst fight Cause Another thing I saw for the first time." />
+	<block key="Dialog_1050120_Title" korean="Escort Wizard eseuka" />
+	<block key="Dialog_1050120_Text0" korean="Dispatch came out in the capital province under the duty to protect workers from the Valley of the Yeti ... what film she is not fighting with each other on the same side so night burst? \u003cbr\u003e Yeti to fight back, let alone even I'm a Throwing shapes production. Ehyu ..." />
+	<block key="Dialog_1050121_Title" korean="Miners captain drones" />
+	<block key="Dialog_1050121_Text0" korean="Live real live like that woman first saw Godzilla! \u003cbr\u003e Stubborn bull shame what Haran doing what minotawooreuseu class stubborn exactly what happened?! \u003cbr\u003e How proud ownership of the same mindset as sipjangsaeng like that one!" />
+	<block key="Dialog_1050122_Title" korean="Lisa Miner" />
+	<block key="Dialog_1050122_Text0" korean="Mr. Drone ditch on the map here happened quite a while, so I thought I'd pop Cause someday. \u003cbr\u003e Drone uncle ditch'm awful creaking're gonna tampered with from the time I first met Tropez. Originally, I was supposed to stay together in one place with my croissant Kuhn, whose primer tigyeok Atlantic miners now only gets paid out separately. Ehyu ~" />
+	<block key="Dialog_1050123_Title" korean="Kuhn artisan Tropez and Croix" />
+	<block key="Dialog_1050123_Text0" korean="If you do not live like that my first live looks furry humans. If humans are like watermelons world like him. I will leave this world without any regrets." />
+	<block key="Dialog_1050124_Title" korean="Vinnie La Corona" />
+	<block key="Dialog_1050124_Text0" korean="Watnyang what to buy? I do not pull it itdang! With me in \u003cbr\u003e miners also Pandang popular rum!" />
+	<block key="Dialog_1050124_Answer_0_Text" korean="Grocery store" />
+	<block key="Dialog_1050125_Title" korean="Maria Kuhn artisan croissants I" />
+	<block key="Dialog_1050125_Text0" korean="A mixed cases where humans are a long time coming. \u003cbr\u003e But would make a mistake if you think we welcome you all." />
+	<block key="Dialog_1050126_Title" korean="Aiden mercenary Hagel" />
+	<block key="Dialog_1050126_Text0" korean="I came back to hear the news that the original yimaeul home village to village, but the risk mercenary work tteodolmyeo threat to \u003cbr\u003e village and looted food was nothing short of even the buy now whilst trying to stop the road, like that they'll also receive a scourge dead!" />
+	<block key="Dialog_1050127_Title" korean="Valiant dig Cannes" />
+	<block key="Dialog_1050127_Text0" korean="To the prosperity of the Croix kunjok! \u003cbr\u003e I dig the space of just a croissant kunjok Valiant! \u003cbr\u003e Chiefs who Tyre Khan's not the right arm! Woo Ha ha ha! \u003cbr\u003e I am now in place to protect the town hall Tyre Khan's revelation is the richest island in a very important mission!" />
+	<block key="Dialog_1050128_Title" korean="Fu High Priest lease" />
+	<block key="Dialog_1050128_Text0" korean="Here's a man thing came up the first time since Aisha. \u003cbr\u003e I do not hate humans, like other mureo Middleton. Pardo or just simply want to keep the goddess from Rondo land full of blessing, which he hath bestowed." />
+	<block key="Dialog_9015742_Title" korean="Fellow of the ground surrounding area" />
+	<block key="Dialog_9015742_Text0" korean="General ground Fellow] \u003cbr\u003e reindeer \u003cbr\u003e white flowers and white snow white mane draw bar claw wolf \u003cbr\u003e \u003cbr\u003e tendons ridden Gross \u003cbr\u003e black rex" />
+	<block key="Dialog_9015743_Title" korean="Flight Fellow of the surrounding area" />
+	<block key="Dialog_9015743_Text0" korean="[General Aviation Fellowship] \u003cbr\u003e Rai News Slade 500m \u003cbr\u003e silvery white wings Amaranth 650m 550m \u003cbr\u003e" />
+	<block key="Dialog_9015744_Title" korean="Fellow of the ground surrounding area" />
+	<block key="Dialog_9015744_Text0" korean="General ground Fellow] \u003cbr\u003e quick-witted Wild Blue Wolf Blue Wolf \u003cbr\u003e" />
+	<block key="Dialog_9015744_Text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e [elite ground Fellow] \u003cbr\u003e Wolf King Shaka la \u003cbr\u003e Frozen Ice Hounds \u003cbr\u003e rex" />
+	<block key="Dialog_9015745_Title" korean="Flight Fellow of the surrounding area" />
+	<block key="Dialog_9015745_Text0" korean="[General Aviation Fellowship - scream of \u003cbr\u003e cold of a new storm Drake 600m 600m \u003cbr\u003e" />
+	<block key="Dialog_9015745_Text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e [elite flight Fellow] \u003cbr\u003e maryong Strasbourg this 600m" />
+	<block key="Dialog_9015746_Title" korean="Fellow of the ground surrounding area" />
+	<block key="Dialog_9015746_Text0" korean="General ground Fellow] \u003cbr\u003e ferocious grizzly \u003cbr\u003e domesticated gray snow tiger \u003cbr\u003e Shah woobel \u003cbr\u003e rough snow tiger claw Liger \u003cbr\u003e \u003cbr\u003e ice lion \u003cbr\u003e forest being ready I \u003cbr \u003e Ice Tarantula \u003cbr\u003e thin ice turtle" />
+	<block key="Dialog_9015746_Text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e [elite ground Fellow] \u003cbr\u003e wide a wool \u003cbr\u003e blizzard wolf \u003cbr\u003e wild canine bladder size \u003cbr\u003e ice Kruger \u003cbr\u003e seorikkot ray dose" />
+	<block key="Dialog_9015747_Title" korean="Flight Fellow of the surrounding area" />
+	<block key="Dialog_9015747_Text0" korean="[General Aviation Fellowship] \u003cbr\u003e nunbaram Wyvern Wyvern 600m \u003cbr\u003e huinteol owl frost 700m 600m \u003cbr\u003e" />
+	<block key="Dialog_9015747_Text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e [elite flight Fellow] \u003cbr\u003e fierce beak Rhodes Wyvern bones 900m 750m \u003cbr\u003e relentless frost" />
+	<block key="Dialog_1030005_Title" korean="The wave Lark Camp Board" />
+	<block key="Dialog_1030005_Text0" korean="In order to combat frost Corps and require a helping hand." />
+	<block key="Dialog_2021801_Title" korean="Elounda merchant" />
+	<block key="Dialog_2021801_Text0" korean="Come warang! Do you have Elounda itnyang? \u003cbr\u003e So welcome disaccharide! \u003cbr\u003e General Store In watching even things not seen getdang week!. \u003cbr\u003e Once per bwarang around slowly \u003cbr\u003e not sell as well as for someone without Elounda. \u003c br\u003e" />
+	<block key="Dialog_2021801_answer_0_text" korean="Elounda store" />
+	<block key="Dialog_2021801_answer_1_text" korean="Confidence in the quality" />
+	<block key="Dialog_9015764_Title" korean="Confidence in the quality" />
+	<block key="Dialog_9015764_Text0" korean="Our dealers Elounda combination eopdang only human who doubts the \u003cbr\u003e quality sugar is not treated as an absolute human copper copper etc. stuff. Per doubt bad! \u003cbr\u003e Things we Elounda dealers offering a combination of all the best middle-Las disaccharide! Hadang sure!" />
+	<block key="Dialog_9015775_Title" korean="Gordon stale" />
+	<block key="Dialog_9015775_Text0" korean="Yesterday was full of vigor yigotdo started raiding the village. \u003cbr\u003e Pirates while, it was a mess, everything. \u003cbr\u003e Ship my work who supply the needed wood to dry mean deongdalah went away. They damn pirates." />
+	<block key="Dialog_1050129_Title" korean="Pensione apprentice wizard" />
+	<block key="Dialog_1050129_Text0" korean="Wizard of truth we have no doubt that this is the right person to hit your physical eyes of Ladan." />
+	<block key="Dialog_1050129_answer_0_text" korean="Eye of Ladan" />
+	<block key="Dialog_9020030_Title" korean="Eye of Ladan" />
+	<block key="Dialog_9020030_Text0" korean="Ladan of the eye to corruption-free rummy culprit and cause a swamp looking turncoat. \u003cbr\u003e Ladan's, not the ancient demigod eyes ... It is true wizard of us were sent to the cave's sake defeat it right ." />
+	<block key="Dialog_9015776_Title" korean="Tri-gut" />
+	<block key="Dialog_9015776_Text0" korean="What's happened? \u003cbr\u003e This is a dangerous area to attend travelers. \u003cbr\u003e As you can see, blown by a landslide cliff road to the village can not I weep not yet know where these things happen. \u003cbr\u003e \u003cbr\u003e Residents For the safety of travelers and thinking do our best to proceed the recovery operation." />
+	<block key="Dialog_9015777_Title" korean="Gruber" />
+	<block key="Dialog_9015777_Text0" korean="Parque my land is my home. \u003cbr\u003e This landslide is in fact suffered a lot by looking measures are well aware about. Please leave. \u003cbr\u003e \u003cbr\u003e Says I'll always revert to the old look." />
+	<block key="Dialog_9015778_Title" korean="Mine" />
+	<block key="Dialog_9015778_Text0" korean="Recent landslides have occurred in a row and I have been creating anxiety among the miners. \u003cbr\u003e Situation malyijyo think that may be more serious than you see with the eye. Well as other natural phenomena am something of a situation that turns even rumors that force is applied .. \u003cbr\u003e \u003cbr\u003e I hope things just did not serious." />
+	<block key="Dialog_2021602_Title" korean="Weapons production technician block Rex (reed wind village)" />
+	<block key="Dialog_2021602_Text0" korean="Weapons production technology is right, there is nothing to learn, not just anyone!" />
+	<block key="Dialog_2021602_answer_0_text" korean="Post a step weapons production technology" />
+	<block key="Dialog_2021603_Title" korean="Armorsmithing technician platen (reed wind village)" />
+	<block key="Dialog_2021603_Text0" korean="Knowing how to make the armor's assertion keondae greatest blessing." />
+	<block key="Dialog_2021603_answer_0_text" korean="Post a stage production technologies Armor" />
+	<block key="Dialog_2021604_Title" korean="Fellow researchers table Runt (reed wind village)" />
+	<block key="Dialog_2021604_Text0" korean="The fellow that wanted to get a strong fellow fellows tame way is not recommended. That my fellow \u003cbr\u003e why people just do not think only weak? \u003cbr\u003e Fellow steadily when technology can be strong enough to continue the study of any Fellow ." />
+	<block key="Dialog_2021604_answer_0_text" korean="Post a fellow research phase" />
+	<block key="Dialog_2021605_Title" korean="Tree with ornaments technician Rob Rubin (reed wind village)" />
+	<block key="Dialog_2021605_Text0" korean="Beauty is kind of just flattering. Simple yet stylish, do not you feel the jewelry with unique needs? \u003cbr\u003e Jewelry making skills, if I think any number possible." />
+	<block key="Dialog_2021605_answer_0_text" korean="Post a jewelry SKILL" />
+</blocks>

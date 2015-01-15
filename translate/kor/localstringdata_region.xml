@@ -1,0 +1,413 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="region_f00_001_name" korean="¬À€·¸ÒXÇ " />
+	<block key="region_f00_002_name" korean="à¬µÑXÇ " />
+	<block key="region_f00_003_name" korean="à¬8»äÂ" />
+	<block key="region_f00_004_name" korean="¬Â¥ÇXÇ " />
+	<block key="region_f00_005_name" korean="à¬µÑXÇ " />
+	<block key="region_f00_006_name" korean="õ¬É " />
+	<block key="region_f01_001_name" korean="”Í}·\Õ " />
+	<block key="region_f01_002_name" korean="" />
+	<block key="region_f01_005_name" korean="àÂá¸0®¬Àè² " />
+	<block key="region_f01_006_name" korean="¾|·0® " />
+	<block key="region_f01_007_name" korean="(Â¨¬ÄÉ " />
+	<block key="region_f01_008_name" korean="à¬”Æ\Õ " />
+	<block key="region_f01_009_name" korean="¨°€½ " />
+	<block key="region_f01_010_name" korean="à¬”Æ\Õ " />
+	<block key="region_f01_011_name" korean="­DÌ˜°4» " />
+	<block key="region_f01_012_name" korean="¾|·0® " />
+	<block key="region_f01_013_name" korean="½€½ " />
+	<block key="region_f01_014_name" korean="ÈÕ<»´ÅÄÉ " />
+	<block key="region_f01_015_name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_f01_020_name" korean="Ý¹9¸XÇ " />
+	<block key="region_d00_001_name" korean=" ÇÈ " />
+	<block key="region_d00_002_name" korean="ˆ½tÇ " />
+	<block key="region_d00_003_name" korean="1Áœ° " />
+	<block key="region_d00_004_name" korean="à¬" />
+	<block key="region_d01_001_name" korean="" />
+	<block key="region_d01_002_name" korean="" />
+	<block key="region_d01_003_name" korean="LÇ°À\Õ " />
+	<block key="region_d01_004_name" korean="" />
+	<block key="region_d01_005_name" korean="1¼‘ÇXÇ " />
+	<block key="region_d01_006_name" korean="1¼‘ÇXÇ " />
+	<block key="region_d02_001_name" korean="ÐÓÈÕ " />
+	<block key="region_d02_002_name" korean="¼Å´Å™½@Ç " />
+	<block key="region_d02_003_name" korean="€½ÁÄÉ " />
+	<block key="region_d02_004_name" korean="²ô¼|·XÎ”² " />
+	<block key="region_d02_005_name" korean="@Ç­Á " />
+	<block key="region_d02_006_name" korean="„¼$¸ÄÉ " />
+	<block key="region_d02_007_name" korean="­°À " />
+	<block key="region_d02_008_name" korean="@Ç­Á " />
+	<block key="region_d02_009_name" korean="¬À€·¸ÒXÇ " />
+	<block key="region_d02_010_name" korean="@Ç­Á " />
+	<block key="region_f02_001_Name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_f02_002_Name" korean="„¼$¸ÄÉ " />
+	<block key="region_f02_003_Name" korean="°ÀÁÕ¤Â " />
+	<block key="region_f02_004_Name" korean="Ô”ÆXÇ " />
+	<block key="region_f02_005_Name" korean="ìÓ¨ÖXÇ " />
+	<block key="region_f02_006_Name" korean="¬Àå°¼¯ " />
+	<block key="region_f02_007_Name" korean="Çä²€· " />
+	<block key="region_f02_008_Name" korean="ÑÅÇ€· " />
+	<block key="region_f02_009_Name" korean="ÂÄ³1Á " />
+	<block key="region_f02_010_Name" korean="ÂÄ³1Á " />
+	<block key="region_f02_011_Name" korean="¨º¬¹$± " />
+	<block key="region_f02_012_Name" korean="ø»…ºXÇ " />
+	<block key="region_f02_013_Name" korean="Ï°ÆˆÉ " />
+	<block key="region_f02_014_Name" korean="tÎ|¹¸YÅ " />
+	<block key="region_f02_015_Name" korean="Ï°ÆˆÉ " />
+	<block key="region_f02_016_Name" korean="½€½ " />
+	<block key="region_f02_017_Name" korean="Ì³¬¼Œ· " />
+	<block key="region_f02_018_Name" korean="õ¬Ù³ " />
+	<block key="region_f02_019_Name" korean="¼Å´Å™½@Ç " />
+	<block key="region_f02_020_Name" korean="ìÓ¨ÖXÇ " />
+	<block key="region_f02_021_Name" korean="ìÓ¨ÖXÇ " />
+	<block key="region_f02_022_Name" korean="àÂá¸XÇ " />
+	<block key="region_f02_023_Name" korean="4»P´¥ÇtÇ " />
+	<block key="region_f02_024_Name" korean="ø»…ºXÇ " />
+	<block key="region_f02_025_Name" korean="ÈÀ|° " />
+	<block key="region_f02_026_Name" korean="©¬Ù³XÇ " />
+	<block key="region_f02_027_Name" korean="Â8ÖàÂá¸XÇ " />
+	<block key="region_f02_028_Name" korean="°ÀÁÕ¤Â " />
+	<block key="region_f02_029_Name" korean="ˆ½tÇ " />
+	<block key="region_c01_001_Name" korean="¨°€½ " />
+	<block key="region_c01_002_Name" korean="ØÅø­¸xÇ " />
+	<block key="region_c01_003_Name" korean="p¬\Î " />
+	<block key="region_c01_004_Name" korean="Ù³€½ " />
+	<block key="region_c01_005_Name" korean="à¬”ÆXÇ " />
+	<block key="region_c01_006_Name" korean="UÆm­ " />
+	<block key="region_c01_007_Name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_c01_008_Name" korean="­¥Ç " />
+	<block key="region_c01_009_Name" korean="ÁÀÅÅÀÉl­" />
+	<block key="region_c01_010_Name" korean="õ¬ÅÅÀÉl­" />
+	<block key="region_c01_011_Name" korean=" Ó\¸°Æ " />
+	<block key="region_c01_012_Name" korean="¨°€½ " />
+	<block key="region_c01_013_Name" korean="Ù³€½ " />
+	<block key="region_c01_014_Name" korean="½¬D¾" />
+	<block key="region_c01_015_Name" korean="ÂÄ³1Á " />
+	<block key="region_c01_016_Name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_c01_017_Name" korean="Á€½ " />
+	<block key="region_c01_018_Name" korean="¹Â¬¹XÇ " />
+	<block key="region_c01_019_Name" korean="Æ­XÇ " />
+	<block key="region_c01_020_Name" korean="¼ØÅ|·¤Â " />
+	<block key="region_c01_021_Name" korean="Æ­XÇ " />
+	<block key="region_c01_022_Name" korean="UÆm­ " />
+	<block key="region_c01_023_Name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_c01_024_Name" korean="•Íõ¼XÇ " />
+	<block key="region_c01_025_Name" korean="ØÅ\¸|· " />
+	<block key="region_c01_026_Name" korean="ìÅàÂXÇ " />
+	<block key="region_c01_027_Name" korean="Â8ÖàÂá¸ " />
+	<block key="region_c01_028_Name" korean="àÂÁÐXÇ " />
+	<block key="region_c01_029_Name" korean="ÂÄ³1Á " />
+	<block key="region_c01_030_Name" korean="ÂÄ³1Á " />
+	<block key="region_c01_031_Name" korean="m­UÆ " />
+	<block key="region_c01_032_Name" korean="1Á¤Âì·´Æ " />
+	<block key="region_c01_033_Name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_c01_034_Name" korean="8®Ü´ " />
+	<block key="region_c01_035_Name" korean="8®Ü´ " />
+	<block key="region_c01_036_Name" korean="ŠÇ" />
+	<block key="region_c01_037_Name" korean="à¬”ÆXÇ " />
+	<block key="region_c01_038_Name" korean="Á€½ " />
+	<block key="region_c01_039_Name" korean="à¬”ÆXÇ " />
+	<block key="region_c01_040_Name" korean="à¬”ÆXÇ " />
+	<block key="region_c01_041_Name" korean="XÕtÎ˜°¤Â " />
+	<block key="Region_ST_001_Name" korean="¬" />
+	<block key="Region_ST_002_Name" korean="xÔx¹‘²" />
+	<block key="Region_ST_003_Name" korean="ÂD¾" />
+	<block key="Region_ST_004_Name" korean="tÕÈè² " />
+	<block key="Region_ST_005_Name" korean="tÕÈè² " />
+	<block key="Region_ST_006_Name" korean="tÕÈè² " />
+	<block key="Region_ST_007_Name" korean="tÕÈè² " />
+	<block key="Region_ST_008_Name" korean="À¼ÈÇXÇ " />
+	<block key="Region_ST_009_Name" korean="$ÁÐÆ " />
+	<block key="Region_ST_010_Name" korean="µÑá¬È½¼ " />
+	<block key="Region_ST_011_Name" korean="è¸$ÆÄÐ " />
+	<block key="Region_ST_012_Name" korean="íÓìÓÈ¹DÇ " />
+	<block key="Region_ST_013_Name" korean="xÔx¹ì²[¾ " />
+	<block key="Region_ST_014_Name" korean="`¸Ä³XÇ " />
+	<block key="Region_ST_021_Name" korean="¬" />
+	<block key="Region_ST_022_Name" korean="D¾…ºŒÁ¬¹ " />
+	<block key="Region_ST_023_Name" korean="Ç‘Ç˜°4» " />
+	<block key="Region_ST_024_Name" korean="@Ç[¾<»°¬ " />
+	<block key="Region_ST_025_Name" korean="ÝÀ…ºXÇ " />
+	<block key="Region_ST_026_Name" korean="|ÅÂ¸ÆLÇ " />
+	<block key="Region_ST_027_Name" korean="µÑá¬XÇ " />
+	<block key="Region_ST_028_Name" korean="¼ÅLÇíÓÔ " />
+	<block key="Region_ST_029_Name" korean="tÕÈè² " />
+	<block key="Region_ST_031_Name" korean="LÅÂÆÅ”² " />
+	<block key="Region_ST_032_Name" korean="ŒÁt¹È¹ " />
+	<block key="region_vlc_001_Name" korean=" ¼|ÇÐÅ " />
+	<block key="region_vlc_002_Name" korean="ÀÉXÕ " />
+	<block key="region_vlc_003_Name" korean="tÕ" />
+	<block key="region_vlc_004_Name" korean="tÕ" />
+	<block key="region_vlc_005_Name" korean="|·è²XÇ " />
+	<block key="region_vlc_006_Name" korean="Ù³t­ " />
+	<block key="region_vlc_007_Name" korean="Ù³t­ " />
+	<block key="region_rdcb_001_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdcb_002_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdcb_003_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_001_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_002_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_003_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_004_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_005_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_006_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_007_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_008_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_rdc_009_Name" korean="¼ÅLÇ1Á " />
+	<block key="region_f01_e01_Name" korean="¨°€½ " />
+	<block key="region_f01_e02_Name" korean="½€½ " />
+	<block key="region_f04_001_Name" korean="xºÝ¹XÇ " />
+	<block key="region_f04_002_Name" korean="xºÝ¹XÇ " />
+	<block key="region_f04_003_Name" korean="xºÝ¹XÇ " />
+	<block key="region_f04_004_Name" korean="xºÝ¹XÇ " />
+	<block key="region_f04_005_Name" korean="×°ºDÅXÎ”² " />
+	<block key="region_f04_006_Name" korean="pÈ¬œ° " />
+	<block key="region_f04_007_Name" korean="ŠÇ" />
+	<block key="region_f04_008_Name" korean="à¬õ¬ " />
+	<block key="region_f04_009_Name" korean="È¹%¸XÇ " />
+	<block key="region_f04_010_Name" korean="[¾DÇ " />
+	<block key="region_f04_011_Name" korean="p¬" />
+	<block key="region_f04_012_Name" korean="ÐÐ•ÆXÇ " />
+	<block key="region_f04_013_Name" korean="Ó4­´ " />
+	<block key="region_f01_e01_001_name" korean="Ý¹9¸XÇ " />
+	<block key="region_f03_001_name" korean="¬" />
+	<block key="region_f03_002_name" korean="ÝÀ…ºXÇ " />
+	<block key="region_f03_003_name" korean="tÕÈè² " />
+	<block key="region_f03_004_name" korean="ÂD¾" />
+	<block key="region_f03_005_name" korean="1¼@ÇXÇ " />
+	<block key="region_f03_006_name" korean="À¼ÈÇXÇ " />
+	<block key="region_f03_007_name" korean="Ó|¹|·lÐ " />
+	<block key="region_f03_008_name" korean="Ó|¹|·lÐ " />
+	<block key="region_f03_009_name" korean="íÓìÓ " />
+	<block key="region_f03_010_name" korean="µÑá¬ " />
+	<block key="region_f03_011_name" korean="Ót¹˜° " />
+	<block key="region_f03_012_name" korean="¼Å´Å™½@Ç " />
+	<block key="region_f03_013_name" korean="ŒÁt¹È¹ " />
+	<block key="region_d04_001_name" korean="¼ÅLÇ1Á " />
+	<block key="region_d04_002_name" korean="Á¬¹ " />
+	<block key="region_d04_003_name" korean="1" />
+	<block key="region_d04_004_name" korean="2" />
+	<block key="region_d04_005_name" korean="3" />
+	<block key="region_d04_006_name" korean="4" />
+	<block key="region_d04_007_name" korean="5" />
+	<block key="region_d04_008_name" korean="`¸Ä³XÇ " />
+	<block key="region_d04_009_name" korean="DÅtÇäÀXÇ " />
+	<block key="region_d11_001_name" korean="‰½@ÇÖ…ºè² " />
+	<block key="region_d11_002_name" korean="¬¼¹8®" />
+	<block key="region_d11_003_name" korean="©ÆÑ¼è² " />
+	<block key="region_d11_004_name" korean="tÕÈè² " />
+	<block key="region_d11_005_name" korean="©ÆÑ¼XÇ " />
+	<block key="region_d11_006_name" korean="tÕÈXÇ " />
+	<block key="region_d11_007_name" korean="iÖŒÁXÇ " />
+	<block key="region_d11_008_name" korean="tÕÈ Á" />
+	<block key="region_d11_009_name" korean="È¹<»tÇ " />
+	<block key="region_d11_010_name" korean="Ä³ÈXÇ " />
+	<block key="region_d11_011_name" korean="" />
+	<block key="region_d11_012_name" korean="Ö…ºè² " />
+	<block key="region_d11_013_name" korean="lÐ}·,Ò¤ÂXÇ " />
+	<block key="region_f03_014_name" korean="xÇ´ÅXÇ " />
+	<block key="region_f03_015_name" korean=",Ì¼Œ· " />
+	<block key="region_f03_016_name" korean="¬" />
+	<block key="region_f03_017_name" korean="¼Å´Å™½@Ç " />
+	<block key="region_vlc_008_Name" korean="ÉYÅ " />
+	<block key="region_vlc_009_Name" korean="½½Ê " />
+	<block key="region_vlc_010_Name" korean="¨°½Ê " />
+	<block key="region_vlc_011_Name" korean="Ù³½Ê " />
+	<block key="region_vlc_012_Name" korean="tÕ" />
+	<block key="region_vlc_013_Name" korean="tÕ" />
+	<block key="region_f03_019_name" korean="¬" />
+	<block key="region_f03_018_name" korean=" ¼|ÇÐÅ " />
+	<block key="region_c01_e01_name" korean="m­UÆ " />
+	<block key="region_f03_020_name" korean="Á¬¹ " />
+	<block key="region_f03_021_name" korean="@Ç[¾ " />
+	<block key="region_f01_e03_001_name" korean="(Â¨¬ÄÉ " />
+	<block key="region_c01_e03_name" korean="Ù³€½ " />
+	<block key="region_f02_e01_name" korean="¬Àå°¼¯ " />
+	<block key="region_f02_e02_name" korean="Ì³¬¼Œ· " />
+	<block key="region_f03_e01_name" korean="tÕÈè² " />
+	<block key="region_f03_e02_name" korean="tÕÈè² " />
+	<block key="region_f03_e03_name" korean="Ó|¹|·lÐ " />
+	<block key="region_f09_001_name" korean="ÂD¾" />
+	<block key="region_f09_002_name" korean="" />
+	<block key="region_f09_003_name" korean="õ¬É " />
+	<block key="region_f09_004_name" korean="¼ØÅ¬¹¤Â " />
+	<block key="region_f09_005_name" korean="°Æ¸Ò€· " />
+	<block key="region_f09_006_name" korean="xÔx¹ " />
+	<block key="region_f09_007_name" korean="”Í}·\Õ " />
+	<block key="region_f09_008_name" korean="4»ÀÉ¬ " />
+	<block key="region_f09_009_name" korean="t¬$Á " />
+	<block key="region_f09_010_name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_f09_011_name" korean="àÂXÇ " />
+	<block key="region_f09_012_name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_f09_013_name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_p01_01_name" korean="ÄÉ¬¹XÇ " />
+	<block key="region_p01_02_name" korean="Ý¹¥ÕXÇ " />
+	<block key="region_p01_03_name" korean="hÎ5»XÇ " />
+	<block key="region_p01_04_name" korean="ì² " />
+	<block key="region_p01_05_name" korean="hÎ5»XÇ " />
+	<block key="region_p01_06_name" korean="hÎ5»XÇ " />
+	<block key="region_p01_07_name" korean="‘²" />
+	<block key="region_p01_08_name" korean="ì²4»¬¹ " />
+	<block key="region_p01_09_name" korean="tÎ¾„Ç " />
+	<block key="region_p01_10_name" korean="ÄÉ¬¹XÇ " />
+	<block key="region_p01_11_name" korean="ì²4»¬¹ " />
+	<block key="region_p01_12_name" korean="‰½@Ç " />
+	<block key="region_p01_13_name" korean="ÑÅÇ€· " />
+	<block key="region_p01_14_name" korean="" />
+	<block key="region_p01_15_name" korean="‰½@Ç " />
+	<block key="region_p01_16_name" korean="‰½@Ç " />
+	<block key="region_p01_17_name" korean="ÛÀ¼Œ· " />
+	<block key="region_p01_18_name" korean=" Çä´ÀÉ " />
+	<block key="region_p01_19_name" korean="‰½@Ç " />
+	<block key="region_p01_20_name" korean="©¬Ù³XÇ " />
+	<block key="region_p01_21_name" korean="õ¬Ù³ " />
+	<block key="region_p01_22_name" korean="È¹¸Ò¸ " />
+	<block key="region_p01_23_name" korean="‰½@Ç " />
+	<block key="region_f15_001_name" korean="pÐ¼Œ·,Á" />
+	<block key="region_f15_002_name" korean="¸Ò|·²DÅXÇ " />
+	<block key="region_f16_001_name" korean="|ÅÀÐtÇÌ¹XÇ " />
+	<block key="region_f15_e01_001_name" korean="pÐ¼Œ·,Á" />
+	<block key="region_f16_01_name" korean="" />
+	<block key="region_f03_022_name" korean="D¾¤Â4»¸Ò " />
+	<block key="region_f03_023_name" korean="¼Å´Å™½@Ç " />
+	<block key="region_map_f01_01_name" korean=" ÇÈÀÉ " />
+	<block key="region_map_f01_02_name" korean="­DÌ˜°4» " />
+	<block key="region_map_c01_01_name" korean="à¬”ÆXÇ " />
+	<block key="region_map_c01_02_name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_map_f02_01_name" korean="Çä²€· " />
+	<block key="region_map_f02_02_name" korean="Ô”ÆXÇ " />
+	<block key="region_map_f02_03_name" korean="ìÓ¨ÖXÇ " />
+	<block key="region_map_f02_04_name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_map_f09_01_name" korean="õ¬É " />
+	<block key="region_map_f09_02_name" korean="|ÅÀÐtÇÌ¹XÇ " />
+	<block key="region_map_f09_03_name" korean="pÐ¼Œ·,Á" />
+	<block key="region_map_f03_01_name" korean="´À¼ÅLÇ " />
+	<block key="region_map_f03_02_name" korean="hÕ¼² " />
+	<block key="region_map_f03_03_name" korean="Ó|¹|·lÐ " />
+	<block key="region_map_f04_01_name" korean="õ¬íÅXÇ " />
+	<block key="region_map_p01_01_name" korean="‰½@Ç " />
+	<block key="region_f04_014_name" korean="TÅQ×á¸XÇ " />
+	<block key="region_f02_030_Name" korean="Çä²€· " />
+	<block key="region_map_c01_03_name" korean="ÑÅÇ€· " />
+	<block key="region_f03_024_name" korean="¥ÇD¾ " />
+	<block key="region_f03_025_name" korean="È‘ÇŒÁ" />
+	<block key="region_p01_24_name" korean="©¬Ù³XÇ " />
+	<block key="region_c01_e02_name" korean="UÆm­ " />
+	<block key="region_c01_e04_name" korean="½¬D¾" />
+	<block key="region_f02_e03_name" korean="ÜÂ@±ä´XÇ " />
+	<block key="region_map_f03_04_name" korean="˜°ÀÐäÀ " />
+	<block key="region_map_f03_05_name" korean="ðÅ® Â " />
+	<block key="region_map_f03_06_name" korean=" Ó\¸°Æ " />
+	<block key="region_map_f03_07_name" korean="<»}Å " />
+	<block key="region_f05_001_name" korean="LÅ8ÁlÐ " />
+	<block key="region_f05_002_name" korean="<ºÀÉ¼Œ· " />
+	<block key="region_f05_003_name" korean="EÅ½ºXÇ " />
+	<block key="region_f05_004_name" korean="¬ÀÉÀXÇ " />
+	<block key="region_f05_005_name" korean="@ÇT´ÇXÇ " />
+	<block key="region_f05_006_name" korean="Ä³ÈÇXÇ " />
+	<block key="region_f05_007_name" korean="lÐ\¸äÏXÇ " />
+	<block key="region_f05_008_name" korean="ˆ½¬Àp­è² " />
+	<block key="region_f05_009_name" korean="XÕ|·lÐ\¸ " />
+	<block key="region_f05_010_name" korean="ŠÇ" />
+	<block key="region_f05_011_name" korean="ÐÓÈÕ" />
+	<block key="region_f05_012_name" korean="¾|·0® " />
+	<block key="region_f05_013_name" korean="iÖ® " />
+	<block key="region_f05_014_name" korean="Ý¹¬XÇ " />
+	<block key="region_f05_015_name" korean="äÀ¤Ð¼XÇ " />
+	<block key="region_f05_016_name" korean="®­ " />
+	<block key="region_f05_017_name" korean="©ÆÑ¼è² " />
+	<block key="region_f05_018_name" korean="ˆ½XÇ " />
+	<block key="region_f05_019_name" korean="ýÈLÇXÇ " />
+	<block key="region_f05_020_name" korean="ˆ½¨ºXÇ " />
+	<block key="region_f99_001_name" korean="4»xÇÄ³" />
+	<block key="region_f99_002_name" korean="XÕtÎ˜°¤Â " />
+	<block key="region_AsC_001_Name" korean="ÈÒÈÀXÇ " />
+	<block key="region_AsC_002_Name" korean="lÐ¬¹˜Ì " />
+	<block key="region_AsC_003_Name" korean="ø»\¸ " />
+	<block key="region_AsC_004_Name" korean="¨°€½ " />
+	<block key="region_AsC_005_Name" korean="8Ì¨ºXÇ " />
+	<block key="region_AsC_006_Name" korean="É€½ " />
+	<block key="region_AsC_007_Name" korean="ÁÀ€½ " />
+	<block key="region_AsC_008_Name" korean="|Çø­ì·ÄÉ " />
+	<block key="region_AsC_009_Name" korean="Tºp³°ÆXÇ " />
+	<block key="region_AsC_010_Name" korean="ìÂ5Î€½ " />
+	<block key="region_AsC_011_Name" korean="tÇˆÉ8Ö|·XÇ " />
+	<block key="region_f98_001_Name" korean="°¬,Ò¥Ç " />
+	<block key="region_d13_001_Name" korean="à¬" />
+	<block key="region_d13_002_Name" korean="4»±ÄÉ " />
+	<block key="region_d13_003_Name" korean="´ÅP´´Æ " />
+	<block key="region_d13_004_Name" korean="" />
+	<block key="region_d13_005_Name" korean="Â@¸ÇXÇ " />
+	<block key="region_d13_006_Name" korean="Â@¸ÇXÇ " />
+	<block key="region_d13_007_Name" korean="È<» " />
+	<block key="region_d13_008_Name" korean="XÇÝÂ " />
+	<block key="region_d13_009_Name" korean="Â‰ÕÇXÇ " />
+	<block key="region_d13_010_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="region_d13_011_Name" korean=" Ç<» " />
+	<block key="region_d13_012_Name" korean="XÇÝÂ " />
+	<block key="region_d13_013_Name" korean="¤Â‡Î|·äÀXÇ " />
+	<block key="region_f98_002_Name" korean="°¬,Ò¥Ç " />
+	<block key="region_f05_021_name" korean="²<»XÇ " />
+	<block key="region_d06_001_name" korean="ŒÁXÖäÂ" />
+	<block key="region_d06_002_name" korean="Ù³%¸äÂ" />
+	<block key="region_d06_003_name" korean="È´ÅäÂ" />
+	<block key="region_d06_004_name" korean="ˆ½¬Àp­è² " />
+	<block key="region_d06_005_name" korean="XÕ5Î " />
+	<block key="region_d06_006_name" korean="ÉYÅ­¥Ç" />
+	<block key="region_d06_007_name" korean="ˆ½¬Àp­è² " />
+	<block key="region_d06_008_name" korean="”ÆÈÀ " />
+	<block key="region_f06_00_name" korean="™Ó,Ò|· " />
+	<block key="region_f06_01_name" korean="¬ Ì " />
+	<block key="region_f06_02_name" korean="ÐÆŒÁ " />
+	<block key="region_f06_03_name" korean="™Ó,Ò|· " />
+	<block key="region_f06_04_name" korean="È " />
+	<block key="region_f06_05_name" korean="È " />
+	<block key="region_f06_06_name" korean="™Ó,Ò|· " />
+	<block key="region_f06_07_name" korean="™Ó,Ò|· " />
+	<block key="region_f06_08_name" korean="L¾È¹XÇ " />
+	<block key="region_f06_09_name" korean="™Ó,Ò|· " />
+	<block key="region_f06_10_name" korean="TÅ´À" />
+	<block key="region_f05_e01_name" korean="ÐÓÈÕ" />
+	<block key="region_f05_e02_name" korean="€½TÖ¥Ç" />
+	<block key="region_map_f05_01_name" korean="LÅ8ÁlÐ " />
+	<block key="region_map_f05_02_name" korean="½8»" />
+	<block key="region_map_f05_03_name" korean="Ù³8»" />
+	<block key="region_map_f05_04_name" korean="¨°8»" />
+	<block key="region_map_f05_05_name" korean="Í¥Ç " />
+	<block key="region_map_f05_06_name" korean="D¾‰Õ\¸ " />
+	<block key="region_map_f05_07_name" korean=" Ó\¸°Æ " />
+	<block key="region_map_f05_08_name" korean="¡ÇTÖ " />
+	<block key="region_map_f05_09_name" korean="LÇÝÂ " />
+	<block key="region_map_f05_10_name" korean="È‘ÇŒÁ" />
+	<block key="region_map_f05_11_name" korean="ðÅ® Â " />
+	<block key="region_map_f05_12_name" korean="õ¬ÆÈ" />
+	<block key="region_map_f05_13_name" korean="pÈ¬¹äÂ" />
+	<block key="region_map_f05_14_name" korean="Ô”ÆXÇ " />
+	<block key="region_map_f05_15_name" korean="LÅ8ÁlÐ " />
+	<block key="region_map_f05_16_name" korean="\Ï	¸0Ñ " />
+	<block key="region_d13_000_Name" korean="à¬" />
+	<block key="region_f06_11_name" korean="™Ó,Ò|·" />
+	<block key="region_d06_009_name" korean="ˆ½¬Àp­è²XÇ " />
+	<block key="region_map_f05_17_name" korean="àÂÈ " />
+	<block key="region_f05_022_name" korean="àÂÈ " />
+	<block key="region_p02_01_name" korean="Ý¹ÇXÇ " />
+	<block key="region_p02_02_name" korean="iÖ<ÖXÇ " />
+	<block key="region_p02_03_name" korean="Ç Çü»XÇ " />
+	<block key="region_p02_04_name" korean="ÜÂ¬XÇ " />
+	<block key="region_p02_05_name" korean="Ý¹¬XÇ " />
+	<block key="region_p02_06_name" korean="ÆÐÆXÇ " />
+	<block key="region_p02_07_name" korean="ÈÝ¹XÇ " />
+	<block key="region_p02_08_name" korean="´Å`´XÇ " />
+	<block key="region_p02_09_name" korean="J®@Ç$¼XÇ " />
+	<block key="region_p02_10_name" korean="ü¬p¬XÇ " />
+	<block key="region_p02_11_name" korean="¸Ò­¹XÇ " />
+	<block key="region_p02_12_name" korean="ŠÇ" />
+	<block key="region_p02_13_name" korean="ðÅ%Æ" />
+	<block key="region_p02_14_name" korean="„¼$¸ÄÉ " />
+</blocks>

@@ -1,0 +1,764 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<blocks>
+	<keys num_keys="2" key1="key" key2="korean" />
+	<block key="dialog_1200001_title" korean="Mayor Bartolo" />
+	<block key="dialog_1200001_text0" korean="I'm welcome to tell Gocek town! I'm known as the mayor of the town Bartolo. \u003cbr\u003e \u003cbr\u003e This is not an easy task that pioneered the desert frontier town of Gocek residents know that great spirit and enthusiasm. ... Some time ago, but they all harbor guy named yongbyeongdan nourish none of the spirit through the frantic beating." />
+	<block key="dialog_1200002_title" korean="Staff Wu mark" />
+	<block key="dialog_1200002_text0" korean="Guard Jersey towns and fling mercenaries, but if I can hold out until the time is unknown. Morale of the soldiers have to follow a guy mercenaries experience and practical skills in higher if it's hard crowd. \u003cbr\u003e \u003cbr\u003e Reason anyway if to exorcise the mother Haba yongbyeongdan they secured a place village would not have lasted long. Time limit even have to pay to drive them down quickly." />
+	<block key="dialog_1200003_title" korean="Shadow Clan Elena (village)" />
+	<block key="dialog_1200003_text0" korean="Crow, leader of the faith for you, you know I heard that corresponds to the other members. Please show me your skills even as rumors should read the rest." />
+	<block key="dialog_1200004_title" korean="Gold Mine General Manager Madras" />
+	<block key="dialog_1200004_text0" korean="Gold mines and susongro're going ilgwo place where we are pittam shed. When I finally got to work a little less power while they ate mercenaries rolling intact where to go steal our ball ... I can see, Lee Dae Ro place!" />
+	<block key="dialog_1200004_answer_2_text" korean="Do you Do you know anything about Princess Rania?" />
+	<block key="dialog_1200005_title" korean="Chen mineral traders Trad" />
+	<block key="dialog_1200005_text0" korean="When I deokjom Vonage that it has been completed, this susongro unbelievable that the WAN ... but dont village guards gave me the life and fought well, thanks to the site every day to do huh anxiety. \u003cbr\u003e \u003cbr\u003e You are fighting shape kkaena am OSCAR Do not force the guards to give pony." />
+	<block key="dialog_1200006_title" korean="Captain Curtis" />
+	<block key="dialog_1200006_text0" korean="Ana village to guard against and that just makes them vicious mercenary how hard? But rather is to keep the sake of holding on to everyone in the village as I'm concerned is not a yimanjeoman. To turn the \u003cbr\u003e \u003cbr\u003e wish to charter a scoring leader, led the yongbyeongdan. Currently, only the first generation is not the only solution that way." />
+	<block key="dialog_1200007_title" korean="Shadow Clan Crow (Brage mine)" />
+	<block key="dialog_1200007_text0" korean="Here I have the time to delay. We have to solve the problem of the maximum power that can be. This time delay gets longer, as well as life and death of Princess Immortal Legion branches even guess they're not the journal earn what you are doing." />
+	<block key="dialog_1200008_title" korean="Shadow Clan Crow (fortress)" />
+	<block key="dialog_1200008_text0" korean="I never thought I'd leave this place ... We gotta make this not the Immortal Legion Fort Lee Dae Ro leave him! \u003cbr\u003e \u003cbr\u003e This fortress Sr. obviously a huge threat to the kingdom. We got to find a way to destroy the fort at the same time and wanted a princess." />
+	<block key="dialog_1200009_title" korean="Gryphon my article section D." />
+	<block key="dialog_1200009_text0" korean="We are the exclusive Golden Gryphon Knights for outsiders. This is because it is not a place where golden peaks spotted enough to allow access only to fill their greedy person [E] are also skills." />
+	<block key="dialog_1200010_title" korean="Yaheu Lu (Gryphon Knights Staff)" />
+	<block key="dialog_1200010_text0" korean="In order to maintain the same relationship between the law requires an equal amount of force. That the law which was among of who I always effective. \u003cbr\u003e \u003cbr\u003e Force [E] ppeogineun They also do not have the answer for February and strong punishment. One day will come when you start to see light attack aimed at the back is like." />
+	<block key="dialog_1200010_answer_6_text" korean="Have you ever turned on the Golden Princess Rania peaks?" />
+	<block key="dialog_1200011_title" korean="Elias fuse the ancient temples" />
+	<block key="dialog_1200011_text0" korean="Well, writing a spell of darkness ... Now they put the power of destruction in the hands ... Oh, you should not! If you need to use your number ... what will stop. Uh ... uhh ..." />
+	<block key="dialog_1200011_answer_2_text" korean="The ancient temple is the kind of place?" />
+	<block key="dialog_1200011_answer_3_text" korean="Do you know for those who have occupied the temple?" />
+	<block key="dialog_1200011_answer_4_text" korean="What would be so great that the destruction of the word?" />
+	<block key="dialog_1200012_title" korean="Gryphon King Ken Griffith" />
+	<block key="dialog_1200012_text0" korean="Only those with the courage to fight against the cruel fate can argue hope. Thine adversity and hardship, but the future direction blocking this step if you do not give him take its'll always be with you by the light." />
+	<block key="dialog_1200013_title" korean="Gryphon Knight-Commander myself Hebrews (Golden Peaks)" />
+	<block key="dialog_1200013_text0" korean="I dressed myself Hida Golden Gryphon article. If you want to prove their strength, not in words I hope to show in practice. \u003cbr\u003e \u003cbr\u003e Malman lot of guys that really are not law appears this moment standing on the battlefield. But you are ahead of wrongdoing malman like a coward to commit hope not. I hope Kuhn Croix desert." />
+	<block key="dialog_1200014_title" korean="Liao Ben Knights Griffon (Golden Peaks)" />
+	<block key="dialog_1200014_text0" korean="If anyone owns Golden Gryphon Gryphon Knights am making. But the most important thing is sympathetic with the Gryphon. \u003cbr\u003e But we are their masters, Because I also a friend." />
+	<block key="dialog_1200015_title" korean="Thelma (seed combination of abundance)" />
+	<block key="dialog_1200015_text0" korean="One of the things the world people are misinformed about the desert's cuisine is biased to think that might be called a dish cooked in the desert. \u003cbr\u003e \u003cbr\u003e desert specialties are difficult to come by because the material would ppunyiji widely known variety and depth of flavor is lacking eopjyo Even though this top notch." />
+	<block key="dialog_1200015_answer_6_text" korean="Is it a combination of seed abundance is any organization?" />
+	<block key="dialog_1200015_answer_7_text" korean="Have you created a combination of seed abundance is Who?" />
+	<block key="dialog_1200016_title" korean="Mary (pilgrims)" />
+	<block key="dialog_1200016_text0" korean="Sanctuary by en route length of Ellora eotneunde ... thats what bongbyeon whether soldiers were in the village of Gocek know I know I'm doing the best horse collapsed and everyone tired of the people there is no fresh water to drink. \u003cbr\u003e But'll do what I can. Helping people in need of immediate help than white day pilgrimage to the Holy Land malyijyo'll be following the teachings of The Goddess." />
+	<block key="dialog_1200016_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e Maybe. If Princess Rania called up as a reincarnation of the goddess Ellora He would also have you been going much different from the first act." />
+	<block key="dialog_1200016_answer_1_text" korean="Are How is it seems someone is injured?" />
+	<block key="dialog_1200016_answer_2_text" korean="Will you help the villagers why here?" />
+	<block key="dialog_1200016_answer_3_text" korean="Thought it was a well in the town center." />
+	<block key="dialog_1200017_title" korean="Hashish (Alchemists of the desert)" />
+	<block key="dialog_1200017_text0" korean="In humans and animals live in the desert as a tough environment guhaedo the same material that's been so potent multiples outstanding law. And if you think this effect using superior materials and guidance could even mean the results are published. \u003cbr\u003e \u003cbr\u003e Thing-I'm not a simple equation of alchemy! You should come find me at any time if you are interested in alchemy." />
+	<block key="dialog_1200018_title" korean="I Germanus" />
+	<block key="dialog_1200018_text0" korean="Haba yongbyeongdan all guys are really rough and treacherous bastards. Fortunately, thanks to Curtis ppunyijyo be hammered captain or chief Wu's jihwiryeok mark. I need something to reverse the tide might think of anything, please let me know if anything." />
+	<block key="dialog_1200018_answer_3_text" korean="Disciples of Hasisi It just knows well about alchemy?" />
+	<block key="dialog_1200019_title" korean="At Den (Black Kuhn Architects)" />
+	<block key="dialog_1200019_text0" korean="Do you know what the most important thing to go live in the desert? Yes, the water! Right on the water! \u003cbr\u003e \u003cbr\u003e Know Gocek village stretched over, even drinking water might cause shes going situation. Survey to more important problems to solve water shortage problems early on in search of underground water vein before large." />
+	<block key="dialog_1200020_title" korean="Darcy (collector)" />
+	<block key="dialog_1200020_text0" korean="Fellow great master bar with a group collector der following his achievements. Desert of immortality has got lots of material is much research to do odd fellow. \u003cbr\u003e \u003cbr\u003e You if the person helping us deal with fellow Would you conducted a study?" />
+	<block key="dialog_1200020_answer_8_text" korean="The collector is what organizations?" />
+	<block key="dialog_1200020_answer_9_text" korean="I'd like to know a fellow master Vine der." />
+	<block key="dialog_1200021_title" korean="Hiyam (arms dealer)" />
+	<block key="dialog_1200021_text0" korean="Yeotdamyeon usual would have been good supply of weapons can do right now is not very good. They all went and took the weapon Harbor yongbyeongdan ... \u003cbr\u003e \u003cbr\u003e Want to get any remaining stuff?" />
+	<block key="dialog_1200021_answer_0_text" korean="Weapons Stores" />
+	<block key="dialog_1200022_title" korean="Eve Raha (Al Gocek village guards)" />
+	<block key="dialog_1200022_text0" korean="Although the river yongbyeongdan guys, but we will try our best to keep the village guards as a mission. \u003cbr\u003e \u003cbr\u003e Not like anything you hamkkehae jundamyeon geopnal minutes." />
+	<block key="dialog_1200022_answer_3_text" korean="How about the situation of the Guard?" />
+	<block key="dialog_1200023_title" korean="Oh hydroxide (structural engineer)" />
+	<block key="dialog_1200023_text0" korean="That's for you? I called a war going on, such as architects building is broken, we are busy is the law? We like people to come forward pihaeeul people in need to restore the building, which would be oh dont breathe easier. So I would want to say oh spared as much as possible not to support us." />
+	<block key="dialog_1200023_answer_3_text" korean="Where all workers are required to build?" />
+	<block key="dialog_1200024_title" korean="Earhart (flying as an administrator)" />
+	<block key="dialog_1200024_text0" korean="The only challenge would motha month old? Nowadays, there is very little professional fellow astronauts are looking for a flight of Challenger. \u003cbr\u003e \u003cbr\u003e Now, but not much to find a place for me Ido It is a place that helped make my dream unfold. Doing flying the fellow is one important than anything to me." />
+	<block key="dialog_1200024_answer_4_text" korean="I would like to know about the flight of the Challenger." />
+	<block key="dialog_1200025_title" korean="Lindbergh (pilot)" />
+	<block key="dialog_1200025_text0" korean="The flight of the Challenger to take up once more lively thing that is true, but this does not just lay down and go away will be. \u003cbr\u003e \u003cbr\u003e Is a flight of Challenger remember the countless hero who baechulhae to leave here until the day of birth of another Hero I will not." />
+	<block key="dialog_1200025_answer_5_text" korean="What are full of dust under the flight?" />
+	<block key="dialog_1200025_answer_6_text" korean="Please tell us more about the breath of saendeuwom." />
+	<block key="dialog_1200025_answer_7_text" korean="What is safe to fly?" />
+	<block key="dialog_1200026_title" korean="Charles (pilot)" />
+	<block key="dialog_1200026_text0" korean="Someone is going along the footprints left by cattle was lost the moment to go the way footsteps disappear. \u003cbr\u003e \u003cbr\u003e Karl is required to go there like footsteps along to me. As soon as the cut off my balgil also turned his footsteps forced to stop." />
+	<block key="dialog_1200026_answer_3_text" korean="Please tell us about the disappearance was Carl." />
+	<block key="dialog_1200026_answer_4_text" korean="How do I find the Carl?" />
+	<block key="dialog_1200027_title" korean="Astronaut Carl (the legendary aviator)" />
+	<block key="dialog_1200027_text0" korean="What do you think is going to be astronauts lost in the endless expanse of goals? I am the lone fly the skies alone there. If you reach the corner of the erected Sky aims not just have to set the following goals. \u003cbr\u003e \u003cbr\u003e Failure to do so soon crashed and I'll say ... a way to live ... I'll look at why not?" />
+	<block key="dialog_1200028_title" korean="Rayira (Miner)" />
+	<block key="dialog_1200028_text0" korean="Miners work that hard body of a woman, obviously it's not an easy task. But did find the excitement of the streets in the dark when the ground is something that sparkles's about what can not be compared even with the other." />
+	<block key="dialog_1200029_title" korean="Samira (Al Gocek village guards)" />
+	<block key="dialog_1200029_text0" korean="Revenge is yet another multiple birth, but if you think of their families and those who grieve and forgive all those who died colleagues Haba yongbyeongdan mind they do occur. My revenge will not stop until the last one of all Haba yongbyeongdan die." />
+	<block key="dialog_1200030_title" korean="Maham de (Al Gocek village guards)" />
+	<block key="dialog_1200030_text0" korean="Recently Harbor yongbyeongdan pop up all the clutter village guards, but we can not be doing only yongbyeongdan opponent. Gocek villagers know you want to create an environment in which to live safely That's what we do." />
+	<block key="dialog_1200031_title" korean="Beonil (apprenticeship Royal Force)" />
+	<block key="dialog_1200031_text0" korean="And Canas called beonil which serves as an apprentice at the Royal Force. My job is helping Kendall's going to investigate the primeval 3 youngmul called saendeuwom. \u003cbr\u003e \u003cbr\u003e Yes, but that's about chores and still Apprenticeship than before because the direct investigation." />
+	<block key="dialog_1200032_title" korean="Kendall (Royal Force)" />
+	<block key="dialog_1200032_text0" korean="And Canas called Kendall of the Royal Force. The main purpose of this study is to observe the ecology of ancient saendeuwom 3 youngmul and obtain a sample. \u003cbr\u003e \u003cbr\u003e Ready equipped to most states ... The problem is research to some extent against the monstrous saendeuwom is whether to conduct." />
+	<block key="dialog_1200033_title" korean="Masereu (Wanderer)" />
+	<block key="dialog_1200033_text0" korean="I experienced so far been the greatness of nature is not something that can be expressed in words. Dare to sleep, but expressed the power of nature is to transcend the nation or ideology or religion, you'll be able to say the four given itself. Any deviation from \u003cbr\u003e \u003cbr\u003e ego, you can see more beautiful state." />
+	<block key="dialog_1200034_title" korean="Yusei (girl lost your memory)" />
+	<block key="dialog_1200034_text0" korean="Oh, Can not remember anything. Who I am?" />
+	<block key="dialog_1200034_answer_3_text" korean="Anything that comes to mind is really nothing?" />
+	<block key="dialog_1200035_title" korean="Right Rhodes (Miner)" />
+	<block key="dialog_1200035_text0" korean="Mineral ores are not endless climb its utilization in accordance with the following process. I do not know that there is a croissant from Kuhn him?" />
+	<block key="dialog_1200036_title" korean="Lato Ninh (collector)" />
+	<block key="dialog_1200036_text0" korean="The most important thing when dealing with fellow rapport with Zaza per steer the tame Fellow and Fellow. When the sympathetic fellow ORV riding in a state that does not work well frightened one day wearing a big scandal. You remember what I said and to always be careful." />
+	<block key="dialog_1200036_answer_7_text" korean="The collector is what organizations?" />
+	<block key="dialog_1200036_answer_8_text" korean="I'd like to know a fellow master Vine der." />
+	<block key="dialog_1200037_title" korean="This leakage (wandering Brage)" />
+	<block key="dialog_1200037_text0" korean="Human, Brage hate. I know. May well bear with between humans and bra groups." />
+	<block key="dialog_1200037_answer_4_text" korean="You ... The leak? Yiguna been a long time since the bra carboxylic forest." />
+	<block key="dialog_1200037_answer_5_text" korean="I heard they had attacked a human desert Brage mine." />
+	<block key="dialog_1200037_answer_6_text" korean="You're now became quite proficient human right?" />
+	<block key="dialog_1200038_title" korean="Press (self-taught wizard)" />
+	<block key="dialog_1200038_text0" korean="Give 'em a mere yongbyeongdan guys and Brage away chiyigo chiyigo, jjeutjjeutjjeut. Now I'm not late to show Jailbreak've even." />
+	<block key="dialog_1200038_answer_3_text" korean="Have you learned a spell on his own?" />
+	<block key="dialog_1200039_title" korean="Cardan (The Alchemist)" />
+	<block key="dialog_1200039_text0" korean="Would you like idiots only the power sensor alchemy is what I know? If you can take advantage of the power of alchemy malyijyo Hopefully, There never stronger than capable of handling himself easily." />
+	<block key="dialog_1200039_answer_4_text" korean="Do something happens in the desert?" />
+	<block key="dialog_1200040_title" korean="Ganesha (Armor Trader)" />
+	<block key="dialog_1200040_text0" korean="There sturdy armor! Do not die, that the river is only itdapnida can save your life in advance dusimyeon Grab your armor." />
+	<block key="dialog_1200040_answer_0_text" korean="Armor shop" />
+	<block key="dialog_1200041_title" korean="Nina (jewelry production technician)" />
+	<block key="dialog_1200041_text0" korean="Jewelry making is a delicate touch and attention I need! Wispy emotions accumulated in \u003cbr\u003e battlefield look reminds me put your mind governed by the jewelry making. If you'll be able to create wonderful things clear. Okay?" />
+	<block key="dialog_1200041_answer_0_text" korean="Jewelry materials store" />
+	<block key="dialog_1200042_title" korean="La Beanie El runeu (Elounda merchant)" />
+	<block key="dialog_1200042_text0" korean="Come warang! Do you have Elounda itnyang? \u003cbr\u003e So welcome disaccharide! \u003cbr\u003e General Store In watching even things not seen getdang week!. \u003cbr\u003e Once per bwarang around slowly \u003cbr\u003e not sell as well as for someone without Elounda. \u003c br\u003e" />
+	<block key="dialog_1200042_answer_0_text" korean="Elounda store" />
+	<block key="dialog_1200042_answer_1_text" korean="Confidence in the quality" />
+	<block key="dialog_1200043_title" korean="Confidence in the quality" />
+	<block key="dialog_1200043_text0" korean="Our dealers Elounda combination eopdang only human who doubts the \u003cbr\u003e quality sugar is not treated as an absolute human copper copper etc. stuff. Per doubt bad! \u003cbr\u003e Things we Elounda dealers offering a combination of all the best middle-Las disaccharide! Hadang sure!" />
+	<block key="dialog_1200044_title" korean="Reseuneo (fellow craftsmen)" />
+	<block key="dialog_1200044_text0" korean="Fellows are stronger when fighting eases the law! Try to create a Fellow related equipment." />
+	<block key="dialog_1200044_answer_0_text" korean="Fellow materials store" />
+	<block key="dialog_1200045_title" korean="Les achieved (Potion Merchant)" />
+	<block key="dialog_1200045_text0" korean="Sell ​​potions in the fight! Dusimyeon looked around slowly packed the necessary things to yourself you will not ever regret things in battle." />
+	<block key="dialog_1200045_answer_0_text" korean="Potion Shop" />
+	<block key="dialog_1200046_title" korean="Rios (Armor Trader)" />
+	<block key="dialog_1200046_text0" korean="I have worn a lot of equipment. \u003cbr\u003e Now Would you like to come once there is armor deserves to you?" />
+	<block key="dialog_1200046_answer_0_text" korean="Armor shop" />
+	<block key="dialog_1200047_title" korean="Marina (food trader)" />
+	<block key="dialog_1200047_text0" korean="Come on, take a look around! I also like to eat dead ghost lifelong regret that I can not eat this food ttaetkkal." />
+	<block key="dialog_1200047_answer_0_text" korean="Food shops" />
+	<block key="dialog_1200048_title" korean="Mass Horn (Armor Trader)" />
+	<block key="dialog_1200048_text0" korean="It's the law look at the armor can be seen on the trail of the person undergoing the battlefield wearing! \u003cbr\u003e Would you like to explore a little bit about the look is not bad also invest in armor?" />
+	<block key="dialog_1200048_answer_0_text" korean="Armor shop" />
+	<block key="dialog_1200049_title" korean="Bata Horn (food trader)" />
+	<block key="dialog_1200049_text0" korean="Even if you're doing away hungry to concentrate progress has not been able to get. \u003cbr\u003e Now, I got a piping hot food for you. Go eat before it gets cold!" />
+	<block key="dialog_1200049_answer_0_text" korean="Food shops" />
+	<block key="dialog_1200050_title" korean="Santa I (arms dealer)" />
+	<block key="dialog_1200050_text0" korean="Ahem! Do not Finish've been wondering if you have a perfect match for one weapon ... Specifications Try to catch it! Do not worry, do not touch them being expelled batjin money. Come See Cause catch?" />
+	<block key="dialog_1200050_answer_0_text" korean="Weapons Stores" />
+	<block key="dialog_1200051_title" korean="Sage Ross (arms dealer)" />
+	<block key="dialog_1200051_text0" korean="Did you come to see the weapons? Before this the best deal aneuni or buy one if you like things. Particularly cheap, I got head!" />
+	<block key="dialog_1200051_answer_0_text" korean="Weapons Stores" />
+	<block key="dialog_1200052_title" korean="Three domestics (haberdasher)" />
+	<block key="dialog_1200052_text0" korean="Do not just going to see what you have one. Then do not keep your hands off also sell buried ..." />
+	<block key="dialog_1200052_answer_0_text" korean="Grocery store" />
+	<block key="dialog_1200053_title" korean="Sofia (food trader)" />
+	<block key="dialog_1200053_text0" korean="Come on even days deounde stand a cup of cold drink and go. Once you'd look at a glass of drink does not end with two cups?" />
+	<block key="dialog_1200053_answer_0_text" korean="Food shops" />
+	<block key="dialog_1200054_title" korean="Shoe mitel (food trader)" />
+	<block key="dialog_1200054_text0" korean="Because I come to you and let it cool a little oasis of good food gyeotdeulyeoseo even sweat. Enjoy hours of free standing soaking feet in the water! Not that good?" />
+	<block key="dialog_1200054_answer_0_text" korean="Food shops" />
+	<block key="dialog_1200055_title" korean="Adrian (Potion Merchant)" />
+	<block key="dialog_1200055_text0" korean="Get your potions! Filled with the heat of the desert cold tteutteuthan live potion!" />
+	<block key="dialog_1200055_answer_0_text" korean="Potion Shop" />
+	<block key="dialog_1200056_title" korean="Andy (cooking craftsman)" />
+	<block key="dialog_1200056_text0" korean="Do you want to learn to cook? All right! Ready, I'd have to have the freshest ingredients and tools? \u003cbr\u003e \u003cbr\u003e'm Ready to do it is fine. I see that it has a couple of singles." />
+	<block key="dialog_1200056_answer_0_text" korean="Cooking ingredients Stores" />
+	<block key="dialog_1200057_title" korean="Ilya (Potion Merchant)" />
+	<block key="dialog_1200057_text0" korean="It's a special potion made of a mix of water oasis. Times more expensive potion, but today I'll Take your pick is specially drilled at half price." />
+	<block key="dialog_1200057_answer_0_text" korean="Potion Shop" />
+	<block key="dialog_1200058_title" korean="Jackie (alchemy artisan)" />
+	<block key="dialog_1200058_text0" korean="A learned alchemy properly Can you make a tough various potions to get in the store. \u003cbr\u003e \u003cbr\u003e I Come find no problem, so do not be ready at any time to teach the mysteries of alchemy." />
+	<block key="dialog_1200058_answer_0_text" korean="Alchemy Materials Shops" />
+	<block key="dialog_1200059_title" korean="Karl Lena (Potion Merchant)" />
+	<block key="dialog_1200059_text0" korean="Are you here to buy potions? \u003cbr\u003e Did about it. I sell potions are laid down in other areas and are selling different potions. \u003cbr\u003e Please try again once, you'll feel the power Gushing in the body." />
+	<block key="dialog_1200059_answer_0_text" korean="Potion Shop" />
+	<block key="dialog_1200060_title" korean="Carl (Armor Trader)" />
+	<block key="dialog_1200060_text0" korean="You mean the battle is still inde nose armor that has not been ready? He also truly oblivious. \u003cbr\u003e'll Give specifications do not take this opportunity to explore cheaper!" />
+	<block key="dialog_1200060_answer_0_text" korean="Armor shop" />
+	<block key="dialog_1200061_title" korean="Other Press (weapons production technician)" />
+	<block key="dialog_1200061_text0" korean="Materials prepared dwaetdamyeon things right for the job. \u003cbr\u003e're On the best weapons for their own use to make your own. Is not it?" />
+	<block key="dialog_1200061_answer_0_text" korean="Inorganic materials store" />
+	<block key="dialog_1200062_title" korean="Paulo (haberdasher)" />
+	<block key="dialog_1200062_text0" korean="What things do you need? If you would like explore things slowly, so whatever." />
+	<block key="dialog_1200062_answer_0_text" korean="Grocery store" />
+	<block key="dialog_1200063_title" korean="Fu yoreu (haberdasher)" />
+	<block key="dialog_1200063_text0" korean="If only weapons and armor appearance could you risk it is defeated and only properly equipped? \u003cbr\u003e Now that offer a variety of things as how to choose Let's taste. Did you see \u003cbr\u003e \u003cbr\u003e people think bapman live to eat? Nene, do you have to eat to live." />
+	<block key="dialog_1200063_answer_0_text" korean="Grocery store" />
+	<block key="dialog_1200064_title" korean="Wu mark (Brage mine)" />
+	<block key="dialog_1200064_text0" korean="Have you come? This situation is a very good thing I did not come to you. \u003cbr\u003e \u003cbr\u003e Yongbyeongdan When I deal with him this time. That's Brage they have trouble. Dont think there is a big crowd let go out step by step so you." />
+	<block key="dialog_1200065_title" korean="Baheuri (Golden Peaks senate chairman)" />
+	<block key="dialog_1200065_text0" korean="Golden Peaks'm rirago Bach, chairman of the Senate. Chairman Must not have much power thing as collecting the opinions of age just by eating just a senior representative to seek help from a Griffon Knight-Commander. \u003cbr\u003e \u003cbr\u003e The young warriors of the kingdom would be nice if the punishment CAME've even grand feast As you can see, also referred to nourish barren place than just come up, yes." />
+	<block key="dialog_1200066_title" korean="Carboxylic Lamu (Knights Griffon instructor)" />
+	<block key="dialog_1200066_text0" korean="I am in charge of carboxylic John Lamb instructor opening of the Golden Gryphon Knights. \u003cbr\u003e Apprenticeship trainees notorious article Gryphon among higher learning for me as an instructor to give high-intensity combat training volume are high survival rate after EO side." />
+	<block key="dialog_1200066_answer_2_text" korean="Does the training of Gryphon Knights of progress in any way?" />
+	<block key="dialog_1200066_answer_3_text" korean="I'm wondering gyogwannim the ability to view the articles in who you are." />
+	<block key="dialog_1200067_title" korean="Niagara alpon (Golden Peaks chef)" />
+	<block key="dialog_1200067_text0" korean="People and animals eat and how to use it's power. The more you live in, especially when there is little I can eat like a golden peaks have to fill the ship to withstand high cooking the delicious and nutritious. \u003cbr\u003e Although I only save the flora and fauna in its use. Material is tough difficulties." />
+	<block key="dialog_1200067_answer_1_text" korean="Do the residents of Golden Peaks are satisfied with the dishes are cooked blind?" />
+	<block key="dialog_1200068_title" korean="Gel Rex (apprenticeship Griffon article)" />
+	<block key="dialog_1200068_text0" korean="Sharkey is being carried out on a mission to observe the nest of the bar. But it was still not completed the training I have determined that you have something up anneyo Xu Zhi. \u003cbr\u003e \u003cbr\u003e Griffon visible to shame the greater the moisture as articles are not afraid to commit mistakes repeatedly." />
+	<block key="dialog_1200068_answer_1_text" korean="Articles candidates often do they do?" />
+	<block key="dialog_1200069_title" korean="The body of the collector" />
+	<block key="dialog_1200069_text0" korean="I smell the kwekwe one body." />
+	<block key="dialog_1200070_title" korean="Carrot (seed combination of abundance)" />
+	<block key="dialog_1200070_text0" korean="Who's the core of what it tastes even cooking. Good body, nice view ...? In this case eopjyo good for nothing mate. \u003cbr\u003e \u003cbr\u003e Look with any material or do you only get good. I'd like to show you a heavenly taste." />
+	<block key="dialog_1200070_answer_6_text" korean="Is it a combination of seed abundance is any organization?" />
+	<block key="dialog_1200070_answer_7_text" korean="Have you created a combination of seed abundance is Who?" />
+	<block key="dialog_1200070_answer_8_text" korean="Golden Peaks Did you enjoy the cooking of dishes blind?" />
+	<block key="dialog_1200071_title" korean="Serenity Mai (1st treasure hunter)" />
+	<block key="dialog_1200071_text0" korean="I think that things happen and could not be made, no one does not respond any request can not be called a plus contributions do have first class treasure hunter. \u003cbr\u003e Own Odd adventurers also be talking all the duties I have done so far surprised you?" />
+	<block key="dialog_1200071_answer_4_text" korean="Are you looking for some treasure?" />
+	<block key="dialog_1200071_answer_5_text" korean="This is what it looks like .. I .. do you know about the temple here?" />
+	<block key="dialog_1200072_title" korean="Auguste (sculptor)" />
+	<block key="dialog_1200072_text0" korean="Well-placed piece is crafted bowl put the soul of the sculptor made it such a presence. \u003cbr\u003e \u003cbr\u003e I would not show as an excellent sculptor, you can still tell a great sculptor's work if you are only interested in." />
+	<block key="dialog_1200072_answer_3_text" korean="Hagien pieces are concerned, it is not safe here." />
+	<block key="dialog_1200072_answer_4_text" korean="Do you have any particular piece you want to make?" />
+	<block key="dialog_1200073_title" korean="Aram (Treasure Hunter)" />
+	<block key="dialog_1200073_text0" korean="The risk is that professional treasure hunter's job to ensure high returns, but. Of course, when talking about only limited success. If it fails, the frightened \u003cbr\u003e not think!" />
+	<block key="dialog_1200073_answer_6_text" korean="How many are hidden treasures here?" />
+	<block key="dialog_1200074_title" korean="V. (The Phantom of the sand)" />
+	<block key="dialog_1200074_text0" korean="... My music box music box ... I wish you good at any one time heard the sound of my music box." />
+	<block key="dialog_1200074_answer_3_text" korean="Do you also lost something will Yard Already flee?" />
+	<block key="dialog_1200074_answer_4_text" korean="Having a guard day to see here. The dress ..." />
+	<block key="dialog_1200075_title" korean="Heosel (the day after President ghost)" />
+	<block key="dialog_1200075_text0" korean="Think I've seen what happens to die when the ghost? \u003cbr\u003e \u003cbr\u003e Film stars die I do not think holding deogun just right. So what, you know what? I do better to die than to live!" />
+	<block key="dialog_1200075_answer_1_text" korean="Do you remember before he died?" />
+	<block key="dialog_1200075_answer_2_text" korean="Were between Veronica and what is next?" />
+	<block key="dialog_1200076_title" korean="Abandoned book" />
+	<block key="dialog_1200076_text0" korean="The book cover is old and bitter turn the dust." />
+	<block key="dialog_1200077_title" korean="Tomb of Yusei" />
+	<block key="dialog_1200077_text0" korean="Yusei Deng lies only in the place that was so grave." />
+	<block key="dialog_1200078_title" korean="The body of merchants" />
+	<block key="dialog_1200078_text0" korean="I am a pungent body odor. Only the state of the body seems to be eroding hard to predict when that died." />
+	<block key="dialog_1200079_title" korean="Mission Board (gold mining in transport)" />
+	<block key="dialog_1200079_text0" korean="I hava yongbyeongdan looting of all the areas of the desert of immortality is happening frequently now he wants to external access should demand special attention. \u003cbr\u003e \u003cbr\u003e Know Gocek Guard" />
+	<block key="dialog_1200080_title" korean="Mission Board (Oasis)" />
+	<block key="dialog_1200080_text0" korean="I hava yongbyeongdan looting of all the areas of the desert of immortality is happening frequently now he wants to external access should demand special attention. \u003cbr\u003e \u003cbr\u003e Know Gocek Guard" />
+	<block key="dialog_1200081_title" korean="La Moot" />
+	<block key="dialog_1200081_text0" korean="Dear ahkul contact received. \u003cbr\u003e Is just ready to set sail at the end indeed. \u003cbr\u003e Am a dangerous area to fully prepare!" />
+	<block key="dialog_1200081_answer_0_text" korean="Leave for the desert Undead" />
+	<block key="dialog_1200082_title" korean="Captain Jeff you" />
+	<block key="dialog_1200082_text0" korean="If you want to see me go into the desert of immortality. Going ships to barren areas in \u003cbr\u003e also gender and Jeff are you ship operated ppunyini!" />
+	<block key="dialog_1200082_answer_0_text" korean="Leave for the desert Undead" />
+	<block key="dialog_1200083_title" korean="Jan-Terre" />
+	<block key="dialog_1200083_text0" korean="If you want to go to Canas also be configured to come find me first mate Jan Terre-sama!" />
+	<block key="dialog_1200083_answer_0_text" korean="Canas and may leave the castle" />
+	<block key="dialog_1200084_title" korean="Mission Board (Brage mine)" />
+	<block key="dialog_1200084_text0" korean="I hava yongbyeongdan looting of all the areas of the desert of immortality is happening frequently now he wants to external access should demand special attention. \u003cbr\u003e \u003cbr\u003e Know Gocek Guard" />
+	<block key="dialog_1200085_title" korean="Staff Wu marks (gold mining in transport)" />
+	<block key="dialog_1200085_text0" korean="Guard Jersey towns and fling mercenaries, but if I can hold out until the time is unknown. Morale of the soldiers have to follow a guy mercenaries experience and practical skills in higher if it's hard crowd. \u003cbr\u003e \u003cbr\u003e Reason anyway if to exorcise the mother Haba yongbyeongdan they secured a place village would not have lasted long. Time limit even have to pay to drive them down quickly." />
+	<block key="dialog_1200085_answer_6_text" korean="Have you seen the Princess Rania?" />
+	<block key="dialog_1200086_title" korean="Staff Wu mark (Oasis)" />
+	<block key="dialog_1200086_text0" korean="Guard Jersey towns and fling mercenaries, but if I can hold out until the time is unknown. Morale of the soldiers have to follow a guy mercenaries experience and practical skills in higher if it's hard crowd. \u003cbr\u003e \u003cbr\u003e Reason anyway if to exorcise the mother Haba yongbyeongdan they secured a place village would not have lasted long. Time limit even have to pay to drive them down quickly." />
+	<block key="dialog_1200087_title" korean="Yaheu Lu (Gryphon Knights Staff)" />
+	<block key="dialog_1200087_text0" korean="In order to maintain the same relationship between the law requires an equal amount of force. That the law which was among of who I always effective. \u003cbr\u003e \u003cbr\u003e Force [E] ppeogineun They also do not have the answer for February and strong punishment. One day will come when you start to see light attack aimed at the back is like." />
+	<block key="dialog_1200088_title" korean="Gryphon Knights Leah Ben (Immortal Legion fort)" />
+	<block key="dialog_1200088_text0" korean="I finally came to the fortress of the immortal legions. \u003cbr\u003e Way the new Gryphon I'll show you that they are easy, but I can do my share to the full article as a golden section." />
+	<block key="dialog_1200089_title" korean="Gryphon articles section Di Mai (Immortal Legion fort)" />
+	<block key="dialog_1200089_text0" korean="It was bright, the morning of the battle. Yigetjyo lie \u003cbr\u003e if afraid. Golden Gryphon Knights weakling, but we have to give in fear is not only one involved.'ll \u003cbr\u003e To overcome the fear of moving forward!" />
+	<block key="dialog_1200090_title" korean="La dozen guards know Gocek" />
+	<block key="dialog_1200090_text0" korean="The materials used to build a gold mine sincere in fact received the surprise of yongbyeongdan of transport was transported on a wagon! Follow the \u003cbr\u003e me! You better hurry!" />
+	<block key="dialog_1200091_title" korean="Yaheu root (griffons _ Templar fortress Staff)" />
+	<block key="dialog_1200091_text0" korean="In order to maintain the same relationship between the law requires an equal amount of force. That the law which was among of who I always effective. \u003cbr\u003e \u003cbr\u003e Force [E] ppeogineun They also do not have the answer for February and strong punishment. One day will come when you start to see light attack aimed at the back is like." />
+	<block key="dialog_1200092_title" korean="Is it a combination of seed abundance is any organization?" />
+	<block key="dialog_1200092_text0" korean="Abundance of seeds union members through a variety of amenities and efficient management for five landowners economic activities are agriculture, was established by the organization to improve the social status. \u003cbr\u003e \u003cbr\u003e But over time, the simple agricultural activities category meddle growth is not restricted. Usually directly related to food that has been done under the full support of the business combination is the most light \u003cfont color = \" />
+	<block key="dialog_1200092_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e developed a superb introduction to the local cuisine and catering for the poor who've had to revive the kingdom. Now transformed into the form of a top speed They said there'sa and expand the business area as a whole middle-Ras." />
+	<block key="dialog_1200093_title" korean="Have you created a combination of seed abundance is Who?" />
+	<block key="dialog_1200093_text0" korean="The actual owner of the seed combination of richness're in the five landowners. People referred to them \u003cfont color = \5 Daenong came by growing a combination of excellent cohesion. \u003cbr\u003e Agricultural activities, but only those activities that narrower limits were clearly trying to meddle expand into other business areas in order to solve it." />
+	<block key="dialog_1200093_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e one of which is through the catering was strong support hayeoteoyo laid a solid business foundation in the middle, Las throughout. \u003cbr\u003e a number of celebrity chefs such effects also were released into the \u003cfont color = \\u003e Walk ikhiryeo the chef of the road \u003c/ font\u003e is itdapnida Those who actively participates in the union." />
+	<block key="dialog_1200094_title" korean="The collector is what organizations?" />
+	<block key="dialog_1200094_text0" korean="Collector fellow master \u003cfont color = \We wandered the continent does not attend collectors are based in a particular region. \u003cbr\u003e \u003cbr\u003e We have got all the personality of the collector to collect a number of research institutes and various items of the continent, to analyze and study a particular culture and royal power I am making a large top and the Institute also maintains a close relationship." />
+	<block key="dialog_1200094_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e research is actively underway in each group, and all but about a fellow collector from beginning to end, this information is excellent and influential enough to say from the collector to the fellow." />
+	<block key="dialog_1200095_title" korean="I'd like to know a fellow master Vine der." />
+	<block key="dialog_1200095_text0" korean="Fellow der Vine's renowned reputation as the master was trying to gather all the Fellows of the world beyond the professional research fellow. \u003cbr\u003e \u003cbr\u003e But it was not just because he is a possessive. To preserve a Fellow or Fellow of organic endangered \u003cfont color = \Aspect of the continent with decades of accumulated habits and fellow hunter, drinks excellent understanding of the culture than any fellow researchers." />
+	<block key="dialog_1200095_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e He's also because we are first eligible to participate in the binding of other collectors der's representative was able to equip the state as the current collector known to the public." />
+	<block key="dialog_1200096_title" korean="You ... The leak? Yiguna been a long time since the bra carboxylic forest." />
+	<block key="dialog_1200096_text0" korean="Human ... I did not give it here. Then lived in this document or for saving mankind. My life to human \u003cfont color = \Since then, I went to a bridal carboxylic forest. \u003cbr\u003e \u003cbr\u003e Sought out all over the place in the woods where they live Brage. Here came to see the desert Brage in the desert of immortality." />
+	<block key="dialog_1200097_title" korean="I heard they had attacked a human desert Brage mine." />
+	<block key="dialog_1200097_text0" korean="We are being Brage s ... only use. \u003cbr\u003e Here to live in the desert of immortality Brage. Brage is also being used in the desert. Drinking is bad ... \u003cbr\u003e \u003cbr\u003e Demons try to keep one trillion kinds of Brage. To believe in the future of the Brage follow \u003cfont color = \" />
+	<block key="dialog_1200098_title" korean="Are How is it seems someone is injured?" />
+	<block key="dialog_1200098_text0" korean="Haba yongbyeongdan all the looted gold mine and that was the case going to the village to pillage geupgiya. While most deprived of drinking water supplies are also lacking much prevailed. \u003cbr\u003e \u003cbr\u003e This tough freshly settled people in the village at the time to harsh conditions and lack of drinking water because of the desert \u003cfont color = \/ font\u003e I'm showing. This is who I need just a sip of water Feast of the neck." />
+	<block key="dialog_1200099_title" korean="La dozen guards know Gocek" />
+	<block key="dialog_1200099_text0" korean="[UserName] was able to safely transport the material thanks! \u003cbr\u003e Wu's words as minute mark yisigunyo with great skill. Anything you like seondamyeon minutes to the village side, to get them all here would not give Haba yongbyeongdan hard!" />
+	<block key="dialog_1200100_title" korean="The ancient temple is the kind of place?" />
+	<block key="dialog_1200100_text0" korean="According to legend, much earlier than the time of the creation of all things that were in the middle, Lars, was the language of the inherent power that existed from the time of the release of the universe is created. This language, called word of \u003cbr\u003e \u003cbr\u003e destruction reply Scott rasya the Ellora doeeotjyo used before succumbing to the goddess. But the words of Scott deeply influence rasya destroyed by Ellora goddess \u003cfont color = \" />
+	<block key="dialog_1200101_title" korean="Do you know for those who have occupied the temple?" />
+	<block key="dialog_1200101_text0" korean="Scott rasya the word of the destruction that has been sealed by the fact that we managed to fuse the four won all generations except moreudeon was secret. But not long ago, a woman named Cynthia Lim dispatched from Cobb Church We know about the identity of this temple." />
+	<block key="dialog_1200101_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e Since then, everything has gone twisted. To be aware of the words of Jason and the destruction of those who ring you in Magic Bar to assist him acquainted with the ancient civilization that came back to the temple with Cynthia. \u003cbr\u003e And ... ¥ behind their \u003cfont color = \# 3ec1d0 \" />
+	<block key="dialog_1200102_title" korean="What would be so great that the destruction of the word?" />
+	<block key="dialog_1200102_text0" korean="Cobb said Scott Im In rasya the Orthodox Church in order to examine the words of an ancient civilization destroyed sealed known Jason was sent. However, it is impossible to read the word hageonde guarantee. \u003cbr\u003e \u003cbr\u003e It only be the appearance of a character, a unique language created the creator of the universe. How could a mere human readable so. How? I merely just to get the word with only external forces. Of course ... it just says, but humans have to deal with the force." />
+	<block key="dialog_1200102_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e Jason accepted the word with too much force is already destroyed. If you put power in the hands of such a distraction will do endless. He must be removed." />
+	<block key="dialog_1200103_title" korean="What are full of dust under the flight?" />
+	<block key="dialog_1200103_text0" korean="Dust what? Ha, ha, ha! You mean the death of the sand haze at best only seemed to dust? Sadly, not just dirt. \u003cFont color = \" />
+	<block key="dialog_1200104_title" korean="Please tell us more about the breath of saendeuwom." />
+	<block key="dialog_1200104_text0" korean="Have you heard about the past is sweeping the desert saendeuwom attended? Three ancient legends are told without the proper research is still only one of the saendeuwom youngmul. \u003cbr\u003e \u003cbr\u003e Saendeuwom the spits breath is awful \u003cfont color = \The jinindago told me. Dust sand dust you think is just a breath of saendeuwom." />
+	<block key="dialog_1200105_title" korean="What is safe to fly?" />
+	<block key="dialog_1200105_text0" korean="It is about the essence of the saendeuwom not much is known. Many astronauts who fly to the place of use for the first time we used to train and test are also losing their lives without knowing English. Because now is not as much as the old toxic Through the years a lot of weak groups." />
+	<block key="dialog_1200105_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e just like I do not want to suggest that runs down to the flight. Breath of saendeuwom the body every time you breathe \u003cfont color = \If it is the cumulative result ... I would imagine that any results." />
+	<block key="dialog_1200106_title" korean="Tell us about a missing Karl." />
+	<block key="dialog_1200106_text0" korean="Carl were the legends of this flight. The fastest and sober judgment, should resolutely do not know anything in fear at all. Astronauts are yeotji genius with everything to ensure that they have got to. \u003cbr\u003e \u003cbr\u003e When yeotneunji since I do not know what the reason for their flight round hadeogun a strange sound. And it was not long before this became myoyeon longitudinal cattle." />
+	<block key="dialog_1200107_title" korean="How do I find the Carl?" />
+	<block key="dialog_1200107_text0" korean="Carl people away but she left me this tip can wear say a clear and remained in flight. Not long ago, as if to prove it, his \u003cfont color = \Cattle will not haebomyeon start?" />
+	<block key="dialog_1200108_title" korean="You're now became quite proficient human right?" />
+	<block key="dialog_1200108_text0" korean="The elves taught me say human kailraseu carboxylic bra before leaving the forest. The human being is fun to learn words. \u003cbr\u003e Kailraseu the leak is played a lot of praise. Now eojigan even know how to read the books written by humans." />
+	<block key="dialog_1200109_title" korean="Elias fuse the ancient temples" />
+	<block key="dialog_1200109_text0" korean="Despite some extent thanks to protect the temple from threatening the peace of mind can not be still. Those who worship the forces of darkness are the days when \u003cbr\u003e do not know aiming to break the power of destruction again." />
+	<block key="dialog_1200109_answer_7_text" korean="The ancient temple is the kind of place?" />
+	<block key="dialog_1200109_answer_8_text" korean="Yet would I not do to help?" />
+	<block key="dialog_1200110_title" korean="Yet would I not do to help?" />
+	<block key="dialog_1200110_text0" korean="The desert of the immortal dwideopeun threat was not all gone yet. But in the darkness with no light goten fortunately law. Elsewhere, as talented adventurers defended the ancient temples will also require that power." />
+	<block key="dialog_1200110_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e I heard some adventurers told me she left the cradle of a nightmare in the north to the Goldfields transport. It is a place where they are born primeval youngmul. If you do not have to go to the emergency, the cradle of the nightmare. I do not know whether there need your strength." />
+	<block key="dialog_1200111_title" korean="Retired Gen. Gerald" />
+	<block key="dialog_1200111_text0" korean="At one time I fought victory. Warriors. \u003cbr\u003e Now for the peace of the world and Canas backs, you have to live quietly as a hermit in the village. How could that be why but my left hand in saving the Princess Rania. \u003cbr\u003e \u003cbr\u003e Immortal smash hit all the army guys, you'll always need to save the princess." />
+	<block key="dialog_1200111_answer_3_text" korean="I would like to hear the story of his childhood, Princess Rania." />
+	<block key="dialog_1200112_title" korean="Tyre Khan (Black Kuhn barracks Earth)" />
+	<block key="dialog_1200112_text0" korean="Kuhn Croix races will bring important honor. If you have a dishonorable act would you not deserve to be punished corresponding law? Must have committed a sin no matter what excuses do es not change." />
+	<block key="dialog_1200113_title" korean="The retina (the village of hermits)" />
+	<block key="dialog_1200113_text0" korean="The mayor of the town recluse retina. \u003cbr\u003e \u003cbr\u003e If you go wandering lost their way while they go and rest here. To endure hardship and adversity in life is to feel the intensity is different for each person, but the end of its life is equal law for everyone." />
+	<block key="dialog_1200114_title" korean="Chi-Mer (Camp A)" />
+	<block key="dialog_1200114_text0" korean="Prophet that does not mean you know everything. Just as you come to know about looking after dawn darkness ....... \u003cbr\u003e \u003cbr\u003e Not flowing as all the prophecies of the world. \u003cbr\u003e \u003cbr\u003e If such a thing is possible that there will be a timeless God." />
+	<block key="dialog_1200115_title" korean="Runes know" />
+	<block key="dialog_1200115_text0" korean="Best blacksmith Croix Kuhn, that's me! Rune not know! Even though not across all races and know the best blacksmith four runes as an exaggeration. If only \u003cbr\u003e stuff if I can not make it to the required eopeuni nothing to me they said." />
+	<block key="dialog_1200115_answer_3_text" korean="I've heard you've mastered participate in the immortal army fort design." />
+	<block key="dialog_1200116_title" korean="Shadow Clan Elena (Fortress of Immortal Legion)" />
+	<block key="dialog_1200116_text0" korean="The rescue of the princess nose. Please work on mission wholeheartedly!" />
+	<block key="dialog_1200116_answer_8_text" korean="Is the entrance to enter the inner fortress located?" />
+	<block key="dialog_1200117_title" korean="Fargo (Griffon dispatched article)" />
+	<block key="dialog_1200117_text0" korean="It is not enough police around ¥ adventurers to get around safely. What are some things that should be priority over secured around policing. That's why you just sent me in the Knights Griffon." />
+	<block key="dialog_1200117_answer_4_text" korean="Did police around like?" />
+	<block key="dialog_1200118_title" korean="Vanessa (Desert Mission)" />
+	<block key="dialog_1200118_text0" korean="I think it is difficult to please another addition to the sandy deserts. But there's people are always threats to the people who live there. \u003cbr\u003e \u003cbr\u003e I do is when and how to investigate such threats, concerns and solutions would you suggest about whether to remove the threat ." />
+	<block key="dialog_1200119_title" korean="Lime (seed combination of abundance)" />
+	<block key="dialog_1200119_text0" korean="Hi there! I called the members of lime seeds of prosperity. Saguaro days \u003cbr\u003e using the material in a given environment to produce the best possible combination of dishes from the seeds of our prosperity." />
+	<block key="dialog_1200119_answer_2_text" korean="Is it a combination of seed abundance is any organization?" />
+	<block key="dialog_1200119_answer_3_text" korean="Have you created a combination of seed abundance is Who?" />
+	<block key="dialog_1200120_title" korean="Yuna di (Treasure Hunter)" />
+	<block key="dialog_1200120_text0" korean="There must be something you can shake a reputation siwonchiga large number of zero mean andan fortress. Have you would not share with me do not hesitate if you have good information? \u003cbr\u003e \u003cbr\u003e Duty of the floor to be provided by the corresponding information provides new information it receives. I miss not only the information you want to bill is a masterpiece!" />
+	<block key="dialog_1200121_title" korean="Raman tool (the throne of Tyre Khan)" />
+	<block key="dialog_1200121_text0" korean="Tyre Khan's is worried about going in with any full-blooded enemy right now is called. Fortunately, you have revealed your hansireum you like being placed minutes." />
+	<block key="dialog_1200121_answer_4_text" korean="Khan's Turo did you come to the desert of the immortal?" />
+	<block key="dialog_1200121_answer_5_text" korean="What kind of work are you in the shadow of death, this is going?" />
+	<block key="dialog_1200121_answer_6_text" korean="Kuhn and Kuhn Croix Croix Desert Race Not?" />
+	<block key="dialog_1200122_title" korean="Kinak (Black Kuhn turncoat)" />
+	<block key="dialog_1200122_text0" korean="If opting Lee Dae Ro eopdane the future of desert Croix Kuhn \u003cbr\u003e know, but I could he be doing on their own? There's no match to really frustrating." />
+	<block key="dialog_1200122_answer_6_text" korean="Do you even betray the desert Croix Kuhn special?" />
+	<block key="dialog_1200122_answer_7_text" korean="I'd like to know about the desert Croix Kuhn." />
+	<block key="dialog_1200123_title" korean="Closet (Shadow Clan)" />
+	<block key="dialog_1200123_text0" korean="If you do not stop the plague spell in the shade covering the demise of the immortal words, the entire desert is contaminated by the plague spell. \u003cbr\u003e [UserName] Crow's who admits it's desperately needed help." />
+	<block key="dialog_1200123_answer_5_text" korean="I doubt that there is a clan ... It looks something happens hammered appearance?" />
+	<block key="dialog_1200124_title" korean="Beyond the (shadow clan)" />
+	<block key="dialog_1200124_text0" korean="It is not afraid of death. \u003cbr\u003e I know nothing lacking as Shadow Clan. \u003cbr\u003e Just can not seem to die: if everyone does not bear any help bunhaeseo." />
+	<block key="dialog_1200125_title" korean="Five days inlet (He Knows You're Alone)" />
+	<block key="dialog_1200125_text0" korean="The fear of not feeling to see those who do not have a goal egeseona weak. If you have clear goals luxurious feeling something is not deuleoohjido around the eyes. When are we going to achieve what you want towards the goal. \u003cbr\u003e Not it ??" />
+	<block key="dialog_1200125_answer_3_text" korean="What are you doing in here?" />
+	<block key="dialog_1200125_answer_4_text" korean="If you represent a person with light and dark you seem to close in the dark." />
+	<block key="dialog_1200125_answer_5_text" korean="I feel a strange aura from you. Are you human? Or ..." />
+	<block key="dialog_1200126_title" korean="Tarin (collector)" />
+	<block key="dialog_1200126_text0" korean="Tarin is a member of the collector. The fellows conducting research on living in the shadow of death, I'm not the easiest thing to want you to help me with \u003cbr\u003e me, do you mind?" />
+	<block key="dialog_1200126_answer_3_text" korean="The collector is what organizations?" />
+	<block key="dialog_1200126_answer_4_text" korean="I'd like to know a fellow master Vine der." />
+	<block key="dialog_1200127_title" korean="Bharti on (senior Griffon article)" />
+	<block key="dialog_1200127_text0" korean="Vatican called on. [UserName] a great honor Being able to perform operations With You. \u003cbr\u003e \u003cbr\u003e [UserName], let's make sure that you keep hwalyaksang. I hope Mu-woon together." />
+	<block key="dialog_1200127_answer_9_text" korean="Have a croissant and Desert Knights Griffon relationship Kuhn like?" />
+	<block key="dialog_1200127_answer_10_text" korean="Lamu instructor praised carboxylic I heard you the best articles." />
+	<block key="dialog_1200128_title" korean="Napa net (Black Kuhn Shaman)" />
+	<block key="dialog_1200128_text0" korean="Hess was 4 minutes of Nerja, but who created the Croix Croix Kuhn Kuhn They do not worship God. New technology than with individuals, especially trust in Blacksmithing big is better. \u003cbr\u003e \u003cbr\u003e See why you even rude tribes also not serve the Creator who created himself." />
+	<block key="dialog_1200128_answer_1_text" korean="Mureo here until Micah, sir?" />
+	<block key="dialog_1200129_title" korean="Examples gut (hermit wizard)" />
+	<block key="dialog_1200129_text0" korean="Many of the people living in the village of hermits once flew character name kkaena'll be. Ppunyiji you are in this situation can not tell their retreat here. \u003cbr\u003e \u003cbr\u003e ... I'm not. Try to understand that it is a matter that can not tell anyone." />
+	<block key="dialog_1200129_answer_1_text" korean="Can you tell us of something in the past?" />
+	<block key="dialog_1200130_title" korean="Self is (Black Kuhn Shaman)" />
+	<block key="dialog_1200130_text0" korean="This is a lonely place. Just the kind of place where everyone is lonely. But everyone who has a warm mentality. The power of magic with \u003cbr\u003e I hope that's not an easy task to force everyone." />
+	<block key="dialog_1200130_answer_1_text" korean="What brings you here yen a day you come?" />
+	<block key="dialog_1200131_title" korean="Shamo (anglers)" />
+	<block key="dialog_1200131_text0" korean="Have you ever desert itso fishing? If you do not know \u003cbr\u003e \u003cbr\u003e not bother if you do not know that I'll build a face?" />
+	<block key="dialog_1200131_answer_2_text" korean="Fishing in the desert ... I think you mean heck out of place." />
+	<block key="dialog_1200132_title" korean="Nihil (Unemployed)" />
+	<block key="dialog_1200132_text0" korean="People live inde break the law required that I look and I'm here to take the break now. \u003cbr\u003e \u003cbr\u003e Law mallet if you're going to be too fast. Do not move, but what about me and you too busy watching the sea and that thing here?" />
+	<block key="dialog_1200132_answer_1_text" korean="Formerly did, what do you do?" />
+	<block key="dialog_1200133_title" korean="Ah probe (retired articles)" />
+	<block key="dialog_1200133_text0" korean="When looking at the ocean fall into deep thoughts of the past four things that come to mind one by one. Glad things, sad things ...." />
+	<block key="dialog_1200133_answer_5_text" korean="Something iteusinga story with you. Would not nothing I can do to help?" />
+	<block key="dialog_1200133_answer_6_text" korean="Grandson minute all seemed very like his grandfather." />
+	<block key="dialog_1200134_title" korean="Mel issues (grandson of the AHA probe)" />
+	<block key="dialog_1200134_text0" korean="What do you think your grandfather geolkkayo looking at the sea? \u003cbr\u003e I do not remember whether najil grandfather when I'd laugh if you saw my grandfather always smiling. So I'm sad." />
+	<block key="dialog_1200134_answer_1_text" korean="Do you think my grandfather would're thinking?" />
+	<block key="dialog_1200134_answer_2_text" korean="Parents who are going to the village of hermits?" />
+	<block key="dialog_1200135_title" korean="You hicheu (former treasure hunter)" />
+	<block key="dialog_1200135_text0" korean="Oh, I'd say the number one big catch abandon foolish for treasure hunters. That's true, it's not a day or two heotang pro es eopdan can not stop the foolish. \u003cbr\u003e \u003cbr\u003e Or a big one, and if you would stare at once? Come find information at any time, if you think I'll be available." />
+	<block key="dialog_1200135_answer_2_text" korean="Why did you stop treasure hunters do?" />
+	<block key="dialog_1200136_title" korean="Ain door (Shadow Clan)" />
+	<block key="dialog_1200136_text0" korean="Shadow clan has decided to thoroughly investigate any little information without regard to the basic principles heoturu. Crow, who's getting the trust [UserName] Lee Jung-do's if you are yigetjyo default?" />
+	<block key="dialog_1200136_answer_2_text" korean="Is this is why I do not look out the reconnaissance big deal .. clan?" />
+	<block key="dialog_1200137_title" korean="Article Brun (apostate Shaman)" />
+	<block key="dialog_1200137_text0" korean="If you think of our fallen comrades called Croix Kuhn hurts my heart. They get one trillion kinds ppuninde to Massachusetts without knowing anything Shaman Mana ....... \u003cbr\u003e I just hope that they fell even faster tteuryeoseo good Croix Kuhn mana Massachusetts liberation day." />
+	<block key="dialog_1200138_title" korean="Mission Board (Camp A)" />
+	<block key="dialog_1200138_text0" korean="The bulletin is. Will this be followed during the corresponding penalties to undermine the board is under the control of unauthorized \u003cbr\u003e \u003cbr\u003e Gryphon Gryphon Knights Knight-Commander myself Hebrews" />
+	<block key="dialog_1200139_title" korean="Mission Board (Make Croix temple)" />
+	<block key="dialog_1200139_text0" korean="The bulletin is. Will this be followed during the corresponding penalties to undermine the board is under the control of unauthorized \u003cbr\u003e \u003cbr\u003e Gryphon Gryphon Knights Knight-Commander myself Hebrews" />
+	<block key="dialog_1200140_title" korean="What kid (Battle shaman)" />
+	<block key="dialog_1200140_text0" korean="It's right now are in the desert Croix Kuhn's going in the wrong direction. But by the same mistake that does not mean that you can watch this fellow going to die comfortably look like. \u003cbr\u003e \u003cbr\u003e I'll never have the power to give a big change from the current situation. Just come with all your strength ppunyijyo do what I can." />
+	<block key="dialog_1200140_answer_5_text" korean="Such disgrace fight between kin ... That's sad." />
+	<block key="dialog_1200140_answer_6_text" korean="The face-to-face with the desert Croix Kuhn Is this the first time?" />
+	<block key="dialog_1200141_title" korean="Ronti (Griffon dispatched article)" />
+	<block key="dialog_1200141_text0" korean="The current situation is unfavorable side on Gryphon Knights. But we are so committed Griffon articles section will be coming soon hear good news." />
+	<block key="dialog_1200141_answer_2_text" korean="Is the war of Gryphon Knights and croissants Kuhn is inevitable?" />
+	<block key="dialog_1200142_title" korean="Press chaemteo (Fixer)" />
+	<block key="dialog_1200142_text0" korean="I have never ever failed once work undertaken. \u003cbr\u003e Once water Without it does not matter whether it's torn all the meat department biting stone's personality until. \u003cbr\u003e \u003cbr\u003e Well, representations, but so do things pagodeunda'll relentlessly wanted to say as long as you can, so I do not have too tough people do not care!" />
+	<block key="dialog_1200142_answer_5_text" korean="Fixer? I'm wondering what exactly happened to." />
+	<block key="dialog_1200142_answer_6_text" korean="May I ask how moving under whose request?" />
+	<block key="dialog_1200143_title" korean="Mission Board (Black Kuhn barracks Earth)" />
+	<block key="dialog_1200143_text0" korean="The bulletin is. Will this be followed during the corresponding penalties to undermine the board is under the control of unauthorized \u003cbr\u003e \u003cbr\u003e Gryphon Gryphon Knights Knight-Commander myself Hebrews" />
+	<block key="dialog_1200144_title" korean="Flute eyes (hermit village elders)" />
+	<block key="dialog_1200144_text0" korean="Old bottle prepared for anyone to die, but I'm dead I find poor people who patronize this place is? \u003cbr\u003e Life's a worry I only live appearance is only going to worry about dying before my handlebar with a grungy." />
+	<block key="dialog_1200144_answer_2_text" korean="How much did you spend in the village of hermits?" />
+	<block key="dialog_1200144_answer_3_text" korean="I think who is the most elderly." />
+	<block key="dialog_1200145_title" korean="Ahjeura (Gryphon support for article)" />
+	<block key="dialog_1200145_text0" korean="People around here do not seem to be just an ordinary residents. Demons have invaded the Immortal Legion came up nose ... unless someone to whom one shake. They think it was ever prepared for death? \u003cbr\u003e For whatever reason I think that if I can keep pyeongsangsim like people here." />
+	<block key="dialog_1200145_answer_2_text" korean="Is support for the hermit is made of mind?" />
+	<block key="dialog_1200146_title" korean="Phoenix (Ashram villagers)" />
+	<block key="dialog_1200146_text0" korean="This, this is perhaps Okay? Ton monsters everywhere in the EO also can not run away!" />
+	<block key="dialog_1200146_answer_1_text" korean="Are you going to the village of hermits why you're leaving?" />
+	<block key="dialog_1200147_title" korean="Egil Stewart (hermit article)" />
+	<block key="dialog_1200147_text0" korean="It was a good job with pride in their skills. But do not try to fit pride'll call, not only pride. \u003cbr\u003e Military veterans looks like you are in front of the station, the numerous hands-on experience accumulated considerable noryeokga edaga." />
+	<block key="dialog_1200147_answer_2_text" korean="Are you a recluse who is responsible for policing the town?" />
+	<block key="dialog_1200147_answer_3_text" korean="He just looks like a costume eroding retired wizard." />
+	<block key="dialog_1200148_title" korean="Mission Board (the village of hermits)" />
+	<block key="dialog_1200148_text0" korean="Find me alone, or are worried mayor of the retina do not hesitate if you suffer from a headache because you can not solve the problem. We will solve your problem." />
+	<block key="dialog_1200149_title" korean="Mission Board (waterfront of contemplation)" />
+	<block key="dialog_1200149_text0" korean="Find me alone, or are worried mayor of the retina do not hesitate if you suffer from a headache because you can not solve the problem. We will solve your problem." />
+	<block key="dialog_1200150_title" korean="Mission Board (Immortal Legion fort)" />
+	<block key="dialog_1200150_text0" korean="The bulletin is. Will this be followed during the corresponding penalties to undermine the board is under the control of unauthorized \u003cbr\u003e \u003cbr\u003e Gryphon Gryphon Knights Knight-Commander myself Hebrews" />
+	<block key="dialog_1200151_title" korean="Kidnapped value MER (Make Croix temple)" />
+	<block key="dialog_1200151_text0" korean="If the weak force, even to meet the oncoming tragedy ... \u003cbr\u003e \u003cbr\u003e I do not know may be able to change something if you have heard the story contained in the wand. \u003cbr\u003e First and get the hell out of here." />
+	<block key="dialog_1200152_title" korean="Naza Hebrews (Immortal Legion fort)" />
+	<block key="dialog_1200152_text0" korean="To get to where [UserName], thy ball big. Gryphon Knights'll only me hard. \u003cbr\u003e \u003cbr\u003e Not straight retreat now! \u003cbr\u003e Immortal Legion Stay away from this place until they get it done a thing all the while. Eopeuni minded tight!" />
+	<block key="dialog_1200153_title" korean="Naza Hebrews (front Immortal Legion fort)" />
+	<block key="dialog_1200153_text0" korean="To get to where [UserName], thy ball big. Gryphon Knights'll only me hard. \u003cbr\u003e \u003cbr\u003e Not straight retreat now! \u003cbr\u003e Immortal Legion Stay away from this place until they get it done a thing all the while. Eopeuni minded tight!" />
+	<block key="dialog_1200154_title" korean="Chi-Mer (Immortal Legion fort in front)" />
+	<block key="dialog_1200154_text0" korean="Is the time to demonstrate the power of each of a maximum starting now. Want to sit or hesitation, gave up only when the sun will shine every time you want to find the courage that the more time naeseyo. \u003cbr\u003e And slowly look around you'll have to help your colleagues." />
+	<block key="dialog_1200155_title" korean="Chi-Mer (Immortal Legion fort)" />
+	<block key="dialog_1200155_text0" korean="Is the time to demonstrate the power of each of a maximum starting now. Want to sit or hesitation, gave up only when the sun will shine every time you want to find the courage that the more time naeseyo. \u003cbr\u003e And slowly look around you'll have to help your colleagues." />
+	<block key="dialog_1200156_title" korean="Retina (Immortal Legion fort)" />
+	<block key="dialog_1200156_text0" korean="I'll go a long way to go if without fear. \u003cbr\u003e No, maybe Mer's value is that I do not even know the word prophecy hasideon made now." />
+	<block key="dialog_1200157_title" korean="Retina (front Immortal Legion fort)" />
+	<block key="dialog_1200157_text0" korean="I'll go a long way to go if without fear. \u003cbr\u003e No, maybe Mer's value is that I do not even know the word prophecy hasideon made now." />
+	<block key="dialog_1200158_title" korean="Enderle Ale (hermits in the town waterfront)" />
+	<block key="dialog_1200158_text0" korean="My mission is secret. Thing is not to speak carelessly." />
+	<block key="dialog_1200158_answer_0_text" korean="Mer Are Chi watched some minutes?" />
+	<block key="dialog_1200159_title" korean="Enderle Ale (Immortal Legion fort)" />
+	<block key="dialog_1200159_text0" korean="If in order to protect the value can also be burned Mer's death. That's just my four people!" />
+	<block key="dialog_1200160_title" korean="Martin Chaser (hermit of the town waterfront)" />
+	<block key="dialog_1200160_text0" korean="Now I do not know how to look like a puny human existence is the law for anyone with a mission. Complex, yet hers Is not stay quiet time to carry out its mission." />
+	<block key="dialog_1200161_title" korean="De Mai (front Immortal Legion fort)" />
+	<block key="dialog_1200161_text0" korean="It was bright, the morning of the battle. Yigetjyo lie \u003cbr\u003e if afraid. Golden Gryphon Knights weakling, but we have to give in fear is not only one involved.'ll \u003cbr\u003e To overcome the fear of moving forward!" />
+	<block key="dialog_1200162_title" korean="Bad Horn (Black Kuhn barracks Earth)" />
+	<block key="dialog_1200162_text0" korean="If this is so intrinsically transcription method proud to stand at the forefront of the battle! Because no matter what difficulties mulreoseom no." />
+	<block key="dialog_1200163_title" korean="Bad Horn (Immortal Legion fort)" />
+	<block key="dialog_1200163_text0" korean="When the Immortal Legion guys and begins leading a full-scale battle I'll take. Not show the bravery of the proud warrior Kuhn Croix!" />
+	<block key="dialog_1200164_title" korean="La keuren (Black Kuhn barracks Earth)" />
+	<block key="dialog_1200164_text0" korean="What a pity. Kuhn lost the essence of Croix Croix Croix Kuhn Kuhn is not. Do you kill your own people is how it will be, but ... chest pain." />
+	<block key="dialog_1200165_title" korean="La keuren (Immortal Legion fort)" />
+	<block key="dialog_1200165_text0" korean="These guys are just culprit of all the events! You'll be captivated by their countrymen who died dalraejul genocide." />
+	<block key="dialog_1200166_title" korean="Kamon (town of hermits)" />
+	<block key="dialog_1200166_text0" korean="It's a quiet place to enjoy around the side. In terms of the recluse town's great in that respect is home to me. \u003cbr\u003e Difficult and tiring if you going here is breathtaking. If you are tired of falling Mani would only run around the clock." />
+	<block key="dialog_1200167_title" korean="Kamon (Immortal Legion fort)" />
+	<block key="dialog_1200167_text0" korean="Did you say doesnt before? When I was leaving I was a good article. \u003cbr\u003e Know syeotdamyeon You'll be just saw today. Malyijyo dealing with the first appearance of the immortal legions makdoe ate them." />
+	<block key="dialog_1200168_title" korean="Liao Ben Knights Griffon (Black Kuhn barracks Earth)" />
+	<block key="dialog_1200168_text0" korean="Even before the battle myself Hebrews ID # in the shoe embraced for a plurality of Fern God in the power UD disappointed again! \u003cbr\u003e Be to punish the barracks of the earth Croix Kuhn, would lead the Gryphon Knights to victory!" />
+	<block key="dialog_1200169_title" korean="Gryphon Knights Leah Ben (Immortal Legion fort in front)" />
+	<block key="dialog_1200169_text0" korean="I finally came to the fortress of the immortal legions. \u003cbr\u003e Way the new Gryphon I'll show you that they are easy, but I can do my share to the full article as a golden section." />
+	<block key="dialog_1200170_title" korean="Tyre Khan (Immortal Legion fort)" />
+	<block key="dialog_1200170_text0" korean="The enemies of our race! No matter what these guys give away as much as I'm sure the hinge." />
+	<block key="dialog_1200171_title" korean="Tyre Khan (front Immortal Legion fort)" />
+	<block key="dialog_1200171_text0" korean="Immortal Legion them! I shit you not hear OSCAR Khan Turo fucking!" />
+	<block key="dialog_1200172_title" korean="Chi-Mer (town of hermits)" />
+	<block key="dialog_1200172_text0" korean="Prophet that does not mean you know everything. Just as you come to know about looking after dawn darkness ....... \u003cbr\u003e \u003cbr\u003e Not flowing as all the prophecies of the world. \u003cbr\u003e \u003cbr\u003e If such a thing is possible that there will be a timeless God." />
+	<block key="dialog_1200173_title" korean="Gryphon Knight-Commander myself Hebrews (Military District)" />
+	<block key="dialog_1200173_text0" korean="I dressed myself Hida Golden Gryphon article. If you want to prove their strength, not in words I hope to show in practice. \u003cbr\u003e \u003cbr\u003e Malman lot of guys that really are not law appears this moment standing on the battlefield. But you are ahead of wrongdoing malman like a coward to commit hope not. I hope Kuhn Croix desert." />
+	<block key="dialog_1200174_title" korean="Beldu (collector)" />
+	<block key="dialog_1200174_text0" korean="The village of Hermit is a great place to study fellows. Without interference of external research fellow Would Not only is the environment that can only be absorbed? \u003cbr\u003e \u003cbr\u003e If You Want to help the person deal with the fellow we conducted a study?" />
+	<block key="dialog_1200174_answer_2_text" korean="The collector is what organizations?" />
+	<block key="dialog_1200174_answer_3_text" korean="I'd like to know a fellow master Vine der." />
+	<block key="dialog_1200175_title" korean="Bar hire (Dungeon)" />
+	<block key="dialog_1200175_text0" korean="I hurry to enter into the fortress! Information is I will. \u003cbr\u003e Must rescue the princess, and stop the fort started." />
+	<block key="dialog_1200210_title" korean="Shadow Clan Elena (Brage mine)" />
+	<block key="dialog_1200210_text0" korean="Crow, leader of the faith for you, you know I heard that corresponds to the other members. Please show me your skills even as rumors should read the rest." />
+	<block key="dialog_1200176_title" korean="Do you Do you know anything about Princess Rania?" />
+	<block key="dialog_1200176_text0" korean="The whereabouts of Princess Rania Al would not know from Gocek Guard? Captain Curtis saw the princess. I think they remember that I'm gamulgamul. I just do not know just an old saying. \u003cbr\u003e \u003cbr\u003e The ancient time of the release of the desert's immortal creation of the pillars made in order to tune the balance of the unstable ground. Four elements of the column as people are doers." />
+	<block key="dialog_1200176_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e but any day is the work rolls to a stop me almost be restored by the powerful magic. Was it then? The Princess Rania had never visited the desert of the pillars \u003cfont color = \\u003e \u003cbr\u003e he say? There are people with that much horsepower Something about ..." />
+	<block key="dialog_1200177_title" korean="Will you help the villagers why here?" />
+	<block key="dialog_1200177_text0" korean="I just traveled the world was just a pilgrim, following the teachings of the Goddess. But it was one of the few moments when sex might have stayed. The epidemic of unknown cause at the time was a modest return to fuse also taking care of the patient. \u003cbr\u003e \u003cbr\u003e But only a single one was different. Who care for patients with infectious diseases in just two minutes away. \u003cFont color = \I'm just looking through meonbalchi eseonama shame to see the look of Princess Rania." />
+	<block key="dialog_1200177_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e His benign smile and extraordinary deeds, and the sacrifices they've an opportunity to look back at myself. The princess did come just to pray that day .. even faster Princess Rania can safely go back to the capital property." />
+	<block key="dialog_1200178_title" korean="Thought it was a well in the town center." />
+	<block key="dialog_1200178_text0" korean="The people were using the water in the wells of the town center as drinking water. Yongbyeongdan but I was spraying a special agent to the wells in the process of looting the town. \u003cbr\u003e \u003cbr\u003e Look that certainly poison the water color is clear is to not think ... Anyway, do not drink the water of the well for now I think it would be great." />
+	<block key="dialog_1200179_title" korean="Did police around like?" />
+	<block key="dialog_1200179_text0" korean="Ruined temple in the desert in front of the Queen Bee \u003cfont color = \Police secure the sent me from myself, but only a little flock. \u003cbr\u003e but if they help an adventurer like you, with a strong force holding onto the safety of the area will be of great help." />
+	<block key="dialog_1200180_title" korean="What are you doing in here?" />
+	<block key="dialog_1200180_text0" korean="Immortal Legion guy that came even try to have a little visit friggin seems quite interesting to experiment. \u003cbr\u003e \u003cbr\u003e Disgrace spell of a curse like a plague to exert the same effect ... group beginning to think that this very funny scene or not." />
+	<block key="dialog_1200181_title" korean="If you represent a person with light and dark you seem to close in the dark." />
+	<block key="dialog_1200181_text0" korean="... Darkness is not dark to me very familiar words. I was born there, mean that you're living there. But beorinji the world, it was so long. The power to carry with fellow like me are fighting a very strong enemy somehow now I've lost interest." />
+	<block key="dialog_1200181_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e its enemies in the fight against the destruction of dead airspace \u003cfont color = \She was not sure whether to believe that what he'd like to tell you something great. I think it was just a vain sacrifice." />
+	<block key="dialog_1200182_title" korean="I feel a strange aura from you. Are you human? Or ..." />
+	<block key="dialog_1200182_text0" korean="... Why do I feel a strange aura because of me, even in the dark magic?\nInteresting nothing quite like being able to feel the energy. My spirit feels uncomfortable but this seems to be exactly what it is you do not know anything of the ordinary sense is not rogun. \u003cbr\u003e \u003cbr\u003e Yes, I am the devil do you think you see it? If you look at me as a demon devil I teji day. Look into human'll savor a human god look to God. Now ... now I look what?" />
+	<block key="dialog_1200183_title" korean="Khan's Turo did you come to the desert of the immortal?" />
+	<block key="dialog_1200183_text0" korean="Tyre Khan had previously \u003cfont color = \Please also pass by this place a desert temple Croix Croix Kuhn have been left argon that are stationed. Work goes on behind the scenes Tyre Khan's in danger of becoming'll be guarding this place I am thinking." />
+	<block key="dialog_1200184_title" korean="What kind of work are you in the shadow of death, this is going?" />
+	<block key="dialog_1200184_text0" korean="Immortal Legion seems to be experimenting with some magic extensively around the area, called the shadow of death. \u003cbr\u003e \u003cbr\u003e Exactly one kinds inde spreading rate of magic, as if to remind us of the body, such as a change of plague caused by infection The locals are \u003cfont color = \" />
+	<block key="dialog_1200185_title" korean="Kuhn and Kuhn Croix Croix Desert Race Not?" />
+	<block key="dialog_1200185_text0" korean="Dating back to the history of the Croix Kuhn's all there was to have given birth by Hess's tunnel. However, the home of all Croix Kuhn \u003cfont color = \" />
+	<block key="dialog_1200185_text0_attach_0" korean="In the early days we Croix Kuhn \u003cbr\u003e \u003cbr\u003e desert settlement in the desert, you had some exchanges of immortality Croix Kuhn. But he also never lasted exchanges. \u003cbr\u003e \u003cbr\u003e Come to exist now has become a completely different world, but look the same but do not even know their history." />
+	<block key="dialog_1200186_title" korean="I doubt that there is a clan ... It looks something happens hammered appearance?" />
+	<block key="dialog_1200186_text0" korean="Ancient temples wicked curve ball being the language of destruction was sealed in a denomination, ma'am remember to put that in your hand? Some of the language of the destruction already been leaked out. \u003cbr\u003e \u003cbr\u003e I'm looking for the name of a black magician \u003cfont color = \I have heard colleagues say. Slabs'd have a language of its self-evident leaked destruction." />
+	<block key="dialog_1200187_title" korean="Have a croissant and Desert Knights Griffon relationship Kuhn like?" />
+	<block key="dialog_1200187_text0" korean="We Griffon Desert Knights and La Croix. Eoryeowoona Although Kuhn's relationship defines the relationship between them is not a friendly one word ... geotjjeum least is clear. Fallen desert Croix Kuhn and our relationship to the Fall, as has been consistently worse. \u003cbr\u003e Especially \u003cfont color = \" />
+	<block key="dialog_1200187_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e they are claiming, but Immortal Legion minions and allies in the presence of a mean difference ... is that it is not my idea of ​​a desert Croix Kuhn. No, I think the whole Templar and griffon eopjyo difference. So the relationship is gradually deteriorating and desert Croix Kuhn jilji What is happening now is what can be expected will not even children?" />
+	<block key="dialog_1200188_title" korean="Lamu instructor praised carboxylic I heard you the best articles." />
+	<block key="dialog_1200188_text0" korean="Gyogwannim Did you say this? Needless to say, I still think this is a rather long time shortage. Gyogwannim taxing praise but it is Haeju appreciates me. Gryphon Knights yen that even many talented people, except. \u003cbr\u003e \u003cbr\u003e Griffon sympathetic abilities, especially Ben Liao Now it's accepted wisdom. I heard the king said to go ahead and look at the great Ken Griffith, Ben Liao good." />
+	<block key="dialog_1200189_title" korean="Do you even betray the desert Croix Kuhn special?" />
+	<block key="dialog_1200189_text0" korean="Desert Croix Kuhn are'm going the wrong way. I just its cause \u003cfont color = \Because the full leadership had led us to the wrong network. \u003cbr\u003e \u003cbr\u003e Would we Croix desert Kuhn yinyan days were focused mere honor the original Demon whilst grasping hands and say what should not?" />
+	<block key="dialog_1200189_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e we honor the best insidious demons, and the shoulder, even if the level of side by side. I'd be interested to hear the sound of a traitor rectify the mistakes of the desert Croix Kuhn." />
+	<block key="dialog_1200190_title" korean="I'd like to know about the desert Croix Kuhn." />
+	<block key="dialog_1200190_text0" korean="Originally we Croix Kuhn affluent desert \u003cfont color = \However, this became our home due to the catastrophic sinking into deep seabed. \u003cbr\u003e \u003cbr\u003e We could only four homogeneous tears faded from home. Then he settled in many Croix Kuhn Some commands and Canas divided kingdom, which they are. We create the grounds at the Parque haetne moved to the desert of my land burned here." />
+	<block key="dialog_1200190_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e the past, all Croix Kuhn yeoteulji knowing one is different ... you now. You could say the same appearance, but only different nations." />
+	<block key="dialog_1200191_title" korean="Mureo here until Micah, sir?" />
+	<block key="dialog_1200191_text0" korean="After establishing the Parque my croissant Kuhn on earth and in partnership, Tyre Khan chiefs have asked for help to free rummy. \u003cbr\u003e Army collapsed, but the frost mureo then we fall into a bar in the middle, even doeeotjyo work to cleanse the Parque my land. \u003cbr\u003e \u003cbr\u003e most free rummy medicine men would be involved in the work under the high priest hits Leone's conduct. \u003cbr\u003e such a situation is not Turo Khan chiefs bars also do not know." />
+	<block key="dialog_1200191_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e Tyre Khan chiefs that led \u003cfont color = \" />
+	<block key="dialog_1200192_title" korean="Is the war of Gryphon Knights and croissants Kuhn is inevitable?" />
+	<block key="dialog_1200192_text0" korean="I like all of the Gryphon Knights. Desert Knights Griffon Croix Kuhn and we are cheolcheonji \u003cfont color = \Nothing short of war is not already started." />
+	<block key="dialog_1200193_title" korean="Fixer? I'm wondering what exactly happened to." />
+	<block key="dialog_1200193_text0" korean="I am i to do? Simple. \u003cbr\u003e When someone else is their power to not deal with the points raised frequently by critics of the problem showed up. Would that solve the problem neatly \u003cbr\u003e \u003cbr\u003e That's just my job. Of course, if the problem is resolved, because the process is to clean their own judgment is that I dareugin assessment." />
+	<block key="dialog_1200194_title" korean="May I ask how moving under whose request?" />
+	<block key="dialog_1200194_text0" korean="Client's always different. Is that where only the client always receives the same solver? Just that clients do you part. \u003cbr\u003e In any case, do not expose the identity of the client is the absolute bottom from falling gold guinea to know. I have difficulty Sore. \u003cbr\u003e \u003cbr\u003e What Would not be good anyway? Neither Racking Horse am a good person to cooperate with the immortal fallen desert Croix Kuhn corps." />
+	<block key="dialog_1200195_title" korean="Such disgrace fight between kin ... That's sad." />
+	<block key="dialog_1200195_text0" korean="The sad thing. Even when he's able to recruit Turo Khan chiefs expedition into the desert, leaving a number of Croix-kun will shed tears for this tragedy. \u003cbr\u003e \u003cbr\u003e But they cooperate with the immortal army, and you can not stand to fall astray. \u003cFont color = \" />
+	<block key="dialog_1200196_title" korean="The face-to-face with the desert Croix Kuhn Is this the first time?" />
+	<block key="dialog_1200196_text0" korean="Home of the Croix Kuhn, Kuhn Crescent Mountain All Croix Island have since left the Shia have lived only in one place each to settle. \u003cbr\u003e The past, knowing that you have some exchanges now eopjyo know anything at all about each other. Meeting with them could never be achieved also finally met doeneungunyo. \u003cbr\u003e \u003cbr\u003e Just what it takes to one mind just can not stand the fact that there is only fate can meet ... ever." />
+	<block key="dialog_1200197_title" korean="Are you going to the village of hermits why you're leaving?" />
+	<block key="dialog_1200197_text0" korean="They're a law that all abou their stories. One story is not about me. Throw want to forget the past called ... oh say what he did. At first I thought that comes to the village of hermits live can forget everything. \u003cbr\u003e \u003cbr\u003e Fact is the first year of the hermits who settled in the town Pretty good. However, one year, two years passed and Nani began to become frustrated in the village. I think that somehow, I is not authorized nagayahal body lift out of this world?" />
+	<block key="dialog_1200197_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e so nawatji Having decided to leave the town! Came out very confidently. Look around. Es anew what it feels deoran the world is scary ... So now I think hasnt changed." />
+	<block key="dialog_1200198_title" korean="Can you tell us of something in the past?" />
+	<block key="dialog_1200198_text0" korean="Past la ... That's what I stand so many years, but since I came here. Hagun even remember what I'm doing now gamulgamul. Yeah old. Then l had a horrible dream a rosy future. \u003cbr\u003e \u003cbr\u003e Promising wizard. Just like you can hold the wealth and power in the hands. But those things until you realize the fact that it takes so long anatne vain." />
+	<block key="dialog_1200198_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e magic of society as a collective to defend truth is to know euron impartial justice to the outside, but the fact is mothada Yes. That's where \u003cbr\u003e filled with jealousy and pride not. Of course not all the truths that yes it wizard. But have you \u003cfont color = \Then come here all the time lived." />
+	<block key="dialog_1200199_title" korean="What brings you here yen a day you come?" />
+	<block key="dialog_1200199_text0" korean="Desert Croix Croix Kuhn Kuhn was tarnished in the Parque my land to recover the disgrace of the Croix-kun have configured the desert expedition. The \u003cbr\u003e me too, but it is part of a desert expedition arrived here more years ago. \u003cBr \u003e \u003cbr\u003e chiefs watched if He would first go to the desert to live the same appearance, thanks to the many misconceptions surrounding desert Croix Kuhn." />
+	<block key="dialog_1200199_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e why did you wander around you will recognize our visit. A kind of \u003cfont color = \So here hermit came to the village of the village where it looked dirty, they need the help of someone else. \u003cbr\u003e Are not there so I can give it is still a force to stay here." />
+	<block key="dialog_1200200_title" korean="How much did you spend in the village of hermits?" />
+	<block key="dialog_1200200_text0" korean="I am a man died here, was born here. Spent a lifetime here. \u003cbr\u003e Outside world, even if he was never a bore. A child does not want the outside world malyijyo done a lot of flying ... so you know now that I wonder. Can you go out to do?" />
+	<block key="dialog_1200201_title" korean="I think who is the most elderly." />
+	<block key="dialog_1200201_text0" korean="All people listed peers was the first that was such a world. Now young people in the town of hermits like I'm saying the most mature. The world live inde law that requires wisdom as I'm only ate Do you lack wisdom ... it takes a village representative of the heart can not give the age of the force. \u003cbr\u003e \u003cbr\u003e But Retina bolken the age eoryeodo very \u003cfont color = \So look at that kid and my worries disappeared malyijyo bit." />
+	<block key="dialog_1200202_title" korean="Is support for the hermit is made of mind?" />
+	<block key="dialog_1200202_text0" korean="Power is not a recluse in a village with a useful power in the fight against the immortal army. Rather, they will deserve the strongest protection. \u003cbr\u003e \u003cbr\u003e Immortal Legion fort and not in the local area has been painful to mention that they will not receive. Maybe they think it was some kind of a breakwater played a role in the defense against Immortal Legion fort?" />
+	<block key="dialog_1200202_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e that we Gryphon Knights of the plight of those moral \u003cfont color = \At this time, we will try to support the statement Knights of the town recluse sent through the articles and materials supplied are necessary to secure peace in the village of hermits." />
+	<block key="dialog_1200203_title" korean="Are you a recluse who is responsible for policing the town?" />
+	<block key="dialog_1200203_text0" korean="In the past, \u003cfont color = \No, he gave me in charge, rather than not act as advisor to the president of Retina bolken town. Rove has lost a daughter to a boil Ah, um ... You've thought a moment I almost useless to talk. \u003cbr\u003e Just gotta forget the story. After all, security is a town we'd never run a vigilante especially as you will see." />
+	<block key="dialog_1200203_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e Maybe people just do not seem like people grow old and ugly in here your LOOK. If you find any of these in the past, but that idea was gonna fail from falling. \u003cbr\u003e \u003cbr\u003e Gryphon Knights come and go I heard a story sent to wipe out the support for sending the article .. Apparently he did so bad that the children skills. He will have a great help in securing peace in the village." />
+	<block key="dialog_1200204_title" korean="He just looks like a costume eroding retired wizard." />
+	<block key="dialog_1200204_text0" korean="Haha! I're on a magical and away from others. In the past, I did just a sword and puffed away some sseundago Dawn Knight, now retired and living just a vain hope abandon old days here. \u003cbr\u003e \u003cbr\u003e The past, I was never so want a gorgeous sex life may be true. Is not this to know even know that? Now dir eopeuni the village as a place of mind to ease old and shabby hermits." />
+	<block key="dialog_1200204_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e outside it may look gorgeous euron where rotting gomeun therein Ine people here are also becoming better than sex, and not two. Side by side, is not there? Nerdy guy my children are still in the capital last name \u003cfont color = \Tin's what you do not know her someday come when you're here in dankkum map." />
+	<block key="dialog_1200205_title" korean="Formerly did, what do you do?" />
+	<block key="dialog_1200205_text0" korean="What's list? To settle in villages around the Ashram before I is not had a special job. Malyijyo Abou days. \u003cbr\u003e Know how annoying line? Malyijyo ago. Working from that're the rarely fit? \u003cbr\u003e \u003cbr\u003e Easy to enjoy life without having to hastily rush anything. That's what's real life I dream of. \u003cbr\u003e \u003cbr\u003e So, what you get hungry land l? Let me buy something to eat? \u003cbr\u003e .. Oh, there is not. That reminds me, I have money." />
+	<block key="dialog_1200206_title" korean="Fishing in the desert ... I think you mean heck out of place." />
+	<block key="dialog_1200206_text0" korean="Little do you know anything about fishing? Absolutely any idea what to ask .. \u003cbr\u003e true anglers do not know Me We're talking about how good or bad obscuring the fires. In addition, here is a waterfront es of contemplation. \u003cbr\u003e \u003cbr\u003e Fish Me Where are flooded only that. Look around. Small saw the turtle? That guy in meat tastes pretty good." />
+	<block key="dialog_1200207_title" korean="Why did you stop treasure hunters do?" />
+	<block key="dialog_1200207_text0" korean="Treasure Hunter Iranian Oh it makes sense. The only source of income is not just to find a treasure that require the biggest problem. \u003cbr\u003e \u003cbr\u003e, I was much of a trick to find the treasure. Dapsigo went away to find lost treasure expenses ate what I have larger hands. What beoryeotji released naturally." />
+	<block key="dialog_1200208_title" korean="Is this is why I do not look out the reconnaissance big deal .. clan?" />
+	<block key="dialog_1200208_text0" korean="The nondescript red sphere near the shores of the recent speculations have gotten the information that is found. Villagers of \u003cbr\u003e recluse ... that call it \u003cfont color = \. If I close here with a red sphere called Immortal Legion fort ... because you consider that the sun will be a deep connection with the immortal army." />
+	<block key="dialog_1200208_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e Probably Would not a part of any plan that is immortal legions hoekchaek? Horse am incantation of the experiment they plague in the shadow of death unknown, yet the way they make something journal." />
+	<block key="dialog_1200209_title" korean="Do you think my grandfather would're thinking?" />
+	<block key="dialog_1200209_text0" korean="My grandfather always sigh and rest only looking at the sea. I think you have something of great concern. \u003cbr\u003e \u003cbr\u003e But do not you ask me to be an answer at all. Before the old man I hope you smile brightly as it once was!" />
+	<block key="dialog_1200211_title" korean="Parents who are going to the village of hermits?" />
+	<block key="dialog_1200211_text0" korean="Both father and I went back into the arms of the goddess. When my grandfather says quite a baby, did the plague had reportedly turned to the village. Then mom and dad did everything you wanted to take the plague ... but I'm fine! \u003cbr\u003e \u003cbr\u003e Goddess tells me I called earlier to be done to help the celestial generous people! Mom and Dad are gonna clear the goddess gyesil side .. obviously doing well." />
+	<block key="dialog_1200212_title" korean="Something iteusinga story with you. Would not nothing I can do to help?" />
+	<block key="dialog_1200212_text0" korean="Where Can no one story? The paper carried the burden of their only these times ... I also \u003cfont color = \regrets for what we did, I'd smash my responsibility. I speculate here on the shores of Bunch does not like my idea." />
+	<block key="dialog_1200213_title" korean="Grandson minute all seemed very like his grandfather." />
+	<block key="dialog_1200213_text0" korean="Mel is a very bright Eine issues. But when I see a guy wont hurt your heart corners. \u003cbr\u003e \u003cbr\u003e This is my daughter's first words to pass that I sent away ... even if the child is an issue that will melt, but elsewhere the world. All my budeok small hit of." />
+	<block key="dialog_1200214_title" korean="Anything that comes to mind is really nothing?" />
+	<block key="dialog_1200214_text0" korean="Yeah, if you try to think of the day I will remember gateumyeonseo makes me feel something again blurring. \u003cbr\u003e .. Oh! I think it's a moment that comes to mind, but some familiar scenes in my head. I think the broken pieces. \u003cbr\u003e \u003cbr\u003e My clothes ... ... and my face painted portrait doll ... I remember these things. I lost \u003cfont color = \" />
+	<block key="dialog_1200215_title" korean="Hagien pieces are concerned, it is not safe here." />
+	<block key="dialog_1200215_text0" korean="Are dangerous, purportedly to know I heard familiar. But I just have to find only that .. sculpture is heard talking about that could only come on the sandy shore of the oblivion." />
+	<block key="dialog_1200216_title" korean="Do you have any particular piece you want to make?" />
+	<block key="dialog_1200216_text0" korean="In a famous master sculptors Claudel beyond that piece of sculpture created between ... I want to create such a piece. But his shadow is too big for me, I .. \u003cbr\u003e \u003cbr\u003e he respected sculptor, but he was without ... No, did not exist in his work. So I ha ... Was also bigot who ..." />
+	<block key="dialog_1200217_title" korean="How many are hidden treasures here?" />
+	<block key="dialog_1200217_text0" korean="Swim under the hot desert sand like a rough sea, and I know about the ancient monster saendeuwom who ruled the desert? Many who were once top trade across the desert to the surprise of the sacrifice I danghaetdago saendeuwom appear between dispel freely traveled back down the sand. \u003cbr\u003e \u003cbr\u003e\nSaendeuwom this report last few decades that haunts you mean flows, but now regarded as a legend about. But still, it's true that many people remember the horrors of saendeuwom." />
+	<block key="dialog_1200217_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e anyway importantly, received the surprise of saendeuwom \u003cfont color = \Where, where would you? Did \u003cbr\u003e this will not asleep somewhere under the earth intact long? If you are looking for the treasure. Heuheu." />
+	<block key="dialog_1200218_title" korean="Do you also lost something will Yard Already flee?" />
+	<block key="dialog_1200218_text0" korean="... I lost my music box music box. My son is a gift inde ... and where did you lose the music box." />
+	<block key="dialog_1200219_title" korean="Having a guard day to see here. The dress ..." />
+	<block key="dialog_1200219_text0" korean="It was once the sand is often used as street traders trade jinadeon. So things get attacked by robbers targeting those traders did occur frequently. \u003cbr\u003e \u003cbr\u003e Hired mercenaries to protect them ... I was one of those mercenaries. But when I last saw it before he died was a huge body of saendeuwom. Not the same as dealing with a thief \u003cfont color = \" />
+	<block key="dialog_1200220_title" korean="Do you remember before he died?" />
+	<block key="dialog_1200220_text0" korean="Remember before he died? And of course, do not! Are not clearly remember the day he killed. \u003cbr\u003e Veronica anji nor unfair if I died I died to saendeuwom saendeuwom under attack. \u003cbr\u003e \u003cbr\u003e Saendeuwom while there are haunted souls surprised rocks attacked deongdalahseo What did the wind suddenly screams from home. I say I'm lucky to nourish eoksege." />
+	<block key="dialog_1200221_title" korean="Were between Veronica and what is next?" />
+	<block key="dialog_1200221_text0" korean="Veronica was a mercenary mercenaries, who was among the top-class escort missions. The man turned to follow her fencing skills. \u003cbr\u003e \u003cbr\u003e But ancient youngmul called Colossus saendeuwom front fence? House smoked ... I should have killed even so much as she died .. \u003cbr\u003e Eight! Because I'm feelin 'very old dirty talk." />
+	<block key="dialog_1200222_title" korean="Are you looking for some treasure?" />
+	<block key="dialog_1200222_text0" korean="I find what I'm asking for treasure treasure hunter? To do this, one must answer, even low-level question? \u003cbr\u003e \u003cbr\u003e Expensive treasure! I'm not obvious? I'm not a lax treasure hunters like the Syrians. Treasure hunters will jaldo skills Aram ..." />
+	<block key="dialog_1200223_title" korean="This is what it looks like .. I .. do you know about the temple here?" />
+	<block key="dialog_1200223_text0" korean="Originally a stake ropja trade routes to sewotdago an altar dedicated to the purpose to prevent damage to the merchant as an offering to the center of trade in the saendeuwom surprise. But over time, the number of characters haunted saendeuwom people have forgotten to gradually decline sharply altar also became neglect. \u003cbr\u003e \u003cbr\u003e But since, Shaman Mana Croix Massachusetts Immortal Legion and desert Kuhn takes advantage of the abandoned altar in one laboratory figured to have made a huge monster. I want to know more about the monster that well known yet not too much information." />
+	<block key="dialog_1200224_title" korean="Disciples of Hasisi It just knows well about alchemy?" />
+	<block key="dialog_1200224_text0" korean="Master He does not bestow a secret at all times. Unfortunately, I can not I still ... not the time to learn the alchemy hasyeoseo be done now. I think if more effort Teacher sigetjyo changed." />
+	<block key="dialog_1200225_title" korean="Where all workers are required to build?" />
+	<block key="dialog_1200225_text0" korean="Haba yongbyeongdan all these abandoned fields accounted for all five naseoneun construction workers were scattered. Wonder if somewhere nap or sleeping by now ...? \u003cbr\u003e \u003cbr\u003e Damn. A proper job because of all Haba yongbyeongdan oh boy did not even say. If the material only ensure the workers would call again ... he'll also get the power we need to find rested enough, Oh, I do that?" />
+	<block key="dialog_1200226_title" korean="How about the situation of the Guard?" />
+	<block key="dialog_1200226_text0" korean="While all Haba yongbyeongdan start a massive attack we suffered a lot of damage. \u003cbr\u003e \u003cbr\u003e Dust wind field as the only horse gone Because I also have a gold mine they dominated transport. Thanks to the Guard is not always an emergency because everybody spirit." />
+	<block key="dialog_1200227_title" korean="I would like to know about the flight of the Challenger." />
+	<block key="dialog_1200227_text0" korean="Desert of pioneering and climb ore, a large team is represented by mining for natural resources have been deployed to the desert in goldmine time immortal, many adventurers joined the team. 2000000000004 The astronauts and a place where the responsibility for the dissemination of investigators also found that they were included hwipssain huge canyon with strong turbulence and fog dense sand." />
+	<block key="dialog_1200227_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e Since then utilizing regional characteristics have been sseuyige a place to train fellow flight. Many astronauts with the name of the Challenger flight altogether so as the years pass Oregon and came from far and wide to find. Now do the same with some kind of holy place protrusions rise to astronauts?" />
+	<block key="dialog_1200228_title" korean="Have you learned a spell on his own?" />
+	<block key="dialog_1200228_text0" korean="Magic? Not. My teacher has many magic books just everything I could. At first I tried to find the right teacher to learn the magic that was quite magical and geodeulmeok street machine or dir. \u003cbr\u003e \u003cbr\u003e [E] teach that damn thing useless servants who work or were treated hadeoran es. Since then, I read the books haetne practice magic spells." />
+	<block key="dialog_1200228_text0_attach_0" korean="Although a little sloppy because \u003cbr\u003e \u003cbr\u003e learned skills mentor, but without the wizard babble once tried to pretend teacher? It's about those guys'll not be able to make relevant day brought a wagon." />
+	<block key="dialog_1200229_title" korean="Do something happens in the desert?" />
+	<block key="dialog_1200229_text0" korean="In recent years, this seems to be spreading plague. Still together might like symptoms in people without revealing the lucky people won ... animals are a problem. \u003cbr\u003e \u003cbr\u003e Days work seeing the animals' bodies ended up steadily increased. Dear teachers also say about this plague, but ... maybe it is not that special remedies." />
+	<block key="dialog_1200230_title" korean="Do the residents of Golden Peaks are satisfied with the dishes are cooked blind?" />
+	<block key="dialog_1200230_text0" korean="My food cost? Keulkeul greater. If I'm me strength exerted all those golden peaks uproar. I made a great cook so my. \u003cbr\u003e \u003cbr\u003e No sixes see no one doubts my cooking skills. Can you even wonder if young people to taste the taste of my food?" />
+	<block key="dialog_1200231_title" korean="Golden Peaks Did you enjoy the cooking of dishes blind?" />
+	<block key="dialog_1200231_text0" korean="Cooking Chef John of the Golden Peaks? I'm saying that you cook? It's a violation of every chef. Blasphemy!\nI swear I'm sure even know Niagara grandmother yoja minutes of cooking. What happened \u003cbr\u003e \u003cbr\u003e fucking do that than to create dishes that level? It's a true culinary skills brown to golden peaks only feel sorry for the people you do not know what." />
+	<block key="dialog_1200232_title" korean="Does the training of Gryphon Knights of progress in any way?" />
+	<block key="dialog_1200232_text0" korean="Fencing, Griffon Aviation, basic tactics, pass surgery. Through various'm training to be a one whole article Gryphon birth. \u003cbr\u003e \u003cbr\u003e Strength training Can you say that's a member of the prestigious Griffon where the Knights did a little high, but also training lasted Lee Jung-do?" />
+	<block key="dialog_1200233_title" korean="I'm wondering gyogwannim the ability to view the articles in who you are." />
+	<block key="dialog_1200233_text0" korean="A knight of the most proficient ... From the Make somehow sent on a croissant temple \u003cfont color = \His ability to teach the guys jungen most stable and rich friend. What then is up to the potential \u003cbr\u003e \u003cbr\u003e Is Ben Liao much? If you tell the sympathetic and the ability of non-combat abilities far Griffon Leah Ben's knees." />
+	<block key="dialog_1200234_title" korean="Articles candidates often do they do?" />
+	<block key="dialog_1200234_text0" korean="Most of the articles cadets are responsible for the research dimension that are not related to combat. \u003cbr\u003e Me too I'm in charge of the mission to the Great King and longtime rival parties Ken Griffith investigation Sharkey bar of gold peaks. \u003cbr\u003e \u003cbr\u003e Example the physical condition of Sharkey bar to create a journal while constantly observing what happens ...?" />
+	<block key="dialog_1200235_title" korean="What's fiance should owe what words of comfort." />
+	<block key="dialog_1200235_text0" korean="My fiance was Brett Winn was a brave guards. \u003cbr\u003e Always did, without fear of danger is domatahseo. That should have always been an inspiration for daring guards. \u003cbr\u003e Past, \u003cfont color = \." />
+	<block key="dialog_1200235_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e now. He'll not only no longer sad, but my'm left. He will take responsibility for the safety of the town had ever made sure to keep my hands. Even dried seeds of yongbyeongdan says." />
+	<block key="dialog_1200236_title" korean="Susan" />
+	<block key="dialog_1200236_text0" korean="My husband's original village guards. Because of all the bad guys and now I'm in a dust Harbor yongbyeongdan wind field. \u003cbr\u003e Would please come back safe and sound ..." />
+	<block key="dialog_1200237_title" korean="Free Las" />
+	<block key="dialog_1200237_text0" korean="What are the deserts of immortality is first? \u003cbr\u003e I first exposed to the heat of the people here are usually impatient collapsed an hour, I know quite a sustaining ... Are you ever born here?" />
+	<block key="dialog_1200238_title" korean="If Ker" />
+	<block key="dialog_1200238_text0" korean="Now I'm becoming something great accent. Mm-hmm, hmm, hmm! Ah, ahh, ah ~~ How \u003cbr\u003e \u003cbr\u003e? Did you have to cross the desert of the immortal rhyme you feel?" />
+	<block key="dialog_1200239_title" korean="Do you" />
+	<block key="dialog_1200239_text0" korean="Huh, where lived the anchovy'll skin! I do not understand why my parents was actually in a place like this to have it ruined the settlement discard the skin of a pretty girl!" />
+	<block key="dialog_1200240_title" korean="Marco" />
+	<block key="dialog_1200240_text0" korean="That's waters may look a little, even senior citizens? \u003cbr\u003e Also had some waters and do so after dark. Skills screaming in the middle of the desert without a disease geotmeot unload only one person were to suduruk." />
+	<block key="dialog_1200241_title" korean="El-Partenkirchen" />
+	<block key="dialog_1200241_text0" korean="Gocek town where the spare was originally seen recently, travelers and adventurers, and none of the spirit in all Haba yongbyeongdan eopneyo installation through to them. \u003cbr\u003e Than the vigor overflows are free all great, but I hope jyeoteumyeon Harbor yongbyeongdan They just disappeared." />
+	<block key="dialog_1200242_title" korean="Torres" />
+	<block key="dialog_1200242_text0" korean="Oh hot, hot! It's not one or two days in the mountain village darn heat is not an adaptive zero. If you eat shaved ice cold one eopget I wish, jjeop!" />
+	<block key="dialog_1200243_title" korean="Dorothy" />
+	<block key="dialog_1200243_text0" korean="It 's not too hot deowodo get older. \u003cbr\u003e Me, salnal'll see how much is left. This guy just would not die, and as a wish ... do not be so, the inspiration?" />
+	<block key="dialog_1200244_title" korean="Martin" />
+	<block key="dialog_1200244_text0" korean="* Cough *, * cough! The Deans have to live what? If you happened to live by this. Old woman may feel as if you are the eyes It's the Year. It's blessings." />
+	<block key="dialog_1200245_title" korean="Mikel" />
+	<block key="dialog_1200245_text0" korean="Water from the castle you from? Wow, cities do not. I feel something. \u003cbr\u003e \u003cbr\u003e Have you seen the king's face? He said that some people said that you really handsome so handsome?" />
+	<block key="dialog_1200246_title" korean="Relax Rent" />
+	<block key="dialog_1200246_text0" korean="Obtain a timber in the desert thing is not easy. You know as much as you'll find, use wood used in construction is really needed here is perfect. Canas and it also is something that can be spread only certain times that of wood in the province." />
+	<block key="dialog_1200247_title" korean="Franck" />
+	<block key="dialog_1200247_text0" korean="Do you even say to me? \u003cbr\u003e Evidently been here long section inde yet unfamiliar shape. Do not bother me." />
+	<block key="dialog_1200248_title" korean="Wilson holding teulreo" />
+	<block key="dialog_1200248_text0" korean="Have Iwo Collector men? Oh, not? \u003cbr\u003e Perhaps five words when the collector side and working people. Oh you please tell me! Well, since I started the fellow to study already 10 years in the desert bwae jjaeyo!" />
+	<block key="dialog_1200249_title" korean="Jeanne" />
+	<block key="dialog_1200249_text0" korean="What's not so easy to live in the world. My husband caught her? Only to wander out and say not listen to punish the child Caesarea, Caesarea linen old parents, drag everything where I had none eopjyo. \u003cbr\u003e However, if these issues are not a boring life that I?" />
+	<block key="dialog_1200250_title" korean="Ragereu to" />
+	<block key="dialog_1200250_text0" korean="I'll leave it to believe haedeuril safely managed. \u003cbr\u003e It unless you're holding is the heavy horse collapsed in the middle of the desert." />
+	<block key="dialog_1200250_answer_0_text" korean="Using my warehouse" />
+	<block key="dialog_1200251_title" korean="Agen Tour" />
+	<block key="dialog_1200251_text0" korean="I'll give it to arrange for a good price if you want to sell this stuff. Palkka the end, do not worry once only Come See the goods." />
+	<block key="dialog_1200251_answer_0_text" korean="Using Sales Representative" />
+	<block key="dialog_1200252_title" korean="Imgu Board (Golden Peaks)" />
+	<block key="dialog_1200252_text0" korean="The bulletin is. Will this be followed during the corresponding penalties to undermine the board is under the control of unauthorized \u003cbr\u003e \u003cbr\u003e Gryphon Gryphon Knights Knight-Commander myself Hebrews" />
+	<block key="dialog_1200253_title" korean="Mission Board (Al Gocek town)" />
+	<block key="dialog_1200253_text0" korean="I hava yongbyeongdan looting of all the areas of the desert of immortality is happening frequently now he wants to external access should demand special attention. \u003cbr\u003e \u003cbr\u003e Know Gocek Guard" />
+	<block key="dialog_1200254_title" korean="Reho jewoo (Sokoban)" />
+	<block key="dialog_1200254_text0" korean="It's a long bunch attend all of them carrying a heavy burden on the hot desert. I'll leave it to believe haedeuril safe." />
+	<block key="dialog_1200254_answer_0_text" korean="Using my warehouse" />
+	<block key="dialog_1200255_title" korean="Cabrera (Beast Trainer)" />
+	<block key="dialog_1200255_text0" korean="Good to see you! I'm Beast Trainer Cabrera. Also not tame the beast. By any chance, do you know when tame the beast that are most important to the bottom of sympathy?" />
+	<block key="dialog_1200255_answer_0_text" korean="Fellow of the ground surrounding area" />
+	<block key="dialog_1200255_answer_1_text" korean="Flight Fellow of the surrounding area" />
+	<block key="dialog_1200256_title" korean="OTA mode (combination of seed abundance)" />
+	<block key="dialog_1200256_text0" korean="We will bring the best food you've never ever had. If you walk around the vast desert I will not put a lot of delicious food to eat?" />
+	<block key="dialog_1200256_answer_0_text" korean="Is it a combination of seed abundance is any organization?" />
+	<block key="dialog_1200256_answer_1_text" korean="Have you created a combination of seed abundance is Who?" />
+	<block key="dialog_1200257_title" korean="Robin (The Beast Trainer)" />
+	<block key="dialog_1200257_text0" korean="Beast's strong genus may look fragile animals. Domesticated beast will not be a good companion for life. It's my only friend in this lonely place ..." />
+	<block key="dialog_1200257_answer_0_text" korean="Fellow of the ground surrounding area" />
+	<block key="dialog_1200258_title" korean="Ein Dor (sales agent broker)" />
+	<block key="dialog_1200258_text0" korean="If you find the owner'd Give me the good stuff. I'll come and see'll link at a great price! Do you often go twice, gonna come?" />
+	<block key="dialog_1200258_answer_0_text" korean="Using Sales Representative" />
+	<block key="dialog_1200259_title" korean="Jan Kana (Gryphon Knights of Staff)" />
+	<block key="dialog_1200259_text0" korean="Have you come? I know where I came up with a great capacity article. We need your help. \u003cbr\u003e \u003cbr\u003e This place is both sensitive to frequent combat situations. We need a strong punitive toward them. Formidable only angetji, when we're not working with a big problem." />
+	<block key="dialog_1200260_title" korean="Portsmouth Citadel (Race Research)" />
+	<block key="dialog_1200260_text0" korean="What seems indeed interesting to study the animals live in the heat. Animals did not see anywhere in the desolate desert would look one by one, would be more than happy?" />
+	<block key="dialog_1200261_title" korean="With or (Gryphon articles section)" />
+	<block key="dialog_1200261_text0" korean="Griffon boasts elegant golden feathers, does not so beautiful? But the way this beautiful Gryphon they are not easy thing." />
+	<block key="dialog_1200262_title" korean="Maiden (Gryphon articles section)" />
+	<block key="dialog_1200262_text0" korean="As numerous articles section, but frequent battles are exhausted, we will never back down. This article does not give only truly golden griffon articles section Would not this?" />
+	<block key="dialog_1200263_title" korean="Sanderson (Golden Peaks elders)" />
+	<block key="dialog_1200263_text0" korean="Is someone from out of town. Nice to ambitious young man looked a long time. \u003cbr\u003e \u003cbr\u003e Oh, I once was a healthy young man did sweat a time, even the heat of the desert." />
+	<block key="dialog_1200264_title" korean="Christian (Golden Peaks elders)" />
+	<block key="dialog_1200264_text0" korean="Desert was originally from this area is not have asked ... I do not like old men can not live anymore." />
+	<block key="dialog_1200265_title" korean="Logan (Scout)" />
+	<block key="dialog_1200265_text0" korean="Scout Logan desert. This is more than I think it's a dangerous area. May seem at peace all times'd take my eyes off them can not. \u003cbr\u003e \u003cbr\u003e you need to go back! You may become liable danger." />
+	<block key="dialog_1200266_title" korean="Rosie (reclusive wizard)" />
+	<block key="dialog_1200266_text0" korean="I used to be recognized yeotji wizard. I came here just want to rest. It's not an absolute lack of ability to itneunge this place." />
+	<block key="dialog_1200267_title" korean="Denil (retired generals carried the bottle)" />
+	<block key="dialog_1200267_text0" korean="Our General Canas and I was minutes from the most respected. Had gotten this far along the general will, is really worried about this you can contact the immortal army general." />
+	<block key="dialog_1200268_title" korean="Dione (reclusive wizard)" />
+	<block key="dialog_1200268_text0" korean="Although the light was lost as a wizard, I think this place is the best place to improve my skills. The'd much happy now than in the past was famous wizard school?" />
+	<block key="dialog_1200269_title" korean="Naza Rune (Black Kuhn blacksmith)" />
+	<block key="dialog_1200269_text0" korean="Have you heard of Croix Kuhn family? By far not the best race boasts Blacksmithing. \u003cbr\u003e \u003cbr\u003e For the rehabilitation of the helix Croix servicing equipment Kuhn Expedition Race in the desert where haejugo party, came to the village of hermits." />
+	<block key="dialog_1200270_title" korean="Blanco (Beast Trainer)" />
+	<block key="dialog_1200270_text0" korean="Oh, I'm scared. Well tamed wild animals are not considered to be hazardous. Seriously approaching predator mask certainly going to open my heart to you." />
+	<block key="dialog_1200270_answer_0_text" korean="Fellow of the ground surrounding area" />
+	<block key="dialog_1200270_answer_1_text" korean="Flight Fellow of the surrounding area" />
+	<block key="dialog_1200271_title" korean="Graham (Beast Trainer)" />
+	<block key="dialog_1200271_text0" korean="John called La Oasis crocodile strongest beasts of the oasis. Please try but do not be intimidated. Oh, sleep state one thing is important to share tips hadapnida sympathetic when a fellow tame." />
+	<block key="dialog_1200271_answer_0_text" korean="Fellow of the ground surrounding area" />
+	<block key="dialog_1200272_title" korean="Oh brass (gold mining transport miners)" />
+	<block key="dialog_1200272_text0" korean="Did not you ever seen a cat goes away, biting one gleaming treasure? Oh, I saw clearly running away towards the oasis ... you, please contact me by all means look at the feral cats in the neighborhood." />
+	<block key="dialog_1200273_title" korean="Kendrick" />
+	<block key="dialog_1200273_text0" korean="Oasis is an area that should be guaranteed only the freshest and safe place to get supplies of drinking water in the desert. \u003cbr\u003e Boil look around. This Gocek to ensure the security guards know is struggling, but the enemies are too many of them around." />
+	<block key="dialog_1200274_title" korean="Card Power (Rangers)" />
+	<block key="dialog_1200274_text0" korean="Oh, where's coming minutes? Outsiders should not mess comes ..." />
+	<block key="dialog_1200275_title" korean="Ahjeura (Gryphon support for article)" />
+	<block key="dialog_1200275_text0" korean="It was hard indeed to come here but, from now on I'm starting. \u003cbr\u003e Gryphon I'll be back just hit the Corps to defeat the immortal honor of the knights!" />
+	<block key="dialog_1200276_title" korean="Chopping Rev (Survivor)" />
+	<block key="dialog_1200276_text0" korean="Everything was this instant. Eopeotjyo around when I noticed no one spirit. Villagers also, if you think your family is ... still-at the time a trembling hand shakes." />
+	<block key="dialog_1200277_title" korean="Liao Ben (Temple dispatched camp)" />
+	<block key="dialog_1200277_text0" korean="Battle the enemy's nose inde ... I'm disqualify a losing throw attend Golden Gryphon Gryphon Knights. Doesimyeon aware of this fact myself Hi Dear, how is she standing disappointed ..." />
+	<block key="dialog_1200278_title" korean="I would like to hear the story of his childhood, Princess Rania." />
+	<block key="dialog_1200278_text0" korean="Yeah, right, Princess Rania is your child very walgadak yisyeotda done a lot of flying. \u003cbr\u003e Days I had a childhood, Princess Rania had a thriving kingdom knight who had been inside escape out actively to sneak aboard his fellow balkak flipped. \u003cbr\u003e I, too, to find the princess and then Canas also had been behind the castle sweeping four." />
+	<block key="dialog_1200278_text0_attach_0" korean="Haeteotji eventually found one sleeping princess in the kingdom Silva AB. \u003cbr\u003e \u003cbr\u003e '. Yeah, very cute minutes se ... Yes, all who were wise and brave minute \u003cbr\u003e attend revealed that the princess is going through this torment ... bachyeoseo'll be sure she saved my life, even the gongnim!" />
+	<block key="dialog_1200279_title" korean="I've heard you've mastered participate in the immortal army fort design." />
+	<block key="dialog_1200279_text0" korean="Yes, yes ... even if Oregon had threatened them immortal army, should not be doing, and frustrated ... \u003cbr\u003e Immortal Legion fort is gonna be the most difficult fortress to fall in the middle of Las continent in existence. Enemies will not be not easy to penetrate the powerful enchantment alahdo the presence of the entire fort fortress. \u003cbr\u003e \u003cbr\u003e Barely'll never allow the internal chip particles, such as entry into the maze even easier. What a place like cheolongseong. \u003cbr\u003e If you do not have a schematic that I probably interpreted malgetji quickly lost its way." />
+	<block key="dialog_1200280_title" korean="Have you ever turned on the Golden Princess Rania peaks?" />
+	<block key="dialog_1200280_text0" korean="You've never seen you in the past refused to Rania princess with golden peaks. Our exclusive, but residents of the Golden Gryphon Knights of the external forces, the princess was as much an exception. \u003cbr\u003e \u003cbr\u003e Everyone had praised her as the goddess incarnation of Ellora. If you think that such a princess trapped in a den of demons that I do not mind bad. \u003cbr\u003e Please let origins princess to come back safe and sound." />
+	<block key="dialog_1200281_title" korean="Mer Are Chi watched some minutes?" />
+	<block key="dialog_1200281_text0" korean="Mer's value is really great bunjyo. Would not be an exaggeration to say that the greatest prophet in existence. Chi-Mer's prophecy I've never ever wrong! But ... For once I hope'm wrong. \u003cbr\u003e \u003cbr\u003e And Canas sex flames pouring. I hope that you do not happen terrible value. \u003cbr\u003e You can go out of the way Chi-Mer's fate spoken I heard that the person in prophecy. If you think \u003cbr\u003e \u003cbr\u003e Kingdom of destiny depends on you should not think you'll never be a prophetic light!" />
+	<block key="dialog_1200282_title" korean="Have you seen the Princess Rania?" />
+	<block key="dialog_1200282_text0" korean="Princess Rania ... just met but once, he really is too beautiful minutes. \u003cbr\u003e Not Ellora Ellora Goddess Goddess called true He's not gonna be so beautiful ... \u003cbr\u003e \u003cbr\u003e blurred ... Hmm, I truly useless haetgunyo the story. \u003cbr\u003e yongbyeongdan the harbor all day attacked the town, but even if they're chasing all the way nd save the princess! Really!" />
+	<block key="dialog_1200283_title" korean="La Beanie vanilla (ancient temples)" />
+	<block key="dialog_1200283_text0" korean="Nyan traveler? We are top crescent dispatched to each region itdang supply the goods needed by travelers. \u003cbr\u003e I want to deal with me \u003cbr\u003e \u003cbr\u003e. Per common things that do not deal with special needs hadang coins. \u003cbr\u003e That If you encounter a ditch coins come at any day! \u003cbr\u003e good things and exchange it getdang!" />
+	<block key="dialog_1200283_answer_0_text" korean="La Beanie shop" />
+	<block key="dialog_1200284_title" korean="La Beanie vanilla (Immortal Legion fort)" />
+	<block key="dialog_1200284_text0" korean="Nyan traveler? We are top crescent dispatched to each region itdang supply the goods needed by travelers. \u003cbr\u003e I want to deal with me \u003cbr\u003e \u003cbr\u003e. Per common things that do not deal with special needs hadang coins. \u003cbr\u003e That If you encounter a ditch coins come at any day! \u003cbr\u003e good things and exchange it getdang!" />
+	<block key="dialog_1200284_answer_0_text" korean="La Beanie shop" />
+	<block key="dialog_1200285_title" korean="Marc Barr" />
+	<block key="dialog_1200285_text0" korean="It's not just that the food in the desert only thing you need to create a desert dish! \u003cbr\u003e Material but it's not big deal to just do a popular dish in the capital province if. If he only material." />
+	<block key="dialog_1200285_answer_0_text" korean="Food shops" />
+	<block key="dialog_1200286_title" korean="Yanul" />
+	<block key="dialog_1200286_text0" korean="A member of yanul of the collector. Still working eotneunde legend passed down only information about the coming Fellow inadvertently gave my feet tied doebeo here. \u003cbr\u003e \u003cbr\u003e Got to be useful herbs for use in an emergency obscured by the surrounding ambient evident all over the breath of saendeuwom minutes before and after forget to log your ..." />
+	<block key="dialog_1200286_answer_1_text" korean="The collector is what organizations?" />
+	<block key="dialog_1200286_answer_2_text" korean="I'd like to know a fellow master Vine der." />
+	<block key="dialog_1200287_title" korean="Blanco ground Fellow" />
+	<block key="dialog_1200287_text0" korean="General ground Fellow] \u003cbr\u003e desert leopard \u003cbr\u003e \u003cbr\u003e [elite ground Fellow] \u003cbr\u003e chimseu" />
+	<block key="dialog_1200288_title" korean="Blanco public Fellow" />
+	<block key="dialog_1200288_text0" korean="[General Public Fellows] \u003cbr\u003e bald eagle 180m \u003cbr\u003e piyo 100m \u003cbr\u003e \u003cbr\u003e [elite public Fellow] \u003cbr\u003e clever Toro 170m" />
+	<block key="dialog_1200289_title" korean="Ground Graham Fellows" />
+	<block key="dialog_1200289_text0" korean="General ground Fellow] \u003cbr\u003e desert oasis Buffalo \u003cbr\u003e crocodile \u003cbr\u003e desert scorpion stings boar \u003cbr\u003e \u003cbr\u003e \u003cbr\u003e [elite ground Fellow] \u003cbr\u003e chyeopi" />
+	<block key="dialog_1200290_title" korean="Cabrera ground Fellow" />
+	<block key="dialog_1200290_text0" korean="General ground Fellow] \u003cbr\u003e denba \u003cbr\u003e desert spider \u003cbr\u003e Ali Bar \u003cbr\u003e desert tortoise in the sand \u003cbr\u003e \u003cbr\u003e [elite ground Fellow] \u003cbr\u003e Tree Tea \u003cbr\u003e bar jyanin \u003cbr\u003e Videos of Wisdom" />
+	<block key="dialog_1200291_title" korean="Cabrera public Fellow" />
+	<block key="dialog_1200291_text0" korean="[General Public Fellows] \u003cbr\u003e mutations Griffon 280m \u003cbr\u003e \u003cbr\u003e [elite public Fellow] \u003cbr\u003e Griffon 440m 290m \u003cbr\u003e golden Kiva Rennes" />
+	<block key="dialog_1200292_title" korean="Ground Robin Fellows" />
+	<block key="dialog_1200292_text0" korean="General ground Fellow] \u003cbr\u003e saltwater crocodile \u003cbr\u003e Valley cannibal spider who \u003cbr\u003e the Kruger \u003cbr\u003e Raku \u003cbr\u003e Corban \u003cbr\u003e cursed cursed cursed Trail de Leon \u003cbr\u003e half \u003cbr\u003e \u003cbr \u003e Elite ground Fellow] \u003cbr\u003e rot unless the ash \u003cbr\u003e Adela large doses Raku \u003cbr\u003e" />
+	<block key="dialog_1200293_title" korean="How to enter the fortress entrance to the interior where?" />
+	<block key="dialog_1200293_text0" korean="I'll be easy to find the entrance to enter the fortress to the inside and I'll have a brief description. \u003cbr\u003e \u003cbr\u003e [UserName] The Immortal Legion's'll see you off to the right leg enchantment that is connected to the inner fortress. \u003cBr \u003e After passing the bridge through the expense of the immortal army entered the dry zone, climb straight ahead along the hill overlooking the right." />
+	<block key="dialog_1200293_text0_attach_0" korean="We will see the castle entrance Along the hill. If you reach the entrance to the entry into \u003cbr\u003e \u003cbr\u003e go down to the basement by the stairs. Rent will be waiting for you at the bar there." />
+	<block key="dialog_1200294_title" korean="Sherry (seed combination of abundance)" />
+	<block key="dialog_1200294_text0" korean="To make the dish's always fresh ingredients are essential. \u003cbr\u003e Cuisine is developed as a starting point, especially in the desert kingdom and Canas mandeuldeon'll need to cook with the other ingredients." />
+	<block key="dialog_1200294_text0_attach_0" korean="\u003cbr\u003e \u003cbr\u003e's just water. The use of an oasis to fill the water shortage in harsh environments because of water as the main ingredients of the cuisine and traditions, and it's long have you soon. \u003cbr\u003e \u003cbr\u003e To work in the desert I bet I'd find an oasis of tears often rewarded?" />
+	<block key="dialog_1200294_answer_2_text" korean="Is it a combination of seed abundance is any organization?" />
+	<block key="dialog_1200294_answer_3_text" korean="Have you created a combination of seed abundance is Who?" />
+</blocks>

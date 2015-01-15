@@ -1,0 +1,48 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="HM_Hair_000_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_001_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_002_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_003_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_004_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_005_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_006_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_007_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_008_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_009_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_010_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_011_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_012_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_013_Name" korean="xÇ¬ " />
+	<block key="HM_Hair_014_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_000_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_001_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_002_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_003_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_004_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_005_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_006_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_007_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_008_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_009_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_010_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_011_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_012_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_013_Name" korean="xÇ¬ " />
+	<block key="HW_Hair_014_Name" korean="xÇ¬ " />
+	<block key="CM_Hair_000_Name" korean="lÐ\¸äÏ " />
+	<block key="CM_Hair_001_Name" korean="lÐ\¸äÏ " />
+	<block key="CM_Hair_002_Name" korean="lÐ\¸äÏ " />
+	<block key="CW_Hair_000_Name" korean="lÐ\¸äÏ " />
+	<block key="CW_Hair_001_Name" korean="lÐ\¸äÏ " />
+	<block key="CW_Hair_002_Name" korean="lÐ\¸äÏ " />
+	<block key="SW_Hair_000_Name" korean="äÀÁ¹ " />
+	<block key="SW_Hair_001_Name" korean="äÀÁ¹ " />
+	<block key="SW_Hair_002_Name" korean="äÀÁ¹ " />
+</blocks>
